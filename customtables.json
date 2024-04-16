@@ -1,0 +1,162 @@
+{
+    "name": "CustomTables",
+    "slug": "customtables",
+    "version": "1.2.1",
+    "author": "Ivan Komlev",
+    "author_profile": "https:\/\/profiles.wordpress.org\/ivankomlev\/",
+    "contributors": {
+        "ivankomlev": {
+            "profile": "https:\/\/profiles.wordpress.org\/ivankomlev\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/eec466ea7122d125c8caa5a0614c7358?s=96&d=monsterid&r=g",
+            "display_name": "Ivan Komlev"
+        }
+    },
+    "requires": "6.0",
+    "tested": "6.5.0",
+    "requires_php": "8.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/customtables\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 232,
+    "last_updated": "2024-04-07 4:48pm GMT",
+    "added": "2024-03-06",
+    "homepage": "https:\/\/ct4.us\/",
+    "sections": {
+        "description": "<p><strong>Custom Tables<\/strong> is a powerful plugin that allows you to add <strong>custom database tables<\/strong>, <strong>fields<\/strong>, and <strong>layouts<\/strong> to both <strong>Joomla<\/strong> and <strong>WordPress<\/strong>. Its versatility makes it suitable for a wide range of applications, including <strong>catalogs<\/strong>, <strong>edit forms<\/strong>, <strong>detail pages<\/strong>, and more.<\/p>\n<p>One of the standout features of Custom Tables is its support for the modern <strong>Twig template language<\/strong>, providing a flexible and user-friendly way to create <strong>dynamic layouts<\/strong>.<\/p>\n<p>With 10 <strong>field types<\/strong> to choose from, including <strong>Integer<\/strong>, <strong>Decimal<\/strong>, <strong>Text String<\/strong>, <strong>Date<\/strong>, <strong>Email<\/strong>, <strong>Color<\/strong>,<br \/>\nyou can create complex <strong>data structures<\/strong> tailored to your specific needs.<br \/>\nThe <strong>edit form input boxes<\/strong> dynamically adapt to the selected field type, ensuring a seamless user experience.<br \/>\nFor example, the <strong>Date field type<\/strong> will display a <strong>calendar<\/strong>, and the <strong>Color field type<\/strong> will offer a <strong>color picker<\/strong>.<\/p>\n<p>The <strong>Layout Editor<\/strong> with Twig language simplifies the process of creating new layouts by offering an <strong>Auto-Create<\/strong> button that generates a layout based on the list of fields in your table.<\/p>\n<p>All tables are stored in <strong>MySQL<\/strong>, with <strong>queries<\/strong> and <strong>field values<\/strong> being properly <strong>sanitized<\/strong> to prevent potential <strong>vulnerabilities<\/strong> for added <strong>security<\/strong>.<\/p>\n<p>With its rich <strong>feature set<\/strong> and <strong>cross-platform compatibility<\/strong>, Custom Tables is an indispensable tool for <strong>developers<\/strong> and <strong>website administrators<\/strong> seeking to extend the functionality of their Joomla or WordPress sites with <strong>custom data structures<\/strong> and <strong>dynamic layouts<\/strong>.<\/p>\n<h4>Introduction<\/h4>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/Dq3jbk9JaJY?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n<h4>More information<\/h4>\n<p>Visit <a href=\"https:\/\/ct4.us\/\" rel=\"nofollow ugc\">ct4.us<\/a> for more information, take a look at <a href=\"https:\/\/github.com\/joomlaboat\/custom-tables\/wiki\" rel=\"nofollow ugc\">wiki<\/a>.<\/p>\n",
+        "faq": "\n<dt id='do%20you%20have%20any%20questions%3F'>\nDo you have any questions?\n<\/h4>\n<p>\n<p><a href=\"https:\/\/ct4.us\/contact-us\/\" rel=\"nofollow ugc\">Please contact us here with your query.<\/a><\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.2.1<\/h4>\n<p>Date method bugs fixed.<\/p>\n<h4>1.2.0<\/h4>\n<p>Layout Auto Created added.<\/p>\n<h4>1.1.9<\/h4>\n<p>CT Library Updated and main plugin file renamed &#8211; activation bug fixed.<\/p>\n<h4>1.1.8<\/h4>\n<p>Date Time Field type option added. DatePicker replaced with DateTimePicker.<\/p>\n<h4>1.1.7<\/h4>\n<p>Twig Lib updated, CT Lib updated.<\/p>\n<p>Date Field type added.<\/p>\n<p>CSS style class file loads properly. Field type property null check added.<\/p>\n<h4>1.1.6<\/h4>\n<p>{{ html.captcha() }} Twig Tag has been added.<\/p>\n<h4>1.1.5<\/h4>\n<p>First public WordPress plugin release.<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/customtables\/assets\/screenshot-1.png?rev=3048314\"><img src=\"https:\/\/ps.w.org\/customtables\/assets\/screenshot-1.png?rev=3048314\" alt=\"&quot;Create Table&quot; screen\"><\/a><p>\"Create Table\" screen<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/customtables\/assets\/screenshot-2.png?rev=3048314\"><img src=\"https:\/\/ps.w.org\/customtables\/assets\/screenshot-2.png?rev=3048314\" alt=\"&quot;Add Fields&quot; screen\"><\/a><p>\"Add Fields\" screen<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/customtables\/assets\/screenshot-3.png?rev=3048314\"><img src=\"https:\/\/ps.w.org\/customtables\/assets\/screenshot-3.png?rev=3048314\" alt=\"&quot;Add Custom Tables Block&quot; screen\"><\/a><p>\"Add Custom Tables Block\" screen<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/customtables\/assets\/screenshot-4.png?rev=3048314\"><img src=\"https:\/\/ps.w.org\/customtables\/assets\/screenshot-4.png?rev=3048314\" alt=\"&quot;Select Layout Type and Table&quot; screen\"><\/a><p>\"Select Layout Type and Table\" screen<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great custom tables plugin!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mardesur\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/55fe445e89c89620c8aaf4855c0dca29?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/55fe445e89c89620c8aaf4855c0dca29?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mardesur\/\" class=\"reviewer-name\">mardesur<\/a> on <span class=\"review-date\">March 30, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Excellent for Custom Data CRUD<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Easily displayed custom data reports on my WordPress site quickly.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Very organized component, built reports without relying too much on docs.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Awesome GitHub support, easy to report issues.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Well-documented with clear instructions covering everything.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Used it to display reports of custom data views on my website. Keep up the great work!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Overall, an impressive WordPress plugin for effortlessly creating and managing custom data displays\/reports.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "The Custom Tables plugin allows you to create custom database tables, manage them, and display custom catalogs, forms, and tables using Twig templatin &hellip;",
+    "description": "<p><strong>Custom Tables<\/strong> is a powerful plugin that allows you to add <strong>custom database tables<\/strong>, <strong>fields<\/strong>, and <strong>layouts<\/strong> to both <strong>Joomla<\/strong> and <strong>WordPress<\/strong>. Its versatility makes it suitable for a wide range of applications, including <strong>catalogs<\/strong>, <strong>edit forms<\/strong>, <strong>detail pages<\/strong>, and more.<\/p>\n<p>One of the standout features of Custom Tables is its support for the modern <strong>Twig template language<\/strong>, providing a flexible and user-friendly way to create <strong>dynamic layouts<\/strong>.<\/p>\n<p>With 10 <strong>field types<\/strong> to choose from, including <strong>Integer<\/strong>, <strong>Decimal<\/strong>, <strong>Text String<\/strong>, <strong>Date<\/strong>, <strong>Email<\/strong>, <strong>Color<\/strong>,<br \/>\nyou can create complex <strong>data structures<\/strong> tailored to your specific needs.<br \/>\nThe <strong>edit form input boxes<\/strong> dynamically adapt to the selected field type, ensuring a seamless user experience.<br \/>\nFor example, the <strong>Date field type<\/strong> will display a <strong>calendar<\/strong>, and the <strong>Color field type<\/strong> will offer a <strong>color picker<\/strong>.<\/p>\n<p>The <strong>Layout Editor<\/strong> with Twig language simplifies the process of creating new layouts by offering an <strong>Auto-Create<\/strong> button that generates a layout based on the list of fields in your table.<\/p>\n<p>All tables are stored in <strong>MySQL<\/strong>, with <strong>queries<\/strong> and <strong>field values<\/strong> being properly <strong>sanitized<\/strong> to prevent potential <strong>vulnerabilities<\/strong> for added <strong>security<\/strong>.<\/p>\n<p>With its rich <strong>feature set<\/strong> and <strong>cross-platform compatibility<\/strong>, Custom Tables is an indispensable tool for <strong>developers<\/strong> and <strong>website administrators<\/strong> seeking to extend the functionality of their Joomla or WordPress sites with <strong>custom data structures<\/strong> and <strong>dynamic layouts<\/strong>.<\/p>\n<h4>Introduction<\/h4>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/Dq3jbk9JaJY?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n<h4>More information<\/h4>\n<p>Visit <a href=\"https:\/\/ct4.us\/\" rel=\"nofollow ugc\">ct4.us<\/a> for more information, take a look at <a href=\"https:\/\/github.com\/joomlaboat\/custom-tables\/wiki\" rel=\"nofollow ugc\">wiki<\/a>.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/customtables.1.2.1.zip",
+    "upgrade_notice": {
+        "1.1.5": "<ul>\n<li>First public WordPress plugin release.<\/li>\n<\/ul>",
+        "1.1.9": "<p>Main plugin file renamed - activation bug fixed.<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/customtables\/assets\/screenshot-1.png?rev=3048314",
+            "caption": "\"Create Table\" screen"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/customtables\/assets\/screenshot-2.png?rev=3048314",
+            "caption": "\"Add Fields\" screen"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/customtables\/assets\/screenshot-3.png?rev=3048314",
+            "caption": "\"Add Custom Tables Block\" screen"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/customtables\/assets\/screenshot-4.png?rev=3048314",
+            "caption": "\"Select Layout Type and Table\" screen"
+        }
+    },
+    "tags": {
+        "catalog": "catalog",
+        "custom-database-tables": "custom database tables",
+        "custom-tables": "custom tables",
+        "database": "database",
+        "forms": "forms"
+    },
+    "stable_tag": "1.2.1",
+    "versions": {
+        "1.1.5": "https:\/\/downloads.wordpress.org\/plugin\/customtables.1.1.5.zip",
+        "1.1.6": "https:\/\/downloads.wordpress.org\/plugin\/customtables.1.1.6.zip",
+        "1.1.7": "https:\/\/downloads.wordpress.org\/plugin\/customtables.1.1.7.zip",
+        "1.1.8": "https:\/\/downloads.wordpress.org\/plugin\/customtables.1.1.8.zip",
+        "1.1.9": "https:\/\/downloads.wordpress.org\/plugin\/customtables.1.1.9.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/customtables.1.2.0.zip",
+        "1.2.1": "https:\/\/downloads.wordpress.org\/plugin\/customtables.1.2.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/customtables.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/ct4.us\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/customtables\/assets\/banner-772x250.png?rev=3048325",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/customtables\/assets\/icon-128x128.gif?rev=3065657"
+    },
+    "blocks": {
+        "customtables\/dynamic-block": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 2,
+            "name": "customtables\/dynamic-block",
+            "version": "1.0.0",
+            "title": "CustomTables Block",
+            "category": "text",
+            "icon": "editor-table",
+            "attributes": {
+                "type": {
+                    "type": "string",
+                    "default": 1
+                },
+                "table": {
+                    "type": "string",
+                    "default": 0
+                },
+                "cataloglayout": {
+                    "type": "string",
+                    "default": 0
+                },
+                "editlayout": {
+                    "type": "string",
+                    "default": 0
+                },
+                "detailslayout": {
+                    "type": "string",
+                    "default": 0
+                },
+                "filter": {
+                    "type": "string",
+                    "default": ""
+                },
+                "orderby": {
+                    "type": "string",
+                    "default": ""
+                },
+                "order": {
+                    "type": "string",
+                    "default": ""
+                },
+                "loading": {
+                    "type": "integer",
+                    "default": 0
+                }
+            },
+            "example": {
+                "attributes": {}
+            },
+            "supports": {
+                "html": false
+            },
+            "textdomain": "customtables",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

@@ -1,0 +1,120 @@
+{
+    "name": "Send Order Notifications for WooCommerce",
+    "slug": "360notify",
+    "version": "3.5.1",
+    "author": "<a href=\"https:\/\/360Messenger.com\">360messenger<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/360messenger\/",
+    "contributors": {
+        "360messenger": {
+            "profile": "https:\/\/profiles.wordpress.org\/360messenger\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/15e0ea462c4401f4f72ecac44e3d748c?s=96&d=monsterid&r=g",
+            "display_name": "360messenger"
+        }
+    },
+    "requires": "5.8",
+    "tested": "6.4.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 2,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 2,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/360notify\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 300,
+    "downloaded": 3185,
+    "last_updated": "2024-02-07 10:55am GMT",
+    "added": "2023-04-30",
+    "homepage": "https:\/\/360messenger.com",
+    "sections": {
+        "description": "<p>A practical plugin that enables you to easily and automatically notify administrators, clients, and vendors via WhatsApp.<\/p>\n<p>Transform your business with WhatsApp Business platform<br \/>\nWhatsApp platform with more than 2 billion users around the world.<\/p>\n<p>Features:<br \/>\n* Notification to customer and admin and product manager (vendors) in case of registration and change of order status<br \/>\n* Notification settings in different order statuses (completed, pending, etc.)<br \/>\n* The ability to change the text and personalize each message for the manager, customer and seller for each order status<br \/>\n* and other professional features<\/p>\n<p>3rd Party or external service:<br \/>\nThis plugin must use a third-party service to send all WhatsApp messages. Therefore, 360Messenger and WaMessenger services are used to send messages.<br \/>\nLinks used in the plugin to send messages:<br \/>\nhttps:\/\/api.360messenger.net\/sendMessage<br \/>\nhttps:\/\/api.wamessenger.net\/sendMessage<br \/>\nRefer to the api documentation:<br \/>\nhttps:\/\/360messenger.net\/api<br \/>\nRefer to the service terms of use:<br \/>\nhttps:\/\/360messenger.net\/terms-and-conditions<br \/>\nhttps:\/\/360messenger.net\/privacy-policy<br \/>\nRefer to main site:<br \/>\nhttps:\/\/360messenger.net<br \/>\nhttps:\/\/wamessenger.net<\/p>\n",
+        "faq": "\n<dt id='how%20do%20i%20start%3F'>\nhow do i start?\n<\/h4>\n<p>\n<ol>\n<li>Register on https:\/\/360messenger.com\/<\/li>\n<li>Choose a plan<\/li>\n<li>Connect your WhatsApp<\/li>\n<li>Insert the APIKEY into the plugin<\/li>\n<li>Customize plugin settings<\/li>\n<\/ol>\n<\/p>\n\n",
+        "changelog": "<h4>3.5.1<\/h4>\n<ul>\n<li>Add country code for internal number.<\/li>\n<li>Fixed date format bug.<\/li>\n<li>Fixed some minor bugs.<\/li>\n<\/ul>\n<h4>3.0.0<\/h4>\n<ul>\n<li>Compatible with HPOS.<\/li>\n<li>Compatibility with php 8.1.<\/li>\n<li>Fixed minor errors.<\/li>\n<\/ul>\n<h4>2.7.0<\/h4>\n<ul>\n<li>Standardization of codes.<\/li>\n<\/ul>\n<h4>1.3.1<\/h4>\n<ul>\n<li>Fixed phone number validation problem.<\/li>\n<\/ul>\n<h4>1.3.0<\/h4>\n<ul>\n<li>Fixed minor errors.<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Initial release.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/360notify\/assets\/screenshot-1.png?rev=2906290\"><img src=\"https:\/\/ps.w.org\/360notify\/assets\/screenshot-1.png?rev=2906290\" alt=\"Screen shot 1\"><\/a><p>Screen shot 1<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/360notify\/assets\/screenshot-2.png?rev=2906290\"><img src=\"https:\/\/ps.w.org\/360notify\/assets\/screenshot-2.png?rev=2906290\" alt=\"Screen shot 2\"><\/a><p>Screen shot 2<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excellent<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/rathorerekha\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/4851e14247135ed9d36fb11c458ab80f?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/4851e14247135ed9d36fb11c458ab80f?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/rathorerekha\/\" class=\"reviewer-name\">rathorerekha<\/a> on <span class=\"review-date\">February 29, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I've linked my WhatsApp account with the 360Messenger service, and messages are being sent automatically and effectively. Initially, I'm utilizing the free 7-day trial for testing purposes. After that period, I plan to purchase this service.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excellent<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/javad73\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f8f961f7543aff2394e745bbe1977015?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f8f961f7543aff2394e745bbe1977015?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/javad73\/\" class=\"reviewer-name\">javad73<\/a> on <span class=\"review-date\">April 30, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>I connected my WhatsApp to the 360Messenger service and the messages are sent automatically and well.<br \/>Use the free 7-day plan.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Automate Send WooCommerce Order Notifications On WhatsApp (Client, Admin and Vendor).",
+    "description": "<p>A practical plugin that enables you to easily and automatically notify administrators, clients, and vendors via WhatsApp.<\/p>\n<p>Transform your business with WhatsApp Business platform<br \/>\nWhatsApp platform with more than 2 billion users around the world.<\/p>\n<p>Features:<br \/>\n* Notification to customer and admin and product manager (vendors) in case of registration and change of order status<br \/>\n* Notification settings in different order statuses (completed, pending, etc.)<br \/>\n* The ability to change the text and personalize each message for the manager, customer and seller for each order status<br \/>\n* and other professional features<\/p>\n<p>3rd Party or external service:<br \/>\nThis plugin must use a third-party service to send all WhatsApp messages. Therefore, 360Messenger and WaMessenger services are used to send messages.<br \/>\nLinks used in the plugin to send messages:<br \/>\nhttps:\/\/api.360messenger.net\/sendMessage<br \/>\nhttps:\/\/api.wamessenger.net\/sendMessage<br \/>\nRefer to the api documentation:<br \/>\nhttps:\/\/360messenger.net\/api<br \/>\nRefer to the service terms of use:<br \/>\nhttps:\/\/360messenger.net\/terms-and-conditions<br \/>\nhttps:\/\/360messenger.net\/privacy-policy<br \/>\nRefer to main site:<br \/>\nhttps:\/\/360messenger.net<br \/>\nhttps:\/\/wamessenger.net<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/360notify.3.5.1.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/360notify\/assets\/screenshot-1.png?rev=2906290",
+            "caption": "Screen shot 1"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/360notify\/assets\/screenshot-2.png?rev=2906290",
+            "caption": "Screen shot 2"
+        }
+    },
+    "tags": {
+        "360messenger": "360Messenger",
+        "e-commerce": "e-commerce",
+        "ecommerce": "ecommerce",
+        "woo": "woo",
+        "woocommerce": "woocommerce"
+    },
+    "stable_tag": "3.5.1",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/360notify.1.0.0.zip",
+        "1.3.0": "https:\/\/downloads.wordpress.org\/plugin\/360notify.1.3.0.zip",
+        "1.3.1": "https:\/\/downloads.wordpress.org\/plugin\/360notify.1.3.1.zip",
+        "1.3.2": "https:\/\/downloads.wordpress.org\/plugin\/360notify.1.3.2.zip",
+        "1.3.3": "https:\/\/downloads.wordpress.org\/plugin\/360notify.1.3.3.zip",
+        "2.0.0": "https:\/\/downloads.wordpress.org\/plugin\/360notify.2.0.0.zip",
+        "2.1.0": "https:\/\/downloads.wordpress.org\/plugin\/360notify.2.1.0.zip",
+        "2.1.1": "https:\/\/downloads.wordpress.org\/plugin\/360notify.2.1.1.zip",
+        "2.2.0": "https:\/\/downloads.wordpress.org\/plugin\/360notify.2.2.0.zip",
+        "2.3.0": "https:\/\/downloads.wordpress.org\/plugin\/360notify.2.3.0.zip",
+        "2.4.0": "https:\/\/downloads.wordpress.org\/plugin\/360notify.2.4.0.zip",
+        "2.6.0": "https:\/\/downloads.wordpress.org\/plugin\/360notify.2.6.0.zip",
+        "2.7.0": "https:\/\/downloads.wordpress.org\/plugin\/360notify.2.7.0.zip",
+        "3.0.0": "https:\/\/downloads.wordpress.org\/plugin\/360notify.3.0.0.zip",
+        "3.5.0": "https:\/\/downloads.wordpress.org\/plugin\/360notify.3.5.0.zip",
+        "3.5.1": "https:\/\/downloads.wordpress.org\/plugin\/360notify.3.5.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/360notify.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/360messenger.com\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/360notify\/assets\/banner-772x250.png?rev=2936734",
+        "high": "https:\/\/ps.w.org\/360notify\/assets\/banner-1544x500.png?rev=2936734"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/360notify\/assets\/icon-128x128.png?rev=2936734",
+        "2x": "https:\/\/ps.w.org\/360notify\/assets\/icon-256x256.png?rev=2936734"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "360notify",
+            "language": "fa_IR",
+            "version": "3.5.1",
+            "updated": "2023-06-16 18:06:33",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/360notify\/3.5.1\/fa_IR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "360notify",
+            "language": "nl_NL",
+            "version": "3.5.1",
+            "updated": "2024-02-07 11:08:48",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/360notify\/3.5.1\/nl_NL.zip"
+        }
+    ]
+}

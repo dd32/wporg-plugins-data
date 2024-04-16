@@ -1,0 +1,76 @@
+{
+    "name": "MIPL CF7 CRM",
+    "slug": "mipl-cf7-crm",
+    "version": "1.0.8",
+    "author": "<a href=\"https:\/\/www.mulika.in\/\">Mulika Team<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/mulika\/",
+    "contributors": {
+        "mulika": {
+            "profile": "https:\/\/profiles.wordpress.org\/mulika\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/56e26ea46284e3ad3bedfd2c4d453deb?s=96&d=monsterid&r=g",
+            "display_name": "Mulika Team"
+        }
+    },
+    "requires": "5.1",
+    "tested": "6.3.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/mipl-cf7-crm\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 230,
+    "last_updated": "2024-02-27 1:54pm GMT",
+    "added": "2024-02-23",
+    "homepage": "",
+    "sections": {
+        "description": "<p>&#8220;MIPL CF7 CRM&#8221; is a WordPress plugin designed to seamlessly integrate your chosen CRM system with &#8220;Contact Form 7&#8221; plugin. This plugin simplifies the process of capturing and managing leads generated from your website&#8217;s contact forms.<\/p>\n<h4>Features<\/h4>\n<ol>\n<li>\n<p><em>CRM Compatibility:<\/em> The plugin is compatible with a range of CRM systems, making it versatile and adaptable to your specific CRM choice.<\/p>\n<\/li>\n<li>\n<p><em>Custom Field Mapping:<\/em> Customize and map the form fields in &#8220;Contact Form 7&#8221; to your CRM&#8217;s fields, ensuring that the data collected aligns perfectly with your CRM&#8217;s structure.<\/p>\n<\/li>\n<li>\n<p><em>Effortless Data Transfer:<\/em> &#8220;MIPL CF7 CRM&#8221; automates the process of transferring data submitted through your contact forms directly into your CRM system. This minimizes manual data entry and reduces the risk of errors.<\/p>\n<\/li>\n<li>\n<p><em>Streamlined Lead Management:<\/em> Efficiently manage and track leads generated from your website. The plugin helps you organize leads and ensures they are promptly and accurately added to your CRM.<\/p>\n<\/li>\n<li>\n<p><em>Automated email notifications:<\/em> Receive real-time notifications or trigger automated actions in your CRM based on form submissions, enhancing your ability to respond to leads promptly.<\/p>\n<\/li>\n<li>\n<p><em>RESP API support:<\/em> Leverage the power of RESP API-based CRMs for smooth and secure data exchange.<\/p>\n<\/li>\n<li>\n<p><em>Flexible authentication options<\/em>: Choose from a variety of authentication methods, including OAuth 2.0, API keys, and more, to suit your specific CRM requirements.<\/p>\n<\/li>\n<\/ol>\n<p>By using &#8220;MIPL CF7 CRM,&#8221; you can improve the efficiency of your lead generation and customer relationship management efforts. This plugin offers a valuable solution for integrating CRM into your website&#8217;s contact forms.<\/p>\n",
+        "installation": "<ol>\n<li>Upload plugins folder to the <code>\/wp-content\/plugins\/<\/code> directory.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress.<\/li>\n<li>Configure form fields: Customize the form to gather the data you need.<\/li>\n<li>Configure the integration: map form fields to CRM fields, and specify CRM lists or segments.<\/li>\n<li>Test the integration: Verify that data from the contact form flows into your CRM correctly.<\/li>\n<\/ol>\n",
+        "changelog": "<h4>1.0.8<\/h4>\n<ul>\n<li>Fixed sanitization issue.<\/li>\n<li>Optimize request method GET and DELETE.<\/li>\n<li>Added columns in CRM listing table.<\/li>\n<li>Small fixes.<\/li>\n<\/ul>\n<h4>1.0.7<\/h4>\n<ul>\n<li>Security fixes.<\/li>\n<\/ul>\n<h4>1.0.6<\/h4>\n<ul>\n<li>Security fixes.<\/li>\n<\/ul>\n<h4>1.0.5<\/h4>\n<ul>\n<li>Security fixes.<\/li>\n<\/ul>\n<h4>1.0.4<\/h4>\n<ul>\n<li>Updated select2 library.<\/li>\n<li>Added security nonce.<\/li>\n<li>Security fixes.<\/li>\n<\/ul>\n<h4>1.0.3<\/h4>\n<ul>\n<li>Security fixes.<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>Security fixes.<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>CRM integration for &#8220;Contact Form 7&#8221; plugin.<\/li>\n<li>Multiple CRM integration with multiple Contact forms.<\/li>\n<li>Multiple authentication type (Oauth 2.0, API keys, Basic Auth, Bearer Auth).<\/li>\n<li>Fields Mapping.<\/li>\n<li>CRM Test Tool.<\/li>\n<li>Email Notifications.<\/li>\n<\/ul>\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Efficient Plugin for Seamless Contact Form 7 Integration with Multiple CRM<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/fuleshshete\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/613cdfde67a9cb907de02465d392b8c7?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/613cdfde67a9cb907de02465d392b8c7?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/fuleshshete\/\" class=\"reviewer-name\">Fulesh <small>(fulesh.shete)<\/small><\/a> on <span class=\"review-date\">March 30, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This exceptional plugin effortlessly sends Contact Form 7 data to multiple CRM systems, ensuring seamless integration across platforms. Its flawless performance makes it a must-have for streamlining data submission processes. Highly recommended for anyone seeking efficient and versatile CRM integration with Contact Form 7.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Integrate your &quot;Contact Form 7&quot; with a CRM system to automatically capture leads from your website.",
+    "description": "<p>&#8220;MIPL CF7 CRM&#8221; is a WordPress plugin designed to seamlessly integrate your chosen CRM system with &#8220;Contact Form 7&#8221; plugin. This plugin simplifies the process of capturing and managing leads generated from your website&#8217;s contact forms.<\/p>\n<h4>Features<\/h4>\n<ol>\n<li>\n<p><em>CRM Compatibility:<\/em> The plugin is compatible with a range of CRM systems, making it versatile and adaptable to your specific CRM choice.<\/p>\n<\/li>\n<li>\n<p><em>Custom Field Mapping:<\/em> Customize and map the form fields in &#8220;Contact Form 7&#8221; to your CRM&#8217;s fields, ensuring that the data collected aligns perfectly with your CRM&#8217;s structure.<\/p>\n<\/li>\n<li>\n<p><em>Effortless Data Transfer:<\/em> &#8220;MIPL CF7 CRM&#8221; automates the process of transferring data submitted through your contact forms directly into your CRM system. This minimizes manual data entry and reduces the risk of errors.<\/p>\n<\/li>\n<li>\n<p><em>Streamlined Lead Management:<\/em> Efficiently manage and track leads generated from your website. The plugin helps you organize leads and ensures they are promptly and accurately added to your CRM.<\/p>\n<\/li>\n<li>\n<p><em>Automated email notifications:<\/em> Receive real-time notifications or trigger automated actions in your CRM based on form submissions, enhancing your ability to respond to leads promptly.<\/p>\n<\/li>\n<li>\n<p><em>RESP API support:<\/em> Leverage the power of RESP API-based CRMs for smooth and secure data exchange.<\/p>\n<\/li>\n<li>\n<p><em>Flexible authentication options<\/em>: Choose from a variety of authentication methods, including OAuth 2.0, API keys, and more, to suit your specific CRM requirements.<\/p>\n<\/li>\n<\/ol>\n<p>By using &#8220;MIPL CF7 CRM,&#8221; you can improve the efficiency of your lead generation and customer relationship management efforts. This plugin offers a valuable solution for integrating CRM into your website&#8217;s contact forms.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/mipl-cf7-crm.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "contact-form-7": "contact form 7",
+        "crm": "crm",
+        "customer-relationship-management": "customer relationship management",
+        "mulika": "mulika"
+    },
+    "stable_tag": "trunk",
+    "versions": {
+        "1.0.7": "https:\/\/downloads.wordpress.org\/plugin\/mipl-cf7-crm.1.0.7.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/mipl-cf7-crm\/assets\/banner-772x250.jpg?rev=3040098",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/mipl-cf7-crm\/assets\/icon-256x256.png?rev=3040098",
+        "2x": "https:\/\/ps.w.org\/mipl-cf7-crm\/assets\/icon-256x256.png?rev=3040098"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

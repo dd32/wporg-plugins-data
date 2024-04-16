@@ -1,0 +1,72 @@
+{
+    "name": "Live Carts for WooCommerce",
+    "slug": "live-carts-for-woocommerce",
+    "version": "1.0.5",
+    "author": "penthouseplugins",
+    "author_profile": "https:\/\/profiles.wordpress.org\/penthouseplugins\/",
+    "contributors": {
+        "penthouseplugins": {
+            "profile": "https:\/\/profiles.wordpress.org\/penthouseplugins\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/afd917de88e4bf4b44fc23fcd41681bf?s=96&d=monsterid&r=g",
+            "display_name": "penthouseplugins"
+        }
+    },
+    "requires": "6.0",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/live-carts-for-woocommerce\/",
+    "support_threads": 2,
+    "support_threads_resolved": 1,
+    "active_installs": 0,
+    "downloaded": 309,
+    "last_updated": "2024-03-27 5:59pm GMT",
+    "added": "2024-02-09",
+    "homepage": "",
+    "sections": {
+        "description": "<p>This plugins adds a &#8220;Live Carts&#8221; item to the WooCommerce menu in the WordPress admin, which provides a listing of customer shopping carts including statuses (active, abandoned, or converted) and values. Clicking a cart ID provides more details including listing the products in the cart.<\/p>\n<p>The plugin also calculates some basic cart statistics at Analytics &gt; Carts, with date filtering based on the cart creation date.<\/p>\n<h3>Where are the plugin settings?<\/h3>\n<p>This plugin currently has no separate settings page; all functionality is available under WooCommerce &gt; Live Carts.<\/p>\n<h3>1.0.5<\/h3>\n<ul>\n<li>Add additional permissions checks for admin functionality<\/li>\n<\/ul>\n<h3>1.0.4<\/h3>\n<ul>\n<li>Fix: The admin stylesheet was not being loaded<\/li>\n<li>Change cart IDs to be random instead of sequential<\/li>\n<li>Display the cart ID in the cart details admin page<\/li>\n<li>Add option to display the cart ID in the frontend (to make it easier to identify a specific customer cart in the backend)<\/li>\n<\/ul>\n<h3>1.0.3<\/h3>\n<ul>\n<li>Fix: The cart value wasn&#8217;t displaying in the carts list<\/li>\n<li>Fix: Missing escaping on cart view page<\/li>\n<li>Add a User column to the carts list<\/li>\n<li>Hide the cart contents table on the cart view page when there are no contents to show<\/li>\n<\/ul>\n<h3>1.0.2<\/h3>\n<ul>\n<li>Fix: Various Exceptions may not have been caught successfully<\/li>\n<li>Add debug mode (enable under WooCommerce &gt; Live Carts; the log is saved in this plugin&#8217;s directory)<\/li>\n<li>Add additional Exception and Error handling for 3 critical WooCommerce hooks<\/li>\n<\/ul>\n<h3>1.0.1<\/h3>\n<ul>\n<li>Add Analytics functionality<\/li>\n<li>Miscellaneous improvement(s)<\/li>\n<\/ul>\n<h3>1.0.0<\/h3>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n",
+        "installation": "<p>This plugin can be installed under Plugins &gt; Add New Plugin, either by searching for the plugin title or by downloading the plugin zip file and uploading it via the Upload Plugin feature.<\/p>\n",
+        "reviews": ""
+    },
+    "short_description": "Monitor your customers&#039; current and past WooCommerce shopping carts via the WordPress admin.",
+    "description": "<p>This plugins adds a &#8220;Live Carts&#8221; item to the WooCommerce menu in the WordPress admin, which provides a listing of customer shopping carts including statuses (active, abandoned, or converted) and values. Clicking a cart ID provides more details including listing the products in the cart.<\/p>\n<p>The plugin also calculates some basic cart statistics at Analytics &gt; Carts, with date filtering based on the cart creation date.<\/p>\n<h3>Where are the plugin settings?<\/h3>\n<p>This plugin currently has no separate settings page; all functionality is available under WooCommerce &gt; Live Carts.<\/p>\n<h3>1.0.5<\/h3>\n<ul>\n<li>Add additional permissions checks for admin functionality<\/li>\n<\/ul>\n<h3>1.0.4<\/h3>\n<ul>\n<li>Fix: The admin stylesheet was not being loaded<\/li>\n<li>Change cart IDs to be random instead of sequential<\/li>\n<li>Display the cart ID in the cart details admin page<\/li>\n<li>Add option to display the cart ID in the frontend (to make it easier to identify a specific customer cart in the backend)<\/li>\n<\/ul>\n<h3>1.0.3<\/h3>\n<ul>\n<li>Fix: The cart value wasn&#8217;t displaying in the carts list<\/li>\n<li>Fix: Missing escaping on cart view page<\/li>\n<li>Add a User column to the carts list<\/li>\n<li>Hide the cart contents table on the cart view page when there are no contents to show<\/li>\n<\/ul>\n<h3>1.0.2<\/h3>\n<ul>\n<li>Fix: Various Exceptions may not have been caught successfully<\/li>\n<li>Add debug mode (enable under WooCommerce &gt; Live Carts; the log is saved in this plugin&#8217;s directory)<\/li>\n<li>Add additional Exception and Error handling for 3 critical WooCommerce hooks<\/li>\n<\/ul>\n<h3>1.0.1<\/h3>\n<ul>\n<li>Add Analytics functionality<\/li>\n<li>Miscellaneous improvement(s)<\/li>\n<\/ul>\n<h3>1.0.0<\/h3>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/live-carts-for-woocommerce.1.0.5.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "cart": "cart",
+        "ecommerce": "ecommerce"
+    },
+    "stable_tag": "1.0.5",
+    "versions": {
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/live-carts-for-woocommerce.1.0.4.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/live-carts-for-woocommerce.1.0.5.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/live-carts-for-woocommerce.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/live-carts-for-woocommerce\/assets\/icon-128x128.png?rev=3060226",
+        "2x": "https:\/\/ps.w.org\/live-carts-for-woocommerce\/assets\/icon-256x256.png?rev=3060226"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

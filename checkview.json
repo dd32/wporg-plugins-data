@@ -1,0 +1,104 @@
+{
+    "name": "CheckView Automated WordPress Testing",
+    "slug": "checkview",
+    "version": "1.1.2",
+    "author": "<a href=\"https:\/\/checkview.io\/\">Check View<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/checkview\/",
+    "contributors": {
+        "checkview": {
+            "profile": "https:\/\/profiles.wordpress.org\/checkview\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3ea6e586fd5e0d20924cf9c949cdc08e?s=96&d=monsterid&r=g",
+            "display_name": "Matt Schwartz"
+        },
+        "inspry": {
+            "profile": "https:\/\/profiles.wordpress.org\/inspry\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/05b1576b083668ba8318610c257d5676?s=96&d=monsterid&r=g",
+            "display_name": "inspry"
+        }
+    },
+    "requires": "5.0.1",
+    "tested": "6.5.2",
+    "requires_php": "7.0.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/checkview\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 10,
+    "downloaded": 152,
+    "last_updated": "2024-04-15 10:15am GMT",
+    "added": "2024-03-21",
+    "homepage": "https:\/\/checkview.io",
+    "sections": {
+        "description": "<p><a href=\"https:\/\/checkview.io\/\" rel=\"nofollow ugc\">CheckView<\/a> is the leading fully automated testing platform  to swiftly identify and resolve any issues with your WordPress forms and WooCommerce checkout. Enjoy the peace of mind that comes with knowing your WordPress site is working, ensuring you never lose sales due to site issues.<\/p>\n<h3>Important:<\/h3>\n<p>This plugin is for users with a Checkview.io account.  The plugin will still activate, but requires the <a href=\"https:\/\/checkview.io\/\" rel=\"nofollow ugc\">CheckView.io<\/a> service to function properly.<\/p>\n<h4>Comprehensive Testing:<\/h4>\n<ul>\n<li>Utilize real browser testing on your site&#8217;s forms and Woo checkout processes, ensuring you do not lose sales from broken forms or checkouts.  WooCommerce testing can use our automated test products or your selected real products.  Forms are verified from submission to email notifications and checkout covers product pages, adding products to the cart along with cart and checkout functionality.<\/li>\n<\/ul>\n<h4>Automated Scheduling:<\/h4>\n<ul>\n<li>Customize test schedules to fit your needs and stay informed with notifications through various channels, including detailed video recordings of tests and pinpointing where and why failures occur.<\/li>\n<\/ul>\n<h4>No Code, One-Click Integration:<\/h4>\n<ul>\n<li>Effortlessly connect CheckView to your WordPress or WooCommerce with a single click with no Chrome extensions to install, Github repos to setup, or coding skills required.  Save time and money by replacing tedious manual testing of your WordPress forms or WooCommerce checkout with an automated, comprehensive process that runs in the background.<\/li>\n<\/ul>\n<h4>Customizable Test Flows:<\/h4>\n<ul>\n<li>Tailor your testing to match the specifics of your WordPress form plugin or WooCommerce setup, including what URLs to test and custom theme adjustments using our built in test flow step editor.<\/li>\n<\/ul>\n<h4>Perfect for Multiple Websites or Agencies:<\/h4>\n<ul>\n<li>CheckView can be ran across multiple websites and their associated forms with ease.  Manage all of your site&#8217;s statuses and notifications within one easy to use dashboard.  Provide additional value to your clients and complement your existing uptime monitoring.<\/li>\n<\/ul>\n<h4>Privacy-Focused:<\/h4>\n<ul>\n<li>After each test, CheckView ensures any collected data is immediately  purged, preserving the integrity of your form submissions and order data.<\/li>\n<\/ul>\n<h4>Account and Pricing:<\/h4>\n<ul>\n<li>\n<p>Currently in beta, CheckView invites agencies and website owners to join for free with detailed pricing to be announced soon.<\/p>\n<p>Requires a separate account at <a href=\"https:\/\/checkview.io\/\" rel=\"nofollow ugc\">CheckView.io<\/a> for platform access.<\/p>\n<\/li>\n<\/ul>\n<h4>Data Sharing Commitment:<\/h4>\n<ul>\n<li>\n<p>Upon integrating your account, CheckView is dedicated to handling the  following data with the highest standards of privacy and security:<\/p>\n<ul>\n<li>\n<p>General WordPress installation details and plugin inventory.<\/p>\n<\/li>\n<li>\n<p>Metadata for orders, carts, and forms, ensuring no personal data is compromised.<\/p>\n<\/li>\n<li>\n<p>Product names and images, used solely for enhancing checkout testing accuracy.<\/p>\n<\/li>\n<\/ul>\n<\/li>\n<\/ul>\n<p>Embrace a new standard of WordPress testing with CheckView, where cutting-edge technology meets user-friendly WordPress integration.<\/p>\n",
+        "installation": "<ol>\n<li>\n<p>Upload the checkview plugin into the \/wp-content\/plugins\/ folder on your site.<\/p>\n<\/li>\n<li>\n<p>Use the &#8216;Plugins&#8217; section in WordPress to enable the plugin.<\/p>\n<\/li>\n<li>\n<p>That&#8217;s all for setup! Return to CheckView.io to proceed with adding your website to the platform.<\/p>\n<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='is%20a%20checkview%20account%20required%20to%20utilize%20this%20plugin%3F'>\nIs a CheckView account required to utilize this plugin?\n<\/h4>\n<p>\n<p>Yes, creating a <a href=\"https:\/\/checkview.io\/\" rel=\"nofollow ugc\">CheckView.io<\/a> account is required &#8211; for further details, <a href=\"https:\/\/checkview.io\/\" rel=\"nofollow ugc\">please visit this link<\/a> to join our beta. Although the plugin can be installed without the service, automated testing functionalities will not be accessible without linking a <a href=\"https:\/\/checkview.io\/\" rel=\"nofollow ugc\">CheckView.io<\/a> account.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.0<\/h4>\n<ul>\n<li>Initial release.<\/li>\n<\/ul>\n<h4>1.1.0<\/h4>\n<ul>\n<li>Added WooCommerce Automated Testing feature.<\/li>\n<li>Shifted WooCommerce Automated Testing functions from function.php to class.<\/li>\n<li>Updated stock prevention feature.<\/li>\n<li>Updated default testing product name.<\/li>\n<\/ul>\n<h4>1.1.1<\/h4>\n<ul>\n<li>Added conditions so WooCommerce Automated Testing feature does not load in the absence of WooCommerce.<\/li>\n<\/ul>\n<h4>1.1.2<\/h4>\n<ul>\n<li>Modified deleteformresults api method to incorporate all Request.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/checkview\/assets\/screenshot-1.jpg?rev=3056789\"><img src=\"https:\/\/ps.w.org\/checkview\/assets\/screenshot-1.jpg?rev=3056789\" alt=\"&lt;p&gt;CheckView test flow.&lt;\/p&gt;\"><\/a><p><p>CheckView test flow.<\/p><\/p><\/li><li><a href=\"https:\/\/ps.w.org\/checkview\/assets\/screenshot-2.jpg?rev=3056789\"><img src=\"https:\/\/ps.w.org\/checkview\/assets\/screenshot-2.jpg?rev=3056789\" alt=\"&lt;p&gt;CheckView test flow results.&lt;\/p&gt;\"><\/a><p><p>CheckView test flow results.<\/p><\/p><\/li><li><a href=\"https:\/\/ps.w.org\/checkview\/assets\/screenshot-3.jpg?rev=3059306\"><img src=\"https:\/\/ps.w.org\/checkview\/assets\/screenshot-3.jpg?rev=3059306\" alt=\"&lt;p&gt;CheckView general settings.&lt;\/p&gt;\"><\/a><p><p>CheckView general settings.<\/p><\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "WC requires at least: 7.0\n\nWC tested up to: 8.3\n\nStable tag: 1.1.2\n\nCheckView is the friendly WordPress automated testing platform for everyone, from  &hellip;",
+    "description": "<p><a href=\"https:\/\/checkview.io\/\" rel=\"nofollow ugc\">CheckView<\/a> is the leading fully automated testing platform  to swiftly identify and resolve any issues with your WordPress forms and WooCommerce checkout. Enjoy the peace of mind that comes with knowing your WordPress site is working, ensuring you never lose sales due to site issues.<\/p>\n<h3>Important:<\/h3>\n<p>This plugin is for users with a Checkview.io account.  The plugin will still activate, but requires the <a href=\"https:\/\/checkview.io\/\" rel=\"nofollow ugc\">CheckView.io<\/a> service to function properly.<\/p>\n<h4>Comprehensive Testing:<\/h4>\n<ul>\n<li>Utilize real browser testing on your site&#8217;s forms and Woo checkout processes, ensuring you do not lose sales from broken forms or checkouts.  WooCommerce testing can use our automated test products or your selected real products.  Forms are verified from submission to email notifications and checkout covers product pages, adding products to the cart along with cart and checkout functionality.<\/li>\n<\/ul>\n<h4>Automated Scheduling:<\/h4>\n<ul>\n<li>Customize test schedules to fit your needs and stay informed with notifications through various channels, including detailed video recordings of tests and pinpointing where and why failures occur.<\/li>\n<\/ul>\n<h4>No Code, One-Click Integration:<\/h4>\n<ul>\n<li>Effortlessly connect CheckView to your WordPress or WooCommerce with a single click with no Chrome extensions to install, Github repos to setup, or coding skills required.  Save time and money by replacing tedious manual testing of your WordPress forms or WooCommerce checkout with an automated, comprehensive process that runs in the background.<\/li>\n<\/ul>\n<h4>Customizable Test Flows:<\/h4>\n<ul>\n<li>Tailor your testing to match the specifics of your WordPress form plugin or WooCommerce setup, including what URLs to test and custom theme adjustments using our built in test flow step editor.<\/li>\n<\/ul>\n<h4>Perfect for Multiple Websites or Agencies:<\/h4>\n<ul>\n<li>CheckView can be ran across multiple websites and their associated forms with ease.  Manage all of your site&#8217;s statuses and notifications within one easy to use dashboard.  Provide additional value to your clients and complement your existing uptime monitoring.<\/li>\n<\/ul>\n<h4>Privacy-Focused:<\/h4>\n<ul>\n<li>After each test, CheckView ensures any collected data is immediately  purged, preserving the integrity of your form submissions and order data.<\/li>\n<\/ul>\n<h4>Account and Pricing:<\/h4>\n<ul>\n<li>\n<p>Currently in beta, CheckView invites agencies and website owners to join for free with detailed pricing to be announced soon.<\/p>\n<p>Requires a separate account at <a href=\"https:\/\/checkview.io\/\" rel=\"nofollow ugc\">CheckView.io<\/a> for platform access.<\/p>\n<\/li>\n<\/ul>\n<h4>Data Sharing Commitment:<\/h4>\n<ul>\n<li>\n<p>Upon integrating your account, CheckView is dedicated to handling the  following data with the highest standards of privacy and security:<\/p>\n<ul>\n<li>\n<p>General WordPress installation details and plugin inventory.<\/p>\n<\/li>\n<li>\n<p>Metadata for orders, carts, and forms, ensuring no personal data is compromised.<\/p>\n<\/li>\n<li>\n<p>Product names and images, used solely for enhancing checkout testing accuracy.<\/p>\n<\/li>\n<\/ul>\n<\/li>\n<\/ul>\n<p>Embrace a new standard of WordPress testing with CheckView, where cutting-edge technology meets user-friendly WordPress integration.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/checkview.zip",
+    "upgrade_notice": {
+        "1.0.0": "<ul>\n<li>Initial release.<\/li>\n<\/ul>",
+        "1.1.0": "<ul>\n<li>Added WooCommerce Automated Testing feature.<\/li>\n<li>Shifted WooCommerce Automated Testing functions from function.php to class.<\/li>\n<li>Updated stock prevention feature.<\/li>\n<li>Updated default testing product name.<\/li>\n<\/ul>",
+        "1.1.1": "<ul>\n<li>Added conditions so WooCommerce Automated Testing feature does not load in the absence of WooCommerce.<\/li>\n<\/ul>",
+        "1.1.2": "<ul>\n<li>Added conditions so WooCommerce Automated Testing feature does not load in the absence of WooCommerce.<\/li>\n<\/ul>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/checkview\/assets\/screenshot-1.jpg?rev=3056789",
+            "caption": "<p>CheckView test flow.<\/p>"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/checkview\/assets\/screenshot-2.jpg?rev=3056789",
+            "caption": "<p>CheckView test flow results.<\/p>"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/checkview\/assets\/screenshot-3.jpg?rev=3059306",
+            "caption": "<p>CheckView general settings.<\/p>"
+        }
+    },
+    "tags": {
+        "monitoring": "monitoring",
+        "testing": "testing",
+        "tests": "tests",
+        "uptime": "uptime",
+        "woocommerce": "woocommerce"
+    },
+    "stable_tag": "trunk",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/checkview.1.0.0.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/checkview.1.1.0.zip",
+        "1.1.1": "https:\/\/downloads.wordpress.org\/plugin\/checkview.1.1.1.zip",
+        "1.1.2": "https:\/\/downloads.wordpress.org\/plugin\/checkview.1.1.2.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/checkview.io\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/checkview\/assets\/banner-772\u00d7250.jpg?rev=3058433",
+        "high": "https:\/\/ps.w.org\/checkview\/assets\/banner-1544x500.jpg?rev=3058433"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/checkview\/assets\/icon-128\u00d7128.png?rev=3056343"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

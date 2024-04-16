@@ -1,0 +1,111 @@
+{
+    "name": "Auto podcast import",
+    "slug": "auto-podcast-import",
+    "version": "1.0.3",
+    "author": "<a href=\"https:\/\/www.r2k.co.il\/\">R2K TEAM<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/systemsrtk\/",
+    "contributors": {
+        "systemsrtk": {
+            "profile": "https:\/\/profiles.wordpress.org\/systemsrtk\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/804b4b1f5fa6a56f60ace07916764325?s=96&d=monsterid&r=g",
+            "display_name": "systemsrtk"
+        }
+    },
+    "requires": "6.1.0",
+    "tested": "6.4.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/auto-podcast-import\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 10,
+    "downloaded": 433,
+    "last_updated": "2024-02-11 6:52am GMT",
+    "added": "2024-01-08",
+    "homepage": "https:\/\/wordpress.com\/plugins\/auto-podcast-import",
+    "sections": {
+        "description": "<p>Import Podcast feed is easy.<\/p>\n<p>Automatically Sync Podcast RSS Feeds with Your WordPress Website<\/p>\n<p>Introducing the Auto podcast import, your seamless solution for effortlessly importing podcasts into your WordPress site. Whether you want to integrate your podcast into regular WordPress posts or a custom post type of your choice (if you already have one set up), our plugin has you covered.<\/p>\n<p>Our plugin is fully compatible with popular podcasting platforms.<\/p>\n<p>With the Auto podcast import, you can import episodes into existing custom post types, and more. What&#8217;s more, the plugin offers continuous import, or &#8216;Sync,&#8217; of podcast RSS feeds. This means that every time you release a new podcast episode, it can be automatically generated within your WordPress site. You even have the flexibility to set multiple import schedules and import content from various podcasts originating from different sources simultaneously. For instance, you can import separate podcasts from distinct feeds into a single website effortlessly.<\/p>\n<p>To get started with the plugin, simply initiate a new import by navigating to &#8216;Tools -&gt; Auto podcast import&#8217; in the main menu of your WordPress dashboard. Configure your desired options, and if you want to ensure a continuous import process for future episodes, don&#8217;t forget to check the appropriate box before starting the import process. Should you wish to discontinue a scheduled import, it&#8217;s as easy as deleting the import entry.<\/p>\n<h3>Supported feed<\/h3>\n<ol>\n<li>Libsyn<\/li>\n<li>Transistor<\/li>\n<li>BuzzSprout<\/li>\n<li>SimpleCast<\/li>\n<li>Spotify<\/li>\n<li>Podbean<\/li>\n<li>Apple podcasts<\/li>\n<\/ol>\n<p>Please write to us if your provider not listed here.<br \/>\n<a href=\"https:\/\/wordpress.org\/support\/plugin\/auto-podcast-import\/\" rel=\"ugc\">Auto podcast import<\/a>.<\/p>\n<h3>Need any help?<\/h3>\n<p>You can submit it in <a href=\"https:\/\/wordpress.org\/support\/plugin\/auto-podcast-import\/\" rel=\"ugc\">Auto podcast import<\/a>.<br \/>\nWe are open mind, and think out of the box.<br \/>\nChallenge us.<\/p>\n",
+        "changelog": "<h4>1.0.3<\/h4>\n<ul>\n<li>Arabic translation<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>Run now button<\/li>\n<li>Add more Screenshots<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Update readme file<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>First release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/auto-podcast-import\/assets\/screenshot-1.png?rev=3018879\"><img src=\"https:\/\/ps.w.org\/auto-podcast-import\/assets\/screenshot-1.png?rev=3018879\" alt=\"Add new feed tab\"><\/a><p>Add new feed tab<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/auto-podcast-import\/assets\/screenshot-2.png?rev=3018879\"><img src=\"https:\/\/ps.w.org\/auto-podcast-import\/assets\/screenshot-2.png?rev=3018879\" alt=\"Edit feed\"><\/a><p>Edit feed<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/auto-podcast-import\/assets\/screenshot-3.png?rev=3024703\"><img src=\"https:\/\/ps.w.org\/auto-podcast-import\/assets\/screenshot-3.png?rev=3024703\" alt=\"Gutenberg editor\"><\/a><p>Gutenberg editor<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Import your podcast feed, automatically from any supported podcast provider.",
+    "description": "<p>Import Podcast feed is easy.<\/p>\n<p>Automatically Sync Podcast RSS Feeds with Your WordPress Website<\/p>\n<p>Introducing the Auto podcast import, your seamless solution for effortlessly importing podcasts into your WordPress site. Whether you want to integrate your podcast into regular WordPress posts or a custom post type of your choice (if you already have one set up), our plugin has you covered.<\/p>\n<p>Our plugin is fully compatible with popular podcasting platforms.<\/p>\n<p>With the Auto podcast import, you can import episodes into existing custom post types, and more. What&#8217;s more, the plugin offers continuous import, or &#8216;Sync,&#8217; of podcast RSS feeds. This means that every time you release a new podcast episode, it can be automatically generated within your WordPress site. You even have the flexibility to set multiple import schedules and import content from various podcasts originating from different sources simultaneously. For instance, you can import separate podcasts from distinct feeds into a single website effortlessly.<\/p>\n<p>To get started with the plugin, simply initiate a new import by navigating to &#8216;Tools -&gt; Auto podcast import&#8217; in the main menu of your WordPress dashboard. Configure your desired options, and if you want to ensure a continuous import process for future episodes, don&#8217;t forget to check the appropriate box before starting the import process. Should you wish to discontinue a scheduled import, it&#8217;s as easy as deleting the import entry.<\/p>\n<h3>Supported feed<\/h3>\n<ol>\n<li>Libsyn<\/li>\n<li>Transistor<\/li>\n<li>BuzzSprout<\/li>\n<li>SimpleCast<\/li>\n<li>Spotify<\/li>\n<li>Podbean<\/li>\n<li>Apple podcasts<\/li>\n<\/ol>\n<p>Please write to us if your provider not listed here.<br \/>\n<a href=\"https:\/\/wordpress.org\/support\/plugin\/auto-podcast-import\/\" rel=\"ugc\">Auto podcast import<\/a>.<\/p>\n<h3>Need any help?<\/h3>\n<p>You can submit it in <a href=\"https:\/\/wordpress.org\/support\/plugin\/auto-podcast-import\/\" rel=\"ugc\">Auto podcast import<\/a>.<br \/>\nWe are open mind, and think out of the box.<br \/>\nChallenge us.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/auto-podcast-import.1.0.3.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/auto-podcast-import\/assets\/screenshot-1.png?rev=3018879",
+            "caption": "Add new feed tab"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/auto-podcast-import\/assets\/screenshot-2.png?rev=3018879",
+            "caption": "Edit feed"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/auto-podcast-import\/assets\/screenshot-3.png?rev=3024703",
+            "caption": "Gutenberg editor"
+        }
+    },
+    "tags": {
+        "feed": "feed",
+        "import": "import",
+        "podcast": "podcast",
+        "rss": "rss",
+        "sync": "sync"
+    },
+    "stable_tag": "1.0.3",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/auto-podcast-import.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/auto-podcast-import.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/auto-podcast-import.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/auto-podcast-import.1.0.3.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/auto-podcast-import.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/auto-podcast-import\/assets\/banner-772x250.png?rev=3018879",
+        "high": "https:\/\/ps.w.org\/auto-podcast-import\/assets\/banner-1544x500.png?rev=3018879"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/auto-podcast-import\/assets\/icon-128x128.png?rev=3018879",
+        "2x": "https:\/\/ps.w.org\/auto-podcast-import\/assets\/icon-256x256.png?rev=3018879"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "auto-podcast-import",
+            "language": "he_IL",
+            "version": "1.0.3",
+            "updated": "2024-03-05 06:32:02",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/auto-podcast-import\/1.0.3\/he_IL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "auto-podcast-import",
+            "language": "nl_NL",
+            "version": "1.0.3",
+            "updated": "2024-02-11 07:50:25",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/auto-podcast-import\/1.0.3\/nl_NL.zip"
+        }
+    ]
+}

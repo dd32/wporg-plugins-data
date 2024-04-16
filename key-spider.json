@@ -1,0 +1,107 @@
+{
+    "name": "\u7f51\u7ad9\u8718\u86db\/\u8bbf\u5ba2\u8bb0\u5f55",
+    "slug": "key-spider",
+    "version": "1.0.1",
+    "author": "<a href=\"https:\/\/www.rbzzz.com\">\u6c83\u4e4b\u6d9b\u79d1\u6280<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/kelerkgibo\/",
+    "contributors": {
+        "kelerkgibo": {
+            "profile": "https:\/\/profiles.wordpress.org\/kelerkgibo\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3bcb36b44fca3805e67994082f905b5f?s=96&d=monsterid&r=g",
+            "display_name": "\u59dc\u4e1c\u6d9b"
+        }
+    },
+    "requires": "4.8",
+    "tested": "6.5.2",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/key-spider\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 10,
+    "downloaded": 1927,
+    "last_updated": "2024-04-11 6:46am GMT",
+    "added": "2020-06-05",
+    "homepage": "",
+    "sections": {
+        "description": "<p>\u672c\u63d2\u4ef6\u4f1a\u8bb0\u5f55\u7f51\u7ad9\u8718\u86db\u548c\u8bbf\u5ba2\u7684\u8bbf\u95ee\u3002<\/p>\n<p>1\u3001\u5f00\u542f\u63d2\u4ef6\u4ee5\u540e\uff0c\u5982\u679c\u6709\u767e\u5ea6\u3001\u8c37\u6b4c\u3001360\u3001\u641c\u72d7\u3001\u795e\u9a6c\u3001\u5fc5\u5e94\u3001\u5934\u6761\u8718\u86db\u8bbf\u95ee\u7f51\u7ad9\u5c31\u4f1a\u88ab\u7edf\u8ba1\u3002\u65e0\u9700\u5728\u67e5\u770b\u7f51\u7ad9\u65e5\u5fd7\uff0c\u662f\u6bd4\u8f83\u7701\u5fc3\u7684\u5de5\u5177\u3002<\/p>\n<p>2\u3001\u7f51\u7ad9\u8718\u86db\/\u8bbf\u5ba2\u8bb0\u5f55\u53ef\u4ee5\u6309\u65e5\u671f\u67e5\u8be2\u4e5f\u53ef\u4ee5\u6309\u641c\u7d22\u5f15\u64ce\u67e5\u8be2\uff0c\u5e76\u4e14\u6ce8\u91cd\u4e86404\u3001200\u8bb0\u5f55\u7684\u8718\u86db\u72b6\u6001\u3002<\/p>\n<p>3\u3001\u6d41\u91cf\u76d1\u63a7\u662f\u8bb0\u5f55\u8bbf\u5ba2\u7684\u6d4f\u89c8\u91cf\uff08PV\uff09\u3001\u8bbf\u5ba2\u91cf\uff08UV\uff09\u3001IP\u503c\uff0c\u4ee5\u53ca\u6765\u6e90\u7f51\u7ad9\u6392\u540d\u3001\u65b0\u8001\u8bbf\u5ba2\u548c\u5730\u57df\u5206\u5e03\u3002<\/p>\n<p>\u4ea4\u6d41QQ\u7fa4\uff1a626801464<\/p>\n<p>\u5ba2\u670dQQ\uff1a1500351892<\/p>\n<p>\u5ba2\u670d\u5fae\u4fe1\uff1akelerkgibo<\/p>\n<p><strong>\u6e29\u99a8\u63d0\u793a<\/strong>\uff1a<br \/>\n\u4e0a\u8ff0\u90e8\u5206\u529f\u80fd\uff0c\u4e3a\u521d\u59cb\u7248\u672c\u5982\u679c\u51fa\u73b0BUG\u95ee\u9898\u8bf7\u53ca\u65f6\u8054\u7cfb\u6211\u4eec\u7f51\u5740\uff1a<a href=\"https:\/\/www.rbzzz.com\" title=\"\u6c83\u4e4b\u6d9b\u5b98\u7f51\" rel=\"friend nofollow ugc\">www.rbzzz.com<\/a><br \/>\n\u9700\u8981\u6ce8\u610f\u672c\u63d2\u4ef6\u9700\u8981\u4f9d\u8d56\u4e8e\u7b2c\u4e09\u65b9\u6388\u6743\u624d\u53ef\u4ee5\u6b63\u5e38\u4f7f\u7528\u6388\u6743\u5730\u5740\uff1a<a href=\"https:\/\/www.rbzzz.com\/qxcp.html\" title=\"\u6388\u6743\" rel=\"friend nofollow ugc\">wp.seohnzz.com<\/a><br \/>\n\u5728\u4f7f\u7528\u6211\u4eec\u63d2\u4ef6\u7684\u540c\u65f6\u8bf7\u9605\u8bfb\u6211\u4eec\u7684\u7b2c\u4e09\u65b9\u7528\u6237\u670d\u52a1\u534f\u8bae\u6761\u6b3e\uff1a<a href=\"https:\/\/www.rbzzz.com\/index\/index\/server\" title=\"\u670d\u52a1\u534f\u8bae\u6761\u6b3e\" rel=\"friend nofollow ugc\">\u670d\u52a1\u534f\u8bae\u6761\u6b3e<\/a><br \/>\n\u672c\u7ad9\u9700\u8981\u7b2c\u4e09\u65b9\u6388\u6743\u4f7f\u7528\uff0c\u6388\u6743\u5730\u5740\uff1ahttp:\/\/wp.seohnzz.com\uff0chttps:\/\/www.rbzzz.com<br \/>\n\u672c\u7ad9\u529f\u80fd\u9700\u8981\u4f7f\u7528\u7684\u5730\u5740\uff1ahttps:\/\/www.baidu.com<br \/>\n\u4f7f\u7528\u7b2c\u4e09\u65b9\u6388\u6743\u8bf7\u4e86\u89e3\u6211\u4eec\u7684\u4f7f\u7528\u534f\u8bae\uff1ahttps:\/\/www.rbzzz.com\/index\/index\/server<br \/>\n\u63d2\u4ef6\u4e0b\u7684assets\u76ee\u5f55\u4e0b\u7684js\u6e90\u7801\u5730\u5740\uff1ahttps:\/\/gitee.com\/wo-zhitao\/website-spider<\/p>\n<h3>Notes<\/h3>\n<p>\u5982\u679c\u4f60\u5728WordPress\u4e3b\u9898\u548c\u63d2\u4ef6\u4e0a\u6709\u66f4\u591a\u7684\u9700\u6c42\uff0c\u4e5f\u5e0c\u671b\u60a8\u53ef\u4ee5\u5411\u6211\u4eec\u63d0\u51fa\u610f\u89c1\u5efa\u8bae\uff0c\u6211\u4eec\u5c06\u4f1a\u8bb0\u5f55\u4e0b\u6765\u5e76\u6839\u636e\u5b9e\u9645\u60c5\u51b5\uff0c\u63a8\u51fa\u66f4\u591a\u7b26\u5408\u5927\u5bb6\u9700\u6c42\u7684\u4e3b\u9898\u548c\u63d2\u4ef6\u3002<\/p>\n<p>\u81f4\u8c22\uff01<\/p>\n",
+        "installation": "<p>\u65b9\u5f0f1\uff1a\u5728\u7ebf\u5b89\u88c5(\u63a8\u8350)<br \/>\n1. \u8fdb\u5165WordPress\u4eea\u8868\u76d8\uff0c\u70b9\u51fb\u201c\u63d2\u4ef6-\u5b89\u88c5\u63d2\u4ef6\u201d\uff0c\u5173\u952e\u8bcd\u641c\u7d22\u201c\u7f51\u7ad9\u8718\u86db\/\u8bbf\u5ba2\u8bb0\u5f55\u201d\uff0c\u627e\u641c\u7d22\u7ed3\u679c\u4e2d\u627e\u5230\u201c\u8718\u86db-\u5173\u952e\u5b57\u201d\u63d2\u4ef6\uff0c\u70b9\u51fb\u201c\u73b0\u5728\u5b89\u88c5\u201d\uff1b<br \/>\n2. \u5b89\u88c5\u5b8c\u6bd5\u540e\uff0c\u542f\u7528 <code>\u8718\u86db-\u5173\u952e\u5b57<\/code> \u63d2\u4ef6.<br \/>\n3. \u901a\u8fc7\u201c\u8bbe\u7f6e\u201d-&gt;\u201c\u7f51\u7ad9\u8718\u86db\/\u8bbf\u5ba2\u8bb0\u5f55\u201d \u8fdb\u5165\u63d2\u4ef6\u8bbe\u7f6e\u754c\u9762.<br \/>\n4. \u81f3\u6b64\uff0c\u8be5\u63d2\u4ef6\u5b89\u88c5\u5b8c\u6bd5\uff0c\u5373\u53ef\u8bbf\u95ee\u7f51\u7ad9\u8718\u86db\/\u8bbf\u5ba2\u8bb0\u5f55\u3002<\/p>\n<p>\u65b9\u5f0f2\uff1a\u4e0a\u4f20\u5b89\u88c5<\/p>\n<p>FTP\u4e0a\u4f20\u5b89\u88c5<br \/>\n1. \u89e3\u538b\u63d2\u4ef6\u538b\u7f29\u5305key_spider.zip\uff0c\u5c06\u89e3\u538b\u83b7\u5f97\u6587\u4ef6\u5939\u4e0a\u4f20\u81f3wordpress\u5b89\u88c5\u76ee\u5f55\u4e0b\u7684 <code>\/wp-content\/plugins\/<\/code>\u76ee\u5f55.<br \/>\n2. \u8bbf\u95eeWordPress\u4eea\u8868\u76d8\uff0c\u8fdb\u5165\u201c\u63d2\u4ef6\u201d-\u201c\u5df2\u5b89\u88c5\u63d2\u4ef6\u201d\uff0c\u5728\u63d2\u4ef6\u5217\u8868\u4e2d\u627e\u5230\u201c\u7f51\u7ad9\u8718\u86db\/\u8bbf\u5ba2\u8bb0\u5f55\u201d\uff0c\u70b9\u51fb\u201c\u542f\u7528\u201d.<br \/>\n3. \u901a\u8fc7\u201c\u8bbe\u7f6e\u201d-&gt;\u201c\u7f51\u7ad9\u8718\u86db\/\u8bbf\u5ba2\u8bb0\u5f55\u201d \u8fdb\u5165\u63d2\u4ef6\u8bbe\u7f6e\u754c\u9762.<br \/>\n4. \u81f3\u6b64\uff0c\u8be5\u63d2\u4ef6\u5b89\u88c5\u5b8c\u6bd5\u3002<\/p>\n<p>\u4eea\u8868\u76d8\u4e0a\u4f20\u5b89\u88c5<br \/>\n1. \u8fdb\u5165WordPress\u4eea\u8868\u76d8\uff0c\u70b9\u51fb\u201c\u63d2\u4ef6-\u5b89\u88c5\u63d2\u4ef6\u201d\uff1b<br \/>\n2. \u70b9\u51fb\u754c\u9762\u5de6\u4e0a\u65b9\u7684\u201c\u4e0a\u4f20\u6309\u94ae\u201d\uff0c\u9009\u62e9\u672c\u5730\u63d0\u524d\u4e0b\u8f7d\u597d\u7684\u63d2\u4ef6\u538b\u7f29\u5305key_spider.zip\uff0c\u70b9\u51fb\u201c\u73b0\u5728\u5b89\u88c5\u201d\uff1b<br \/>\n3. \u5b89\u88c5\u5b8c\u6bd5\u540e\uff0c\u542f\u7528 <code>\u7f51\u7ad9\u8718\u86db\/\u8bbf\u5ba2\u8bb0\u5f55<\/code> \u63d2\u4ef6\uff1b<br \/>\n4. \u901a\u8fc7\u201c\u8bbe\u7f6e\u201d-&gt;\u201c\u7f51\u7ad9\u8718\u86db\/\u8bbf\u5ba2\u8bb0\u5f55\u201d \u8fdb\u5165\u63d2\u4ef6\u8bbe\u7f6e\u754c\u9762.<br \/>\n5. \u81f3\u6b64\uff0c\u8be5\u63d2\u4ef6\u5b89\u88c5\u5b8c\u6bd5\uff0c\u5373\u53ef\u8bbf\u95ee\u767e\u5ea6\u7ad9\u957f\u540e\u53f0\u67e5\u770b\u7f51\u7ad9\u8718\u86db\/\u8bbf\u5ba2\u8bb0\u5f55\u3002<\/p>\n",
+        "faq": "\n<dt id='%E6%80%8E%E4%B9%88%E4%BD%BF%E7%94%A8%E7%BD%91%E7%AB%99%E8%9C%98%E8%9B%9B%2F%E8%AE%BF%E5%AE%A2%E8%AE%B0%E5%BD%95%EF%BC%9F'>\n\u600e\u4e48\u4f7f\u7528\u7f51\u7ad9\u8718\u86db\/\u8bbf\u5ba2\u8bb0\u5f55\uff1f\n<\/h4>\n<p>\n<p>\u5f00\u542f\u63d2\u4ef6\u4ee5\u540e\uff0c\u5f00\u542f\u8718\u86db\u914d\u7f6e\u5982\u679c\u6709\u767e\u5ea6\u3001\u8c37\u6b4c\u3001360\u3001\u641c\u72d7\u3001\u795e\u9a6c\u3001\u5fc5\u5e94\u3001\u5934\u6761\u8718\u86db\u8bbf\u95ee\u7f51\u7ad9\u5c31\u4f1a\u88ab\u7edf\u8ba1\u3002<\/p>\n<\/p>\n<dt id='%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E5%93%AA%E4%BA%9B%E8%9C%98%E8%9B%9B%EF%BC%9F'>\n\u53ef\u4ee5\u770b\u5230\u54ea\u4e9b\u8718\u86db\uff1f\n<\/h4>\n<p>\n<p>\u6709\u767e\u5ea6\u3001\u8c37\u6b4c\u3001360\u3001\u641c\u72d7\u3001\u795e\u9a6c\u3001\u5fc5\u5e94\u3001\u5934\u6761\u8718\u86db\u8bbf\u95ee\u7f51\u7ad9\u5c31\u4f1a\u88ab\u7edf\u8ba1\u3002<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.1<\/h4>\n<p>\uff082024\/04\/10\uff09<br \/>\n*\u65b0\u7248\u4e0a\u7ebf<\/p>\n<h4>1.0.0<\/h4>\n<p>\uff082024\/04\/02\uff09<br \/>\n*\u7f51\u7ad9\u8718\u86db\/\u8bbf\u5ba2\u8bb0\u5f55UI\u6539\u7248<br \/>\n*\u65b0\u589e\u6d41\u91cf\u76d1\u63a7\u9875\u9762<\/p>\n<h4>0.1.0<\/h4>\n<p>\uff082022\/03\/10\uff09<br \/>\n*\u8718\u86db\u6dfb\u52a0ip\u503c<\/p>\n<h4>0.0.9<\/h4>\n<p>\uff082021\/12\/10\uff09<br \/>\n*BUG\u4fee\u590d<br \/>\n*\u4f18\u5316\u6837\u5f0f\u7ec6\u8282<\/p>\n<h4>0.0.8<\/h4>\n<p>\uff082021\/07\/13\uff09<br \/>\n*BUG\u4fee\u590d<br \/>\n*\u4f18\u5316\u6837\u5f0f\u7ec6\u8282<\/p>\n<h4>0.0.7<\/h4>\n<p>\uff082021\/06\/29\uff09<br \/>\n*\u589e\u52a0\u6570\u636e\u63d0\u4ea4\u7279\u6548<br \/>\n*\u4f18\u5316\u6837\u5f0f\u7ec6\u8282<\/p>\n<h4>0.0.6<\/h4>\n<p>*\u8718\u86db\u56fe\u8868\u5173\u8054<br \/>\n*\u4f18\u5316\u8718\u86db\u641c\u7d22<br \/>\n*\u4fee\u590d\u65f6\u95f4\u9009\u62e9bug<\/p>\n<h4>0.0.5<\/h4>\n<p>*BUG\u4fee\u590d<\/p>\n<h4>0.0.4<\/h4>\n<p>2021\/03\/18<br \/>\n*\u91cd\u65b0\u6574\u987f<\/p>\n<h4>0.0.3<\/h4>\n<p>\uff082020\/09\/08\uff09<br \/>\n*\u4f18\u5316\u7f51\u7ad9\u8718\u86db\u663e\u793a<\/p>\n<h4>0.0.2<\/h4>\n<p>\u90e8\u5206\u529f\u80fd\u4f18\u5316<\/p>\n<h4>0.0.1<\/h4>\n<p>\u8718\u86db-\u5173\u952e\u5b57<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/key-spider\/assets\/screenshot-0.png?rev=3068798\"><img src=\"https:\/\/ps.w.org\/key-spider\/assets\/screenshot-0.png?rev=3068798\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/key-spider\/assets\/screenshot-1.png?rev=3068798\"><img src=\"https:\/\/ps.w.org\/key-spider\/assets\/screenshot-1.png?rev=3068798\" alt=\"200\u3001404\u8718\u86db\u6392\u540d\n2.\u6d4f\u89c8\u91cf\u56fe\u8868\n3.\u6d4f\u89c8\u91cf\u6392\u884c\n4.\u8bbf\u5ba2\u660e\u7ec6\"><\/a><p>200\u3001404\u8718\u86db\u6392\u540d\n2.\u6d4f\u89c8\u91cf\u56fe\u8868\n3.\u6d4f\u89c8\u91cf\u6392\u884c\n4.\u8bbf\u5ba2\u660e\u7ec6<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/key-spider\/assets\/screenshot-2.png?rev=3068798\"><img src=\"https:\/\/ps.w.org\/key-spider\/assets\/screenshot-2.png?rev=3068798\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/key-spider\/assets\/screenshot-3.png?rev=3068798\"><img src=\"https:\/\/ps.w.org\/key-spider\/assets\/screenshot-3.png?rev=3068798\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "\u7f51\u7ad9\u8718\u86db\/\u8bbf\u5ba2\u8bb0\u5f55\uff0c\u4e3b\u8981\u5305\u542b\u4e86\u5404\u5927\u641c\u7d22\u5f15\u64ce\u7684\u8718\u86db\u8bbf\u95ee\u8bb0\u5f55\uff0c\u4ee5\u53ca\u7f51\u7ad9\u7684\u8bbf\u95ee\u6d41\u91cf\u8fdb\u884c\u76d1\u63a7\u3002",
+    "description": "<p>\u672c\u63d2\u4ef6\u4f1a\u8bb0\u5f55\u7f51\u7ad9\u8718\u86db\u548c\u8bbf\u5ba2\u7684\u8bbf\u95ee\u3002<\/p>\n<p>1\u3001\u5f00\u542f\u63d2\u4ef6\u4ee5\u540e\uff0c\u5982\u679c\u6709\u767e\u5ea6\u3001\u8c37\u6b4c\u3001360\u3001\u641c\u72d7\u3001\u795e\u9a6c\u3001\u5fc5\u5e94\u3001\u5934\u6761\u8718\u86db\u8bbf\u95ee\u7f51\u7ad9\u5c31\u4f1a\u88ab\u7edf\u8ba1\u3002\u65e0\u9700\u5728\u67e5\u770b\u7f51\u7ad9\u65e5\u5fd7\uff0c\u662f\u6bd4\u8f83\u7701\u5fc3\u7684\u5de5\u5177\u3002<\/p>\n<p>2\u3001\u7f51\u7ad9\u8718\u86db\/\u8bbf\u5ba2\u8bb0\u5f55\u53ef\u4ee5\u6309\u65e5\u671f\u67e5\u8be2\u4e5f\u53ef\u4ee5\u6309\u641c\u7d22\u5f15\u64ce\u67e5\u8be2\uff0c\u5e76\u4e14\u6ce8\u91cd\u4e86404\u3001200\u8bb0\u5f55\u7684\u8718\u86db\u72b6\u6001\u3002<\/p>\n<p>3\u3001\u6d41\u91cf\u76d1\u63a7\u662f\u8bb0\u5f55\u8bbf\u5ba2\u7684\u6d4f\u89c8\u91cf\uff08PV\uff09\u3001\u8bbf\u5ba2\u91cf\uff08UV\uff09\u3001IP\u503c\uff0c\u4ee5\u53ca\u6765\u6e90\u7f51\u7ad9\u6392\u540d\u3001\u65b0\u8001\u8bbf\u5ba2\u548c\u5730\u57df\u5206\u5e03\u3002<\/p>\n<p>\u4ea4\u6d41QQ\u7fa4\uff1a626801464<\/p>\n<p>\u5ba2\u670dQQ\uff1a1500351892<\/p>\n<p>\u5ba2\u670d\u5fae\u4fe1\uff1akelerkgibo<\/p>\n<p><strong>\u6e29\u99a8\u63d0\u793a<\/strong>\uff1a<br \/>\n\u4e0a\u8ff0\u90e8\u5206\u529f\u80fd\uff0c\u4e3a\u521d\u59cb\u7248\u672c\u5982\u679c\u51fa\u73b0BUG\u95ee\u9898\u8bf7\u53ca\u65f6\u8054\u7cfb\u6211\u4eec\u7f51\u5740\uff1a<a href=\"https:\/\/www.rbzzz.com\" title=\"\u6c83\u4e4b\u6d9b\u5b98\u7f51\" rel=\"friend nofollow ugc\">www.rbzzz.com<\/a><br \/>\n\u9700\u8981\u6ce8\u610f\u672c\u63d2\u4ef6\u9700\u8981\u4f9d\u8d56\u4e8e\u7b2c\u4e09\u65b9\u6388\u6743\u624d\u53ef\u4ee5\u6b63\u5e38\u4f7f\u7528\u6388\u6743\u5730\u5740\uff1a<a href=\"https:\/\/www.rbzzz.com\/qxcp.html\" title=\"\u6388\u6743\" rel=\"friend nofollow ugc\">wp.seohnzz.com<\/a><br \/>\n\u5728\u4f7f\u7528\u6211\u4eec\u63d2\u4ef6\u7684\u540c\u65f6\u8bf7\u9605\u8bfb\u6211\u4eec\u7684\u7b2c\u4e09\u65b9\u7528\u6237\u670d\u52a1\u534f\u8bae\u6761\u6b3e\uff1a<a href=\"https:\/\/www.rbzzz.com\/index\/index\/server\" title=\"\u670d\u52a1\u534f\u8bae\u6761\u6b3e\" rel=\"friend nofollow ugc\">\u670d\u52a1\u534f\u8bae\u6761\u6b3e<\/a><br \/>\n\u672c\u7ad9\u9700\u8981\u7b2c\u4e09\u65b9\u6388\u6743\u4f7f\u7528\uff0c\u6388\u6743\u5730\u5740\uff1ahttp:\/\/wp.seohnzz.com\uff0chttps:\/\/www.rbzzz.com<br \/>\n\u672c\u7ad9\u529f\u80fd\u9700\u8981\u4f7f\u7528\u7684\u5730\u5740\uff1ahttps:\/\/www.baidu.com<br \/>\n\u4f7f\u7528\u7b2c\u4e09\u65b9\u6388\u6743\u8bf7\u4e86\u89e3\u6211\u4eec\u7684\u4f7f\u7528\u534f\u8bae\uff1ahttps:\/\/www.rbzzz.com\/index\/index\/server<br \/>\n\u63d2\u4ef6\u4e0b\u7684assets\u76ee\u5f55\u4e0b\u7684js\u6e90\u7801\u5730\u5740\uff1ahttps:\/\/gitee.com\/wo-zhitao\/website-spider<\/p>\n<h3>Notes<\/h3>\n<p>\u5982\u679c\u4f60\u5728WordPress\u4e3b\u9898\u548c\u63d2\u4ef6\u4e0a\u6709\u66f4\u591a\u7684\u9700\u6c42\uff0c\u4e5f\u5e0c\u671b\u60a8\u53ef\u4ee5\u5411\u6211\u4eec\u63d0\u51fa\u610f\u89c1\u5efa\u8bae\uff0c\u6211\u4eec\u5c06\u4f1a\u8bb0\u5f55\u4e0b\u6765\u5e76\u6839\u636e\u5b9e\u9645\u60c5\u51b5\uff0c\u63a8\u51fa\u66f4\u591a\u7b26\u5408\u5927\u5bb6\u9700\u6c42\u7684\u4e3b\u9898\u548c\u63d2\u4ef6\u3002<\/p>\n<p>\u81f4\u8c22\uff01<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/key-spider.1.0.1.zip",
+    "upgrade_notice": [],
+    "screenshots": [
+        {
+            "src": "https:\/\/ps.w.org\/key-spider\/assets\/screenshot-0.png?rev=3068798",
+            "caption": ""
+        },
+        {
+            "src": "https:\/\/ps.w.org\/key-spider\/assets\/screenshot-1.png?rev=3068798",
+            "caption": "200\u3001404\u8718\u86db\u6392\u540d\n2.\u6d4f\u89c8\u91cf\u56fe\u8868\n3.\u6d4f\u89c8\u91cf\u6392\u884c\n4.\u8bbf\u5ba2\u660e\u7ec6"
+        },
+        {
+            "src": "https:\/\/ps.w.org\/key-spider\/assets\/screenshot-2.png?rev=3068798",
+            "caption": ""
+        },
+        {
+            "src": "https:\/\/ps.w.org\/key-spider\/assets\/screenshot-3.png?rev=3068798",
+            "caption": ""
+        }
+    ],
+    "tags": {
+        "%e7%bd%91%e7%ab%99%e8%9c%98%e8%9b%9b": "\u7f51\u7ad9\u8718\u86db",
+        "%e7%bd%91%e7%ab%99%e6%97%a5%e5%bf%97": "\u7f51\u7ad9\u65e5\u5fd7",
+        "%e8%ae%bf%e5%ae%a2%e7%bb%9f%e8%ae%a1": "\u8bbf\u5ba2\u7edf\u8ba1",
+        "%e8%ae%bf%e5%ae%a2%e8%ae%b0%e5%bd%95": "\u8bbf\u5ba2\u8bb0\u5f55",
+        "%e6%b5%81%e9%87%8f%e7%9b%91%e6%8e%a7": "\u6d41\u91cf\u76d1\u63a7"
+    },
+    "stable_tag": "1.0.1",
+    "versions": {
+        "0.0.1": "https:\/\/downloads.wordpress.org\/plugin\/key-spider.0.0.1.zip",
+        "0.0.2": "https:\/\/downloads.wordpress.org\/plugin\/key-spider.0.0.2.zip",
+        "0.0.3": "https:\/\/downloads.wordpress.org\/plugin\/key-spider.0.0.3.zip",
+        "0.0.4": "https:\/\/downloads.wordpress.org\/plugin\/key-spider.0.0.4.zip",
+        "0.0.5": "https:\/\/downloads.wordpress.org\/plugin\/key-spider.0.0.5.zip",
+        "0.0.6": "https:\/\/downloads.wordpress.org\/plugin\/key-spider.0.0.6.zip",
+        "0.0.7": "https:\/\/downloads.wordpress.org\/plugin\/key-spider.0.0.7.zip",
+        "0.0.8": "https:\/\/downloads.wordpress.org\/plugin\/key-spider.0.0.8.zip",
+        "0.0.9": "https:\/\/downloads.wordpress.org\/plugin\/key-spider.0.0.9.zip",
+        "0.1.0": "https:\/\/downloads.wordpress.org\/plugin\/key-spider.0.1.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/key-spider.1.0.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/key-spider.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/www.rbzzz.com",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/key-spider\/assets\/banner-772x250.png?rev=3068798",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/key-spider\/assets\/icon-128x128.png?rev=3068798",
+        "2x": "https:\/\/ps.w.org\/key-spider\/assets\/icon-256x256.png?rev=3068798"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

@@ -1,0 +1,166 @@
+{
+    "name": "Ultimate Portfolio, Photo gallery &amp; Slider",
+    "slug": "ultimate-portfolio",
+    "version": "1.0.5",
+    "author": "<a href=\"http:\/\/awplife.com\/\">A WP Life<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/awordpresslife\/",
+    "contributors": {
+        "webenvo": {
+            "profile": "https:\/\/profiles.wordpress.org\/webenvo\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/1798d5d40f13670082d50daa4647755e?s=96&d=monsterid&r=g",
+            "display_name": "Webenvo"
+        },
+        "awordpresslife": {
+            "profile": "https:\/\/profiles.wordpress.org\/awordpresslife\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/8d4ee52a55fe320b4839f6ec308f25ef?s=96&d=monsterid&r=g",
+            "display_name": "A WP Life"
+        },
+        "farazfrank": {
+            "profile": "https:\/\/profiles.wordpress.org\/farazfrank\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/6d4e9d72fbe4687770e1ae3f436c3036?s=96&d=monsterid&r=g",
+            "display_name": "FARAZFRANK"
+        },
+        "hanif0991": {
+            "profile": "https:\/\/profiles.wordpress.org\/hanif0991\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/c6147a72fd7ff7d0f0020e909d3cf064?s=96&d=monsterid&r=g",
+            "display_name": "Mohammad Hanif"
+        },
+        "razipathhan": {
+            "profile": "https:\/\/profiles.wordpress.org\/razipathhan\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/d9d7ea00aec21b7fc4c1d152fff002f1?s=96&d=monsterid&r=g",
+            "display_name": "Pathhan"
+        },
+        "fkfaisalkhan007": {
+            "profile": "https:\/\/profiles.wordpress.org\/fkfaisalkhan007\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/5d06fd05ab6d5ec68b9cec1380dc6dc5?s=96&d=monsterid&r=g",
+            "display_name": "fkfaisalkhan007"
+        },
+        "zishlife": {
+            "profile": "https:\/\/profiles.wordpress.org\/zishlife\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/7bfe4b0cad704d2dbb3a6dd61a30436d?s=96&d=monsterid&r=g",
+            "display_name": "zish"
+        },
+        "muhammadshahid": {
+            "profile": "https:\/\/profiles.wordpress.org\/muhammadshahid\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/1e24557797c4e83f997175ee3a0cf91f?s=96&d=monsterid&r=g",
+            "display_name": "Alexander"
+        },
+        "sharikkhan007": {
+            "profile": "https:\/\/profiles.wordpress.org\/sharikkhan007\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/e85c03b9050dcc35ba4d204b4775586f?s=96&d=monsterid&r=g",
+            "display_name": "Sharik Khan"
+        }
+    },
+    "requires": "5.8",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/ultimate-portfolio\/",
+    "support_threads": 1,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 273,
+    "last_updated": "2024-03-27 10:08am GMT",
+    "added": "2023-12-28",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Ultimate Portfolio is a versatile WordPress plugin for creating captivating galleries, post, projects and showcases using the Gutenberg editor. Experience the live editing and quick settings With multiple layouts, cuztomizable skins, and dynamic content.<\/p>\n<h3>Ultimate Portfolio<\/h3>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/p21j0wyBiiY?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<p><strong>Explore the live demo &#8211; <a href=\"https:\/\/webenvo.com\/ultimate-portfolio\/\" rel=\"nofollow ugc\">Click Here<\/a><\/strong><\/p>\n<h3>\ud83c\udf1f Gutenberg GALLERY BUILDER<\/h3>\n<p>Ultimate Portfolio Builder is a powerful WordPress plugin that empowers you to create stunning galleries and showcases with ease. Utilize the Gutenberg editor to design visually appealing galleries that enhance your website&#8217;s visual content.<\/p>\n<h3>\ud83c\udfa8 Multiple Layouts<\/h3>\n<p>Choose from a wide range of gallery layouts to suit your website&#8217;s aesthetic and functional requirements. Whether you prefer grids, masonry, or carousels, Gutenberg Gallery Builder has you covered.<\/p>\n<p>Layout Options:<\/p>\n<p><strong>Masonry<\/strong> &#8211; <a href=\"https:\/\/webenvo.com\/ultimate-portfolio\/masonry-layout-standerd\/\" rel=\"nofollow ugc\">Demo<\/a><br \/>\n<strong>Grid<\/strong> &#8211; <a href=\"https:\/\/webenvo.com\/ultimate-portfolio\/grid-with-caption\/\" rel=\"nofollow ugc\">Demo<\/a><br \/>\n<strong>Slider<\/strong> &#8211; <a href=\"https:\/\/webenvo.com\/ultimate-portfolio\/justified-exp\/\" rel=\"nofollow ugc\">Demo<\/a><br \/>\n<strong>Justified<\/strong> &#8211; (Premium) <a href=\"https:\/\/webenvo.com\/ultimate-portfolio\/ultimate-portfolio-justified\/\" rel=\"nofollow ugc\">Demo<\/a><\/p>\n<h3>\ud83c\udf89 Multiple Skins<\/h3>\n<p>Customize the appearance of your galleries effortlessly with multiple skins and styles. Tailor your galleries to match your website&#8217;s theme and create a seamless visual experience. Also it can be easeily custumizable with extra CSS.<\/p>\n<p>Skin Options:<\/p>\n<p><strong>Classic<\/strong><br \/>\n<strong>standard<\/strong><br \/>\n<strong>Wave<\/strong><br \/>\n<strong>Tilt (Premium)<\/strong><\/p>\n<h3>\ud83d\uddbc\ufe0f Gallery &amp; Post Fetching Options<\/h3>\n<p>Ultimate Portfolio offers flexible options for populating your galleries. Fetch images from your media library, specific posts, or even external sources to create dynamic and engaging content.<\/p>\n<h3>\ud83d\udd0d Filter Drag &amp; Drop, Sorting Controls<\/h3>\n<p>Take control of your gallery content organization with drag-and-drop filtering and sorting controls. Easily rearrange items, apply filters, and create a tailored user experience for your audience.<\/p>\n<h3>\ud83c\udf1f Enhance your Ultimate Portfolio with Premium Features:<\/h3>\n<ul>\n<li><strong>Social Media Fetching<\/strong>: Ultimate Portfolio can fetch social media feeds and display them beautifully on your site. Supported platforms include: YouTube, Instagram, Flickr, Vimeo, Unsplash.<\/li>\n<li><strong>Video Integration<\/strong>: Seamlessly integrate videos into your galleries for an immersive experience.<\/li>\n<li><strong>Advanced Styling<\/strong>: Unlock advanced styling options to further customize the look and feel of your galleries.<\/li>\n<li><strong>Priority Support<\/strong>: Get priority customer support with our premium package.<\/li>\n<\/ul>\n<p>Supported platforms include:<\/p>\n<p><strong>YouTube<\/strong><br \/>\n<strong>Instagram<\/strong><br \/>\n<strong>Flickr<\/strong><br \/>\n<strong>Vimeo<\/strong><br \/>\n<strong>Unsplash<\/strong><\/p>\n<p><strong>Video Integration<\/strong>: Seamlessly integrate videos into your galleries for an immersive experience.<\/p>\n<p><strong>Advanced Styling<\/strong>: Unlock advanced styling options to further customize the look and feel of your galleries.<\/p>\n<p><strong>Priority Support<\/strong>: Get priority customer support with our premium package.<\/p>\n",
+        "changelog": "<h4>1.0.5<\/h4>\n<ul>\n<li>Media Bug Fixed.<\/li>\n<\/ul>\n<h4>1.0.4<\/h4>\n<ul>\n<li>Fixed image not found issue (admin).<\/li>\n<\/ul>\n<h4>1.0.3<\/h4>\n<ul>\n<li>Fixed a bug.<\/li>\n<li>Added General Settings.<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>bug fixed.<\/li>\n<li>border-radius bug fixed.<\/li>\n<li>extra code remove.<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>bug fixed.<\/li>\n<li>extra css &amp; code remove.<\/li>\n<li>image standard layout bug fixed.<\/li>\n<li>slider option icon added.<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Initial Release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/ultimate-portfolio\/assets\/screenshot-1.gif?rev=3029419\"><img src=\"https:\/\/ps.w.org\/ultimate-portfolio\/assets\/screenshot-1.gif?rev=3029419\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/ultimate-portfolio\/assets\/screenshot-2.gif?rev=3029419\"><img src=\"https:\/\/ps.w.org\/ultimate-portfolio\/assets\/screenshot-2.gif?rev=3029419\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/ultimate-portfolio\/assets\/screenshot-3.gif?rev=3029419\"><img src=\"https:\/\/ps.w.org\/ultimate-portfolio\/assets\/screenshot-3.gif?rev=3029419\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/ultimate-portfolio\/assets\/screenshot-4.gif?rev=3029419\"><img src=\"https:\/\/ps.w.org\/ultimate-portfolio\/assets\/screenshot-4.gif?rev=3029419\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/ultimate-portfolio\/assets\/screenshot-5.png?rev=3029419\"><img src=\"https:\/\/ps.w.org\/ultimate-portfolio\/assets\/screenshot-5.png?rev=3029419\" alt=\"portfolio preview\"><\/a><p>portfolio preview<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/ultimate-portfolio\/assets\/screenshot-6.png?rev=3029419\"><img src=\"https:\/\/ps.w.org\/ultimate-portfolio\/assets\/screenshot-6.png?rev=3029419\" alt=\"portfolio preview\"><\/a><p>portfolio preview<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Ultimate Portfolio is a versatile WordPress plugin for creating captivating galleries, post, projects and showcases using the Gutenberg editor.",
+    "description": "<p>Ultimate Portfolio is a versatile WordPress plugin for creating captivating galleries, post, projects and showcases using the Gutenberg editor. Experience the live editing and quick settings With multiple layouts, cuztomizable skins, and dynamic content.<\/p>\n<h3>Ultimate Portfolio<\/h3>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/p21j0wyBiiY?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<p><strong>Explore the live demo &#8211; <a href=\"https:\/\/webenvo.com\/ultimate-portfolio\/\" rel=\"nofollow ugc\">Click Here<\/a><\/strong><\/p>\n<h3>\ud83c\udf1f Gutenberg GALLERY BUILDER<\/h3>\n<p>Ultimate Portfolio Builder is a powerful WordPress plugin that empowers you to create stunning galleries and showcases with ease. Utilize the Gutenberg editor to design visually appealing galleries that enhance your website&#8217;s visual content.<\/p>\n<h3>\ud83c\udfa8 Multiple Layouts<\/h3>\n<p>Choose from a wide range of gallery layouts to suit your website&#8217;s aesthetic and functional requirements. Whether you prefer grids, masonry, or carousels, Gutenberg Gallery Builder has you covered.<\/p>\n<p>Layout Options:<\/p>\n<p><strong>Masonry<\/strong> &#8211; <a href=\"https:\/\/webenvo.com\/ultimate-portfolio\/masonry-layout-standerd\/\" rel=\"nofollow ugc\">Demo<\/a><br \/>\n<strong>Grid<\/strong> &#8211; <a href=\"https:\/\/webenvo.com\/ultimate-portfolio\/grid-with-caption\/\" rel=\"nofollow ugc\">Demo<\/a><br \/>\n<strong>Slider<\/strong> &#8211; <a href=\"https:\/\/webenvo.com\/ultimate-portfolio\/justified-exp\/\" rel=\"nofollow ugc\">Demo<\/a><br \/>\n<strong>Justified<\/strong> &#8211; (Premium) <a href=\"https:\/\/webenvo.com\/ultimate-portfolio\/ultimate-portfolio-justified\/\" rel=\"nofollow ugc\">Demo<\/a><\/p>\n<h3>\ud83c\udf89 Multiple Skins<\/h3>\n<p>Customize the appearance of your galleries effortlessly with multiple skins and styles. Tailor your galleries to match your website&#8217;s theme and create a seamless visual experience. Also it can be easeily custumizable with extra CSS.<\/p>\n<p>Skin Options:<\/p>\n<p><strong>Classic<\/strong><br \/>\n<strong>standard<\/strong><br \/>\n<strong>Wave<\/strong><br \/>\n<strong>Tilt (Premium)<\/strong><\/p>\n<h3>\ud83d\uddbc\ufe0f Gallery &amp; Post Fetching Options<\/h3>\n<p>Ultimate Portfolio offers flexible options for populating your galleries. Fetch images from your media library, specific posts, or even external sources to create dynamic and engaging content.<\/p>\n<h3>\ud83d\udd0d Filter Drag &amp; Drop, Sorting Controls<\/h3>\n<p>Take control of your gallery content organization with drag-and-drop filtering and sorting controls. Easily rearrange items, apply filters, and create a tailored user experience for your audience.<\/p>\n<h3>\ud83c\udf1f Enhance your Ultimate Portfolio with Premium Features:<\/h3>\n<ul>\n<li><strong>Social Media Fetching<\/strong>: Ultimate Portfolio can fetch social media feeds and display them beautifully on your site. Supported platforms include: YouTube, Instagram, Flickr, Vimeo, Unsplash.<\/li>\n<li><strong>Video Integration<\/strong>: Seamlessly integrate videos into your galleries for an immersive experience.<\/li>\n<li><strong>Advanced Styling<\/strong>: Unlock advanced styling options to further customize the look and feel of your galleries.<\/li>\n<li><strong>Priority Support<\/strong>: Get priority customer support with our premium package.<\/li>\n<\/ul>\n<p>Supported platforms include:<\/p>\n<p><strong>YouTube<\/strong><br \/>\n<strong>Instagram<\/strong><br \/>\n<strong>Flickr<\/strong><br \/>\n<strong>Vimeo<\/strong><br \/>\n<strong>Unsplash<\/strong><\/p>\n<p><strong>Video Integration<\/strong>: Seamlessly integrate videos into your galleries for an immersive experience.<\/p>\n<p><strong>Advanced Styling<\/strong>: Unlock advanced styling options to further customize the look and feel of your galleries.<\/p>\n<p><strong>Priority Support<\/strong>: Get priority customer support with our premium package.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-portfolio.1.0.5.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/ultimate-portfolio\/assets\/screenshot-1.gif?rev=3029419",
+            "caption": ""
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/ultimate-portfolio\/assets\/screenshot-2.gif?rev=3029419",
+            "caption": ""
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/ultimate-portfolio\/assets\/screenshot-3.gif?rev=3029419",
+            "caption": ""
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/ultimate-portfolio\/assets\/screenshot-4.gif?rev=3029419",
+            "caption": ""
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/ultimate-portfolio\/assets\/screenshot-5.png?rev=3029419",
+            "caption": "portfolio preview"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/ultimate-portfolio\/assets\/screenshot-6.png?rev=3029419",
+            "caption": "portfolio preview"
+        }
+    },
+    "tags": {
+        "gallery": "gallery",
+        "photo-gallery": "photo gallery",
+        "portfolio": "portfolio",
+        "slider": "slider",
+        "wordpress-gallery-plugin": "wordpress gallery plugin"
+    },
+    "stable_tag": "1.0.5",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-portfolio.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-portfolio.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-portfolio.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-portfolio.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-portfolio.1.0.4.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-portfolio.1.0.5.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-portfolio.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/ultimate-portfolio\/assets\/banner-772x250.png?rev=3015032",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/ultimate-portfolio\/assets\/icon-128x128.gif?rev=3015032",
+        "2x": "https:\/\/ps.w.org\/ultimate-portfolio\/assets\/icon-256x256.gif?rev=3015032"
+    },
+    "blocks": {
+        "ultimate-portfolio\/ultimate-portfolio": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 2,
+            "name": "ultimate-portfolio\/ultimate-portfolio",
+            "version": "0.1.0",
+            "title": "Ultimate Portfolio",
+            "category": "widgets",
+            "icon": "block",
+            "description": "Create and customize dynamic gallery and post portfolios for your WordPress website. With Ultimate Portfolio, you have the flexibility to design captivating galleries, project showcases, and more using the Gutenberg editor.",
+            "supports": {
+                "html": false
+            },
+            "textdomain": "ultimate-portfolio",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

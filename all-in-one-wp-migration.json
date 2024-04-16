@@ -1,0 +1,576 @@
+{
+    "name": "All-in-One WP Migration",
+    "slug": "all-in-one-wp-migration",
+    "version": "7.81",
+    "author": "<a href=\"https:\/\/servmask.com\/\">ServMask<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/yaniiliev\/",
+    "contributors": {
+        "yaniiliev": {
+            "profile": "https:\/\/profiles.wordpress.org\/yaniiliev\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/973f2d8c1c526f7791cd5e1d9644f89f?s=96&d=monsterid&r=g",
+            "display_name": "Yani Iliev"
+        },
+        "bangelov": {
+            "profile": "https:\/\/profiles.wordpress.org\/bangelov\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/7b1bd619b3d70a6b9f621f6544766fc0?s=96&d=monsterid&r=g",
+            "display_name": "Borislav Angelov"
+        },
+        "pimjitsawang": {
+            "profile": "https:\/\/profiles.wordpress.org\/pimjitsawang\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/404bf0de3d1456941c94a5b04fd5acee?s=96&d=monsterid&r=g",
+            "display_name": "Pim J. Iliev"
+        }
+    },
+    "requires": "3.3",
+    "tested": "6.5.2",
+    "requires_php": "5.3",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 90,
+    "ratings": {
+        "5": 6252,
+        "4": 209,
+        "3": 101,
+        "2": 83,
+        "1": 722
+    },
+    "num_ratings": 7367,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/all-in-one-wp-migration\/",
+    "support_threads": 22,
+    "support_threads_resolved": 0,
+    "active_installs": 5000000,
+    "downloaded": 121509719,
+    "last_updated": "2024-03-05 5:03pm GMT",
+    "added": "2014-01-07",
+    "homepage": "https:\/\/servmask.com\/",
+    "sections": {
+        "description": "<p>Introduced in 2013 and used by over 60 million websites, All-in-One WP Migration is verifiably one of WordPress&#8217; most trusted and utilized plugins for moving websites with absolute ease.<\/p>\n<p>Intently built with the non-technical user in mind, All-in-One WP Migration comes loaded with newbie-friendly functions that allow you to migrate your WordPress website with little to no technical knowledge or experience.<\/p>\n<p>Ready to migrate your website? It&#8217;s fast and easy as 1, 2, 3:<\/p>\n<ol>\n<li>Install All-in-One WP Migration plugin.<\/li>\n<li>Hit the export button to bundle your database, media files, plugins, and themes into one tidy file.<\/li>\n<li>Unpack the file at the new location with an easy-to-use &#8220;drag and drop&#8221; feature in the WordPress dashboard of your new website.<\/li>\n<\/ol>\n<p>Follow these three simple steps, and your site will be live at its new location with minimal stress and <strong>zero downtime<\/strong>!<\/p>\n<p>One feature that makes All-in-One WP Migration widely loved (to the tune of over 6,000 5-star user reviews) is that the technical requirements for installing the plugin are simple.<\/p>\n<p>If you have WordPress version between 3.3 and 6.4.2 and PHP version between 5.3 and 8.3, you are good to go. All-in-One WP Migration also supports all versions of MySQL and MariaDB.<\/p>\n<p><strong>Features Spotlight:<\/strong><\/p>\n<ul>\n<li>Supports custom uploads, plugins, theme folders, and more.<\/li>\n<li>Available in over 50 language translations &#8211; including Japanese.<\/li>\n<li>Accessible for individuals with disabilities (WCAG 2.1 AA Level compliant)<\/li>\n<li>No limitations on host or operating system.<\/li>\n<li>Supports a vast range of hosting providers &#8212; <a href=\"https:\/\/help.servmask.com\/knowledgebase\/supported-hosting-providers\/\" rel=\"nofollow ugc\">click here for a full list of supported providers.<\/a><\/li>\n<li>A long list of <a href=\"https:\/\/servmask.com\/products\" rel=\"nofollow ugc\">premium extensions<\/a> that gives you the power to do more.<\/li>\n<li>Mobile device compatible.<\/li>\n<li>Intelligent and flawless auto-replacement of website url during import.<\/li>\n<li>Full product support.<\/li>\n<li>Browse WPRESS files online with <a href=\"https:\/\/traktor.servmask.com\" rel=\"nofollow ugc\">Traktor Web<\/a><\/li>\n<li>Extract WPRESS files on your computer with <a href=\"https:\/\/traktor.wp-migration.com\" rel=\"nofollow ugc\">Traktor Desktop<\/a><\/li>\n<li>And lots more!<\/li>\n<\/ul>\n<p>Here are other reasons to use All-in-One WP Migration &#8230;<\/p>\n<p><strong>Trusted by the Government and Big Corporations:<\/strong><\/p>\n<p>Many enterprise customers, government organizations, and universities use, love, and trust All-in-One WP Migration. Here are some: Boeing, NASA, VW, IBM, Harvard University, Stanford University, Lego, P&amp;G, Automattic, State of California, State of Hawaii.<br \/>\nThis broad adoption and usage of All-in-One WP Migration demonstrate how <strong>safe, reliable and adaptable<\/strong> the plugin is for just about any website migration need.<\/p>\n<p><strong>Full Compatibility and Support:<\/strong><\/p>\n<p>All-in-One WP Migration has been extensively tested and confirmed to be compatible with most WordPress plugins and themes.<br \/>\nThis means you don&#8217;t get to experience cross-plugin compatibility issues that can slow down, bug, or break down your WordPress website when you install and use All-in-One WP Migration.<br \/>\nAs a matter of fact, All-in-One WP Migration has partnered with multiple theme\/plugin vendors to distribute their themes\/plugins with us as a single, easy to use, easy to install package.<br \/>\nThese vendors trust us and our plugin to provide their customers with reliable product delivery, support, migrations, and backups.<\/p>\n<p><strong>Cloud Storage Supported:<\/strong><\/p>\n<p>All-in-One WP Migration supports and syncs seamlessly with top cloud storage services.<br \/>\nThe plugin comes preinstalled on all Bitnami WordPress sites running on AWS, Google Compute Cloud, and Microsoft Azure.<\/p>\n<h4>Contact us<\/h4>\n<ul>\n<li><a href=\"https:\/\/servmask.com\/help\" rel=\"nofollow ugc\">Get free help from us here<\/a><\/li>\n<li><a href=\"https:\/\/servmask.com\/help\" rel=\"nofollow ugc\">Report a bug or request a feature<\/a><\/li>\n<li><a href=\"https:\/\/servmask.com\" rel=\"nofollow ugc\">Find out more about us<\/a><\/li>\n<\/ul>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/BpWxCeUWBOk?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/mRp7qTFYKgs?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n<h3>Privacy Policy<\/h3>\n<p>All-in-One WP Migration is designed to fully respect and protect the personal information of its users. It asks for your consent to collect the user&#8217;s email address when filling the plugin&#8217;s contact form.<br \/>\nAll-in-One WP Migration is in full compliance with General Data Protection Regulation (GDPR).<br \/>\nSee our <a href=\"https:\/\/www.iubenda.com\/privacy-policy\/946881\" rel=\"nofollow ugc\">GDPR Compliant Privacy Policy here<\/a>.<\/p>\n",
+        "installation": "<ol>\n<li>All-in-One WP Migration can be installed directly through your WordPress Plugins dashboard.<\/li>\n<li>Click &#8220;Add New&#8221; and Search for &#8220;All-in-One WP Migration&#8221;<\/li>\n<li>Install and Activate<\/li>\n<\/ol>\n<p>Alternatively, you can download the plugin using the download button on this page and then upload the all-in-one-wp-migration folder to the \/wp-content\/plugins\/ directory then activate throught the Plugins dashboard in WordPress<\/p>\n",
+        "changelog": "<h4>7.81<\/h4>\n<p><strong>Added<\/strong><\/p>\n<ul>\n<li>Reset Hub Page: Introducing a new reset hub page, providing users with powerful reset tools for efficient site management. This feature allows for easier resets of WordPress environments, facilitating smoother development and testing workflows.<\/li>\n<\/ul>\n<p><strong>Improved<\/strong><\/p>\n<ul>\n<li>Better W3TC Support<\/li>\n<li>PHP Compatibility Checks: Display a warning notification, when you move\/restore your site to a different PHP version.<\/li>\n<\/ul>\n<h4>7.80<\/h4>\n<p><strong>Added<\/strong><\/p>\n<ul>\n<li>Support for update-services plugin<\/li>\n<li>Domain name conversion to dashes from dots in the backup name for improved hosting providers compatibility<\/li>\n<\/ul>\n<p><strong>Improved<\/strong><\/p>\n<ul>\n<li>Better support for Multisite to Standalone and Standalone to Multisite exports and imports, streamlining the migration process<\/li>\n<\/ul>\n<h4>7.79<\/h4>\n<p><strong>Added<\/strong><\/p>\n<ul>\n<li>Support for WordPress v6.4<\/li>\n<\/ul>\n<h4>7.78<\/h4>\n<p><strong>Added<\/strong><\/p>\n<ul>\n<li>Implemented a new Schedules page within the plugin, displaying various advanced features exclusive to premium extensions<\/li>\n<\/ul>\n<h4>7.77<\/h4>\n<p><strong>Added<\/strong><\/p>\n<ul>\n<li>Tested the new version of WordPress 6.3<\/li>\n<\/ul>\n<h4>7.76<\/h4>\n<p><strong>Fixed<\/strong><\/p>\n<ul>\n<li>Removed the [beta] label from advanced settings<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/all-in-one-wp-migration\/assets\/screenshot-1.png?rev=1625263\"><img src=\"https:\/\/ps.w.org\/all-in-one-wp-migration\/assets\/screenshot-1.png?rev=1625263\" alt=\"Mobile Export page\"><\/a><p>Mobile Export page<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/all-in-one-wp-migration\/assets\/screenshot-2.png?rev=1625263\"><img src=\"https:\/\/ps.w.org\/all-in-one-wp-migration\/assets\/screenshot-2.png?rev=1625263\" alt=\"Mobile Import page\"><\/a><p>Mobile Import page<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/all-in-one-wp-migration\/assets\/screenshot-3.png?rev=1625263\"><img src=\"https:\/\/ps.w.org\/all-in-one-wp-migration\/assets\/screenshot-3.png?rev=1625263\" alt=\"Plugin Menu\"><\/a><p>Plugin Menu<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/all-in-one-wp-migration\/assets\/screenshot-4.png?rev=1625263\"><img src=\"https:\/\/ps.w.org\/all-in-one-wp-migration\/assets\/screenshot-4.png?rev=1625263\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">100% Reliable, Best ever.<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/hrsoft\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/785f7460f79c5bd24fbbf3687de5e0d0?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/785f7460f79c5bd24fbbf3687de5e0d0?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/hrsoft\/\" class=\"reviewer-name\">JAHM <small>(hrsoft)<\/small><\/a> on <span class=\"review-date\">April 10, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Easy to use, am using with VPS i own and tranfering website to live once development ready, backing up, moving wpress file to target and restoring... <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Huge timesaver<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/molecularbear\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/49b34092d4529257999d9dea40658afd?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/49b34092d4529257999d9dea40658afd?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/molecularbear\/\" class=\"reviewer-name\">molecularbear<\/a> on <span class=\"review-date\">April 7, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Saved a ton of time migrating a small WP site<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">sensational service<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/xerxes7\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f41ee5f8e53728174daa432199f7a3e7?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f41ee5f8e53728174daa432199f7a3e7?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/xerxes7\/\" class=\"reviewer-name\">xerxes7<\/a> on <span class=\"review-date\">April 7, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">sensational service. Extremely professional, quick and easy<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excellent Backup &amp; Transfer Tool<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jimidi2019\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/04cb72cd0b33f9d25d2b407f26209c1d?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/04cb72cd0b33f9d25d2b407f26209c1d?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jimidi2019\/\" class=\"reviewer-name\">jimidi2019<\/a> on <span class=\"review-date\">April 7, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I have used the All in One Migration successfully for both backups and site transfers between registrars. When an Import failed, all I needed to do was stop the import and restart it for a successful import\u2026Excellent Plug-in!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Never give up<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/douyamakenkouin\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/a57963c49c87602df3464a2599d3be02?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/a57963c49c87602df3464a2599d3be02?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/douyamakenkouin\/\" class=\"reviewer-name\">douyamakenkouin<\/a> on <span class=\"review-date\">April 3, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The issue I had was resolved immediately.Thank you for your quick and accurate advice.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Do not import<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/itmsft\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/4532200d0398af79adc3da5b9b13b880?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/4532200d0398af79adc3da5b9b13b880?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/itmsft\/\" class=\"reviewer-name\">Yuriy Ostyuchenko <small>(itmsft)<\/small><\/a> on <span class=\"review-date\">March 31, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Plugin do not import site. Write 0.00%\/<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Powerfull plugin great work<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/minimamente\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/58d06dd2ccef119c9579c5f21ea14082?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/58d06dd2ccef119c9579c5f21ea14082?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/minimamente\/\" class=\"reviewer-name\">minimamente<\/a> on <span class=\"review-date\">March 29, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Powerfull plugin great work<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Perfect solution for backup the WP sites<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/swiriwon\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/c53145fa56efc91338b4d365e66a3604?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/c53145fa56efc91338b4d365e66a3604?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/swiriwon\/\" class=\"reviewer-name\">swiriwon<\/a> on <span class=\"review-date\">March 29, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Using \"the \"All In One Migration\" for a long time, and it is a perfect solution for backup the WordPress sites. Also, they have a fast support system. I appreciate their help all the time.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Top !<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/azertix80\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d096d6b516ce35d2a02b49a7525a9a65?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d096d6b516ce35d2a02b49a7525a9a65?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/azertix80\/\" class=\"reviewer-name\">azertix80<\/a> on <span class=\"review-date\">March 25, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Une cinquantaine de sites migr\u00e9s d'un h\u00e9bergeur \u00e0 un autre avec une fiabilit\u00e9 et une facilit\u00e9 d\u00e9concertante... \u00c7a valait bien un petit (grand !) merci :)<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Works Perfectly<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/johnkennyadeya\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/dff209ff6a8c38d0452e1bef13be2b2a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/dff209ff6a8c38d0452e1bef13be2b2a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/johnkennyadeya\/\" class=\"reviewer-name\">John Kenny Adeya <small>(johnkennyadeya)<\/small><\/a> on <span class=\"review-date\">March 21, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This plugin saved my life. I was so worried of losing my WordPress settings until I found it and it successfully migrated my 10 GB website with over 70,000 files.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Move, transfer, copy, migrate, and backup a site with 1-click. Quick, easy, and reliable.",
+    "description": "<p>Introduced in 2013 and used by over 60 million websites, All-in-One WP Migration is verifiably one of WordPress&#8217; most trusted and utilized plugins for moving websites with absolute ease.<\/p>\n<p>Intently built with the non-technical user in mind, All-in-One WP Migration comes loaded with newbie-friendly functions that allow you to migrate your WordPress website with little to no technical knowledge or experience.<\/p>\n<p>Ready to migrate your website? It&#8217;s fast and easy as 1, 2, 3:<\/p>\n<ol>\n<li>Install All-in-One WP Migration plugin.<\/li>\n<li>Hit the export button to bundle your database, media files, plugins, and themes into one tidy file.<\/li>\n<li>Unpack the file at the new location with an easy-to-use &#8220;drag and drop&#8221; feature in the WordPress dashboard of your new website.<\/li>\n<\/ol>\n<p>Follow these three simple steps, and your site will be live at its new location with minimal stress and <strong>zero downtime<\/strong>!<\/p>\n<p>One feature that makes All-in-One WP Migration widely loved (to the tune of over 6,000 5-star user reviews) is that the technical requirements for installing the plugin are simple.<\/p>\n<p>If you have WordPress version between 3.3 and 6.4.2 and PHP version between 5.3 and 8.3, you are good to go. All-in-One WP Migration also supports all versions of MySQL and MariaDB.<\/p>\n<p><strong>Features Spotlight:<\/strong><\/p>\n<ul>\n<li>Supports custom uploads, plugins, theme folders, and more.<\/li>\n<li>Available in over 50 language translations &#8211; including Japanese.<\/li>\n<li>Accessible for individuals with disabilities (WCAG 2.1 AA Level compliant)<\/li>\n<li>No limitations on host or operating system.<\/li>\n<li>Supports a vast range of hosting providers &#8212; <a href=\"https:\/\/help.servmask.com\/knowledgebase\/supported-hosting-providers\/\" rel=\"nofollow ugc\">click here for a full list of supported providers.<\/a><\/li>\n<li>A long list of <a href=\"https:\/\/servmask.com\/products\" rel=\"nofollow ugc\">premium extensions<\/a> that gives you the power to do more.<\/li>\n<li>Mobile device compatible.<\/li>\n<li>Intelligent and flawless auto-replacement of website url during import.<\/li>\n<li>Full product support.<\/li>\n<li>Browse WPRESS files online with <a href=\"https:\/\/traktor.servmask.com\" rel=\"nofollow ugc\">Traktor Web<\/a><\/li>\n<li>Extract WPRESS files on your computer with <a href=\"https:\/\/traktor.wp-migration.com\" rel=\"nofollow ugc\">Traktor Desktop<\/a><\/li>\n<li>And lots more!<\/li>\n<\/ul>\n<p>Here are other reasons to use All-in-One WP Migration &#8230;<\/p>\n<p><strong>Trusted by the Government and Big Corporations:<\/strong><\/p>\n<p>Many enterprise customers, government organizations, and universities use, love, and trust All-in-One WP Migration. Here are some: Boeing, NASA, VW, IBM, Harvard University, Stanford University, Lego, P&amp;G, Automattic, State of California, State of Hawaii.<br \/>\nThis broad adoption and usage of All-in-One WP Migration demonstrate how <strong>safe, reliable and adaptable<\/strong> the plugin is for just about any website migration need.<\/p>\n<p><strong>Full Compatibility and Support:<\/strong><\/p>\n<p>All-in-One WP Migration has been extensively tested and confirmed to be compatible with most WordPress plugins and themes.<br \/>\nThis means you don&#8217;t get to experience cross-plugin compatibility issues that can slow down, bug, or break down your WordPress website when you install and use All-in-One WP Migration.<br \/>\nAs a matter of fact, All-in-One WP Migration has partnered with multiple theme\/plugin vendors to distribute their themes\/plugins with us as a single, easy to use, easy to install package.<br \/>\nThese vendors trust us and our plugin to provide their customers with reliable product delivery, support, migrations, and backups.<\/p>\n<p><strong>Cloud Storage Supported:<\/strong><\/p>\n<p>All-in-One WP Migration supports and syncs seamlessly with top cloud storage services.<br \/>\nThe plugin comes preinstalled on all Bitnami WordPress sites running on AWS, Google Compute Cloud, and Microsoft Azure.<\/p>\n<h4>Contact us<\/h4>\n<ul>\n<li><a href=\"https:\/\/servmask.com\/help\" rel=\"nofollow ugc\">Get free help from us here<\/a><\/li>\n<li><a href=\"https:\/\/servmask.com\/help\" rel=\"nofollow ugc\">Report a bug or request a feature<\/a><\/li>\n<li><a href=\"https:\/\/servmask.com\" rel=\"nofollow ugc\">Find out more about us<\/a><\/li>\n<\/ul>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/BpWxCeUWBOk?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/mRp7qTFYKgs?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n<h3>Privacy Policy<\/h3>\n<p>All-in-One WP Migration is designed to fully respect and protect the personal information of its users. It asks for your consent to collect the user&#8217;s email address when filling the plugin&#8217;s contact form.<br \/>\nAll-in-One WP Migration is in full compliance with General Data Protection Regulation (GDPR).<br \/>\nSee our <a href=\"https:\/\/www.iubenda.com\/privacy-policy\/946881\" rel=\"nofollow ugc\">GDPR Compliant Privacy Policy here<\/a>.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/all-in-one-wp-migration.7.81.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/all-in-one-wp-migration\/assets\/screenshot-1.png?rev=1625263",
+            "caption": "Mobile Export page"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/all-in-one-wp-migration\/assets\/screenshot-2.png?rev=1625263",
+            "caption": "Mobile Import page"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/all-in-one-wp-migration\/assets\/screenshot-3.png?rev=1625263",
+            "caption": "Plugin Menu"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/all-in-one-wp-migration\/assets\/screenshot-4.png?rev=1625263",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "backup": "backup",
+        "copy": "copy",
+        "migrate": "migrate",
+        "move": "move",
+        "transfer": "transfer"
+    },
+    "stable_tag": "7.81",
+    "versions": {
+        "7.76": "https:\/\/downloads.wordpress.org\/plugin\/all-in-one-wp-migration.7.76.zip",
+        "7.77": "https:\/\/downloads.wordpress.org\/plugin\/all-in-one-wp-migration.7.77.zip",
+        "7.78": "https:\/\/downloads.wordpress.org\/plugin\/all-in-one-wp-migration.7.78.zip",
+        "7.79": "https:\/\/downloads.wordpress.org\/plugin\/all-in-one-wp-migration.7.79.zip",
+        "7.80": "https:\/\/downloads.wordpress.org\/plugin\/all-in-one-wp-migration.7.80.zip",
+        "7.81": "https:\/\/downloads.wordpress.org\/plugin\/all-in-one-wp-migration.7.81.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/all-in-one-wp-migration.zip"
+    },
+    "business_model": "commercial",
+    "repository_url": "",
+    "commercial_support_url": "https:\/\/servmask.com\/contact-support",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/all-in-one-wp-migration\/assets\/banner-772x250.png?rev=2990457",
+        "high": "https:\/\/ps.w.org\/all-in-one-wp-migration\/assets\/banner-1544x500.png?rev=2990457"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/all-in-one-wp-migration\/assets\/icon-128x128.png?rev=2458334",
+        "2x": "https:\/\/ps.w.org\/all-in-one-wp-migration\/assets\/icon-256x256.png?rev=2458334"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 90,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "ar",
+            "version": "7.81",
+            "updated": "2022-02-28 21:16:23",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/ar.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "bg_BG",
+            "version": "7.81",
+            "updated": "2020-09-07 10:25:23",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/bg_BG.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "bn_BD",
+            "version": "7.81",
+            "updated": "2022-10-03 10:42:37",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/bn_BD.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "bs_BA",
+            "version": "7.81",
+            "updated": "2020-01-19 15:09:32",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/bs_BA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "ca",
+            "version": "7.81",
+            "updated": "2023-12-29 07:40:44",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/ca.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "cs_CZ",
+            "version": "7.81",
+            "updated": "2022-09-19 19:30:52",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/cs_CZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "da_DK",
+            "version": "7.81",
+            "updated": "2022-11-21 13:01:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/da_DK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "de_DE",
+            "version": "7.81",
+            "updated": "2024-02-25 19:07:09",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "el",
+            "version": "7.81",
+            "updated": "2023-09-25 13:27:59",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/el.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "en_ZA",
+            "version": "7.81",
+            "updated": "2021-12-24 13:01:44",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/en_ZA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "en_NZ",
+            "version": "7.81",
+            "updated": "2022-05-24 10:43:16",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/en_NZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "en_GB",
+            "version": "7.81",
+            "updated": "2024-03-28 11:16:23",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/en_GB.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "en_CA",
+            "version": "7.81",
+            "updated": "2023-10-20 07:28:13",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/en_CA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "en_AU",
+            "version": "7.81",
+            "updated": "2021-08-31 05:35:55",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/en_AU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "es_ES",
+            "version": "7.81",
+            "updated": "2024-03-05 19:29:52",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "es_PE",
+            "version": "7.81",
+            "updated": "2022-11-24 22:28:50",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/es_PE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "es_VE",
+            "version": "7.81",
+            "updated": "2022-07-04 06:25:03",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "es_MX",
+            "version": "7.81",
+            "updated": "2024-02-20 22:33:49",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/es_MX.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "es_DO",
+            "version": "7.81",
+            "updated": "2022-03-25 14:20:24",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/es_DO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "es_AR",
+            "version": "7.81",
+            "updated": "2022-04-26 16:32:27",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/es_AR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "es_CO",
+            "version": "7.81",
+            "updated": "2022-07-04 06:23:03",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/es_CO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "es_CR",
+            "version": "7.81",
+            "updated": "2022-01-15 18:34:23",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/es_CR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "es_EC",
+            "version": "7.81",
+            "updated": "2024-01-04 22:54:56",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/es_EC.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "fa_IR",
+            "version": "7.81",
+            "updated": "2023-07-11 10:37:24",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/fa_IR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "fi",
+            "version": "7.81",
+            "updated": "2021-05-04 05:22:57",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/fi.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "fr_FR",
+            "version": "7.81",
+            "updated": "2023-01-12 22:00:15",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "fr_BE",
+            "version": "7.81",
+            "updated": "2022-05-18 12:15:08",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/fr_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "gl_ES",
+            "version": "7.81",
+            "updated": "2024-03-13 13:35:40",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/gl_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "hi_IN",
+            "version": "7.81",
+            "updated": "2022-04-23 04:13:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/hi_IN.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "hr",
+            "version": "7.81",
+            "updated": "2021-01-27 13:00:10",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/hr.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "hu_HU",
+            "version": "7.81",
+            "updated": "2024-03-14 16:52:59",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/hu_HU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "id_ID",
+            "version": "7.81",
+            "updated": "2023-10-04 12:14:05",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/id_ID.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "it_IT",
+            "version": "7.81",
+            "updated": "2023-09-14 14:36:36",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "ja",
+            "version": "7.81",
+            "updated": "2022-09-19 12:57:34",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/ja.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "ka_GE",
+            "version": "7.81",
+            "updated": "2022-09-12 10:09:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/ka_GE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "ko_KR",
+            "version": "7.81",
+            "updated": "2023-07-11 05:45:38",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/ko_KR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "nb_NO",
+            "version": "7.81",
+            "updated": "2023-07-21 02:21:21",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/nb_NO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "nl_NL_formal",
+            "version": "7.81",
+            "updated": "2024-03-06 08:13:40",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/nl_NL_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "nl_NL",
+            "version": "7.81",
+            "updated": "2024-03-05 18:11:45",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "nl_BE",
+            "version": "7.81",
+            "updated": "2024-03-05 19:30:07",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/nl_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "pcm",
+            "version": "7.81",
+            "updated": "2022-04-01 15:53:45",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/pcm.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "pl_PL",
+            "version": "7.81",
+            "updated": "2022-06-30 05:38:46",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/pl_PL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "pt_AO",
+            "version": "7.81",
+            "updated": "2020-10-13 08:57:23",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/pt_AO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "pt_PT",
+            "version": "7.81",
+            "updated": "2024-03-04 09:21:52",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/pt_PT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "pt_BR",
+            "version": "7.81",
+            "updated": "2024-03-14 18:28:05",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/pt_BR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "ro_RO",
+            "version": "7.81",
+            "updated": "2024-03-13 14:56:14",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/ro_RO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "ru_RU",
+            "version": "7.81",
+            "updated": "2023-10-12 06:12:51",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "sk_SK",
+            "version": "7.81",
+            "updated": "2024-03-17 11:24:04",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/sk_SK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "sq",
+            "version": "7.81",
+            "updated": "2024-03-07 20:27:02",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/sq.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "sr_RS",
+            "version": "7.81",
+            "updated": "2022-10-05 10:35:34",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/sr_RS.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "sv_SE",
+            "version": "7.81",
+            "updated": "2024-03-05 17:38:41",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/sv_SE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "th",
+            "version": "7.81",
+            "updated": "2023-10-19 13:46:27",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/th.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "tr_TR",
+            "version": "7.81",
+            "updated": "2022-05-30 15:34:52",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/tr_TR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "uk",
+            "version": "7.81",
+            "updated": "2024-04-02 18:30:44",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/uk.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "vi",
+            "version": "7.81",
+            "updated": "2022-03-22 10:14:12",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/vi.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "zh_HK",
+            "version": "7.81",
+            "updated": "2022-03-24 16:37:00",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/zh_HK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "zh_CN",
+            "version": "7.81",
+            "updated": "2023-09-11 00:37:10",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/zh_CN.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "all-in-one-wp-migration",
+            "language": "zh_TW",
+            "version": "7.81",
+            "updated": "2024-03-12 03:09:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/all-in-one-wp-migration\/7.81\/zh_TW.zip"
+        }
+    ]
+}

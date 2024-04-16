@@ -1,0 +1,87 @@
+{
+    "name": "WFK Menu Import\/Export",
+    "slug": "wfk-menu-importexport",
+    "version": "1.0.0",
+    "author": "<a href=\"https:\/\/wfk.shanto.studio\">YH SAJIB<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/wpfeaturekits22\/",
+    "contributors": {
+        "wpfeaturekits22": {
+            "profile": "https:\/\/profiles.wordpress.org\/wpfeaturekits22\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/fab6487006f8919a7dfd0014b2a26635?s=96&d=monsterid&r=g",
+            "display_name": "YH Sajib"
+        }
+    },
+    "requires": "4.0",
+    "tested": "6.4.4",
+    "requires_php": "5.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 60,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 1
+    },
+    "num_ratings": 2,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/wfk-menu-importexport\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 88,
+    "last_updated": "2024-03-02 12:46pm GMT",
+    "added": "2024-03-02",
+    "homepage": "https:\/\/wfk.shanto.studio\/plugins\/wfk-menu-import-export.zip",
+    "sections": {
+        "description": "<p>WFK Menu Import\/Export lets you export and import your menu using a user interface. you will get the link to import export admin page after the appearance\/menu<\/p>\n",
+        "installation": "<ol>\n<li>Download <code>wfk-menu-importexport.zip<\/code><\/li>\n<li>Unzip<\/li>\n<li>Upload the <code>wfk-menu-importexport<\/code> folder to the <code>\/wp-content\/plugins\/<\/code> directory<\/li>\n<li>Activate the<br \/>\nWFK Menu Import\/Export<br \/>\nDownload<br \/>\nWFK Menu Import\/Export plugin through the &#8216;Plugins&#8217; menu in WordPress<\/li>\n<li>Export\/Import your menus via Appearance -&gt; Menu Import\/Export in the WordPress admin<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='can%20we%20import%20exported%20file%20using%20the%20plugin%3F'>\nCan we import exported file using the plugin?\n<\/h4>\n<p>\n<p>Yes, there is also a menu importer with the plugin<\/p>\n<\/p>\n\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/wfk-menu-importexport\/assets\/screenshot-1.png?rev=3044005\"><img src=\"https:\/\/ps.w.org\/wfk-menu-importexport\/assets\/screenshot-1.png?rev=3044005\" alt=\"Exporting Menu Backup File screenshot-1.png\"><\/a><p>Exporting Menu Backup File screenshot-1.png<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wfk-menu-importexport\/assets\/screenshot-2.png?rev=3044005\"><img src=\"https:\/\/ps.w.org\/wfk-menu-importexport\/assets\/screenshot-2.png?rev=3044005\" alt=\"Importing Menu Backup File screenshot-2.png\"><\/a><p>Importing Menu Backup File screenshot-2.png<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Plugin ist not importing<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/bhenselmann\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/894e1744f93665d1984ed0cd3a2a2dd1?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/894e1744f93665d1984ed0cd3a2a2dd1?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/bhenselmann\/\" class=\"reviewer-name\">bhenselmann<\/a> on <span class=\"review-date\">March 8, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The plugin do export the chosen menu but when try to import it into an other WordPress-Site it only finds out if an menu name is allready used (and then shows a error message), but it is not importing the menu.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Streamline Your Menu Management with the Menu Importer WordPress Plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/abdussamad018\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/6be9ff04d3d52b637f39e5785241a3c8?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/6be9ff04d3d52b637f39e5785241a3c8?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/abdussamad018\/\" class=\"reviewer-name\">abdussamad018<\/a> on <span class=\"review-date\">March 4, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">As an avid WordPress user, I'm always on the lookout for plugins that streamline my workflow and enhance my website's functionality. Recently, I stumbled upon the Menu Importer WordPress plugin, and I must say, it has been a game-changer for me.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><strong>Ease of Use:<\/strong> One of the standout features of the Menu Importer plugin is its simplicity. Even for someone like me who isn't particularly tech-savvy, importing menus has never been easier. The intuitive interface and user-friendly design make the process incredibly smooth and hassle-free.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><strong>Efficiency:<\/strong> Time is precious, especially when managing a website. With the Menu Importer plugin, I can effortlessly import menu items from CSV files, saving me countless hours of manual input. Whether I'm updating an existing menu or creating a new one from scratch, the plugin's efficiency is unparalleled.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><strong>Customization:<\/strong> What sets the Menu Importer plugin apart is its flexibility and customization options. From specifying menu item names and prices to assigning categories and tags, the plugin allows me to tailor each import to suit my website's unique needs. The ability to map CSV columns to menu fields gives me full control over the import process, ensuring seamless integration with my site's design.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><strong>Reliability:<\/strong> In my experience, the Menu Importer plugin has been incredibly reliable. I've never encountered any glitches or compatibility issues, even when working with large CSV files or complex menu structures. The plugin's robust performance gives me peace of mind, knowing that my menus will always be up-to-date and accurate.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><strong>Support:<\/strong> Lastly, I must commend the excellent support provided by the Menu Importer team. Any questions or concerns I've had were promptly addressed, and their dedication to customer satisfaction is truly commendable.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">In conclusion, I wholeheartedly recommend the Menu Importer WordPress plugin to anyone looking to streamline their menu management process. Its ease of use, efficiency, customization options, reliability, and exceptional support make it a must-have tool for WordPress users everywhere.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "WFK Menu Import\/Export lets you export and import your menu using a user interface.",
+    "description": "<p>WFK Menu Import\/Export lets you export and import your menu using a user interface. you will get the link to import export admin page after the appearance\/menu<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wfk-menu-importexport.1.0.0.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/wfk-menu-importexport\/assets\/screenshot-1.png?rev=3044005",
+            "caption": "Exporting Menu Backup File screenshot-1.png"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/wfk-menu-importexport\/assets\/screenshot-2.png?rev=3044005",
+            "caption": "Importing Menu Backup File screenshot-2.png"
+        }
+    },
+    "tags": {
+        "menu-exporter": "menu-exporter",
+        "menu-import-export": "menu-import-export",
+        "menu-importer": "menu-importer",
+        "wfk-menu-import-export": "wfk-menu-import-export"
+    },
+    "stable_tag": "1.0.0",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/wfk-menu-importexport.1.0.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/wfk-menu-importexport.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/wfk-menu-importexport\/assets\/banner-772x250.jpg?rev=3044005",
+        "high": "https:\/\/ps.w.org\/wfk-menu-importexport\/assets\/banner-1544x500.jpg?rev=3044005"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/wfk-menu-importexport\/assets\/icon-128x128.jpg?rev=3044005",
+        "2x": "https:\/\/ps.w.org\/wfk-menu-importexport\/assets\/icon-256x256.jpg?rev=3044005"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 60,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

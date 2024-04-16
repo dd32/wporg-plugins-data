@@ -1,0 +1,98 @@
+{
+    "name": "vTables \u2013 WordPress data tables, WooCommerce product table, csv tables, spreadsheets, Google Sheets",
+    "slug": "vtables",
+    "version": "0.1.0",
+    "author": "<a href=\"https:\/\/vtables.pro\">vTables<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/vtables\/",
+    "contributors": {
+        "iamvs": {
+            "profile": "https:\/\/profiles.wordpress.org\/iamvs\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/bd426fa33b81d232c7fe16e974ae7283?s=96&d=monsterid&r=g",
+            "display_name": "iamvs"
+        }
+    },
+    "requires": "4.7",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/vtables\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 203,
+    "last_updated": "2024-04-07 12:41pm GMT",
+    "added": "2024-02-16",
+    "homepage": "",
+    "sections": {
+        "description": "<p><a href=\"https:\/\/vtables.pro\/\" rel=\"nofollow ugc\">Website<\/a> | <a href=\"https:\/\/www.youtube.com\/watch?v=kfQF6U9obJU\" rel=\"nofollow ugc\">Video Guide<\/a> | <a href=\"https:\/\/vtables.pro\/documentation\" rel=\"nofollow ugc\">User Guide<\/a> | <a href=\"https:\/\/vtables.pro\/faq\" rel=\"nofollow ugc\">FAQ<\/a> | <a href=\"https:\/\/iamvs.com\" rel=\"nofollow ugc\">Developer<\/a><\/p>\n<p>Create stunning, interactive tables effortlessly. No coding required. The ultimate WordPress plugin, lets you design powerful tables in a few clicks. Transform your data visualization now.<\/p>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/kfQF6U9obJU?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<p>Are you ready to revolutionize the way you manage and display data on your WordPress site? Look no further! Our plugin offers an array of powerful features tailored to meet the diverse needs of your data presentation and management requirements.<\/p>\n<ol>\n<li>\n<p>Unlimited Tables:<br \/>\nSay goodbye to limitations! You can create as many tables as you need, allowing you to organize and showcase your data without constraints. Whether you&#8217;re managing a small business or running a content-rich website, this feature empowers you to explore endless possibilities in data representation.<\/p>\n<\/li>\n<li>\n<p>Unlimited Tables per Page:<br \/>\nWhy settle for one when you can have them all on a single page? Break free from page constraints and display numerous tables seamlessly with our Unlimited Tables per Page feature. Customize your page layouts without worrying about limitations and provide your users with a cohesive and engaging experience.<\/p>\n<\/li>\n<li>\n<p>Google Sheets Integration (available for <a href=\"https:\/\/vtables.pro\/\" rel=\"nofollow ugc\">LITE<\/a>, <a href=\"https:\/\/vtables.pro\/\" rel=\"nofollow ugc\">ADVANCED<\/a>):<br \/>\nEffortless collaboration is at your fingertips! Synchronize your data with Google Sheets in real-time, ensuring that your tables are always up-to-date. Streamline your workflow and enhance productivity by seamlessly integrating your WordPress site with the power of Google Sheets.<\/p>\n<\/li>\n<li>\n<p>WooCommerce Integration (available for <a href=\"https:\/\/vtables.pro\/\" rel=\"nofollow ugc\">ADVANCED<\/a> only):<br \/>\nElevate your e-commerce game! Our WooCommerce integration seamlessly connects your online store data, providing a unified and streamlined experience. Effortlessly manage and showcase your product information, creating a cohesive environment for both your tables and WooCommerce shop.<\/p>\n<\/li>\n<li>\n<p>Styling (Extended) (available for <a href=\"https:\/\/vtables.pro\/\" rel=\"nofollow ugc\">ADVANCED<\/a> only):<br \/>\nMake your tables an integral part of your website&#8217;s aesthetics! Our Extended Styling options give you the creative freedom to customize your tables, ensuring they blend seamlessly with your site&#8217;s design. From color schemes to fonts, take full control of the visual appeal and enhance the overall look and feel of your data.<\/p>\n<\/li>\n<li>\n<p>Export (available for <a href=\"https:\/\/vtables.pro\/\" rel=\"nofollow ugc\">LITE<\/a>, <a href=\"https:\/\/vtables.pro\/\" rel=\"nofollow ugc\">ADVANCED<\/a>):<br \/>\nFreedom to take your data anywhere! Export your tables in various formats, including CSV and Excel, allowing you to share, analyze, and collaborate with ease. Whether you&#8217;re preparing reports, sharing insights, or collaborating with a team, our Export feature ensures your data is accessible and versatile.<\/p>\n<\/li>\n<li>\n<p>Premium Features (available for <a href=\"https:\/\/vtables.pro\/\" rel=\"nofollow ugc\">ADVANCED<\/a> only):<br \/>\nUnleash the full potential of vTables with our Premium Features. From advanced functionalities to unparalleled customization options, our premium offerings elevate your table-building experience. Dive into a world of possibilities and transform your data presentation into a seamless and engaging user experience.<\/p>\n<\/li>\n<\/ol>\n<p>Embark on a journey of data excellence with vTables <a href=\"https:\/\/vtables.pro\/\" rel=\"nofollow ugc\">ADVANCED<\/a> Subscription Plan. Revolutionize the way you handle data on your WordPress site and experience the true power of versatile and dynamic table management.<\/p>\n",
+        "faq": "\n<dt id='can%20users%20without%20a%20technical%20background%20or%20development%20experience%20use%20the%20vtables%20plugin%3F'>\nCan users without a technical background or development experience use the vTables plugin?\n<\/h4>\n<p>\n<p>vTables is specifically designed to be the most beginner-friendly and non-technical WordPress Table plugin available. Our documentation and user manuals are meticulously crafted to ensure that even individuals with limited technical proficiency can harness the full potential of our table builder effortlessly.<\/p>\n<\/p>\n<dt id='who%20is%20vtables%20suitable%20for%3F'>\nWho is vTables suitable for?\n<\/h4>\n<p>\n<p>vTables caters to a broad audience, from beginners to experts. The user-friendly interface empowers anyone to comfortably create and customize dynamic tables without the need for coding skills.<\/p>\n<\/p>\n<dt id='is%20it%20possible%20to%20import%20tables%20from%20other%20plugins%20into%20vtables%3F'>\nIs it possible to import tables from other plugins into vTables?\n<\/h4>\n<p>\n<p>Certainly, you can seamlessly import tables from other plugins into vTables by exporting them in CSV format.<\/p>\n<\/p>\n<dt id='how%20can%20vtables%20handle%20long%20tables%20with%20a%20substantial%20amount%20of%20data%3F'>\nHow can vTables handle long tables with a substantial amount of data?\n<\/h4>\n<p>\n<p>Managing extensive tables with large datasets is made simple with vTables. You can utilize features such as Pagination to break down tables into segments. Additionally, the Search\/Filter option enables quick retrieval of specific information from even the most colossal table datasets.<\/p>\n<\/p>\n<dt id='can%20vtables%20be%20used%20to%20create%20woocommerce%20product%20tables%3F'>\nCan vTables be used to create WooCommerce product tables?\n<\/h4>\n<p>\n<p>Yes, vTables allows you to create WooCommerce product tables with the added functionality provided by the <a href=\"https:\/\/vtables.pro\/\" rel=\"nofollow ugc\">Advanced add-on<\/a>.<\/p>\n<\/p>\n<dt id='can%20i%20import%20tables%20from%20google%20sheet%20or%20google%20drive%3F'>\nCan I import tables from Google Sheet or Google Drive?\n<\/h4>\n<p>\n<p>Yes, vTables allows you to import tables from Google Sheet \/ Google Drive with the added functionality provided by the <a href=\"https:\/\/vtables.pro\/\" rel=\"nofollow ugc\">Lite add-on<\/a> or <a href=\"https:\/\/vtables.pro\/\" rel=\"nofollow ugc\">Advanced add-on<\/a>.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>0.1.0<\/h4>\n<ul>\n<li>Initial Public Beta Release.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/vtables\/assets\/screenshot-1.png?rev=3062785\"><img src=\"https:\/\/ps.w.org\/vtables\/assets\/screenshot-1.png?rev=3062785\" alt=\"&quot;All Tables&quot; screen\"><\/a><p>\"All Tables\" screen<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/vtables\/assets\/screenshot-2.png?rev=3062785\"><img src=\"https:\/\/ps.w.org\/vtables\/assets\/screenshot-2.png?rev=3062785\" alt=\"&quot;Edit Table&quot; screen\"><\/a><p>\"Edit Table\" screen<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/vtables\/assets\/screenshot-3.png?rev=3062785\"><img src=\"https:\/\/ps.w.org\/vtables\/assets\/screenshot-3.png?rev=3062785\" alt=\"&quot;Render Table&quot; screen\"><\/a><p>\"Render Table\" screen<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/vtables\/assets\/screenshot-4.png?rev=3062785\"><img src=\"https:\/\/ps.w.org\/vtables\/assets\/screenshot-4.png?rev=3062785\" alt=\"&quot;Style Table&quot; screen\"><\/a><p>\"Style Table\" screen<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/vtables\/assets\/screenshot-5.png?rev=3062785\"><img src=\"https:\/\/ps.w.org\/vtables\/assets\/screenshot-5.png?rev=3062785\" alt=\"&quot;Render Styled Table&quot; screen\"><\/a><p>\"Render Styled Table\" screen<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Create product \/ data \/ woocommerce tables effortlessly. Easily integrate csv spreadsheets via google sheets. Design powerful tables in a few clicks.",
+    "description": "<p><a href=\"https:\/\/vtables.pro\/\" rel=\"nofollow ugc\">Website<\/a> | <a href=\"https:\/\/www.youtube.com\/watch?v=kfQF6U9obJU\" rel=\"nofollow ugc\">Video Guide<\/a> | <a href=\"https:\/\/vtables.pro\/documentation\" rel=\"nofollow ugc\">User Guide<\/a> | <a href=\"https:\/\/vtables.pro\/faq\" rel=\"nofollow ugc\">FAQ<\/a> | <a href=\"https:\/\/iamvs.com\" rel=\"nofollow ugc\">Developer<\/a><\/p>\n<p>Create stunning, interactive tables effortlessly. No coding required. The ultimate WordPress plugin, lets you design powerful tables in a few clicks. Transform your data visualization now.<\/p>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/kfQF6U9obJU?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<p>Are you ready to revolutionize the way you manage and display data on your WordPress site? Look no further! Our plugin offers an array of powerful features tailored to meet the diverse needs of your data presentation and management requirements.<\/p>\n<ol>\n<li>\n<p>Unlimited Tables:<br \/>\nSay goodbye to limitations! You can create as many tables as you need, allowing you to organize and showcase your data without constraints. Whether you&#8217;re managing a small business or running a content-rich website, this feature empowers you to explore endless possibilities in data representation.<\/p>\n<\/li>\n<li>\n<p>Unlimited Tables per Page:<br \/>\nWhy settle for one when you can have them all on a single page? Break free from page constraints and display numerous tables seamlessly with our Unlimited Tables per Page feature. Customize your page layouts without worrying about limitations and provide your users with a cohesive and engaging experience.<\/p>\n<\/li>\n<li>\n<p>Google Sheets Integration (available for <a href=\"https:\/\/vtables.pro\/\" rel=\"nofollow ugc\">LITE<\/a>, <a href=\"https:\/\/vtables.pro\/\" rel=\"nofollow ugc\">ADVANCED<\/a>):<br \/>\nEffortless collaboration is at your fingertips! Synchronize your data with Google Sheets in real-time, ensuring that your tables are always up-to-date. Streamline your workflow and enhance productivity by seamlessly integrating your WordPress site with the power of Google Sheets.<\/p>\n<\/li>\n<li>\n<p>WooCommerce Integration (available for <a href=\"https:\/\/vtables.pro\/\" rel=\"nofollow ugc\">ADVANCED<\/a> only):<br \/>\nElevate your e-commerce game! Our WooCommerce integration seamlessly connects your online store data, providing a unified and streamlined experience. Effortlessly manage and showcase your product information, creating a cohesive environment for both your tables and WooCommerce shop.<\/p>\n<\/li>\n<li>\n<p>Styling (Extended) (available for <a href=\"https:\/\/vtables.pro\/\" rel=\"nofollow ugc\">ADVANCED<\/a> only):<br \/>\nMake your tables an integral part of your website&#8217;s aesthetics! Our Extended Styling options give you the creative freedom to customize your tables, ensuring they blend seamlessly with your site&#8217;s design. From color schemes to fonts, take full control of the visual appeal and enhance the overall look and feel of your data.<\/p>\n<\/li>\n<li>\n<p>Export (available for <a href=\"https:\/\/vtables.pro\/\" rel=\"nofollow ugc\">LITE<\/a>, <a href=\"https:\/\/vtables.pro\/\" rel=\"nofollow ugc\">ADVANCED<\/a>):<br \/>\nFreedom to take your data anywhere! Export your tables in various formats, including CSV and Excel, allowing you to share, analyze, and collaborate with ease. Whether you&#8217;re preparing reports, sharing insights, or collaborating with a team, our Export feature ensures your data is accessible and versatile.<\/p>\n<\/li>\n<li>\n<p>Premium Features (available for <a href=\"https:\/\/vtables.pro\/\" rel=\"nofollow ugc\">ADVANCED<\/a> only):<br \/>\nUnleash the full potential of vTables with our Premium Features. From advanced functionalities to unparalleled customization options, our premium offerings elevate your table-building experience. Dive into a world of possibilities and transform your data presentation into a seamless and engaging user experience.<\/p>\n<\/li>\n<\/ol>\n<p>Embark on a journey of data excellence with vTables <a href=\"https:\/\/vtables.pro\/\" rel=\"nofollow ugc\">ADVANCED<\/a> Subscription Plan. Revolutionize the way you handle data on your WordPress site and experience the true power of versatile and dynamic table management.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/vtables.0.1.0.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/vtables\/assets\/screenshot-1.png?rev=3062785",
+            "caption": "\"All Tables\" screen"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/vtables\/assets\/screenshot-2.png?rev=3062785",
+            "caption": "\"Edit Table\" screen"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/vtables\/assets\/screenshot-3.png?rev=3062785",
+            "caption": "\"Render Table\" screen"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/vtables\/assets\/screenshot-4.png?rev=3062785",
+            "caption": "\"Style Table\" screen"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/vtables\/assets\/screenshot-5.png?rev=3062785",
+            "caption": "\"Render Styled Table\" screen"
+        }
+    },
+    "tags": {
+        "data-table": "data table",
+        "google-sheets": "Google Sheets",
+        "product-table": "product table",
+        "tables": "tables",
+        "woocommerce-table": "woocommerce table"
+    },
+    "stable_tag": "0.1.0",
+    "versions": {
+        "0.1.0": "https:\/\/downloads.wordpress.org\/plugin\/vtables.0.1.0.zip",
+        "0.1.1": "https:\/\/downloads.wordpress.org\/plugin\/vtables.0.1.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/vtables.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/vtables.pro\/",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/vtables\/assets\/icon-128x128.png?rev=3062785",
+        "2x": "https:\/\/ps.w.org\/vtables\/assets\/icon-256x256.png?rev=3062785"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

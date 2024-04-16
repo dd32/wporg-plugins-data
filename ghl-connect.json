@@ -1,0 +1,104 @@
+{
+    "name": "GHL Connect for WooCommerce",
+    "slug": "ghl-connect",
+    "version": "1.0.2",
+    "author": "<a href=\"https:\/\/www.ibsofts.com\/\">iB Softs<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/ibsofts\/",
+    "contributors": {
+        "ibsofts": {
+            "profile": "https:\/\/profiles.wordpress.org\/ibsofts\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2565fc4594bda24dc48a45dc150178fb?s=96&d=monsterid&r=g",
+            "display_name": "ibsofts"
+        },
+        "laddoo": {
+            "profile": "https:\/\/profiles.wordpress.org\/laddoo\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/d7e292161fe66630f748ea9c5a2e04fa?s=96&d=monsterid&r=g",
+            "display_name": "Rahul"
+        }
+    },
+    "requires": "4.0",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/ghl-connect\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 20,
+    "downloaded": 236,
+    "last_updated": "2024-03-15 9:28am GMT",
+    "added": "2024-02-23",
+    "homepage": "https:\/\/www.ibsofts.com\/plugins\/ghl-connect",
+    "sections": {
+        "description": "<p><strong>GHL Connect for WooCommerce<\/strong> is a plugin that connects the WordPress\/WooCommerce with Go High Level CRM.<\/p>\n<h3>Features<\/h3>\n<ul>\n<li>Create a contact on GHL when a wordpress user is registered.<\/li>\n<li>When someone purchases any products from woocommerce:\n<ul>\n<li>Specific Tag or Tags can be applied to that contact <\/li>\n<li>Specific Campaign or Campaigns can be applied to that contact <\/li>\n<li>Specific Workflow or Workflows can be applied to that contact <\/li>\n<li>All the above are added in the ghl contact based on the Trigger Option you set.<\/li>\n<\/ul>\n<\/li>\n<\/ul>\n",
+        "installation": "<p>This section describes how to install the plugin and get it working.<\/p>\n<p>e.g.<\/p>\n<ol>\n<li>Go to Add New section of Plugins Menu and search for &#8216;GHL Connect for WooCommerce&#8217;.<\/li>\n<li>Now you can install the &#8216;GHL Connect for WooCommerce&#8217; Plugin.<\/li>\n<li>Activate the plugin .<\/li>\n<li>Go to GHL Connect settings page and connect it with your goHighLevel location.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='how%20to%20connect%20my%20ghl%20account%3F'>\nHow to connect my ghl account?\n<\/h4>\n<p>\n<p>Simply, Go to the GHL Connect settings page and click &#8220;Connect Your Location&#8221; button and choose your ghl account to connect.<\/p>\n<\/p>\n<dt id='is%20there%20any%20prerequisite%20to%20use%20that%20plugins%3F'>\nIs there any prerequisite to use that plugins?\n<\/h4>\n<p>\n<p>Yes, you need to install the woocommerce plugin.<\/p>\n<\/p>\n<dt id='what%20is%20trigger%20options%20tab%3F'>\nWhat is Trigger options tab?\n<\/h4>\n<p>\n<p>Its an option where you can select your order status based on that after purchesed the contact will be saved in ghl account.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.2<\/h4>\n<p>Fix selected option not showing issue.<\/p>\n<h4>1.0.1<\/h4>\n<p>Bug Fixes<\/p>\n<h4>1.0.0<\/h4>\n<p>First version for GHL Connect.<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/ghl-connect\/assets\/screenshot-1.png?rev=3040075\"><img src=\"https:\/\/ps.w.org\/ghl-connect\/assets\/screenshot-1.png?rev=3040075\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/ghl-connect\/assets\/screenshot-2.png?rev=3040075\"><img src=\"https:\/\/ps.w.org\/ghl-connect\/assets\/screenshot-2.png?rev=3040075\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/ghl-connect\/assets\/screenshot-3.png?rev=3040075\"><img src=\"https:\/\/ps.w.org\/ghl-connect\/assets\/screenshot-3.png?rev=3040075\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "GHL Connect for WooCommerce is a plugin that connects the WordPress\/WooCommerce with Go High Level CRM.",
+    "description": "<p><strong>GHL Connect for WooCommerce<\/strong> is a plugin that connects the WordPress\/WooCommerce with Go High Level CRM.<\/p>\n<h3>Features<\/h3>\n<ul>\n<li>Create a contact on GHL when a wordpress user is registered.<\/li>\n<li>When someone purchases any products from woocommerce:\n<ul>\n<li>Specific Tag or Tags can be applied to that contact <\/li>\n<li>Specific Campaign or Campaigns can be applied to that contact <\/li>\n<li>Specific Workflow or Workflows can be applied to that contact <\/li>\n<li>All the above are added in the ghl contact based on the Trigger Option you set.<\/li>\n<\/ul>\n<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/ghl-connect.1.0.2.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/ghl-connect\/assets\/screenshot-1.png?rev=3040075",
+            "caption": ""
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/ghl-connect\/assets\/screenshot-2.png?rev=3040075",
+            "caption": ""
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/ghl-connect\/assets\/screenshot-3.png?rev=3040075",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "crm": "crm",
+        "ghl": "ghl",
+        "gohighlevel": "goHighlevel",
+        "highlevel": "Highlevel",
+        "woocommerce": "woocommerce"
+    },
+    "stable_tag": "1.0.2",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/ghl-connect.1.0.0.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/ghl-connect.1.0.2.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/ghl-connect.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/donate.stripe.com\/14keXEbyJ2xp43SdQR",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/ghl-connect\/assets\/banner-772x250.jpg?rev=3040075",
+        "high": "https:\/\/ps.w.org\/ghl-connect\/assets\/banner-1544x500.jpg?rev=3040075"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/ghl-connect\/assets\/icon-128x128.png?rev=3040075",
+        "2x": "https:\/\/ps.w.org\/ghl-connect\/assets\/icon-256x256.png?rev=3040075"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [
+        {
+            "filename": "blueprint.json",
+            "url": "https:\/\/wordpress.org\/plugins\/wp-json\/plugins\/v1\/plugin\/ghl-connect\/blueprint.json?rev=3051588"
+        }
+    ],
+    "preview_link": "",
+    "language_packs": []
+}

@@ -1,0 +1,229 @@
+{
+    "name": "Accessibility by UserWay",
+    "slug": "userway-accessibility-widget",
+    "version": "2.5.1",
+    "author": "<a href=\"https:\/\/userway.org\">UserWay.org<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/userwayorg\/",
+    "contributors": {
+        "userwayorg": {
+            "profile": "https:\/\/profiles.wordpress.org\/userwayorg\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/002ec80b48009f01574c4e535a33969f?s=96&d=monsterid&r=g",
+            "display_name": "UserWay"
+        }
+    },
+    "requires": "4.7",
+    "tested": "6.3.4",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 76,
+    "ratings": {
+        "5": 28,
+        "4": 1,
+        "3": 2,
+        "2": 0,
+        "1": 11
+    },
+    "num_ratings": 42,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/userway-accessibility-widget\/",
+    "support_threads": 1,
+    "support_threads_resolved": 0,
+    "active_installs": 70000,
+    "downloaded": 477720,
+    "last_updated": "2024-03-22 12:27pm GMT",
+    "added": "2017-01-20",
+    "homepage": "https:\/\/userway.org",
+    "sections": {
+        "description": "<p>Web accessibility can seem complex and overwhelming if you don\u2019t know where to start.<\/p>\n<p>Let us make it easier, and, to coin a phrase, more accessible for everyone. UserWay\u2019s Accessibility Widget creates a simpler and more accessible browsing experience for your users while increasing compliance with WCAG 2.1, ATAG 2.0, European EN 301 549, ADA, &amp; Section 508 requirements.<\/p>\n<p>UserWay\u2019s Accessibility Widget will strengthen any weak areas that could cause accessibility issues on your site. We are proud to say that a significant number of websites are more accessible today thanks to UserWay.<\/p>\n<p>UserWay\u2019s Accessibility Widget makes smart modifications to elements on your site that are identified as being non-compliant, that may prevent keyboard-only navigation, or are in violation of ADA regulations.<\/p>\n<p>Install UserWay\u2019s Accessibility Widget today.<br \/>\nAfter installing UserWay\u2019s Accessibility Widget, you will receive login instructions to the widget via email.<\/p>\n<p><strong>ADA &amp; WCAG 2.1 Compliance<\/strong><br \/>\nUserWay\u2019s best-in-class accessibility solutions move your site towards ADA and WCAG 2.1 compliance.<\/p>\n<p><strong>Shield Against Lawsuits<\/strong><br \/>\nIncreasing your accessibility provides real, sustainable improvement for all users, and protects you from accessibility-related lawsuits.<\/p>\n<p><strong>Improve SEO, Boost Traffic<\/strong><br \/>\nMake your commitment clear: a more inclusive site for everyone expands your demographic and boosts your SEO.<\/p>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/gBh5x-C_Ow0?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n",
+        "installation": "<ol>\n<li>Install the plugin into your WordPress project<\/li>\n<li>Go to website control panel<\/li>\n<li>Go to the &#8220;plugins&#8221; webpage<\/li>\n<li>Activate the plugin &#8220;UserWay Accessibility Widget&#8221;<\/li>\n<li>Sign-up plug-in on Settings-&gt; UserWay page<\/li>\n<\/ol>\n<p>For more details please visit <a href=\"https:\/\/userway.org\/wp\" rel=\"nofollow ugc\">https:\/\/userway.org\/wp<\/a><\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-1.jpg?rev=2796965\"><img src=\"https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-1.jpg?rev=2796965\" alt=\"Plugin Check\"><\/a><p>Plugin Check<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-2.jpg?rev=2796965\"><img src=\"https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-2.jpg?rev=2796965\" alt=\"Plugin page on the site.\"><\/a><p>Plugin page on the site.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-3.jpg?rev=2796965\"><img src=\"https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-3.jpg?rev=2796965\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-4.jpg?rev=2796965\"><img src=\"https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-4.jpg?rev=2796965\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-5.jpg?rev=2796965\"><img src=\"https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-5.jpg?rev=2796965\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-6.jpg?rev=2796965\"><img src=\"https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-6.jpg?rev=2796965\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-7.jpg?rev=2796965\"><img src=\"https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-7.jpg?rev=2796965\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-8.jpg?rev=2800457\"><img src=\"https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-8.jpg?rev=2800457\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Customer wanted accessibility, we gave them Userway<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/tpaul25\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/2ba4db7ce6d24e902c4b4173ee38e118?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/2ba4db7ce6d24e902c4b4173ee38e118?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/tpaul25\/\" class=\"reviewer-name\">tpaul25<\/a> on <span class=\"review-date\">March 22, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">An investor let us know they were having issues viewing our site. The widget makes it super easy to view the site with accessibility features and we didn't have to change any of our coding, which is a huge relief. I like that the icon is easily visible but I could adjust the color to more match our site. So far we really like it.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">It&#039;s a good start for ADA<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/tonytonytony\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/ceee885a76cef9343e8e3db8b42985b8?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/ceee885a76cef9343e8e3db8b42985b8?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/tonytonytony\/\" class=\"reviewer-name\">tonytonytony<\/a> on <span class=\"review-date\">March 12, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">It works well. I recommend purchasing the annual subscription if it's for a client.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Thank you for help with my account<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/crihanmihai\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b00c8c45bb1b4b81c60edfc381017a4a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b00c8c45bb1b4b81c60edfc381017a4a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/crihanmihai\/\" class=\"reviewer-name\">crihanmihai<\/a> on <span class=\"review-date\">December 7, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I express my sincere appreciation for the outstanding support your team provided in resolving my recent issue. I am thrilled with the level of dedication and professionalism demonstrated by the UserWay team. Your commitment to ensuring a seamless experience for users like myself does not go unnoticed, and I am genuinely grateful for the assistance you've provided.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Thank you for making accessibility a top priority and for the incredible work you do. It's a pleasure to be a part of a community that values user satisfaction. Keep up the fantastic work!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">The best!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/nirb\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/8d8e721d7c77735f7b5e680b89516099?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/8d8e721d7c77735f7b5e680b89516099?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/nirb\/\" class=\"reviewer-name\">nirb<\/a> on <span class=\"review-date\">August 31, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The best!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">the best accessibility widget<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/damtii\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/3625dab44d8a46d6d290762c630fd958?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/3625dab44d8a46d6d290762c630fd958?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/damtii\/\" class=\"reviewer-name\">damtii<\/a> on <span class=\"review-date\">August 15, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I love this plugin! very easy to use. most recommended. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">A recommendation for a Userway plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/eshmidov\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d55503585da2daf5f1b1ef9c1c56af45?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d55503585da2daf5f1b1ef9c1c56af45?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/eshmidov\/\" class=\"reviewer-name\">eshmidov<\/a> on <span class=\"review-date\">August 14, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I definitely recommend installing the Userway plugin on websites in order to get Good accessibility to the site for people with disabilities.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">An exceptional service<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/adirudel\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/ed8a8d56a033913b695b4ff23e67eed4?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/ed8a8d56a033913b695b4ff23e67eed4?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/adirudel\/\" class=\"reviewer-name\">adirudel<\/a> on <span class=\"review-date\">July 30, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">An exceptional service, and an important plugin that provides a comprehensive answer.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">The best of the lot, for sure<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/stevenlaff\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/bfd4bb120912c1afb53ee39db1070fb7?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/bfd4bb120912c1afb53ee39db1070fb7?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/stevenlaff\/\" class=\"reviewer-name\">stevenlaff<\/a> on <span class=\"review-date\">July 29, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I have been using Userway now for almost two years for ten sites. I find the widget works well and is easier to use for site visitors than all the others I tried. <br \/><br \/>I just had my first interaction with support in almost two years and it was an excellent experience. Really efficient and professional.  I am very happy with them and highly recommend them.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/shizart\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/0b9a1766b795f7944dfb27276dfdacc8?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/0b9a1766b795f7944dfb27276dfdacc8?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/shizart\/\" class=\"reviewer-name\">Shizart<\/a> on <span class=\"review-date\">May 1, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>I'm hoping this helps people with our website. I found it easy to use and install (you have to add the embed code!). It's not in the way and the positioning in the free version is flexible unlike other accessibility plugins. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excellent plugin and great support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/tumikia\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/73276d59523c60ad730fe29b99613c2d?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/73276d59523c60ad730fe29b99613c2d?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/tumikia\/\" class=\"reviewer-name\">Tumikia<\/a> on <span class=\"review-date\">May 1, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Set up is quick and easy with loads of features. Customer service is fast and convenient. Highly recommend.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "UserWay\u2019s Accessibility Widget creates a simpler and more accessible browsing experience for your users.",
+    "description": "<p>Web accessibility can seem complex and overwhelming if you don\u2019t know where to start.<\/p>\n<p>Let us make it easier, and, to coin a phrase, more accessible for everyone. UserWay\u2019s Accessibility Widget creates a simpler and more accessible browsing experience for your users while increasing compliance with WCAG 2.1, ATAG 2.0, European EN 301 549, ADA, &amp; Section 508 requirements.<\/p>\n<p>UserWay\u2019s Accessibility Widget will strengthen any weak areas that could cause accessibility issues on your site. We are proud to say that a significant number of websites are more accessible today thanks to UserWay.<\/p>\n<p>UserWay\u2019s Accessibility Widget makes smart modifications to elements on your site that are identified as being non-compliant, that may prevent keyboard-only navigation, or are in violation of ADA regulations.<\/p>\n<p>Install UserWay\u2019s Accessibility Widget today.<br \/>\nAfter installing UserWay\u2019s Accessibility Widget, you will receive login instructions to the widget via email.<\/p>\n<p><strong>ADA &amp; WCAG 2.1 Compliance<\/strong><br \/>\nUserWay\u2019s best-in-class accessibility solutions move your site towards ADA and WCAG 2.1 compliance.<\/p>\n<p><strong>Shield Against Lawsuits<\/strong><br \/>\nIncreasing your accessibility provides real, sustainable improvement for all users, and protects you from accessibility-related lawsuits.<\/p>\n<p><strong>Improve SEO, Boost Traffic<\/strong><br \/>\nMake your commitment clear: a more inclusive site for everyone expands your demographic and boosts your SEO.<\/p>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/gBh5x-C_Ow0?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/userway-accessibility-widget.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-1.jpg?rev=2796965",
+            "caption": "Plugin Check"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-2.jpg?rev=2796965",
+            "caption": "Plugin page on the site."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-3.jpg?rev=2796965",
+            "caption": ""
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-4.jpg?rev=2796965",
+            "caption": ""
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-5.jpg?rev=2796965",
+            "caption": ""
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-6.jpg?rev=2796965",
+            "caption": ""
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-7.jpg?rev=2796965",
+            "caption": ""
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/screenshot-8.jpg?rev=2800457",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "a11y": "a11y",
+        "accessibility": "accessibility",
+        "section-508": "Section 508",
+        "userway": "userway",
+        "wcag": "wcag"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/banner-772x250.png?rev=2798246",
+        "high": "https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/banner-1544x500.png?rev=2798246"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/icon.svg?rev=2526447",
+        "svg": "https:\/\/ps.w.org\/userway-accessibility-widget\/assets\/icon.svg?rev=2526447"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 76,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "userway-accessibility-widget",
+            "language": "ar",
+            "version": "2.5.1",
+            "updated": "2021-01-22 16:41:26",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/userway-accessibility-widget\/2.5.1\/ar.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "userway-accessibility-widget",
+            "language": "de_DE",
+            "version": "2.5.1",
+            "updated": "2021-01-06 16:34:59",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/userway-accessibility-widget\/2.5.1\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "userway-accessibility-widget",
+            "language": "el",
+            "version": "2.5.1",
+            "updated": "2021-04-16 15:20:36",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/userway-accessibility-widget\/2.5.1\/el.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "userway-accessibility-widget",
+            "language": "en_GB",
+            "version": "2.5.1",
+            "updated": "2020-12-31 09:43:00",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/userway-accessibility-widget\/2.5.1\/en_GB.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "userway-accessibility-widget",
+            "language": "es_CO",
+            "version": "2.5.1",
+            "updated": "2024-04-06 23:55:25",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/userway-accessibility-widget\/2.5.1\/es_CO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "userway-accessibility-widget",
+            "language": "es_CR",
+            "version": "2.5.1",
+            "updated": "2020-08-14 03:22:43",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/userway-accessibility-widget\/2.5.1\/es_CR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "userway-accessibility-widget",
+            "language": "es_EC",
+            "version": "2.5.1",
+            "updated": "2020-12-30 13:11:57",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/userway-accessibility-widget\/2.5.1\/es_EC.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "userway-accessibility-widget",
+            "language": "es_MX",
+            "version": "2.5.1",
+            "updated": "2020-12-30 14:25:19",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/userway-accessibility-widget\/2.5.1\/es_MX.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "userway-accessibility-widget",
+            "language": "es_ES",
+            "version": "2.5.1",
+            "updated": "2020-12-30 12:55:57",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/userway-accessibility-widget\/2.5.1\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "userway-accessibility-widget",
+            "language": "es_VE",
+            "version": "2.5.1",
+            "updated": "2020-12-30 13:10:24",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/userway-accessibility-widget\/2.5.1\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "userway-accessibility-widget",
+            "language": "fr_FR",
+            "version": "2.5.1",
+            "updated": "2021-01-20 08:06:07",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/userway-accessibility-widget\/2.5.1\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "userway-accessibility-widget",
+            "language": "he_IL",
+            "version": "2.5.1",
+            "updated": "2021-01-01 08:01:40",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/userway-accessibility-widget\/2.5.1\/he_IL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "userway-accessibility-widget",
+            "language": "ja",
+            "version": "2.5.1",
+            "updated": "2022-10-08 05:24:53",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/userway-accessibility-widget\/2.5.1\/ja.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "userway-accessibility-widget",
+            "language": "ru_RU",
+            "version": "2.5.1",
+            "updated": "2020-12-31 16:03:53",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/userway-accessibility-widget\/2.5.1\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "userway-accessibility-widget",
+            "language": "zh_CN",
+            "version": "2.5.1",
+            "updated": "2021-01-01 00:35:05",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/userway-accessibility-widget\/2.5.1\/zh_CN.zip"
+        }
+    ]
+}

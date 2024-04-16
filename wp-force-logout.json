@@ -1,0 +1,152 @@
+{
+    "name": "WPForce Logout &#8211; WordPress User Login Logout Management Plugin",
+    "slug": "wp-force-logout",
+    "version": "2.0.0",
+    "author": "<a href=\"http:\/\/www.sanjeebaryal.com.np\">Sanjeev Aryal<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/sanzeeb3\/",
+    "contributors": {
+        "sanzeeb3": {
+            "profile": "https:\/\/profiles.wordpress.org\/sanzeeb3\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/76b36ab8f03d0b9c7c4233cf568e0e8b?s=96&d=monsterid&r=g",
+            "display_name": "Sanjeev Aryal"
+        }
+    },
+    "requires": "4.0",
+    "tested": "6.5.2",
+    "requires_php": "5.6",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 98,
+    "ratings": {
+        "5": 61,
+        "4": 2,
+        "3": 0,
+        "2": 0,
+        "1": 1
+    },
+    "num_ratings": 64,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/wp-force-logout\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 8000,
+    "downloaded": 66140,
+    "last_updated": "2024-04-02 7:02am GMT",
+    "added": "2018-10-14",
+    "homepage": "",
+    "sections": {
+        "description": "<p>WPForce Logout allows administrators to log out all or selected users with a single click, enhancing the security of user accounts. It helps protect against brute force attacks and allows you to manage compromised accounts by forcing logout.<\/p>\n<p>If you need to work on your WordPress website without any users being logged in, this plugin allows you to force all user accounts to be logged out. Additionally, if you suspect that your WordPress site is hacked, forcing logout will help you secure your site. This plugin is also useful for membership or pay-per-view sites to prevent password sharing among users.<\/p>\n<p>You can easily view online\/offline users, last login activity from the users tab.<\/p>\n<h3>Features:<\/h3>\n<ul>\n<li>Force Logout All Users<\/li>\n<li>Logout Specific User(s)<\/li>\n<li>Bulk Logout Users<\/li>\n<li>View Online Users<\/li>\n<li>Last Login Activity Tracking<\/li>\n<li>Well Documented<\/li>\n<li>Translation Ready<\/li>\n<\/ul>\n<h3>Extended Features:<\/h3>\n<ul>\n<li>Idle User Logout<\/li>\n<li>Auto logout on browser close<\/li>\n<li>Session expiration<\/li>\n<li>Logout redirect<\/li>\n<\/ul>\n<h3>WP-CLI Commands:<\/h3>\n<ul>\n<li><code>wp wpfl logout all<\/code> &#8211; Force logout all users.<\/li>\n<li><code>wp wpfl logout 14 54 info@example.com example123<\/code> &#8211; Bulk logout users.<\/li>\n<li><code>wp wpfl logout sanzeeb.ar@example.com<\/code> &#8211; Logout specific user.<\/li>\n<\/ul>\n<p>The passed argument can be User ID, Username, or User Email.<\/p>\n<p>For more details, refer to the <a href=\"https:\/\/sanjeebaryal.com.np\/force-user-to-logout-with-wpforce-logout-plugin\/\" rel=\"nofollow ugc\">documentation<\/a>.<\/p>\n<p><a href=\"https:\/\/github.com\/sanzeeb3\/wp-force-logout\" rel=\"nofollow ugc\">Contribute on GitHub Repository<\/a><\/p>\n",
+        "faq": "\n<dt id='if%20i%20forcefully%20log%20out%20users%2C%20can%20they%20log%20in%20again%3F'>\nIf I forcefully log out users, can they log in again?\n<\/h4>\n<p>\n<p>Yes, they will be able to log in with correct credentials.<\/p>\n<\/p>\n<dt id='can%20i%20contribute%3F'>\nCan I contribute?\n<\/h4>\n<p>\n<p>Yes, you can! Join in on the <a href=\"https:\/\/github.com\/sanzeeb3\/wp-force-logout\" rel=\"nofollow ugc\">GitHub repository<\/a>.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>2.0.0 &#8211; 04\/xx\/2024<\/h4>\n<ul>\n<li>Info &#8211; Tested upto 6.5<\/li>\n<\/ul>\n<h4>1.5.0 &#8211; 01\/24\/2022<\/h4>\n<ul>\n<li>Compatibility with WP 5.9<\/li>\n<li>Added WP CLI commands<\/li>\n<\/ul>\n<h4>1.4.5 &#8211; 4\/20\/2021<\/h4>\n<ul>\n<li>Update online status for users with low capability.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/wp-force-logout\/assets\/screenshot-1.png?rev=2511196\"><img src=\"https:\/\/ps.w.org\/wp-force-logout\/assets\/screenshot-1.png?rev=2511196\" alt=\"Users Status\"><\/a><p>Users Status<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Exceptional Plugin for User Management<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/cuunpicmaimplic\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f2a9a91c5bf516e696a081f126a66de6?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f2a9a91c5bf516e696a081f126a66de6?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/cuunpicmaimplic\/\" class=\"reviewer-name\">cuunpicmaimplic<\/a> on <span class=\"review-date\">January 21, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">As web developer, I have found WPForce Logout to be an incredibly useful tool in managing our website. The plugin's functionality to forcibly log out users has greatly enhanced our control over the site's security and user activity.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">The ease of use and the intuitive interface make it a breeze to manage user sessions, ensuring that no unauthorized access persists beyond its intended duration. Particularly for a site like ours, which handles sensitive information related to health and personal data, such a feature is invaluable.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I am also impressed by the reliability of the plugin and the seamless integration with our existing WordPress setup. The support team deserves a special mention for their prompt and helpful responses, making the entire experience smooth and hassle-free.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I highly recommend WPForce Logout to any WordPress site administrator looking to enhance their website's security and user session management. It's not just a plugin; it's a peace-of-mind enhancer for our site.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Thank you, WPForce Logout team, for developing such a user-friendly and essential tool!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Works like a charm<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mickwilson20\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/891c33cdca6808c3d323037aeb9526e9?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/891c33cdca6808c3d323037aeb9526e9?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mickwilson20\/\" class=\"reviewer-name\">Webmaster <small>(mickwilson20)<\/small><\/a> on <span class=\"review-date\">November 15, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Simple to install, easy to use and effective at what it's meant to do. This does not intend to be a full-on user account manager, It's perfect for situation where a handful of co-editors need to wrangled during maintenance and upgrades.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Super c&#039;est parfait !<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/opv45\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/166738bfab87638db54323823ceca47c?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/166738bfab87638db54323823ceca47c?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/opv45\/\" class=\"reviewer-name\">opv45<\/a> on <span class=\"review-date\">August 23, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Super, ce pluging fait ce qu'ik doit ! tous se passe dans le menu \"compte\".<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Perfectly Functional<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/blitzmr2\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/529fd71c177a9e0b494e330394ee5050?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/529fd71c177a9e0b494e330394ee5050?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/blitzmr2\/\" class=\"reviewer-name\">terryheick <small>(blitzmr2)<\/small><\/a> on <span class=\"review-date\">August 16, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Not sure what else to say but it works. Log users out, improve the safety of your WordPress site.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Nicely integrated but miss a details view in user profile<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/nicmare\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/296b422da40e9170cef95651a19f559b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/296b422da40e9170cef95651a19f559b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/nicmare\/\" class=\"reviewer-name\">nicmare<\/a> on <span class=\"review-date\">August 8, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I like how seamlessly it is integrated in the user table. Bravo! One thing i would love to see is a detailed info when i open a user profile page in admin to see the last login details of that user. Same info like in the user overview table but with an accurate timestamp.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">A small and fast plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/sergeyf1\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/fa20405e13f6d2f78e8d54fe46234efc?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/fa20405e13f6d2f78e8d54fe46234efc?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/sergeyf1\/\" class=\"reviewer-name\">sergeyf1<\/a> on <span class=\"review-date\">July 29, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">A small and fast plugin that accomplishes its tasks. Many thanks to the author of the plugin!<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Simple and Very handy<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/reraymond\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/1b34a0a6d10bb3b2d6d7800d13909b4b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/1b34a0a6d10bb3b2d6d7800d13909b4b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/reraymond\/\" class=\"reviewer-name\">reraymond<\/a> on <span class=\"review-date\">June 28, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Easy to use, and quite handy to be able to see (and manage) who's on board.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">It works<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/suspire\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/06976252ea791949c8dec139a564567c?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/06976252ea791949c8dec139a564567c?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/suspire\/\" class=\"reviewer-name\">suspire<\/a> on <span class=\"review-date\">June 24, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>I was able to see all online users and log them out.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Nice simple plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/navajamm\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/ea259d23355d7d2c7ef1e43f1216fd44?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/ea259d23355d7d2c7ef1e43f1216fd44?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/navajamm\/\" class=\"reviewer-name\">navajamm<\/a> on <span class=\"review-date\">May 23, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>The plugin is in use for a short time, and seems to function as described. So far so good.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Working nicely<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/amin9\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/98c1b7da412301399b484fd4df6e935c?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/98c1b7da412301399b484fd4df6e935c?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/amin9\/\" class=\"reviewer-name\">amin9<\/a> on <span class=\"review-date\">February 23, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>This plugin Working nicely. Thanks to the developer(s).<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Forcefully log out users from your WordPress site, manage online status, and track last login activity.",
+    "description": "<p>WPForce Logout allows administrators to log out all or selected users with a single click, enhancing the security of user accounts. It helps protect against brute force attacks and allows you to manage compromised accounts by forcing logout.<\/p>\n<p>If you need to work on your WordPress website without any users being logged in, this plugin allows you to force all user accounts to be logged out. Additionally, if you suspect that your WordPress site is hacked, forcing logout will help you secure your site. This plugin is also useful for membership or pay-per-view sites to prevent password sharing among users.<\/p>\n<p>You can easily view online\/offline users, last login activity from the users tab.<\/p>\n<h3>Features:<\/h3>\n<ul>\n<li>Force Logout All Users<\/li>\n<li>Logout Specific User(s)<\/li>\n<li>Bulk Logout Users<\/li>\n<li>View Online Users<\/li>\n<li>Last Login Activity Tracking<\/li>\n<li>Well Documented<\/li>\n<li>Translation Ready<\/li>\n<\/ul>\n<h3>Extended Features:<\/h3>\n<ul>\n<li>Idle User Logout<\/li>\n<li>Auto logout on browser close<\/li>\n<li>Session expiration<\/li>\n<li>Logout redirect<\/li>\n<\/ul>\n<h3>WP-CLI Commands:<\/h3>\n<ul>\n<li><code>wp wpfl logout all<\/code> &#8211; Force logout all users.<\/li>\n<li><code>wp wpfl logout 14 54 info@example.com example123<\/code> &#8211; Bulk logout users.<\/li>\n<li><code>wp wpfl logout sanzeeb.ar@example.com<\/code> &#8211; Logout specific user.<\/li>\n<\/ul>\n<p>The passed argument can be User ID, Username, or User Email.<\/p>\n<p>For more details, refer to the <a href=\"https:\/\/sanjeebaryal.com.np\/force-user-to-logout-with-wpforce-logout-plugin\/\" rel=\"nofollow ugc\">documentation<\/a>.<\/p>\n<p><a href=\"https:\/\/github.com\/sanzeeb3\/wp-force-logout\" rel=\"nofollow ugc\">Contribute on GitHub Repository<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wp-force-logout.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/wp-force-logout\/assets\/screenshot-1.png?rev=2511196",
+            "caption": "Users Status"
+        }
+    },
+    "tags": {
+        "force": "force",
+        "last-login": "last login",
+        "last-seen": "last seen",
+        "logout": "logout",
+        "online-status": "online status"
+    },
+    "stable_tag": "trunk",
+    "versions": {
+        "1.4.2": "https:\/\/downloads.wordpress.org\/plugin\/wp-force-logout.1.4.2.zip",
+        "1.4.4": "https:\/\/downloads.wordpress.org\/plugin\/wp-force-logout.1.4.4.zip",
+        "1.4.4.1": "https:\/\/downloads.wordpress.org\/plugin\/wp-force-logout.1.4.4.1.zip",
+        "1.4.5": "https:\/\/downloads.wordpress.org\/plugin\/wp-force-logout.1.4.5.zip",
+        "1.5.0": "https:\/\/downloads.wordpress.org\/plugin\/wp-force-logout.1.5.0.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/wp-force-logout\/assets\/banner-772x250.jpg?rev=2511196",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/wp-force-logout\/assets\/icon-256x256.jpg?rev=2511196",
+        "2x": "https:\/\/ps.w.org\/wp-force-logout\/assets\/icon-256x256.jpg?rev=2511196"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 98,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "wp-force-logout",
+            "language": "es_VE",
+            "version": "2.0.0",
+            "updated": "2020-10-21 13:54:34",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wp-force-logout\/2.0.0\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wp-force-logout",
+            "language": "es_ES",
+            "version": "2.0.0",
+            "updated": "2020-10-22 16:20:33",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wp-force-logout\/2.0.0\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wp-force-logout",
+            "language": "es_MX",
+            "version": "2.0.0",
+            "updated": "2021-02-18 14:11:52",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wp-force-logout\/2.0.0\/es_MX.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wp-force-logout",
+            "language": "es_CO",
+            "version": "2.0.0",
+            "updated": "2020-10-21 13:54:02",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wp-force-logout\/2.0.0\/es_CO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wp-force-logout",
+            "language": "fa_IR",
+            "version": "2.0.0",
+            "updated": "2020-10-22 06:03:21",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wp-force-logout\/2.0.0\/fa_IR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wp-force-logout",
+            "language": "it_IT",
+            "version": "2.0.0",
+            "updated": "2020-10-22 21:30:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wp-force-logout\/2.0.0\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wp-force-logout",
+            "language": "ru_RU",
+            "version": "2.0.0",
+            "updated": "2021-02-19 10:20:38",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wp-force-logout\/2.0.0\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wp-force-logout",
+            "language": "sv_SE",
+            "version": "2.0.0",
+            "updated": "2022-10-09 16:33:26",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wp-force-logout\/2.0.0\/sv_SE.zip"
+        }
+    ]
+}

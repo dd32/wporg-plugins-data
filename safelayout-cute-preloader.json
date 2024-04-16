@@ -1,0 +1,174 @@
+{
+    "name": "Safelayout Cute Preloader &#8211; CSS3 WordPress Preloader",
+    "slug": "safelayout-cute-preloader",
+    "version": "2.0.60",
+    "author": "Safelayout",
+    "author_profile": "https:\/\/profiles.wordpress.org\/safelayout\/",
+    "contributors": {
+        "safelayout": {
+            "profile": "https:\/\/profiles.wordpress.org\/safelayout\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/0d8556a5f60d79d46e4a0d99ec3bb01e?s=96&d=monsterid&r=g",
+            "display_name": "safelayout"
+        }
+    },
+    "requires": "4.7",
+    "tested": "6.4.4",
+    "requires_php": "5.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 98,
+    "ratings": {
+        "5": 17,
+        "4": 1,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 18,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/safelayout-cute-preloader\/",
+    "support_threads": 4,
+    "support_threads_resolved": 3,
+    "active_installs": 1000,
+    "downloaded": 10751,
+    "last_updated": "2024-03-27 8:16am GMT",
+    "added": "2021-12-27",
+    "homepage": "https:\/\/safelayout.com",
+    "sections": {
+        "description": "<p>An <strong>easy-to-use<\/strong>, <strong>lightweight<\/strong> and <strong>powerful<\/strong> preloader plugin. Safelayout Cute Preloader helps you to add a beautiful, pure CSS animated preloader to your website.<\/p>\n<h4>Features<\/h4>\n<ul>\n<li>Pure CSS animation.<\/li>\n<li>35 Loading animation icons.<\/li>\n<li>18 Background animation effects.<\/li>\n<li>13 Brand Image animation effects.<\/li>\n<li>8 Text animation effects.<\/li>\n<li>progress bar and counter.<\/li>\n<li>Cross browser compatible.<\/li>\n<li>Fully customizable.<\/li>\n<li>Work with Any Theme.<\/li>\n<li>Add your own loader image.<\/li>\n<li>431 Gradient colors for icon, progress bar and background (Pro).<\/li>\n<li>23 Beautiful filter effects (Pro).<\/li>\n<li>Preloader minimum runtime.<\/li>\n<li>Preloader maximum runtime.<\/li>\n<li>Preloader close button.<\/li>\n<li>Special preloader: You can have more than one preloader on your site. A different preloader for a specific data type (product) or a different preloader for a specific page\/post.<\/li>\n<\/ul>\n<h4>Live Demo<\/h4>\n<p><a href=\"https:\/\/safelayout.com\/safelayout-cute-preloader-pro-demo\/\" rel=\"nofollow ugc\">Safelayout Cute Preloader Demo.<\/a><\/p>\n<h4>Documentation<\/h4>\n<p><a href=\"https:\/\/safelayout.com\/safelayout-cute-preloader-pro-documentation#how-to-add-different-preloaders\" rel=\"nofollow ugc\">How to add different preloaders to different page\/post of your site.<\/a><\/p>\n<p><a href=\"https:\/\/safelayout.com\/safelayout-cute-preloader-pro-documentation#how-to-set-preloaders-for-type\" rel=\"nofollow ugc\">How to set preloaders for different data types, for example a different preloader for products.<\/a><\/p>\n<h4>Pro Version<\/h4>\n<p>Safelayout Cute Preloader <strong>Pro<\/strong> is available. <a href=\"https:\/\/safelayout.com\" rel=\"nofollow ugc\">Upgrade to pro version<\/a> and get full features!<\/p>\n<h4>Safelayout other plugin<\/h4>\n<p><a href=\"https:\/\/wordpress.org\/plugins\/safelayout-elegant-icons\/\" rel=\"ugc\">Safelayout Elegant Icons &#8211; WordPress icon block<\/a><\/p>\n",
+        "installation": "<ul>\n<li>Go to the Plugins section of your WordPress dashboard.<\/li>\n<li>Click on Add New.<\/li>\n<li>Click on the Upload Plugin button.<\/li>\n<li>Browse and locate the zipped plugin that you have downloaded.<\/li>\n<li>Activate the plugin by clicking on Activate.<\/li>\n<li>Use the Settings -&gt; <strong>Safelayout Preloader<\/strong> to configure the plugin.<\/li>\n<li>Choose your style and enjoy.<\/li>\n<\/ul>\n",
+        "changelog": "<h4>2.0.60<\/h4>\n<ul>\n<li>Improved the preloader insert code.<\/li>\n<\/ul>\n<h4>2.0.50<\/h4>\n<ul>\n<li>Added new animation effect for brand image.<\/li>\n<li>Updated bubble1 icon.<\/li>\n<li>Added rtl style to stripe progress bar.<\/li>\n<\/ul>\n<h4>2.0.40<\/h4>\n<ul>\n<li>Updated some loading animation icons.<\/li>\n<li>Updated custom icon CSS.<\/li>\n<li>Updated brand image animation.<\/li>\n<li>Updated progress bar animation.<\/li>\n<li>Updated preloader close button.<\/li>\n<li>Updated readme.txt<\/li>\n<\/ul>\n<h4>2.0.31<\/h4>\n<ul>\n<li>Updated some loading animation icons.<\/li>\n<li>Added resizing feature to post selection list.<\/li>\n<li>Fixed issue with HTML iframe tag.<\/li>\n<li>Fixed http_request_host_is_external filter issue.<\/li>\n<\/ul>\n<h4>2.0.21<\/h4>\n<ul>\n<li>Fixed triple-spinner icon issue.<\/li>\n<\/ul>\n<h4>2.0.2<\/h4>\n<ul>\n<li>Updated user interface.<\/li>\n<li>Added one new loading animation icon.<\/li>\n<\/ul>\n<h4>2.0.1<\/h4>\n<ul>\n<li>Updated readme.txt<\/li>\n<li>Changed the rate reminder time.<\/li>\n<\/ul>\n<h4>2.0<\/h4>\n<ul>\n<li>Increased the speed of the preloader.<\/li>\n<li>Decreased memory usage by the preloader.<\/li>\n<\/ul>\n<h4>1.9.4<\/h4>\n<ul>\n<li>Fixed background size issue in some themes.<\/li>\n<li>Improved the preloader insert code.<\/li>\n<\/ul>\n<h4>1.9.3<\/h4>\n<ul>\n<li>Added three new icon types.<\/li>\n<li>Changed the Progress bar preview.<\/li>\n<li>Changed the color of some icons.<\/li>\n<\/ul>\n<h4>1.9.2<\/h4>\n<ul>\n<li>Changed the show upgrade message time.<\/li>\n<li>Fix: Deactivation feedback is not working.<\/li>\n<\/ul>\n<h4>1.9.1<\/h4>\n<ul>\n<li>Removed Pro features demo from, the free version.<\/li>\n<\/ul>\n<h4>1.9.0<\/h4>\n<ul>\n<li>Added some color, in the free version.<\/li>\n<li>Added some icon effect, in the free version.<\/li>\n<\/ul>\n<h4>1.8.1<\/h4>\n<ul>\n<li>Fixed deactivation feedback issue.<\/li>\n<\/ul>\n<h4>1.8.0<\/h4>\n<ul>\n<li>Increased the speed of the preloader.<\/li>\n<li>Added two new Progress bar type.<\/li>\n<li>Added rate reminder notification in the WordPress dashboard.<\/li>\n<\/ul>\n<h4>1.7.0<\/h4>\n<ul>\n<li>Added some color, in the free version.<\/li>\n<\/ul>\n<h4>1.6.0<\/h4>\n<ul>\n<li>Special types: preloader for different data types, for example a different preloader for products.<\/li>\n<li>Activated the text color feature, in the free version.<\/li>\n<li>Activated the counter color feature, in the free version.<\/li>\n<li>Activated the Progress bar border color feature, in the free version.<\/li>\n<\/ul>\n<h4>1.5.0<\/h4>\n<ul>\n<li>Added progress bar and counter.<\/li>\n<\/ul>\n<h4>1.4.0<\/h4>\n<ul>\n<li>Added 23 new loading animation icons.<\/li>\n<li>Activated the Icon size feature, in the free version.<\/li>\n<\/ul>\n<h4>1.3.2<\/h4>\n<ul>\n<li>Fixed brand image animation synchronization issue.<\/li>\n<\/ul>\n<h4>1.3.1<\/h4>\n<ul>\n<li>Changed the settings page layout.<\/li>\n<\/ul>\n<h4>1.3.0<\/h4>\n<ul>\n<li>Added special preloader (You can have more than one preloader on your site.)<\/li>\n<li>Added brand image with 12 animation effects.<\/li>\n<\/ul>\n<h4>1.2.1<\/h4>\n<ul>\n<li>Protected all .php files from direct access.<\/li>\n<\/ul>\n<h4>1.2.0<\/h4>\n<ul>\n<li>Added option to enable\/disable the preloader.<\/li>\n<li>Added option to exclude, 404 error (page not found).<\/li>\n<li>Added option to exclude, search not found page.<\/li>\n<li>Added option to exclude, page\/post by ID.<\/li>\n<li>Added option to exclude, page\/post by type name.<\/li>\n<li>Added the Search only feature, to Display on.<\/li>\n<\/ul>\n<h4>1.1.2<\/h4>\n<ul>\n<li>Fixed show once per session issue.<\/li>\n<\/ul>\n<h4>1.1.1<\/h4>\n<ul>\n<li>Improved the preloader insert code.<\/li>\n<\/ul>\n<h4>1.1.0<\/h4>\n<ul>\n<li>Improved text animations.<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>Corrected the settings page layout for Right-To-Left (RTL) languages.<\/li>\n<li>Activated the Font size feature, in the free version.<\/li>\n<li>Activated the Margin top feature, in the free version.<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Activated the Display on feature, in the free version.<\/li>\n<li>Activated the Show per session feature, in the free version.<\/li>\n<li>Activated the Device feature, in the free version.<\/li>\n<\/ul>\n<h4>1.0<\/h4>\n<ul>\n<li>Initial Release.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-1.png?rev=2884623\"><img src=\"https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-1.png?rev=2884623\" alt=\"Icon settings\"><\/a><p>Icon settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-2.png?rev=2864181\"><img src=\"https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-2.png?rev=2864181\" alt=\"Display settings\"><\/a><p>Display settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-3.png?rev=2864181\"><img src=\"https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-3.png?rev=2864181\" alt=\"Background settings\"><\/a><p>Background settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-4.png?rev=2884623\"><img src=\"https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-4.png?rev=2884623\" alt=\"Progress bar settings\"><\/a><p>Progress bar settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-5.png?rev=2821951\"><img src=\"https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-5.png?rev=2821951\" alt=\"Brand image settings\"><\/a><p>Brand image settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-6.png?rev=2821951\"><img src=\"https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-6.png?rev=2821951\" alt=\"Counter settings\"><\/a><p>Counter settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-7.png?rev=2821951\"><img src=\"https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-7.png?rev=2821951\" alt=\"Text settings\"><\/a><p>Text settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-8.png?rev=2864181\"><img src=\"https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-8.png?rev=2864181\" alt=\"Special preloader\"><\/a><p>Special preloader<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">The Best Preloader You&#039;ll Ever Need!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/leoceles1987\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/1d6a9b999ddaec3c5758f15e0b2186bd?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/1d6a9b999ddaec3c5758f15e0b2186bd?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/leoceles1987\/\" class=\"reviewer-name\">leoceles1987<\/a> on <span class=\"review-date\">April 1, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Highly customizable down to pixel level. You can use your own branding image. So  easy to set up. Write your own text to display while loading... Customize screen overlay. What else can I say?<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">This is the only preloader you will ever need!<br \/>Kudos to the team. Amazing job here~<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great tool<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/sotiris14\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f14db99b217159c4e93e468ad17fe52b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f14db99b217159c4e93e468ad17fe52b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/sotiris14\/\" class=\"reviewer-name\">sotiris14<\/a> on <span class=\"review-date\">March 14, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Easy to use \/ many features<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">perfect plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/rodge979\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/3b2d5a2f83ca49ce771a276679da3344?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/3b2d5a2f83ca49ce771a276679da3344?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/rodge979\/\" class=\"reviewer-name\">rodge979<\/a> on <span class=\"review-date\">March 13, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">tried 6 similar and this was the best, it does what it says <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Looks good<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/digi22\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/587b228c7368caea5a5c5622b64a0efc?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/587b228c7368caea5a5c5622b64a0efc?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/digi22\/\" class=\"reviewer-name\">Digi Webdesign Agentur <small>(digi22)<\/small><\/a> on <span class=\"review-date\">March 12, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Quick setup that works.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">60<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/rnuel\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/398c31c53d3b26d53546e6fc129c1121?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/398c31c53d3b26d53546e6fc129c1121?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/rnuel\/\" class=\"reviewer-name\">rnuel<\/a> on <span class=\"review-date\">February 3, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I like this plugin!!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">good Plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/trustwiseinvest\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/021683d330aef2ae2a17ffbd57db037f?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/021683d330aef2ae2a17ffbd57db037f?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/trustwiseinvest\/\" class=\"reviewer-name\">trustwiseinvest<\/a> on <span class=\"review-date\">February 1, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">good Plugin<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Industry Standard Plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/datztajonera\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/18af77ef1a3f2dfa3bd570c75a7eeb6d?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/18af77ef1a3f2dfa3bd570c75a7eeb6d?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/datztajonera\/\" class=\"reviewer-name\">datztajonera<\/a> on <span class=\"review-date\">January 21, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Excellent and easy to use wp-plugin.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">it just works<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/adamjojo\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/34a60b4762b06d199ca6a6e02eb67998?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/34a60b4762b06d199ca6a6e02eb67998?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/adamjojo\/\" class=\"reviewer-name\">adamjojo<\/a> on <span class=\"review-date\">January 17, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">A great plugin to display page loader spinner thingy, works like a charm.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Thanks<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"4 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"4\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/alamir521\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/97e70bdab63c5d132d699198803b4698?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/97e70bdab63c5d132d699198803b4698?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/alamir521\/\" class=\"reviewer-name\">alamir521<\/a> on <span class=\"review-date\">October 31, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Very Useful Plugin Thanks a lot<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great App!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/udizain\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/122dedd0f1a89ca486905a9d98972fb6?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/122dedd0f1a89ca486905a9d98972fb6?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/udizain\/\" class=\"reviewer-name\">UDizain <small>(udizain)<\/small><\/a> on <span class=\"review-date\">October 23, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Great App! I have spent quite a while looking for a preloader, yours is the best out there!! Keep up the good work...<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Easily add a pure CSS animated preloader to your WordPress website.",
+    "description": "<p>An <strong>easy-to-use<\/strong>, <strong>lightweight<\/strong> and <strong>powerful<\/strong> preloader plugin. Safelayout Cute Preloader helps you to add a beautiful, pure CSS animated preloader to your website.<\/p>\n<h4>Features<\/h4>\n<ul>\n<li>Pure CSS animation.<\/li>\n<li>35 Loading animation icons.<\/li>\n<li>18 Background animation effects.<\/li>\n<li>13 Brand Image animation effects.<\/li>\n<li>8 Text animation effects.<\/li>\n<li>progress bar and counter.<\/li>\n<li>Cross browser compatible.<\/li>\n<li>Fully customizable.<\/li>\n<li>Work with Any Theme.<\/li>\n<li>Add your own loader image.<\/li>\n<li>431 Gradient colors for icon, progress bar and background (Pro).<\/li>\n<li>23 Beautiful filter effects (Pro).<\/li>\n<li>Preloader minimum runtime.<\/li>\n<li>Preloader maximum runtime.<\/li>\n<li>Preloader close button.<\/li>\n<li>Special preloader: You can have more than one preloader on your site. A different preloader for a specific data type (product) or a different preloader for a specific page\/post.<\/li>\n<\/ul>\n<h4>Live Demo<\/h4>\n<p><a href=\"https:\/\/safelayout.com\/safelayout-cute-preloader-pro-demo\/\" rel=\"nofollow ugc\">Safelayout Cute Preloader Demo.<\/a><\/p>\n<h4>Documentation<\/h4>\n<p><a href=\"https:\/\/safelayout.com\/safelayout-cute-preloader-pro-documentation#how-to-add-different-preloaders\" rel=\"nofollow ugc\">How to add different preloaders to different page\/post of your site.<\/a><\/p>\n<p><a href=\"https:\/\/safelayout.com\/safelayout-cute-preloader-pro-documentation#how-to-set-preloaders-for-type\" rel=\"nofollow ugc\">How to set preloaders for different data types, for example a different preloader for products.<\/a><\/p>\n<h4>Pro Version<\/h4>\n<p>Safelayout Cute Preloader <strong>Pro<\/strong> is available. <a href=\"https:\/\/safelayout.com\" rel=\"nofollow ugc\">Upgrade to pro version<\/a> and get full features!<\/p>\n<h4>Safelayout other plugin<\/h4>\n<p><a href=\"https:\/\/wordpress.org\/plugins\/safelayout-elegant-icons\/\" rel=\"ugc\">Safelayout Elegant Icons &#8211; WordPress icon block<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.2.0.60.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-1.png?rev=2884623",
+            "caption": "Icon settings"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-2.png?rev=2864181",
+            "caption": "Display settings"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-3.png?rev=2864181",
+            "caption": "Background settings"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-4.png?rev=2884623",
+            "caption": "Progress bar settings"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-5.png?rev=2821951",
+            "caption": "Brand image settings"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-6.png?rev=2821951",
+            "caption": "Counter settings"
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-7.png?rev=2821951",
+            "caption": "Text settings"
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/screenshot-8.png?rev=2864181",
+            "caption": "Special preloader"
+        }
+    },
+    "tags": {
+        "loader": "loader",
+        "loading": "loading",
+        "preload": "preload",
+        "preloader": "preloader",
+        "wordpress-preloader": "wordpress preloader"
+    },
+    "stable_tag": "2.0.60",
+    "versions": {
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.0.2.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.1.0.zip",
+        "1.1.1": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.1.1.zip",
+        "1.1.2": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.1.2.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.2.0.zip",
+        "1.2.1": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.2.1.zip",
+        "1.3.0": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.3.0.zip",
+        "1.3.1": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.3.1.zip",
+        "1.3.2": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.3.2.zip",
+        "1.4.0": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.4.0.zip",
+        "1.5.0": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.5.0.zip",
+        "1.6.0": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.6.0.zip",
+        "1.7.0": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.7.0.zip",
+        "1.8.0": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.8.0.zip",
+        "1.8.1": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.8.1.zip",
+        "1.9.0": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.9.0.zip",
+        "1.9.1": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.9.1.zip",
+        "1.9.2": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.9.2.zip",
+        "1.9.3": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.9.3.zip",
+        "1.9.4": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.1.9.4.zip",
+        "2.0": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.2.0.zip",
+        "2.0.1": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.2.0.1.zip",
+        "2.0.2": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.2.0.2.zip",
+        "2.0.21": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.2.0.21.zip",
+        "2.0.3": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.2.0.3.zip",
+        "2.0.31": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.2.0.31.zip",
+        "2.0.40": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.2.0.40.zip",
+        "2.0.50": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.2.0.50.zip",
+        "2.0.60": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.2.0.60.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/safelayout-cute-preloader.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/banner-772x250.png?rev=2713008",
+        "high": "https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/banner-1544x500.png?rev=2649644"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/safelayout-cute-preloader\/assets\/icon-128x128.gif?rev=2844769"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 98,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "safelayout-cute-preloader",
+            "language": "ar",
+            "version": "2.0.60",
+            "updated": "2022-12-20 06:42:16",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/safelayout-cute-preloader\/2.0.60\/ar.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "safelayout-cute-preloader",
+            "language": "fa_IR",
+            "version": "2.0.60",
+            "updated": "2022-12-19 16:44:56",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/safelayout-cute-preloader\/2.0.60\/fa_IR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "safelayout-cute-preloader",
+            "language": "nl_NL_formal",
+            "version": "2.0.60",
+            "updated": "2022-12-30 11:57:27",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/safelayout-cute-preloader\/2.0.60\/nl_NL_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "safelayout-cute-preloader",
+            "language": "nl_NL",
+            "version": "2.0.60",
+            "updated": "2022-12-19 20:25:01",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/safelayout-cute-preloader\/2.0.60\/nl_NL.zip"
+        }
+    ]
+}

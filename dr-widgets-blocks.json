@@ -1,0 +1,2288 @@
+{
+    "name": "Delicious Recipes Widgets and Blocks",
+    "slug": "dr-widgets-blocks",
+    "version": "1.0.4",
+    "author": "<a href=\"https:\/\/wpdelicious.com\">WP Delicious<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/wpdelicious\/",
+    "contributors": {
+        "wpdelicious": {
+            "profile": "https:\/\/profiles.wordpress.org\/wpdelicious\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/e9a7ec41fcc4d280c79d2e137a5ffe1b?s=96&d=monsterid&r=g",
+            "display_name": "WP Delicious"
+        }
+    },
+    "requires": "5.5",
+    "tested": "6.5.2",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/dr-widgets-blocks\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 100,
+    "downloaded": 1536,
+    "last_updated": "2024-04-15 2:31pm GMT",
+    "added": "2022-07-20",
+    "homepage": "https:\/\/wpdelicious.com\/docs\/",
+    "sections": {
+        "description": "<p>Built-in Elementor and Gutenberg elements aren&#8217;t enough to make a great recipe blog. You need an extra set of blocks and widgets that are specifically designed for recipes. That&#8217;s where Delicious Recipes Widgets and Blocks comes in.<\/p>\n<p>It comes with a library of pre-designed layouts, so all you have to do is add your recipe and let the plugin do the rest.<\/p>\n<p>So get started today and see the difference Delicious Recipes Widgets and Blocks can make in your recipe blog.<\/p>\n<h3>Key Features of Delicious Recipes Widgets and Blocks<\/h3>\n<p>With the intuitive and handy features, cooking up a delicious recipe blog is easier than ever. We\u2019ve got all the features that work seamlessly on both Elementor and Gutenberg.<\/p>\n<ul>\n<li>\n<p><strong><em>Recipe Post<\/em><\/strong> &#8211; Recipe Post lets you spotlight your recipes beautifully and easily. You can choose to show the latest, most popular, or featured recipes. There are also three different layouts to choose from, and you can arrange the posts by date, title, views, comment counts, and more.<\/p>\n<\/li>\n<li>\n<p><strong><em>Recipe Categories<\/em><\/strong> &#8211; Recipe Categories allow you to organize your recipes by the categories that they fall into. You can choose to display all of the categories or narrow them down to specific ones. In addition, the look and feel of the categories can be controlled with easy-to-use customizer options.<\/p>\n<\/li>\n<li>\n<p><strong><em>Recipe Categories Tab<\/em><\/strong> &#8211; Recipe Categories Tab allows you to list all of the recipe categories and display them in a tab on the page. You can show the category name or view the related posts just below the tab.<\/p>\n<\/li>\n<li>\n<p><strong><em>Recipe Posts Carousel<\/em><\/strong> &#8211; Recipe Posts Carousel makes your recipe posts more interactive and engaging. It enables the user to scroll through the recipe posts. There are three slider layouts available, so you can choose the one that complements your website.<\/p>\n<\/li>\n<li>\n<p><strong><em>Plugin Dashboard<\/em><\/strong> &#8211; The dashboard of this plugin is a one-stop management area for all the features and functionalities of the plugin. From here, you can see which widgets or blocks are currently enabled\/disabled, as well as view the changelog to find out what updates have been made in recent times. The dashboard has the following main sections:<\/p>\n<ul>\n<li>\n<p><strong><em>Widgets<\/em><\/strong> : You can quickly turn on or off each widget in the Widgets section to have it appear on your Elementor page.<\/p>\n<\/li>\n<li>\n<p><strong><em>Blocks<\/em><\/strong> : Blocks section lists all the blocks available with the plugin. You can enable or disable each block to show up on Gutenberg.<\/p>\n<\/li>\n<li>\n<p><strong><em>Changelog<\/em><\/strong> : The changelog section keeps you updated about the frequent changes like new features, improvements, and security fixes.<\/p>\n<\/li>\n<\/ul>\n<\/li>\n<\/ul>\n",
+        "installation": "<h4>Uploading in WordPress Dashboard<\/h4>\n<ol>\n<li>Navigate to the &#8216;Add New&#8217; in the plugins dashboard<\/li>\n<li>Navigate to the &#8216;Upload&#8217; area<\/li>\n<li>Select dr-widgets-blocks.zip from your computer<\/li>\n<li>Click &#8216;Install Now&#8217;<\/li>\n<li>Activate the plugin in the Plugin dashboard<\/li>\n<\/ol>\n<h4>Using FTP<\/h4>\n<ol>\n<li>Download dr-widgets-blocks.zip<\/li>\n<li>Extract the dr-widgets-blocks directory to your computer<\/li>\n<li>Upload the dr-widgets-blocks directory to the \/wp-content\/plugins\/ directory<\/li>\n<li>Activate the plugin in the Plugin dashboard<\/li>\n<\/ol>\n",
+        "changelog": "<h4>1.0.4 &#8211; 15th April, 2024<\/h4>\n<ul>\n<li>Compatibility Updates<\/li>\n<\/ul>\n<h4>1.0.3 &#8211; 31st May, 2023<\/h4>\n<ul>\n<li>Compatibility Updates<\/li>\n<\/ul>\n<h4>1.0.2 &#8211; 12th December, 2022<\/h4>\n<ul>\n<li>Compatibility Updates<\/li>\n<\/ul>\n<h4>1.0.1 &#8211; 26th August 2022<\/h4>\n<ul>\n<li>New Feature &#8211; Gutenberg Blocks &#8211; Recipe Posts, Recipe Categories, Recipe Categories Tab and Recipe Posts Carousel blocks added.<\/li>\n<li>New Feature &#8211; Blocks enable\/disable configuration settings added.<\/li>\n<li>Fixes &#8211; Minor bug fixes.<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Initial Release.<\/li>\n<\/ul>\n",
+        "reviews": ""
+    },
+    "short_description": "You don&#039;t have to be a master chef to create a recipe blog. With Delicious Recipes Widgets and Blocks, anyone can create beautiful and interactiv &hellip;",
+    "description": "<p>Built-in Elementor and Gutenberg elements aren&#8217;t enough to make a great recipe blog. You need an extra set of blocks and widgets that are specifically designed for recipes. That&#8217;s where Delicious Recipes Widgets and Blocks comes in.<\/p>\n<p>It comes with a library of pre-designed layouts, so all you have to do is add your recipe and let the plugin do the rest.<\/p>\n<p>So get started today and see the difference Delicious Recipes Widgets and Blocks can make in your recipe blog.<\/p>\n<h3>Key Features of Delicious Recipes Widgets and Blocks<\/h3>\n<p>With the intuitive and handy features, cooking up a delicious recipe blog is easier than ever. We\u2019ve got all the features that work seamlessly on both Elementor and Gutenberg.<\/p>\n<ul>\n<li>\n<p><strong><em>Recipe Post<\/em><\/strong> &#8211; Recipe Post lets you spotlight your recipes beautifully and easily. You can choose to show the latest, most popular, or featured recipes. There are also three different layouts to choose from, and you can arrange the posts by date, title, views, comment counts, and more.<\/p>\n<\/li>\n<li>\n<p><strong><em>Recipe Categories<\/em><\/strong> &#8211; Recipe Categories allow you to organize your recipes by the categories that they fall into. You can choose to display all of the categories or narrow them down to specific ones. In addition, the look and feel of the categories can be controlled with easy-to-use customizer options.<\/p>\n<\/li>\n<li>\n<p><strong><em>Recipe Categories Tab<\/em><\/strong> &#8211; Recipe Categories Tab allows you to list all of the recipe categories and display them in a tab on the page. You can show the category name or view the related posts just below the tab.<\/p>\n<\/li>\n<li>\n<p><strong><em>Recipe Posts Carousel<\/em><\/strong> &#8211; Recipe Posts Carousel makes your recipe posts more interactive and engaging. It enables the user to scroll through the recipe posts. There are three slider layouts available, so you can choose the one that complements your website.<\/p>\n<\/li>\n<li>\n<p><strong><em>Plugin Dashboard<\/em><\/strong> &#8211; The dashboard of this plugin is a one-stop management area for all the features and functionalities of the plugin. From here, you can see which widgets or blocks are currently enabled\/disabled, as well as view the changelog to find out what updates have been made in recent times. The dashboard has the following main sections:<\/p>\n<ul>\n<li>\n<p><strong><em>Widgets<\/em><\/strong> : You can quickly turn on or off each widget in the Widgets section to have it appear on your Elementor page.<\/p>\n<\/li>\n<li>\n<p><strong><em>Blocks<\/em><\/strong> : Blocks section lists all the blocks available with the plugin. You can enable or disable each block to show up on Gutenberg.<\/p>\n<\/li>\n<li>\n<p><strong><em>Changelog<\/em><\/strong> : The changelog section keeps you updated about the frequent changes like new features, improvements, and security fixes.<\/p>\n<\/li>\n<\/ul>\n<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/dr-widgets-blocks.1.0.4.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "cooking": "cooking",
+        "elementor": "elementor",
+        "food": "food",
+        "recipe": "Recipe",
+        "recipes": "recipes"
+    },
+    "stable_tag": "1.0.4",
+    "versions": {
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/dr-widgets-blocks.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/dr-widgets-blocks.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/dr-widgets-blocks.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/dr-widgets-blocks.1.0.4.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/dr-widgets-blocks.zip"
+    },
+    "business_model": "commercial",
+    "repository_url": "",
+    "commercial_support_url": "https:\/\/wpdelicious.com\/support-ticket\/",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/dr-widgets-blocks\/assets\/banner-772x250.jpg?rev=2759155",
+        "high": "https:\/\/ps.w.org\/dr-widgets-blocks\/assets\/banner-1544x500.jpg?rev=2759158"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/dr-widgets-blocks\/assets\/icon-256x256.png?rev=2759154",
+        "2x": "https:\/\/ps.w.org\/dr-widgets-blocks\/assets\/icon-256x256.png?rev=2759154"
+    },
+    "blocks": {
+        "dr-widgets-blocks\/recipe-categories-tab": {
+            "api_version": 2,
+            "name": "dr-widgets-blocks\/recipe-categories-tab",
+            "title": "Recipe Categories Tab",
+            "category": "dr-widgets-blocks",
+            "attributes": {
+                "block_id": {
+                    "type": "string"
+                },
+                "layout": {
+                    "type": "string",
+                    "default": "layout-1"
+                },
+                "gridGap": {
+                    "type": "object",
+                    "default": {
+                        "number": "",
+                        "unit": "px"
+                    }
+                },
+                "postsPerPage": {
+                    "type": "number",
+                    "default": 12
+                },
+                "offset": {
+                    "type": "number",
+                    "default": 0
+                },
+                "taxonomy": {
+                    "type": "string",
+                    "default": "recipe-course"
+                },
+                "terms": {
+                    "type": "array",
+                    "default": []
+                },
+                "orderby": {
+                    "type": "string",
+                    "default": "date"
+                },
+                "order": {
+                    "type": "string",
+                    "default": "DESC"
+                },
+                "exclude": {
+                    "type": "array",
+                    "default": []
+                },
+                "headingTitle": {
+                    "type": "string",
+                    "default": "Recipes"
+                },
+                "headingTitleTag": {
+                    "type": "string",
+                    "default": "h2"
+                },
+                "showTitle": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "headingTag": {
+                    "type": "string",
+                    "default": "h3"
+                },
+                "showTotalTime": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "showDifficulty": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "overlayColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "padding": {
+                    "type": "object",
+                    "default": {
+                        "unit": "px",
+                        "spacing": {
+                            "desktop": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "mobile": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "tablet": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            }
+                        }
+                    }
+                },
+                "borderRadius": {
+                    "type": "object",
+                    "default": {
+                        "unit": "px",
+                        "spacing": {
+                            "desktop": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "mobile": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "tablet": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            }
+                        }
+                    }
+                },
+                "alignment": {
+                    "type": "string",
+                    "default": ""
+                },
+                "tabsMargin": {
+                    "type": "object",
+                    "default": {
+                        "spacing": {
+                            "top": "",
+                            "left": "",
+                            "right": "",
+                            "bottom": ""
+                        },
+                        "unit": "px"
+                    }
+                },
+                "tabsBorder": {
+                    "type": "object",
+                    "default": {
+                        "width": "",
+                        "style": "none",
+                        "color": {
+                            "color": ""
+                        }
+                    }
+                },
+                "headingTitleColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "headingTitleBackgroundColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "headingTitlePadding": {
+                    "type": "object",
+                    "default": {
+                        "unit": "px",
+                        "spacing": {
+                            "desktop": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "mobile": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "tablet": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            }
+                        }
+                    }
+                },
+                "headingTitleTypography": {
+                    "type": "object",
+                    "default": {
+                        "fontFamily": "Default",
+                        "fontSize": {
+                            "desktop": {
+                                "number": 20,
+                                "unit": "px"
+                            },
+                            "tablet": {
+                                "number": 20,
+                                "unit": "px"
+                            },
+                            "mobile": {
+                                "number": 20,
+                                "unit": "px"
+                            }
+                        },
+                        "lineHeight": {
+                            "desktop": {
+                                "number": 1.55,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 1.55,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 1.55,
+                                "unit": "em"
+                            }
+                        },
+                        "letterSpacing": {
+                            "desktop": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 0,
+                                "unit": "em"
+                            }
+                        },
+                        "variation": "n4",
+                        "textTransform": "normal",
+                        "textDecoration": "none"
+                    }
+                },
+                "tabsColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "tabsHoverColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "tabsBackgroundColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "tabsHoverBackgroundColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "tabsPadding": {
+                    "type": "object",
+                    "default": {
+                        "unit": "px",
+                        "spacing": {
+                            "desktop": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "mobile": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "tablet": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            }
+                        }
+                    }
+                },
+                "tabsBorderRadius": {
+                    "type": "object",
+                    "default": {
+                        "unit": "px",
+                        "spacing": {
+                            "desktop": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "mobile": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "tablet": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            }
+                        }
+                    }
+                },
+                "tabsItemSpacing": {
+                    "type": "object",
+                    "default": {
+                        "number": "",
+                        "unit": "px"
+                    }
+                },
+                "tabsTypography": {
+                    "type": "object",
+                    "default": {
+                        "fontFamily": "Default",
+                        "fontSize": {
+                            "desktop": {
+                                "number": 16,
+                                "unit": "px"
+                            },
+                            "tablet": {
+                                "number": 16,
+                                "unit": "px"
+                            },
+                            "mobile": {
+                                "number": 16,
+                                "unit": "px"
+                            }
+                        },
+                        "lineHeight": {
+                            "desktop": {
+                                "number": 1.55,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 1.55,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 1.55,
+                                "unit": "em"
+                            }
+                        },
+                        "letterSpacing": {
+                            "desktop": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 0,
+                                "unit": "em"
+                            }
+                        },
+                        "variation": "n4",
+                        "textTransform": "normal",
+                        "textDecoration": "none"
+                    }
+                },
+                "sliderArrowsColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "sliderArrowsHoverColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "sliderArrowsBackgroundColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "sliderArrowsBackgroundHoverColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "sliderArrowsBorder": {
+                    "type": "object",
+                    "default": {
+                        "width": "",
+                        "style": "none",
+                        "color": {
+                            "color": ""
+                        }
+                    }
+                },
+                "titleColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "titleHoverColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "titleTypography": {
+                    "type": "object",
+                    "default": {
+                        "fontFamily": "Default",
+                        "fontSize": {
+                            "desktop": {
+                                "number": 20,
+                                "unit": "px"
+                            },
+                            "tablet": {
+                                "number": 20,
+                                "unit": "px"
+                            },
+                            "mobile": {
+                                "number": 20,
+                                "unit": "px"
+                            }
+                        },
+                        "lineHeight": {
+                            "desktop": {
+                                "number": 1.55,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 1.55,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 1.55,
+                                "unit": "em"
+                            }
+                        },
+                        "letterSpacing": {
+                            "desktop": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 0,
+                                "unit": "em"
+                            }
+                        },
+                        "variation": "n7",
+                        "textTransform": "normal",
+                        "textDecoration": "none"
+                    }
+                },
+                "metaIconSize": {
+                    "type": "object",
+                    "default": {
+                        "number": "",
+                        "unit": "px"
+                    }
+                },
+                "metaIconColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "metaTypography": {
+                    "type": "object",
+                    "default": {
+                        "fontFamily": "Default",
+                        "variation": "n6",
+                        "fontSize": {
+                            "desktop": {
+                                "number": 13,
+                                "unit": "px"
+                            },
+                            "tablet": {
+                                "number": 13,
+                                "unit": "px"
+                            },
+                            "mobile": {
+                                "number": 13,
+                                "unit": "px"
+                            }
+                        },
+                        "lineHeight": {
+                            "desktop": {
+                                "number": 1.5,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 1.5,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 1.5,
+                                "unit": "em"
+                            }
+                        },
+                        "letterSpacing": {
+                            "desktop": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 0,
+                                "unit": "em"
+                            }
+                        },
+                        "textTransform": "normal",
+                        "textDecoration": "none"
+                    }
+                },
+                "metaTextColor": {
+                    "type": "string",
+                    "default": "#ffffff"
+                },
+                "metaIconSpacing": {
+                    "type": "object",
+                    "default": {
+                        "number": 20,
+                        "unit": "px"
+                    }
+                }
+            },
+            "script": "drWidgetsBlocks-common",
+            "style": [
+                "dr-widgetsBlocks-layouts",
+                "dr-widgetsBlocks-recipe-categories-tab",
+                "swiper-bundle"
+            ]
+        },
+        "dr-widgets-blocks\/recipe-posts-carousel": {
+            "api_version": 2,
+            "name": "dr-widgets-blocks\/recipe-posts-carousel",
+            "title": "Recipe Posts Carousel",
+            "category": "dr-widgets-blocks",
+            "attributes": {
+                "block_id": {
+                    "type": "string"
+                },
+                "layout": {
+                    "type": "string",
+                    "default": "layout-1"
+                },
+                "postsPerPage": {
+                    "type": "number",
+                    "default": 8
+                },
+                "offset": {
+                    "type": "number",
+                    "default": 0
+                },
+                "filterBy": {
+                    "type": "string",
+                    "default": "latest"
+                },
+                "taxonomy": {
+                    "type": "string",
+                    "default": "recipe-course"
+                },
+                "terms": {
+                    "type": "array",
+                    "default": []
+                },
+                "orderby": {
+                    "type": "string",
+                    "default": "date"
+                },
+                "order": {
+                    "type": "string",
+                    "default": "DESC"
+                },
+                "exclude": {
+                    "type": "array",
+                    "default": []
+                },
+                "showFeatureImage": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "showTitle": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "headingTag": {
+                    "type": "string",
+                    "default": "h3"
+                },
+                "showTotalTime": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "showDifficulty": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "showRecipeKeys": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "backgroundColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "padding": {
+                    "type": "object",
+                    "default": {
+                        "unit": "px",
+                        "spacing": {
+                            "desktop": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "mobile": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "tablet": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            }
+                        }
+                    }
+                },
+                "margin": {
+                    "type": "object",
+                    "default": {
+                        "spacing": {
+                            "top": "",
+                            "left": "",
+                            "right": "",
+                            "bottom": ""
+                        },
+                        "unit": "px"
+                    }
+                },
+                "border": {
+                    "type": "object",
+                    "default": {
+                        "width": "0",
+                        "style": "none",
+                        "color": {
+                            "color": ""
+                        }
+                    }
+                },
+                "borderRadius": {
+                    "type": "object",
+                    "default": {
+                        "unit": "px",
+                        "spacing": {
+                            "desktop": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "mobile": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "tablet": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            }
+                        }
+                    }
+                },
+                "boxShadow": {
+                    "type": "object",
+                    "default": {
+                        "enable": false,
+                        "inset": false,
+                        "horizontalOffset": 0,
+                        "verticalOffset": 5,
+                        "blur": 20,
+                        "spread": 0,
+                        "color": {
+                            "color": "rgba(210,213,218,0.2)"
+                        }
+                    }
+                },
+                "alignment": {
+                    "type": "string",
+                    "default": ""
+                },
+                "imageSize": {
+                    "type": "string",
+                    "default": "full"
+                },
+                "imageWidth": {
+                    "type": "object",
+                    "default": {
+                        "desktop": {
+                            "number": "",
+                            "unit": "px"
+                        },
+                        "tablet": {
+                            "number": "",
+                            "unit": "px"
+                        },
+                        "mobile": {
+                            "number": "",
+                            "unit": "px"
+                        }
+                    }
+                },
+                "imageHeight": {
+                    "type": "object",
+                    "default": {
+                        "desktop": {
+                            "number": "",
+                            "unit": "px"
+                        },
+                        "tablet": {
+                            "number": "",
+                            "unit": "px"
+                        },
+                        "mobile": {
+                            "number": "",
+                            "unit": "px"
+                        }
+                    }
+                },
+                "imageBorderRadius": {
+                    "type": "object",
+                    "default": {
+                        "unit": "px",
+                        "spacing": {
+                            "desktop": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "mobile": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "tablet": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            }
+                        }
+                    }
+                },
+                "imageScale": {
+                    "type": "string",
+                    "default": "original"
+                },
+                "titleColor": {
+                    "type": "string",
+                    "default": "#374757"
+                },
+                "titleHoverColor": {
+                    "type": "string",
+                    "default": "var(--primary-color)"
+                },
+                "titleMargin": {
+                    "type": "object",
+                    "default": {
+                        "spacing": {
+                            "top": "",
+                            "left": "",
+                            "right": "",
+                            "bottom": ""
+                        },
+                        "unit": "px"
+                    }
+                },
+                "titleTypography": {
+                    "type": "object",
+                    "default": {
+                        "fontFamily": "Default",
+                        "fontSize": {
+                            "desktop": {
+                                "number": "",
+                                "unit": "px"
+                            },
+                            "tablet": {
+                                "number": "",
+                                "unit": "px"
+                            },
+                            "mobile": {
+                                "number": "",
+                                "unit": "px"
+                            }
+                        },
+                        "lineHeight": {
+                            "desktop": {
+                                "number": "",
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": "",
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": "",
+                                "unit": "em"
+                            }
+                        },
+                        "letterSpacing": {
+                            "desktop": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 0,
+                                "unit": "em"
+                            }
+                        },
+                        "variation": "n7",
+                        "textTransform": "normal",
+                        "textDecoration": "none"
+                    }
+                },
+                "recipeKeysIconSize": {
+                    "type": "object",
+                    "default": {
+                        "number": 29,
+                        "unit": "px"
+                    }
+                },
+                "recipeKeysIconSpace": {
+                    "type": "object",
+                    "default": {
+                        "number": 8,
+                        "unit": "px"
+                    }
+                },
+                "recipeKeysIconAlignment": {
+                    "type": "string",
+                    "default": ""
+                },
+                "metaIconSize": {
+                    "type": "object",
+                    "default": {
+                        "number": 13,
+                        "unit": "px"
+                    }
+                },
+                "metaIconColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "metaTypography": {
+                    "type": "object",
+                    "default": {
+                        "fontFamily": "Default",
+                        "variation": "n6",
+                        "fontSize": {
+                            "desktop": {
+                                "number": "",
+                                "unit": "px"
+                            },
+                            "tablet": {
+                                "number": "",
+                                "unit": "px"
+                            },
+                            "mobile": {
+                                "number": "",
+                                "unit": "px"
+                            }
+                        },
+                        "lineHeight": {
+                            "desktop": {
+                                "number": "",
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": "",
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": "",
+                                "unit": "em"
+                            }
+                        },
+                        "letterSpacing": {
+                            "desktop": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 0,
+                                "unit": "em"
+                            }
+                        },
+                        "textTransform": "normal",
+                        "textDecoration": "none"
+                    }
+                },
+                "metaTextColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "metaIconSpacing": {
+                    "type": "object",
+                    "default": {
+                        "number": 25,
+                        "unit": "px"
+                    }
+                },
+                "metaAlignment": {
+                    "type": "string",
+                    "default": ""
+                },
+                "recipesPerSlide": {
+                    "type": "object",
+                    "default": {
+                        "desktop": 4,
+                        "tablet": 3,
+                        "mobile": 1
+                    }
+                },
+                "slideItemGap": {
+                    "type": "number",
+                    "default": 0
+                },
+                "showSliderArows": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "navSize": {
+                    "type": "object",
+                    "default": {
+                        "number": "",
+                        "unit": "px"
+                    }
+                },
+                "sliderArrowsColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "sliderArrowsHoverColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "sliderArrowsBackgroundColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "sliderArrowsBackgroundHoverColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "sliderArrowsBorder": {
+                    "type": "object",
+                    "default": {
+                        "width": "0",
+                        "style": "none",
+                        "color": {
+                            "color": ""
+                        }
+                    }
+                },
+                "sliderArrowsBorderRadius": {
+                    "type": "object",
+                    "default": {
+                        "unit": "px",
+                        "spacing": {
+                            "desktop": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "mobile": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "tablet": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            }
+                        }
+                    }
+                }
+            },
+            "viewScript": "drWidgetsBlocks-common",
+            "style": [
+                "dr-widgetsBlocks-layouts",
+                "dr-widgetsBlocks-recipe-posts-carousel",
+                "swiper-bundle"
+            ]
+        },
+        "dr-widgets-blocks\/recipe-posts": {
+            "api_version": 2,
+            "name": "dr-widgets-blocks\/recipe-posts",
+            "title": "Recipe Posts",
+            "category": "dr-widgets-blocks",
+            "attributes": {
+                "block_id": {
+                    "type": "string"
+                },
+                "layout": {
+                    "type": "string",
+                    "default": "layout-1"
+                },
+                "recipesPerRow": {
+                    "type": "object",
+                    "default": {
+                        "desktop": 3,
+                        "tablet": 2,
+                        "mobile": 1
+                    }
+                },
+                "columnsGap": {
+                    "type": "object",
+                    "default": {
+                        "number": "30",
+                        "unit": "px"
+                    }
+                },
+                "rowsGap": {
+                    "type": "object",
+                    "default": {
+                        "number": "30",
+                        "unit": "px"
+                    }
+                },
+                "postsPerPage": {
+                    "type": "number",
+                    "default": 3
+                },
+                "offset": {
+                    "type": "number",
+                    "default": 0
+                },
+                "filterBy": {
+                    "type": "string",
+                    "default": "latest"
+                },
+                "taxonomy": {
+                    "type": "string",
+                    "default": "recipe-course"
+                },
+                "terms": {
+                    "type": "array",
+                    "default": []
+                },
+                "orderby": {
+                    "type": "string",
+                    "default": "date"
+                },
+                "order": {
+                    "type": "string",
+                    "default": "DESC"
+                },
+                "exclude": {
+                    "type": "array",
+                    "default": []
+                },
+                "showFeatureImage": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "showTitle": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "headingTag": {
+                    "type": "string",
+                    "default": "h3"
+                },
+                "showTotalTime": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "showDifficulty": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "showRecipeKeys": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "showExcerpt": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "excerptLength": {
+                    "type": "number",
+                    "default": 20
+                },
+                "showAuthor": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "showRating": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "showComment": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "showPublishDate": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "showCategory": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "showReadmore": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "readmoreText": {
+                    "type": "string",
+                    "default": "Read More"
+                },
+                "backgroundColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "padding": {
+                    "type": "object",
+                    "default": {
+                        "unit": "px",
+                        "spacing": {
+                            "desktop": {
+                                "top": 30,
+                                "left": 30,
+                                "right": 30,
+                                "bottom": 30
+                            },
+                            "mobile": {
+                                "top": 30,
+                                "left": 30,
+                                "right": 30,
+                                "bottom": 30
+                            },
+                            "tablet": {
+                                "top": 30,
+                                "left": 30,
+                                "right": 30,
+                                "bottom": 30
+                            }
+                        }
+                    }
+                },
+                "margin": {
+                    "type": "object",
+                    "default": {
+                        "spacing": {
+                            "top": "",
+                            "left": "",
+                            "right": "",
+                            "bottom": ""
+                        },
+                        "unit": "px"
+                    }
+                },
+                "border": {
+                    "type": "object",
+                    "default": {
+                        "width": "1",
+                        "style": "none",
+                        "color": {
+                            "color": ""
+                        }
+                    }
+                },
+                "borderRadius": {
+                    "type": "object",
+                    "default": {
+                        "unit": "px",
+                        "spacing": {
+                            "desktop": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "mobile": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "tablet": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            }
+                        }
+                    }
+                },
+                "boxShadow": {
+                    "type": "object",
+                    "default": {
+                        "enable": false,
+                        "inset": false,
+                        "horizontalOffset": 0,
+                        "verticalOffset": 5,
+                        "blur": 20,
+                        "spread": 0,
+                        "color": {
+                            "color": "rgba(210,213,218,0.2)"
+                        }
+                    }
+                },
+                "alignment": {
+                    "type": "string",
+                    "default": ""
+                },
+                "separator": {
+                    "type": "string",
+                    "default": "dot"
+                },
+                "imageSize": {
+                    "type": "string",
+                    "default": "full"
+                },
+                "imageWidth": {
+                    "type": "object",
+                    "default": {
+                        "desktop": {
+                            "number": "",
+                            "unit": "px"
+                        },
+                        "tablet": {
+                            "number": "",
+                            "unit": "px"
+                        },
+                        "mobile": {
+                            "number": "",
+                            "unit": "px"
+                        }
+                    }
+                },
+                "imageHeight": {
+                    "type": "object",
+                    "default": {
+                        "desktop": {
+                            "number": "",
+                            "unit": "px"
+                        },
+                        "tablet": {
+                            "number": "",
+                            "unit": "px"
+                        },
+                        "mobile": {
+                            "number": "",
+                            "unit": "px"
+                        }
+                    }
+                },
+                "imageBorderRadius": {
+                    "type": "object",
+                    "default": {
+                        "unit": "px",
+                        "spacing": {
+                            "desktop": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "mobile": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "tablet": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            }
+                        }
+                    }
+                },
+                "imageAlignment": {
+                    "type": "string",
+                    "default": "left"
+                },
+                "imageScale": {
+                    "type": "string",
+                    "default": "original"
+                },
+                "titleColor": {
+                    "type": "string",
+                    "default": "#374757"
+                },
+                "titleHoverColor": {
+                    "type": "string",
+                    "default": "var(--primary-color)"
+                },
+                "titleMargin": {
+                    "type": "object",
+                    "default": {
+                        "spacing": {
+                            "top": 0,
+                            "left": 0,
+                            "right": 0,
+                            "bottom": 20
+                        },
+                        "unit": "px"
+                    }
+                },
+                "titleTypography": {
+                    "type": "object",
+                    "default": {
+                        "fontFamily": "Default",
+                        "fontSize": {
+                            "desktop": {
+                                "number": 20,
+                                "unit": "px"
+                            },
+                            "tablet": {
+                                "number": 20,
+                                "unit": "px"
+                            },
+                            "mobile": {
+                                "number": 20,
+                                "unit": "px"
+                            }
+                        },
+                        "lineHeight": {
+                            "desktop": {
+                                "number": 1.55,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 1.55,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 1.55,
+                                "unit": "em"
+                            }
+                        },
+                        "letterSpacing": {
+                            "desktop": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 0,
+                                "unit": "em"
+                            }
+                        },
+                        "variation": "n7",
+                        "textTransform": "normal",
+                        "textDecoration": "none"
+                    }
+                },
+                "excerptTypography": {
+                    "type": "object",
+                    "default": {
+                        "fontFamily": "Default",
+                        "variation": "n4",
+                        "fontSize": {
+                            "desktop": {
+                                "number": 18,
+                                "unit": "px"
+                            },
+                            "tablet": {
+                                "number": 18,
+                                "unit": "px"
+                            },
+                            "mobile": {
+                                "number": 18,
+                                "unit": "px"
+                            }
+                        },
+                        "lineHeight": {
+                            "desktop": {
+                                "number": 1.77,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 1.77,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 1.77,
+                                "unit": "em"
+                            }
+                        },
+                        "letterSpacing": {
+                            "desktop": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 0,
+                                "unit": "em"
+                            }
+                        },
+                        "textTransform": "normal",
+                        "textDecoration": "none"
+                    }
+                },
+                "excerptColor": {
+                    "type": "string",
+                    "default": "#232323"
+                },
+                "excerptAlignment": {
+                    "type": "string",
+                    "default": ""
+                },
+                "recipeKeysIconSize": {
+                    "type": "object",
+                    "default": {
+                        "number": 29,
+                        "unit": "px"
+                    }
+                },
+                "recipeKeysIconSpace": {
+                    "type": "object",
+                    "default": {
+                        "number": 8,
+                        "unit": "px"
+                    }
+                },
+                "recipeKeysIconAlignment": {
+                    "type": "string",
+                    "default": ""
+                },
+                "metaIconSize": {
+                    "type": "object",
+                    "default": {
+                        "number": 13,
+                        "unit": "px"
+                    }
+                },
+                "metaIconColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "metaTypography": {
+                    "type": "object",
+                    "default": {
+                        "fontFamily": "Default",
+                        "variation": "n6",
+                        "fontSize": {
+                            "desktop": {
+                                "number": 13,
+                                "unit": "px"
+                            },
+                            "tablet": {
+                                "number": 13,
+                                "unit": "px"
+                            },
+                            "mobile": {
+                                "number": 13,
+                                "unit": "px"
+                            }
+                        },
+                        "lineHeight": {
+                            "desktop": {
+                                "number": 1.5,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 1.5,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 1.5,
+                                "unit": "em"
+                            }
+                        },
+                        "letterSpacing": {
+                            "desktop": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 0,
+                                "unit": "em"
+                            }
+                        },
+                        "textTransform": "normal",
+                        "textDecoration": "none"
+                    }
+                },
+                "metaTextColor": {
+                    "type": "string",
+                    "default": "#171717"
+                },
+                "metaIconSpacing": {
+                    "type": "object",
+                    "default": {
+                        "number": 25,
+                        "unit": "px"
+                    }
+                },
+                "metaAlignment": {
+                    "type": "string",
+                    "default": ""
+                },
+                "categorySpaceBetween": {
+                    "type": "object",
+                    "default": {
+                        "number": 20,
+                        "unit": "px"
+                    }
+                },
+                "categoryItemPadding": {
+                    "type": "object",
+                    "default": {
+                        "unit": "px",
+                        "spacing": {
+                            "desktop": {
+                                "top": 0,
+                                "left": 0,
+                                "right": 0,
+                                "bottom": 0
+                            },
+                            "mobile": {
+                                "top": 0,
+                                "left": 0,
+                                "right": 0,
+                                "bottom": 0
+                            },
+                            "tablet": {
+                                "top": 0,
+                                "left": 0,
+                                "right": 0,
+                                "bottom": 0
+                            }
+                        }
+                    }
+                },
+                "categoryColor": {
+                    "type": "string",
+                    "default": "#374757"
+                },
+                "categoryHoverColor": {
+                    "type": "string",
+                    "default": "var(--primary-color)"
+                },
+                "categoryBackground": {
+                    "type": "string",
+                    "default": ""
+                },
+                "categoryHoverBackground": {
+                    "type": "string",
+                    "default": ""
+                },
+                "categoryBorder": {
+                    "type": "object",
+                    "default": {
+                        "width": "1",
+                        "style": "none",
+                        "color": {
+                            "color": ""
+                        }
+                    }
+                },
+                "categoryBorderRadius": {
+                    "type": "object",
+                    "default": {
+                        "unit": "px",
+                        "spacing": {
+                            "desktop": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "mobile": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "tablet": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            }
+                        }
+                    }
+                },
+                "categoryMargin": {
+                    "type": "object",
+                    "default": {
+                        "spacing": {
+                            "top": 0,
+                            "left": 0,
+                            "right": 0,
+                            "bottom": 16
+                        },
+                        "unit": "px"
+                    }
+                },
+                "categoryTypography": {
+                    "type": "object",
+                    "default": {
+                        "fontFamily": "Default",
+                        "variation": "n6",
+                        "fontSize": {
+                            "desktop": {
+                                "number": 12,
+                                "unit": "px"
+                            },
+                            "tablet": {
+                                "number": 12,
+                                "unit": "px"
+                            },
+                            "mobile": {
+                                "number": 12,
+                                "unit": "px"
+                            }
+                        },
+                        "lineHeight": {
+                            "desktop": {
+                                "number": 1,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 1,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 1,
+                                "unit": "em"
+                            }
+                        },
+                        "letterSpacing": {
+                            "desktop": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 0,
+                                "unit": "em"
+                            }
+                        },
+                        "textTransform": "uppercase",
+                        "textDecoration": "none"
+                    }
+                },
+                "categoryAlignment": {
+                    "type": "string",
+                    "default": ""
+                },
+                "showReadMoreArrow": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "readMoreButtonTextColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "readMoreButtonHoverTextColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "readMoreButtonBgColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "readMoreButtonHoverBgColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "readMoreButtonBorder": {
+                    "type": "object",
+                    "default": {
+                        "width": "1",
+                        "style": "none",
+                        "color": {
+                            "color": ""
+                        }
+                    }
+                },
+                "readMoreButtonBorderRadius": {
+                    "type": "object",
+                    "default": {
+                        "unit": "px",
+                        "spacing": {
+                            "desktop": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "mobile": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "tablet": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            }
+                        }
+                    }
+                },
+                "readMoreButtonBoxShadow": {
+                    "type": "object",
+                    "default": {
+                        "enable": false,
+                        "inset": false,
+                        "horizontalOffset": 0,
+                        "verticalOffset": 5,
+                        "blur": 20,
+                        "spread": 0,
+                        "color": {
+                            "color": "rgba(210,213,218,0.2)"
+                        }
+                    }
+                },
+                "readMoreButtonPadding": {
+                    "type": "object",
+                    "default": {
+                        "unit": "px",
+                        "spacing": {
+                            "desktop": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "mobile": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "tablet": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            }
+                        }
+                    }
+                },
+                "readMoreButtonMargin": {
+                    "type": "object",
+                    "default": {
+                        "spacing": {
+                            "top": "",
+                            "left": "",
+                            "right": "",
+                            "bottom": ""
+                        },
+                        "unit": "px"
+                    }
+                },
+                "readMoreButtonTypography": {
+                    "type": "object",
+                    "default": {
+                        "fontFamily": "Default",
+                        "variation": "n6",
+                        "fontSize": {
+                            "desktop": {
+                                "number": 12,
+                                "unit": "px"
+                            },
+                            "tablet": {
+                                "number": 12,
+                                "unit": "px"
+                            },
+                            "mobile": {
+                                "number": 12,
+                                "unit": "px"
+                            }
+                        },
+                        "lineHeight": {
+                            "desktop": {
+                                "number": "",
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": "",
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": "",
+                                "unit": "em"
+                            }
+                        },
+                        "letterSpacing": {
+                            "desktop": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 0,
+                                "unit": "em"
+                            }
+                        },
+                        "textTransform": "upppercase",
+                        "textDecoration": "none"
+                    }
+                },
+                "readMoreButtonAlignment": {
+                    "type": "string",
+                    "default": ""
+                }
+            },
+            "editorStyle": [
+                "dr-blocks-editor",
+                "dr-widgets-blocks-css"
+            ],
+            "style": [
+                "dr-widgetsBlocks-layouts",
+                "dr-widgetsBlocks-recipe-posts"
+            ]
+        },
+        "dr-widgets-blocks\/recipe-categories": {
+            "api_version": 2,
+            "name": "dr-widgets-blocks\/recipe-categories",
+            "title": "Recipe Categories",
+            "category": "dr-widgets-blocks",
+            "attributes": {
+                "block_id": {
+                    "type": "string"
+                },
+                "layout": {
+                    "type": "string",
+                    "default": "layout-1"
+                },
+                "categoriesPerRow": {
+                    "type": "object",
+                    "default": {
+                        "desktop": 3,
+                        "tablet": 2,
+                        "mobile": 1
+                    }
+                },
+                "columnsGap": {
+                    "type": "object",
+                    "default": {
+                        "number": 30,
+                        "unit": "px"
+                    }
+                },
+                "rowsGap": {
+                    "type": "object",
+                    "default": {
+                        "number": 30,
+                        "unit": "px"
+                    }
+                },
+                "taxonomy": {
+                    "type": "string",
+                    "default": "recipe-course"
+                },
+                "terms": {
+                    "type": "array",
+                    "default": []
+                },
+                "hideEmpty": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "showCategoryImage": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "showCategoryName": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "categoryTag": {
+                    "type": "string",
+                    "default": "h3"
+                },
+                "showCategoryCount": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "bgColorFrom": {
+                    "type": "string",
+                    "default": "default"
+                },
+                "backgroundColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "padding": {
+                    "type": "object",
+                    "default": {
+                        "unit": "px",
+                        "spacing": {
+                            "desktop": {
+                                "top": 30,
+                                "left": 30,
+                                "right": 30,
+                                "bottom": 30
+                            },
+                            "mobile": {
+                                "top": 30,
+                                "left": 30,
+                                "right": 30,
+                                "bottom": 30
+                            },
+                            "tablet": {
+                                "top": 30,
+                                "left": 30,
+                                "right": 30,
+                                "bottom": 30
+                            }
+                        }
+                    }
+                },
+                "border": {
+                    "type": "object",
+                    "default": {
+                        "width": "1",
+                        "style": "none",
+                        "color": {
+                            "color": ""
+                        }
+                    }
+                },
+                "borderRadius": {
+                    "type": "object",
+                    "default": {
+                        "unit": "px",
+                        "spacing": {
+                            "desktop": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "mobile": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "tablet": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            }
+                        }
+                    }
+                },
+                "boxShadow": {
+                    "type": "object",
+                    "default": {
+                        "enable": false,
+                        "inset": false,
+                        "horizontalOffset": 0,
+                        "verticalOffset": 5,
+                        "blur": 20,
+                        "spread": 0,
+                        "color": {
+                            "color": "rgba(210,213,218,0.2)"
+                        }
+                    }
+                },
+                "alignment": {
+                    "type": "string",
+                    "default": ""
+                },
+                "titleColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "titleHoverColor": {
+                    "type": "string",
+                    "default": "var(--primary-color)"
+                },
+                "titleTypography": {
+                    "type": "object",
+                    "default": {
+                        "fontFamily": "Default",
+                        "fontSize": {
+                            "desktop": {
+                                "number": 20,
+                                "unit": "px"
+                            },
+                            "tablet": {
+                                "number": 20,
+                                "unit": "px"
+                            },
+                            "mobile": {
+                                "number": 20,
+                                "unit": "px"
+                            }
+                        },
+                        "lineHeight": {
+                            "desktop": {
+                                "number": 1.55,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 1.55,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 1.55,
+                                "unit": "em"
+                            }
+                        },
+                        "letterSpacing": {
+                            "desktop": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 0,
+                                "unit": "em"
+                            }
+                        },
+                        "variation": "n7",
+                        "textTransform": "normal",
+                        "textDecoration": "none"
+                    }
+                },
+                "countPadding": {
+                    "type": "object",
+                    "default": {
+                        "unit": "px",
+                        "spacing": {
+                            "desktop": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "mobile": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "tablet": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            }
+                        }
+                    }
+                },
+                "countColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "countBgColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "countBorderRadius": {
+                    "type": "object",
+                    "default": {
+                        "unit": "px",
+                        "spacing": {
+                            "desktop": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "mobile": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            },
+                            "tablet": {
+                                "top": "",
+                                "left": "",
+                                "right": "",
+                                "bottom": ""
+                            }
+                        }
+                    }
+                },
+                "countTypography": {
+                    "type": "object",
+                    "default": {
+                        "fontFamily": "Default",
+                        "variation": "n6",
+                        "fontSize": {
+                            "desktop": {
+                                "number": 12,
+                                "unit": "px"
+                            },
+                            "tablet": {
+                                "number": 12,
+                                "unit": "px"
+                            },
+                            "mobile": {
+                                "number": 12,
+                                "unit": "px"
+                            }
+                        },
+                        "lineHeight": {
+                            "desktop": {
+                                "number": 1,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 1,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 1,
+                                "unit": "em"
+                            }
+                        },
+                        "letterSpacing": {
+                            "desktop": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "tablet": {
+                                "number": 0,
+                                "unit": "em"
+                            },
+                            "mobile": {
+                                "number": 0,
+                                "unit": "em"
+                            }
+                        },
+                        "textTransform": "uppercase",
+                        "textDecoration": "none"
+                    }
+                }
+            },
+            "style": [
+                "dr-widgetsBlocks-layouts",
+                "dr-widgetsBlocks-recipe-categories"
+            ]
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "dr-widgets-blocks",
+            "language": "es_ES",
+            "version": "1.0.4",
+            "updated": "2023-05-12 10:44:00",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/dr-widgets-blocks\/1.0.4\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "dr-widgets-blocks",
+            "language": "nl_NL_formal",
+            "version": "1.0.4",
+            "updated": "2023-11-29 20:41:36",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/dr-widgets-blocks\/1.0.4\/nl_NL_formal.zip"
+        }
+    ]
+}

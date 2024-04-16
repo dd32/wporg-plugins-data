@@ -1,0 +1,1767 @@
+{
+    "name": "Gutenberg Blocks by Kadence Blocks \u2013 Page Builder Features",
+    "slug": "kadence-blocks",
+    "version": "3.2.34",
+    "author": "<a href=\"https:\/\/www.kadencewp.com\">Kadence WP<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/britner\/",
+    "contributors": {
+        "britner": {
+            "profile": "https:\/\/profiles.wordpress.org\/britner\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3276133b8df529e6e1e58586ab1a309e?s=96&d=monsterid&r=g",
+            "display_name": "Ben Ritner - Kadence WP"
+        },
+        "oakesjosh": {
+            "profile": "https:\/\/profiles.wordpress.org\/oakesjosh\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/a47a4f50bb4e8e68e467287bba160c8c?s=96&d=monsterid&r=g",
+            "display_name": "Josh"
+        },
+        "woodardmc": {
+            "profile": "https:\/\/profiles.wordpress.org\/woodardmc\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/303c66cd4978e07ebded791caf1fc734?s=96&d=monsterid&r=g",
+            "display_name": "woodardmc"
+        }
+    },
+    "requires": "6.3",
+    "tested": "6.5.2",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 96,
+    "ratings": {
+        "5": 147,
+        "4": 5,
+        "3": 4,
+        "2": 3,
+        "1": 4
+    },
+    "num_ratings": 163,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/kadence-blocks\/",
+    "support_threads": 18,
+    "support_threads_resolved": 8,
+    "active_installs": 400000,
+    "downloaded": 18431753,
+    "last_updated": "2024-04-10 3:02pm GMT",
+    "added": "2018-08-19",
+    "homepage": "https:\/\/www.kadencewp.com\/product\/kadence-gutenberg-blocks\/",
+    "sections": {
+        "description": "<p>Kadence Blocks adds custom blocks and options to extend Gutenberg\u2019s editing capabilities so you can create stunning websites with ease \u2013 no code required. Kadence Blocks is your toolkit that makes the WordPress block editor capable of creating beautiful content that\u2019s usually only possible through page builder plugins. Each block is crafted with care with regard to performance, accessibility, and extensibility.<\/p>\n<h4>Try Kadence Blocks<\/h4>\n<p>See Kadence Blocks in action with <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/try\/\" rel=\"nofollow ugc\">the live Demo Testing<\/a><\/p>\n<h4>Custom Blocks Include<\/h4>\n<ul>\n<li>Row Layout &#8211; Create rows with nested blocks either in columns or as a container. Give style to your rows with a background, overlay, padding, etc. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/row-layout-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Advanced Gallery &#8211; Create stunning photo galleries, carousels, and sliders! Enable custom links, captions, and more. Plus you can select the image size for performance. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/custom-blocks\/advanced-gallery\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Form &#8211; Our powerful form block allows you to easily create a contact or marketing form and style it within the block editor. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/form-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Advanced Text &#8211; Create a heading or paragraph and define sizes for desktop, tablet and mobile along with font family, colors, etc. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/advanced-heading-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Advanced Button &#8211; Create an advanced button or a row of buttons. Style each one, including hover controls. Plus you can use an icon and display them side-by-side. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/advanced-button-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Tabs &#8211; Create custom vertical or horizontal tabs with advanced styling controls. Each tab content is an empty canvas able to contain any other blocks. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/tabs-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Accordion &#8211; Create beautiful accordions! Each pane is able to contain any other block, customize title styles, content background, and borders. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/accordion-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Testimonials &#8211; Create confidence in your brand or product by showing off beautiful and unique testimonials. Display add as a carousel or a grid. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/testimonial-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Icon &#8211; Choose from over 1500+ SVG icons to add into your page and style the size, colors, background, border, etc. You can also add multiple icons side-by-side. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/icon-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Spacer \/ Divider &#8211; Easily create a divider and determine the space around it or just create some space in your content. You can even define the height per screen size. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/spacer-divider-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Info Box &#8211; Create a box containing an icon or image and, optionally, a title, description, and learn more text. Style static and hover separately. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/info-box-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Icon List &#8211; Add beautiful icons to your lists and make them more engaging and attract viewers\u2019 attention. Over 1500 icons to choose from and unlimited styles. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/icon-list-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Countdown &#8211; Increase your conversions by adding a sense of urgency to your offering. Pro includes evergreen campaigns as well. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/countdown-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Posts &#8211; Display a clean grid of posts anywhere on your site, great for your homepage where you want to tease your blog. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/custom-blocks\/post-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Table of Contents &#8211; Allow your readers to navigate your content easily with a table of contents block. Includes smooth scroll to anchor. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/table-of-contents\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Lottie Animation &#8211; You can import lottie animations into your site. You can choose how the animation plays and control animation speeds, loops, etc. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/custom-blocks\/lottie-animations\/\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<\/ul>\n<h4>Video Tutorial<\/h4>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/SYb24ncjVsY?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<h4>Key Block Features<\/h4>\n<ul>\n<li>Intelligent Load \u2013 Kadence Blocks only loads CSS or Javascript when you need it and only for the blocks you are using on a specific page.<\/li>\n<li>Responsive Controls \u2013 Tweak your design for each screen size. Edit tablet and mobile settings while previewing in WordPress editor.<\/li>\n<li>Typography Controls \u2013 Choose from 900+ Google fonts and design your site with complete typography control.<\/li>\n<li>Color &amp; Background Controls \u2013 Gradients, overlays, parallax backgrounds, borders, etc. You can control all the design settings!<\/li>\n<li>Configurable Defaults \u2013 Make development a breeze. Once the default settings are defined, every time you add a block those settings will automatically be applied.<\/li>\n<li>Setting Visibility Controls \u2013 Hide block settings from certain user roles so they can focus on content and you can keep them out of the block designs.<\/li>\n<li>Spacing Controls \u2013 Control paddings and margins for your blocks in whatever units you like. Customize responsively for precision spacing and design.<\/li>\n<\/ul>\n<h4>Source files<\/h4>\n<p><a href=\"https:\/\/github.com\/kadencewp\/kadence-blocks\" rel=\"nofollow ugc\">github<\/a><\/p>\n<h4>Support<\/h4>\n<p>We are happy to help as best we can with questions! Please use the support forums.<\/p>\n<h3>Security Policy<\/h3>\n<h4>Reporting Security Bugs<\/h4>\n<p>Please report security bugs found in the Kadence Blocks plugin&#8217;s source code through the Patchstack Vulnerability Disclosure Program https:\/\/patchstack.com\/database\/vdp\/kadence-blocks. The Patchstack team will assist you with verification, CVE assignment, and notify the developers of this plugin.<\/p>\n",
+        "installation": "<p>Install the plugin into the <code>\/wp-content\/plugins\/<\/code> folder, and activate it.<\/p>\n",
+        "faq": "\n<dt id='where%20do%20i%20report%20security%20bugs%20found%20in%20this%20plugin%3F'>\nWhere do I report security bugs found in this plugin?\n<\/h4>\n<p>\n<p>Please report security bugs found in the source code of the Kadence Blocks plugin through the Patchstack Vulnerability Disclosure Program https:\/\/patchstack.com\/database\/vdp\/kadence-blocks. The Patchstack team will assist you with verification, CVE assignment, and notify the developers of this plugin.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>3.2.34<\/h4>\n<p>Release Date: April 10th 2024<br \/>\n* Update: Increase Max\/Min inputs for padding\/margin controls.<br \/>\n* Update: WPML config.<br \/>\n* Update: Add form arg filter.<br \/>\n* Fix: Issue with custom block styles on TEC lists.<br \/>\n* Fix: Kadence home admin page.<\/p>\n<h4>3.2.33<\/h4>\n<p>Release Date: April 5th 2024<br \/>\n* Fix: PHP 8.3 deprecated function call in Table of Contents block.<br \/>\n* Fix: Possible css issue in FSE templates.<\/p>\n<h4>3.2.32<\/h4>\n<p>Release Date: April 2nd 2024<br \/>\n* Update: Design Library to better handle certain images.<br \/>\n* Update: Language strings.<br \/>\n* Update: Show support for 6.5.<br \/>\n* Update: AI wizard to include goals.<br \/>\n* Fix: Issue with theme colors not working when changing opacity.<br \/>\n* Fix: Possible max vars limit when using gravity forms.<br \/>\n* Fix: Aria labels on progress bar block.<br \/>\n* Fix: CSS issue with icons that had previously been displayed as stacked.<\/p>\n<h4>3.2.31<\/h4>\n<p>Release Date: March 27th 2024<br \/>\n* Fix: Issue with gradient colors.<br \/>\n* Fix: Issue with outputting error log.<br \/>\n* Fix: Transforms on P tag in Advanced Text block.<\/p>\n<h4>3.2.30<\/h4>\n<p>Release Date: March 22nd 2024<br \/>\n* Update: Improve Design library load time.<br \/>\n* Fix: Issue with custom color palette.<\/p>\n<h4>3.2.29<\/h4>\n<p>Release Date: March 21st 2024<br \/>\n* Fix: Hidden Field showing on front end.<\/p>\n<h4>3.2.28<\/h4>\n<p>Release Date: March 20th 2024<br \/>\n* Update: Available google fonts.<br \/>\n* Fix: Issue with synced patterns breaking out of layout.<br \/>\n* Fix: Possible form styles for twenty-twenty.<br \/>\n* Fix: Issue with flex basis applying to mobile vertical directions.<br \/>\n* Fix: Issue with four column layouts inheriting in the editor.<br \/>\n* Fix: Issue with importing patterns showing Invalid Request, Incorrect Pattern<\/p>\n<h4>3.2.27<\/h4>\n<p>Release Date: March 19th 2024<br \/>\n* Fix: Compatibility with WordPress 6.5 block rename feature.<br \/>\n* Fix: Value of 0 not allowed in a required number field for the advanced form block.<br \/>\n* Fix: Possible issue with font weight defaults.<br \/>\n* Fix: Issue with full height and margin spacing.<\/p>\n<h4>3.2.26<\/h4>\n<p>Release Date: March 7th 2024<br \/>\n* Update: Image importer for design library.<br \/>\n* Update: Improve js formatting.<br \/>\n* Fix: Styling issue with some infobox title headings.<br \/>\n* Fix: Tabs block inside advanced query card.<br \/>\n* Fix: Issue with image sizes in design library.<br \/>\n* Fix: Issue with missing option to choose Swedish in ai language settings.<\/p>\n<h4>3.2.25<\/h4>\n<p>Release Date: February 27th 2024<br \/>\n* Fix: Styling issue with some infobox title headings.<\/p>\n<h4>3.2.24<\/h4>\n<p>Release Date: February 26th 2024<br \/>\n* Add: Option to wrap icons in icon block.<br \/>\n* Update: Inline AI to work with language selection.<br \/>\n* Fix: AI content in pattern library.<br \/>\n* Fix: Infobox icons size incorrect in some circumstances.<br \/>\n* Fix: Prevent undesired HTML tags from being output in advanced text block.<\/p>\n<h4>3.2.23<\/h4>\n<p>Release Date: February 16th 2024<br \/>\n* Add: &#8220;only text&#8221; responsive option when using an icon in Advanced button.<br \/>\n* Add: New language selection for AI wizard.<br \/>\n* Update: Pattern import to handle advanced forms.<br \/>\n* Fix: Responsive font sizes on text in infobox.<br \/>\n* Fix: Ability to set icon size to 0 on tablet and mobile in icon block.<br \/>\n* Fix: setting anchor tags on testimonial and testimonials blocks.<\/p>\n<h4>3.2.22<\/h4>\n<p>Release Date: February 12th, 2024<br \/>\n* Add: Option to set image size for backgrounds.<br \/>\n* Fix: Accordion block inside Advanced Query Loops.<br \/>\n* Fix: Issue with custom column widths and default gutter.<br \/>\n* Fix: Issue with flex wrap inheriting to tablet and mobile.<br \/>\n* Fix: Issue with some html rendered in the success\/failed message of forms.<\/p>\n<h4>3.2.21<\/h4>\n<p>Release Date: February 3nd, 2024<br \/>\n* Fix: Issue with custom column widths and gutter none.<\/p>\n<h4>3.2.20<\/h4>\n<p>Release Date: February 2nd, 2024<br \/>\n* Add: Option to set a custom title for TOC block inside advanced text block.<br \/>\n* Update: Translation strings for block titles with context.<br \/>\n* Fix: ActiveCampaign fields issue.<br \/>\n* Fix: Infobox number field wrapping on frontend.<br \/>\n* Fix: Issue with Row Layout collapse order on desktop.<br \/>\n* Fix: Issue with custom column widths in row layout block not being calculated correctly.<br \/>\n* Fix: Lottie animation loop limit not applying.<br \/>\n* Fix: Tab issue when accordion in a menu.<br \/>\n* Fix: Tab title margin issue.<\/p>\n<h4>3.2.19<\/h4>\n<p>Release Date: January 23rd, 2024<br \/>\n* Add: Dynamic loading of alt option for image block.<br \/>\n* Fix: Timezone calculation issue in countdown block.<br \/>\n* Fix: Border radius on submit button in Form block.<br \/>\n* Fix: Issue with width on images in some patterns.<br \/>\n* Fix: Possible php undefined.<br \/>\n* Fix: Possible issue with pexels and third party plugin.<\/p>\n<h4>3.2.18<\/h4>\n<p>Release Date: January 17th, 2024<br \/>\n* Add: Constant to allow disabling AI in site config.<br \/>\n* Fix: Transforming advanced gallery into core galleries.<br \/>\n* Fix: Prevent HTML in labels from showing in advanced for emails<br \/>\n* Fix: Issue with view details.<br \/>\n* Fix: Issue with mobile background override.<br \/>\n* Fix: Issue with flex layout maxWidth on mobile.<\/p>\n<h4>3.2.17<\/h4>\n<p>Release Date: January 15th, 2024<br \/>\n* Add: Border Radius Controls to Adv Text Highlight.<br \/>\n* Fix: Gradient Button transition.<br \/>\n* Fix: Issue when using Kadence Conversions banner templates.<br \/>\n* Fix: Possible issue with events custom excerpts.<br \/>\n* Fix: Deprecation warning on PHP 8.2<\/p>\n<h4>3.2.16<\/h4>\n<p>Release Date: January 12th, 2024<br \/>\n* Fix: Some css around horizontal to vertical layout switching.<br \/>\n* Fix: Issue with info box tablet and mobile font size.<\/p>\n<h4>3.2.15<\/h4>\n<p>Release Date: January 11th, 2024<br \/>\n* Update: Change how tablet css is handled.<br \/>\n* Fix: Issue with galleries inside of flex sections.<\/p>\n<h4>3.2.14<\/h4>\n<p>Release Date: January 10th, 2024<br \/>\n* Fix: Floating Layouts inside of section blocks.<\/p>\n<h4>3.2.13<\/h4>\n<p>Release Date: January 10th, 2024<br \/>\n* Update: Change limits on typography font size field.<br \/>\n* Update: Prevent changing unit for typography sizes in tablet, mobile.<br \/>\n* Fix: Possible spacing issue in columns, flex layouts.<br \/>\n* Fix: Default color in accordion example for better accessibility.<br \/>\n* Fix: Possible issue with captions below images in gallery not centered<\/p>\n<h4>3.2.12<\/h4>\n<p>Release Date: January 9th, 2024<br \/>\n* Update: Improve location context imports.<br \/>\n* Fix: Remove adv form accept field default input<br \/>\n* Fix: Issue with RTL Carousels.<br \/>\n* Fix: Possible issue with event tickets.<br \/>\n* Fix: Better caching with auth.<\/p>\n<h4>3.2.11 Pre Release<\/h4>\n<p>Release Date: January 3rd, 2024<br \/>\n* Fix: Possible layout issue with justify content in vertical layouts.<br \/>\n* Fix: Max width issue with info box and mobile\/tablet.<br \/>\n* Fix: Issue with tab layout and last tab.<br \/>\n* Fix: Issue with tab title margin<\/p>\n<h4>3.2.10 Pre Release<\/h4>\n<p>Release Date: December 21st, 2023<br \/>\n* Update: Advanced text icon title option.<br \/>\n* Update: Icon list icon title option.<br \/>\n* Update: Button icon title option.<br \/>\n* Fix: Issue with icon list link color.<\/p>\n<h4>3.2.9 Pre Release<\/h4>\n<p>Release Date: December 20th, 2023<br \/>\n* Fix: Issue with some logo items in library<br \/>\n* Fix: Issue with some content in design library.<br \/>\n* Fix: Possible php notice with image import.<br \/>\n* Fix: Issue with possible company description length.<br \/>\n* Fix: Issue with php error in dynamic links for gallery.<br \/>\n* Fix: Issue with Ipad Pro media queries.<br \/>\n* Fix: Issue with images in flex layouts missing width.<br \/>\n* Fix: Issue with icons and screen readers.<\/p>\n<h4>3.2.8 Pre Release<\/h4>\n<p>Release Date: December 11th, 2023<br \/>\n* Fix: Issue with typed text and &amp; symbol.<br \/>\n* Fix: Issue with tab units<br \/>\n* Add: Repeatable Countdown<br \/>\n* Fix: Time zone issue with countdown.<br \/>\n* Fix: Network activated UI.<br \/>\n* Fix: Logo color logic in design library.<br \/>\n* Fix: Issue with design library file not being updated.<\/p>\n<h4>3.2.7 Pre Release<\/h4>\n<p>Release Date: December 5th, 2023<br \/>\n* Fix: Issue with undefined function.<br \/>\n* Fix: possible issue with ACF and Pexels library.<\/p>\n<h4>3.2.6 Pre Release<\/h4>\n<p>Release Date: December 5th, 2023<br \/>\n* Fix: Issue with new posts and token manager.<\/p>\n<h4>3.2.5 Pre Release<\/h4>\n<p>Release Date: December 4th, 2023<br \/>\n* Add: AI options in design library.<br \/>\n* Add: Inline AI for Text (adv) block.<br \/>\n* Add: New Image placeholder options for design library.<br \/>\n* Add: New caching system for design library and pexels.<br \/>\n* Add: New optimized image downloader.<br \/>\n* Add: New home page and activation for AI.<br \/>\n* Fix: Possible tablet css issue with sections.<br \/>\n* Fix: Advanced form missing pre submit custom error.<br \/>\n* Fix: Issue with info box text content styling.<br \/>\n* Fix: Issue with modal in editor.<br \/>\n* Fix: Form data sometimes not clearing after submit.<\/p>\n<h4>3.2.0 Beta Version 1<\/h4>\n<p>Release Date: October 5th, 2023<br \/>\n* Add: New Flex control options in section block.<br \/>\n* Add: New auto option for margin controls.<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/kadence-blocks\/assets\/screenshot-1.jpg?rev=2021505\"><img src=\"https:\/\/ps.w.org\/kadence-blocks\/assets\/screenshot-1.jpg?rev=2021505\" alt=\"&lt;p&gt;Initial Row Layout editing&lt;\/p&gt;\"><\/a><p><p>Initial Row Layout editing<\/p><\/p><\/li><li><a href=\"https:\/\/ps.w.org\/kadence-blocks\/assets\/screenshot-2.jpg?rev=1926816\"><img src=\"https:\/\/ps.w.org\/kadence-blocks\/assets\/screenshot-2.jpg?rev=1926816\" alt=\"&lt;p&gt;Example single column Row Layout with gradient Background overlay&lt;\/p&gt;\"><\/a><p><p>Example single column Row Layout with gradient Background overlay<\/p><\/p><\/li><li><a href=\"https:\/\/ps.w.org\/kadence-blocks\/assets\/screenshot-3.jpg?rev=2021505\"><img src=\"https:\/\/ps.w.org\/kadence-blocks\/assets\/screenshot-3.jpg?rev=2021505\" alt=\"&lt;p&gt;Three column Row Layout example&lt;\/p&gt;\"><\/a><p><p>Three column Row Layout example<\/p><\/p><\/li><li><a href=\"https:\/\/ps.w.org\/kadence-blocks\/assets\/screenshot-4.jpg?rev=1926816\"><img src=\"https:\/\/ps.w.org\/kadence-blocks\/assets\/screenshot-4.jpg?rev=1926816\" alt=\"&lt;p&gt;Icon Block example&lt;\/p&gt;\"><\/a><p><p>Icon Block example<\/p><\/p><\/li><li><a href=\"https:\/\/ps.w.org\/kadence-blocks\/assets\/screenshot-5.jpg?rev=1926816\"><img src=\"https:\/\/ps.w.org\/kadence-blocks\/assets\/screenshot-5.jpg?rev=1926816\" alt=\"&lt;p&gt;Advanced Button example&lt;\/p&gt;\"><\/a><p><p>Advanced Button example<\/p><\/p><\/li><li><a href=\"https:\/\/ps.w.org\/kadence-blocks\/assets\/screenshot-6.jpg?rev=1926816\"><img src=\"https:\/\/ps.w.org\/kadence-blocks\/assets\/screenshot-6.jpg?rev=1926816\" alt=\"&lt;p&gt;Editor Width settings inside Gutenberg&lt;\/p&gt;\"><\/a><p><p>Editor Width settings inside Gutenberg<\/p><\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Blocks Offer Enough Flexibility<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/wendybusse\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/2bc6842a4255df71101c635e68312d29?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/2bc6842a4255df71101c635e68312d29?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/wendybusse\/\" class=\"reviewer-name\">WendyB <small>(wendybusse)<\/small><\/a> on <span class=\"review-date\">April 16, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The blocks add enough flexibility, and the customer support is outstanding. I am a novice and have not had to hire any help.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excellent Page Builder<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mezvin\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/98d6f1a6692cfce6deccae412ef85eaf?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/98d6f1a6692cfce6deccae412ef85eaf?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mezvin\/\" class=\"reviewer-name\">mezvin<\/a> on <span class=\"review-date\">April 15, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Excellent page builder and excellent support !<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">The best Gutenberg plugin and theme period!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/arden4real\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/cb13d69da1fcfd71890f75e71cd7cca9?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/cb13d69da1fcfd71890f75e71cd7cca9?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/arden4real\/\" class=\"reviewer-name\">arden4real<\/a> on <span class=\"review-date\">April 10, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This plugin is perhaps the best one I\u2019ve tried. One plugin can solve pretty much everything <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">and the customer support is unbelievably fast and helpful <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Best Customer Service Ever!!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/timv1964\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/8e9e66716ba3e5269ccf7a67fc628d63?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/8e9e66716ba3e5269ccf7a67fc628d63?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/timv1964\/\" class=\"reviewer-name\">timv1964<\/a> on <span class=\"review-date\">April 3, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Nothing is ever too hard for the Support Team at Kadence. They have helped me out too many times for the membership I have paid for. Its been one of the best investments I have made. I can not remember how many times these guys have helped me our and helped my business succeed.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Flexible, highly customizable, fast<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/katme\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/cff30710a1e2271f21d7c59cb94867fa?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/cff30710a1e2271f21d7c59cb94867fa?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/katme\/\" class=\"reviewer-name\">Kat <small>(katme)<\/small><\/a> on <span class=\"review-date\">March 20, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Really happy with Kadence blocks: there are more than enough elements to build a good looking website. All blocks are customizable and easy to manage. And of course they play well with Kadence theme. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">A big thank you to the developers! :-)<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">After 3 years... Then the light came !<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/gentlerhino\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/6371d19998c95dbba2acc763a8128b97?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/6371d19998c95dbba2acc763a8128b97?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/gentlerhino\/\" class=\"reviewer-name\">gentlerhino<\/a> on <span class=\"review-date\">March 7, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">After 3 years of Kadence\u2026 <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I was completely new to wordpress. I switched from Godaddy with only one thing in mind : speed and light weight first. Because, they were good enought 15 years ago but, when Google changed, my website was just downgrading...<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">First try was Elementor that everyone was talking about... Speed and weight was horrible at that time... (Maybe they are better today, i dont really care now). After couple month trying to optimize when your a complete Neweee : pretty hard... Lot's of page were marked as slow in search console, if not all of them... After lot's of reading, i new i had made a bad choice even if couple people saif they had good speed... That was not my case and i could feel it in the browser : their is a lot of weight in it !!! (Not in a good way)<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">After couple month, that was enough... Was ready for more work in search for what i really wanted and needed... Then the light came !<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">KADENCE !!! Ok, i had to work a little more than Elementor but how much more value, speed, weight loss and so much more versatily... At least to me !<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">And even if i was about 1 year in Wordpress at that time... After 1 month of Kadence i new it was what i needed. I bought the full bundle !!! Every day, for all my website i never regret !!! Every new update !<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">This was the better mode i did since i build website.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I think i know what falling in love mean now ! <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Kadence Blocks super-powers the native Gutenberg editor<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/wrwp\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b5138c47875b0e920aca979bca657d44?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b5138c47875b0e920aca979bca657d44?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/wrwp\/\" class=\"reviewer-name\">Dean <small>(wrwp)<\/small><\/a> on <span class=\"review-date\">February 6, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This review is geared more towards a novice WordPress user who is struggling with the native Gutenberg editor technology .....<br \/><br \/>What Kadence Blocks does (the pro-version in particular) is it super-charges the functionality of the native Gutenberg block editor ... for example - using the <strong>native Gutenberg \"Paragraph\" block<\/strong>, vs. the <strong>Kadence \"Advanced Text\" block<\/strong> defacto replacement as a <strong>comparison .... <\/strong><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>the <strong>native Gutenberg<\/strong> \"Paragraph\" block currently only has <strong>\"several\"<\/strong> styling\/settings features,<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>the \"Advanced Text\" block in <strong>Kadence blocks<\/strong> on the other hand, currently has <strong>\"several dozen\"<\/strong> styling\/settings features ...<\/li>\n<!-- \/wp:list-item --><\/ul>\n<!-- \/wp:list -->\n\n<!-- wp:paragraph -->\n<p class=\"\">the \"Advanced Text\" block in Kadence Blocks is just 1 of aprox. 27 custom blocks that comes in the Kadence Block pro-version (the FREE version has around 15 custom blocks) .... each Kadence block provides a higher level of functionality compared to it's native Gutenberg defacto replacement ... <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">all the powerful Kadence blocks working together in the native Gutenberg editor essentially give you \"Page-Builder\" like functionality, but without the extra page-builder bloat &amp; occasional compatibility issues ...<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">furthermore, if you <strong>combine<\/strong> Kadence <strong>\"Blocks\"<\/strong> Pro with the Kadence Pro <strong>\"Theme\"<\/strong>; ... you then get the added \"Theme Builder\" type functionality\/technology ... which is still a rare feature in the multitude of hybrid themes offered in theme market-place today. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">While i'd luv to be able to spend a couple days putting together a blog post that goes into detail about all the added functionality Kadence Blocks add's to the native Gutenberg editor ... unfortunately, i don't currently have that type of extra time right now ... however, checking on the Kadence website,  i notice they offer a 30 day money back guarantees ... my guess is; if your disappointed with the native Gutenberg Block editor, and you try Kadence Blocks Pro (or even Kadence Blocks Free) you'll encounter a whole new world of expanded functionality from native Gutenberg editor - that may significantly change your mind about what the Gutenberg block editor is capable of.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Perfect blocks and fast support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/hurtadodoo\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/6782414f5e08db643fbff39de7d36b69?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/6782414f5e08db643fbff39de7d36b69?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/hurtadodoo\/\" class=\"reviewer-name\">hurtadodoo<\/a> on <span class=\"review-date\">January 3, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Thank you for such helpful plugin. Support was really fast.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Very good plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/benniledl\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e2399812a040d206c9d2564bdc656cb3?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e2399812a040d206c9d2564bdc656cb3?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/benniledl\/\" class=\"reviewer-name\">!Benni <small>(benniledl)<\/small><\/a> on <span class=\"review-date\">December 19, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Very nice! Thanks to the developers!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Best WordPress Page Post Editor<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/vishalmajumdar\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/9d6f95da4005ca2187620b476f27fb9a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/9d6f95da4005ca2187620b476f27fb9a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/vishalmajumdar\/\" class=\"reviewer-name\">Vishal Majumdar <small>(vishalmajumdar)<\/small><\/a> on <span class=\"review-date\">December 16, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I  love using this plugin to create any type of website I want and that too not heavy like Elementor and the previous one which I don't want to mention. Nicely optimized Gutenberg Editor plugin. Please add more features like animation and all if possible.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Custom Blocks for Gutenberg to help extend the editing capabilities.",
+    "description": "<p>Kadence Blocks adds custom blocks and options to extend Gutenberg\u2019s editing capabilities so you can create stunning websites with ease \u2013 no code required. Kadence Blocks is your toolkit that makes the WordPress block editor capable of creating beautiful content that\u2019s usually only possible through page builder plugins. Each block is crafted with care with regard to performance, accessibility, and extensibility.<\/p>\n<h4>Try Kadence Blocks<\/h4>\n<p>See Kadence Blocks in action with <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/try\/\" rel=\"nofollow ugc\">the live Demo Testing<\/a><\/p>\n<h4>Custom Blocks Include<\/h4>\n<ul>\n<li>Row Layout &#8211; Create rows with nested blocks either in columns or as a container. Give style to your rows with a background, overlay, padding, etc. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/row-layout-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Advanced Gallery &#8211; Create stunning photo galleries, carousels, and sliders! Enable custom links, captions, and more. Plus you can select the image size for performance. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/custom-blocks\/advanced-gallery\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Form &#8211; Our powerful form block allows you to easily create a contact or marketing form and style it within the block editor. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/form-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Advanced Text &#8211; Create a heading or paragraph and define sizes for desktop, tablet and mobile along with font family, colors, etc. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/advanced-heading-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Advanced Button &#8211; Create an advanced button or a row of buttons. Style each one, including hover controls. Plus you can use an icon and display them side-by-side. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/advanced-button-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Tabs &#8211; Create custom vertical or horizontal tabs with advanced styling controls. Each tab content is an empty canvas able to contain any other blocks. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/tabs-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Accordion &#8211; Create beautiful accordions! Each pane is able to contain any other block, customize title styles, content background, and borders. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/accordion-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Testimonials &#8211; Create confidence in your brand or product by showing off beautiful and unique testimonials. Display add as a carousel or a grid. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/testimonial-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Icon &#8211; Choose from over 1500+ SVG icons to add into your page and style the size, colors, background, border, etc. You can also add multiple icons side-by-side. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/icon-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Spacer \/ Divider &#8211; Easily create a divider and determine the space around it or just create some space in your content. You can even define the height per screen size. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/spacer-divider-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Info Box &#8211; Create a box containing an icon or image and, optionally, a title, description, and learn more text. Style static and hover separately. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/info-box-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Icon List &#8211; Add beautiful icons to your lists and make them more engaging and attract viewers\u2019 attention. Over 1500 icons to choose from and unlimited styles. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/icon-list-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Countdown &#8211; Increase your conversions by adding a sense of urgency to your offering. Pro includes evergreen campaigns as well. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/countdown-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Posts &#8211; Display a clean grid of posts anywhere on your site, great for your homepage where you want to tease your blog. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/custom-blocks\/post-block\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Table of Contents &#8211; Allow your readers to navigate your content easily with a table of contents block. Includes smooth scroll to anchor. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/table-of-contents\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<li>Lottie Animation &#8211; You can import lottie animations into your site. You can choose how the animation plays and control animation speeds, loops, etc. <a href=\"https:\/\/www.kadencewp.com\/kadence-blocks\/custom-blocks\/lottie-animations\/\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\" rel=\"nofollow ugc\">Learn more<\/a><\/li>\n<\/ul>\n<h4>Video Tutorial<\/h4>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/SYb24ncjVsY?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<h4>Key Block Features<\/h4>\n<ul>\n<li>Intelligent Load \u2013 Kadence Blocks only loads CSS or Javascript when you need it and only for the blocks you are using on a specific page.<\/li>\n<li>Responsive Controls \u2013 Tweak your design for each screen size. Edit tablet and mobile settings while previewing in WordPress editor.<\/li>\n<li>Typography Controls \u2013 Choose from 900+ Google fonts and design your site with complete typography control.<\/li>\n<li>Color &amp; Background Controls \u2013 Gradients, overlays, parallax backgrounds, borders, etc. You can control all the design settings!<\/li>\n<li>Configurable Defaults \u2013 Make development a breeze. Once the default settings are defined, every time you add a block those settings will automatically be applied.<\/li>\n<li>Setting Visibility Controls \u2013 Hide block settings from certain user roles so they can focus on content and you can keep them out of the block designs.<\/li>\n<li>Spacing Controls \u2013 Control paddings and margins for your blocks in whatever units you like. Customize responsively for precision spacing and design.<\/li>\n<\/ul>\n<h4>Source files<\/h4>\n<p><a href=\"https:\/\/github.com\/kadencewp\/kadence-blocks\" rel=\"nofollow ugc\">github<\/a><\/p>\n<h4>Support<\/h4>\n<p>We are happy to help as best we can with questions! Please use the support forums.<\/p>\n<h3>Security Policy<\/h3>\n<h4>Reporting Security Bugs<\/h4>\n<p>Please report security bugs found in the Kadence Blocks plugin&#8217;s source code through the Patchstack Vulnerability Disclosure Program https:\/\/patchstack.com\/database\/vdp\/kadence-blocks. The Patchstack team will assist you with verification, CVE assignment, and notify the developers of this plugin.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.34.zip",
+    "upgrade_notice": {
+        "3.0.17": "<p>Kadence Blocks 3.0+ is a large update, we suggest testing thoroughly after updating. <a href=\"https:\/\/www.kadencewp.com\/blog\/introducing-blocks-3\/?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=read-me&amp;utm_content=kadence-blocks\">Learn about Kadence Blocks 3.0+<\/a><\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/kadence-blocks\/assets\/screenshot-1.jpg?rev=2021505",
+            "caption": "<p>Initial Row Layout editing<\/p>"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/kadence-blocks\/assets\/screenshot-2.jpg?rev=1926816",
+            "caption": "<p>Example single column Row Layout with gradient Background overlay<\/p>"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/kadence-blocks\/assets\/screenshot-3.jpg?rev=2021505",
+            "caption": "<p>Three column Row Layout example<\/p>"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/kadence-blocks\/assets\/screenshot-4.jpg?rev=1926816",
+            "caption": "<p>Icon Block example<\/p>"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/kadence-blocks\/assets\/screenshot-5.jpg?rev=1926816",
+            "caption": "<p>Advanced Button example<\/p>"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/kadence-blocks\/assets\/screenshot-6.jpg?rev=1926816",
+            "caption": "<p>Editor Width settings inside Gutenberg<\/p>"
+        }
+    },
+    "tags": {
+        "blocks": "blocks",
+        "editor": "editor",
+        "gutenberg": "gutenberg",
+        "gutenberg-blocks": "gutenberg blocks",
+        "page-builder": "page builder"
+    },
+    "stable_tag": "3.2.34",
+    "versions": {
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.0.4.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.0.5.zip",
+        "1.0.6": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.0.6.zip",
+        "1.0.7": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.0.7.zip",
+        "1.0.8": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.0.8.zip",
+        "1.0.9": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.0.9.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.1.0.zip",
+        "1.1.1": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.1.1.zip",
+        "1.1.2": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.1.2.zip",
+        "1.1.3": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.1.3.zip",
+        "1.1.4": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.1.4.zip",
+        "1.1.5": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.1.5.zip",
+        "1.1.7": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.1.7.zip",
+        "1.1.8": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.1.8.zip",
+        "1.1.9": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.1.9.zip",
+        "1.10.1": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.10.1.zip",
+        "1.10.2": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.10.2.zip",
+        "1.10.3": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.10.3.zip",
+        "1.10.4": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.10.4.zip",
+        "1.10.5": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.10.5.zip",
+        "1.10.6": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.10.6.zip",
+        "1.10.7": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.10.7.zip",
+        "1.10.8": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.10.8.zip",
+        "1.10.9": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.10.9.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.2.0.zip",
+        "1.2.1": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.2.1.zip",
+        "1.2.2": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.2.2.zip",
+        "1.2.3": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.2.3.zip",
+        "1.2.5": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.2.5.zip",
+        "1.2.6": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.2.6.zip",
+        "1.2.7": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.2.7.zip",
+        "1.2.8": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.2.8.zip",
+        "1.2.9": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.2.9.zip",
+        "1.3.0": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.3.0.zip",
+        "1.3.1": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.3.1.zip",
+        "1.3.2": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.3.2.zip",
+        "1.3.3": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.3.3.zip",
+        "1.3.4": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.3.4.zip",
+        "1.3.5": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.3.5.zip",
+        "1.3.6": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.3.6.zip",
+        "1.3.7": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.3.7.zip",
+        "1.3.8": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.3.8.zip",
+        "1.3.9": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.3.9.zip",
+        "1.4.0": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.4.0.zip",
+        "1.4.1": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.4.1.zip",
+        "1.4.2": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.4.2.zip",
+        "1.4.3": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.4.3.zip",
+        "1.4.4": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.4.4.zip",
+        "1.4.5": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.4.5.zip",
+        "1.4.7": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.4.7.zip",
+        "1.4.8": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.4.8.zip",
+        "1.4.9": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.4.9.zip",
+        "1.5.0": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.5.0.zip",
+        "1.5.1": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.5.1.zip",
+        "1.5.10": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.5.10.zip",
+        "1.5.11": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.5.11.zip",
+        "1.5.12": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.5.12.zip",
+        "1.5.13": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.5.13.zip",
+        "1.5.2": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.5.2.zip",
+        "1.5.4": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.5.4.zip",
+        "1.5.5": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.5.5.zip",
+        "1.5.6": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.5.6.zip",
+        "1.5.7": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.5.7.zip",
+        "1.5.8": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.5.8.zip",
+        "1.5.9": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.5.9.zip",
+        "1.6.0": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.6.0.zip",
+        "1.6.1": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.6.1.zip",
+        "1.6.10": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.6.10.zip",
+        "1.6.11": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.6.11.zip",
+        "1.6.12": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.6.12.zip",
+        "1.6.13": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.6.13.zip",
+        "1.6.14": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.6.14.zip",
+        "1.6.15": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.6.15.zip",
+        "1.6.16": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.6.16.zip",
+        "1.6.17": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.6.17.zip",
+        "1.6.18": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.6.18.zip",
+        "1.6.19": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.6.19.zip",
+        "1.6.2": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.6.2.zip",
+        "1.6.3": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.6.3.zip",
+        "1.6.5": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.6.5.zip",
+        "1.6.6": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.6.6.zip",
+        "1.6.7": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.6.7.zip",
+        "1.6.8": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.6.8.zip",
+        "1.6.9": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.6.9.zip",
+        "1.7.0": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.7.0.zip",
+        "1.7.1": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.7.1.zip",
+        "1.7.10": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.7.10.zip",
+        "1.7.11": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.7.11.zip",
+        "1.7.12": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.7.12.zip",
+        "1.7.14": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.7.14.zip",
+        "1.7.16": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.7.16.zip",
+        "1.7.17": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.7.17.zip",
+        "1.7.18": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.7.18.zip",
+        "1.7.19": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.7.19.zip",
+        "1.7.2": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.7.2.zip",
+        "1.7.20": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.7.20.zip",
+        "1.7.21": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.7.21.zip",
+        "1.7.3": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.7.3.zip",
+        "1.7.4": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.7.4.zip",
+        "1.7.5": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.7.5.zip",
+        "1.7.6": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.7.6.zip",
+        "1.7.7": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.7.7.zip",
+        "1.7.8": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.7.8.zip",
+        "1.7.9": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.7.9.zip",
+        "1.8.0": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.8.0.zip",
+        "1.8.1": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.8.1.zip",
+        "1.8.10": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.8.10.zip",
+        "1.8.11": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.8.11.zip",
+        "1.8.12": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.8.12.zip",
+        "1.8.13": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.8.13.zip",
+        "1.8.14": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.8.14.zip",
+        "1.8.2": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.8.2.zip",
+        "1.8.3": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.8.3.zip",
+        "1.8.4": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.8.4.zip",
+        "1.8.6": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.8.6.zip",
+        "1.8.7": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.8.7.zip",
+        "1.8.8": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.8.8.zip",
+        "1.8.9": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.8.9.zip",
+        "1.9.0": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.9.0.zip",
+        "1.9.1": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.9.1.zip",
+        "1.9.10": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.9.10.zip",
+        "1.9.11": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.9.11.zip",
+        "1.9.12": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.9.12.zip",
+        "1.9.13": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.9.13.zip",
+        "1.9.14": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.9.14.zip",
+        "1.9.15": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.9.15.zip",
+        "1.9.16": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.9.16.zip",
+        "1.9.17": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.9.17.zip",
+        "1.9.18": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.9.18.zip",
+        "1.9.19": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.9.19.zip",
+        "1.9.2": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.9.2.zip",
+        "1.9.3": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.9.3.zip",
+        "1.9.4": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.9.4.zip",
+        "1.9.5": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.9.5.zip",
+        "1.9.6": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.9.6.zip",
+        "1.9.7": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.9.7.zip",
+        "1.9.8": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.9.8.zip",
+        "1.9.9": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.1.9.9.zip",
+        "2.0.0": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.0.0.zip",
+        "2.0.1": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.0.1.zip",
+        "2.0.10": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.0.10.zip",
+        "2.0.11": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.0.11.zip",
+        "2.0.12": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.0.12.zip",
+        "2.0.2": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.0.2.zip",
+        "2.0.3": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.0.3.zip",
+        "2.0.4": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.0.4.zip",
+        "2.0.5": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.0.5.zip",
+        "2.0.6": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.0.6.zip",
+        "2.0.7": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.0.7.zip",
+        "2.0.8": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.0.8.zip",
+        "2.0.9": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.0.9.zip",
+        "2.1.0": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.1.0.zip",
+        "2.1.1": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.1.1.zip",
+        "2.1.11": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.1.11.zip",
+        "2.1.12": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.1.12.zip",
+        "2.1.13": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.1.13.zip",
+        "2.1.14": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.1.14.zip",
+        "2.1.15": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.1.15.zip",
+        "2.1.16": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.1.16.zip",
+        "2.1.17": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.1.17.zip",
+        "2.1.18": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.1.18.zip",
+        "2.1.19": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.1.19.zip",
+        "2.1.2": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.1.2.zip",
+        "2.1.3": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.1.3.zip",
+        "2.1.4": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.1.4.zip",
+        "2.1.5": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.1.5.zip",
+        "2.1.6": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.1.6.zip",
+        "2.1.7": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.1.7.zip",
+        "2.1.8": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.1.8.zip",
+        "2.1.9": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.1.9.zip",
+        "2.2.0": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.2.0.zip",
+        "2.2.1": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.2.1.zip",
+        "2.2.10": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.2.10.zip",
+        "2.2.2": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.2.2.zip",
+        "2.2.3": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.2.3.zip",
+        "2.2.4": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.2.4.zip",
+        "2.2.5": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.2.5.zip",
+        "2.2.6": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.2.6.zip",
+        "2.2.7": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.2.7.zip",
+        "2.2.8": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.2.8.zip",
+        "2.2.9": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.2.9.zip",
+        "2.3.0": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.3.0.zip",
+        "2.4.0": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.0.zip",
+        "2.4.1": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.1.zip",
+        "2.4.10": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.10.zip",
+        "2.4.11": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.11.zip",
+        "2.4.12": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.12.zip",
+        "2.4.13": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.13.zip",
+        "2.4.14": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.14.zip",
+        "2.4.15": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.15.zip",
+        "2.4.16": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.16.zip",
+        "2.4.17": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.17.zip",
+        "2.4.18": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.18.zip",
+        "2.4.2": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.2.zip",
+        "2.4.20": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.20.zip",
+        "2.4.21": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.21.zip",
+        "2.4.22": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.22.zip",
+        "2.4.23": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.23.zip",
+        "2.4.3": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.3.zip",
+        "2.4.4": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.4.zip",
+        "2.4.5": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.5.zip",
+        "2.4.6": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.6.zip",
+        "2.4.7": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.7.zip",
+        "2.4.8": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.8.zip",
+        "2.4.9": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.2.4.9.zip",
+        "3.0.10": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.10.zip",
+        "3.0.11": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.11.zip",
+        "3.0.12": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.12.zip",
+        "3.0.13": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.13.zip",
+        "3.0.14": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.14.zip",
+        "3.0.15": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.15.zip",
+        "3.0.16": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.16.zip",
+        "3.0.17": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.17.zip",
+        "3.0.18": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.18.zip",
+        "3.0.19": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.19.zip",
+        "3.0.20": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.20.zip",
+        "3.0.21": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.21.zip",
+        "3.0.22": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.22.zip",
+        "3.0.23": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.23.zip",
+        "3.0.24": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.24.zip",
+        "3.0.25": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.25.zip",
+        "3.0.26": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.26.zip",
+        "3.0.27": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.27.zip",
+        "3.0.30": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.30.zip",
+        "3.0.31": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.31.zip",
+        "3.0.32": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.32.zip",
+        "3.0.33": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.33.zip",
+        "3.0.34": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.34.zip",
+        "3.0.35": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.35.zip",
+        "3.0.37": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.37.zip",
+        "3.0.38": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.38.zip",
+        "3.0.39": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.39.zip",
+        "3.0.40": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.40.zip",
+        "3.0.41": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.41.zip",
+        "3.0.9": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.0.9.zip",
+        "3.1.10": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.10.zip",
+        "3.1.11": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.11.zip",
+        "3.1.12": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.12.zip",
+        "3.1.13": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.13.zip",
+        "3.1.14": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.14.zip",
+        "3.1.15": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.15.zip",
+        "3.1.16": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.16.zip",
+        "3.1.17": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.17.zip",
+        "3.1.18": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.18.zip",
+        "3.1.19": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.19.zip",
+        "3.1.20": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.20.zip",
+        "3.1.21": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.21.zip",
+        "3.1.22": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.22.zip",
+        "3.1.23": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.23.zip",
+        "3.1.24": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.24.zip",
+        "3.1.25": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.25.zip",
+        "3.1.26": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.26.zip",
+        "3.1.3": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.3.zip",
+        "3.1.4": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.4.zip",
+        "3.1.5": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.5.zip",
+        "3.1.6": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.6.zip",
+        "3.1.7": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.7.zip",
+        "3.1.8": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.8.zip",
+        "3.1.9": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.1.9.zip",
+        "3.2.12": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.12.zip",
+        "3.2.13": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.13.zip",
+        "3.2.14": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.14.zip",
+        "3.2.15": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.15.zip",
+        "3.2.16": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.16.zip",
+        "3.2.17": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.17.zip",
+        "3.2.18": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.18.zip",
+        "3.2.19": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.19.zip",
+        "3.2.20": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.20.zip",
+        "3.2.21": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.21.zip",
+        "3.2.22": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.22.zip",
+        "3.2.23": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.23.zip",
+        "3.2.24": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.24.zip",
+        "3.2.25": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.25.zip",
+        "3.2.26": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.26.zip",
+        "3.2.27": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.27.zip",
+        "3.2.28": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.28.zip",
+        "3.2.29": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.29.zip",
+        "3.2.30": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.30.zip",
+        "3.2.31": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.31.zip",
+        "3.2.32": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.32.zip",
+        "3.2.33": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.33.zip",
+        "3.2.34": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.3.2.34.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/kadence-blocks.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/www.kadencewp.com\/about-us\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/kadence-blocks\/assets\/banner-772x250.jpg?rev=1954109",
+        "high": "https:\/\/ps.w.org\/kadence-blocks\/assets\/banner-1544x500.jpg?rev=1954109"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/kadence-blocks\/assets\/icon-128x128.png?rev=2502131",
+        "2x": "https:\/\/ps.w.org\/kadence-blocks\/assets\/icon-256x256.png?rev=2502131"
+    },
+    "blocks": {
+        "kadence\/tab": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "title": "Tab",
+            "name": "kadence\/tab",
+            "category": "kadence-blocks",
+            "parent": [
+                "kadence\/tabs"
+            ],
+            "attributes": {
+                "id": {
+                    "type": "number",
+                    "default": 1
+                },
+                "uniqueID": {
+                    "type": "string",
+                    "default": ""
+                }
+            },
+            "supports": {
+                "inserter": false,
+                "reusable": false,
+                "html": false,
+                "lock": false
+            },
+            "editorScript": "file:editor.js"
+        },
+        "kadence\/advanced-form-accept": {
+            "apiVersion": 3,
+            "name": "kadence\/advanced-form-accept",
+            "category": "kadence-blocks",
+            "textdomain": "kadence-blocks",
+            "attributes": {
+                "uniqueID": {
+                    "type": "string"
+                },
+                "formID": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string",
+                    "default": ""
+                },
+                "showLabel": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "required": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "defaultValue": {
+                    "type": "string"
+                },
+                "isChecked": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "defaultParameter": {
+                    "type": "string"
+                },
+                "ariaDescription": {
+                    "type": "string",
+                    "default": ""
+                },
+                "helpText": {
+                    "type": "string",
+                    "default": ""
+                },
+                "description": {
+                    "type": "string",
+                    "default": ""
+                },
+                "maxWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "maxWidthUnit": {
+                    "type": "string",
+                    "default": "%"
+                },
+                "minWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "minWidthUnit": {
+                    "type": "string",
+                    "default": "px"
+                },
+                "inputName": {
+                    "type": "string"
+                },
+                "requiredMessage": {
+                    "type": "string"
+                },
+                "anchor": {
+                    "type": "string"
+                }
+            },
+            "supports": {
+                "anchor": true,
+                "html": false,
+                "ktfieldconditional": true,
+                "reusable": false,
+                "kbMetadata": true,
+                "ktdynamic": true,
+                "kbContentLabel": "label"
+            },
+            "ancestor": [
+                "kadence\/advanced-form"
+            ],
+            "parent": [
+                "kadence\/advanced-form",
+                "kadence\/column"
+            ],
+            "title": "Gutenberg Blocks by Kadence Blocks \u2013 Page Builder Features"
+        },
+        "kadence\/advanced-form-telephone": {
+            "apiVersion": 3,
+            "name": "kadence\/advanced-form-telephone",
+            "category": "kadence-blocks",
+            "textdomain": "kadence-blocks",
+            "attributes": {
+                "uniqueID": {
+                    "type": "string"
+                },
+                "formID": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string",
+                    "default": ""
+                },
+                "placeholder": {
+                    "type": "string",
+                    "default": ""
+                },
+                "showLabel": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "required": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "defaultValue": {
+                    "type": "string"
+                },
+                "defaultParameter": {
+                    "type": "string"
+                },
+                "ariaDescription": {
+                    "type": "string",
+                    "default": ""
+                },
+                "maxWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "maxWidthUnit": {
+                    "type": "string",
+                    "default": "%"
+                },
+                "minWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "minWidthUnit": {
+                    "type": "string",
+                    "default": "px"
+                },
+                "helpText": {
+                    "type": "string",
+                    "default": ""
+                },
+                "inputName": {
+                    "type": "string"
+                },
+                "auto": {
+                    "type": "string"
+                },
+                "errorMessage": {
+                    "type": "string"
+                },
+                "requiredMessage": {
+                    "type": "string"
+                },
+                "anchor": {
+                    "type": "string"
+                }
+            },
+            "supports": {
+                "anchor": true,
+                "html": false,
+                "ktdynamic": true,
+                "ktfieldconditional": true,
+                "reusable": false,
+                "kbMetadata": true,
+                "kbContentLabel": "label"
+            },
+            "ancestor": [
+                "kadence\/advanced-form"
+            ],
+            "parent": [
+                "kadence\/advanced-form",
+                "kadence\/column"
+            ],
+            "title": "Gutenberg Blocks by Kadence Blocks \u2013 Page Builder Features"
+        },
+        "kadence\/advanced-form-checkbox": {
+            "apiVersion": 3,
+            "name": "kadence\/advanced-form-checkbox",
+            "category": "kadence-blocks",
+            "textdomain": "kadence-blocks",
+            "attributes": {
+                "uniqueID": {
+                    "type": "string"
+                },
+                "formID": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string",
+                    "default": ""
+                },
+                "showLabel": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "required": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "defaultValue": {
+                    "type": "string"
+                },
+                "defaultParameter": {
+                    "type": "string"
+                },
+                "ariaDescription": {
+                    "type": "string",
+                    "default": ""
+                },
+                "inputName": {
+                    "type": "string"
+                },
+                "helpText": {
+                    "type": "string",
+                    "default": ""
+                },
+                "options": {
+                    "type": "array",
+                    "default": [
+                        {
+                            "value": "",
+                            "label": "",
+                            "selected": false
+                        }
+                    ]
+                },
+                "inline": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "maxWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "maxWidthUnit": {
+                    "type": "string",
+                    "default": "%"
+                },
+                "minWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "minWidthUnit": {
+                    "type": "string",
+                    "default": "px"
+                },
+                "errorMessage": {
+                    "type": "string"
+                },
+                "requiredMessage": {
+                    "type": "string"
+                },
+                "anchor": {
+                    "type": "string"
+                }
+            },
+            "supports": {
+                "anchor": true,
+                "html": false,
+                "ktfieldconditional": true,
+                "ktdynamic": true,
+                "reusable": false,
+                "kbMetadata": true,
+                "kbContentLabel": "label"
+            },
+            "ancestor": [
+                "kadence\/advanced-form"
+            ],
+            "parent": [
+                "kadence\/advanced-form",
+                "kadence\/column"
+            ],
+            "title": "Gutenberg Blocks by Kadence Blocks \u2013 Page Builder Features"
+        },
+        "kadence\/advanced-form-time": {
+            "apiVersion": 3,
+            "name": "kadence\/advanced-form-time",
+            "category": "kadence-blocks",
+            "textdomain": "kadence-blocks",
+            "attributes": {
+                "uniqueID": {
+                    "type": "string"
+                },
+                "formID": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string",
+                    "default": ""
+                },
+                "showLabel": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "required": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "defaultValue": {
+                    "type": "string"
+                },
+                "defaultParameter": {
+                    "type": "string"
+                },
+                "ariaDescription": {
+                    "type": "string",
+                    "default": ""
+                },
+                "maxWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "maxWidthUnit": {
+                    "type": "string",
+                    "default": "%"
+                },
+                "minWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "minWidthUnit": {
+                    "type": "string",
+                    "default": "px"
+                },
+                "helpText": {
+                    "type": "string",
+                    "default": ""
+                },
+                "inputName": {
+                    "type": "string"
+                },
+                "auto": {
+                    "type": "string"
+                },
+                "errorMessage": {
+                    "type": "string"
+                },
+                "requiredMessage": {
+                    "type": "string"
+                },
+                "anchor": {
+                    "type": "string"
+                }
+            },
+            "supports": {
+                "anchor": true,
+                "html": false,
+                "ktdynamic": true,
+                "ktfieldconditional": true,
+                "reusable": false,
+                "kbMetadata": true,
+                "kbContentLabel": "label"
+            },
+            "ancestor": [
+                "kadence\/advanced-form"
+            ],
+            "parent": [
+                "kadence\/advanced-form",
+                "kadence\/column"
+            ],
+            "title": "Gutenberg Blocks by Kadence Blocks \u2013 Page Builder Features"
+        },
+        "kadence\/advanced-form-text": {
+            "apiVersion": 3,
+            "name": "kadence\/advanced-form-text",
+            "category": "kadence-blocks",
+            "textdomain": "kadence-blocks",
+            "attributes": {
+                "uniqueID": {
+                    "type": "string"
+                },
+                "formID": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string"
+                },
+                "placeholder": {
+                    "type": "string"
+                },
+                "showLabel": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "required": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "defaultValue": {
+                    "type": "string"
+                },
+                "defaultParameter": {
+                    "type": "string"
+                },
+                "ariaDescription": {
+                    "type": "string"
+                },
+                "maxWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "maxWidthUnit": {
+                    "type": "string",
+                    "default": "%"
+                },
+                "minWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "minWidthUnit": {
+                    "type": "string",
+                    "default": "px"
+                },
+                "helpText": {
+                    "type": "string"
+                },
+                "inputName": {
+                    "type": "string"
+                },
+                "auto": {
+                    "type": "string"
+                },
+                "errorMessage": {
+                    "type": "string"
+                },
+                "requiredMessage": {
+                    "type": "string"
+                },
+                "anchor": {
+                    "type": "string"
+                }
+            },
+            "supports": {
+                "anchor": true,
+                "html": false,
+                "ktdynamic": true,
+                "ktfieldconditional": true,
+                "reusable": false,
+                "kbMetadata": true,
+                "kbContentLabel": "label"
+            },
+            "ancestor": [
+                "kadence\/advanced-form"
+            ],
+            "parent": [
+                "kadence\/advanced-form",
+                "kadence\/column"
+            ],
+            "title": "Gutenberg Blocks by Kadence Blocks \u2013 Page Builder Features"
+        },
+        "kadence\/advanced-form-hidden": {
+            "apiVersion": 3,
+            "name": "kadence\/advanced-form-hidden",
+            "category": "kadence-blocks",
+            "textdomain": "kadence-blocks",
+            "attributes": {
+                "uniqueID": {
+                    "type": "string"
+                },
+                "formID": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string",
+                    "default": ""
+                },
+                "defaultValue": {
+                    "type": "string"
+                },
+                "defaultParameter": {
+                    "type": "string"
+                },
+                "inputName": {
+                    "type": "string"
+                },
+                "anchor": {
+                    "type": "string"
+                }
+            },
+            "supports": {
+                "anchor": true,
+                "html": false,
+                "reusable": false,
+                "ktdynamic": true,
+                "ktfieldconditional": true,
+                "kbMetadata": true,
+                "kbContentLabel": "label"
+            },
+            "ancestor": [
+                "kadence\/advanced-form"
+            ],
+            "parent": [
+                "kadence\/advanced-form",
+                "kadence\/column"
+            ],
+            "title": "Gutenberg Blocks by Kadence Blocks \u2013 Page Builder Features"
+        },
+        "kadence\/advanced-form-radio": {
+            "apiVersion": 3,
+            "name": "kadence\/advanced-form-radio",
+            "category": "kadence-blocks",
+            "textdomain": "kadence-blocks",
+            "attributes": {
+                "uniqueID": {
+                    "type": "string"
+                },
+                "formID": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string",
+                    "default": ""
+                },
+                "placeholder": {
+                    "type": "string",
+                    "default": ""
+                },
+                "showLabel": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "required": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "defaultValue": {
+                    "type": "string"
+                },
+                "defaultParameter": {
+                    "type": "string"
+                },
+                "ariaDescription": {
+                    "type": "string",
+                    "default": ""
+                },
+                "helpText": {
+                    "type": "string",
+                    "default": ""
+                },
+                "options": {
+                    "type": "array",
+                    "default": [
+                        {
+                            "value": "",
+                            "label": "",
+                            "selected": false
+                        }
+                    ]
+                },
+                "inline": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "maxWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "maxWidthUnit": {
+                    "type": "string",
+                    "default": "%"
+                },
+                "minWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "minWidthUnit": {
+                    "type": "string",
+                    "default": "px"
+                },
+                "inputName": {
+                    "type": "string"
+                },
+                "requiredMessage": {
+                    "type": "string"
+                },
+                "anchor": {
+                    "type": "string"
+                }
+            },
+            "supports": {
+                "anchor": true,
+                "html": false,
+                "ktfieldconditional": true,
+                "reusable": false,
+                "kbMetadata": true,
+                "ktdynamic": true,
+                "kbContentLabel": "label"
+            },
+            "parent": [
+                "kadence\/advanced-form"
+            ],
+            "title": "Gutenberg Blocks by Kadence Blocks \u2013 Page Builder Features"
+        },
+        "kadence\/advanced-form-number": {
+            "apiVersion": 3,
+            "name": "kadence\/advanced-form-number",
+            "category": "kadence-blocks",
+            "textdomain": "kadence-blocks",
+            "attributes": {
+                "uniqueID": {
+                    "type": "string"
+                },
+                "formID": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string",
+                    "default": ""
+                },
+                "placeholder": {
+                    "type": "string",
+                    "default": ""
+                },
+                "showLabel": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "required": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "defaultValue": {
+                    "type": "string"
+                },
+                "defaultParameter": {
+                    "type": "string"
+                },
+                "allowDecimals": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "maxValue": {
+                    "type": "number",
+                    "default": ""
+                },
+                "minValue": {
+                    "type": "number",
+                    "default": ""
+                },
+                "ariaDescription": {
+                    "type": "string",
+                    "default": ""
+                },
+                "maxWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "maxWidthUnit": {
+                    "type": "string",
+                    "default": "%"
+                },
+                "minWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "minWidthUnit": {
+                    "type": "string",
+                    "default": "px"
+                },
+                "helpText": {
+                    "type": "string",
+                    "default": ""
+                },
+                "inputName": {
+                    "type": "string"
+                },
+                "auto": {
+                    "type": "string"
+                },
+                "errorMessage": {
+                    "type": "string"
+                },
+                "requiredMessage": {
+                    "type": "string"
+                },
+                "anchor": {
+                    "type": "string"
+                }
+            },
+            "supports": {
+                "anchor": true,
+                "html": false,
+                "ktdynamic": true,
+                "ktfieldconditional": true,
+                "reusable": false,
+                "kbMetadata": true,
+                "kbContentLabel": "label"
+            },
+            "ancestor": [
+                "kadence\/advanced-form"
+            ],
+            "parent": [
+                "kadence\/advanced-form",
+                "kadence\/column"
+            ],
+            "title": "Gutenberg Blocks by Kadence Blocks \u2013 Page Builder Features"
+        },
+        "kadence\/advanced-form-textarea": {
+            "apiVersion": 3,
+            "name": "kadence\/advanced-form-textarea",
+            "category": "kadence-blocks",
+            "textdomain": "kadence-blocks",
+            "attributes": {
+                "uniqueID": {
+                    "type": "string"
+                },
+                "formID": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string",
+                    "default": ""
+                },
+                "placeholder": {
+                    "type": "string",
+                    "default": ""
+                },
+                "showLabel": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "required": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "defaultValue": {
+                    "type": "string"
+                },
+                "defaultParameter": {
+                    "type": "string"
+                },
+                "ariaDescription": {
+                    "type": "string",
+                    "default": ""
+                },
+                "helpText": {
+                    "type": "string",
+                    "default": ""
+                },
+                "maxWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "maxWidthUnit": {
+                    "type": "string",
+                    "default": "%"
+                },
+                "minWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "minWidthUnit": {
+                    "type": "string",
+                    "default": "px"
+                },
+                "rows": {
+                    "type": "number",
+                    "default": 3
+                },
+                "inputName": {
+                    "type": "string"
+                },
+                "auto": {
+                    "type": "string"
+                },
+                "errorMessage": {
+                    "type": "string"
+                },
+                "requiredMessage": {
+                    "type": "string"
+                },
+                "anchor": {
+                    "type": "string"
+                }
+            },
+            "supports": {
+                "anchor": true,
+                "html": false,
+                "ktfieldconditional": true,
+                "reusable": false,
+                "kbMetadata": true,
+                "ktdynamic": true,
+                "kbContentLabel": "label"
+            },
+            "ancestor": [
+                "kadence\/advanced-form"
+            ],
+            "parent": [
+                "kadence\/advanced-form",
+                "kadence\/column"
+            ],
+            "title": "Gutenberg Blocks by Kadence Blocks \u2013 Page Builder Features"
+        },
+        "kadence\/advanced-form-date": {
+            "apiVersion": 3,
+            "name": "kadence\/advanced-form-date",
+            "category": "kadence-blocks",
+            "textdomain": "kadence-blocks",
+            "attributes": {
+                "uniqueID": {
+                    "type": "string"
+                },
+                "formID": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string",
+                    "default": ""
+                },
+                "showLabel": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "required": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "defaultValue": {
+                    "type": "string"
+                },
+                "defaultParameter": {
+                    "type": "string"
+                },
+                "ariaDescription": {
+                    "type": "string",
+                    "default": ""
+                },
+                "maxWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "maxWidthUnit": {
+                    "type": "string",
+                    "default": "%"
+                },
+                "minWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "minWidthUnit": {
+                    "type": "string",
+                    "default": "px"
+                },
+                "helpText": {
+                    "type": "string"
+                },
+                "inputName": {
+                    "type": "string"
+                },
+                "auto": {
+                    "type": "string"
+                },
+                "errorMessage": {
+                    "type": "string"
+                },
+                "requiredMessage": {
+                    "type": "string"
+                },
+                "anchor": {
+                    "type": "string"
+                }
+            },
+            "supports": {
+                "anchor": true,
+                "html": false,
+                "ktdynamic": true,
+                "ktfieldconditional": true,
+                "reusable": false,
+                "kbMetadata": true,
+                "kbContentLabel": "label"
+            },
+            "ancestor": [
+                "kadence\/advanced-form"
+            ],
+            "parent": [
+                "kadence\/advanced-form",
+                "kadence\/column"
+            ],
+            "title": "Gutenberg Blocks by Kadence Blocks \u2013 Page Builder Features"
+        },
+        "kadence\/advanced-form-file": {
+            "apiVersion": 3,
+            "name": "kadence\/advanced-form-file",
+            "category": "kadence-blocks",
+            "textdomain": "kadence-blocks",
+            "attributes": {
+                "uniqueID": {
+                    "type": "string"
+                },
+                "formID": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string",
+                    "default": ""
+                },
+                "showLabel": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "required": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "requiredMessage": {
+                    "type": "string"
+                },
+                "multiple": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "multipleLimit": {
+                    "type": "number",
+                    "default": 5
+                },
+                "allowedTypes": {
+                    "type": "array",
+                    "default": [
+                        "image"
+                    ]
+                },
+                "maxSizeMb": {
+                    "type": "number",
+                    "default": 10
+                },
+                "ariaDescription": {
+                    "type": "string",
+                    "default": ""
+                },
+                "helpText": {
+                    "type": "string",
+                    "default": ""
+                },
+                "anchor": {
+                    "type": "string"
+                },
+                "inputName": {
+                    "type": "string"
+                }
+            },
+            "supports": {
+                "ktfieldconditional": true
+            },
+            "parent": [
+                "kadence\/advanced-form"
+            ],
+            "title": "Gutenberg Blocks by Kadence Blocks \u2013 Page Builder Features"
+        },
+        "kadence\/advanced-form-email": {
+            "apiVersion": 3,
+            "name": "kadence\/advanced-form-email",
+            "category": "kadence-blocks",
+            "textdomain": "kadence-blocks",
+            "attributes": {
+                "uniqueID": {
+                    "type": "string"
+                },
+                "formID": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string",
+                    "default": ""
+                },
+                "placeholder": {
+                    "type": "string",
+                    "default": ""
+                },
+                "showLabel": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "required": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "defaultValue": {
+                    "type": "string"
+                },
+                "defaultParameter": {
+                    "type": "string"
+                },
+                "ariaDescription": {
+                    "type": "string",
+                    "default": ""
+                },
+                "maxWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "maxWidthUnit": {
+                    "type": "string",
+                    "default": "%"
+                },
+                "minWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "minWidthUnit": {
+                    "type": "string",
+                    "default": "px"
+                },
+                "helpText": {
+                    "type": "string",
+                    "default": ""
+                },
+                "inputName": {
+                    "type": "string"
+                },
+                "auto": {
+                    "type": "string"
+                },
+                "errorMessage": {
+                    "type": "string"
+                },
+                "requiredMessage": {
+                    "type": "string"
+                },
+                "anchor": {
+                    "type": "string"
+                }
+            },
+            "supports": {
+                "anchor": true,
+                "html": false,
+                "ktdynamic": true,
+                "ktfieldconditional": true,
+                "reusable": false,
+                "kbMetadata": true,
+                "kbContentLabel": "label"
+            },
+            "ancestor": [
+                "kadence\/advanced-form"
+            ],
+            "parent": [
+                "kadence\/advanced-form",
+                "kadence\/column"
+            ],
+            "title": "Gutenberg Blocks by Kadence Blocks \u2013 Page Builder Features"
+        },
+        "kadence\/advanced-form-select": {
+            "apiVersion": 3,
+            "name": "kadence\/advanced-form-select",
+            "category": "kadence-blocks",
+            "textdomain": "kadence-blocks",
+            "attributes": {
+                "uniqueID": {
+                    "type": "string"
+                },
+                "formID": {
+                    "type": "string"
+                },
+                "label": {
+                    "type": "string",
+                    "default": ""
+                },
+                "placeholder": {
+                    "type": "string"
+                },
+                "showLabel": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "required": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "defaultValue": {
+                    "type": "string"
+                },
+                "defaultParameter": {
+                    "type": "string"
+                },
+                "ariaDescription": {
+                    "type": "string",
+                    "default": ""
+                },
+                "helpText": {
+                    "type": "string",
+                    "default": ""
+                },
+                "inputName": {
+                    "type": "string"
+                },
+                "options": {
+                    "type": "array",
+                    "default": [
+                        {
+                            "value": "",
+                            "label": ""
+                        }
+                    ]
+                },
+                "multiSelect": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "maxWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "maxWidthUnit": {
+                    "type": "string",
+                    "default": "%"
+                },
+                "minWidth": {
+                    "type": "array",
+                    "default": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                "minWidthUnit": {
+                    "type": "string",
+                    "default": "px"
+                },
+                "errorMessage": {
+                    "type": "string"
+                },
+                "requiredMessage": {
+                    "type": "string"
+                },
+                "anchor": {
+                    "type": "string"
+                }
+            },
+            "supports": {
+                "anchor": true,
+                "html": false,
+                "ktdynamic": true,
+                "ktfieldconditional": true,
+                "reusable": false,
+                "kbMetadata": true,
+                "kbContentLabel": "label"
+            },
+            "ancestor": [
+                "kadence\/advanced-form"
+            ],
+            "parent": [
+                "kadence\/advanced-form",
+                "kadence\/column"
+            ],
+            "title": "Gutenberg Blocks by Kadence Blocks \u2013 Page Builder Features"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 96,
+    "blueprints": [
+        {
+            "filename": "blueprint.json",
+            "url": "https:\/\/wordpress.org\/plugins\/wp-json\/plugins\/v1\/plugin\/kadence-blocks\/blueprint.json?rev=3068564"
+        }
+    ],
+    "preview_link": "https:\/\/wordpress.org\/plugins\/kadence-blocks\/?preview=1",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "kadence-blocks",
+            "language": "de_DE",
+            "version": "3.2.34",
+            "updated": "2024-03-29 01:43:48",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/kadence-blocks\/3.2.34\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "kadence-blocks",
+            "language": "es_VE",
+            "version": "3.2.34",
+            "updated": "2023-02-22 20:27:34",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/kadence-blocks\/3.2.34\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "kadence-blocks",
+            "language": "es_CO",
+            "version": "3.2.34",
+            "updated": "2023-02-22 20:27:31",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/kadence-blocks\/3.2.34\/es_CO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "kadence-blocks",
+            "language": "es_EC",
+            "version": "3.2.34",
+            "updated": "2023-02-22 20:27:32",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/kadence-blocks\/3.2.34\/es_EC.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "kadence-blocks",
+            "language": "es_ES",
+            "version": "3.2.34",
+            "updated": "2024-01-17 11:26:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/kadence-blocks\/3.2.34\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "kadence-blocks",
+            "language": "fa_IR",
+            "version": "3.2.34",
+            "updated": "2024-03-30 08:28:43",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/kadence-blocks\/3.2.34\/fa_IR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "kadence-blocks",
+            "language": "it_IT",
+            "version": "3.2.34",
+            "updated": "2024-02-17 20:58:16",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/kadence-blocks\/3.2.34\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "kadence-blocks",
+            "language": "nb_NO",
+            "version": "3.2.34",
+            "updated": "2023-02-21 16:49:35",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/kadence-blocks\/3.2.34\/nb_NO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "kadence-blocks",
+            "language": "nl_NL",
+            "version": "3.2.34",
+            "updated": "2023-12-16 21:31:00",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/kadence-blocks\/3.2.34\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "kadence-blocks",
+            "language": "nl_NL_formal",
+            "version": "3.2.34",
+            "updated": "2024-04-04 17:11:33",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/kadence-blocks\/3.2.34\/nl_NL_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "kadence-blocks",
+            "language": "ru_RU",
+            "version": "3.2.34",
+            "updated": "2023-11-09 00:40:37",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/kadence-blocks\/3.2.34\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "kadence-blocks",
+            "language": "zh_CN",
+            "version": "3.2.34",
+            "updated": "2024-04-02 06:21:21",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/kadence-blocks\/3.2.34\/zh_CN.zip"
+        }
+    ]
+}

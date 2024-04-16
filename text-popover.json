@@ -1,0 +1,103 @@
+{
+    "name": "PopCraft: Seamless Text Popovers in WordPress",
+    "slug": "text-popover",
+    "version": "1.0.1",
+    "author": "chinteshprajapati",
+    "author_profile": "https:\/\/profiles.wordpress.org\/chinteshprajapati\/",
+    "contributors": {
+        "chinteshprajapati": {
+            "profile": "https:\/\/profiles.wordpress.org\/chinteshprajapati\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/b8a2044b86ea84330c52874ea1d31552?s=96&d=monsterid&r=g",
+            "display_name": "Chintesh Prajapati"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/text-popover\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 100,
+    "downloaded": 964,
+    "last_updated": "2024-01-10 4:40pm GMT",
+    "added": "2021-09-10",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Elevate your WordPress editing experience with the Text Popover plugin, designed to seamlessly integrate with various blocks featuring toolbars such as paragraph blocks, heading blocks, and more. Enjoy the flexibility of adding popover content to selected text, enhancing your content creation process.<\/p>\n<h4>Special Features<\/h4>\n<ul>\n<li>Effortlessly add popovers to selected text within WordPress blocks.<\/li>\n<\/ul>\n<h4>Feedback<\/h4>\n<ul>\n<li>Your input is invaluable! I welcome your suggestions and feedback as we strive to enhance your user experience. Thank you for choosing and exploring my plugin.<\/li>\n<\/ul>\n",
+        "installation": "<ol>\n<li>Upload the entire <code>Text Popover<\/code> folder to the <code>\/wp-content\/plugins\/<\/code> directory<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress<\/li>\n<\/ol>\n<h4>Minimum Requirements<\/h4>\n<ul>\n<li>WordPress 5.0 or higher<\/li>\n<\/ul>\n<h4>Manual Installation<\/h4>\n<ol>\n<li>Unzip the files and upload the folder into your plugins folder (\/wp-content\/plugins\/) overwriting older versions if they exist<\/li>\n<li>Activate the plugin in your WordPress admin area.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='in%20which%20wordpress%20version%20this%20plugin%20is%20compatible%3F'>\nIn which WordPress version this Plugin is compatible?\n<\/h4>\n<p>\n<p>It is compatible with 5.0 to the latest WordPress version.<\/p>\n<\/p>\n<dt id='what%20does%20the%20text%20popover%20plugin%20offer%3F'>\nWhat does the Text Popover plugin offer?\n<\/h4>\n<p>\n<p>The Text Popover plugin allows you to add popover content to selected text within WordPress blocks, expanding your creative possibilities.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0 &#8211; 10.09.2021<\/h4>\n<ul>\n<li>Initial level plugin<\/li>\n<\/ul>\n<h4>1.1 &#8211; 10.01.2024<\/h4>\n<ul>\n<li>Initial level plugin<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/text-popover\/assets\/screenshot-1.png?rev=2596844\"><img src=\"https:\/\/ps.w.org\/text-popover\/assets\/screenshot-1.png?rev=2596844\" alt=\"Text Popover location\"><\/a><p>Text Popover location<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/text-popover\/assets\/screenshot-2.png?rev=2596844\"><img src=\"https:\/\/ps.w.org\/text-popover\/assets\/screenshot-2.png?rev=2596844\" alt=\"Text popover content.\"><\/a><p>Text popover content.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/text-popover\/assets\/screenshot-3.png?rev=2596844\"><img src=\"https:\/\/ps.w.org\/text-popover\/assets\/screenshot-3.png?rev=2596844\" alt=\"Popover Settings.\"><\/a><p>Popover Settings.<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">The best and easiest tooltip\/text popover I have found so far<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/bossdat\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/31c6a3fc7379f5131b82bac56d9f8df0?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/31c6a3fc7379f5131b82bac56d9f8df0?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/bossdat\/\" class=\"reviewer-name\">bossdat<\/a> on <span class=\"review-date\">August 9, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I have been looking for nearly a month for an easy-to-use text popover. All I could find before are either too complicated to use (use a shortcode), or include features that I don't need (glossary). For some reason, I did not find this plugin until now. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">This one is so easy to use, so effective. I don't normally leave a comment, but this time, I must register a WordPress account to leave a 5-star comment.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Thank you so much for creating this tool for us!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Elevate your WordPress editing experience with the Text Popover plugin, designed to seamlessly integrate with various blocks featuring toolbars such a &hellip;",
+    "description": "<p>Elevate your WordPress editing experience with the Text Popover plugin, designed to seamlessly integrate with various blocks featuring toolbars such as paragraph blocks, heading blocks, and more. Enjoy the flexibility of adding popover content to selected text, enhancing your content creation process.<\/p>\n<h4>Special Features<\/h4>\n<ul>\n<li>Effortlessly add popovers to selected text within WordPress blocks.<\/li>\n<\/ul>\n<h4>Feedback<\/h4>\n<ul>\n<li>Your input is invaluable! I welcome your suggestions and feedback as we strive to enhance your user experience. Thank you for choosing and exploring my plugin.<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/text-popover.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/text-popover\/assets\/screenshot-1.png?rev=2596844",
+            "caption": "Text Popover location"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/text-popover\/assets\/screenshot-2.png?rev=2596844",
+            "caption": "Text popover content."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/text-popover\/assets\/screenshot-3.png?rev=2596844",
+            "caption": "Popover Settings."
+        }
+    },
+    "tags": {
+        "block-editor": "block-editor",
+        "content-enhancement": "content enhancement",
+        "gutenberg": "gutenberg",
+        "text-popover": "Text Popover",
+        "wordpress": "WordPress"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/text-popover\/assets\/icon-128x128.png?rev=3019953",
+        "2x": "https:\/\/ps.w.org\/text-popover\/assets\/icon-256x256.png?rev=3019953"
+    },
+    "blocks": {
+        "text-popover\/text-popover": {
+            "apiVersion": 2,
+            "name": "text-popover\/text-popover",
+            "title": "Text Popover",
+            "category": "widgets",
+            "icon": "smiley",
+            "description": "We can add popover content on selected text in WordPress block it's available on all blocks which have toolbar like paragraph block, heading block etc...",
+            "supports": {
+                "html": false
+            },
+            "textdomain": "text-popover",
+            "editorScript": "file:.\/build\/index.js",
+            "editorStyle": "file:.\/build\/index.css",
+            "style": "file:.\/build\/style-index.css"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": "1",
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

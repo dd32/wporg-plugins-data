@@ -1,0 +1,89 @@
+{
+    "name": "Indicadores Econ\u00f3micos Chile",
+    "slug": "indicadores-economicos-chile",
+    "version": "1.0.0",
+    "author": "<a href=\"https:\/\/hectorvaldes.dev\/\">Mushroom Dev \ud83c\udf44<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/mushroomdev\/",
+    "contributors": {
+        "mushroomdev": {
+            "profile": "https:\/\/profiles.wordpress.org\/mushroomdev\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2be7989a90dbdaefd0641d43e5672b47?s=96&d=monsterid&r=g",
+            "display_name": "H\u00e9ctor Vald\u00e9s M"
+        }
+    },
+    "requires": "4.0",
+    "tested": "6.4.4",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/indicadores-economicos-chile\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 20,
+    "downloaded": 135,
+    "last_updated": "2024-02-27 2:28am GMT",
+    "added": "2024-02-27",
+    "homepage": "https:\/\/github.com\/Mushroom0047\/indicadores-economicos-chile-plugin-wp",
+    "sections": {
+        "description": "<p>Este plugin te permite mostrar en tu sitio web de WordPress los indicadores econ\u00f3micos actualizados de Chile a trav\u00e9s de un shortcode f\u00e1cil de usar. Podr\u00e1s insertar estos indicadores en cualquier p\u00e1gina o entrada con solo utilizar el shortcode correspondiente.<\/p>\n<p>Caracter\u00edsticas:<\/p>\n<ol>\n<li>Muestra los indicadores econ\u00f3micos m\u00e1s relevantes de Chile: uf, ivp, dolar, euro, ipc, imacec, tpm, dolar intercambio.<\/li>\n<li>Personaliza la apariencia de los indicadores con los par\u00e1metros class e id.<\/li>\n<li>Accede a una p\u00e1gina de configuraci\u00f3n para actualizar manualmente los datos y ver informaci\u00f3n adicional.<\/li>\n<li>Obt\u00e9n datos actualizados diariamente de la API REST de Mindicador.cl.<\/li>\n<\/ol>\n<h3>Usage<\/h3>\n<p>Para mostrar los indicadores econ\u00f3micos, utiliza el siguiente shortcode en tus p\u00e1ginas o entradas:<br \/>\n[indicadores]<\/p>\n<p>Par\u00e1metros del shortcode:<\/p>\n<ol>\n<li>divisa: Opcional. Indica el indicador que deseas mostrar. Las opciones disponibles son: uf, ivp, dolar, euro, ipc, imacec, tpm, dolar intercambio.<\/li>\n<li>nombre: Opcional. Si se establece como true, muestra el nombre del indicador junto al valor.<\/li>\n<li>class: Opcional. Asigna una clase CSS para personalizar el estilo del indicador.<\/li>\n<li>id: Opcional. Asigna un ID \u00fanico al elemento del indicador.<\/li>\n<\/ol>\n<p>Ejemplo:<br \/>\n[indicadores divisa=&#8221;dolar&#8221; nombre=&#8221;true&#8221;]\u00a1Gracias por usar el plugin &#8220;Indicadores Econ\u00f3micos Chile&#8221;! Si tienes sugerencias o encuentras alg\u00fan problema, por favor cont\u00e1ctanos a trav\u00e9s de nuestro sitio web.<\/p>\n<h3>License<\/h3>\n<p>Este plugin est\u00e1 licenciado bajo GPL-2.0+.<\/p>\n<h3>Pol\u00edtica de Privacidad<\/h3>\n<p>Este plugin utiliza la API de <a href=\"https:\/\/www.mindicador.cl\/api\" rel=\"nofollow ugc\">Mindicador.cl<\/a> para obtener datos econ\u00f3micos de Chile. Te recomendamos revisar la pol\u00edtica de privacidad de Mindicador.cl para comprender c\u00f3mo se manejan los datos.<\/p>\n<p><strong>Enlace a la Pol\u00edtica de Privacidad:<\/strong> <a href=\"https:\/\/indicadores-economicos-chile.netlify.app\/#\/privacy-policy\" rel=\"nofollow ugc\">Pol\u00edtica de Privacidad<\/a><\/p>\n<p>Aseg\u00farate de revisar y cumplir con las pol\u00edticas de privacidad tanto de tu propio servicio como del servicio de terceros que est\u00e1s utilizando en tu plugin. Esto ayuda a proporcionar a los usuarios la informaci\u00f3n necesaria sobre c\u00f3mo se manejan los datos y contribuye a la transparencia en el uso del plugin.<\/p>\n",
+        "installation": "<ol>\n<li>Sube la carpeta &#8216;indicadores-economicos-chile&#8217; al directorio <code>\/wp-content\/plugins\/<\/code> o inst\u00e1lalo directamente desde el panel de administraci\u00f3n de WordPress en &#8220;Plugins&#8221;.<\/li>\n<li>Activa el plugin a trav\u00e9s del men\u00fa &#8216;Plugins&#8217; en WordPress.<\/li>\n<li>Utiliza el shortcode correspondiente en tus p\u00e1ginas o entradas para mostrar los indicadores econ\u00f3micos.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='%C2%BFpuedo%20personalizar%20la%20apariencia%20de%20los%20indicadores%3F'>\n\u00bfPuedo personalizar la apariencia de los indicadores?\n<\/h4>\n<p>\n<p>S\u00ed, puedes personalizar la apariencia de los indicadores utilizando los par\u00e1metros class e id del shortcode.<\/p>\n<\/p>\n<dt id='%C2%BFc%C3%B3mo%20puedo%20mostrar%20un%20indicador%20espec%C3%ADfico%3F'>\n\u00bfC\u00f3mo puedo mostrar un indicador espec\u00edfico?\n<\/h4>\n<p>\n<p>Para mostrar un indicador espec\u00edfico, utiliza el par\u00e1metro divisa del shortcode. Por ejemplo, para mostrar el valor del d\u00f3lar, utiliza el siguiente shortcode:<br \/>\n[indicadores_chile divisa=&#8221;dolar&#8221;]<\/p>\n<p>Las divisas aceptadas son:<br \/>\nuf, ivp, dolar, euro, ipc, imacec, tpm, dolar intercambio.<\/p>\n<\/p>\n<dt id='%C2%BFde%20d%C3%B3nde%20se%20obtienen%20los%20datos%3F'>\n\u00bfDe d\u00f3nde se obtienen los datos?\n<\/h4>\n<p>\n<p>Los datos se obtienen de la API REST de Mindicador.cl, que ofrece informaci\u00f3n actualizada diariamente sobre los indicadores econ\u00f3micos de Chile.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.0<\/h4>\n<p><em>Release Date &#8211; 17 January 2024<\/em><\/p>\n<p>*Plugin &#8220;Indicadores Econ\u00f3micos Chile&#8221;! \u00a1Disfruta de los indicadores econ\u00f3micos actualizados en tu sitio web!<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/indicadores-economicos-chile\/assets\/screenshot-1.png?rev=3041610\"><img src=\"https:\/\/ps.w.org\/indicadores-economicos-chile\/assets\/screenshot-1.png?rev=3041610\" alt=\"Vista de c\u00f3mo quedar\u00eda en el sitio los indicadores\"><\/a><p>Vista de c\u00f3mo quedar\u00eda en el sitio los indicadores<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/indicadores-economicos-chile\/assets\/screenshot-2.png?rev=3041610\"><img src=\"https:\/\/ps.w.org\/indicadores-economicos-chile\/assets\/screenshot-2.png?rev=3041610\" alt=\"P\u00e1gina de detalles del plugin, ubicada en Herramientas&gt;Indicadores\"><\/a><p>P\u00e1gina de detalles del plugin, ubicada en Herramientas&gt;Indicadores<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/indicadores-economicos-chile\/assets\/screenshot-3.png?rev=3041610\"><img src=\"https:\/\/ps.w.org\/indicadores-economicos-chile\/assets\/screenshot-3.png?rev=3041610\" alt=\"Ejemplo de Shortcode usando Gutenberg\"><\/a><p>Ejemplo de Shortcode usando Gutenberg<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Muestra mediante un shortcode los Indicadores econ\u00f3micos actualizados en Chile.",
+    "description": "<p>Este plugin te permite mostrar en tu sitio web de WordPress los indicadores econ\u00f3micos actualizados de Chile a trav\u00e9s de un shortcode f\u00e1cil de usar. Podr\u00e1s insertar estos indicadores en cualquier p\u00e1gina o entrada con solo utilizar el shortcode correspondiente.<\/p>\n<p>Caracter\u00edsticas:<\/p>\n<ol>\n<li>Muestra los indicadores econ\u00f3micos m\u00e1s relevantes de Chile: uf, ivp, dolar, euro, ipc, imacec, tpm, dolar intercambio.<\/li>\n<li>Personaliza la apariencia de los indicadores con los par\u00e1metros class e id.<\/li>\n<li>Accede a una p\u00e1gina de configuraci\u00f3n para actualizar manualmente los datos y ver informaci\u00f3n adicional.<\/li>\n<li>Obt\u00e9n datos actualizados diariamente de la API REST de Mindicador.cl.<\/li>\n<\/ol>\n<h3>Usage<\/h3>\n<p>Para mostrar los indicadores econ\u00f3micos, utiliza el siguiente shortcode en tus p\u00e1ginas o entradas:<br \/>\n[indicadores]<\/p>\n<p>Par\u00e1metros del shortcode:<\/p>\n<ol>\n<li>divisa: Opcional. Indica el indicador que deseas mostrar. Las opciones disponibles son: uf, ivp, dolar, euro, ipc, imacec, tpm, dolar intercambio.<\/li>\n<li>nombre: Opcional. Si se establece como true, muestra el nombre del indicador junto al valor.<\/li>\n<li>class: Opcional. Asigna una clase CSS para personalizar el estilo del indicador.<\/li>\n<li>id: Opcional. Asigna un ID \u00fanico al elemento del indicador.<\/li>\n<\/ol>\n<p>Ejemplo:<br \/>\n[indicadores divisa=&#8221;dolar&#8221; nombre=&#8221;true&#8221;]\u00a1Gracias por usar el plugin &#8220;Indicadores Econ\u00f3micos Chile&#8221;! Si tienes sugerencias o encuentras alg\u00fan problema, por favor cont\u00e1ctanos a trav\u00e9s de nuestro sitio web.<\/p>\n<h3>License<\/h3>\n<p>Este plugin est\u00e1 licenciado bajo GPL-2.0+.<\/p>\n<h3>Pol\u00edtica de Privacidad<\/h3>\n<p>Este plugin utiliza la API de <a href=\"https:\/\/www.mindicador.cl\/api\" rel=\"nofollow ugc\">Mindicador.cl<\/a> para obtener datos econ\u00f3micos de Chile. Te recomendamos revisar la pol\u00edtica de privacidad de Mindicador.cl para comprender c\u00f3mo se manejan los datos.<\/p>\n<p><strong>Enlace a la Pol\u00edtica de Privacidad:<\/strong> <a href=\"https:\/\/indicadores-economicos-chile.netlify.app\/#\/privacy-policy\" rel=\"nofollow ugc\">Pol\u00edtica de Privacidad<\/a><\/p>\n<p>Aseg\u00farate de revisar y cumplir con las pol\u00edticas de privacidad tanto de tu propio servicio como del servicio de terceros que est\u00e1s utilizando en tu plugin. Esto ayuda a proporcionar a los usuarios la informaci\u00f3n necesaria sobre c\u00f3mo se manejan los datos y contribuye a la transparencia en el uso del plugin.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/indicadores-economicos-chile.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/indicadores-economicos-chile\/assets\/screenshot-1.png?rev=3041610",
+            "caption": "Vista de c\u00f3mo quedar\u00eda en el sitio los indicadores"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/indicadores-economicos-chile\/assets\/screenshot-2.png?rev=3041610",
+            "caption": "P\u00e1gina de detalles del plugin, ubicada en Herramientas&gt;Indicadores"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/indicadores-economicos-chile\/assets\/screenshot-3.png?rev=3041610",
+            "caption": "Ejemplo de Shortcode usando Gutenberg"
+        }
+    },
+    "tags": {
+        "chile": "chile",
+        "dolar": "dolar",
+        "economia": "Econom\u00eda",
+        "indicadores": "indicadores",
+        "uf": "UF"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/indicadores-economicos-chile\/assets\/banner-772x250.png?rev=3041610",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/indicadores-economicos-chile\/assets\/icon-128x128.png?rev=3041610"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

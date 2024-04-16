@@ -1,0 +1,82 @@
+{
+    "name": "SentimentAnalyze &#8211; AI Powered Review Analysis for WooCommerce",
+    "slug": "sentiment-analyze-ai-powered-gauge-for-your-product-feelings",
+    "version": "1.0.2",
+    "author": "<a href=\"https:\/\/sentimentanalyze.com\/\">SentimentAnalyze<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/sentimentanalyze\/",
+    "contributors": {
+        "sentimentanalyze": {
+            "profile": "https:\/\/profiles.wordpress.org\/sentimentanalyze\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2108c89ebbfe3fe14e00c462c4261cbf?s=96&d=monsterid&r=g",
+            "display_name": "SentimentAnalyze"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/sentiment-analyze-ai-powered-gauge-for-your-product-feelings\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 57,
+    "last_updated": "2024-01-27 12:32am GMT",
+    "added": "2024-01-26",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Sentiment Analyze &#8211; Deep Insights into Customer Feedback<br \/>\nWelcome to Sentiment Analyze, a cutting-edge WordPress plugin that utilizes the power of Artificial Intelligence to decipher the underlying sentiments in your customer feedback. With Sentiment Analyze, you unlock the potential to not only monitor but also understand the emotions and perspectives of your customers at a granular level.<\/p>\n<h3>Features<\/h3>\n<p><strong>Real-time Sentiment Analysis:<\/strong> Our plugin processes customer feedback in real-time, providing you with immediate insights into the mood and tone of your customer base.<\/p>\n<p><strong>Enhanced Customer Understanding:<\/strong> By analyzing the sentiments, you can gain a better understanding of customer reactions, allowing you to tailor your products and services to better meet their needs and desires.<\/p>\n<p><strong>Product Resonance Tracking:<\/strong> Keep your finger on the pulse of how your offerings resonate with your audience. Adjust and adapt based on reliable data derived from actual customer emotions.<\/p>\n<p><strong>Customer Satisfaction Metrics:<\/strong> Sentiment Analyze quantifies customer satisfaction, giving you a measurable metric to aim for and improve upon.<\/p>\n<p><strong>Intuitive Dashboard:<\/strong> View all your sentiment analytics in a user-friendly dashboard within WordPress, making it easy to interpret and act on the data.<\/p>\n<p><strong>Actionable Insights:<\/strong> Go beyond the numbers. Our plugin suggests actionable steps you can take to improve areas where customer sentiment is low.<\/p>\n<p><strong>Multi-Lingual Support:<\/strong> Our AI is trained to understand and analyze feedback across multiple languages, making it perfect for global businesses.<\/p>\n<h3>Benefits for Your Business<\/h3>\n<p><strong>Improve Customer Retention:<\/strong> By understanding and acting on customer feedback, you can improve their overall experience, fostering loyalty and reducing churn.<\/p>\n<p><strong>Boost Product Development:<\/strong> Align your development efforts with customer expectations and needs, informed by a clear understanding of their sentiments.<\/p>\n<p><strong>Enhance Marketing Strategies:<\/strong> Tailor your marketing campaigns to echo the positive sentiments and address the negative ones, enhancing overall effectiveness.<\/p>\n<p><strong>Strengthen Customer Relations:<\/strong> Show your customers that their opinions are valued by responding to their sentiments appropriately.<\/p>\n<h3>External Service Usage<\/h3>\n<h3>Information and Links<\/h3>\n<p><strong>Service Name:<\/strong> sentimentanalyze.com<br \/>\n<strong>Usage Context:<\/strong> This plugin utilizes the services of sentimentanalyze.com, an external service. When you activate the plugin, your site address is registered in the system with a unique identifier. Please note that this process is solely related to determining where the sentiment analysis reports will be sent. Additionally, it analyzes feedback received for your products (only the comments written in the feedback) within the scope of sentiment analysis and sends the results back to you. Sentimentanalyze.com is called only for these two operations.<\/p>\n<h3>User Rights and Security<\/h3>\n<p>This plugin relies on the services provided by sentimentanalyze.com and may process user data through this service. During this process, the privacy policy and terms of use of sentimentanalyze.com are applicable. Please review these documents and inform your users.<\/p>\n<p><a href=\"https:\/\/sentimentanalyze.com\/terms-of-use.html\" rel=\"nofollow ugc\">Terms of Use<\/a><br \/>\n<a href=\"https:\/\/sentimentanalyze.com\/privacy-policy.html\" rel=\"nofollow ugc\">Privacy Policy<\/a><\/p>\n",
+        "installation": "<p>Getting Started<br \/>\nInstallation is simple:<\/p>\n<p>Upload the sentiment-analyze folder to your \/wp-content\/plugins\/ directory.<br \/>\nActivate the plugin through the &#8216;Plugins&#8217; menu in WordPress.<br \/>\nAccess the Sentiment Analyze dashboard from your WordPress admin panel to start understanding your customers better.<br \/>\nFor detailed setup instructions and configuration options, please refer to our Documentation section.<\/p>\n",
+        "faq": "\n<dt id='how%20is%20the%20plugin%20installed%3F'>\nHow is the plugin installed?\n<\/h4>\n<p>\n<p>To install the plugin, log into your WordPress admin panel, go to the &#8216;Plugins&#8217; section and click on &#8216;Add New&#8217;. Then search for the &#8216;SentimentAnalyze&#8217; plugin, click on &#8216;Install Now&#8217; and complete the installation.<\/p>\n<\/p>\n<dt id='how%20does%20the%20plugin%20integrate%20with%20woocommerce%3F'>\nHow does the plugin integrate with WooCommerce?\n<\/h4>\n<p>\n<p>Our plugin naturally integrates with WooCommerce. Once installed, it automatically starts analyzing product reviews in your WooCommerce store. To enable analysis, obtain and input your ChatGPT API key in the plugin&#8217;s settings.<\/p>\n<\/p>\n<dt id='what%20happens%20when%20the%20free%20trial%20period%20ends%3F'>\nWhat happens when the free trial period ends?\n<\/h4>\n<p>\n<p>When the free trial period ends, some basic features will still be available for free, but you will need to choose a subscription plan to access advanced features.<\/p>\n<\/p>\n<dt id='in%20which%20languages%20does%20the%20response%20feature%20work%3F'>\nIn which languages does the response feature work?\n<\/h4>\n<p>\n<p>Our plugin can automatically respond to comments in numerous languages thanks to its multi-lingual response feature. It automatically detects the language of the user comment and generates responses in the same language.<\/p>\n<\/p>\n<dt id='is%20the%20plugin%20compatible%20with%20all%20types%20of%20wordpress%20themes%3F'>\nIs the plugin compatible with all types of WordPress themes?\n<\/h4>\n<p>\n<p>Our plugin does not have a direct relationship with themes and can be used with all themes.<\/p>\n<\/p>\n\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/sentiment-analyze-ai-powered-gauge-for-your-product-feelings\/assets\/screenshot-1.png?rev=3027526\"><img src=\"https:\/\/ps.w.org\/sentiment-analyze-ai-powered-gauge-for-your-product-feelings\/assets\/screenshot-1.png?rev=3027526\" alt=\"Settings Page\"><\/a><p>Settings Page<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/sentiment-analyze-ai-powered-gauge-for-your-product-feelings\/assets\/screenshot-2.png?rev=3027526\"><img src=\"https:\/\/ps.w.org\/sentiment-analyze-ai-powered-gauge-for-your-product-feelings\/assets\/screenshot-2.png?rev=3027526\" alt=\"Sentiment Analysis of Comments\"><\/a><p>Sentiment Analysis of Comments<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Sentiment Analyze harnesses AI to analyze customer feedback, providing immediate insights for improving product resonance and customer satisfaction.",
+    "description": "<p>Sentiment Analyze &#8211; Deep Insights into Customer Feedback<br \/>\nWelcome to Sentiment Analyze, a cutting-edge WordPress plugin that utilizes the power of Artificial Intelligence to decipher the underlying sentiments in your customer feedback. With Sentiment Analyze, you unlock the potential to not only monitor but also understand the emotions and perspectives of your customers at a granular level.<\/p>\n<h3>Features<\/h3>\n<p><strong>Real-time Sentiment Analysis:<\/strong> Our plugin processes customer feedback in real-time, providing you with immediate insights into the mood and tone of your customer base.<\/p>\n<p><strong>Enhanced Customer Understanding:<\/strong> By analyzing the sentiments, you can gain a better understanding of customer reactions, allowing you to tailor your products and services to better meet their needs and desires.<\/p>\n<p><strong>Product Resonance Tracking:<\/strong> Keep your finger on the pulse of how your offerings resonate with your audience. Adjust and adapt based on reliable data derived from actual customer emotions.<\/p>\n<p><strong>Customer Satisfaction Metrics:<\/strong> Sentiment Analyze quantifies customer satisfaction, giving you a measurable metric to aim for and improve upon.<\/p>\n<p><strong>Intuitive Dashboard:<\/strong> View all your sentiment analytics in a user-friendly dashboard within WordPress, making it easy to interpret and act on the data.<\/p>\n<p><strong>Actionable Insights:<\/strong> Go beyond the numbers. Our plugin suggests actionable steps you can take to improve areas where customer sentiment is low.<\/p>\n<p><strong>Multi-Lingual Support:<\/strong> Our AI is trained to understand and analyze feedback across multiple languages, making it perfect for global businesses.<\/p>\n<h3>Benefits for Your Business<\/h3>\n<p><strong>Improve Customer Retention:<\/strong> By understanding and acting on customer feedback, you can improve their overall experience, fostering loyalty and reducing churn.<\/p>\n<p><strong>Boost Product Development:<\/strong> Align your development efforts with customer expectations and needs, informed by a clear understanding of their sentiments.<\/p>\n<p><strong>Enhance Marketing Strategies:<\/strong> Tailor your marketing campaigns to echo the positive sentiments and address the negative ones, enhancing overall effectiveness.<\/p>\n<p><strong>Strengthen Customer Relations:<\/strong> Show your customers that their opinions are valued by responding to their sentiments appropriately.<\/p>\n<h3>External Service Usage<\/h3>\n<h3>Information and Links<\/h3>\n<p><strong>Service Name:<\/strong> sentimentanalyze.com<br \/>\n<strong>Usage Context:<\/strong> This plugin utilizes the services of sentimentanalyze.com, an external service. When you activate the plugin, your site address is registered in the system with a unique identifier. Please note that this process is solely related to determining where the sentiment analysis reports will be sent. Additionally, it analyzes feedback received for your products (only the comments written in the feedback) within the scope of sentiment analysis and sends the results back to you. Sentimentanalyze.com is called only for these two operations.<\/p>\n<h3>User Rights and Security<\/h3>\n<p>This plugin relies on the services provided by sentimentanalyze.com and may process user data through this service. During this process, the privacy policy and terms of use of sentimentanalyze.com are applicable. Please review these documents and inform your users.<\/p>\n<p><a href=\"https:\/\/sentimentanalyze.com\/terms-of-use.html\" rel=\"nofollow ugc\">Terms of Use<\/a><br \/>\n<a href=\"https:\/\/sentimentanalyze.com\/privacy-policy.html\" rel=\"nofollow ugc\">Privacy Policy<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/sentiment-analyze-ai-powered-gauge-for-your-product-feelings.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/sentiment-analyze-ai-powered-gauge-for-your-product-feelings\/assets\/screenshot-1.png?rev=3027526",
+            "caption": "Settings Page"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/sentiment-analyze-ai-powered-gauge-for-your-product-feelings\/assets\/screenshot-2.png?rev=3027526",
+            "caption": "Sentiment Analysis of Comments"
+        }
+    },
+    "tags": {
+        "customer-feedback": "customer feedback",
+        "feedback-sentiment-analyze": "feedback sentiment analyze",
+        "sentiment-analysis": "sentiment analysis",
+        "sentiment-analyze": "sentiment analyze",
+        "woocommerce-review": "woocommerce review"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/sentiment-analyze-ai-powered-gauge-for-your-product-feelings\/assets\/icon-128x128.png?rev=3027525",
+        "2x": "https:\/\/ps.w.org\/sentiment-analyze-ai-powered-gauge-for-your-product-feelings\/assets\/icon-256x256.png?rev=3027525"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

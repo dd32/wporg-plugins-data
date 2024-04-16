@@ -1,0 +1,93 @@
+{
+    "name": "DocoDoco Store Locator",
+    "slug": "docodoco-store-locator",
+    "version": "1.0.0",
+    "author": "<a href=\"https:\/\/www.geolocation.co.jp\/\">Geolocation Technology, Inc.<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/geolocationtechnology\/",
+    "contributors": {
+        "geolocationtechnology": {
+            "profile": "https:\/\/profiles.wordpress.org\/geolocationtechnology\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3111113f677385c65cb0da517ff4022b?s=96&d=monsterid&r=g",
+            "display_name": "Geolocation Technology"
+        }
+    },
+    "requires": "6.0",
+    "tested": "6.3.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/docodoco-store-locator\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 10,
+    "downloaded": 93,
+    "last_updated": "2024-04-03 5:26am GMT",
+    "added": "2024-03-15",
+    "homepage": "https:\/\/www.docodoco.jp\/",
+    "sections": {
+        "description": "<ul>\n<li>\u3053\u306e\u30d7\u30e9\u30b0\u30a4\u30f3\u3092\u5229\u7528\u3059\u308b\u3068\u3001Google \u30de\u30c3\u30d7\u3092\u7528\u3044\u305f\u5e97\u8217\u4e00\u89a7\u30da\u30fc\u30b8\u306e\u4f5c\u6210\u304c\u7c21\u5358\u306b\u8a2d\u5b9a\u3067\u304d\u307e\u3059\u3002<\/li>\n<li>\u5e97\u8217\u60c5\u5831\u306e\u8ffd\u52a0\u30fb\u7de8\u96c6\u306f\u3001\u7ba1\u7406\u753b\u9762\u304b\u3089\u306e\u5165\u529b\u307e\u305f\u306fCSV\u30d5\u30a1\u30a4\u30eb\u3092\u7528\u3044\u305f\u4e00\u62ec\u767b\u9332\u306b\u5bfe\u5fdc\u3057\u3066\u3044\u307e\u3059\u3002<\/li>\n<li>\u3069\u3053\u3069\u3053JP\u306e\u8a2d\u5b9a\u3092\u8ffd\u52a0\u3059\u308b\u3053\u3068\u3067\u3001IP\u30a2\u30c9\u30ec\u30b9\u3068\u4f4d\u7f6e\u60c5\u5831\u306b\u57fa\u3065\u3044\u3066\u30b5\u30a4\u30c8\u8a2a\u554f\u8005\u306b\u6700\u5bc4\u308a\u306e\u5e97\u8217\u3092\u8868\u793a\u3059\u308b\u3053\u3068\u304c\u53ef\u80fd\u3067\u3059\u3002<\/li>\n<\/ul>\n<h4>Language<\/h4>\n<ul>\n<li>Japanese  \u2013 default<\/li>\n<\/ul>\n<h4>\u3069\u3053\u3069\u3053JP<\/h4>\n<ul>\n<li>\u3053\u306e\u30d7\u30e9\u30b0\u30a4\u30f3\u3067\u306f\u3001IP\u30a2\u30c9\u30ec\u30b9\u306b\u57fa\u3065\u304d\u30b5\u30a4\u30c8\u8a2a\u554f\u8005\u306e\u6700\u5bc4\u308a\u5e97\u8217\u3092\u8868\u793a\u3059\u308b\u305f\u3081\u306b\u3001<a href=\"https:\/\/www.docodoco.jp\/\" rel=\"nofollow ugc\">\u3069\u3053\u3069\u3053JP<\/a> \u306eAPI\u3092\u4f7f\u7528\u3057\u307e\u3059\u3002<\/li>\n<li>\u3069\u3053\u3069\u3053JP\u3068\u306f\u3001IP\u30a2\u30c9\u30ec\u30b9\u3068\u305d\u308c\u306b\u7d10\u3065\u3044\u305f\u5730\u57df\u30fb\u7d44\u7e54\u30fb\u6c17\u8c61\u30fb\u56de\u7dda\u60c5\u5831\u306a\u3069100\u7a2e\u985e\u4ee5\u4e0a\u306e\u60c5\u5831\u3092\u5229\u7528\u3067\u304d\u308bAPI\u30b5\u30fc\u30d3\u30b9\u3067\u3059\u3002<\/li>\n<li>\u672c\u30d7\u30e9\u30b0\u30a4\u30f3\u3092\u4f7f\u7528\u3059\u308b\u3053\u3068\u306b\u3088\u308a\u3001\u30b5\u30a4\u30c8\u306e\u8a2a\u554f\u8005\u306eIP\u30a2\u30c9\u30ec\u30b9\u7b49\u306e\u60c5\u5831\u304c\u3001\u3069\u3053\u3069\u3053JP\u306eAPI\uff08api.docodoco.jp\uff09\u3092\u901a\u3058\u3066\u30b5\u30fc\u30d3\u30b9\u63d0\u4f9b\u8005\u306b\u9001\u4fe1\u3055\u308c\u308b\u3053\u3068\u304c\u3042\u308a\u307e\u3059\u3002<\/li>\n<li>\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u30dd\u30ea\u30b7\u30fc\u306f<a href=\"https:\/\/www.geolocation.co.jp\/privacy\/\" rel=\"nofollow ugc\">\u30b5\u30fc\u30d3\u30b9\u63d0\u4f9b\u8005\u306eWeb\u30b5\u30a4\u30c8<\/a>\u3092\u78ba\u8a8d\u3057\u3066\u304f\u3060\u3055\u3044\u3002<\/li>\n<\/ul>\n<h4>Google Maps API<\/h4>\n<ul>\n<li>\u5730\u56f3\u3092\u8868\u793a\u3059\u308b\u305f\u3081\u306b Google Maps API \u3092\u4f7f\u7528\u3057\u307e\u3059\u3002<\/li>\n<li>\u30b5\u30fc\u30d3\u30b9\u63d0\u4f9b\u8005\u306e\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u30dd\u30ea\u30b7\u30fc\u306f\u300c<a href=\"https:\/\/policies.google.com\/\" rel=\"nofollow ugc\">\u30dd\u30ea\u30b7\u30fc\u3068\u898f\u7d04 \u2013 Google<\/a>\u300d\u4ee5\u4e0b\u3092\u78ba\u8a8d\u3057\u3066\u304f\u3060\u3055\u3044\u3002<\/li>\n<\/ul>\n<h3>Documentation<\/h3>\n<ul>\n<li><a href=\"https:\/\/www.docodoco.jp\/plugin\/docodoco-store-locator\/\" rel=\"nofollow ugc\">\u30d7\u30e9\u30b0\u30a4\u30f3\u7d39\u4ecb\u30da\u30fc\u30b8<\/a><\/li>\n<\/ul>\n",
+        "installation": "<ol>\n<li>\u30d7\u30e9\u30b0\u30a4\u30f3\u3092\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3059\u308b\u3068\u3001\u7ba1\u7406\u753b\u9762\u306b\u300c\u5e97\u8217\u7ba1\u7406\u300d\u30e1\u30cb\u30e5\u30fc\u304c\u8ffd\u52a0\u3055\u308c\u307e\u3059\u3002<\/li>\n<li>\u300c\u8868\u793a\u8a2d\u5b9a\u300d\u3067\u3001Google Maps Platform API\u30ad\u30fc\u3092\u5165\u529b\u3057\u307e\u3059\u3002<\/li>\n<li>\u300c\u5e97\u8217\u4e00\u89a7\u300d\u307e\u305f\u306f\u300c\u5e97\u8217\u767b\u9332\u300d\u304b\u3089\u5e97\u8217\u60c5\u5831\u3092\u767b\u9332\u3057\u307e\u3059\u3002<\/li>\n<li>\u300c\u5c0e\u5165\u65b9\u6cd5\u300d\u306b\u8868\u793a\u3055\u308c\u308b\u30b7\u30e7\u30fc\u30c8\u30b3\u30fc\u30c9\u3092\u516c\u958b\u7528\u306e\u30da\u30fc\u30b8\u306b\u5165\u529b\u3057\u307e\u3059\u3002<\/li>\n<li>\u300c\u8868\u793a\u8a2d\u5b9a\u300d\u3067\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u3092\u9078\u629e\u3057\u307e\u3059\u3002<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='%E3%81%A9%E3%81%93%E3%81%A9%E3%81%93jp%20api%E3%82%AD%E3%83%BC%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%81%A8%E3%81%AF%EF%BC%9F'>\n\u3069\u3053\u3069\u3053JP API\u30ad\u30fc\u306e\u8a2d\u5b9a\u3068\u306f\uff1f\n<\/h4>\n<p>\n<ul>\n<li>\u30b5\u30a4\u30c8\u8a2a\u554f\u8005\u306b\u6700\u5bc4\u308a\u5e97\u8217\u3092\u8868\u793a\u3059\u308b\u6a5f\u80fd\u3092\u4f7f\u7528\u3059\u308b\u305f\u3081\u306b\u3001\u3069\u3053\u3069\u3053JP\u306eAPI\u30ad\u30fc\u3092\u8a2d\u5b9a\u3057\u307e\u3059\u3002<\/li>\n<li>API\u30ad\u30fc\u3092\u304a\u6301\u3061\u3067\u306a\u3044\u5834\u5408\u306f <a href=\"https:\/\/www.docodoco.jp\/\" rel=\"nofollow ugc\">\u3069\u3053\u3069\u3053JP\u516c\u5f0f\u30b5\u30a4\u30c8<\/a> \u304b\u3089API\u30ad\u30fc\u3092\u767a\u884c\u3067\u304d\u307e\u3059\u3002<\/li>\n<li>\u3069\u3053\u3069\u3053JP\u306eAPI\u30ad\u30fc\u3092\u8a2d\u5b9a\u305b\u305a\u306b\u5229\u7528\u3059\u308b\u3053\u3068\u306f\u53ef\u80fd\u3067\u3059\u304c\u3001\u4f4d\u7f6e\u60c5\u5831\u306b\u57fa\u3065\u304f\u8868\u793a\u5236\u5fa1\u304c\u884c\u308f\u308c\u306a\u304f\u306a\u308a\u307e\u3059\u3002<\/li>\n<\/ul>\n<\/p>\n<dt id='google%20maps%20platform%20api%E3%82%AD%E3%83%BC%E3%81%AE%E7%99%BA%E8%A1%8C%E6%96%B9%E6%B3%95%E3%81%AF%EF%BC%9F'>\nGoogle Maps Platform API\u30ad\u30fc\u306e\u767a\u884c\u65b9\u6cd5\u306f\uff1f\n<\/h4>\n<p>\n<ul>\n<li>Google\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u4f5c\u6210\u3057\u3001Google Cloud Platform \u306e\u30b5\u30a4\u30c8\u3067API\u306e\u6709\u52b9\u5316\u3092\u884c\u3046\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002<\/li>\n<li>\u8a73\u3057\u304f\u306f <a href=\"https:\/\/developers.google.com\/maps\/documentation\/javascript\/get-api-key\" rel=\"nofollow ugc\">Google Maps Platform \u306e\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8<\/a> \u3092\u53c2\u7167\u304f\u3060\u3055\u3044\u3002<\/li>\n<\/ul>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.0<\/h4>\n<ul>\n<li>\u6700\u521d\u306e\u30ea\u30ea\u30fc\u30b9<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/docodoco-store-locator\/assets\/screenshot-1.png?rev=3051464\"><img src=\"https:\/\/ps.w.org\/docodoco-store-locator\/assets\/screenshot-1.png?rev=3051464\" alt=\"\u5e97\u8217\u4e00\u89a7\u306e\u8868\u793a\u30b5\u30f3\u30d7\u30eb\"><\/a><p>\u5e97\u8217\u4e00\u89a7\u306e\u8868\u793a\u30b5\u30f3\u30d7\u30eb<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/docodoco-store-locator\/assets\/screenshot-2.png?rev=3051464\"><img src=\"https:\/\/ps.w.org\/docodoco-store-locator\/assets\/screenshot-2.png?rev=3051464\" alt=\"\u7ba1\u7406\u753b\u9762: \u5e97\u8217\u7ba1\u7406 -&gt; \u5e97\u8217\u4e00\u89a7\"><\/a><p>\u7ba1\u7406\u753b\u9762: \u5e97\u8217\u7ba1\u7406 -&gt; \u5e97\u8217\u4e00\u89a7<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/docodoco-store-locator\/assets\/screenshot-3.png?rev=3051464\"><img src=\"https:\/\/ps.w.org\/docodoco-store-locator\/assets\/screenshot-3.png?rev=3051464\" alt=\"ZIP\u30a4\u30f3\u30dd\u30fc\u30c8\u306e\u7d50\u679c\u753b\u9762\"><\/a><p>ZIP\u30a4\u30f3\u30dd\u30fc\u30c8\u306e\u7d50\u679c\u753b\u9762<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "\u30a6\u30a7\u30d6\u30b5\u30a4\u30c8\u306b\u691c\u7d22\u53ef\u80fd\u306a\u5e97\u8217\u4e00\u89a7\u3068\u5730\u56f3\u8868\u793a\u3092\u7c21\u5358\u306b\u8ffd\u52a0\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u30d7\u30e9\u30b0\u30a4\u30f3\u3067\u3059\u3002\u3069\u3053\u3069\u3053JP\u3092\u7528\u3044\u3066\u30b5\u30a4\u30c8\u8a2a\u554f\u8005\u306b\u6700\u5bc4\u308a\u306e\u5e97\u8217\u3092\u8868\u793a\u3059\u308b\u3053\u3068\u3082\u53ef\u80fd\u3067\u3059\u3002",
+    "description": "<ul>\n<li>\u3053\u306e\u30d7\u30e9\u30b0\u30a4\u30f3\u3092\u5229\u7528\u3059\u308b\u3068\u3001Google \u30de\u30c3\u30d7\u3092\u7528\u3044\u305f\u5e97\u8217\u4e00\u89a7\u30da\u30fc\u30b8\u306e\u4f5c\u6210\u304c\u7c21\u5358\u306b\u8a2d\u5b9a\u3067\u304d\u307e\u3059\u3002<\/li>\n<li>\u5e97\u8217\u60c5\u5831\u306e\u8ffd\u52a0\u30fb\u7de8\u96c6\u306f\u3001\u7ba1\u7406\u753b\u9762\u304b\u3089\u306e\u5165\u529b\u307e\u305f\u306fCSV\u30d5\u30a1\u30a4\u30eb\u3092\u7528\u3044\u305f\u4e00\u62ec\u767b\u9332\u306b\u5bfe\u5fdc\u3057\u3066\u3044\u307e\u3059\u3002<\/li>\n<li>\u3069\u3053\u3069\u3053JP\u306e\u8a2d\u5b9a\u3092\u8ffd\u52a0\u3059\u308b\u3053\u3068\u3067\u3001IP\u30a2\u30c9\u30ec\u30b9\u3068\u4f4d\u7f6e\u60c5\u5831\u306b\u57fa\u3065\u3044\u3066\u30b5\u30a4\u30c8\u8a2a\u554f\u8005\u306b\u6700\u5bc4\u308a\u306e\u5e97\u8217\u3092\u8868\u793a\u3059\u308b\u3053\u3068\u304c\u53ef\u80fd\u3067\u3059\u3002<\/li>\n<\/ul>\n<h4>Language<\/h4>\n<ul>\n<li>Japanese  \u2013 default<\/li>\n<\/ul>\n<h4>\u3069\u3053\u3069\u3053JP<\/h4>\n<ul>\n<li>\u3053\u306e\u30d7\u30e9\u30b0\u30a4\u30f3\u3067\u306f\u3001IP\u30a2\u30c9\u30ec\u30b9\u306b\u57fa\u3065\u304d\u30b5\u30a4\u30c8\u8a2a\u554f\u8005\u306e\u6700\u5bc4\u308a\u5e97\u8217\u3092\u8868\u793a\u3059\u308b\u305f\u3081\u306b\u3001<a href=\"https:\/\/www.docodoco.jp\/\" rel=\"nofollow ugc\">\u3069\u3053\u3069\u3053JP<\/a> \u306eAPI\u3092\u4f7f\u7528\u3057\u307e\u3059\u3002<\/li>\n<li>\u3069\u3053\u3069\u3053JP\u3068\u306f\u3001IP\u30a2\u30c9\u30ec\u30b9\u3068\u305d\u308c\u306b\u7d10\u3065\u3044\u305f\u5730\u57df\u30fb\u7d44\u7e54\u30fb\u6c17\u8c61\u30fb\u56de\u7dda\u60c5\u5831\u306a\u3069100\u7a2e\u985e\u4ee5\u4e0a\u306e\u60c5\u5831\u3092\u5229\u7528\u3067\u304d\u308bAPI\u30b5\u30fc\u30d3\u30b9\u3067\u3059\u3002<\/li>\n<li>\u672c\u30d7\u30e9\u30b0\u30a4\u30f3\u3092\u4f7f\u7528\u3059\u308b\u3053\u3068\u306b\u3088\u308a\u3001\u30b5\u30a4\u30c8\u306e\u8a2a\u554f\u8005\u306eIP\u30a2\u30c9\u30ec\u30b9\u7b49\u306e\u60c5\u5831\u304c\u3001\u3069\u3053\u3069\u3053JP\u306eAPI\uff08api.docodoco.jp\uff09\u3092\u901a\u3058\u3066\u30b5\u30fc\u30d3\u30b9\u63d0\u4f9b\u8005\u306b\u9001\u4fe1\u3055\u308c\u308b\u3053\u3068\u304c\u3042\u308a\u307e\u3059\u3002<\/li>\n<li>\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u30dd\u30ea\u30b7\u30fc\u306f<a href=\"https:\/\/www.geolocation.co.jp\/privacy\/\" rel=\"nofollow ugc\">\u30b5\u30fc\u30d3\u30b9\u63d0\u4f9b\u8005\u306eWeb\u30b5\u30a4\u30c8<\/a>\u3092\u78ba\u8a8d\u3057\u3066\u304f\u3060\u3055\u3044\u3002<\/li>\n<\/ul>\n<h4>Google Maps API<\/h4>\n<ul>\n<li>\u5730\u56f3\u3092\u8868\u793a\u3059\u308b\u305f\u3081\u306b Google Maps API \u3092\u4f7f\u7528\u3057\u307e\u3059\u3002<\/li>\n<li>\u30b5\u30fc\u30d3\u30b9\u63d0\u4f9b\u8005\u306e\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u30dd\u30ea\u30b7\u30fc\u306f\u300c<a href=\"https:\/\/policies.google.com\/\" rel=\"nofollow ugc\">\u30dd\u30ea\u30b7\u30fc\u3068\u898f\u7d04 \u2013 Google<\/a>\u300d\u4ee5\u4e0b\u3092\u78ba\u8a8d\u3057\u3066\u304f\u3060\u3055\u3044\u3002<\/li>\n<\/ul>\n<h3>Documentation<\/h3>\n<ul>\n<li><a href=\"https:\/\/www.docodoco.jp\/plugin\/docodoco-store-locator\/\" rel=\"nofollow ugc\">\u30d7\u30e9\u30b0\u30a4\u30f3\u7d39\u4ecb\u30da\u30fc\u30b8<\/a><\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/docodoco-store-locator.1.0.0.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/docodoco-store-locator\/assets\/screenshot-1.png?rev=3051464",
+            "caption": "\u5e97\u8217\u4e00\u89a7\u306e\u8868\u793a\u30b5\u30f3\u30d7\u30eb"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/docodoco-store-locator\/assets\/screenshot-2.png?rev=3051464",
+            "caption": "\u7ba1\u7406\u753b\u9762: \u5e97\u8217\u7ba1\u7406 -&gt; \u5e97\u8217\u4e00\u89a7"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/docodoco-store-locator\/assets\/screenshot-3.png?rev=3051464",
+            "caption": "ZIP\u30a4\u30f3\u30dd\u30fc\u30c8\u306e\u7d50\u679c\u753b\u9762"
+        }
+    },
+    "tags": {
+        "geolocation": "geolocation",
+        "map": "map",
+        "store-locator": "Store locator",
+        "%e5%ba%97%e8%88%97%e7%ae%a1%e7%90%86": "\u5e97\u8217\u7ba1\u7406",
+        "%e5%ba%97%e8%88%97%e6%a4%9c%e7%b4%a2": "\u5e97\u8217\u691c\u7d22"
+    },
+    "stable_tag": "1.0.0",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/docodoco-store-locator.1.0.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/docodoco-store-locator.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/docodoco-store-locator\/assets\/banner-772x250.png?rev=3051464",
+        "high": "https:\/\/ps.w.org\/docodoco-store-locator\/assets\/banner-1544x500.png?rev=3051464"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/docodoco-store-locator\/assets\/icon-128x128.png?rev=3051464",
+        "2x": "https:\/\/ps.w.org\/docodoco-store-locator\/assets\/icon-256x256.png?rev=3051479"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

@@ -1,0 +1,326 @@
+{
+    "name": "PDF Embedder",
+    "slug": "pdf-embedder",
+    "version": "4.7.1",
+    "author": "<a href=\"https:\/\/wp-pdf.com\">PDF Embedder<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/smub\/",
+    "contributors": {
+        "slaffik": {
+            "profile": "https:\/\/profiles.wordpress.org\/slaffik\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/61fb07ede3247b63f19015f200b3eb2c?s=96&d=monsterid&r=g",
+            "display_name": "Slava Abakumov"
+        },
+        "jaredatch": {
+            "profile": "https:\/\/profiles.wordpress.org\/jaredatch\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/6acaca31424f86a6d9772c897841a300?s=96&d=monsterid&r=g",
+            "display_name": "Jared Atchison"
+        },
+        "smub": {
+            "profile": "https:\/\/profiles.wordpress.org\/smub\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2ec3ed918bbdc22954328effa1b8140b?s=96&d=monsterid&r=g",
+            "display_name": "Syed Balkhi"
+        }
+    },
+    "requires": "5.8",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 88,
+    "ratings": {
+        "5": 142,
+        "4": 9,
+        "3": 9,
+        "2": 4,
+        "1": 19
+    },
+    "num_ratings": 183,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/pdf-embedder\/",
+    "support_threads": 21,
+    "support_threads_resolved": 21,
+    "active_installs": 300000,
+    "downloaded": 3422565,
+    "last_updated": "2024-02-21 5:57pm GMT",
+    "added": "2015-01-21",
+    "homepage": "https:\/\/wp-pdf.com",
+    "sections": {
+        "description": "<p>Upload PDF files and embed them directly into your site&#8217;s posts and pages. It works as simple as adding images! Your PDF files will be automatically sized to their natural size and shape. You can also specify a width and the correct height will be calculated automatically. Our PDF Embedder plugin is fully responsive, so the embedded PDF will also look perfect, on any device. Additionally, the pdf embedder will automatically resize whenever the browser dimensions change.<\/p>\n<p>The plugin has a unique method for embedding PDF files, using Javascript only, and <em>not<\/em> iframes or third-party services. This offers immense flexibility over the appearance of your document.<\/p>\n<p>The PDF viewer has Next and Previous buttons to navigate the document, and zoom buttons if some areas of a PDF file are too small for your screen.<\/p>\n<p>Your PDF files are embedded within your existing WordPress pages so we have full control over appearance, and all Javascript and other files are served by your own server (not by Google or any other third-party who may not be able to guarantee their own reliability). This means your PDF files will load fast, without any speed penalty.<\/p>\n<p>Other PDF embedder plugins insert the PDF into an &#8216;iframe&#8217; which means they do not get the flexibility over sizing. Ours does not and that is an incredible benefit to the overall viewing experience across all devices.<\/p>\n<p>In the free plugin, there is no button for users to download the PDF, but download options are available in the Premium versions along with other awesome features.<\/p>\n<p>Another Premium feature are Hyperlinks in your PDF being clickable. Links in the free plugin cannot be clicked.<\/p>\n<h4>Usage<\/h4>\n<ol>\n<li>\n<p>Once installed and Activated, click Add Media from any page or post, just like adding an image, but drag and drop a PDF file instead.<\/p>\n<\/li>\n<li>\n<p>When you insert into your post, it will appear in the editor as a &#8216;shortcode&#8217; as follows:<\/p>\n<\/li>\n<li>\n<p><code>[pdf-embedder url=\"https:\/\/example.com\/wp-content\/uploads\/2024\/01\/Plan-Summary.pdf\"]<\/code><\/p>\n<\/li>\n<li>\n<p>You can change the default appearance &#8211; e.g. width, and toolbar position\/appearance through <strong>Settings -&gt; PDF Embedder<\/strong> and also shortcode or block attributes.<\/p>\n<\/li>\n<\/ol>\n<p>To override your site-wide defaults on an individual embed, see the <a href=\"https:\/\/wp-pdf.com\/free-instructions\/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin\" rel=\"nofollow ugc\">Plugin Instructions<\/a> for information about sizing options plus other ways to customize the shortcodes.<\/p>\n<h4>Premium Features<\/h4>\n<p>Features available in the PDF Embedder Premium versions:<\/p>\n<ul>\n<li>Download button in the toolbar<\/li>\n<li>Continuous scroll between pages<\/li>\n<li>Hyperlinks are fully functional<\/li>\n<li>Full screen mode<\/li>\n<li>Edit page number to jump straight to page<\/li>\n<li>Track number of downloads and views<\/li>\n<li>Mobile-friendly<\/li>\n<li>Secure option &#8211; difficult to download original PDF<\/li>\n<li>Removes wp-pdf.com branding<\/li>\n<\/ul>\n<p><strong>See <a href=\"https:\/\/wp-pdf.com\/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin\" rel=\"nofollow ugc\">wp-pdf.com<\/a> for details!<\/strong><\/p>\n<h4>Mobile-friendly embedding using PDF Embedder Premium<\/h4>\n<p>The free version will work on most mobile browsers, but cannot position the document entirely within the screen.<\/p>\n<p>Our <strong>PDF Embedder Premium<\/strong> plugin solves this problem with an intelligent &#8216;full screen&#8217; mode.<\/p>\n<p>When the document is smaller than a certain width, the document displays only as a &#8216;thumbnail&#8217; with a large &#8216;View in Full Screen&#8217; button for the user to click when they want to study your document.<\/p>\n<p>This opens up the document so it has the full focus of the mobile browser, and the user can move about the document without hitting other parts of the web page by mistake. Viewers can then Click Exit to return to the regular page.<\/p>\n<p>The user can also swipe continuously between all pages of the PDF which is more natural than clicking the navigation buttons to navigate.<\/p>\n<p>See our site <a href=\"https:\/\/wp-pdf.com\/premium\/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin\" rel=\"nofollow ugc\">wp-pdf.com<\/a> for more details and purchase options.<\/p>\n<h4>Protect your PDFs with our secure premium pdf embedder version<\/h4>\n<p>Our <strong>PDF Embedder Premium Secure<\/strong> plugin provides the same simple but elegant viewer as the premium version, with the added protection that it is difficult for users to download or print the original PDF document.<\/p>\n<p>This means that your PDF is unlikely to be shared outside your site where you have no control over who views, prints, or shares it.<\/p>\n<p>Optionally, add a watermark containing the user&#8217;s name or email address to discourage sharing of screenshots.<\/p>\n<p>See our site <a href=\"https:\/\/wp-pdf.com\/secure\/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin\" rel=\"nofollow ugc\">wp-pdf.com<\/a> for more details and purchase options.<\/p>\n<h4>PDF Thumbnails<\/h4>\n<p>Our <strong>PDF Thumbnails<\/strong> plugin automatically generates fixed image versions of all PDF files in your Media Library, to use on your site as you wish.<\/p>\n<p>You can use them as featured images in posts containing an embedded version of the PDF, or as a visual clickable link to download the PDF directly.<br \/>\nIt also displays the thumbnail as the &#8220;icon&#8221; for the PDF in the Media Library, making it easy for authors to locate the PDFs they need to insert in a post.<\/p>\n<p>See our site <a href=\"https:\/\/wp-pdf.com\/thumbnails\/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin\" rel=\"nofollow ugc\">wp-pdf.com\/thumbnails\/<\/a> for more details and purchase options.<\/p>\n<p>With thanks to the Mozilla team for developing the underlying <a href=\"https:\/\/github.com\/mozilla\/pdf.js\" rel=\"nofollow ugc\">pdf.js<\/a> technology used by this pdf embedder plugin.<\/p>\n",
+        "installation": "<p>Easiest way:<\/p>\n<ol>\n<li>Go to your WordPress admin control panel&#8217;s &#8220;Plugins &gt; Add new&#8221; page<\/li>\n<li>Search for &#8216;PDF Embedder&#8217;<\/li>\n<li>Click Install<\/li>\n<li>Click Activate<\/li>\n<\/ol>\n<p>If you cannot install from the WordPress plugins directory for any reason, and need to install from ZIP file:<\/p>\n<ol>\n<li>Upload directory and contents to the <code>\/wp-content\/plugins\/<\/code> directory, or upload the ZIP file directly in the Plugins section of your WordPress admin<\/li>\n<li>Click Activate on the &#8220;Plugins&#8221; screen.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='how%20can%20i%20obtain%20support%20for%20this%20product%3F'>\nHow can I obtain support for this product?\n<\/h4>\n<p>\n<p>We have <a href=\"https:\/\/wp-pdf.com\/free-instructions\/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin\" rel=\"nofollow ugc\">instructions<\/a> and a <a href=\"https:\/\/wp-pdf.com\/kb\/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin\" rel=\"nofollow ugc\">Knowledge Base<\/a> on our website explaining common setup queries and issues.<\/p>\n<p>We may almost daily review and respond to support queries posted on the &#8216;Support&#8217; forum here on the wordpress.org plugin page.<\/p>\n<\/p>\n<dt id='how%20can%20i%20change%20the%20size%20or%20customize%20the%20toolbar%3F'>\nHow can I change the Size or customize the Toolbar?\n<\/h4>\n<p>\n<p>See Settings -&gt; PDF Embedder in your WordPress admin to change site-wide defaults. You can also override individual embeds by modifying the shortcode.<\/p>\n<p>Resizing works as follows:<\/p>\n<ul>\n<li>If <code>width='max'<\/code> the width will take as much space as possible within its parent container (e.g. column within your page).<\/li>\n<li>If width is a number (e.g. <code>width=\"500\"<\/code>) then it will display at that number of pixels wide.<\/li>\n<\/ul>\n<p><em>In all cases, if the parent container is narrower than the width calculated above, then the document width will be reduced to the size of the container.<\/em><\/p>\n<p>The height will be calculated so that the document fits naturally, given the width already calculated.<\/p>\n<p>The Next\/Prev toolbar can appear at the top or bottom of the document (or both), and it can either appear only when the user hovers over the document or it can be fixed at all times.<\/p>\n<p>See the <a href=\"https:\/\/wp-pdf.com\/free-instructions\/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin\" rel=\"nofollow ugc\">Plugin Instructions<\/a> for more details about sizing and toolbar options.<\/p>\n<\/p>\n<dt id='pdf%20embedder%20premium%20feature%20list'>\nPDF Embedder Premium feature list\n<\/h4>\n<p>\n<p>Features available in the premium versions of the plugin:<\/p>\n<ul>\n<li>Download button in the toolbar<\/li>\n<li>Continuous scroll between pages<\/li>\n<li>Hyperlinks are fully functional<\/li>\n<li>Full screen mode<\/li>\n<li>Edit page number to jump straight to page<\/li>\n<li>Track number of downloads and views<\/li>\n<li>Removes wp-pdf.com attribution from the toolbar<\/li>\n<li>Mobile-friendly<\/li>\n<li>Secure option &#8211; difficult to download original PDF<\/li>\n<\/ul>\n<p>See <a href=\"https:\/\/wp-pdf.com\/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin\" rel=\"nofollow ugc\">wp-pdf.com<\/a> for details!<\/p>\n<\/p>\n<dt id='can%20i%20improve%20the%20viewing%20experience%20for%20mobile%20users%3F'>\nCan I improve the viewing experience for mobile users?\n<\/h4>\n<p>\n<p>Yes, our <strong>PDF Embedder Premium<\/strong> plugin has an intelligent &#8216;full screen&#8217; mode.<br \/>\nWhen the document is smaller than a certain width, the document displays only as a &#8216;thumbnail&#8217; with a large &#8216;View in Full Screen&#8217; button for the user to click when they want to study your document.<br \/>\nThis opens up the document so it has the full focus of the mobile browser, and the user can move about the document without hitting other parts of the web page by mistake.<br \/>\nClick Exit to return to the regular web page.<\/p>\n<p>See our website <a href=\"https:\/\/wp-pdf.com\/premium\/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin\" rel=\"nofollow ugc\">wp-pdf.com<\/a> for more details and purchase options.<\/p>\n<\/p>\n<dt id='can%20i%20protect%20my%20pdfs%20so%20they%20are%20difficult%20for%20viewers%20to%20download%20directly%3F'>\nCan I protect my PDFs so they are difficult for viewers to download directly?\n<\/h4>\n<p>\n<p>Not with the free or (regular) pdf embedder premium versions &#8211; it is relatively easy to find the link to download the file directly.<\/p>\n<p>A <strong>secure premium<\/strong> version is available that encrypts the PDF during transmission, so it is difficult for a casual user to save or print the file for use outside your site.<\/p>\n<p>See our website <a href=\"https:\/\/wp-pdf.com\/secure\/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin\" rel=\"nofollow ugc\">wp-pdf.com<\/a> for more details and purchase options.<\/p>\n<\/p>\n<dt id='can%20i%20add%20a%20download%20button%20to%20the%20toolbar%3F'>\nCan I add a Download button to the toolbar?\n<\/h4>\n<p>\n<p>This is possible only in the PDF Embedder Premium version. As a workaround in the free version, you could add a direct link to the PDF beneath the embedded version.<\/p>\n<p>To do this, copy the URL from the pdf-embedder shortcode and insert it into a link using HTML such as this:<br \/>\n&lt;a href=&#8221;(url of PDF)&#8221;&gt;Download Here&lt;\/a&gt;<\/p>\n<\/p>\n<dt id='are%20hyperlinks%20supported%3F'>\nAre Hyperlinks supported?\n<\/h4>\n<p>\n<p>The Premium versions allow functioning hyperlinks &#8211; both internal links within the document, and links to external websites.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>4.7.1<\/h4>\n<ul>\n<li>Changed: The logic for displaying notices was adjusted.<\/li>\n<li>Fixed: Improved handling of incorrect URLs supplied to the shortcode &#8211; PDF viewer won&#8217;t even try to render it.<\/li>\n<\/ul>\n<h4>4.7.0<\/h4>\n<ul>\n<li>IMPORTANT: The minimum WordPress version has been raised to WordPress v5.8.<\/li>\n<li>IMPORTANT: The minimum PHP version has been raised to PHP v7.0.<\/li>\n<li>IMPORTANT: If you are using a caching plugin and added PDF Embedder JS files to the exclusion list, you will need to do that again due to changed file names.<\/li>\n<li>Added: New option for the toolbar location called &#8220;No Toolbar&#8221; is now available. It allows you to hide the toolbar completely.<\/li>\n<li>Changed: Plugin admin area interface has been refreshed.<\/li>\n<li>Changed: The plugin has been tested with the latest version of WordPress.<\/li>\n<li>Changed: Block was rewritten from scratch, and now it looks better in the Block Editor, and also syncs its default settings with global plugin options.<\/li>\n<li>Fixed: A lot of strings in the plugin have been fixed to make them translatable and accurate.<\/li>\n<li>Fixed: Several security related improvements have been introduced (data sanitization and escaping).<\/li>\n<li>Fixed: Text in PDF files in certain languages (like, Japanese and Korean) was not rendered correctly.<\/li>\n<\/ul>\n<h4>4.6.4<\/h4>\n<ul>\n<li>Resolved Javascript errors in minified JS.<\/li>\n<\/ul>\n<h4>4.6.3<\/h4>\n<ul>\n<li>Added About tab.<\/li>\n<li>Updated core PDF.js functionality.<\/li>\n<li>Addressed mobile issue in Safari iOS.<\/li>\n<\/ul>\n<h4>4.6.2<\/h4>\n<ul>\n<li>Added support for Italian language.<\/li>\n<li>Security &amp; Bug fixes.<\/li>\n<li>Updated compatibility for WordPress 5.7.<\/li>\n<\/ul>\n<h4>4.6.1<\/h4>\n<ul>\n<li>PDF Zoom increase upto 800%.<\/li>\n<li>Added compatibility for WordPress 5.7.<\/li>\n<\/ul>\n<h4>4.6.0<\/h4>\n<ul>\n<li>Fix language compatibility issue in viewer.<\/li>\n<li>Fixes js and css files cache issue.<\/li>\n<li>Added compatibility for WordPress 5.3.2.<\/li>\n<\/ul>\n<h4>4.5.0<\/h4>\n<ul>\n<li>Added compatibility for WordPress 5.3.<\/li>\n<li>Fixes multiple PDF rendering issues in viewer.<\/li>\n<\/ul>\n<h4>4.4.0<\/h4>\n<ul>\n<li>Fixed code for policy compatibility.<\/li>\n<\/ul>\n<h4>4.3.0<\/h4>\n<ul>\n<li>Fixed Scrollbar issues with Firefox and iOS devices. Improved compatibility.<\/li>\n<\/ul>\n<h4>4.2.0<\/h4>\n<ul>\n<li>Fixed script problem on some Gutenberg editor installations. Improved compatibility.<\/li>\n<\/ul>\n<h4>4.1.0<\/h4>\n<ul>\n<li>Added compatibility for WordPress 5.2.1.<\/li>\n<\/ul>\n<h4>4.0.0<\/h4>\n<ul>\n<li>Fixed general bug &amp; added compatibility.<\/li>\n<\/ul>\n<h4>3.2.1<\/h4>\n<ul>\n<li>Added compatibility for WordPress 5.2.1.<\/li>\n<\/ul>\n<h4>3.2.0<\/h4>\n<ul>\n<li>Added compatibility with Gutenberg Editor.<\/li>\n<\/ul>\n<h4>3.1.8<\/h4>\n<ul>\n<li>Updated version of underlying pdf.js library, fixes some rendering bugs.<\/li>\n<li>Recalculates fresh viewer size more often in response to resize events. Previous versions attempted to increase performance by only recalculating viewer size when it had changed, but this missed some required resizing after Javascript-based tabs are clicked.<\/li>\n<li>Fixed some issues with zoom appearance.<\/li>\n<li>Mouse scroll wheel is now more consistent across all browsers (in terms of scroll speed).<\/li>\n<li>When scrollbars are always visible, no longer cuts off edge of PDF underneath.<\/li>\n<\/ul>\n<h4>3.1.2<\/h4>\n<ul>\n<li>Ready for compatibility with WordPress 4.8.<\/li>\n<li>New mouse wheel scrolling in Firefox wasn&#8217;t working with some themes.<\/li>\n<li>Latest version of pdf.js library, and newest code bringing the free version into line with the premium versions.<\/li>\n<li>Mouse wheel scrolling in Firefox no longer also scrolls the window unless at very top or bottom of page.<\/li>\n<\/ul>\n<h4>3.0.1<\/h4>\n<ul>\n<li>Latest version of pdf.js library, and newest code bringing the free version into line with the premium versions.<\/li>\n<li>Improved responsiveness and redraw of pages.<\/li>\n<li>Plugin now respects the SCRIPT_DEBUG flag in wp-config.php and displays non-minified versions of the JS files if this is set to true. Helps debugging any issues.<\/li>\n<\/ul>\n<h4>2.8.2<\/h4>\n<ul>\n<li>Latest version of pdf.js library to include recent rendering developments\/fixes by the team.<\/li>\n<\/ul>\n<h4>2.8.0<\/h4>\n<ul>\n<li>Internal code refactoring. Added note that &#8216;page turning arrows&#8217; are now available in the premium versions.<\/li>\n<\/ul>\n<h4>2.7.5<\/h4>\n<ul>\n<li>Fix for a small number of PDFs rendering as smaller than expected on some high resolution screens.<\/li>\n<\/ul>\n<h4>2.7.3<\/h4>\n<ul>\n<li>IMPORTANT: Please clear browser and any WordPress cache if you experience any problems following this upgrade.<\/li>\n<li>Better support for high resolution screens.<\/li>\n<li>Improved SEO for embedded PDFs (which are now links initially before Javascript converts them into the interactive view).<\/li>\n<li>This also ensures the PDFs are accessible to users even if Javascript problems cause your site to break.<\/li>\n<li>Compatible with WordPress 4.6.<\/li>\n<li>Added a filter named <code>my_pdfemb_override_send_to_editor<\/code> that means the shortcode generation can be turned off if desired.<\/li>\n<li>Uses latest version of pdf.js library for rendering PDFs.<\/li>\n<li>Toolbar buttons have type=&#8221;button&#8221; attribute to avoid conflicts with some other plugins.<\/li>\n<li>Spanish translation contributed by Armando Landois.<\/li>\n<li>Added <code>pdfemb_filter_shortcode_attrs<\/code> filter so developers can change default shortcode parameters through code.<\/li>\n<\/ul>\n<h4>2.5.5<\/h4>\n<ul>\n<li>Fixes for right-to-left languages.<\/li>\n<\/ul>\n<h4>2.5.4<\/h4>\n<ul>\n<li>Added French translation thanks to Thierry Gaillou of JDFitForme.<\/li>\n<li>Uses newer version of pdf.js library for rendering PDFs.<\/li>\n<\/ul>\n<h4>2.5.0<\/h4>\n<ul>\n<li>Uses latest version of pdf.js library for rendering PDFs.<\/li>\n<li>Options page tidied up.<\/li>\n<\/ul>\n<h4>2.4.7<\/h4>\n<ul>\n<li>Some settings were difficult to change on multisite installations.<\/li>\n<\/ul>\n<h4>2.4.3<\/h4>\n<ul>\n<li>Code placeholders for opening links &#8211; available only in premium versions.<\/li>\n<li>Updated languages.<\/li>\n<\/ul>\n<h4>2.4.1<\/h4>\n<ul>\n<li>Code placeholders for tracking views\/downloaders &#8211; available only in premium versions.<\/li>\n<li>Updated languages.<\/li>\n<\/ul>\n<h4>2.4.0<\/h4>\n<ul>\n<li>Now translation-ready! Your language contributions are welcome.<\/li>\n<li>Compatibility with WordPress 4.4.<\/li>\n<li>Contains information about new features in Premium version: Functioning hyperlinks, Jump to page number.<\/li>\n<\/ul>\n<h4>2.2.5<\/h4>\n<ul>\n<li>Better explanation of some error messages (e.g. attempt to access PDF on a different domain).<\/li>\n<li>Forced white background by default &#8211; some Theme&#8217;s CSS would override.<\/li>\n<\/ul>\n<h4>2.2.4<\/h4>\n<ul>\n<li>&#8216;Download PDF&#8217; button added to options, but function is only available in Premium versions.<\/li>\n<\/ul>\n<h4>2.2.2<\/h4>\n<ul>\n<li>Redesigned toolbar buttons<\/li>\n<\/ul>\n<h4>2.2.0<\/h4>\n<ul>\n<li>New version of PDF.js, fixes some PDF rendering bugs.<\/li>\n<\/ul>\n<h4>2.1.4<\/h4>\n<ul>\n<li>Obtains PDF over same transport (https\/http) as host page, regardless of that specified in the shortcode url parameter. This avoids conflicts and failure to display PDF if the two don&#8217;t match.<\/li>\n<\/ul>\n<h4>2.1.0<\/h4>\n<ul>\n<li>Settings -&gt; PDF Embedder page so you can now set site-wide defaults for width, height, and toolbar location\/appearance.<\/li>\n<\/ul>\n<h4>2.0.0<\/h4>\n<ul>\n<li>Added zoom feature. Toolbars can be fixed instead of appearing on hover.<\/li>\n<\/ul>\n<h4>1.2.1<\/h4>\n<ul>\n<li>Fixed &#8216;scrollbars&#8217; in IE.<\/li>\n<\/ul>\n<h4>1.2.0<\/h4>\n<ul>\n<li>Fixed &#8216;scrollbar&#8217; issues.<\/li>\n<li>Displays page number on toolbar (&#8220;Page 1\/10&#8221;).<\/li>\n<li>Added &#8216;Loading&#8230;&#8217; indicator.<\/li>\n<li>Improved display of many PDFs (Added &#8216;cmaps&#8217; to the distribution).<\/li>\n<\/ul>\n<h4>1.0.4<\/h4>\n<ul>\n<li>Added compatibility.js to support some minor browsers, e.g. Safari which did not allow ranged downloads.<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>Minified Javascript code. Default width\/height (now &#8220;max&#8221;) expands to fill parent container width regardless of the natural size of the document. Use width=&#8221;auto&#8221; to obtain the old behavior.<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Added usage instructions within the settings page.<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>First version<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/pdf-embedder\/assets\/screenshot-1.png?rev=3039318\"><img src=\"https:\/\/ps.w.org\/pdf-embedder\/assets\/screenshot-1.png?rev=3039318\" alt=\"Uploaded PDF is displayed within your page\/post at the correct size to fit.\"><\/a><p>Uploaded PDF is displayed within your page\/post at the correct size to fit.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/pdf-embedder\/assets\/screenshot-2.png?rev=3039318\"><img src=\"https:\/\/ps.w.org\/pdf-embedder\/assets\/screenshot-2.png?rev=3039318\" alt=\"User hovers over document to see Next\/Prev page buttons.\"><\/a><p>User hovers over document to see Next\/Prev page buttons.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/pdf-embedder\/assets\/screenshot-3.png?rev=3039318\"><img src=\"https:\/\/ps.w.org\/pdf-embedder\/assets\/screenshot-3.png?rev=3039318\" alt=\"Settings can change appearance of the viewer, including size.\"><\/a><p>Settings can change appearance of the viewer, including size.<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Good plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/fmlynet\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/aa52c855527dcd03e29fee4b634746a3?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/aa52c855527dcd03e29fee4b634746a3?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/fmlynet\/\" class=\"reviewer-name\">fmlynet<\/a> on <span class=\"review-date\">April 12, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Does what it is supposed to do. Fairly simple to use.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great tool, definitely recommend<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/ygourvennec\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/6a656c7fdff2d2f63021a69c6bfecd94?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/6a656c7fdff2d2f63021a69c6bfecd94?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/ygourvennec\/\" class=\"reviewer-name\">Yann Gourvennec <small>(ygourvennec)<\/small><\/a> on <span class=\"review-date\">April 12, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I had been looking for a PDF embedder for my WP website and I wasn't very happy with those that I had found. And then I found PDF embedder and it did the job beautifully. I definitely recommend downloading and installing this plug-in.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Nope<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"2 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"2\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/icanmakeyouwebsite\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/db64d7e560ee7ffd9da948f164eb00e8?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/db64d7e560ee7ffd9da948f164eb00e8?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/icanmakeyouwebsite\/\" class=\"reviewer-name\">Dave Hall <small>(icanmakeyouwebsite)<\/small><\/a> on <span class=\"review-date\">April 9, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Looks good but a couple pages of a perfectly valid PDF just come up blank. The same file works fine in Acrobat etc. and with the default Wordpress PDF embedder (which I think relies on the browser). So it didn't work for me. Maybe it will work for you.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">The best<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/lotzaileen\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/382004abae00a4553b888ae524eed5d8?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/382004abae00a4553b888ae524eed5d8?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/lotzaileen\/\" class=\"reviewer-name\">lotzaileen<\/a> on <span class=\"review-date\">April 7, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Looks great. The best among its class. Thanks!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Glad I found it!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/berniem3\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/beb039b10d501e3484bdc7e58fb6ba02?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/beb039b10d501e3484bdc7e58fb6ba02?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/berniem3\/\" class=\"reviewer-name\">berniem3<\/a> on <span class=\"review-date\">April 7, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I choose Insert Media and then Upload and drag the pdf file, enter a caption and Alt text, Select, and the pdf file is embedded in the page.  Thanks.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Works like a charm<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/pkoz\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/26217925e5a44d18183952a0fa7dd8e7?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/26217925e5a44d18183952a0fa7dd8e7?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/pkoz\/\" class=\"reviewer-name\">pkoz<\/a> on <span class=\"review-date\">April 6, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The plugin is great. Simple and very effective. I am using the free version at the moment - but will be upgrading for additional functionality shortly.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Install and just use it.<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/erwano\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/5ee1d9a051fe417ffffd9281194ddc70?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/5ee1d9a051fe417ffffd9281194ddc70?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/erwano\/\" class=\"reviewer-name\">erwano<\/a> on <span class=\"review-date\">April 5, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Even as an absolute WP newbie, it is no problem to share PDF documents with this plugin.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">It just works.<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/captaindigital\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/955691722e7c2dfb0906654030ef091c?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/955691722e7c2dfb0906654030ef091c?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/captaindigital\/\" class=\"reviewer-name\">captaindigital<\/a> on <span class=\"review-date\">April 3, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">What makes a good plugin? Well to start with, it just works. No muss. No fuss. No bother. Just install it, and start using it. Something so intuitive that you don't need a help file...it just works. Something so reliable, you never have to worry about it crashing your site...it just works. And something with code so nice and tight, that it doesn't cause your site to get slow and unresponsive. It just...you guessed it...works. What more do you want? <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Easy as pie and works perfectly<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/sharon-jackson\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d2d9545824d408c9a5eb3b55099e4eca?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d2d9545824d408c9a5eb3b55099e4eca?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/sharon-jackson\/\" class=\"reviewer-name\">sharon-jackson<\/a> on <span class=\"review-date\">April 1, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Took seconds to install and worked at the first try. Looks great. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Only Low Resolution Quality Output<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/instructivedesigner\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/22a9c49eb6c9301355825fda6e16f6c9?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/22a9c49eb6c9301355825fda6e16f6c9?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/instructivedesigner\/\" class=\"reviewer-name\">instructivedesigner<\/a> on <span class=\"review-date\">March 31, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Good concept, but the pdf output view has low resolution on mobile and, worse on desktop.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Seamlessly embed PDFs into your content, with customizations and intelligent responsive resizing, and no third-party services or iframes.",
+    "description": "<p>Upload PDF files and embed them directly into your site&#8217;s posts and pages. It works as simple as adding images! Your PDF files will be automatically sized to their natural size and shape. You can also specify a width and the correct height will be calculated automatically. Our PDF Embedder plugin is fully responsive, so the embedded PDF will also look perfect, on any device. Additionally, the pdf embedder will automatically resize whenever the browser dimensions change.<\/p>\n<p>The plugin has a unique method for embedding PDF files, using Javascript only, and <em>not<\/em> iframes or third-party services. This offers immense flexibility over the appearance of your document.<\/p>\n<p>The PDF viewer has Next and Previous buttons to navigate the document, and zoom buttons if some areas of a PDF file are too small for your screen.<\/p>\n<p>Your PDF files are embedded within your existing WordPress pages so we have full control over appearance, and all Javascript and other files are served by your own server (not by Google or any other third-party who may not be able to guarantee their own reliability). This means your PDF files will load fast, without any speed penalty.<\/p>\n<p>Other PDF embedder plugins insert the PDF into an &#8216;iframe&#8217; which means they do not get the flexibility over sizing. Ours does not and that is an incredible benefit to the overall viewing experience across all devices.<\/p>\n<p>In the free plugin, there is no button for users to download the PDF, but download options are available in the Premium versions along with other awesome features.<\/p>\n<p>Another Premium feature are Hyperlinks in your PDF being clickable. Links in the free plugin cannot be clicked.<\/p>\n<h4>Usage<\/h4>\n<ol>\n<li>\n<p>Once installed and Activated, click Add Media from any page or post, just like adding an image, but drag and drop a PDF file instead.<\/p>\n<\/li>\n<li>\n<p>When you insert into your post, it will appear in the editor as a &#8216;shortcode&#8217; as follows:<\/p>\n<\/li>\n<li>\n<p><code>[pdf-embedder url=\"https:\/\/example.com\/wp-content\/uploads\/2024\/01\/Plan-Summary.pdf\"]<\/code><\/p>\n<\/li>\n<li>\n<p>You can change the default appearance &#8211; e.g. width, and toolbar position\/appearance through <strong>Settings -&gt; PDF Embedder<\/strong> and also shortcode or block attributes.<\/p>\n<\/li>\n<\/ol>\n<p>To override your site-wide defaults on an individual embed, see the <a href=\"https:\/\/wp-pdf.com\/free-instructions\/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin\" rel=\"nofollow ugc\">Plugin Instructions<\/a> for information about sizing options plus other ways to customize the shortcodes.<\/p>\n<h4>Premium Features<\/h4>\n<p>Features available in the PDF Embedder Premium versions:<\/p>\n<ul>\n<li>Download button in the toolbar<\/li>\n<li>Continuous scroll between pages<\/li>\n<li>Hyperlinks are fully functional<\/li>\n<li>Full screen mode<\/li>\n<li>Edit page number to jump straight to page<\/li>\n<li>Track number of downloads and views<\/li>\n<li>Mobile-friendly<\/li>\n<li>Secure option &#8211; difficult to download original PDF<\/li>\n<li>Removes wp-pdf.com branding<\/li>\n<\/ul>\n<p><strong>See <a href=\"https:\/\/wp-pdf.com\/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin\" rel=\"nofollow ugc\">wp-pdf.com<\/a> for details!<\/strong><\/p>\n<h4>Mobile-friendly embedding using PDF Embedder Premium<\/h4>\n<p>The free version will work on most mobile browsers, but cannot position the document entirely within the screen.<\/p>\n<p>Our <strong>PDF Embedder Premium<\/strong> plugin solves this problem with an intelligent &#8216;full screen&#8217; mode.<\/p>\n<p>When the document is smaller than a certain width, the document displays only as a &#8216;thumbnail&#8217; with a large &#8216;View in Full Screen&#8217; button for the user to click when they want to study your document.<\/p>\n<p>This opens up the document so it has the full focus of the mobile browser, and the user can move about the document without hitting other parts of the web page by mistake. Viewers can then Click Exit to return to the regular page.<\/p>\n<p>The user can also swipe continuously between all pages of the PDF which is more natural than clicking the navigation buttons to navigate.<\/p>\n<p>See our site <a href=\"https:\/\/wp-pdf.com\/premium\/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin\" rel=\"nofollow ugc\">wp-pdf.com<\/a> for more details and purchase options.<\/p>\n<h4>Protect your PDFs with our secure premium pdf embedder version<\/h4>\n<p>Our <strong>PDF Embedder Premium Secure<\/strong> plugin provides the same simple but elegant viewer as the premium version, with the added protection that it is difficult for users to download or print the original PDF document.<\/p>\n<p>This means that your PDF is unlikely to be shared outside your site where you have no control over who views, prints, or shares it.<\/p>\n<p>Optionally, add a watermark containing the user&#8217;s name or email address to discourage sharing of screenshots.<\/p>\n<p>See our site <a href=\"https:\/\/wp-pdf.com\/secure\/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin\" rel=\"nofollow ugc\">wp-pdf.com<\/a> for more details and purchase options.<\/p>\n<h4>PDF Thumbnails<\/h4>\n<p>Our <strong>PDF Thumbnails<\/strong> plugin automatically generates fixed image versions of all PDF files in your Media Library, to use on your site as you wish.<\/p>\n<p>You can use them as featured images in posts containing an embedded version of the PDF, or as a visual clickable link to download the PDF directly.<br \/>\nIt also displays the thumbnail as the &#8220;icon&#8221; for the PDF in the Media Library, making it easy for authors to locate the PDFs they need to insert in a post.<\/p>\n<p>See our site <a href=\"https:\/\/wp-pdf.com\/thumbnails\/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin\" rel=\"nofollow ugc\">wp-pdf.com\/thumbnails\/<\/a> for more details and purchase options.<\/p>\n<p>With thanks to the Mozilla team for developing the underlying <a href=\"https:\/\/github.com\/mozilla\/pdf.js\" rel=\"nofollow ugc\">pdf.js<\/a> technology used by this pdf embedder plugin.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.4.7.1.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/pdf-embedder\/assets\/screenshot-1.png?rev=3039318",
+            "caption": "Uploaded PDF is displayed within your page\/post at the correct size to fit."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/pdf-embedder\/assets\/screenshot-2.png?rev=3039318",
+            "caption": "User hovers over document to see Next\/Prev page buttons."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/pdf-embedder\/assets\/screenshot-3.png?rev=3039318",
+            "caption": "Settings can change appearance of the viewer, including size."
+        }
+    },
+    "tags": {
+        "embed": "embed",
+        "embed-pdf": "embed pdf",
+        "office": "office",
+        "pdf": "pdf",
+        "pdf-viewer": "pdf viewer"
+    },
+    "stable_tag": "4.7.1",
+    "versions": {
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.1.0.4.zip",
+        "1.2": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.1.2.zip",
+        "1.2.1": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.1.2.1.zip",
+        "2.0": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.2.0.zip",
+        "2.1": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.2.1.zip",
+        "2.1.4": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.2.1.4.zip",
+        "2.2": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.2.2.zip",
+        "2.2.2": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.2.2.2.zip",
+        "2.2.4": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.2.2.4.zip",
+        "2.2.5": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.2.2.5.zip",
+        "2.4": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.2.4.zip",
+        "2.4.1": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.2.4.1.zip",
+        "2.5": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.2.5.zip",
+        "2.5.4": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.2.5.4.zip",
+        "2.5.5": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.2.5.5.zip",
+        "2.7.3": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.2.7.3.zip",
+        "2.7.5": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.2.7.5.zip",
+        "2.8": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.2.8.zip",
+        "3.0.1": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.3.0.1.zip",
+        "3.1.8": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.3.1.8.zip",
+        "3.2": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.3.2.zip",
+        "4.0": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.4.0.zip",
+        "4.1": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.4.1.zip",
+        "4.2": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.4.2.zip",
+        "4.3": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.4.3.zip",
+        "4.4": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.4.4.zip",
+        "4.5": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.4.5.zip",
+        "4.6": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.4.6.zip",
+        "4.6.1": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.4.6.1.zip",
+        "4.6.2": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.4.6.2.zip",
+        "4.6.3": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.4.6.3.zip",
+        "4.6.4": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.4.6.4.zip",
+        "4.7.0": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.4.7.0.zip",
+        "4.7.1": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.4.7.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/pdf-embedder.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/pdf-embedder\/assets\/banner-772x250.png?rev=3039318",
+        "high": "https:\/\/ps.w.org\/pdf-embedder\/assets\/banner-1544x500.png?rev=3039318"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/pdf-embedder\/assets\/icon-128x128.png?rev=3039318",
+        "2x": "https:\/\/ps.w.org\/pdf-embedder\/assets\/icon-256x256.png?rev=3039318"
+    },
+    "blocks": {
+        "pdfemb\/pdf-embedder-viewer": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 2,
+            "name": "pdfemb\/pdf-embedder-viewer",
+            "version": "4.7.0",
+            "title": "PDF Embedder",
+            "category": "embed",
+            "icon": "media-document",
+            "description": "Embed PDFs straight into your content.",
+            "keywords": [
+                "pdf",
+                "pdf embed",
+                "pdfs"
+            ],
+            "example": {},
+            "supports": {
+                "html": false,
+                "align": false
+            },
+            "textdomain": "pdf-embedder",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css",
+            "render": "file:.\/render.php"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 88,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "pdf-embedder",
+            "language": "ca",
+            "version": "4.7.1",
+            "updated": "2023-11-22 12:58:34",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pdf-embedder\/4.7.1\/ca.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pdf-embedder",
+            "language": "cs_CZ",
+            "version": "4.7.1",
+            "updated": "2022-12-24 10:40:16",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pdf-embedder\/4.7.1\/cs_CZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pdf-embedder",
+            "language": "en_GB",
+            "version": "4.7.1",
+            "updated": "2024-02-21 17:05:16",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pdf-embedder\/4.7.1\/en_GB.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pdf-embedder",
+            "language": "es_ES",
+            "version": "4.7.1",
+            "updated": "2024-03-25 08:52:43",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pdf-embedder\/4.7.1\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pdf-embedder",
+            "language": "es_CO",
+            "version": "4.7.1",
+            "updated": "2022-07-07 17:28:35",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pdf-embedder\/4.7.1\/es_CO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pdf-embedder",
+            "language": "es_VE",
+            "version": "4.7.1",
+            "updated": "2022-07-07 17:27:15",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pdf-embedder\/4.7.1\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pdf-embedder",
+            "language": "fa_IR",
+            "version": "4.7.1",
+            "updated": "2016-12-08 06:15:12",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pdf-embedder\/4.7.1\/fa_IR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pdf-embedder",
+            "language": "fr_FR",
+            "version": "4.7.1",
+            "updated": "2022-01-29 11:10:50",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pdf-embedder\/4.7.1\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pdf-embedder",
+            "language": "gl_ES",
+            "version": "4.7.1",
+            "updated": "2024-02-23 09:40:23",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pdf-embedder\/4.7.1\/gl_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pdf-embedder",
+            "language": "ja",
+            "version": "4.7.1",
+            "updated": "2022-08-05 13:33:14",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pdf-embedder\/4.7.1\/ja.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pdf-embedder",
+            "language": "nb_NO",
+            "version": "4.7.1",
+            "updated": "2019-10-02 16:41:19",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pdf-embedder\/4.7.1\/nb_NO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pdf-embedder",
+            "language": "nl_BE",
+            "version": "4.7.1",
+            "updated": "2024-02-22 10:14:30",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pdf-embedder\/4.7.1\/nl_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pdf-embedder",
+            "language": "nl_NL_formal",
+            "version": "4.7.1",
+            "updated": "2024-02-22 15:46:26",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pdf-embedder\/4.7.1\/nl_NL_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pdf-embedder",
+            "language": "nl_NL",
+            "version": "4.7.1",
+            "updated": "2024-02-21 22:17:55",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pdf-embedder\/4.7.1\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pdf-embedder",
+            "language": "ru_RU",
+            "version": "4.7.1",
+            "updated": "2024-02-21 17:23:45",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pdf-embedder\/4.7.1\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pdf-embedder",
+            "language": "sk_SK",
+            "version": "4.7.1",
+            "updated": "2023-11-18 17:00:13",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pdf-embedder\/4.7.1\/sk_SK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pdf-embedder",
+            "language": "sl_SI",
+            "version": "4.7.1",
+            "updated": "2017-05-29 11:05:57",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pdf-embedder\/4.7.1\/sl_SI.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pdf-embedder",
+            "language": "sv_SE",
+            "version": "4.7.1",
+            "updated": "2024-02-21 18:38:15",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pdf-embedder\/4.7.1\/sv_SE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pdf-embedder",
+            "language": "tr_TR",
+            "version": "4.7.1",
+            "updated": "2024-03-17 21:58:02",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pdf-embedder\/4.7.1\/tr_TR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pdf-embedder",
+            "language": "zh_TW",
+            "version": "4.7.1",
+            "updated": "2022-01-27 18:31:44",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pdf-embedder\/4.7.1\/zh_TW.zip"
+        }
+    ]
+}

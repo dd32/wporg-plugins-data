@@ -1,0 +1,108 @@
+{
+    "name": "ALFAcoins for WooCommerce",
+    "slug": "alfacoins-for-woocommerce",
+    "version": "1.0",
+    "author": "<a href=\"https:\/\/github.com\/alfacoins\">alfacoins<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/webt3ch\/",
+    "contributors": {
+        "webt3ch": {
+            "profile": "https:\/\/profiles.wordpress.org\/webt3ch\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/c4fc72652bcfec30cd43a8f629488165?s=96&d=monsterid&r=g",
+            "display_name": "ALFAcoins"
+        }
+    },
+    "requires": "4.3.1",
+    "tested": "6.5.2",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 3,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 3,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/alfacoins-for-woocommerce\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 10,
+    "downloaded": 4674,
+    "last_updated": "2024-02-29 2:31pm GMT",
+    "added": "2017-01-31",
+    "homepage": "https:\/\/wordpress.org\/plugins\/alfacoins-for-woocommerce\/",
+    "sections": {
+        "description": "<p>Accept all major cryptocurrencies like Bitcoin, Ethereum, TRC-20 &amp; ERC-20 Tether, TRX, Litecoin, XRP with ALFAcoins plugin for WooCommerce.<\/p>\n<h4>ALFAcoins features:<\/h4>\n<ul>\n<li>Select preferred cryptocurrencies (BTC, ETH, USDT, BNB, XRP, USDC, DOGE, TRX, DOT, BCH, LTC, DAI, ATOM, XLM, DASH) and start accepting cryptocurrency.<\/li>\n<li>Follow a straightforward set-up process, no technical expertise needed: <a href=\"https:\/\/www.alfacoins.com\/help\/tutorials\/merchant-how-to-integrate-cryptocurrency-payments-to-wordpress-with-woocommerce\" rel=\"nofollow ugc\">guide<\/a>.<\/li>\n<li>Every transaction is displayed with an equivalent of your preferred fiat currency.<\/li>\n<li>Automate withdrawals by setting up preferred period and amount.<\/li>\n<li>Protect your account with a two-factor authentication (2FA) feature.<\/li>\n<li>Check your transactions&#8217; history, statuses and fees. Export data and reports on the go.<\/li>\n<\/ul>\n<h4>Why ALFAcoins?<\/h4>\n<ul>\n<li>Hassle free account opening process, application review guaranteed within 24 hours.<\/li>\n<li>Submit your queries about integration, account or transaction management to our support team.<\/li>\n<li>Open your e-shop to customers worldwide preferring crypto payments.<\/li>\n<li>Real-time competitive cryptocurrency exchange rates.<\/li>\n<li>Financial reports about incoming and outgoing operations.<\/li>\n<li>Secure storage and instant transfers of your crypto assets.<\/li>\n<\/ul>\n<p><a href=\"https:\/\/www.alfacoins.com\/user\/register\" rel=\"nofollow ugc\">Join<\/a> the digital payment revolution and expand your WooCommerce store&#8217;s potential with ALFAcoins. Embrace the opportunities of cryptocurrency and set your business up for success.<\/p>\n",
+        "installation": "<h4>Minimum Requirements<\/h4>\n<ul>\n<li>WordPress 4.3.1 or greater<\/li>\n<li>WooCommerce 2.4.10 or greater<\/li>\n<li>PHP version 7.4 or greater<\/li>\n<li>OpenSSL Must be compiled with PHP<\/li>\n<\/ul>\n<h4>Automatic Installation<\/h4>\n<p>Log into your WordPress dashboard and go to Plugins &gt; Add New.<\/p>\n<p>Search for &#8220;ALFAcoins for WooCommerce&#8221; and click &#8220;Install Now&#8221;<\/p>\n<h4>Manual Installation<\/h4>\n<p>Download the plugin and upload it to your webserver via the <a href=\"https:\/\/codex.wordpress.org\/Managing_Plugins#Manual_Plugin_Installation\" rel=\"nofollow ugc\">directions found at the WordPress codex<\/a>.<\/p>\n",
+        "changelog": "<h4>1.1 &#8211; 2024-02-13<\/h4>\n<p>Updated screenshots<\/p>\n<h4>1.0 &#8211; 2024-02-09<\/h4>\n<ul>\n<li>New cryptocurrency supported: USDT, USDC, DAI, Binance Smartchain, Tron, Polkadot, Cosmos, Cardano, Dogecoin<\/li>\n<li>Added support for WooCommerce Checkout Block<\/li>\n<li>Added an ability to select available crypto icons on checkout page<\/li>\n<\/ul>\n<h4>0.10 &#8211; 2019-09-16<\/h4>\n<p>Fix order status change process when customer has paid more than needed.<\/p>\n<h4>0.9 &#8211; 2019-06-20<\/h4>\n<p>Added &#8220;Hide warning&#8221; option<\/p>\n<h4>0.8 &#8211; 2019-01-28<\/h4>\n<p>New logo for Litecoin, name fixes: Ripple to XRP<\/p>\n<h4>0.7 &#8211; 2018-07-18<\/h4>\n<p>Cryptocurrency Ripple rebrands to XRP<\/p>\n<h4>0.6 &#8211; 2018-06-19<\/h4>\n<p>Litecoin Testnet support has been added for development and testing.<\/p>\n<h4>0.5 &#8211; 2018-04-02<\/h4>\n<ul>\n<li>Now you can create orders in any currency (not only in USD \/ EUR \/ &#8230;)<\/li>\n<\/ul>\n<h4>0.4 &#8211; 2018-02-21<\/h4>\n<ul>\n<li>New cryptocurrencies added: Bitcoin Cash, Dash and Ripple<\/li>\n<\/ul>\n<h4>0.3 &#8211; 2017-01-27<\/h4>\n<ul>\n<li>Settings form sanitize<\/li>\n<li>IPN POST variables sanitize<\/li>\n<\/ul>\n<h4>0.2 &#8211; 2017-01-25<\/h4>\n<ul>\n<li>New icon<\/li>\n<li>Order description<\/li>\n<li>Customer Email &amp; Name support for IPN<\/li>\n<\/ul>\n<h4>0.1 &#8211; 2017-01-22<\/h4>\n<ul>\n<li>Initial version<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/screenshot-1.png?rev=3034692\"><img src=\"https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/screenshot-1.png?rev=3034692\" alt=\"The cart page features a &quot;Proceed to Checkout&quot; button adorned with icons.\"><\/a><p>The cart page features a \"Proceed to Checkout\" button adorned with icons.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/screenshot-2.png?rev=3034692\"><img src=\"https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/screenshot-2.png?rev=3034692\" alt=\"Upon selection, this is the appearance of the chosen payment option.\"><\/a><p>Upon selection, this is the appearance of the chosen payment option.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/screenshot-3.png?rev=3034686\"><img src=\"https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/screenshot-3.png?rev=3034686\" alt=\"This is the ALFAcoins invoice page to which a customer will be directed during checkout after choosing this plugin&#039;s payment method.\"><\/a><p>This is the ALFAcoins invoice page to which a customer will be directed during checkout after choosing this plugin's payment method.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/screenshot-4.png?rev=3034686\"><img src=\"https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/screenshot-4.png?rev=3034686\" alt=\"Following the customer&#039;s payment, they will receive a prompt to return to your site.\"><\/a><p>Following the customer's payment, they will receive a prompt to return to your site.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/screenshot-5.png?rev=3034686\"><img src=\"https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/screenshot-5.png?rev=3034686\" alt=\"The checkout will clearly denote that the payment was made using cryptocurrency.\"><\/a><p>The checkout will clearly denote that the payment was made using cryptocurrency.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/screenshot-6.png?rev=3034686\"><img src=\"https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/screenshot-6.png?rev=3034686\" alt=\"The plugin&#039;s settings page.\"><\/a><p>The plugin's settings page.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/screenshot-7.png?rev=3034686\"><img src=\"https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/screenshot-7.png?rev=3034686\" alt=\"The option to choose from available cryptocurrency icons on the checkout page.\"><\/a><p>The option to choose from available cryptocurrency icons on the checkout page.<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Crypto payment solutions<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/nelfabre1980\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/79ad728f9deab7bf75e2f40956e6d718?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/79ad728f9deab7bf75e2f40956e6d718?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/nelfabre1980\/\" class=\"reviewer-name\">nelfabre1980<\/a> on <span class=\"review-date\">February 13, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">We're satisfied with the use of this plugin. Installation was easy, no technical issues arose. Now we can accept payments without any hassle. Thank you, Alfacoins, for the excellent product!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">It just works excellent!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/myestate\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/0797870e837120c6f1191d12120d4b24?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/0797870e837120c6f1191d12120d4b24?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/myestate\/\" class=\"reviewer-name\">myestate<\/a> on <span class=\"review-date\">February 12, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The ALFAcoins for WooCommerce plugin is a game-changer. Its user-friendly interface and impressive features make it a joy to use. The recent update works flawlessly, reflecting the team\u2019s commitment to continual improvement. The responsive and helpful development team is a standout, always ready to assist. I highly recommend this plugin for its efficiency and the excellent customer service provided by the team.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excellent payment system<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/vakltl\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/7160f8e82d196eba0ea482911d39783b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/7160f8e82d196eba0ea482911d39783b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/vakltl\/\" class=\"reviewer-name\">vakltl<\/a> on <span class=\"review-date\">February 12, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">A very convenient plugin for accepting payments in cryptocurrency. And the service itself impresses with its ease of operation, thoughtful design and ease of configuration.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Accept all major cryptocurrencies like Bitcoin, Ethereum, TRC-20 &amp; ERC-20 Tether, TRX, Litecoin, XRP with ALFAcoins plugin for WooCommerce.",
+    "description": "<p>Accept all major cryptocurrencies like Bitcoin, Ethereum, TRC-20 &amp; ERC-20 Tether, TRX, Litecoin, XRP with ALFAcoins plugin for WooCommerce.<\/p>\n<h4>ALFAcoins features:<\/h4>\n<ul>\n<li>Select preferred cryptocurrencies (BTC, ETH, USDT, BNB, XRP, USDC, DOGE, TRX, DOT, BCH, LTC, DAI, ATOM, XLM, DASH) and start accepting cryptocurrency.<\/li>\n<li>Follow a straightforward set-up process, no technical expertise needed: <a href=\"https:\/\/www.alfacoins.com\/help\/tutorials\/merchant-how-to-integrate-cryptocurrency-payments-to-wordpress-with-woocommerce\" rel=\"nofollow ugc\">guide<\/a>.<\/li>\n<li>Every transaction is displayed with an equivalent of your preferred fiat currency.<\/li>\n<li>Automate withdrawals by setting up preferred period and amount.<\/li>\n<li>Protect your account with a two-factor authentication (2FA) feature.<\/li>\n<li>Check your transactions&#8217; history, statuses and fees. Export data and reports on the go.<\/li>\n<\/ul>\n<h4>Why ALFAcoins?<\/h4>\n<ul>\n<li>Hassle free account opening process, application review guaranteed within 24 hours.<\/li>\n<li>Submit your queries about integration, account or transaction management to our support team.<\/li>\n<li>Open your e-shop to customers worldwide preferring crypto payments.<\/li>\n<li>Real-time competitive cryptocurrency exchange rates.<\/li>\n<li>Financial reports about incoming and outgoing operations.<\/li>\n<li>Secure storage and instant transfers of your crypto assets.<\/li>\n<\/ul>\n<p><a href=\"https:\/\/www.alfacoins.com\/user\/register\" rel=\"nofollow ugc\">Join<\/a> the digital payment revolution and expand your WooCommerce store&#8217;s potential with ALFAcoins. Embrace the opportunities of cryptocurrency and set your business up for success.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/alfacoins-for-woocommerce.zip",
+    "upgrade_notice": {
+        "0.5": "<p>Any currency support.<\/p>",
+        "0.4": "<p>This version allows to receive Bitcoin Cash, Dash and Ripple payments.<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/screenshot-1.png?rev=3034692",
+            "caption": "The cart page features a \"Proceed to Checkout\" button adorned with icons."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/screenshot-2.png?rev=3034692",
+            "caption": "Upon selection, this is the appearance of the chosen payment option."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/screenshot-3.png?rev=3034686",
+            "caption": "This is the ALFAcoins invoice page to which a customer will be directed during checkout after choosing this plugin's payment method."
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/screenshot-4.png?rev=3034686",
+            "caption": "Following the customer's payment, they will receive a prompt to return to your site."
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/screenshot-5.png?rev=3034686",
+            "caption": "The checkout will clearly denote that the payment was made using cryptocurrency."
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/screenshot-6.png?rev=3034686",
+            "caption": "The plugin's settings page."
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/screenshot-7.png?rev=3034686",
+            "caption": "The option to choose from available cryptocurrency icons on the checkout page."
+        }
+    },
+    "tags": {
+        "bitcoin": "bitcoin",
+        "crypto": "crypto",
+        "dogecoin": "dogecoin",
+        "ethereum": "ethereum",
+        "litecoin": "Litecoin"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/www.alfacoins.com\/demo",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/banner-772x250.png?rev=3034686",
+        "high": "https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/banner-1544x500.png?rev=3034686"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/icon.svg?rev=3034686",
+        "svg": "https:\/\/ps.w.org\/alfacoins-for-woocommerce\/assets\/icon.svg?rev=3034686"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

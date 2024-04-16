@@ -1,0 +1,78 @@
+{
+    "name": "Highlight Searched Terms in Results",
+    "slug": "highlight-search-terms-results",
+    "version": "1.11",
+    "author": "<a href=\"https:\/\/puvox.software\/\">Puvox.software<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/puvoxsoftware\/",
+    "contributors": {
+        "puvoxsoftware": {
+            "profile": "https:\/\/profiles.wordpress.org\/puvoxsoftware\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/54e4d2e9e9705aa8a3cf2c17025d188f?s=96&d=monsterid&r=g",
+            "display_name": "Puvox Software"
+        },
+        "ttodua": {
+            "profile": "https:\/\/profiles.wordpress.org\/ttodua\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/aaaf38dc08f8abafba9786aba49ba61d?s=96&d=monsterid&r=g",
+            "display_name": "ttodua"
+        }
+    },
+    "requires": "6.0",
+    "tested": false,
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/highlight-search-terms-results\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 10,
+    "downloaded": 900,
+    "last_updated": "2024-01-16 10:55am GMT",
+    "added": "2020-03-03",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Plugin deprecated. Please use <a href=\"https:\/\/wordpress.org\/plugins\/additional-wp-tweaks-options\/\" rel=\"ugc\">Few wp tweaks options<\/a><\/p>\n",
+        "changelog": "<h4>1.10<\/h4>\n<h4>1.0<\/h4>\n<ul>\n<li>First release.<\/li>\n<\/ul>\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Doesn&#039;t work<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/annekee\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/159c3d01d79fa4768a5f8b963db4b520?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/159c3d01d79fa4768a5f8b963db4b520?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/annekee\/\" class=\"reviewer-name\">Annekee<\/a> on <span class=\"review-date\">November 20, 2020<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Clicking on the magnifying glass results in url to home page - slash - question mark (domain name\/?)<\/div>\n<\/div>\n"
+    },
+    "short_description": "Plugin deprecated. Please use Few wp tweaks options",
+    "description": "<p>Plugin deprecated. Please use <a href=\"https:\/\/wordpress.org\/plugins\/additional-wp-tweaks-options\/\" rel=\"ugc\">Few wp tweaks options<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/highlight-search-terms-results.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "keyword": "keyword",
+        "result": "result",
+        "results": "results",
+        "search": "search",
+        "searched": "searched"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/paypal.me\/puvox",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/highlight-search-terms-results\/assets\/banner-772x250.png?rev=3021866",
+        "high": "https:\/\/ps.w.org\/highlight-search-terms-results\/assets\/banner-1544x500.png?rev=3021865"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/highlight-search-terms-results\/assets\/icon-128x128.png?rev=2253428"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

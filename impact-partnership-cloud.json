@@ -1,0 +1,105 @@
+{
+    "name": "Impact: Partnership Cloud",
+    "slug": "impact-partnership-cloud",
+    "version": "1.0.26",
+    "author": "<a href=\"https:\/\/www.impact.com\">Impact<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/impacttechpartners\/",
+    "contributors": {
+        "impacttechpartners": {
+            "profile": "https:\/\/profiles.wordpress.org\/impacttechpartners\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/02bc34cd132ec60bd709da816883cda6?s=96&d=monsterid&r=g",
+            "display_name": "impacttechpartners"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 40,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 3
+    },
+    "num_ratings": 4,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/impact-partnership-cloud\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 200,
+    "downloaded": 5293,
+    "last_updated": "2024-02-02 6:39pm GMT",
+    "added": "2021-04-29",
+    "homepage": "",
+    "sections": {
+        "description": "<p>The impact.com + WordPress integration offers a seamless way to automate and manage your partnerships.  When you integrate with the impact.com platform, you gain the ability to discover the right affiliate and influencer partners, reliably track performance in one place, simplify your program workflows, and elevate your team with the support you need.<\/p>\n<p>Planning to run influencer campaigns to boost brand awareness? impact.com offers a selection of adaptable plans including impact.com \/ Creator designed to optimize your influencer partnerships for eCommerce brands.<\/p>\n<h3>Key Features<\/h3>\n<ul>\n<li>Discover and recruit high-quality, vetted affiliate and influencer partners<\/li>\n<li>Define your terms with flexible electronic contracts and automatically settle payments in 70+ currencies<\/li>\n<li>Access 40+ reports that measure partner performance by geolocation, SKU, promo-code, time of day, and more<\/li>\n<li>Track all partner-driven activities across devices and channels<\/li>\n<li>Keep your brand protected with compliance measures that enforce your policies and pay your partners fairly<\/li>\n<li>Ensure partners informed, engaged, and productive with bulk messaging<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/impact-partnership-cloud\/assets\/screenshot-1.png?rev=2523610\"><img src=\"https:\/\/ps.w.org\/impact-partnership-cloud\/assets\/screenshot-1.png?rev=2523610\" alt=\"Notifications for Partnership Cloud customers.\"><\/a><p>Notifications for Partnership Cloud customers.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/impact-partnership-cloud\/assets\/screenshot-2.png?rev=2523610\"><img src=\"https:\/\/ps.w.org\/impact-partnership-cloud\/assets\/screenshot-2.png?rev=2523610\" alt=\"Form to input Impact settings\"><\/a><p>Form to input Impact settings<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Much a do for nothing<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/sakary\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e55451d425d3f26851d9a1f09e126187?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e55451d425d3f26851d9a1f09e126187?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/sakary\/\" class=\"reviewer-name\">sakary<\/a> on <span class=\"review-date\">November 28, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I saw an advert about this ad server and download it. I joined the programme hoping to make some money from running ads. 3 months later the account is still NULL. I received many requests to display the link on my pages, but nothing in return.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">WARNING - This thing steals<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/corelevel\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/55992c70393f050b0f77da54845bf68d?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/55992c70393f050b0f77da54845bf68d?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/corelevel\/\" class=\"reviewer-name\">corelevel<\/a> on <span class=\"review-date\">April 1, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>I have this plugin and I use impact. This program was written in a way where they do not use hooks or API filters to get only items that are processing (paid) they instead use pending which happens before an order is paid for.<br \/><br \/>This means when an order is pending, (submitted, but not paid for) impact grabs it, and then if payment fails, impact does not know (or care - I have told them). So you will be paying your affiliates commission on all failed orders.<br \/><br \/>Not only that, an affiliate can learn this and exploit it by just creating orders on your site and not even putting in a credit card and when the order fails they will still be paid commission.<br \/><br \/>I know many small businesses will notice this, but big companies or those with lots of orders will never notice.<br \/><br \/>Rather than just change the code (I sent them all the documentation) they just say that it is our responsibility to log into impact and manually delete all failed orders that came to our website.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Outstanding<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mjmarini\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/321585285381fcc9cb193b3e000b9158?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/321585285381fcc9cb193b3e000b9158?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mjmarini\/\" class=\"reviewer-name\">mjmarini<\/a> on <span class=\"review-date\">August 2, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">I became a client of Impact, and just happened to be running my e-commerce site on wordpress with woocommerce.  The plugin and support I received from Impact was outstanding every step of the way.  I installed the plugin, and the team at Impact supported me with detailed instructions for entering the settings for my account.  We ran a test and everything worked beautifully the very first time.  Everything is running smoothly now and I'm setting my sights toward the future and growing my business. I highly recommend Impact and this plugin.<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Useless Plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/speedplus\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/1006c01cc8b02f7cf4bcc43134174836?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/1006c01cc8b02f7cf4bcc43134174836?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/speedplus\/\" class=\"reviewer-name\">Kostiantyn <small>(speedplus)<\/small><\/a> on <span class=\"review-date\">February 3, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">The plugin does nothing. There is no settings page, not even an installation guide. I do not recommend!<\/div>\n<\/div>\n"
+    },
+    "short_description": "The impact.com + WordPress integration offers a seamless way to automate and manage your partnerships.  When you integrate with the impact.",
+    "description": "<p>The impact.com + WordPress integration offers a seamless way to automate and manage your partnerships.  When you integrate with the impact.com platform, you gain the ability to discover the right affiliate and influencer partners, reliably track performance in one place, simplify your program workflows, and elevate your team with the support you need.<\/p>\n<p>Planning to run influencer campaigns to boost brand awareness? impact.com offers a selection of adaptable plans including impact.com \/ Creator designed to optimize your influencer partnerships for eCommerce brands.<\/p>\n<h3>Key Features<\/h3>\n<ul>\n<li>Discover and recruit high-quality, vetted affiliate and influencer partners<\/li>\n<li>Define your terms with flexible electronic contracts and automatically settle payments in 70+ currencies<\/li>\n<li>Access 40+ reports that measure partner performance by geolocation, SKU, promo-code, time of day, and more<\/li>\n<li>Track all partner-driven activities across devices and channels<\/li>\n<li>Keep your brand protected with compliance measures that enforce your policies and pay your partners fairly<\/li>\n<li>Ensure partners informed, engaged, and productive with bulk messaging<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.26.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/impact-partnership-cloud\/assets\/screenshot-1.png?rev=2523610",
+            "caption": "Notifications for Partnership Cloud customers."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/impact-partnership-cloud\/assets\/screenshot-2.png?rev=2523610",
+            "caption": "Form to input Impact settings"
+        }
+    },
+    "tags": {
+        "impact": "impact",
+        "referrals": "referrals"
+    },
+    "stable_tag": "1.0.26",
+    "versions": {
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.1.zip",
+        "1.0.11": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.11.zip",
+        "1.0.12": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.12.zip",
+        "1.0.13": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.13.zip",
+        "1.0.14": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.14.zip",
+        "1.0.15": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.15.zip",
+        "1.0.16": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.16.zip",
+        "1.0.17": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.17.zip",
+        "1.0.18": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.18.zip",
+        "1.0.19": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.19.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.2.zip",
+        "1.0.20": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.20.zip",
+        "1.0.21": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.21.zip",
+        "1.0.22": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.22.zip",
+        "1.0.23": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.23.zip",
+        "1.0.24": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.24.zip",
+        "1.0.25": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.25.zip",
+        "1.0.26": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.26.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.4.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.5.zip",
+        "1.0.6": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.6.zip",
+        "1.0.7": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.7.zip",
+        "1.0.8": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.8.zip",
+        "1.0.9": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.1.0.9.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/impact-partnership-cloud.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/impact-partnership-cloud\/assets\/icon-128x128.png?rev=2523631",
+        "2x": "https:\/\/ps.w.org\/impact-partnership-cloud\/assets\/icon-256x256.png?rev=2523631"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 40,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

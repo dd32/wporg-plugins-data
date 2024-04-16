@@ -1,0 +1,148 @@
+{
+    "name": "Pagebreak Description",
+    "slug": "pagebreak-description",
+    "version": "1.01",
+    "author": "<a href=\"https:\/\/riverforest-wp.info\/\">Katsushi Kawamori<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/katsushi-kawamori\/",
+    "contributors": {
+        "katsushi-kawamori": {
+            "profile": "https:\/\/profiles.wordpress.org\/katsushi-kawamori\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/90626c97edc7a76c88acf1d216d22721?s=96&d=monsterid&r=g",
+            "display_name": "Katsushi Kawamori"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.5.2",
+    "requires_php": "8.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/pagebreak-description\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 10,
+    "downloaded": 422,
+    "last_updated": "2024-03-05 12:12pm GMT",
+    "added": "2024-01-13",
+    "homepage": "https:\/\/wordpress.org\/plugins\/pagebreak-description\/",
+    "sections": {
+        "description": "<ul>\n<li>Enter page breaks and before\/after descriptions. Values are used in pagination.<\/li>\n<li>Do not mix this block with the Page Break block, as it may cause the comment to be misaligned.<\/li>\n<\/ul>\n<h4>How it works<\/h4>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/4WNGiGnnjbc?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n<h4>Filter hooks<\/h4>\n<pre><code>\/** ==================================================\n * Filter for CSS URL.\n * Default CSS -&gt; \/pagebreak-description\/css\/custom.css\n *\/\nadd_filter(\n    'pagebreak_description_css', \n    function() {\n\n        \/* If you put mydesign.css in wp-content\/uploads *\/\n        $wp_uploads = wp_upload_dir();\n        $upload_url = $wp_uploads['baseurl'];\n        if ( is_ssl() ) {\n            $upload_url = str_replace( 'http:', 'https:', $upload_url );\n        }\n        $upload_url = untrailingslashit( $upload_url );\n        $url = $upload_url . '\/mydesign.css';\n\n        return $url;\n    },\n    10,\n    1\n);\n<\/code><\/pre>\n",
+        "installation": "<ol>\n<li>Upload <code>pagebreak-description<\/code> directory to the <code>\/wp-content\/plugins\/<\/code> directory<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress<\/li>\n<\/ol>\n",
+        "faq": "<p>none<\/p>\n",
+        "changelog": "<h4>[1.01] 2024\/01\/14<\/h4>\n<ul>\n<li>Tweak &#8211; Support for Glotpress.<\/li>\n<\/ul>\n<h4>[1.00] 2024\/01\/14<\/h4>\n<p>Initial release.<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/pagebreak-description\/assets\/screenshot-1.png?rev=3021445\"><img src=\"https:\/\/ps.w.org\/pagebreak-description\/assets\/screenshot-1.png?rev=3021445\" alt=\"Block\"><\/a><p>Block<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/pagebreak-description\/assets\/screenshot-2.png?rev=3021445\"><img src=\"https:\/\/ps.w.org\/pagebreak-description\/assets\/screenshot-2.png?rev=3021445\" alt=\"View\"><\/a><p>View<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Page breaks and before\/after descriptions",
+    "description": "<ul>\n<li>Enter page breaks and before\/after descriptions. Values are used in pagination.<\/li>\n<li>Do not mix this block with the Page Break block, as it may cause the comment to be misaligned.<\/li>\n<\/ul>\n<h4>How it works<\/h4>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/4WNGiGnnjbc?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n<h4>Filter hooks<\/h4>\n<pre><code>\/** ==================================================\n * Filter for CSS URL.\n * Default CSS -&gt; \/pagebreak-description\/css\/custom.css\n *\/\nadd_filter(\n    'pagebreak_description_css', \n    function() {\n\n        \/* If you put mydesign.css in wp-content\/uploads *\/\n        $wp_uploads = wp_upload_dir();\n        $upload_url = $wp_uploads['baseurl'];\n        if ( is_ssl() ) {\n            $upload_url = str_replace( 'http:', 'https:', $upload_url );\n        }\n        $upload_url = untrailingslashit( $upload_url );\n        $url = $upload_url . '\/mydesign.css';\n\n        return $url;\n    },\n    10,\n    1\n);\n<\/code><\/pre>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/pagebreak-description.1.01.zip",
+    "upgrade_notice": {
+        "1.00": ""
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/pagebreak-description\/assets\/screenshot-1.png?rev=3021445",
+            "caption": "Block"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/pagebreak-description\/assets\/screenshot-2.png?rev=3021445",
+            "caption": "View"
+        }
+    },
+    "tags": {
+        "block": "block",
+        "next-page": "Next Page",
+        "pagebreak": "pagebreak",
+        "pagination": "pagination",
+        "prev-page": "prev page"
+    },
+    "stable_tag": "1.01",
+    "versions": {
+        "1.00": "https:\/\/downloads.wordpress.org\/plugin\/pagebreak-description.1.00.zip",
+        "1.01": "https:\/\/downloads.wordpress.org\/plugin\/pagebreak-description.1.01.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/pagebreak-description.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/shop.riverforest-wp.info\/donate\/",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/pagebreak-description\/assets\/icon-256x256.png?rev=3021445",
+        "2x": "https:\/\/ps.w.org\/pagebreak-description\/assets\/icon-256x256.png?rev=3021445"
+    },
+    "blocks": {
+        "pagebreak-description\/pagebreakdescription": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "pagebreak-description\/pagebreakdescription",
+            "title": "Page breaks and before\/after descriptions",
+            "category": "design",
+            "icon": "admin-comments",
+            "description": "Enter page breaks and before\/after descriptions. Values are used in pagination. Do not mix this block with the Page Break block, as it may cause the comment to be misaligned.",
+            "keywords": [
+                "next page",
+                "prev page",
+                "pagebreak",
+                "pagination"
+            ],
+            "version": "1.0.0",
+            "textdomain": "pagebreak-description",
+            "attributes": {
+                "thisdesc": {
+                    "type": "string"
+                },
+                "nextdesc": {
+                    "type": "string"
+                },
+                "preview": {
+                    "type": "boolean",
+                    "default": false
+                }
+            },
+            "supports": {
+                "customClassName": false,
+                "className": false,
+                "html": false
+            },
+            "example": {
+                "attributes": {
+                    "preview": true
+                }
+            },
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css"
+        }
+    },
+    "block_assets": [
+        "\/tags\/1.01\/block\/src\/index.js",
+        "\/tags\/1.01\/block\/src\/index.css",
+        "\/tags\/1.01\/block\/src\/style-index.css",
+        "\/tags\/1.01\/block\/build\/index.js",
+        "\/tags\/1.01\/block\/build\/index.css",
+        "\/tags\/1.01\/block\/build\/style-index.css"
+    ],
+    "author_block_count": 1,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "pagebreak-description",
+            "language": "ja",
+            "version": "1.01",
+            "updated": "2024-01-13 23:05:59",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pagebreak-description\/1.01\/ja.zip"
+        }
+    ]
+}

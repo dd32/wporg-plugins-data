@@ -1,0 +1,135 @@
+{
+    "name": "Better Youtube Embed Block",
+    "slug": "better-youtube-embed-block",
+    "version": "1.0.4",
+    "author": "<a href=\"https:\/\/boldblocks.net\">Phi Phan<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/mr2p\/",
+    "contributors": {
+        "mr2p": {
+            "profile": "https:\/\/profiles.wordpress.org\/mr2p\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/6e786df8f87d8c089b1f8d6730e90fd4?s=96&d=monsterid&r=g",
+            "display_name": "Phi Phan"
+        }
+    },
+    "requires": "5.8",
+    "tested": "6.5.2",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 7,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 7,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/better-youtube-embed-block\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 1000,
+    "downloaded": 8201,
+    "last_updated": "2024-04-03 1:18am GMT",
+    "added": "2022-11-23",
+    "homepage": "",
+    "sections": {
+        "description": "<p>The default embed block for Youtube videos sucks. It slows down your site. The more videos on the page the more it slow. This single-block plugin fixes that.<\/p>\n<p>Why this block is better than the default one:<\/p>\n<ul>\n<li>Instead of loading the entire iframe, only the video thumbnail is loaded, resulting in significant performance improvements<\/li>\n<li>Automatically load the video title as the caption<\/li>\n<li>The same UI as the default core\/embed, and you can use the video title as the caption of the block with one click<\/li>\n<li>It can be transformed from\/to the core embed block.<\/li>\n<\/ul>\n<p>This plugin also provides a PHP API for developers to render a YouTube video URL as this block; or to automatically transform core\/embed YouTube videos into this block.<\/p>\n<p>The simplest example is:<\/p>\n<pre><code>    better_youtube_embed_block_render_block( ['url' =&gt; 'https:\/\/youtu.be\/paSXmpHU9K4'] );\n<\/code><\/pre>\n<p>The example with all the parameters is:<\/p>\n<pre><code>    better_youtube_embed_block_render_block(\n      [\n        'url'               =&gt; 'https:\/\/youtu.be\/paSXmpHU9K4',\n        'aspectRatio'       =&gt; '16\/9',\n        'isMaxResThumbnail' =&gt; false,\n        'caption'           =&gt; 'My awesome video',\n        'echo'              =&gt; false,\n      ]\n    );\n<\/code><\/pre>\n<p>To automatically transform all core\/embed YouTube videos on your site to this block, you need to put the following code into your wp-config.php or in your theme, plugin:<\/p>\n<pre><code>    define('BYEB_SPEED_UP_YOUTUBE_VIDEOS', true);\n<\/code><\/pre>\n<p>or<\/p>\n<pre><code>    add_filter( 'byeb_speed_up_youtube_videos', '__return_true' );\n<\/code><\/pre>\n<p>Please check out this <a href=\"https:\/\/contentblocksbuilder.com\/video-tutorials\/?utm_source=wp.org&amp;utm_campaign=readme&amp;utm_medium=link&amp;utm_content=BYEB\" rel=\"nofollow ugc\">page<\/a> to see how fast it helps. The page contains around 30 embedded Youtube videos but they don&#8217;t slow down the page.<\/p>\n<p>If this plugin is useful for you, please do a quick review and <a href=\"https:\/\/wordpress.org\/support\/plugin\/better-youtube-embed-block\/reviews\/#new-post\" rel=\"ugc\">rate it<\/a> on WordPress.org to help us spread the word. I would very much appreciate it.<\/p>\n<p>Please check out my other plugins if you&#8217;re interested:<\/p>\n<ul>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/content-blocks-builder\" rel=\"ugc\">Content Blocks Builder<\/a> &#8211; A tool to create blocks, patterns or variations easily for your site directly on the Block Editor.<\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/display-a-meta-field-as-block\" rel=\"ugc\">Meta Field Block<\/a> &#8211; A block to display a meta field or an ACF field as a block. It can also be used in the Query Loop block.<\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/block-enhancements\" rel=\"ugc\">Block Enhancements<\/a> &#8211; A plugin to add more useful features to blocks like icons, box-shadow, transform, hover style etc.<\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/icon-separator\" rel=\"ugc\">Icon Separator<\/a> &#8211; A tiny block just like the core\/separator block but with the ability to add an icon to it.<\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/svg-block\" rel=\"ugc\">SVG Block<\/a> &#8211; A block to insert inline SVG images easily and safely. It also bundles with more than 3000 icons and some common non-rectangular dividers.<\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/counting-number-block\" rel=\"ugc\">Counting Number Block<\/a> &#8211; A block to display a number that has the number-counting effect.<\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/breadcrumb-block\" rel=\"ugc\">Breadcrumb Block<\/a> &#8211; A simple breadcrumb trail block that supports JSON-LD structured data.<\/li>\n<\/ul>\n<p>The plugin is developed using @wordpress\/create-block.<\/p>\n",
+        "installation": "<ol>\n<li>Upload the plugin files to the <code>\/wp-content\/plugins\/better-youtube-embed-block<\/code> directory, or install the plugin through the WordPress plugins screen directly.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; screen in WordPress<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='what%20problem%20does%20this%20plugin%20solve%3F'>\nWhat problem does this plugin solve?\n<\/h4>\n<p>\n<p>It provides a better solution to embed YouTube videos than the default one.<\/p>\n<\/p>\n<dt id='who%20needs%20this%20plugin%3F'>\nWho needs this plugin?\n<\/h4>\n<p>\n<p>Anyone can use this plugin.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.4<\/h4>\n<p><em>Release Date 23 February 2024<\/em><\/p>\n<ul>\n<li>Added &#8211; Add a PHP API for developers to render a YouTube video URL as this block<\/li>\n<li>Added &#8211; A new option to load high-resolution image<\/li>\n<li>Added &#8211; Add the ability to render all core\/embed for YouTube videos as this block<\/li>\n<\/ul>\n<h4>1.0.3<\/h4>\n<p><em>Release Date 05 January 2024<\/em><\/p>\n<ul>\n<li>Added &#8211; Custom aspect ratio<\/li>\n<li>Added &#8211; Margin support feature<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<p><em>Release Date 11 August 2023<\/em><\/p>\n<ul>\n<li>DEV &#8211; Update to apiVersion 3<\/li>\n<li>DEV &#8211; Change i18 texts for translation<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<p><em>Release Date 21 April 2023<\/em><\/p>\n<ul>\n<li>DEV &#8211; Add keywords to the block<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Release Date 23 November 2022*<\/li>\n<\/ul>\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Wow thank you for the speed boost!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/christina222\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/18f70c38610b77a7a05b87224863fbd9?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/18f70c38610b77a7a05b87224863fbd9?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/christina222\/\" class=\"reviewer-name\">Christina <small>(christina222)<\/small><\/a> on <span class=\"review-date\">March 14, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I have been trying for weeks now with different plugins and different settings to speed up my website where I have added videos to the post. Sometimes I get the odd few points on Page Speed Insights on mobile performance but sitting around 65 was terrible. I installed \u00a0Better Youtube Embed Block\u00a0and my page speed performance went immediately to 99! Hope you add yourself a donation button or something on the plug in. The only thing I would suggest is creating a video for those not too savy with locating the config.php file and just demonstrating how to install. Turned out to be super simple really though.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Very Easy To Use - Plus Features Not Mentioned<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/skyzlmt\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/0f00692eb2d5632485249c0c46ef2c81?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/0f00692eb2d5632485249c0c46ef2c81?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/skyzlmt\/\" class=\"reviewer-name\">skyzlmt<\/a> on <span class=\"review-date\">February 16, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This was very easy to use and does a great job.. exactly as promised. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Two bonus things i found<br \/>1) When upgrading existing YouTube blocks in posts, when you click the YouTube link you'll see the option for this \"Better Youtube Embeded Block\" plugin.  Simply click the menu and it converts it.  Then click save the page! <br \/>2) It adds a caption field capability underneath that I dont think we had with the standard WP youtube block?  well maybe I never noticed before ha<br \/><br \/><br \/><\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Better thumbnail<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/toposscz\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e22162e6e2f1cfecb2f2b2fb102da0cd?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e22162e6e2f1cfecb2f2b2fb102da0cd?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/toposscz\/\" class=\"reviewer-name\">toposscz<\/a> on <span class=\"review-date\">February 12, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Could you add support for max res thumbnail? I need it for shorts.<br \/>And could you add support for custom thumbnail from wp media?<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">img.youtube .com\/vi\/uN81SlongUw\/maxresdefault.jpg<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/tokotoker\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/fef89a3dbcc379b78cb30b3213f8183f?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/fef89a3dbcc379b78cb30b3213f8183f?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/tokotoker\/\" class=\"reviewer-name\">tokotoker<\/a> on <span class=\"review-date\">January 14, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Working great. Thanks.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Gorgeous plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/xevious73\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e7aac9d2d50a771f4d8c3045fba2ada4?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e7aac9d2d50a771f4d8c3045fba2ada4?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/xevious73\/\" class=\"reviewer-name\">xevious73<\/a> on <span class=\"review-date\">May 25, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Easy to install, light code and great performances. Great job, dev!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Essential plugin!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/nalitana\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/971af181d0b9c25b0c75f54be7cfb88e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/971af181d0b9c25b0c75f54be7cfb88e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/nalitana\/\" class=\"reviewer-name\">Natalya <small>(nalitana)<\/small><\/a> on <span class=\"review-date\">April 21, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Lightweight plugin, does not create a lot of code on the page, unlike some other plugins. I've wanted this for a long time. Thanks! It would be great if it were possible to automatically replace all the standard video blocks in previously published recordings.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Site got a bit faster<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/marbs\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/274f7cd4d4a88ff782d5e20cbac82d4a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/274f7cd4d4a88ff782d5e20cbac82d4a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/marbs\/\" class=\"reviewer-name\">marbs<\/a> on <span class=\"review-date\">March 14, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Thank you developer!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Embed YouTube videos without slowing down your site.",
+    "description": "<p>The default embed block for Youtube videos sucks. It slows down your site. The more videos on the page the more it slow. This single-block plugin fixes that.<\/p>\n<p>Why this block is better than the default one:<\/p>\n<ul>\n<li>Instead of loading the entire iframe, only the video thumbnail is loaded, resulting in significant performance improvements<\/li>\n<li>Automatically load the video title as the caption<\/li>\n<li>The same UI as the default core\/embed, and you can use the video title as the caption of the block with one click<\/li>\n<li>It can be transformed from\/to the core embed block.<\/li>\n<\/ul>\n<p>This plugin also provides a PHP API for developers to render a YouTube video URL as this block; or to automatically transform core\/embed YouTube videos into this block.<\/p>\n<p>The simplest example is:<\/p>\n<pre><code>    better_youtube_embed_block_render_block( ['url' =&gt; 'https:\/\/youtu.be\/paSXmpHU9K4'] );\n<\/code><\/pre>\n<p>The example with all the parameters is:<\/p>\n<pre><code>    better_youtube_embed_block_render_block(\n      [\n        'url'               =&gt; 'https:\/\/youtu.be\/paSXmpHU9K4',\n        'aspectRatio'       =&gt; '16\/9',\n        'isMaxResThumbnail' =&gt; false,\n        'caption'           =&gt; 'My awesome video',\n        'echo'              =&gt; false,\n      ]\n    );\n<\/code><\/pre>\n<p>To automatically transform all core\/embed YouTube videos on your site to this block, you need to put the following code into your wp-config.php or in your theme, plugin:<\/p>\n<pre><code>    define('BYEB_SPEED_UP_YOUTUBE_VIDEOS', true);\n<\/code><\/pre>\n<p>or<\/p>\n<pre><code>    add_filter( 'byeb_speed_up_youtube_videos', '__return_true' );\n<\/code><\/pre>\n<p>Please check out this <a href=\"https:\/\/contentblocksbuilder.com\/video-tutorials\/?utm_source=wp.org&amp;utm_campaign=readme&amp;utm_medium=link&amp;utm_content=BYEB\" rel=\"nofollow ugc\">page<\/a> to see how fast it helps. The page contains around 30 embedded Youtube videos but they don&#8217;t slow down the page.<\/p>\n<p>If this plugin is useful for you, please do a quick review and <a href=\"https:\/\/wordpress.org\/support\/plugin\/better-youtube-embed-block\/reviews\/#new-post\" rel=\"ugc\">rate it<\/a> on WordPress.org to help us spread the word. I would very much appreciate it.<\/p>\n<p>Please check out my other plugins if you&#8217;re interested:<\/p>\n<ul>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/content-blocks-builder\" rel=\"ugc\">Content Blocks Builder<\/a> &#8211; A tool to create blocks, patterns or variations easily for your site directly on the Block Editor.<\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/display-a-meta-field-as-block\" rel=\"ugc\">Meta Field Block<\/a> &#8211; A block to display a meta field or an ACF field as a block. It can also be used in the Query Loop block.<\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/block-enhancements\" rel=\"ugc\">Block Enhancements<\/a> &#8211; A plugin to add more useful features to blocks like icons, box-shadow, transform, hover style etc.<\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/icon-separator\" rel=\"ugc\">Icon Separator<\/a> &#8211; A tiny block just like the core\/separator block but with the ability to add an icon to it.<\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/svg-block\" rel=\"ugc\">SVG Block<\/a> &#8211; A block to insert inline SVG images easily and safely. It also bundles with more than 3000 icons and some common non-rectangular dividers.<\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/counting-number-block\" rel=\"ugc\">Counting Number Block<\/a> &#8211; A block to display a number that has the number-counting effect.<\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/breadcrumb-block\" rel=\"ugc\">Breadcrumb Block<\/a> &#8211; A simple breadcrumb trail block that supports JSON-LD structured data.<\/li>\n<\/ul>\n<p>The plugin is developed using @wordpress\/create-block.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/better-youtube-embed-block.1.0.4.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "block": "block",
+        "embed": "embed",
+        "gutenberg": "gutenberg",
+        "video": "video",
+        "youtube": "youtube"
+    },
+    "stable_tag": "1.0.4",
+    "versions": {
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/better-youtube-embed-block.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/better-youtube-embed-block.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/better-youtube-embed-block.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/better-youtube-embed-block.1.0.4.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/better-youtube-embed-block.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/better-youtube-embed-block\/assets\/icon.svg?rev=2822540",
+        "svg": "https:\/\/ps.w.org\/better-youtube-embed-block\/assets\/icon.svg?rev=2822540"
+    },
+    "blocks": {
+        "boldblocks\/youtube-block": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "boldblocks\/youtube-block",
+            "title": "Better Youtube Video Block",
+            "category": "media",
+            "description": "Embed Youtube video without slowing down your site.",
+            "keywords": [
+                "youtube",
+                "video",
+                "embed",
+                "insert"
+            ],
+            "attributes": {
+                "url": {
+                    "type": "string"
+                },
+                "caption": {
+                    "type": "string",
+                    "source": "html",
+                    "selector": "figcaption"
+                },
+                "aspectRatio": {
+                    "type": "string",
+                    "default": ""
+                },
+                "isMaxResThumbnail": {
+                    "type": "boolean"
+                }
+            },
+            "supports": {
+                "align": true,
+                "spacing": {
+                    "margin": true
+                }
+            },
+            "textdomain": "better-youtube-embed-block",
+            "editorScript": "file:.\/index.js",
+            "viewScript": "file:.\/frontend.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css"
+        }
+    },
+    "block_assets": [
+        "\/tags\/1.0.4\/build\/index.js",
+        "\/tags\/1.0.4\/build\/index.css",
+        "\/tags\/1.0.4\/build\/style-index.css"
+    ],
+    "author_block_count": "6",
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "better-youtube-embed-block",
+            "language": "es_ES",
+            "version": "1.0.4",
+            "updated": "2023-07-13 08:10:31",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/better-youtube-embed-block\/1.0.4\/es_ES.zip"
+        }
+    ]
+}

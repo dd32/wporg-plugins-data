@@ -1,0 +1,76 @@
+{
+    "name": "bookmark wp",
+    "slug": "bookmark-wp",
+    "version": "1.0",
+    "author": "<a href=\"https:\/\/wilcosky.com\/skywolf\">Billy Wilcosky<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/wilcosky\/",
+    "contributors": {
+        "wilcosky": {
+            "profile": "https:\/\/profiles.wordpress.org\/wilcosky\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/beed1eabed695f77cae4431a5a6f349b?s=96&d=monsterid&r=g",
+            "display_name": "wilcosky"
+        }
+    },
+    "requires": "6.0",
+    "tested": "6.5.2",
+    "requires_php": "7.0.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/bookmark-wp\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 123,
+    "last_updated": "2024-04-05 12:42pm GMT",
+    "added": "2024-01-20",
+    "homepage": "",
+    "sections": {
+        "installation": "<ol>\n<li>Within the admin dashboard go to Plugins &#8211;&gt; Add New<\/li>\n<li>Search for &#8220;wp bookmark&#8221;<\/li>\n<li>Choose activate, and then install<\/li>\n<li>Go to Tools, then Bookmarklet, and copy the code<\/li>\n<li>Paste the code into the URL field of a new browser bookmark that you create<\/li>\n<li>On any webpage click on the new bookmark you made<\/li>\n<\/ol>\n<p>Alternative install method: From the Add Plugins page choose Upload Plugin and upload this plugin&#8217;s zip file.<\/p>\n",
+        "faq": "\n<dt id='are%20there%20any%20faqs%3F'>\nAre there any FAQs?\n<\/h4>\n<p>\n<p>No. This is the initial release.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0<\/h4>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n",
+        "description": "<p>Bookmark\/share webpages by clicking a special bookmark in your browser called a bookmarklet.<br \/>\nContribute at:<br \/>\nhttps:\/\/github.com\/zerosonesfun\/wp-bookmark<\/p>\n",
+        "reviews": ""
+    },
+    "short_description": "Bookmark\/share webpages by clicking a special bookmark in your browser called a bookmarklet.\nContribute at:\nhttps:\/\/github.",
+    "description": "<p>Bookmark\/share webpages by clicking a special bookmark in your browser called a bookmarklet.<br \/>\nContribute at:<br \/>\nhttps:\/\/github.com\/zerosonesfun\/wp-bookmark<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/bookmark-wp.1.0.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "bookmark": "Bookmark",
+        "bookmarklet": "Bookmarklet"
+    },
+    "stable_tag": "1.0",
+    "versions": {
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/bookmark-wp.1.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/bookmark-wp.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/bookmark-wp\/assets\/banner-772x250.png?rev=3024533",
+        "high": "https:\/\/ps.w.org\/bookmark-wp\/assets\/banner-1544x500.png?rev=3024533"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/bookmark-wp\/assets\/icon-128x128.png?rev=3024533",
+        "2x": "https:\/\/ps.w.org\/bookmark-wp\/assets\/icon-256x256.png?rev=3024533"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

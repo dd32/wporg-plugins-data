@@ -1,0 +1,96 @@
+{
+    "name": "BinancePay Checkout for WooCommerce",
+    "slug": "binance-pay",
+    "version": "1.1.7",
+    "author": "Binance",
+    "author_profile": "https:\/\/profiles.wordpress.org\/binancepay\/",
+    "contributors": {
+        "binancepay": {
+            "profile": "https:\/\/profiles.wordpress.org\/binancepay\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/83d8b774781b01d3aecd00c4db098a28?s=96&d=monsterid&r=g",
+            "display_name": "binancepay"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.2.5",
+    "requires_php": "5.6",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 36,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 4
+    },
+    "num_ratings": 5,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/binance-pay\/",
+    "support_threads": 2,
+    "support_threads_resolved": 0,
+    "active_installs": 1000,
+    "downloaded": 11028,
+    "last_updated": "2023-12-27 8:19am GMT",
+    "added": "2023-03-06",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Binance Pay is a contactless, borderless, and secure cryptocurrency payment technology designed by Binance. Binance Pay allows Binance customers to pay and get paid in crypto from their friends and family worldwide. WooCommerce Binance Pay provides comprehensive yet straightforward payment processing. It provides a seamless checkout experience for your consumers.<\/p>\n",
+        "installation": "<h4>Requirements<\/h4>\n<ul>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/woocommerce\/\" rel=\"ugc\">WooCommerce<\/a><\/li>\n<li>BinancePay <a href=\"https:\/\/merchant.binance.com\/en?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=woocommerce-merchant&amp;ref=VIVBYAF1\" rel=\"nofollow ugc\">merchant account<\/a><\/li>\n<\/ul>\n<h4>Plugin installation<\/h4>\n<ol>\n<li>Register a BinancePay Merchant Account <a href=\"https:\/\/merchant.binance.com\/en\/onboarding?utm_source=wordpress&amp;utm_medium=referral&amp;utm_campaign=woocommerce-merchant&amp;ref=VIVBYAF1\" rel=\"nofollow ugc\">here<\/a> and perform the necessary KYC\/KYB.<\/li>\n<li>From your WordPress admin panel, go to Plugins &gt; Add New &gt; Search plugins and search for <strong>Binance Pay WooCommerce<\/strong>.<\/li>\n<li>Select <strong>Binance Pay WooCommerce<\/strong> and click on <strong>Install Now<\/strong> and then on <strong>Activate Plugin<\/strong><\/li>\n<li>Go to your WooCommerce settings and click <strong>Binance Pay WooCommerce<\/strong> to configure the plugin.<\/li>\n<\/ol>\n<h4>Plugin configuration<\/h4>\n<ol>\n<li>In the WordPress admin left menu, select [WooCommerce] &gt; [Settings] &gt; [Payments].<\/li>\n<li>Under Method, check the \u201cEnabled\u201d checkbox for Binance Pay\u201d.<\/li>\n<li>Select [Manage] next to the Binance Pay plugin.<\/li>\n<li>Enter your API credentials and you are ready to accept payment with Binance Pay.<\/li>\n<\/ol>\n",
+        "faq": "<p>Read more about Binance Pay <a href=\"https:\/\/www.binance.com\/en\/support\/faq\/what-is-binance-pay-d6fabc736d1f4e7fb60e56afe6d1f3b9\" rel=\"nofollow ugc\">here<\/a>.<\/p>\n",
+        "changelog": "<h4>1.0.0<\/h4>\n<ul>\n<li>Beta release<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Add cancel url for checkout<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>Update readme.txt<\/li>\n<\/ul>\n<h4>1.0.3<\/h4>\n<ul>\n<li>Update readme.txt<\/li>\n<\/ul>\n<h4>1.1.0<\/h4>\n<ul>\n<li>Support the configuration of fiat currency, with fiat selection, your customers will pay you with equivalent USDT, and your settlement currency will be in USDT as well.<\/li>\n<\/ul>\n<h4>1.1.4<\/h4>\n<ul>\n<li>Remove the BUSD, and change the default currency to USDT<\/li>\n<\/ul>\n<h4>1.1.5<\/h4>\n<ul>\n<li>Fix the timestamp precision issue for versions of PHP prior to 7.3<\/li>\n<\/ul>\n<h4>1.1.7<\/h4>\n<ul>\n<li>Fix the svg icon issue<\/li>\n<\/ul>\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Very Bad , website turned off<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mazalzain\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/3ffafb64421e4613fb41ae679e4ac513?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/3ffafb64421e4613fb41ae679e4ac513?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mazalzain\/\" class=\"reviewer-name\">mazalzain<\/a> on <span class=\"review-date\">March 9, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">My website turned off after adding this plugin <br \/>and WordPress asks for troubleshooting <br \/>to make your site live again do the following steps :<br \/>- Access your cpanel <br \/>- Access your file manager <br \/>- If you have many sites , dive into the site that you tried to add this plugin ?<br \/>- search for (binance ) and delete the plugin , select all , right click , delete<br \/>and your site will work again <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:image -->\n<figure class=\"wp-block-image\"><img alt=\"\" \/><\/figure>\n<!-- \/wp:image --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Anh Noi<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/nhanhgon1\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/a307d2000844d5ce556fb3ccdaea80d9?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/a307d2000844d5ce556fb3ccdaea80d9?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/nhanhgon1\/\" class=\"reviewer-name\">nhanhgon1<\/a> on <span class=\"review-date\">January 11, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">It no longer seems to work. <strong><em>Payment error: Invalid API-key, IP, or permissions for action, request ip: **.187.128.<\/em><\/strong>**<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Doesn&#039;t work<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/geraldsalobehajviscaelbarca\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/51ca01eb18c107f36d075bfebe4cdfaa?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/51ca01eb18c107f36d075bfebe4cdfaa?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/geraldsalobehajviscaelbarca\/\" class=\"reviewer-name\">geraldsalobehajviscaelbarca<\/a> on <span class=\"review-date\">January 8, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">It stopped working and clients can't pay nor they do get redirected to the binance pay website to pay.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">No support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/marcin985sfg98ef\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d30c9abb9d7196249ee584fa75f47261?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d30c9abb9d7196249ee584fa75f47261?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/marcin985sfg98ef\/\" class=\"reviewer-name\">FXWare <small>(marcin985sfg98ef)<\/small><\/a> on <span class=\"review-date\">September 21, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Major bug not resolved and no support answer for three weeks. Not cool. If you're relying on this for your site, think twice.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/dzi022\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/cb3c123df3f36d4648aee96305fd28cd?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/cb3c123df3f36d4648aee96305fd28cd?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/dzi022\/\" class=\"reviewer-name\">Igor <small>(dzi022)<\/small><\/a> on <span class=\"review-date\">May 20, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>A fantastic plugin that has greatly enhanced my website. The interface is user-friendly, and the features are impressive. The support team is responsive and helpful. I highly recommend it to all users!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Binance Pay Checkout for WooCommerce.",
+    "description": "<p>Binance Pay is a contactless, borderless, and secure cryptocurrency payment technology designed by Binance. Binance Pay allows Binance customers to pay and get paid in crypto from their friends and family worldwide. WooCommerce Binance Pay provides comprehensive yet straightforward payment processing. It provides a seamless checkout experience for your consumers.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/binance-pay.1.1.7.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "binancepay": "BinancePay",
+        "bitcoin": "bitcoin",
+        "crypto": "crypto",
+        "cryptocurrency": "cryptocurrency",
+        "payments": "payments"
+    },
+    "stable_tag": "1.1.7",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/binance-pay.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/binance-pay.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/binance-pay.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/binance-pay.1.0.3.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/binance-pay.1.1.0.zip",
+        "1.1.1": "https:\/\/downloads.wordpress.org\/plugin\/binance-pay.1.1.1.zip",
+        "1.1.2": "https:\/\/downloads.wordpress.org\/plugin\/binance-pay.1.1.2.zip",
+        "1.1.3": "https:\/\/downloads.wordpress.org\/plugin\/binance-pay.1.1.3.zip",
+        "1.1.4": "https:\/\/downloads.wordpress.org\/plugin\/binance-pay.1.1.4.zip",
+        "1.1.5": "https:\/\/downloads.wordpress.org\/plugin\/binance-pay.1.1.5.zip",
+        "1.1.6": "https:\/\/downloads.wordpress.org\/plugin\/binance-pay.1.1.6.zip",
+        "1.1.7": "https:\/\/downloads.wordpress.org\/plugin\/binance-pay.1.1.7.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/binance-pay.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/binance-pay\/assets\/icon-256x256.png?rev=2961093",
+        "2x": "https:\/\/ps.w.org\/binance-pay\/assets\/icon-256x256.png?rev=2961093"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 36,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "binance-pay",
+            "language": "es_ES",
+            "version": "1.1.5",
+            "updated": "2023-05-30 09:42:06",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/binance-pay\/1.1.5\/es_ES.zip"
+        }
+    ]
+}

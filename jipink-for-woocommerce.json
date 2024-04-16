@@ -1,0 +1,91 @@
+{
+    "name": "Jipink for WooCommerce",
+    "slug": "jipink-for-woocommerce",
+    "version": "2.1",
+    "author": "<a href=\"https:\/\/jipink.com\">Jipink<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/jipink\/",
+    "contributors": {
+        "jipink": {
+            "profile": "https:\/\/profiles.wordpress.org\/jipink\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/7176c9c68a62e02566392daef0022f02?s=96&d=monsterid&r=g",
+            "display_name": "Jipink"
+        }
+    },
+    "requires": "6.2",
+    "tested": "6.5.2",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/jipink-for-woocommerce\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 20,
+    "downloaded": 1102,
+    "last_updated": "2024-04-11 12:51am GMT",
+    "added": "2021-04-29",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Concret\u00e1 m\u00e1s ventas con entregas superr\u00e1pidas, agiliz\u00e1 tu operaci\u00f3n y ofrec\u00e9 una experiencia de compra sin fricciones.<\/p>\n<ul>\n<li>Env\u00edos, cambios y devoluciones en el d\u00eda<\/li>\n<li>Log\u00edstica inversa simplificada y en solo un click<\/li>\n<li>Seguimiento en tiempo real, de punta a punta<\/li>\n<li>Integrado con tu tienda WooCommerce<\/li>\n<\/ul>\n<p>Empez\u00e1 hoy mismo haciendo click <a href=\"https:\/\/www.jipink.com\/#contacto\" rel=\"nofollow ugc\">ac\u00e1<\/a>.<\/p>\n<p>Conoc\u00e9 m\u00e1s sobre nuestra integraci\u00f3n para WooCommerce en este <a href=\"https:\/\/academy.jipink.com\/docs\/integraciones\/integracion-con-woocommerce\" rel=\"nofollow ugc\">tutorial<\/a>.<\/p>\n<p>\u00bfTen\u00e9s dudas? \u00a1<a href=\"https:\/\/www.jipink.com\/#contacto\" rel=\"nofollow ugc\">contactanos<\/a>!<\/p>\n",
+        "installation": "<ol>\n<li>Instalar el plugin desde el directorio de plugins de WordPress.<\/li>\n<li>Activar el plugin desde la secci\u00f3n de plugins instalados de WordPress.<\/li>\n<li>Configurar las zonas de env\u00edo en WooCommerce &gt; Ajustes &gt; Env\u00edo.<\/li>\n<li>Configurar el plugin en la secci\u00f3n Jipink &gt; Ajustes.<\/li>\n<\/ol>\n",
+        "changelog": "<h4>2.1.0<\/h4>\n<ul>\n<li>Ofrec\u00e9 env\u00edos gratis a partir de cierto monto<\/li>\n<\/ul>\n<h4>2.0.0<\/h4>\n<ul>\n<li>Utilizaci\u00f3n del n\u00famero de orden como c\u00f3digo de referencia<\/li>\n<li>Configuraci\u00f3n para establecer el estado de la orden en el que se crea el env\u00edo<\/li>\n<li>Acceso al tracking del env\u00edo desde el detalle de la orden<\/li>\n<li>Correcci\u00f3n de error en las direcciones de destino<\/li>\n<li>Correcci\u00f3n de error al cambiar el estado de la orden<\/li>\n<\/ul>\n<h4>1.0.3<\/h4>\n<ul>\n<li>Sincronizaci\u00f3n de cambios de estados y datos de env\u00edos de las ordenes<\/li>\n<li>Mejoras en la integraci\u00f3n entre WooCommerce y Jipink<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>Sincronizaci\u00f3n de cambios de estados y datos de env\u00edos de las ordenes<\/li>\n<li>Mejoras en la integraci\u00f3n entre WooCommerce y Jipink<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Mejoras en la sincronizaci\u00f3n de ordenes entre WooCommerce y Jipink<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Primera versi\u00f3n del plugin de Jipink para tiendas de WooCommerce<\/li>\n<li>Cotizacion del envi\u00edo basada en c\u00f3digo postal<\/li>\n<li>Sincronizaci\u00f3n de nuevas ordenes con Jipink<\/li>\n<\/ul>\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excelente servicio y soporte<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/nicolasazrak\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d561617561fef59333c7e99b44986ea6?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d561617561fef59333c7e99b44986ea6?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/nicolasazrak\/\" class=\"reviewer-name\">nicolasazrak<\/a> on <span class=\"review-date\">April 29, 2021<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">El servicio de entregas en el dia funciona perfecto, el soporte tecnico es excelente, me respondieron rapidisimo y me guiaron en el proceso de configuracion del plugin en mi tienda.<\/div>\n<\/div>\n"
+    },
+    "short_description": "Log\u00edstica integral para potenciar tu eCommerce en Argentina.",
+    "description": "<p>Concret\u00e1 m\u00e1s ventas con entregas superr\u00e1pidas, agiliz\u00e1 tu operaci\u00f3n y ofrec\u00e9 una experiencia de compra sin fricciones.<\/p>\n<ul>\n<li>Env\u00edos, cambios y devoluciones en el d\u00eda<\/li>\n<li>Log\u00edstica inversa simplificada y en solo un click<\/li>\n<li>Seguimiento en tiempo real, de punta a punta<\/li>\n<li>Integrado con tu tienda WooCommerce<\/li>\n<\/ul>\n<p>Empez\u00e1 hoy mismo haciendo click <a href=\"https:\/\/www.jipink.com\/#contacto\" rel=\"nofollow ugc\">ac\u00e1<\/a>.<\/p>\n<p>Conoc\u00e9 m\u00e1s sobre nuestra integraci\u00f3n para WooCommerce en este <a href=\"https:\/\/academy.jipink.com\/docs\/integraciones\/integracion-con-woocommerce\" rel=\"nofollow ugc\">tutorial<\/a>.<\/p>\n<p>\u00bfTen\u00e9s dudas? \u00a1<a href=\"https:\/\/www.jipink.com\/#contacto\" rel=\"nofollow ugc\">contactanos<\/a>!<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/jipink-for-woocommerce.zip",
+    "upgrade_notice": {
+        "2.0.0": "<ul>\n<li>Utilizaci\u00f3n del n\u00famero de orden como c\u00f3digo de referencia<\/li>\n<li>Configuraci\u00f3n para establecer el estado de la orden en el que se crea el env\u00edo<\/li>\n<li>Acceso al tracking del env\u00edo desde el detalle de la orden<\/li>\n<li>Correcci\u00f3n de error en las direcciones de destino<\/li>\n<li>Correcci\u00f3n de error al cambiar el estado de la orden<\/li>\n<\/ul>",
+        "1.0.2": "<ul>\n<li>Sincronizaci\u00f3n de cambios de estados y datos de env\u00edos de las ordenes<\/li>\n<li>Mejoras en la integraci\u00f3n entre WooCommerce y Jipink<\/li>\n<\/ul>",
+        "1.0.1": "<ul>\n<li>Mejoras en la sincronizaci\u00f3n de ordenes entre WooCommerce y Jipink<\/li>\n<\/ul>",
+        "1.0.0": "<ul>\n<li>Primera versi\u00f3n del plugin de Jipink para tiendas de WooCommerce<\/li>\n<li>Cotizacion del envi\u00edo basada en c\u00f3digo postal<\/li>\n<li>Sincronizaci\u00f3n de nuevas ordenes con Jipink<\/li>\n<\/ul>"
+    },
+    "screenshots": [],
+    "tags": {
+        "argentina": "Argentina",
+        "envios": "Envios",
+        "jipink": "jipink",
+        "logistica": "logistica",
+        "shipping": "shipping"
+    },
+    "stable_tag": "trunk",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/jipink-for-woocommerce.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/jipink-for-woocommerce.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/jipink-for-woocommerce.1.0.2.zip",
+        "2.0.0": "https:\/\/downloads.wordpress.org\/plugin\/jipink-for-woocommerce.2.0.0.zip",
+        "2.1.0": "https:\/\/downloads.wordpress.org\/plugin\/jipink-for-woocommerce.2.1.0.zip",
+        "2.1.1": "https:\/\/downloads.wordpress.org\/plugin\/jipink-for-woocommerce.2.1.1.zip",
+        "2.1.2": "https:\/\/downloads.wordpress.org\/plugin\/jipink-for-woocommerce.2.1.2.zip",
+        "2.1.3": "https:\/\/downloads.wordpress.org\/plugin\/jipink-for-woocommerce.2.1.3.zip",
+        "2.1.4": "https:\/\/downloads.wordpress.org\/plugin\/jipink-for-woocommerce.2.1.4.zip",
+        "2.1.5": "https:\/\/downloads.wordpress.org\/plugin\/jipink-for-woocommerce.2.1.5.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/jipink-for-woocommerce\/assets\/banner-772x250.png?rev=3068108",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/jipink-for-woocommerce\/assets\/icon-256x256.png?rev=3068108",
+        "2x": "https:\/\/ps.w.org\/jipink-for-woocommerce\/assets\/icon-256x256.png?rev=3068108"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

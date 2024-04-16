@@ -1,0 +1,136 @@
+{
+    "name": "Simple Digital Clock \ud83d\udd52",
+    "slug": "simple-digital-clock",
+    "version": "0.2.0",
+    "author": "<a href=\"https:\/\/utctime.info\/\">UTCTime.info<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/falselight\/",
+    "contributors": {
+        "falselight": {
+            "profile": "https:\/\/profiles.wordpress.org\/falselight\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/44230108b70ea499dbf25a137f815750?s=96&d=monsterid&r=g",
+            "display_name": "falselight"
+        }
+    },
+    "requires": "6.3",
+    "tested": "6.5.2",
+    "requires_php": "5.3",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/simple-digital-clock\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 162,
+    "last_updated": "2024-03-23 6:04pm GMT",
+    "added": "2024-03-22",
+    "homepage": "https:\/\/utctime.info\/",
+    "sections": {
+        "changelog": "<h4>0.2.0<\/h4>\n<ul>\n<li>Update Clock JS<\/li>\n<li>Minor bugs fixed<\/li>\n<\/ul>\n<h4>0.1.1<\/h4>\n<ul>\n<li>Minor bugs fixed<\/li>\n<\/ul>\n<h4>0.1.0<\/h4>\n<ul>\n<li>First release<\/li>\n<\/ul>\n",
+        "description": "<p>It is \ud83e\ude84 a magical and easy-to-use digital clock with a beautiful UI, supporting multiple languages, locales, dates, captions, and time zones.<\/p>\n<h3>\ud83d\udccc Description<\/h3>\n<p>The Digital Clock Widget \u2013 the perfect addition to your website! This sleek and minimalist digital clock Gutenberg block (widget) offers a quick and easy way to display the current time on your site. With its clean design and unobtrusive style, it seamlessly blends into any webpage. Whether you&#8217;re running a blog, an e-commerce store, or a personal website, our widget keeps your visitors informed with accurate, real-time information. Easy to install and highly customizable, it&#8217;s the ideal choice for adding a touch of professionalism to your online presence. Upgrade your website today with the Simple Digital Clock Widget and keep your audience in sync with the times!<\/p>\n<p><a href=\"https:\/\/yuri.ws\/uncategorized\/simple-digital-clock\/\" rel=\"nofollow ugc\">DEMO<\/a>\ud83d\udc40 | <a href=\"https:\/\/codepen.io\/dejurin\/pen\/KKJZWjV\" rel=\"nofollow ugc\">DEMO<\/a>\ud83d\udc40<\/p>\n<p>The plugin contains compressed JS code in order to save space and optimize the script. Following the WordPress community rules, we have opened a repository so that you can check and make sure that this code is malware-free and will not cause problems to its users.<br \/>\nGithub: https:\/\/github.com\/Timenow-zone\/Simple-Digital-Clock-Widget<\/p>\n<h4>\u2b50\ufe0f FEATURES \u2b50\ufe0f<\/h4>\n<ul>\n<li>\ud83d\ude80 Lightweight (9kb gzip) with CDN support;<\/li>\n<li>\ud83d\udde3 Locale support: format time and date;<\/li>\n<li>\ud83c\udf10 Time zone support included;<\/li>\n<li>\ud83d\udcdd Uses Google Mono Font for a sleek look;<\/li>\n<li>\ud83c\udfa8 Flexible styling options;<\/li>\n<li>\ud83d\udda5\ufe0f Processed on a third-party server;<\/li>\n<li>\ud83d\udcaf Completely free, no advertisements;<\/li>\n<li>\ud83d\udd12 SSL support;<\/li>\n<li>\ud83d\udcf1 Mobile-friendly;<\/li>\n<li>\ud83d\udd0d SEO-friendly.<\/li>\n<\/ul>\n<h3>\ud83d\udccc Installation<\/h3>\n<h4>From your WordPress dashboard<\/h4>\n<ol>\n<li>Visit &#8220;Plugins &gt; Add New&#8221;<\/li>\n<li>Search for &#8220;Simple Digital Clock&#8221;<\/li>\n<li>Activate &#8220;Simple Digital Clock&#8221; from your Plugins page.<\/li>\n<li>Add widgets on yourdomain.com\/wp-admin\/widgets.php page.<\/li>\n<\/ol>\n<h4>From WordPress.org<\/h4>\n<ol>\n<li>Download &#8220;Simple Digital Clock&#8221;.<\/li>\n<li>Upload the &#8220;Simple Digital Clock&#8221; directory to your &#8220;\/wp-content\/plugins\/&#8221; directory, using your favorite method (ftp, sftp, scp, etc&#8230;).<\/li>\n<li>Activate &#8220;Simple Digital Clock&#8221; from your Plugins page.<\/li>\n<li>Add widgets on yourdomain.com\/wp-admin\/widgets.php page.<\/li>\n<\/ol>\n<h3>\ud83c\udf69 Donations<\/h3>\n<p>\ud83d\ude80 Widget: <a href=\"https:\/\/timenow.zone\/widgets\/simple-digital\" rel=\"nofollow ugc\">HTML<\/a><br \/>\n\ud83d\udd52 Sync Time: <a href=\"https:\/\/utctime.info\/\" rel=\"nofollow ugc\">UTC<\/a><br \/>\n\ud83d\uddd3\ufe0f Today&#8217;s Date: <a href=\"https:\/\/todaysdatenow.com\/\" rel=\"nofollow ugc\">TodaysDateNow<\/a><\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/simple-digital-clock\/assets\/screenshot-1.png?rev=3056848\"><img src=\"https:\/\/ps.w.org\/simple-digital-clock\/assets\/screenshot-1.png?rev=3056848\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/simple-digital-clock\/assets\/screenshot-2.png?rev=3056848\"><img src=\"https:\/\/ps.w.org\/simple-digital-clock\/assets\/screenshot-2.png?rev=3056848\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/simple-digital-clock\/assets\/screenshot-3.png?rev=3056848\"><img src=\"https:\/\/ps.w.org\/simple-digital-clock\/assets\/screenshot-3.png?rev=3056848\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "It is \ud83e\ude84 a magical and easy-to-use digital clock with a beautiful UI, supporting multiple languages, locales, dates, captions, and time zones.",
+    "description": "<p>It is \ud83e\ude84 a magical and easy-to-use digital clock with a beautiful UI, supporting multiple languages, locales, dates, captions, and time zones.<\/p>\n<h3>\ud83d\udccc Description<\/h3>\n<p>The Digital Clock Widget \u2013 the perfect addition to your website! This sleek and minimalist digital clock Gutenberg block (widget) offers a quick and easy way to display the current time on your site. With its clean design and unobtrusive style, it seamlessly blends into any webpage. Whether you&#8217;re running a blog, an e-commerce store, or a personal website, our widget keeps your visitors informed with accurate, real-time information. Easy to install and highly customizable, it&#8217;s the ideal choice for adding a touch of professionalism to your online presence. Upgrade your website today with the Simple Digital Clock Widget and keep your audience in sync with the times!<\/p>\n<p><a href=\"https:\/\/yuri.ws\/uncategorized\/simple-digital-clock\/\" rel=\"nofollow ugc\">DEMO<\/a>\ud83d\udc40 | <a href=\"https:\/\/codepen.io\/dejurin\/pen\/KKJZWjV\" rel=\"nofollow ugc\">DEMO<\/a>\ud83d\udc40<\/p>\n<p>The plugin contains compressed JS code in order to save space and optimize the script. Following the WordPress community rules, we have opened a repository so that you can check and make sure that this code is malware-free and will not cause problems to its users.<br \/>\nGithub: https:\/\/github.com\/Timenow-zone\/Simple-Digital-Clock-Widget<\/p>\n<h4>\u2b50\ufe0f FEATURES \u2b50\ufe0f<\/h4>\n<ul>\n<li>\ud83d\ude80 Lightweight (9kb gzip) with CDN support;<\/li>\n<li>\ud83d\udde3 Locale support: format time and date;<\/li>\n<li>\ud83c\udf10 Time zone support included;<\/li>\n<li>\ud83d\udcdd Uses Google Mono Font for a sleek look;<\/li>\n<li>\ud83c\udfa8 Flexible styling options;<\/li>\n<li>\ud83d\udda5\ufe0f Processed on a third-party server;<\/li>\n<li>\ud83d\udcaf Completely free, no advertisements;<\/li>\n<li>\ud83d\udd12 SSL support;<\/li>\n<li>\ud83d\udcf1 Mobile-friendly;<\/li>\n<li>\ud83d\udd0d SEO-friendly.<\/li>\n<\/ul>\n<h3>\ud83d\udccc Installation<\/h3>\n<h4>From your WordPress dashboard<\/h4>\n<ol>\n<li>Visit &#8220;Plugins &gt; Add New&#8221;<\/li>\n<li>Search for &#8220;Simple Digital Clock&#8221;<\/li>\n<li>Activate &#8220;Simple Digital Clock&#8221; from your Plugins page.<\/li>\n<li>Add widgets on yourdomain.com\/wp-admin\/widgets.php page.<\/li>\n<\/ol>\n<h4>From WordPress.org<\/h4>\n<ol>\n<li>Download &#8220;Simple Digital Clock&#8221;.<\/li>\n<li>Upload the &#8220;Simple Digital Clock&#8221; directory to your &#8220;\/wp-content\/plugins\/&#8221; directory, using your favorite method (ftp, sftp, scp, etc&#8230;).<\/li>\n<li>Activate &#8220;Simple Digital Clock&#8221; from your Plugins page.<\/li>\n<li>Add widgets on yourdomain.com\/wp-admin\/widgets.php page.<\/li>\n<\/ol>\n<h3>\ud83c\udf69 Donations<\/h3>\n<p>\ud83d\ude80 Widget: <a href=\"https:\/\/timenow.zone\/widgets\/simple-digital\" rel=\"nofollow ugc\">HTML<\/a><br \/>\n\ud83d\udd52 Sync Time: <a href=\"https:\/\/utctime.info\/\" rel=\"nofollow ugc\">UTC<\/a><br \/>\n\ud83d\uddd3\ufe0f Today&#8217;s Date: <a href=\"https:\/\/todaysdatenow.com\/\" rel=\"nofollow ugc\">TodaysDateNow<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/simple-digital-clock.0.2.0.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/simple-digital-clock\/assets\/screenshot-1.png?rev=3056848",
+            "caption": ""
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/simple-digital-clock\/assets\/screenshot-2.png?rev=3056848",
+            "caption": ""
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/simple-digital-clock\/assets\/screenshot-3.png?rev=3056848",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "clock": "clock",
+        "current-time": "current time",
+        "digital-clock": "digital clock",
+        "local-times": "local times",
+        "world-clock": "world clock"
+    },
+    "stable_tag": "0.2.0",
+    "versions": {
+        "0.1.0": "https:\/\/downloads.wordpress.org\/plugin\/simple-digital-clock.0.1.0.zip",
+        "0.1.1": "https:\/\/downloads.wordpress.org\/plugin\/simple-digital-clock.0.1.1.zip",
+        "0.2.0": "https:\/\/downloads.wordpress.org\/plugin\/simple-digital-clock.0.2.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/simple-digital-clock.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/utctime.info\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/simple-digital-clock\/assets\/banner-772x250.jpg?rev=3056816",
+        "high": "https:\/\/ps.w.org\/simple-digital-clock\/assets\/banner-1544x500.jpg?rev=3056812"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/simple-digital-clock\/assets\/icon-128x128.gif?rev=3056841",
+        "2x": "https:\/\/ps.w.org\/simple-digital-clock\/assets\/icon-256x256.gif?rev=3056841"
+    },
+    "blocks": {
+        "simple-digital-clock-block\/widget-block": {
+            "name": "simple-digital-clock-block\/widget-block",
+            "title": "Simple Digital Clock \ud83d\udd52"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 0,
+    "blueprints": [
+        {
+            "filename": "blueprint.json",
+            "url": "https:\/\/wordpress.org\/plugins\/wp-json\/plugins\/v1\/plugin\/simple-digital-clock\/blueprint.json?rev=3057468"
+        }
+    ],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "simple-digital-clock",
+            "language": "en_GB",
+            "version": "0.2.0",
+            "updated": "2024-03-24 16:00:48",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/simple-digital-clock\/0.2.0\/en_GB.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "simple-digital-clock",
+            "language": "es_MX",
+            "version": "0.2.0",
+            "updated": "2024-03-25 13:50:47",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/simple-digital-clock\/0.2.0\/es_MX.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "simple-digital-clock",
+            "language": "ro_RO",
+            "version": "0.2.0",
+            "updated": "2024-03-24 17:03:40",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/simple-digital-clock\/0.2.0\/ro_RO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "simple-digital-clock",
+            "language": "uk",
+            "version": "0.2.0",
+            "updated": "2024-03-23 19:01:41",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/simple-digital-clock\/0.2.0\/uk.zip"
+        }
+    ]
+}

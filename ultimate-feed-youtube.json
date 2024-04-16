@@ -1,0 +1,83 @@
+{
+    "name": "Ultimate YouTube Feed Elementor Addons",
+    "slug": "ultimate-feed-youtube",
+    "version": "1.0.0",
+    "author": "<a href=\"https:\/\/wpmet.com\/\">Wpmet<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/wpmet\/",
+    "contributors": {
+        "xpeedstudio": {
+            "profile": "https:\/\/profiles.wordpress.org\/xpeedstudio\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/9311be5ce267cdff860656bb2375e135?s=96&d=monsterid&r=g",
+            "display_name": "XpeedStudio"
+        },
+        "ataurr": {
+            "profile": "https:\/\/profiles.wordpress.org\/ataurr\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/c1f037a92baa3f68f165767da18711e4?s=96&d=monsterid&r=g",
+            "display_name": "Ataur R"
+        },
+        "emranio": {
+            "profile": "https:\/\/profiles.wordpress.org\/emranio\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/07f48aaf90c97745b95bf78980eefefc?s=96&d=monsterid&r=g",
+            "display_name": "Emran"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.3.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/ultimate-feed-youtube\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 49,
+    "last_updated": "2024-04-07 6:32am GMT",
+    "added": "2024-04-07",
+    "homepage": "https:\/\/wpmet.com\/plugin\/gutenkit\/",
+    "sections": {
+        "description": "<p>Advanced youtube feed builder for elemetor.<\/p>\n",
+        "changelog": "<p>Version: 1.0.0 (2023-10-19)<br \/>\nInitial Release.<\/p>\n",
+        "reviews": ""
+    },
+    "short_description": "The Elementor Addons provides various premium and free Elementor addons. The plugin include widgets to create youtube feed.",
+    "description": "<p>Advanced youtube feed builder for elemetor.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-feed-youtube.1.0.0.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "elementor-addon": "elementor addon",
+        "elementor-addons": "elementor addons",
+        "elementor-widgets": "elementor widgets",
+        "widgets-for-elementor": "widgets for elementor",
+        "youtube-feed-builder": "youtube feed builder"
+    },
+    "stable_tag": "1.0.0",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-feed-youtube.1.0.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-feed-youtube.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "default": "https:\/\/s.w.org\/plugins\/geopattern-icon\/ultimate-feed-youtube.svg"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

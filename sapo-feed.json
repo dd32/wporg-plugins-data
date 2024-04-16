@@ -1,0 +1,78 @@
+{
+    "name": "SAPO Feed",
+    "slug": "sapo-feed",
+    "version": "2.3.0",
+    "author": "<a href=\"https:\/\/www.sapo.pt\/\">SAPO<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/portalsapo\/",
+    "contributors": {
+        "portalsapo": {
+            "profile": "https:\/\/profiles.wordpress.org\/portalsapo\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/618242e138f030071fc4db789f1710e8?s=96&d=monsterid&r=g",
+            "display_name": "SAPO"
+        }
+    },
+    "requires": "4.6",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/sapo-feed\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 40,
+    "downloaded": 1371,
+    "last_updated": "2024-03-13 4:06pm GMT",
+    "added": "2020-06-30",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Este plugin gera uma feed simples, processando posts publicados no seu site num formato compat\u00edvel com servi\u00e7os SAPO.<\/p>\n<p>Depois de ativado, a feed completa fica acess\u00edvel em &#8212; por exemplo &#8212; https:\/\/omeusite.pt\/feed\/sapo<\/p>\n<p>\u00c9 poss\u00edvel filtrar conte\u00fado das seguintes formas:<\/p>\n<ul>\n<li>Conte\u00fado de uma categoria: https:\/\/omeusite.pt\/feed\/sapo?category=destaques<\/li>\n<li>Conte\u00fado de m\u00faltiplas categorias: https:\/\/omeusite.pt\/feed\/sapo?category=economia,cultura<\/li>\n<li>Conte\u00fado de uma etiqueta: https:\/\/omeusite.pt\/feed\/sapo?tags=governo<\/li>\n<li>Conte\u00fado de m\u00faltiplas etiquetas: https:\/\/omeusite.pt\/feed\/sapo?tags=teatro,cinema<\/li>\n<\/ul>\n<p>Um pedido com m\u00faltiplas categorias e etiquetas devolve todos os artigos que perten\u00e7am a pelo menos uma das categorias e que tenham pelo menos uma das etiquetas pedidas. H\u00e1 um limite de 20 posts que pode ser alterado atrav\u00e9s do ecr\u00e3 de op\u00e7\u00f5es.<\/p>\n<p>Para autores que necessitem de modificar o conte\u00fado dos seus artigos antes (ou depois) do processamento efectuado pelo plugin, dois filtros s\u00e3o disponibilizados:<\/p>\n<ul>\n<li><code>sapo_feed_handle_post_content_before<\/code>: recebe o conte\u00fado de um post, para ser alterado antes do processamento.<\/li>\n<li><code>sapo_feed_handle_post_content_after<\/code>: recebe o objecto que representa o post processado, para ser alterado antes da cria\u00e7\u00e3o da feed, e o objecto original que representa o post.<\/li>\n<\/ul>\n",
+        "changelog": "<h4>2.3.0<\/h4>\n<ul>\n<li>Adicionado suporte para filtros: &#8216;sapo_feed_handle_post_content_before&#8217;, &#8216;sapo_feed_handle_post_content_after&#8217;.<\/li>\n<\/ul>\n<h4>2.2.1<\/h4>\n<ul>\n<li>Melhorias de suporte ao editor cl\u00e1ssico.<\/li>\n<\/ul>\n<h4>2.2.0<\/h4>\n<ul>\n<li>Melhorias na constru\u00e7\u00e3o da feed.<\/li>\n<\/ul>\n<h4>2.1.2<\/h4>\n<ul>\n<li>Revalida\u00e7\u00e3o de compatibilidade.<\/li>\n<\/ul>\n<h4>2.1.1<\/h4>\n<ul>\n<li>Corre\u00e7\u00f5es de CSS.<\/li>\n<\/ul>\n<h4>2.1.0<\/h4>\n<ul>\n<li>Adicionado suporte para inser\u00e7\u00e3o de informa\u00e7\u00e3o geogr\u00e1fica no editor cl\u00e1ssico.<\/li>\n<\/ul>\n<h4>2.0.1<\/h4>\n<ul>\n<li>Corre\u00e7\u00e3o de erros na sele\u00e7\u00e3o de concelhos das regi\u00f5es aut\u00f3nomas.<\/li>\n<\/ul>\n<h4>2.0.0<\/h4>\n<ul>\n<li>Adicionado suporte para informa\u00e7\u00e3o geogr\u00e1fica.<\/li>\n<\/ul>\n<h4>1.2.2<\/h4>\n<ul>\n<li>Melhorias na constru\u00e7\u00e3o da feed, no que se refere a t\u00edtulos.<\/li>\n<\/ul>\n<h4>1.2.1<\/h4>\n<ul>\n<li>Melhorias na constru\u00e7\u00e3o da feed.<\/li>\n<\/ul>\n<h4>1.2.0<\/h4>\n<ul>\n<li>Adi\u00e7\u00e3o da possibilidade de pedir conte\u00fado de m\u00faltiplas categorias com apenas um pedido.<\/li>\n<\/ul>\n<h4>1.1.6<\/h4>\n<ul>\n<li>Corre\u00e7\u00f5es de erros. Melhorias de estabilidade.<\/li>\n<\/ul>\n<h4>1.1.5<\/h4>\n<ul>\n<li>Melhorias de seguran\u00e7a e performance.<\/li>\n<\/ul>\n<h4>1.1.4<\/h4>\n<ul>\n<li>Atualiza\u00e7\u00e3o da documenta\u00e7\u00e3o.<\/li>\n<\/ul>\n<h4>1.1.3<\/h4>\n<ul>\n<li>Filtrar conte\u00fado program\u00e1tico dos posts.<\/li>\n<\/ul>\n<h4>1.1.2<\/h4>\n<ul>\n<li>Refor\u00e7ar toler\u00e2ncia a erros no processamento de cada post.<\/li>\n<\/ul>\n<h4>1.1.1<\/h4>\n<ul>\n<li>Corre\u00e7\u00f5es.<\/li>\n<\/ul>\n<h4>1.1.0<\/h4>\n<ul>\n<li>Adi\u00e7\u00e3o de suporte para tipos de posts personalizados.<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>Remo\u00e7\u00e3o de formata\u00e7\u00e3o na lead dos posts.<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Circunscrever conte\u00fados apenas a posts publicados.<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Vers\u00e3o inicial.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/sapo-feed\/assets\/screenshot-1.png?rev=2519632\"><img src=\"https:\/\/ps.w.org\/sapo-feed\/assets\/screenshot-1.png?rev=2519632\" alt=\"O ecr\u00e3 de op\u00e7\u00f5es.\"><\/a><p>O ecr\u00e3 de op\u00e7\u00f5es.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/sapo-feed\/assets\/screenshot-2.png?rev=2519632\"><img src=\"https:\/\/ps.w.org\/sapo-feed\/assets\/screenshot-2.png?rev=2519632\" alt=\"Inser\u00e7\u00e3o de informa\u00e7\u00e3o geogr\u00e1fica.\"><\/a><p>Inser\u00e7\u00e3o de informa\u00e7\u00e3o geogr\u00e1fica.<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Este plugin gera uma feed num formato compat\u00edvel com servi\u00e7os SAPO.",
+    "description": "<p>Este plugin gera uma feed simples, processando posts publicados no seu site num formato compat\u00edvel com servi\u00e7os SAPO.<\/p>\n<p>Depois de ativado, a feed completa fica acess\u00edvel em &#8212; por exemplo &#8212; https:\/\/omeusite.pt\/feed\/sapo<\/p>\n<p>\u00c9 poss\u00edvel filtrar conte\u00fado das seguintes formas:<\/p>\n<ul>\n<li>Conte\u00fado de uma categoria: https:\/\/omeusite.pt\/feed\/sapo?category=destaques<\/li>\n<li>Conte\u00fado de m\u00faltiplas categorias: https:\/\/omeusite.pt\/feed\/sapo?category=economia,cultura<\/li>\n<li>Conte\u00fado de uma etiqueta: https:\/\/omeusite.pt\/feed\/sapo?tags=governo<\/li>\n<li>Conte\u00fado de m\u00faltiplas etiquetas: https:\/\/omeusite.pt\/feed\/sapo?tags=teatro,cinema<\/li>\n<\/ul>\n<p>Um pedido com m\u00faltiplas categorias e etiquetas devolve todos os artigos que perten\u00e7am a pelo menos uma das categorias e que tenham pelo menos uma das etiquetas pedidas. H\u00e1 um limite de 20 posts que pode ser alterado atrav\u00e9s do ecr\u00e3 de op\u00e7\u00f5es.<\/p>\n<p>Para autores que necessitem de modificar o conte\u00fado dos seus artigos antes (ou depois) do processamento efectuado pelo plugin, dois filtros s\u00e3o disponibilizados:<\/p>\n<ul>\n<li><code>sapo_feed_handle_post_content_before<\/code>: recebe o conte\u00fado de um post, para ser alterado antes do processamento.<\/li>\n<li><code>sapo_feed_handle_post_content_after<\/code>: recebe o objecto que representa o post processado, para ser alterado antes da cria\u00e7\u00e3o da feed, e o objecto original que representa o post.<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/sapo-feed.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/sapo-feed\/assets\/screenshot-1.png?rev=2519632",
+            "caption": "O ecr\u00e3 de op\u00e7\u00f5es."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/sapo-feed\/assets\/screenshot-2.png?rev=2519632",
+            "caption": "Inser\u00e7\u00e3o de informa\u00e7\u00e3o geogr\u00e1fica."
+        }
+    },
+    "tags": [],
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/sapo-feed\/assets\/banner-772x250.png?rev=2332882",
+        "high": "https:\/\/ps.w.org\/sapo-feed\/assets\/banner-1544x500.png?rev=2332882"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/sapo-feed\/assets\/icon-128x128.png?rev=2332882",
+        "2x": "https:\/\/ps.w.org\/sapo-feed\/assets\/icon-256x256.png?rev=2332882"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

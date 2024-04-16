@@ -1,0 +1,103 @@
+{
+    "name": "Comments Engine AI",
+    "slug": "comments-engine-ai",
+    "version": "2.0.1",
+    "author": "<a href=\"https:\/\/comments-engine-ai.wondercode.pro\/\">Wondercode<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/mcurly\/",
+    "contributors": {
+        "mcurly": {
+            "profile": "https:\/\/profiles.wordpress.org\/mcurly\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/be847de3a2ad9907d3c7b4f441bd38c0?s=96&d=monsterid&r=g",
+            "display_name": "Alexandre Gaboriau"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.4.4",
+    "requires_php": "7.3",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 2,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 2,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/comments-engine-ai\/",
+    "support_threads": 2,
+    "support_threads_resolved": 1,
+    "active_installs": 300,
+    "downloaded": 1692,
+    "last_updated": "2024-03-12 1:05pm GMT",
+    "added": "2023-05-30",
+    "homepage": "",
+    "sections": {
+        "description": "<p>The Comments Engine AI plugin is a powerful tool that uses <strong>artificial intelligence<\/strong> (based on openAI) to <strong>generate insightful and engaging comments<\/strong> below posts on your WordPress website.<\/p>\n<p>This plugin makes it easy to start lively discussions, increase reader engagement, and foster a vibrant online community.<\/p>\n<p><strong><a href=\"https:\/\/comments-engine-ai.wondercode.pro\/\" rel=\"nofollow ugc\">Official Website<\/a><\/strong><\/p>\n<h3>What is included ?<\/h3>\n<h4>Comments Engine AI for FREE<\/h4>\n<ul>\n<li>Generate comments for every post<\/li>\n<li>Select OpenAI <strong>GPT Version<\/strong><\/li>\n<li>Select Language<\/li>\n<li>Generate author names, or provide list of users<\/li>\n<li>Fill a <strong>custom prompt<\/strong><\/li>\n<\/ul>\n<h4>Comments Engine AI PRO<\/h4>\n<p>Upgrade to our PRO version to unlock even more <strong>advanced features<\/strong> and take your blog to the next level!<\/p>\n<ul>\n<li>Generate comments in <strong>bulk<\/strong><\/li>\n<li>Random Authors Tones<\/li>\n<li>Include misspellings to comments<\/li>\n<li>Includes replies of comments<\/li>\n<li><strong>24h Support<\/strong><\/li>\n<\/ul>\n<p><a href=\"https:\/\/comments-engine-ai.wondercode.pro\/#pricing\" rel=\"nofollow ugc\">Upgrade to PRO<\/a><\/p>\n<h3>Translations<\/h3>\n<ul>\n<li>French<\/li>\n<\/ul>\n<h3>Support the plugin<\/h3>\n<p>If you&#8217;ve found the plugin useful, please consider <a href=\"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_donations&amp;business=contact%40magic-post-thumbnail.com&amp;item_name=Donation+for+Comments+Engine+AI&amp;currency_code=EUR&amp;source=url\" rel=\"nofollow ugc\">making a donation<\/a>. Thank you for your support !<\/p>\n",
+        "installation": "<ol>\n<li>Activate the plugin.<\/li>\n<li>Go to the menu tab &#8220;Comments Engine AI&#8221; under &#8220;Comments&#8221;.<\/li>\n<li>Configure your settings : openAI API Key, language &amp; others settings<\/li>\n<li>Go into a post, you will get the &#8220;Add comments&#8221; metabox, set your settings and &#8220;Click to generate&#8221;<\/li>\n<li>Wait a few seconds and a new browser tab will open showing your new comments.<\/li>\n<\/ol>\n",
+        "changelog": "<h4>2.0.1<\/h4>\n<ul>\n<li>Fix bug between Gutemberg blocks (drag&amp;drop) and JS function for comments<\/li>\n<\/ul>\n<h4>2.0<\/h4>\n<ul>\n<li>Includes Freemius SDK<\/li>\n<li>New Admin pannel<\/li>\n<li>Add Choice between GPT 3.5 or 4<\/li>\n<li>Add Ergonomic buttons as variables for custom prompts<\/li>\n<li>Add PRO version<\/li>\n<li>PRO : Bulk Generation<\/li>\n<li>PRO : Bulk: Comments Number &amp; Replies\/Tone &amp; Spelling mistakes\/Author level\/Date<\/li>\n<\/ul>\n<h4>1.1<\/h4>\n<ul>\n<li>Pages post type features added<\/li>\n<li>Custom prompt from user<\/li>\n<li>Custom authors name from user<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Bug: replace esc_url() by esc_html()<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>First version<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/comments-engine-ai\/trunk\/screenshot-1.png?rev=3049772\"><img src=\"https:\/\/ps.w.org\/comments-engine-ai\/trunk\/screenshot-1.png?rev=3049772\" alt=\"Comments Engine AI : Plugin Setup\"><\/a><p>Comments Engine AI : Plugin Setup<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/comments-engine-ai\/trunk\/screenshot-2.png?rev=3049772\"><img src=\"https:\/\/ps.w.org\/comments-engine-ai\/trunk\/screenshot-2.png?rev=3049772\" alt=\"Comments Engine AI : MetaBox to generate comments\"><\/a><p>Comments Engine AI : MetaBox to generate comments<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/comments-engine-ai\/trunk\/screenshot-3.png?rev=3049772\"><img src=\"https:\/\/ps.w.org\/comments-engine-ai\/trunk\/screenshot-3.png?rev=3049772\" alt=\"Comments Engine AI : Comments generated\"><\/a><p>Comments Engine AI : Comments generated<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/comments-engine-ai\/trunk\/screenshot-4.png?rev=3049772\"><img src=\"https:\/\/ps.w.org\/comments-engine-ai\/trunk\/screenshot-4.png?rev=3049772\" alt=\"Comments Engine AI : Bulk Settings\"><\/a><p>Comments Engine AI : Bulk Settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/comments-engine-ai\/trunk\/screenshot-5.png?rev=3049772\"><img src=\"https:\/\/ps.w.org\/comments-engine-ai\/trunk\/screenshot-5.png?rev=3049772\" alt=\"Comments Engine AI : Bulk Generation\"><\/a><p>Comments Engine AI : Bulk Generation<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Very good plugin to help launch<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/internetcommunication\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/219a0e353aae8b40f005fb34ddce4b6c?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/219a0e353aae8b40f005fb34ddce4b6c?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/internetcommunication\/\" class=\"reviewer-name\">InternetCommunication<\/a> on <span class=\"review-date\">September 14, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Easy to use, everything is planned. We could imagine adding a mass comment function. THANKS<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Seggestion<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/amine21\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/dbf803f6aea80d656d01658dc5a0d550?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/dbf803f6aea80d656d01658dc5a0d550?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/amine21\/\" class=\"reviewer-name\">amine21<\/a> on <span class=\"review-date\">September 2, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This plugin has been a game-changer for my website. please can you add ratings system with comment?<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Generate insightful and engaging AI-powered comments below posts on your website.",
+    "description": "<p>The Comments Engine AI plugin is a powerful tool that uses <strong>artificial intelligence<\/strong> (based on openAI) to <strong>generate insightful and engaging comments<\/strong> below posts on your WordPress website.<\/p>\n<p>This plugin makes it easy to start lively discussions, increase reader engagement, and foster a vibrant online community.<\/p>\n<p><strong><a href=\"https:\/\/comments-engine-ai.wondercode.pro\/\" rel=\"nofollow ugc\">Official Website<\/a><\/strong><\/p>\n<h3>What is included ?<\/h3>\n<h4>Comments Engine AI for FREE<\/h4>\n<ul>\n<li>Generate comments for every post<\/li>\n<li>Select OpenAI <strong>GPT Version<\/strong><\/li>\n<li>Select Language<\/li>\n<li>Generate author names, or provide list of users<\/li>\n<li>Fill a <strong>custom prompt<\/strong><\/li>\n<\/ul>\n<h4>Comments Engine AI PRO<\/h4>\n<p>Upgrade to our PRO version to unlock even more <strong>advanced features<\/strong> and take your blog to the next level!<\/p>\n<ul>\n<li>Generate comments in <strong>bulk<\/strong><\/li>\n<li>Random Authors Tones<\/li>\n<li>Include misspellings to comments<\/li>\n<li>Includes replies of comments<\/li>\n<li><strong>24h Support<\/strong><\/li>\n<\/ul>\n<p><a href=\"https:\/\/comments-engine-ai.wondercode.pro\/#pricing\" rel=\"nofollow ugc\">Upgrade to PRO<\/a><\/p>\n<h3>Translations<\/h3>\n<ul>\n<li>French<\/li>\n<\/ul>\n<h3>Support the plugin<\/h3>\n<p>If you&#8217;ve found the plugin useful, please consider <a href=\"https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_donations&amp;business=contact%40magic-post-thumbnail.com&amp;item_name=Donation+for+Comments+Engine+AI&amp;currency_code=EUR&amp;source=url\" rel=\"nofollow ugc\">making a donation<\/a>. Thank you for your support !<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/comments-engine-ai.2.0.1.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/comments-engine-ai\/trunk\/screenshot-1.png?rev=3049772",
+            "caption": "Comments Engine AI : Plugin Setup"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/comments-engine-ai\/trunk\/screenshot-2.png?rev=3049772",
+            "caption": "Comments Engine AI : MetaBox to generate comments"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/comments-engine-ai\/trunk\/screenshot-3.png?rev=3049772",
+            "caption": "Comments Engine AI : Comments generated"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/comments-engine-ai\/trunk\/screenshot-4.png?rev=3049772",
+            "caption": "Comments Engine AI : Bulk Settings"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/comments-engine-ai\/trunk\/screenshot-5.png?rev=3049772",
+            "caption": "Comments Engine AI : Bulk Generation"
+        }
+    },
+    "tags": {
+        "ai": "AI",
+        "automatic": "automatic",
+        "comments": "comments",
+        "generate": "generate",
+        "openai": "openai"
+    },
+    "stable_tag": "2.0.1",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/comments-engine-ai.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/comments-engine-ai.1.0.1.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/comments-engine-ai.1.1.0.zip",
+        "2.0.0": "https:\/\/downloads.wordpress.org\/plugin\/comments-engine-ai.2.0.0.zip",
+        "2.0.1": "https:\/\/downloads.wordpress.org\/plugin\/comments-engine-ai.2.0.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/comments-engine-ai.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_donations&business=contact%40magic-post-thumbnail.com&item_name=Donation+for+Comments+Engine+AI&currency_code=EUR&source=url",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/comments-engine-ai\/assets\/banner-772x250.png?rev=2919327",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/comments-engine-ai\/assets\/icon-128x128.png?rev=2919327"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

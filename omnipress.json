@@ -1,0 +1,1047 @@
+{
+    "name": "Omnipress",
+    "slug": "omnipress",
+    "version": "1.3.2",
+    "author": "<a href=\"https:\/\/omnipressteam.com\/\">omnipressteam<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/omnipressteam\/",
+    "contributors": {
+        "omnipressteam": {
+            "profile": "https:\/\/profiles.wordpress.org\/omnipressteam\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2a0ce4b2c222d744da53f425a36ab738?s=96&d=monsterid&r=g",
+            "display_name": "omnipressteam"
+        }
+    },
+    "requires": "5.8",
+    "tested": "6.5.2",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/omnipress\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 1000,
+    "downloaded": 15140,
+    "last_updated": "2024-04-12 6:39am GMT",
+    "added": "2022-05-04",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Power-up the Gutenberg editor with advanced and powerful patterns and blocks that help you build websites in no time! The first truelly Gutenberg Full Site Editing (FSE) plugin to make website building an ultimate journey.<\/p>\n<p>Simply pick your favorite WordPress Patterns, Demos or Blocks from Omnipress Plugin that speed up the process of website building with easy to use settings and customizations for intuitive visual styling.<\/p>\n<p>See <a href=\"https:\/\/omnipressteam.com\/patterns\/\" rel=\"nofollow ugc\">Omnipress Pre Build Patterns<\/a><\/p>\n<p>With <a href=\"https:\/\/omnipressteam.com\/\" rel=\"nofollow ugc\">Omnipress<\/a>, we took the hassle out of the website building process. It gives you a number of unique and creative Patterns for Gutenberg that help you build and design pages or posts without a single line of code.<\/p>\n<p>See <a href=\"https:\/\/omnipressteam.com\/demos\/\" rel=\"nofollow ugc\">Omnipress Pre Build Demos<\/a><\/p>\n<p>Ready-to-use Full Website Demos for Gutenberg Website.<\/p>\n<p>Get professionally designed pre-built FREE starter sites built using Gutenberg, Omnipress Plugin and the Omnipress themes. These can be imported in just a few clicks. Tweak them easily and build awesome websites in minutes!<\/p>\n<p>All of our Demos and Patterns supports all Themes.<\/p>\n<p>Pixel perfect ready websites in which you can just change the images and text to make them your own.<\/p>\n<p>Thoughtfully built ready-to-use websites for different niches such as local agencies, business, news, blogs, woocommerce, online store, ecommerce website etc.<\/p>\n<p>Discover instant website setup with a single click! Try our live demo of Omnipress Plugin and unlock limitless creativity with FSE Block Themes. No domain or hosting account needed. <a href=\"https:\/\/app.instawp.io\/launch?t=omnipress-live-demo&amp;d=v2\" rel=\"nofollow ugc\">Access the live demo now!<\/a><\/p>\n<h3>Omnipress Blocks<\/h3>\n",
+        "installation": "<h3>How to install the plugin<\/h3>\n<ol>\n<li>Open WordPress admin, go to Plugins, and click Add New<\/li>\n<li>Enter &#8220;Omnipress&#8221; in search and hit Enter<\/li>\n<li>Plugin will show up as the first on the list, click &#8220;Install Now&#8221;<\/li>\n<li>Activate &amp; open the plugin&#8217;s page from the admin menu<\/li>\n<\/ol>\n<p>Or if needed, upload manually;<\/p>\n<ol>\n<li>Download the latest stable version from from <a href=\"https:\/\/downloads.wordpress.org\/plugin\/omnipress.zip\" rel=\"nofollow ugc\">downloads.wordpress.org\/plugin\/omnipress.zip<\/a><\/li>\n<li>Unzip it and upload it to <em>\/wp-content\/plugins\/<\/em><\/li>\n<li>Open WordPress Dashboard &gt; Plugins and click &#8220;Activate&#8221; next to &#8220;Omnipress&#8221;<\/li>\n<li>Open the plugin&#8217;s page from the admin menu<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='do%20you%20provide%20support%20for%20the%20free%20version%3F%20where%3F'>\nDo you provide support for the free version? Where?\n<\/h4>\n<p>\n<p>Yes, absolutely. Whenever you need it, help can be found on <a href=\"https:\/\/wordpress.org\/support\/plugin\/omnipress\" rel=\"ugc\">our plugin support forum.<\/a><\/p>\n<\/p>\n<dt id='do%20you%20have%20any%20get-started%20guides%2Fdocs%3F'>\nDo you have any get-started guides\/docs?\n<\/h4>\n<p>\n<p>Yes, we do. Here are the complete <a href=\"https:\/\/www.youtube.com\/watch?v=szdPtcg9Bio&amp;list=PLgB_Ftn_N3DjkgjqI46vVBe4F9gnCXEeL\" rel=\"nofollow ugc\">playlist video tutorials.<\/a><\/p>\n<\/p>\n<dt id='what%20are%20the%20server%20requirements%3F'>\nWhat are the server requirements?\n<\/h4>\n<p>\n<p>The minimum requirement to run Omnipress is<br \/>\nWordPress version: 5.8 or later<br \/>\nPHP version: 7.4 or later<br \/>\nMySQL: 5.6 or later<\/p>\n<\/p>\n\n",
+        "changelog": "<p><a href=\"https:\/\/plugins.svn.wordpress.org\/omnipress\/trunk\/changelog.txt\" rel=\"nofollow ugc\">See changelog for all versions.<\/a><\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/omnipress\/assets\/screenshot-01.png?rev=2916092\"><img src=\"https:\/\/ps.w.org\/omnipress\/assets\/screenshot-01.png?rev=2916092\" alt=\"List of patterns\"><\/a><p>List of patterns<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/omnipress\/assets\/screenshot-02.png?rev=2916092\"><img src=\"https:\/\/ps.w.org\/omnipress\/assets\/screenshot-02.png?rev=2916092\" alt=\"List of demos\"><\/a><p>List of demos<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/omnipress\/assets\/screenshot-03.png?rev=2916092\"><img src=\"https:\/\/ps.w.org\/omnipress\/assets\/screenshot-03.png?rev=2916092\" alt=\"Detail page of a demo\"><\/a><p>Detail page of a demo<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Omnipress is a ready-made WordPress Design Blocks, similar to the Gutenberg WordPress block editor, that takes a holistic approach to changing your co &hellip;",
+    "description": "<p>Power-up the Gutenberg editor with advanced and powerful patterns and blocks that help you build websites in no time! The first truelly Gutenberg Full Site Editing (FSE) plugin to make website building an ultimate journey.<\/p>\n<p>Simply pick your favorite WordPress Patterns, Demos or Blocks from Omnipress Plugin that speed up the process of website building with easy to use settings and customizations for intuitive visual styling.<\/p>\n<p>See <a href=\"https:\/\/omnipressteam.com\/patterns\/\" rel=\"nofollow ugc\">Omnipress Pre Build Patterns<\/a><\/p>\n<p>With <a href=\"https:\/\/omnipressteam.com\/\" rel=\"nofollow ugc\">Omnipress<\/a>, we took the hassle out of the website building process. It gives you a number of unique and creative Patterns for Gutenberg that help you build and design pages or posts without a single line of code.<\/p>\n<p>See <a href=\"https:\/\/omnipressteam.com\/demos\/\" rel=\"nofollow ugc\">Omnipress Pre Build Demos<\/a><\/p>\n<p>Ready-to-use Full Website Demos for Gutenberg Website.<\/p>\n<p>Get professionally designed pre-built FREE starter sites built using Gutenberg, Omnipress Plugin and the Omnipress themes. These can be imported in just a few clicks. Tweak them easily and build awesome websites in minutes!<\/p>\n<p>All of our Demos and Patterns supports all Themes.<\/p>\n<p>Pixel perfect ready websites in which you can just change the images and text to make them your own.<\/p>\n<p>Thoughtfully built ready-to-use websites for different niches such as local agencies, business, news, blogs, woocommerce, online store, ecommerce website etc.<\/p>\n<p>Discover instant website setup with a single click! Try our live demo of Omnipress Plugin and unlock limitless creativity with FSE Block Themes. No domain or hosting account needed. <a href=\"https:\/\/app.instawp.io\/launch?t=omnipress-live-demo&amp;d=v2\" rel=\"nofollow ugc\">Access the live demo now!<\/a><\/p>\n<h3>Omnipress Blocks<\/h3>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/omnipress.1.3.2.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/omnipress\/assets\/screenshot-01.png?rev=2916092",
+            "caption": "List of patterns"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/omnipress\/assets\/screenshot-02.png?rev=2916092",
+            "caption": "List of demos"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/omnipress\/assets\/screenshot-03.png?rev=2916092",
+            "caption": "Detail page of a demo"
+        }
+    },
+    "tags": {
+        "block": "block",
+        "blocks": "blocks",
+        "demos": "demos",
+        "patterns": "patterns"
+    },
+    "stable_tag": "1.3.2",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/omnipress.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/omnipress.1.0.1.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/omnipress.1.1.0.zip",
+        "1.1.1": "https:\/\/downloads.wordpress.org\/plugin\/omnipress.1.1.1.zip",
+        "1.1.2": "https:\/\/downloads.wordpress.org\/plugin\/omnipress.1.1.2.zip",
+        "1.1.3": "https:\/\/downloads.wordpress.org\/plugin\/omnipress.1.1.3.zip",
+        "1.1.4": "https:\/\/downloads.wordpress.org\/plugin\/omnipress.1.1.4.zip",
+        "1.1.5": "https:\/\/downloads.wordpress.org\/plugin\/omnipress.1.1.5.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/omnipress.1.2.0.zip",
+        "1.2.1": "https:\/\/downloads.wordpress.org\/plugin\/omnipress.1.2.1.zip",
+        "1.2.2": "https:\/\/downloads.wordpress.org\/plugin\/omnipress.1.2.2.zip",
+        "1.3.0": "https:\/\/downloads.wordpress.org\/plugin\/omnipress.1.3.0.zip",
+        "1.3.1": "https:\/\/downloads.wordpress.org\/plugin\/omnipress.1.3.1.zip",
+        "1.3.2": "https:\/\/downloads.wordpress.org\/plugin\/omnipress.1.3.2.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/omnipress.zip"
+    },
+    "business_model": "commercial",
+    "repository_url": "",
+    "commercial_support_url": "https:\/\/omnipressteam.com\/wordpress-support-and-maintenance\/",
+    "donate_link": "https:\/\/omnipressteam.com\/pricing\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/omnipress\/assets\/banner-772x250.png?rev=2718089",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/omnipress\/assets\/icon-128X128.png?rev=2718471"
+    },
+    "blocks": {
+        "omnipress\/woogrid": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 2,
+            "name": "omnipress\/woogrid",
+            "version": "1.0.0",
+            "title": "Products Grid",
+            "category": "omnipress-woo",
+            "icon": "",
+            "description": "Display WooCommerce products in a grid layout",
+            "supports": {
+                "html": false
+            },
+            "attributes": {
+                "blockId": {
+                    "type": "string"
+                },
+                "carousel": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "options": {
+                    "type": "string",
+                    "default": "arrow"
+                },
+                "arrowNext": {
+                    "type": "string",
+                    "default": "fa fa-angle-right"
+                },
+                "arrowPrev": {
+                    "type": "string",
+                    "default": "fa fa-angle-left"
+                },
+                "layout": {
+                    "type": "string"
+                },
+                "toggle": {
+                    "type": "object",
+                    "default": {
+                        "title": true,
+                        "image": true,
+                        "addToCart": true,
+                        "price": true,
+                        "regularPrice": true,
+                        "badge": true,
+                        "ratings": true,
+                        "discountPercent": true
+                    }
+                },
+                "rows": {
+                    "type": "number",
+                    "default": 2
+                },
+                "offset": {
+                    "type": "number",
+                    "default": 0
+                },
+                "columns": {
+                    "type": "number",
+                    "default": 3
+                },
+                "orderBy": {
+                    "type": "string",
+                    "default": "popularity"
+                },
+                "category": {
+                    "type": "number"
+                },
+                "gridWrapper": {
+                    "type": "object",
+                    "default": {}
+                },
+                "mediaWrapper": {
+                    "type": "object",
+                    "default": {}
+                },
+                "mediaWrapperImg": {
+                    "type": "object",
+                    "default": {}
+                },
+                "card": {
+                    "type": "object",
+                    "default": {}
+                },
+                "title": {
+                    "type": "object",
+                    "default": {}
+                },
+                "price": {
+                    "type": "object",
+                    "default": {}
+                },
+                "sale": {
+                    "type": "object",
+                    "default": {}
+                },
+                "discountedPrice": {
+                    "type": "object",
+                    "default": {}
+                },
+                "discount": {
+                    "type": "object",
+                    "default": {}
+                },
+                "ratings": {
+                    "type": "object",
+                    "default": {}
+                },
+                "addToCart": {
+                    "type": "object",
+                    "default": {}
+                },
+                "content": {
+                    "type": "object",
+                    "default": {}
+                },
+                "outstock": {
+                    "type": "object",
+                    "default": {}
+                }
+            },
+            "textdomain": "product_grid",
+            "viewScript": [
+                "file:..\/..\/..\/product-grid-view.js"
+            ],
+            "keywords": [
+                "grid",
+                "layout",
+                "woogrid",
+                "woo",
+                "woo Layout"
+            ],
+            "editorScript": [
+                "file:..\/..\/..\/woo-block-8.js"
+            ],
+            "editorStyle": "file:..\/..\/..\/woo-block-8.css",
+            "style": [
+                "file:..\/..\/..\/style-woo-block-8.css"
+            ],
+            "render": "file:.\/render.php"
+        },
+        "omnipress\/carousel": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 2,
+            "name": "omnipress\/carousel",
+            "version": "1.0.0",
+            "title": "Products Carousel",
+            "category": "omnipress-woo",
+            "icon": "",
+            "description": "Create an engaging display of your products that scrolls horizontally",
+            "supports": {
+                "html": false
+            },
+            "viewScript": [
+                "file:..\/..\/..\/product-carousel-view.js"
+            ],
+            "editorScript": [
+                "file:..\/..\/..\/woo-block-9.js"
+            ],
+            "editorStyle": "file:..\/..\/..\/woo-block-9.css",
+            "style": [
+                "file:..\/..\/..\/style-woo-block-9.css"
+            ],
+            "keywords": [
+                "slider",
+                "woocommerce",
+                "carousel",
+                "products"
+            ],
+            "textdomain": "omnipress"
+        },
+        "omnipress\/product-list": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 2,
+            "name": "omnipress\/product-list",
+            "version": "1.0.0",
+            "title": "Product List",
+            "category": "omnipress",
+            "icon": "",
+            "description": "Display WooCommerce products in a list view",
+            "supports": {
+                "html": false
+            },
+            "attributes": {
+                "toggle": {
+                    "type": "object",
+                    "default": {
+                        "title": true,
+                        "description": true,
+                        "image": true,
+                        "price": true,
+                        "addToCart": true,
+                        "badge": true,
+                        "ratings": true,
+                        "discount": true,
+                        "categories": true,
+                        "cart": true
+                    }
+                }
+            },
+            "textdomain": "omnipress",
+            "keywords": [
+                "woocommerce",
+                "woo",
+                "category",
+                "products"
+            ],
+            "viewScript": "file:.\/view.js",
+            "editorScript": [
+                "file:.\/index.js"
+            ],
+            "render": "file:.\/render.php",
+            "style": [
+                "file:..\/..\/..\/style-block-8.css"
+            ]
+        },
+        "omnipress\/icons": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 2,
+            "name": "omnipress\/icons",
+            "version": "1.0.0",
+            "title": "Icons",
+            "category": "omnipress",
+            "icon": "",
+            "description": "Add unique and customizable icons to perfectly match your website style",
+            "supports": {
+                "html": false,
+                "className": true,
+                "dimensions": {
+                    "minHeight": false,
+                    "html": false
+                }
+            },
+            "textdomain": "omnipress",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": [
+                "file:..\/..\/..\/style-block-3.css"
+            ]
+        },
+        "omnipress\/css": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 2,
+            "name": "omnipress\/css",
+            "title": "Custom CSS",
+            "category": "omnipress",
+            "icon": "",
+            "description": "Add custom CSS with blocks for styling without theme changes",
+            "keywords": [
+                "custom",
+                "css"
+            ],
+            "textdomain": "omnipress",
+            "attributes": {
+                "css": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                }
+            },
+            "supports": {
+                "align": [
+                    "wide",
+                    "full"
+                ],
+                "anchor": true,
+                "className": true,
+                "__unstablePasteTextInline": true,
+                "__experimentalSlashInserter": true
+            },
+            "viewScript": "file:.\/index.js",
+            "editorScript": [
+                "file:..\/..\/..\/block-5.js"
+            ],
+            "editorStyle": "file:..\/..\/..\/block-5.css",
+            "style": [
+                "file:..\/..\/..\/style-block-5.css"
+            ]
+        },
+        "omnipress\/heading": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 2,
+            "name": "omnipress\/heading",
+            "version": "1.0.0",
+            "title": "Heading",
+            "category": "omnipress",
+            "description": "Create advanced heading with title, subtitle and separator controls.",
+            "icon": "",
+            "supports": {
+                "className": true
+            },
+            "textdomain": "omnipress",
+            "editorScript": [
+                "file:..\/..\/..\/block-3.js"
+            ],
+            "editorStyle": "file:..\/..\/..\/block-3.css",
+            "style": [
+                "file:..\/..\/..\/style-block-3.css"
+            ]
+        },
+        "omnipress\/innercolumn": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 2,
+            "name": "omnipress\/innercolumn",
+            "version": "1.0.0",
+            "title": "Inner column",
+            "category": "omnipress",
+            "icon": "",
+            "description": "Inner Column blocks allow easy content structuring, making visually appealing and responsive web page layouts",
+            "supports": {
+                "html": false,
+                "className": true,
+                "dimensions": {
+                    "minHeight": false,
+                    "html": false
+                }
+            },
+            "opSettings": {
+                "column": {}
+            },
+            "textdomain": "omnipress"
+        },
+        "omnipress\/image": {
+            "$schema": "..\/..\/..\/..\/assets\/block.schema.json",
+            "apiVersion": 2,
+            "name": "omnipress\/image",
+            "version": "1.0.0",
+            "title": "Image",
+            "category": "omnipress",
+            "icon": "",
+            "description": "An image with advanced controls to make a visual statement.",
+            "supports": {
+                "className": true
+            },
+            "opSettings": {
+                "image": {
+                    "group": "design",
+                    "selector": ".op-block__image-img",
+                    "label": "Image ",
+                    "fields": {
+                        "border": {
+                            "border": true,
+                            "borderRadius": true
+                        },
+                        "dimension": {
+                            "width": true,
+                            "height": true
+                        }
+                    }
+                },
+                "ImageCaption": {
+                    "group": "design",
+                    "selector": ".op-block__image-caption",
+                    "label": "Image Caption",
+                    "fields": {
+                        "spacing": {
+                            "margin": true,
+                            "padding": true
+                        },
+                        "color": {
+                            "text": true,
+                            "background": true
+                        },
+                        "typography": true
+                    }
+                }
+            },
+            "textdomain": "omnipress",
+            "viewScript": [
+                "file:..\/..\/..\/image-view.js"
+            ],
+            "style": [
+                "file:..\/..\/..\/style-block-2.css"
+            ]
+        },
+        "omnipress\/maps": {
+            "$schema": "..\/..\/..\/..\/assets\/block.schema.json",
+            "apiVersion": 2,
+            "name": "omnipress\/maps",
+            "version": "1.0.0",
+            "title": "Google Maps",
+            "category": "omnipress",
+            "icon": "",
+            "description": "Add a Google Map location on your website",
+            "supports": {
+                "className": true
+            },
+            "opSettings": {},
+            "keywords": [
+                "maps",
+                "google map"
+            ],
+            "textdomain": "omnipress",
+            "style": [
+                "file:..\/..\/..\/style-block-2.css"
+            ]
+        },
+        "omnipress\/container": {
+            "$schema": "..\/..\/..\/..\/assets\/block.schema.json",
+            "apiVersion": 2,
+            "name": "omnipress\/container",
+            "version": "1.0.0",
+            "title": "Container",
+            "category": "omnipress",
+            "icon": "",
+            "description": "Create beautiful row and column layouts with plenty of styling controls & responsive options",
+            "supports": {
+                "className": true
+            },
+            "opSettings": {
+                "wrapper": {
+                    "group": "design",
+                    "label": "Content",
+                    "fields": {
+                        "spacing": {
+                            "margin": true,
+                            "padding": true
+                        },
+                        "color": {
+                            "text": true
+                        },
+                        "typography": true
+                    }
+                }
+            },
+            "textdomain": "omnipress",
+            "editorScript": [
+                "file:..\/..\/..\/block-1.js"
+            ],
+            "editorStyle": "file:..\/..\/..\/block-1.css",
+            "style": [
+                "file:..\/..\/..\/style-block-1.css"
+            ]
+        },
+        "omnipress\/paragraph": {
+            "$schema": "..\/..\/..\/..\/assets\/block.schema.json",
+            "apiVersion": 2,
+            "name": "omnipress\/paragraph",
+            "version": "1.0.0",
+            "title": "Paragraph",
+            "category": "omnipress",
+            "icon": "",
+            "description": "Take control of your text appearance and paragraph formatting with multiple setting options.",
+            "supports": {
+                "className": true
+            },
+            "opSettings": {
+                "wrapper": {
+                    "group": "design",
+                    "label": "Content",
+                    "fields": {
+                        "spacing": {
+                            "margin": true,
+                            "padding": true
+                        },
+                        "color": {
+                            "text": true
+                        },
+                        "typography": true
+                    }
+                }
+            },
+            "textdomain": "omnipress",
+            "style": [
+                "file:..\/..\/..\/style-block-2.css"
+            ]
+        },
+        "omnipress\/video": {
+            "$schema": "..\/..\/..\/..\/assets\/block.schema.json",
+            "apiVersion": 2,
+            "name": "omnipress\/video",
+            "version": "1.0.0",
+            "title": "Video",
+            "category": "omnipress",
+            "icon": "",
+            "description": "Embed a video from your media library or upload a new one.",
+            "supports": {
+                "className": true
+            },
+            "attributes": {},
+            "opSettings": {
+                "videoWrapper": {
+                    "group": "design",
+                    "selector": ".op-block__video-wrapper",
+                    "label": "Video Wrapper",
+                    "fields": {
+                        "dimension": {
+                            "width": true,
+                            "height": true
+                        },
+                        "border": {
+                            "border": true,
+                            "borderRadius": true
+                        }
+                    }
+                }
+            },
+            "textdomain": "omnipress",
+            "editorScript": [
+                "file:..\/..\/..\/block-2.js"
+            ],
+            "editorStyle": "file:..\/..\/..\/block-2.css",
+            "style": [
+                "file:..\/..\/..\/style-block-2.css"
+            ]
+        },
+        "omnipress\/counter": {
+            "$schema": "..\/..\/..\/..\/assets\/block.schema.json",
+            "apiVersion": 2,
+            "name": "omnipress\/counter",
+            "version": "1.0.0",
+            "title": "Counter",
+            "category": "omnipress",
+            "icon": "",
+            "description": "Show company stats or how many happy customers you have with animation effects",
+            "supports": {
+                "className": true
+            },
+            "opSettings": {
+                "label": {
+                    "group": "design",
+                    "toggleAttribute": "showLabel",
+                    "selector": ".op-block_counter-label",
+                    "label": "Counter Label",
+                    "fields": {
+                        "spacing": {
+                            "margin": true,
+                            "padding": true
+                        },
+                        "color": {
+                            "text": true
+                        },
+                        "typography": true
+                    }
+                },
+                "number": {
+                    "group": "design",
+                    "selector": ".op-block__counter-number-wrapper .op-block__counter-number",
+                    "label": "Counter Number",
+                    "fields": {
+                        "spacing": {
+                            "margin": true,
+                            "padding": true,
+                            "gap": true
+                        },
+                        "color": {
+                            "text": true,
+                            "background": true
+                        },
+                        "typography": true
+                    }
+                },
+                "prefix": {
+                    "group": "design",
+                    "toggleAttribute": "showPrefix",
+                    "selector": ".op-block__counter-number-prefix",
+                    "label": "Counter Prefix",
+                    "fields": {
+                        "spacing": {
+                            "padding": true
+                        },
+                        "color": {
+                            "text": true
+                        },
+                        "typography": true
+                    }
+                },
+                "suffix": {
+                    "group": "design",
+                    "toggleAttribute": "showSuffix",
+                    "selector": ".op-block__counter-number-suffix",
+                    "label": "Counter Suffix",
+                    "fields": {
+                        "spacing": {
+                            "padding": true
+                        },
+                        "color": {
+                            "text": true
+                        },
+                        "typography": true
+                    }
+                },
+                "icon": {
+                    "group": "design",
+                    "toggleAttribute": "showIcon",
+                    "selector": ".op-block__counter-icon-wrapper i",
+                    "label": "Counter Icon",
+                    "fields": {
+                        "spacing": {
+                            "padding": true
+                        },
+                        "color": {
+                            "text": true
+                        },
+                        "typography": true
+                    }
+                }
+            },
+            "textdomain": "omnipress",
+            "viewScript": [
+                "file:..\/..\/..\/counter-view.js"
+            ],
+            "style": [
+                "file:..\/..\/..\/style-block-4.css"
+            ]
+        },
+        "omnipress\/tabs": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "omnipress\/tabs",
+            "version": "1.0.0",
+            "title": "Tabs",
+            "category": "omnipress",
+            "icon": "",
+            "description": "Organize and display content in multiple tabs.",
+            "supports": {
+                "align": false,
+                "html": false,
+                "multiple": true,
+                "inserter": true,
+                "dimensions": {
+                    "minHeight": false
+                }
+            },
+            "textdomain": "omnipress",
+            "viewScript": [
+                "file:..\/..\/..\/tabs-view.js"
+            ],
+            "editorScript": [
+                "file:..\/..\/..\/block-7.js"
+            ],
+            "editorStyle": "file:..\/..\/..\/block-7.css",
+            "style": [
+                "file:..\/..\/..\/style-block-7.css"
+            ]
+        },
+        "omnipress\/countdown": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 2,
+            "name": "omnipress\/countdown",
+            "version": "1.0.0",
+            "title": "Countdown",
+            "category": "omnipress",
+            "icon": "",
+            "description": "Highlight upcoming events with countdown timer",
+            "supports": {
+                "className": true
+            },
+            "textdomain": "omnipress",
+            "viewScript": "file:..\/..\/..\/countdown-view.js",
+            "editorScript": [
+                "file:..\/..\/..\/block-6.js"
+            ],
+            "editorStyle": "file:..\/..\/..\/block-6.css",
+            "style": [
+                "file:..\/..\/..\/style-block-6.css"
+            ]
+        },
+        "omnipress\/post-grid": {
+            "$schema": "..\/..\/..\/..\/assets\/block.schema.json",
+            "apiVersion": 2,
+            "name": "omnipress\/post-grid",
+            "version": "1.0.0",
+            "title": "Post Grid",
+            "category": "omnipress",
+            "icon": "",
+            "description": "Display interactive blog in a grid layout",
+            "supports": {},
+            "opSettings": {
+                "card": {
+                    "group": "design",
+                    "selector": ".op-block__post-grid-card-wrap .op-block__post-grid-card.op-block__post-grid-card-items",
+                    "label": "card",
+                    "fields": {
+                        "color": {
+                            "background": true
+                        },
+                        "dimension": {
+                            "width": true,
+                            "height": true
+                        },
+                        "spacing": {
+                            "padding": true,
+                            "margin": true
+                        },
+                        "border": {
+                            "border": true,
+                            "borderRadius": true
+                        }
+                    }
+                },
+                "image": {
+                    "group": "design",
+                    "selector": ".op-block__post-grid-card-wrap .op-block__post-grid-card.op-block__post-grid-card-items .op-block__post-grid-card-image img",
+                    "label": "Image",
+                    "fields": {
+                        "dimension": {
+                            "width": true,
+                            "height": true
+                        },
+                        "spacing": {
+                            "margin": true
+                        },
+                        "border": {
+                            "border": true,
+                            "borderRadius": true
+                        }
+                    }
+                },
+                "content": {
+                    "group": "design",
+                    "selector": ".op-block__post-grid-card-wrap .op-block__post-grid-card-content",
+                    "label": "Content",
+                    "fields": {
+                        "spacing": {
+                            "margin": true,
+                            "padding": true
+                        }
+                    }
+                },
+                "Title": {
+                    "group": "design",
+                    "selector": ".op-block__post-grid-card-wrap .op-block__post-grid-card.op-block__post-grid-card-items .op-block__post-grid-card-title h4",
+                    "label": "Title",
+                    "fields": {
+                        "color": {
+                            "text": true
+                        },
+                        "spacing": {
+                            "padding": true,
+                            "margin": true
+                        },
+                        "typography": true
+                    }
+                },
+                "description": {
+                    "group": "design",
+                    "selector": ".op-block__post-grid-card-wrap .op-block__post-grid-card.op-block__post-grid-card-items .op-block__post-grid-card-description",
+                    "label": "Description",
+                    "fields": {
+                        "color": {
+                            "background": true,
+                            "text": true
+                        },
+                        "spacing": {
+                            "padding": true,
+                            "margin": true
+                        },
+                        "typography": true
+                    }
+                },
+                "categories": {
+                    "group": "design",
+                    "selector": ".op-block__post-grid-card-wrap .op-block__post-grid-card.op-block__post-grid-card-items .op-block__post-grid-card-categories a",
+                    "label": "Categories",
+                    "fields": {
+                        "color": {
+                            "text": true,
+                            "background": true
+                        },
+                        "spacing": {
+                            "padding": true
+                        },
+                        "typography": true,
+                        "border": {
+                            "border": true,
+                            "borderRadius": true
+                        }
+                    }
+                },
+                "categoriesWrapper": {
+                    "group": "design",
+                    "selector": ".op-block__post-grid-card-wrap .op-block__post-grid-card-categories",
+                    "label": "Categories Wrapper",
+                    "fields": {
+                        "dimension": {
+                            "gap": true
+                        }
+                    }
+                },
+                "date": {
+                    "group": "design",
+                    "selector": ".op-block__post-grid-card-wrap .op-block__post-grid-card.op-block__post-grid-card-items .op-block__post-grid-card-date",
+                    "label": "Date",
+                    "fields": {
+                        "color": {
+                            "background": true,
+                            "text": true
+                        },
+                        "spacing": {
+                            "margin": true
+                        },
+                        "typography": true
+                    }
+                },
+                "author": {
+                    "group": "design",
+                    "selector": ".op-block__post-grid-card-wrap .op-block__post-grid-card.op-block__post-grid-card-items .op-block__post-grid-card-author",
+                    "label": "Author",
+                    "fields": {
+                        "color": {
+                            "text": true
+                        },
+                        "spacing": {
+                            "margin": true
+                        },
+                        "typography": true
+                    }
+                }
+            },
+            "attributes": {
+                "disableAuthor": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "disableCategory": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "disableDescription": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "disableFeaturedImage": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "disableDate": {
+                    "type": "boolean",
+                    "default": false
+                }
+            },
+            "textdomain": "omnipress",
+            "keywords": [
+                "woocommerce",
+                "woo",
+                "category",
+                "products"
+            ],
+            "editorScript": [
+                "file:..\/..\/..\/block-4.js"
+            ],
+            "editorStyle": "file:..\/..\/..\/block-4.css",
+            "style": [
+                "file:..\/..\/..\/style-block-4.css"
+            ]
+        },
+        "omnipress\/icon-box": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 2,
+            "name": "omnipress\/icon-box",
+            "version": "1.0.0",
+            "title": "Icon Box",
+            "category": "omnipress",
+            "icon": "",
+            "description": "Add icon and text description using a single block",
+            "supports": {
+                "html": false
+            },
+            "textdomain": "omnipress",
+            "keywords": [
+                "woocommerce",
+                "woo",
+                "category",
+                "products"
+            ],
+            "viewScript": "file:.\/view.js",
+            "editorScript": [
+                "file:.\/index.js"
+            ],
+            "render": "file:.\/render.php",
+            "style": [
+                "file:..\/..\/..\/style-block-4.css"
+            ]
+        },
+        "omnipress\/slide": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 2,
+            "name": "omnipress\/slide",
+            "version": "1.0.0",
+            "title": "Slide",
+            "category": "omnipress",
+            "icon": "",
+            "description": "Create a slide inside slider",
+            "supports": {
+                "html": false,
+                "className": true,
+                "dimensions": {
+                    "minHeight": false,
+                    "html": false
+                }
+            },
+            "textdomain": "omnipress",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": [
+                "file:.\/index.css"
+            ],
+            "viewScript": [
+                "file:.\/index.js"
+            ]
+        }
+    },
+    "block_assets": [
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/woocommerce\/product-grid\/..\/..\/..\/woo-block-8.js",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/woocommerce\/product-grid\/..\/..\/..\/woo-block-8.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/woocommerce\/product-grid\/..\/..\/..\/style-woo-block-8.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/woocommerce\/product-carousel\/..\/..\/..\/woo-block-9.js",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/woocommerce\/product-carousel\/..\/..\/..\/woo-block-9.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/woocommerce\/product-carousel\/..\/..\/..\/style-woo-block-9.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/woocommerce\/product-list\/index.js",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/woocommerce\/product-list\/..\/..\/..\/style-block-8.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/simple\/icons\/index.js",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/simple\/icons\/index.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/simple\/icons\/..\/..\/..\/style-block-3.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/simple\/custom-css\/..\/..\/..\/block-5.js",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/simple\/custom-css\/..\/..\/..\/block-5.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/simple\/custom-css\/..\/..\/..\/style-block-5.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/simple\/heading\/..\/..\/..\/block-3.js",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/simple\/heading\/..\/..\/..\/block-3.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/simple\/heading\/..\/..\/..\/style-block-3.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/core\/image\/..\/..\/..\/style-block-2.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/core\/google-maps\/..\/..\/..\/style-block-2.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/core\/container\/..\/..\/..\/block-1.js",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/core\/container\/..\/..\/..\/block-1.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/core\/container\/..\/..\/..\/style-block-1.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/core\/paragraph\/..\/..\/..\/style-block-2.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/core\/video\/..\/..\/..\/block-2.js",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/core\/video\/..\/..\/..\/block-2.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/core\/video\/..\/..\/..\/style-block-2.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/creative\/counter\/..\/..\/..\/style-block-4.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/creative\/tabs\/..\/..\/..\/block-7.js",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/creative\/tabs\/..\/..\/..\/block-7.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/creative\/tabs\/..\/..\/..\/style-block-7.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/creative\/countdown\/..\/..\/..\/block-6.js",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/creative\/countdown\/..\/..\/..\/block-6.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/creative\/countdown\/..\/..\/..\/style-block-6.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/creative\/post-grid\/..\/..\/..\/block-4.js",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/creative\/post-grid\/..\/..\/..\/block-4.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/creative\/post-grid\/..\/..\/..\/style-block-4.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/creative\/icon-box\/index.js",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/creative\/icon-box\/..\/..\/..\/style-block-4.css",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/creative\/slide\/index.js",
+        "\/tags\/1.3.2\/assets\/scripts\/blocks\/creative\/slide\/index.css"
+    ],
+    "author_block_count": 1,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Autolink Generator",
+    "slug": "autolink-generator",
+    "version": "1.0",
+    "author": "<a href=\"https:\/\/fulfillment.global\/\">Fulfillment Global Corporation<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/fulfillmentglobal\/",
+    "contributors": {
+        "fulfillmentglobal": {
+            "profile": "https:\/\/profiles.wordpress.org\/fulfillmentglobal\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/33df638c707ce941312d25bd41f07a2e?s=96&d=monsterid&r=g",
+            "display_name": "Fulfillment.Global"
+        }
+    },
+    "requires": "5.2",
+    "tested": "6.5.2",
+    "requires_php": "7.2",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/autolink-generator\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 148,
+    "last_updated": "2024-04-03 3:16am GMT",
+    "added": "2024-03-15",
+    "homepage": "https:\/\/autolink.support\/",
+    "sections": {
+        "description": "<p>This plugin generates and inserts additional <a> links and AI-generated content into your WordPress posts, based on configured keywords matched in the content of your WordPress posts.<\/a><\/p>\n<h3>Usage<\/h3>\n<p>Install and activate the plugin.<\/p>\n<p>Configure the plugin&#8217;s settings.<\/p>\n<p>To stop the plugin, simply deactivate and\/or uninstall the plugin.<\/p>\n<h3>Third party service description<\/h3>\n<p>This plugin relies on <a href=\"https:\/\/data.buythis.co.za\" rel=\"nofollow ugc\">data.buythis.co.za<\/a> as a third party service, in order for the plugin to work.<\/p>\n<p>The reason for using the third party service, is to generate additional AI content for posts, based on the content of existing posts.<\/p>\n<p>No personal data is collected during the process.<\/p>\n<p>As can be seen in the plugin&#8217;s source code, this plugin only uses the publicly visible content of a WordPress post, and information about the post, such as its WordPress permalink.<\/p>\n<p>Links to the third party service:<\/p>\n<p><a href=\"https:\/\/data.buythis.co.za\" rel=\"nofollow ugc\">https:\/\/data.buythis.co.za<\/a><\/p>\n<p>Data received by the plugin via HTTP, is cached in the site&#8217;s local WordPress database. The database is not deleted when the plugin is uninstalled, to prevent unintentional data loss.<\/p>\n<p>Third party services&#8217; terms of use and privacy policies:<\/p>\n<p><a href=\"https:\/\/buythis.co.za\/terms\" rel=\"nofollow ugc\">https:\/\/buythis.co.za\/terms<\/a><br \/>\n<a href=\"https:\/\/buythis.co.za\/privacy\" rel=\"nofollow ugc\">https:\/\/buythis.co.za\/privacy<\/a><\/p>\n",
+        "faq": "<p>Is this plugin free to use?<\/p>\n<p>Yes, this plugin is free to use. The source code is available for you to examine what the plugin does and how it works.<\/p>\n",
+        "reviews": ""
+    },
+    "short_description": "Autolink Generator",
+    "description": "<p>This plugin generates and inserts additional <a> links and AI-generated content into your WordPress posts, based on configured keywords matched in the content of your WordPress posts.<\/a><\/p>\n<h3>Usage<\/h3>\n<p>Install and activate the plugin.<\/p>\n<p>Configure the plugin&#8217;s settings.<\/p>\n<p>To stop the plugin, simply deactivate and\/or uninstall the plugin.<\/p>\n<h3>Third party service description<\/h3>\n<p>This plugin relies on <a href=\"https:\/\/data.buythis.co.za\" rel=\"nofollow ugc\">data.buythis.co.za<\/a> as a third party service, in order for the plugin to work.<\/p>\n<p>The reason for using the third party service, is to generate additional AI content for posts, based on the content of existing posts.<\/p>\n<p>No personal data is collected during the process.<\/p>\n<p>As can be seen in the plugin&#8217;s source code, this plugin only uses the publicly visible content of a WordPress post, and information about the post, such as its WordPress permalink.<\/p>\n<p>Links to the third party service:<\/p>\n<p><a href=\"https:\/\/data.buythis.co.za\" rel=\"nofollow ugc\">https:\/\/data.buythis.co.za<\/a><\/p>\n<p>Data received by the plugin via HTTP, is cached in the site&#8217;s local WordPress database. The database is not deleted when the plugin is uninstalled, to prevent unintentional data loss.<\/p>\n<p>Third party services&#8217; terms of use and privacy policies:<\/p>\n<p><a href=\"https:\/\/buythis.co.za\/terms\" rel=\"nofollow ugc\">https:\/\/buythis.co.za\/terms<\/a><br \/>\n<a href=\"https:\/\/buythis.co.za\/privacy\" rel=\"nofollow ugc\">https:\/\/buythis.co.za\/privacy<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/autolink-generator.1.0.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "autolink": "autolink"
+    },
+    "stable_tag": "1.0",
+    "versions": {
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/autolink-generator.1.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/autolink-generator.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "default": "https:\/\/s.w.org\/plugins\/geopattern-icon\/autolink-generator.svg"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

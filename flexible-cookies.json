@@ -1,0 +1,117 @@
+{
+    "name": "Flexible Cookies",
+    "slug": "flexible-cookies",
+    "version": "1.0.3",
+    "author": "<a href=\"https:\/\/www.wpdesk.net\/\">WP Desk<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/wpdesk\/",
+    "contributors": {
+        "wpdesk": {
+            "profile": "https:\/\/profiles.wordpress.org\/wpdesk\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/913da2b92a5af92e8004117034317419?s=96&d=monsterid&r=g",
+            "display_name": "wpdesk"
+        },
+        "dyszczo": {
+            "profile": "https:\/\/profiles.wordpress.org\/dyszczo\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/8c814dabf52ced8369e23958d8ea0ccb?s=96&d=monsterid&r=g",
+            "display_name": "dyszczo"
+        }
+    },
+    "requires": "6.2",
+    "tested": "6.5.2",
+    "requires_php": "7.2",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/flexible-cookies\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 30,
+    "downloaded": 631,
+    "last_updated": "2024-03-25 9:23am GMT",
+    "added": "2023-12-27",
+    "homepage": "https:\/\/www.wpdesk.net\/products\/flexible-cookies\/",
+    "sections": {
+        "description": "<p>Our FREE plugin allows you not only to display the cookie bar in a professional and compliant way, but also to scan the website for cookies and add appropriate categories. Moreover, you can customize the appearance of the cookie bar to suit your needs by giving it unique styles. Forget about the complications of managing cookies &#8211; Flexible Cookies will make the process easier than ever before!<\/p>\n<h4>EASY CONFIGURATION<\/h4>\n<p>It will take you no more than 5 minutes and will not cause any difficulties &#8211; even if you have no technical background.<\/p>\n<h4>FULL CUSTOMIZATION<\/h4>\n<p>You can customize the appearance of the cookie bar in any way you like, so that it fits your website as stylistically as possible.<\/p>\n<h4>COOKIES MANAGEMENT<\/h4>\n<p>You can scan your entire website for cookies, which will be assigned to the appropriate categories. You can also add your own cookies by entering their name. You can also freely edit the cookie categories, changing their name, descriptions and if they are mandatory for website visitors.<\/p>\n<h4>COMPLETE SAFETY<\/h4>\n<p>Our plugin is completely free, but prepared by a team that has been professionally dealing with plugins for over 10 years. You can be sure that our solution is completely safe.<\/p>\n<h4>PROFESSIONAL SUPPORT<\/h4>\n<p>You can count on the support of our team at any time &#8211; we will answer all your questions and suggest the best solutions.<\/p>\n",
+        "installation": "<ol>\n<li>Install either from the WordPress.org plugin directory or by uploading files to your server.<\/li>\n<li>Activate the plugin via the \u201cPlugins\u201d menu in WordPress<\/li>\n<li>Go to Flexible Cookies \u2192 Settings in your WordPress dashboard and start first configuration<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='is%20the%20plugin%20free%3F'>\nIs the plugin free?\n<\/h4>\n<p>\n<p>Yes, our solution is completely free. In the free version you get all functionalities without any restrictions.<\/p>\n<\/p>\n<dt id='does%20the%20plugin%20meet%20gdpr%20requirements%3F'>\nDoes the plugin meet GDPR requirements?\n<\/h4>\n<p>\n<p>Yes, our plugin meets GDPR requirements. It allows not only to accept or reject cookies, but also to select the categories to which the user wants to consent.<\/p>\n<\/p>\n<dt id='how%20to%20change%20the%20appearance%20of%20the%20cookie%20bar%3F'>\nHow to change the appearance of the cookie bar?\n<\/h4>\n<p>\n<p>You can change the appearance of the bar thanks to a simple editor that allows you to choose a color for each element. You can also add your own CSS code, which will allow you to change the appearance in an advanced way.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.3 &#8211; 25-03-2024<\/h4>\n<ul>\n<li>Updated libraries<\/li>\n<li>Fixed HTML code in descriptions<\/li>\n<li>Support for WordPress 6.5<\/li>\n<li>Added dashboard widget<\/li>\n<\/ul>\n<h4>1.0.2 &#8211; 12-03-2024<\/h4>\n<ul>\n<li>Updated libraries<\/li>\n<\/ul>\n<h4>1.0.1 &#8211; 27-12-2023<\/h4>\n<ul>\n<li>first release into wordpress repository<\/li>\n<\/ul>\n<h4>1.0.0 &#8211; 21-09-2023<\/h4>\n<ul>\n<li>first release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/flexible-cookies\/assets\/screenshot-1.png?rev=3014613\"><img src=\"https:\/\/ps.w.org\/flexible-cookies\/assets\/screenshot-1.png?rev=3014613\" alt=\"Cookie Bar Appearance Settings\"><\/a><p>Cookie Bar Appearance Settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/flexible-cookies\/assets\/screenshot-2.png?rev=3014613\"><img src=\"https:\/\/ps.w.org\/flexible-cookies\/assets\/screenshot-2.png?rev=3014613\" alt=\"Cookie Scanner\"><\/a><p>Cookie Scanner<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/flexible-cookies\/assets\/screenshot-3.png?rev=3014613\"><img src=\"https:\/\/ps.w.org\/flexible-cookies\/assets\/screenshot-3.png?rev=3014613\" alt=\"You can add your own custom CSS\"><\/a><p>You can add your own custom CSS<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/flexible-cookies\/assets\/screenshot-4.png?rev=3014613\"><img src=\"https:\/\/ps.w.org\/flexible-cookies\/assets\/screenshot-4.png?rev=3014613\" alt=\"Plugin&#039;s general settings\"><\/a><p>Plugin's general settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/flexible-cookies\/assets\/screenshot-5.png?rev=3014613\"><img src=\"https:\/\/ps.w.org\/flexible-cookies\/assets\/screenshot-5.png?rev=3014613\" alt=\"Cookie Bar visible to user\"><\/a><p>Cookie Bar visible to user<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Discover a new era of cookie management on your online store website with the reliable Flexible Cookies!",
+    "description": "<p>Our FREE plugin allows you not only to display the cookie bar in a professional and compliant way, but also to scan the website for cookies and add appropriate categories. Moreover, you can customize the appearance of the cookie bar to suit your needs by giving it unique styles. Forget about the complications of managing cookies &#8211; Flexible Cookies will make the process easier than ever before!<\/p>\n<h4>EASY CONFIGURATION<\/h4>\n<p>It will take you no more than 5 minutes and will not cause any difficulties &#8211; even if you have no technical background.<\/p>\n<h4>FULL CUSTOMIZATION<\/h4>\n<p>You can customize the appearance of the cookie bar in any way you like, so that it fits your website as stylistically as possible.<\/p>\n<h4>COOKIES MANAGEMENT<\/h4>\n<p>You can scan your entire website for cookies, which will be assigned to the appropriate categories. You can also add your own cookies by entering their name. You can also freely edit the cookie categories, changing their name, descriptions and if they are mandatory for website visitors.<\/p>\n<h4>COMPLETE SAFETY<\/h4>\n<p>Our plugin is completely free, but prepared by a team that has been professionally dealing with plugins for over 10 years. You can be sure that our solution is completely safe.<\/p>\n<h4>PROFESSIONAL SUPPORT<\/h4>\n<p>You can count on the support of our team at any time &#8211; we will answer all your questions and suggest the best solutions.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/flexible-cookies.1.0.3.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/flexible-cookies\/assets\/screenshot-1.png?rev=3014613",
+            "caption": "Cookie Bar Appearance Settings"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/flexible-cookies\/assets\/screenshot-2.png?rev=3014613",
+            "caption": "Cookie Scanner"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/flexible-cookies\/assets\/screenshot-3.png?rev=3014613",
+            "caption": "You can add your own custom CSS"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/flexible-cookies\/assets\/screenshot-4.png?rev=3014613",
+            "caption": "Plugin's general settings"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/flexible-cookies\/assets\/screenshot-5.png?rev=3014613",
+            "caption": "Cookie Bar visible to user"
+        }
+    },
+    "tags": {
+        "consent": "consent",
+        "cookie": "cookie",
+        "cookie-bar": "cookie bar",
+        "cookies": "cookies",
+        "gdpr": "GDPR"
+    },
+    "stable_tag": "1.0.3",
+    "versions": {
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/flexible-cookies.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/flexible-cookies.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/flexible-cookies.1.0.3.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/flexible-cookies.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/flexible-cookies\/assets\/banner-772x250.png?rev=3014613",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/flexible-cookies\/assets\/icon-128x128.png?rev=3014613",
+        "2x": "https:\/\/ps.w.org\/flexible-cookies\/assets\/icon-256x256.png?rev=3014613"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "flexible-cookies",
+            "language": "pl_PL",
+            "version": "1.0.3",
+            "updated": "2024-02-13 13:43:22",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/flexible-cookies\/1.0.3\/pl_PL.zip"
+        }
+    ]
+}

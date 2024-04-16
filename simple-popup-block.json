@@ -1,0 +1,219 @@
+{
+    "name": "Simple Popup Block",
+    "slug": "simple-popup-block",
+    "version": "1.1.1",
+    "author": "<a href=\"https:\/\/www.cmblocks.com\/\">codemanas<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/codemanas\/",
+    "contributors": {
+        "codemanas": {
+            "profile": "https:\/\/profiles.wordpress.org\/codemanas\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/edeb4647c0f197b16e8677055ac00d59?s=96&d=monsterid&r=g",
+            "display_name": "CodeManas"
+        }
+    },
+    "requires": "6.1",
+    "tested": "6.3.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/simple-popup-block\/",
+    "support_threads": 1,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 284,
+    "last_updated": "2023-11-20 11:36am GMT",
+    "added": "2023-11-20",
+    "homepage": "",
+    "sections": {
+        "description": "<p>A simple and easy to use popup block plugin for block editor<\/p>\n<p><strong>Features<\/strong><\/p>\n<ul>\n<li><strong>Triggers<\/strong> : Choose how your poup should be triggerred either on page scroll, click or after certain interval.<\/li>\n<li><strong>Conditions<\/strong> : Show popups only to your specific user based on roles. Option to show only to logged-in user or logged-out users<\/li>\n<li><strong>Behaviour<\/strong> : Determine how the popup should be shown only once or multiple time or auto close after certain time.<\/li>\n<li><strong>Built-in Templates<\/strong> : Design your popup from the scratch or use one of the ready-made 5+ templates<\/li>\n<li><strong>Easy &amp; Simple<\/strong> : Easily create simple and interesting poups \u2014 all with a few quick clicks. No coding skills required.<\/li>\n<li><strong>Built for Editor<\/strong> : Work organically and smoothly with the Site Editor<\/li>\n<\/ul>\n<p><strong>Useful Links<\/strong><br \/>\n\ud83d\udc49 <a href=\"https:\/\/tastewp.com\/new\/?pre-installed-plugin-slug=simple-popup-block\" rel=\"nofollow ugc\">Live Demo Test<\/a><br \/>\n\ud83d\udc49 <a href=\"https:\/\/docs.cmblocks.com\/\" rel=\"nofollow ugc\">Documentation<\/a><\/p>\n",
+        "installation": "<ol>\n<li>Upload the plugin files to the <code>\/wp-content\/plugins\/simple-popup-block<\/code> directory, or install the plugin through the WordPress plugins screen directly.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; screen in WordPress<\/li>\n<\/ol>\n",
+        "changelog": "<h4>1.1.1 2023-10-20<\/h4>\n<ul>\n<li>Fix &#8211; Fix readme.txt file header<\/li>\n<\/ul>\n<h4>1.1.0 2023-10-20<\/h4>\n<ul>\n<li>Enhancement &#8211; Added styling options for the popup such as height ,width ,borders.<\/li>\n<li>Enhancement &#8211; Added close button appearance options.<\/li>\n<li>Enhancement &#8211; Added option to show popup once.<\/li>\n<li>Enhancement &#8211; Added plugin validation and version compatibility.<\/li>\n<li>Enhancement &#8211; Added condition to show popup.<\/li>\n<li>Enhancement &#8211; Added auto-close popup option.<\/li>\n<li>Enhancement &#8211; Added default templates.<\/li>\n<li>Fix &#8211; Improvised with corrected input types.<\/li>\n<li>Fix &#8211; Adding multiple blocks to the same page.<\/li>\n<li>Fix &#8211; Block design changed while moving the block.<\/li>\n<\/ul>\n<h4>1.0.0 2023-09-28<\/h4>\n<ul>\n<li>Initial Release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-1.png?rev=2998806\"><img src=\"https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-1.png?rev=2998806\" alt=\"Built-in Popup Templates\"><\/a><p>Built-in Popup Templates<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-2.png?rev=2998806\"><img src=\"https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-2.png?rev=2998806\" alt=\"Time Trigger\"><\/a><p>Time Trigger<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-3.png?rev=2998806\"><img src=\"https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-3.png?rev=2998806\" alt=\"Scroll Trigger\"><\/a><p>Scroll Trigger<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-4.png?rev=2998806\"><img src=\"https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-4.png?rev=2998806\" alt=\"Click Trigger\"><\/a><p>Click Trigger<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-5.png?rev=2998806\"><img src=\"https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-5.png?rev=2998806\" alt=\"Popup Behaviour\"><\/a><p>Popup Behaviour<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-6.png?rev=2998806\"><img src=\"https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-6.png?rev=2998806\" alt=\"Popup Conditions\"><\/a><p>Popup Conditions<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-7.png?rev=2998806\"><img src=\"https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-7.png?rev=2998806\" alt=\"Popup Dimension\"><\/a><p>Popup Dimension<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-8.png?rev=2998806\"><img src=\"https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-8.png?rev=2998806\" alt=\"Close Button Options\"><\/a><p>Close Button Options<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Cool!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/heike-carle\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/2ae16d8bd9bdf61de3c06341ae2cea67?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/2ae16d8bd9bdf61de3c06341ae2cea67?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/heike-carle\/\" class=\"reviewer-name\">heike-carle<\/a> on <span class=\"review-date\">February 22, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This is indeed a really cool plugin! You simply use a block to create a popup on a page, post or template. The plugin comes with various templates for popups that you can use or customize according to your own ideas. Or you can make your very own popup\u2026 <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I hope that the developers continue to develop this cool tool. Maybe more options will be added? Because the idea of offering a popup as a Gutenberg block for websites is simply brilliant! <strong>Thanks<\/strong><\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "A simple and easy to use popup block plugin for block editor",
+    "description": "<p>A simple and easy to use popup block plugin for block editor<\/p>\n<p><strong>Features<\/strong><\/p>\n<ul>\n<li><strong>Triggers<\/strong> : Choose how your poup should be triggerred either on page scroll, click or after certain interval.<\/li>\n<li><strong>Conditions<\/strong> : Show popups only to your specific user based on roles. Option to show only to logged-in user or logged-out users<\/li>\n<li><strong>Behaviour<\/strong> : Determine how the popup should be shown only once or multiple time or auto close after certain time.<\/li>\n<li><strong>Built-in Templates<\/strong> : Design your popup from the scratch or use one of the ready-made 5+ templates<\/li>\n<li><strong>Easy &amp; Simple<\/strong> : Easily create simple and interesting poups \u2014 all with a few quick clicks. No coding skills required.<\/li>\n<li><strong>Built for Editor<\/strong> : Work organically and smoothly with the Site Editor<\/li>\n<\/ul>\n<p><strong>Useful Links<\/strong><br \/>\n\ud83d\udc49 <a href=\"https:\/\/tastewp.com\/new\/?pre-installed-plugin-slug=simple-popup-block\" rel=\"nofollow ugc\">Live Demo Test<\/a><br \/>\n\ud83d\udc49 <a href=\"https:\/\/docs.cmblocks.com\/\" rel=\"nofollow ugc\">Documentation<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/simple-popup-block.1.1.1.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-1.png?rev=2998806",
+            "caption": "Built-in Popup Templates"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-2.png?rev=2998806",
+            "caption": "Time Trigger"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-3.png?rev=2998806",
+            "caption": "Scroll Trigger"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-4.png?rev=2998806",
+            "caption": "Click Trigger"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-5.png?rev=2998806",
+            "caption": "Popup Behaviour"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-6.png?rev=2998806",
+            "caption": "Popup Conditions"
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-7.png?rev=2998806",
+            "caption": "Popup Dimension"
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/simple-popup-block\/assets\/screenshot-8.png?rev=2998806",
+            "caption": "Close Button Options"
+        }
+    },
+    "tags": {
+        "block": "block",
+        "modal": "modal",
+        "popup": "popup",
+        "simple-popup": "simple popup"
+    },
+    "stable_tag": "1.1.1",
+    "versions": {
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/simple-popup-block.1.1.0.zip",
+        "1.1.1": "https:\/\/downloads.wordpress.org\/plugin\/simple-popup-block.1.1.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/simple-popup-block.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/simple-popup-block\/assets\/banner-772x250.png?rev=2999335",
+        "high": "https:\/\/ps.w.org\/simple-popup-block\/assets\/banner-1544x500.png?rev=2999327"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/simple-popup-block\/assets\/icon-256x256.png?rev=2999327",
+        "2x": "https:\/\/ps.w.org\/simple-popup-block\/assets\/icon-256x256.png?rev=2999327"
+    },
+    "blocks": {
+        "codemanas\/simple-popup-block": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "codemanas\/simple-popup-block",
+            "version": "1.0.0",
+            "title": "Simple Popup Block",
+            "category": "codemanas-blocks",
+            "icon": "buddicons-groups",
+            "description": "A simple and easy to use popup block plugin for block editor",
+            "example": {},
+            "supports": {
+                "html": false
+            },
+            "attributes": {
+                "popupDelay": {
+                    "type": "number",
+                    "default": 0
+                },
+                "scrollBehavior": {
+                    "type": "string",
+                    "default": "percentage"
+                },
+                "scrollByPercentage": {
+                    "type": "number",
+                    "default": 0
+                },
+                "scrollByElement": {
+                    "type": "string",
+                    "default": ""
+                },
+                "clickByElement": {
+                    "type": "string",
+                    "default": ""
+                },
+                "delayToggleOn": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "scrollToggleOn": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "popupWidthInput": {
+                    "type": "string",
+                    "default": "30%"
+                },
+                "triggerBehavior": {
+                    "type": "string",
+                    "default": "time-interval"
+                },
+                "popupHeightInput": {
+                    "type": "string",
+                    "default": "80vh"
+                },
+                "closeBtnPosition": {
+                    "type": "string",
+                    "default": "outside"
+                },
+                "closeBtnSize": {
+                    "type": "string",
+                    "default": "20px"
+                },
+                "closeBtnColor": {
+                    "type": "string",
+                    "default": "#fff"
+                },
+                "showPopupOnce": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "autoClosePopup": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "userLoggedInOut": {
+                    "type": "string",
+                    "default": "all"
+                },
+                "autoClosePopupInterval": {
+                    "type": "number",
+                    "default": 5
+                },
+                "isStartedTemplateSelected": {
+                    "type": "boolean",
+                    "default": ""
+                },
+                "userRoles": {
+                    "type": "array",
+                    "default": []
+                },
+                "popupBorder": {
+                    "type": "object"
+                },
+                "closeBtnSvgDisplay": {
+                    "type": "string",
+                    "default": "default"
+                }
+            },
+            "textdomain": "simple-popup-block",
+            "editorScript": [
+                "file:.\/index.js"
+            ],
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css",
+            "viewScript": "file:.\/view.js"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

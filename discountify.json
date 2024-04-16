@@ -1,0 +1,130 @@
+{
+    "name": "Discount Rules, Dynamic Pricing for WooCommerce \u2013 Discountify",
+    "slug": "discountify",
+    "version": "1.0.22",
+    "author": "<a href=\"https:\/\/woooplugin.com\/\">Woooplugin<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/markutos987\/",
+    "contributors": {
+        "markutos987": {
+            "profile": "https:\/\/profiles.wordpress.org\/markutos987\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/efa1277182a1167ce8401aa1efaedb56?s=96&d=monsterid&r=g",
+            "display_name": "Farzana Akter Nitu"
+        },
+        "galib96": {
+            "profile": "https:\/\/profiles.wordpress.org\/galib96\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/f7384f598abb9694d02339a660072b1a?s=96&d=monsterid&r=g",
+            "display_name": "Asadullah Galib"
+        }
+    },
+    "requires": "5.2",
+    "tested": "6.5.2",
+    "requires_php": "7.3",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 60,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 1,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/discountify\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 590,
+    "last_updated": "2024-04-15 12:53pm GMT",
+    "added": "2024-01-30",
+    "homepage": "https:\/\/woooplugin.com\/discountify",
+    "sections": {
+        "description": "<p><strong><a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Discountify<\/a><\/strong> is a WooCommerce discount rules and dynamic pricing plugin that allow you to set different discount rules in WordPress eCommerce store.<\/p>\n<p>Discountify WooCommerce discount rules and dynamic pricing plugin is a powerful tool designed to enhance the functionality of your WooCommerce store. It provide advanced discounting and pricing capabilities. This plugin is instrumental in creating a dynamic and personalized shopping experience for your customers. It helps you maximize your sales and revenue.<\/p>\n<p>By leveraging the WooCommerce discount rules and dynamic pricing plugin, online store owners can enhance customer satisfaction, boost sales, and stay competitive in the dynamic eCommerce landscape. The flexibility and customization options provided by this plugin make it an indispensable tool for creating compelling promotions and pricing structures.<\/p>\n<p><strong>Helpful links \ud83d\udc47<\/strong><\/p>\n<p><strong>\u2b50\ufe0f Check premium Features \ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Discountify Pro<\/a><\/strong><br \/>\n<strong>\u2b50\ufe0f Need Any Help? \ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/support\/\" rel=\"nofollow ugc\">Contact Us<\/a>.<\/strong><br \/>\n<strong>\u2b50\ufe0f Check Live Demo \ud83d\udc49 <a href=\"https:\/\/product.woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Discountify Demo<\/a><\/strong><\/p>\n<h3>Use of Discountify Plugin<\/h3>\n<ul>\n<li><strong>Set Discount Rules<\/strong><\/li>\n<li><strong>Fixed Discounts<\/strong><\/li>\n<li><strong>Percentage Discounts<\/strong><\/li>\n<li><strong>Buy X Get X &#8211; Pro<\/strong><\/li>\n<li><strong>Buy X Get Y &#8211; Pro<\/strong><\/li>\n<li><strong>Buy 1 Get 1 Free &#8211; Pro<\/strong><\/li>\n<li><strong>Free Product or Gift &#8211; Pro<\/strong><\/li>\n<li><strong>Conditional Discounts &#8211; Pro<\/strong><\/li>\n<li><strong>Buy 2 Get 1 at 50% OFF &#8211; Pro<\/strong><\/li>\n<li><strong>Buy From Category A get Discount from Category B &#8211; Pro<\/strong><\/li>\n<li><strong>Discount on Total Spend &#8211; Pro<\/strong><\/li>\n<li><strong>Customer Specific Pricing &#8211; Pro<\/strong><\/li>\n<li><strong>Bulk Pricing &#8211; Pro<\/strong><\/li>\n<li><strong>Dynamic Pricing &#8211; Pro<\/strong><\/li>\n<\/ul>\n<h3>Current Feature<\/h3>\n<p>Discount Rules, Dynamic Pricing for WooCommerce \u2013 Discountify! With its easy-to-use interface , comprehensive features, lightweight, yet powerful plugin to attract customers, boost conversions and increase Revenue.<\/p>\n<p><strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Buy X Get X discount<\/a><\/strong> &#8211; Buy X Get X discount is a promotion offered in a WooCommerce store where customers receive a discount or free product after purchasing a specified quantity of the same product.<br \/>\n<strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Buy X Get Y discount<\/a><\/strong> &#8211; Buy X Get Y discount rule refers to a promotion where customers who purchase a specific product (X) are eligible for a discount on another product (Y).<br \/>\n<strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Free Product or Gift<\/a><\/strong> &#8211; Free gift promotion plays an essential role on boosting your sale in different ways. Promotional gifts are the most effective way for encouraging new customers to purchase products over and over from your online store.<br \/>\n<strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Conditional Discounts<\/a><\/strong> &#8211; Conditional discounts are a clever pricing strategy where discounts or special offers are granted to a purchase based on specific conditions or criteria being satisfied.<br \/>\n<strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Category Combination<\/a><\/strong> &#8211; Category combination condition refers to the process of combining different categories for a discount using specific rules or conditions. Like customer who purchase a shirt is eligible for discount a sunglass.<br \/>\n<strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Fixed Discounts<\/a><\/strong> &#8211; This feature is designed to help you incentivize customers to purchase more while maintaining a higher profit margin.<br \/>\n<strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Percentage discounts<\/a><\/strong> &#8211; It will Replace \u201cSale\u201d badge on every sales product with percentage of discount.<br \/>\n<strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Discount on Total Spend<\/a><\/strong> &#8211; Discount based on the total amount spent by the customer.Discount based on the total number of orders placed by the customer.<br \/>\n<strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Customer Specific Pricing<\/a><\/strong> &#8211; Discountify is a useful plugin for anyone looking to increase or discount prices for individual customers and user roles.<br \/>\n<strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Bulk Pricing<\/a><\/strong> &#8211; Bulk discounts helps to clear stock of your sales by offering customer. For example, a retailer may offer a bulk discount of 10% for purchasing 10 or more of a product.<br \/>\n<strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Dynamic Pricing<\/a><\/strong> &#8211;  It allows to set up promotions, dynamic price for your WooCommerce store with clean.<\/p>\n<p>\ud83d\udccc [Before writing any review, Please be aware that, Discountify is still in its initial stage]<\/p>\n<p>More features are on the way! You can see the Changelog for more update. Join us on <a href=\"https:\/\/www.facebook.com\/woooplugin\" rel=\"nofollow ugc\">social media<\/a> to get the latest update and offers.<\/p>\n<h3>\ud83d\udd25 WHAT\u2019S NEXT<\/h3>\n<p>If you like Discountify, then consider checking out  other WordPress Plugins made by the same team:<\/p>\n<p>\ud83d\udd14 <strong><a href=\"https:\/\/wordpress.org\/plugins\/filter-plus\/\" rel=\"ugc\">Filter Plus<\/a><\/strong> \u2013  It is a WordPress and Woocommerce Product Filter Plugin that allows users to add multiple filtering features like filter by Ratings, Tags, Price Range etc.<\/p>\n<p>\ud83d\udd14 <strong><a href=\"https:\/\/sapwp.com\/\" rel=\"nofollow ugc\">Sapwp<\/a><\/strong> &#8211; The team behind Discountify, Filter Plus and Quicker.<\/p>\n",
+        "installation": "<ol>\n<li>Upload the plugin files to the <code>\/wp-content\/plugins\/discountify<\/code> directory, or install the plugin through the WordPress plugins screen directly.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; screen in WordPress<\/li>\n<li>All Settings will be found in Admin Wooplugins -&gt; Discountify<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='is%20it%20compatible%20with%20all%20wordpress%20themes%3F'>\nIs it compatible with all WordPress themes?\n<\/h4>\n<p>\n<p>We have tested all the popular themes. And we believe, it will work with your theme if that has been well developed for WordPress and WooComerce. If you face any issue, drop us a message on our support link. Our team will take care of the compatibility issue.<\/p>\n<\/p>\n\n",
+        "changelog": "<p>= 1.0.22 (April 15, 2024)=<br \/>\nFixing: Buy X get Y admin settings fix<\/p>\n<p>= 1.0.21 (April 08, 2024)=<br \/>\nFixing: Bulk Pricing fixing<\/p>\n<p>= 1.0.20 (April 06, 2024)=<br \/>\nTweak: Overview page ux improve<\/p>\n<p>= 1.0.19 (March 27, 2024)=<br \/>\nFix: Total spend issue<\/p>\n<p>= 1.0.18 (March 27, 2024)=<br \/>\nFix: Simple discount message<\/p>\n<p>= 1.0.17 (March 23, 2024)=<br \/>\nAdded: Bulk pricing table update<\/p>\n<p>= 1.0.16 (March 18, 2024)=<br \/>\nAdded: Add message for Bulk and Total Spend<\/p>\n<p>= 1.0.15 (March 17, 2024)=<br \/>\nFix: Simple discount issue<\/p>\n<p>= 1.0.14 (March 10, 2024)=<br \/>\nFix: Bulk pricing and Total spend block not showing<\/p>\n<p>= 1.0.13 (March 10, 2024)=<br \/>\nFix: Repeater issue<\/p>\n<p>= 1.0.12 (February 26, 2024)=<br \/>\nAdded: Discount on total Spend<br \/>\nAdded: Bulk discount<\/p>\n<p>= 1.0.11 (February 26, 2024)=<br \/>\nFix: Simple discount issue<\/p>\n<p>= 1.0.10 (February 22, 2024)=<br \/>\nAdd: Discount on total spend<br \/>\nFix: Category based discount<\/p>\n<p>= 1.0.9 (February 21, 2024)=<br \/>\nFix: Bogo discount UX improve<br \/>\nFix: Free product discount<\/p>\n<p>= 1.0.8 (February 16, 2024)=<br \/>\nFix: Admin settings UX improve<\/p>\n<p>= 1.0.7 (February 14, 2024)=<br \/>\nFix: BOGO offer issue<\/p>\n<p>= 1.0.6 (February 13, 2024)=<br \/>\nFix: Simple, Percentage discount ux improve<\/p>\n<p>= 1.0.5 (February 13, 2024)=<br \/>\nFix: Simple, Percentage discount ux improve<\/p>\n<p>= 1.0.4 (February 12, 2024)=<br \/>\nFix: Admin responsive design issue<\/p>\n<p>= 1.0.4 (February 11, 2024)=<br \/>\nFix: Bogo repeater issue<\/p>\n<p>= 1.0.3 (February 10, 2024)=<br \/>\nAdded: Overview page<\/p>\n<p>= 1.0.2 (February 02, 2024)=<br \/>\n\u2013 JS script optimized<\/p>\n<p>= 1.0.1 (February 02, 2024)=<br \/>\n\u2013 PHP code optimized<\/p>\n<p>= 1.0.0 (June 23, 2023)=<br \/>\n\u2013 initial release<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/discountify\/assets\/screenshot-1.png?rev=3030636\"><img src=\"https:\/\/ps.w.org\/discountify\/assets\/screenshot-1.png?rev=3030636\" alt=\"screenshot-1\"><\/a><p>screenshot-1<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/discountify\/assets\/screenshot-2.png?rev=3030636\"><img src=\"https:\/\/ps.w.org\/discountify\/assets\/screenshot-2.png?rev=3030636\" alt=\"screenshot-2\"><\/a><p>screenshot-2<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/discountify\/assets\/screenshot-3.png?rev=3030636\"><img src=\"https:\/\/ps.w.org\/discountify\/assets\/screenshot-3.png?rev=3030636\" alt=\"screenshot-3\"><\/a><p>screenshot-3<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/discountify\/assets\/screenshot-4.png?rev=3034923\"><img src=\"https:\/\/ps.w.org\/discountify\/assets\/screenshot-4.png?rev=3034923\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/discountify\/assets\/screenshot-5.png?rev=3035647\"><img src=\"https:\/\/ps.w.org\/discountify\/assets\/screenshot-5.png?rev=3035647\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/discountify\/assets\/screenshot-6.png?rev=3039232\"><img src=\"https:\/\/ps.w.org\/discountify\/assets\/screenshot-6.png?rev=3039232\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Restricted Plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"3 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"3\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/maxhandmade\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/3ab21d31645a2da85d9fbda8e98392bd?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/3ab21d31645a2da85d9fbda8e98392bd?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/maxhandmade\/\" class=\"reviewer-name\">maxhandmade<\/a> on <span class=\"review-date\">April 7, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">First of all, thank you for your work. I recommend adding some more features to the free version. This way, we can have a clearer idea about the plugin you have made. Settings tab is insufficient. A menu can be added to the product section and it is possible to choose the discount type from there. Thank you.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Discountify is a WooCommerce discount rules and dynamic pricing plugin that allow you to set different discount rules in WordPress eCommerce stores.",
+    "description": "<p><strong><a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Discountify<\/a><\/strong> is a WooCommerce discount rules and dynamic pricing plugin that allow you to set different discount rules in WordPress eCommerce store.<\/p>\n<p>Discountify WooCommerce discount rules and dynamic pricing plugin is a powerful tool designed to enhance the functionality of your WooCommerce store. It provide advanced discounting and pricing capabilities. This plugin is instrumental in creating a dynamic and personalized shopping experience for your customers. It helps you maximize your sales and revenue.<\/p>\n<p>By leveraging the WooCommerce discount rules and dynamic pricing plugin, online store owners can enhance customer satisfaction, boost sales, and stay competitive in the dynamic eCommerce landscape. The flexibility and customization options provided by this plugin make it an indispensable tool for creating compelling promotions and pricing structures.<\/p>\n<p><strong>Helpful links \ud83d\udc47<\/strong><\/p>\n<p><strong>\u2b50\ufe0f Check premium Features \ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Discountify Pro<\/a><\/strong><br \/>\n<strong>\u2b50\ufe0f Need Any Help? \ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/support\/\" rel=\"nofollow ugc\">Contact Us<\/a>.<\/strong><br \/>\n<strong>\u2b50\ufe0f Check Live Demo \ud83d\udc49 <a href=\"https:\/\/product.woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Discountify Demo<\/a><\/strong><\/p>\n<h3>Use of Discountify Plugin<\/h3>\n<ul>\n<li><strong>Set Discount Rules<\/strong><\/li>\n<li><strong>Fixed Discounts<\/strong><\/li>\n<li><strong>Percentage Discounts<\/strong><\/li>\n<li><strong>Buy X Get X &#8211; Pro<\/strong><\/li>\n<li><strong>Buy X Get Y &#8211; Pro<\/strong><\/li>\n<li><strong>Buy 1 Get 1 Free &#8211; Pro<\/strong><\/li>\n<li><strong>Free Product or Gift &#8211; Pro<\/strong><\/li>\n<li><strong>Conditional Discounts &#8211; Pro<\/strong><\/li>\n<li><strong>Buy 2 Get 1 at 50% OFF &#8211; Pro<\/strong><\/li>\n<li><strong>Buy From Category A get Discount from Category B &#8211; Pro<\/strong><\/li>\n<li><strong>Discount on Total Spend &#8211; Pro<\/strong><\/li>\n<li><strong>Customer Specific Pricing &#8211; Pro<\/strong><\/li>\n<li><strong>Bulk Pricing &#8211; Pro<\/strong><\/li>\n<li><strong>Dynamic Pricing &#8211; Pro<\/strong><\/li>\n<\/ul>\n<h3>Current Feature<\/h3>\n<p>Discount Rules, Dynamic Pricing for WooCommerce \u2013 Discountify! With its easy-to-use interface , comprehensive features, lightweight, yet powerful plugin to attract customers, boost conversions and increase Revenue.<\/p>\n<p><strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Buy X Get X discount<\/a><\/strong> &#8211; Buy X Get X discount is a promotion offered in a WooCommerce store where customers receive a discount or free product after purchasing a specified quantity of the same product.<br \/>\n<strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Buy X Get Y discount<\/a><\/strong> &#8211; Buy X Get Y discount rule refers to a promotion where customers who purchase a specific product (X) are eligible for a discount on another product (Y).<br \/>\n<strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Free Product or Gift<\/a><\/strong> &#8211; Free gift promotion plays an essential role on boosting your sale in different ways. Promotional gifts are the most effective way for encouraging new customers to purchase products over and over from your online store.<br \/>\n<strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Conditional Discounts<\/a><\/strong> &#8211; Conditional discounts are a clever pricing strategy where discounts or special offers are granted to a purchase based on specific conditions or criteria being satisfied.<br \/>\n<strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Category Combination<\/a><\/strong> &#8211; Category combination condition refers to the process of combining different categories for a discount using specific rules or conditions. Like customer who purchase a shirt is eligible for discount a sunglass.<br \/>\n<strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Fixed Discounts<\/a><\/strong> &#8211; This feature is designed to help you incentivize customers to purchase more while maintaining a higher profit margin.<br \/>\n<strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Percentage discounts<\/a><\/strong> &#8211; It will Replace \u201cSale\u201d badge on every sales product with percentage of discount.<br \/>\n<strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Discount on Total Spend<\/a><\/strong> &#8211; Discount based on the total amount spent by the customer.Discount based on the total number of orders placed by the customer.<br \/>\n<strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Customer Specific Pricing<\/a><\/strong> &#8211; Discountify is a useful plugin for anyone looking to increase or discount prices for individual customers and user roles.<br \/>\n<strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Bulk Pricing<\/a><\/strong> &#8211; Bulk discounts helps to clear stock of your sales by offering customer. For example, a retailer may offer a bulk discount of 10% for purchasing 10 or more of a product.<br \/>\n<strong>\ud83d\udc49 <a href=\"https:\/\/woooplugin.com\/discountify\/\" rel=\"nofollow ugc\">Dynamic Pricing<\/a><\/strong> &#8211;  It allows to set up promotions, dynamic price for your WooCommerce store with clean.<\/p>\n<p>\ud83d\udccc [Before writing any review, Please be aware that, Discountify is still in its initial stage]<\/p>\n<p>More features are on the way! You can see the Changelog for more update. Join us on <a href=\"https:\/\/www.facebook.com\/woooplugin\" rel=\"nofollow ugc\">social media<\/a> to get the latest update and offers.<\/p>\n<h3>\ud83d\udd25 WHAT\u2019S NEXT<\/h3>\n<p>If you like Discountify, then consider checking out  other WordPress Plugins made by the same team:<\/p>\n<p>\ud83d\udd14 <strong><a href=\"https:\/\/wordpress.org\/plugins\/filter-plus\/\" rel=\"ugc\">Filter Plus<\/a><\/strong> \u2013  It is a WordPress and Woocommerce Product Filter Plugin that allows users to add multiple filtering features like filter by Ratings, Tags, Price Range etc.<\/p>\n<p>\ud83d\udd14 <strong><a href=\"https:\/\/sapwp.com\/\" rel=\"nofollow ugc\">Sapwp<\/a><\/strong> &#8211; The team behind Discountify, Filter Plus and Quicker.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.22.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/discountify\/assets\/screenshot-1.png?rev=3030636",
+            "caption": "screenshot-1"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/discountify\/assets\/screenshot-2.png?rev=3030636",
+            "caption": "screenshot-2"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/discountify\/assets\/screenshot-3.png?rev=3030636",
+            "caption": "screenshot-3"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/discountify\/assets\/screenshot-4.png?rev=3034923",
+            "caption": ""
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/discountify\/assets\/screenshot-5.png?rev=3035647",
+            "caption": ""
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/discountify\/assets\/screenshot-6.png?rev=3039232",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "bulk-discount": "bulk discount",
+        "category-discount": "category discount",
+        "discount-rules": "Discount rules",
+        "dynamic-pricing": "dynamic pricing"
+    },
+    "stable_tag": "1.0.22",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.1.zip",
+        "1.0.11": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.11.zip",
+        "1.0.12": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.12.zip",
+        "1.0.13": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.13.zip",
+        "1.0.14": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.14.zip",
+        "1.0.15": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.15.zip",
+        "1.0.16": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.16.zip",
+        "1.0.17": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.17.zip",
+        "1.0.18": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.18.zip",
+        "1.0.19": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.19.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.2.zip",
+        "1.0.20": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.20.zip",
+        "1.0.21": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.21.zip",
+        "1.0.22": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.22.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.4.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.5.zip",
+        "1.0.6": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.6.zip",
+        "1.0.7": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.7.zip",
+        "1.0.8": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.8.zip",
+        "1.0.9": "https:\/\/downloads.wordpress.org\/plugin\/discountify.1.0.9.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/discountify.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/woooplugin.com\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/discountify\/assets\/banner-772x250.jpeg?rev=3030251",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/discountify\/assets\/icon-256x256.png?rev=3030648",
+        "2x": "https:\/\/ps.w.org\/discountify\/assets\/icon-256x256.png?rev=3030648"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 60,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

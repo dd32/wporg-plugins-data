@@ -1,0 +1,101 @@
+{
+    "name": "MyQtip &#8211; easy qTip2",
+    "slug": "myqtip-easy-qtip2",
+    "version": "2.0.5",
+    "author": "<a href=\"http:\/\/monothemes.com\/\">Andrii Monin<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/dgamoni\/",
+    "contributors": {
+        "dgamoni": {
+            "profile": "https:\/\/profiles.wordpress.org\/dgamoni\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/41b6d6c37e92174e28054077ff9c3b5c?s=96&d=monsterid&r=g",
+            "display_name": "dgamoni"
+        }
+    },
+    "requires": "3.0",
+    "tested": "6.4.4",
+    "requires_php": "5.2.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 90,
+    "ratings": {
+        "5": 1,
+        "4": 1,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 2,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/myqtip-easy-qtip2\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 30,
+    "downloaded": 2374,
+    "last_updated": "2024-03-04 10:29am GMT",
+    "added": "2013-01-13",
+    "homepage": "https:\/\/myqtip.monothemes.com\/",
+    "sections": {
+        "description": "<p>MyQtip for WordPress is a plugin that uses qTip2 to display nice looking, user friendly tooltips. You can choose from 12 color style. Position easily changeable. For use &#8211; paste shortcode [myqtip title=&#8217;my text tips&#8217; ] any content [\/myqtip] or add .myqtip class for link or other tag. Text tips is taken from the title attribute<\/p>\n<p>Online Demo :<\/p>\n<p><a href=\"https:\/\/myqtip.monothemes.com\/\" rel=\"nofollow ugc\">https:\/\/myqtip.monothemes.com\/<\/a><\/p>\n<p>The plugin was created in 2013 year<\/p>\n<p>MyQtip this is plugin for WordPress, based qTip2 jQuery plugin<\/p>\n",
+        "installation": "<ol>\n<li>Upload <code>plugin-name.php<\/code> to the <code>\/wp-content\/plugins\/<\/code> directory<\/li>\n<li>Activate the plugin through the &#8216;MyQtip&#8217; menu in WordPress<\/li>\n<li>\n<p>And you can config if in the &#8216;MyQtip Settings&#8217; page.<\/p>\n<\/li>\n<li>\n<p>Click the button to save.<\/p>\n<\/li>\n<li>\n<p>For use &#8211; paste shortcode [myqtip title=&#8217;my text tips&#8217; ] any content [\/myqtip] or add .myqtip class for link or other tag. Text tips is taken from the title attribute<\/p>\n<\/li>\n<\/ol>\n<p>Online Demo :<br \/>\n<a href=\"https:\/\/myqtip.monothemes.com\/\" rel=\"nofollow ugc\">https:\/\/myqtip.monothemes.com\/<\/a><\/p>\n",
+        "faq": "<p>If you have any question and need help, please ask me monothemes@gmail.com<\/p>\n",
+        "changelog": "<h4>1.0.0<\/h4>\n<ul>\n<li>First version<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>update description<\/li>\n<\/ul>\n<h4>2.0.0<\/h4>\n<ul>\n<li>update qtip2 js to latest ver v3.0.3<\/li>\n<\/ul>\n<h4>2.0.5<\/h4>\n<ul>\n<li>security bug fix<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/myqtip-easy-qtip2\/assets\/screenshot-1.png?rev=652523\"><img src=\"https:\/\/ps.w.org\/myqtip-easy-qtip2\/assets\/screenshot-1.png?rev=652523\" alt=\"screenshot-1\"><\/a><p>screenshot-1<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/myqtip-easy-qtip2\/assets\/screenshot-2.png?rev=652525\"><img src=\"https:\/\/ps.w.org\/myqtip-easy-qtip2\/assets\/screenshot-2.png?rev=652525\" alt=\"screenshot-2\"><\/a><p>screenshot-2<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/myqtip-easy-qtip2\/assets\/screenshot-3.png?rev=652531\"><img src=\"https:\/\/ps.w.org\/myqtip-easy-qtip2\/assets\/screenshot-3.png?rev=652531\" alt=\"screenshot-3\"><\/a><p>screenshot-3<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great work!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/dgamoni\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/41b6d6c37e92174e28054077ff9c3b5c?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/41b6d6c37e92174e28054077ff9c3b5c?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/dgamoni\/\" class=\"reviewer-name\">dgamoni<\/a> on <span class=\"review-date\">March 3, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Great work!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "MyQtip for Wordpress is a plugin that uses new qTip2 jQuery plugin to display nice looking, user friendly tooltips.",
+    "description": "<p>MyQtip for WordPress is a plugin that uses qTip2 to display nice looking, user friendly tooltips. You can choose from 12 color style. Position easily changeable. For use &#8211; paste shortcode [myqtip title=&#8217;my text tips&#8217; ] any content [\/myqtip] or add .myqtip class for link or other tag. Text tips is taken from the title attribute<\/p>\n<p>Online Demo :<\/p>\n<p><a href=\"https:\/\/myqtip.monothemes.com\/\" rel=\"nofollow ugc\">https:\/\/myqtip.monothemes.com\/<\/a><\/p>\n<p>The plugin was created in 2013 year<\/p>\n<p>MyQtip this is plugin for WordPress, based qTip2 jQuery plugin<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/myqtip-easy-qtip2.2.0.5.zip",
+    "upgrade_notice": {
+        "2.0.0": "<ul>\n<li>update qtip2 js to latest ver v3.0.3<\/li>\n<\/ul>",
+        "2.0.5": "<ul>\n<li>security bug fix<\/li>\n<\/ul>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/myqtip-easy-qtip2\/assets\/screenshot-1.png?rev=652523",
+            "caption": "screenshot-1"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/myqtip-easy-qtip2\/assets\/screenshot-2.png?rev=652525",
+            "caption": "screenshot-2"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/myqtip-easy-qtip2\/assets\/screenshot-3.png?rev=652531",
+            "caption": "screenshot-3"
+        }
+    },
+    "tags": {
+        "dictionary": "dictionary",
+        "highlight": "Highlight",
+        "inline": "inline",
+        "tips": "tips",
+        "tooltip": "tooltip"
+    },
+    "stable_tag": "2.0.5",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/myqtip-easy-qtip2.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/myqtip-easy-qtip2.1.0.1.zip",
+        "2.0.0": "https:\/\/downloads.wordpress.org\/plugin\/myqtip-easy-qtip2.2.0.0.zip",
+        "2.0.1": "https:\/\/downloads.wordpress.org\/plugin\/myqtip-easy-qtip2.2.0.1.zip",
+        "2.0.3": "https:\/\/downloads.wordpress.org\/plugin\/myqtip-easy-qtip2.2.0.3.zip",
+        "2.0.4": "https:\/\/downloads.wordpress.org\/plugin\/myqtip-easy-qtip2.2.0.4.zip",
+        "2.0.5": "https:\/\/downloads.wordpress.org\/plugin\/myqtip-easy-qtip2.2.0.5.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/myqtip-easy-qtip2.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/myqtip.monothemes.com\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/myqtip-easy-qtip2\/assets\/banner-772x250.png?rev=3044230",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/myqtip-easy-qtip2\/assets\/icon-128x128.png?rev=3044227"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 90,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

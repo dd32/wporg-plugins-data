@@ -1,0 +1,66 @@
+{
+    "name": "Protection Grid",
+    "slug": "protection-grid",
+    "version": "1.4.2",
+    "author": "<a href=\"https:\/\/mibiztec.com\">Business Technology Group, LLC<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/gcsjames7\/",
+    "contributors": {
+        "gcsjames7": {
+            "profile": "https:\/\/profiles.wordpress.org\/gcsjames7\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/d21f5d6e3db3951578254df112ed85d8?s=96&d=monsterid&r=g",
+            "display_name": "gcsjames7"
+        }
+    },
+    "requires": "4.6",
+    "tested": "6.4.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/protection-grid\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 30,
+    "downloaded": 831,
+    "last_updated": "2024-01-08 3:51am GMT",
+    "added": "2022-07-22",
+    "homepage": "",
+    "sections": {
+        "description": "<p>WordPress security plugin with SSO for MiBizHosting enviornments.<\/p>\n<p>1.4.0 &#8211; Country Code Filtering &amp; backup added<br \/>\n1.3.0 &#8211; SSO enabled<\/p>\n",
+        "reviews": ""
+    },
+    "short_description": "Wordpress security plugin with SSO for MiBizHosting enviornments.\n\n1.4.0 - Country Code Filtering &amp; backup added \n1.3.0 - SSO enabled",
+    "description": "<p>WordPress security plugin with SSO for MiBizHosting enviornments.<\/p>\n<p>1.4.0 &#8211; Country Code Filtering &amp; backup added<br \/>\n1.3.0 &#8211; SSO enabled<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/protection-grid.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "security": "security",
+        "sso": "sso"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "default": "https:\/\/s.w.org\/plugins\/geopattern-icon\/protection-grid.svg"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

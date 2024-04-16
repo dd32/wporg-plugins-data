@@ -1,0 +1,478 @@
+{
+    "name": "Table Block by Tableberg &#8211; Best WordPress Table Block Plugin",
+    "slug": "tableberg",
+    "version": "0.4.1",
+    "author": "<a href=\"https:\/\/tableberg.com\/\">Tableberg<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/imtiazrayhan\/",
+    "contributors": {
+        "dotcamp": {
+            "profile": "https:\/\/profiles.wordpress.org\/dotcamp\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/c9959dc78ec786ab3443ed21ec730fef?s=96&d=monsterid&r=g",
+            "display_name": "DotCamp"
+        },
+        "imtiazrayhan": {
+            "profile": "https:\/\/profiles.wordpress.org\/imtiazrayhan\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/e617e6133cf7b7ff4a14738d5db3c025?s=96&d=monsterid&r=g",
+            "display_name": "Imtiaz Rayhan"
+        },
+        "istiakrayhan": {
+            "profile": "https:\/\/profiles.wordpress.org\/istiakrayhan\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/b8463147d19940e347d525b1a2783cac?s=96&d=monsterid&r=g",
+            "display_name": "Istiak Rayhan"
+        },
+        "permafrost06": {
+            "profile": "https:\/\/profiles.wordpress.org\/permafrost06\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/752d5089499fa80ed60dd794d43cad30?s=96&d=monsterid&r=g",
+            "display_name": "Zahin Azmayeen"
+        },
+        "ultimateblocks": {
+            "profile": "https:\/\/profiles.wordpress.org\/ultimateblocks\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/39363bbf25ac1df23ebaac04e473405c?s=96&d=monsterid&r=g",
+            "display_name": "Ultimate Blocks"
+        },
+        "wptb": {
+            "profile": "https:\/\/profiles.wordpress.org\/wptb\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/70bb8e57251fc89f99a36a2a39773782?s=96&d=monsterid&r=g",
+            "display_name": "WP Table Builder"
+        }
+    },
+    "requires": "6.1",
+    "tested": "6.5.2",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 84,
+    "ratings": {
+        "5": 4,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 1
+    },
+    "num_ratings": 5,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/tableberg\/",
+    "support_threads": 1,
+    "support_threads_resolved": 1,
+    "active_installs": 80,
+    "downloaded": 2152,
+    "last_updated": "2024-03-27 2:40am GMT",
+    "added": "2023-12-11",
+    "homepage": "https:\/\/tableberg.com\/",
+    "sections": {
+        "description": "<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/TKsL_bUVCTU?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<p>Meet TableBerg, a simple WordPress plugin that makes adding tables to your website easy as pie. With TableBerg, creating a table in the block editor is straightforward and hassle-free.<\/p>\n<p>It comes with three easy-to-use sub-blocks: text, image, and button. The text block lets you type out information, the image block lets you add pictures, and the button block lets you insert clickable buttons. It\u2019s all pretty intuitive!<\/p>\n<p>Whether you\u2019re sharing a list of your favorite books, showcasing a menu for your restaurant, or displaying a product catalogue, TableBerg helps you do it in a tidy and attractive way.<\/p>\n<p>You don\u2019t need to be tech-savvy to use it\u2014TableBerg is designed for everyone.<\/p>\n<p>It\u2019s a simple tool to make your tables informative, engaging, and easy on the eyes, right within your WordPress block editor.<\/p>\n",
+        "installation": "<ol>\n<li>Upload the plugin zip file via the plugin page of WordPress by clicking \\&#8217;Add New\\&#8217; and selecting the zip from your local computer.<\/li>\n<li>Activate the plugins through the Plugins menu in WordPress.<\/li>\n<\/ol>\n",
+        "changelog": "<h4>0.4.1<\/h4>\n<ul>\n<li>NEW: Add padding controls to button block<\/li>\n<li>IMPROVE: Change table border in responsive mode<\/li>\n<li>IMPROVE: Add a button to responsive controls to convert top row to header<\/li>\n<li>FIX: A problem with unsplitting at the end of a row<\/li>\n<\/ul>\n<h4>0.4.0<\/h4>\n<ul>\n<li>NEW: Add support for responsive table<\/li>\n<li>NEW: Alignment control for cell child blocks<\/li>\n<li>NEW: Add support for converting core table to tableberg<\/li>\n<li>IMPROVE: (Image block) Preserve aspect ratio while resizing<\/li>\n<li>IMPROVE: Display block appender when cell children are selected<\/li>\n<li>IMPROVE: Shift+click multi selection update (behaves like MS Excel)<\/li>\n<li>FIX: Wrong css placeholder in cell child blocks (e.g. list)<\/li>\n<li>FIX: (Button block) Incorrect hover colors in editor<\/li>\n<li>FIX: (Image block) Aspect ratio not preserved when resizing via handles<\/li>\n<li>FIX: (Image block) Center alignment not working<\/li>\n<li>FIX: (Image block) Images float when multiple consequent images<\/li>\n<li>FIX: (Image block) URL not set in editmode<\/li>\n<li>FIX: (Paragraph block) First and last margin issue<\/li>\n<\/ul>\n<h4>0.3.3<\/h4>\n<ul>\n<li>NEW: Split merged cells<\/li>\n<li>IMPROVE: Change table header and footer controls<\/li>\n<li>IMPROVE: Paragraph block placeholder text shortened<\/li>\n<li>FIX: Use th tags in header and footer<\/li>\n<\/ul>\n<h4>0.3.2<\/h4>\n<ul>\n<li>FIX: Default value of column and row in blank table creator dialog<\/li>\n<li>FIX: Row color problem<\/li>\n<\/ul>\n<h4>0.3.1<\/h4>\n<ul>\n<li>HOTFIX: Fixed the issue where plugin could not be activated.<\/li>\n<\/ul>\n<h4>0.3.0<\/h4>\n<ul>\n<li>NEW: Add cell spacing functionality.<\/li>\n<li>IMPROVE: Row block removed. Cell blocks are added directly to tableberg table block.<\/li>\n<li>IMPOVE: Multiple cells can be merged now.<\/li>\n<li>FIX: Adding non-cell blocks to table block breaks the layout.<\/li>\n<\/ul>\n<h4>0.2.1<\/h4>\n<ul>\n<li>FIX: (Button Block) Fixed PHP errors on frontend.<\/li>\n<\/ul>\n<h4>0.2.0<\/h4>\n<ul>\n<li>NEW: Added plugin page with instructions, documentation, and support.<\/li>\n<li>NEW: Added table block preview.<\/li>\n<li>NEW: (Table Block) Added custom block logo.<\/li>\n<li>NEW: (Table Block) Added block transform: transform core block into tableberg block.<\/li>\n<li>NEW: (Table Block) Added table alignment control to toolbar.<\/li>\n<li>NEW: (Table Block) Added global font style controls: Text Color, Link Color, Font Size.<\/li>\n<li>NEW: (Button Block) Added gradient support.<\/li>\n<li>IMPROVE: Decreased initial spacing<\/li>\n<li>IMPROVE: Changed block name from &#8220;Tableberg Image&#8221; to &#8220;Image&#8221;.<\/li>\n<li>FIX: (Table Block) Fixed an issue with table footer toggle.<\/li>\n<li>FIX: (Table Block) Show block toolbar when add table placeholder dialog is shown.<\/li>\n<li>FIX: (Table Block) Fixed an issue with adding a new row.<\/li>\n<li>FIX: (Table Block) Fixed an issue with undoing adding a row.<\/li>\n<li>FIX: (Table Block) Fixed an issue with undoing adding a column.<\/li>\n<li>FIX: (Button Block) Fixed an issue with color.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/tableberg\/assets\/screenshot-1.png?rev=3016701\"><img src=\"https:\/\/ps.w.org\/tableberg\/assets\/screenshot-1.png?rev=3016701\" alt=\"Core Table Block vs Tableberg Block\"><\/a><p>Core Table Block vs Tableberg Block<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Very light weight table creation plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/satish888\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/64efedac62d2dbb40d1965ec9722a7b0?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/64efedac62d2dbb40d1965ec9722a7b0?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/satish888\/\" class=\"reviewer-name\">Satish Kumar Ithamsetty <small>(satish888)<\/small><\/a> on <span class=\"review-date\">March 24, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I thought that creating tables in WordPress was a boring activity until I discovered Tableberg; it is a game changer! \u00a0It\u2019s very user-friendly, even for someone like me who\u2019s new to this. \u00a0Forget about the mess with heavy codes; just drag and drop, create tables, and design them with colors together with content blocks for text, images, or even buttons! What do I love most? There is no more fighting to make tables look good on mobile devices. \u00a0Because Tableberg does everything, my website looks fantastic! \u00a0I highly recommend it.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Responsive and lightweight!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/sayemibnkashem\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/cb9b0abc6d77d02f52081d0f240f6945?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/cb9b0abc6d77d02f52081d0f240f6945?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/sayemibnkashem\/\" class=\"reviewer-name\">sayemibnkashem<\/a> on <span class=\"review-date\">January 23, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I have used Tableberg on few of my website. It\u2019s quite good and better than many premium table builder!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">A very helpful Table Builder Plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/wefuad\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e151c107614be18ded79d89a57c9a8b8?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e151c107614be18ded79d89a57c9a8b8?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/wefuad\/\" class=\"reviewer-name\">Fuad <small>(wefuad)<\/small><\/a> on <span class=\"review-date\">January 11, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I have found TableBerg a very helpful Table Builder plugin both for beginners and advanced users.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Simple And Minimal<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/arifinity\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/37d14923d7a9a6c8147315ce259ca21e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/37d14923d7a9a6c8147315ce259ca21e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/arifinity\/\" class=\"reviewer-name\">arifinity<\/a> on <span class=\"review-date\">January 10, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Loved the simplicity and and straight forwardness of this plugin. Fast and Responsive!! <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Backend UX is horrible<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/yangman\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/845974b3dae88964debab5b7813f84a1?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/845974b3dae88964debab5b7813f84a1?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/yangman\/\" class=\"reviewer-name\">Momo <small>(yangman)<\/small><\/a> on <span class=\"review-date\">January 4, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I wish I can get back my 15 minutes.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Table Block For the Block Editor. Craft Beautiful Tables With Ease.",
+    "description": "<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/TKsL_bUVCTU?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<p>Meet TableBerg, a simple WordPress plugin that makes adding tables to your website easy as pie. With TableBerg, creating a table in the block editor is straightforward and hassle-free.<\/p>\n<p>It comes with three easy-to-use sub-blocks: text, image, and button. The text block lets you type out information, the image block lets you add pictures, and the button block lets you insert clickable buttons. It\u2019s all pretty intuitive!<\/p>\n<p>Whether you\u2019re sharing a list of your favorite books, showcasing a menu for your restaurant, or displaying a product catalogue, TableBerg helps you do it in a tidy and attractive way.<\/p>\n<p>You don\u2019t need to be tech-savvy to use it\u2014TableBerg is designed for everyone.<\/p>\n<p>It\u2019s a simple tool to make your tables informative, engaging, and easy on the eyes, right within your WordPress block editor.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/tableberg.0.4.1.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/tableberg\/assets\/screenshot-1.png?rev=3016701",
+            "caption": "Core Table Block vs Tableberg Block"
+        }
+    },
+    "tags": {
+        "amazon-affiliate": "amazon affiliate",
+        "comparison-table": "comparison table",
+        "comparison-tables": "Comparison Tables",
+        "table": "table"
+    },
+    "stable_tag": "0.4.1",
+    "versions": {
+        "0.0.2": "https:\/\/downloads.wordpress.org\/plugin\/tableberg.0.0.2.zip",
+        "0.2.1": "https:\/\/downloads.wordpress.org\/plugin\/tableberg.0.2.1.zip",
+        "0.3.2": "https:\/\/downloads.wordpress.org\/plugin\/tableberg.0.3.2.zip",
+        "0.3.3": "https:\/\/downloads.wordpress.org\/plugin\/tableberg.0.3.3.zip",
+        "0.4.1": "https:\/\/downloads.wordpress.org\/plugin\/tableberg.0.4.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/tableberg.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/www.paypal.me\/imtiazrayhan\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/tableberg\/assets\/banner-772x250.png?rev=3008289",
+        "high": "https:\/\/ps.w.org\/tableberg\/assets\/banner-1544x500.png?rev=3008289"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/tableberg\/assets\/icon-128x128.png?rev=3008289",
+        "2x": "https:\/\/ps.w.org\/tableberg\/assets\/icon-256x256.png?rev=3008289"
+    },
+    "blocks": {
+        "tableberg\/table": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "version": "0.3.0",
+            "name": "tableberg\/table",
+            "title": "Tableberg",
+            "category": "design",
+            "description": "Table Block By Tableberg - Advanced Table Block for Block Editor",
+            "supports": {
+                "html": false
+            },
+            "attributes": {
+                "version": {
+                    "type": "string",
+                    "default": ""
+                },
+                "rows": {
+                    "type": "number",
+                    "default": 2
+                },
+                "cols": {
+                    "type": "number",
+                    "default": 2
+                },
+                "cells": {
+                    "type": "number",
+                    "default": 0
+                },
+                "colWidths": {
+                    "type": "array",
+                    "default": []
+                },
+                "rowHeights": {
+                    "type": "array",
+                    "default": []
+                },
+                "hasTableCreated": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "cellPadding": {
+                    "type": "object",
+                    "default": {}
+                },
+                "cellSpacing": {
+                    "type": "object",
+                    "default": {}
+                },
+                "enableTableHeader": {
+                    "type": "string",
+                    "default": ""
+                },
+                "enableTableFooter": {
+                    "type": "string",
+                    "default": ""
+                },
+                "tableWidth": {
+                    "type": "string",
+                    "default": ""
+                },
+                "tableAlignment": {
+                    "type": "string",
+                    "default": "center"
+                },
+                "headerBackgroundColor": {
+                    "type": "string",
+                    "default": null
+                },
+                "headerBackgroundGradient": {
+                    "type": "string",
+                    "default": null
+                },
+                "evenRowBackgroundColor": {
+                    "type": "string",
+                    "default": null
+                },
+                "evenRowBackgroundGradient": {
+                    "type": "string",
+                    "default": null
+                },
+                "oddRowBackgroundColor": {
+                    "type": "string",
+                    "default": null
+                },
+                "oddRowBackgroundGradient": {
+                    "type": "string",
+                    "default": null
+                },
+                "footerBackgroundColor": {
+                    "type": "string",
+                    "default": null
+                },
+                "footerBackgroundGradient": {
+                    "type": "string",
+                    "default": null
+                },
+                "tableBorder": {
+                    "type": "object",
+                    "default": {}
+                },
+                "innerBorder": {
+                    "type": "object",
+                    "default": {}
+                },
+                "enableInnerBorder": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "isExample": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "fontSize": {
+                    "type": "string",
+                    "default": ""
+                },
+                "fontColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "linkColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "responsive": {
+                    "type": "object",
+                    "default": {
+                        "last": "primary",
+                        "breakpoints": {}
+                    }
+                }
+            },
+            "example": {
+                "attributes": {
+                    "isExample": true
+                }
+            },
+            "textdomain": "tableberg",
+            "editorScript": "tableberg-script",
+            "editorStyle": "tableberg-editor-style",
+            "style": "tableberg-style"
+        },
+        "tableberg\/cell": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "version": "0.2.0",
+            "title": "Cell",
+            "name": "tableberg\/cell",
+            "parent": [
+                "tableberg\/table"
+            ],
+            "category": "design",
+            "icon": "table-row-after",
+            "description": "Tableberg Cell: Individual cell of a tableberg table",
+            "attributes": {
+                "vAlign": {
+                    "type": "string",
+                    "default": "center"
+                },
+                "tagName": {
+                    "type": "string",
+                    "default": "td"
+                },
+                "rowspan": {
+                    "type": "number",
+                    "default": 1
+                },
+                "colspan": {
+                    "type": "number",
+                    "default": 1
+                },
+                "row": {
+                    "type": "number",
+                    "default": 0
+                },
+                "col": {
+                    "type": "number",
+                    "default": 0
+                },
+                "responsiveTarget": {
+                    "type": "string",
+                    "default": ""
+                },
+                "isTmp": {
+                    "type": "boolean",
+                    "default": false
+                }
+            },
+            "supports": {
+                "html": false,
+                "__experimentalExposeControlsToChildren": true
+            },
+            "textdomain": "tableberg",
+            "editorScript": "tableberg-script",
+            "editorStyle": "tableberg-editor-style",
+            "style": "tableberg-style"
+        },
+        "tableberg\/button": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "version": "0.1.0",
+            "title": "Button",
+            "name": "tableberg\/button",
+            "parent": [
+                "tableberg\/cell"
+            ],
+            "category": "design",
+            "icon": "button",
+            "description": "Tableberg Button: Add a button to your tableberg table",
+            "attributes": {
+                "text": {
+                    "type": "string"
+                },
+                "width": {
+                    "type": "number"
+                },
+                "padding": {
+                    "type": "object",
+                    "default": {}
+                },
+                "backgroundColor": {
+                    "type": "string"
+                },
+                "backgroundGradient": {
+                    "type": "string"
+                },
+                "textColor": {
+                    "type": "string"
+                },
+                "backgroundHoverGradient": {
+                    "type": "string"
+                },
+                "backgroundHoverColor": {
+                    "type": "string"
+                },
+                "textHoverColor": {
+                    "type": "string"
+                },
+                "textAlign": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "url": {
+                    "type": "string"
+                },
+                "linkTarget": {
+                    "type": "string"
+                },
+                "rel": {
+                    "type": "string"
+                }
+            },
+            "supports": {
+                "html": false,
+                "typography": {
+                    "fontSize": true
+                },
+                "__experimentalBorder": {
+                    "radius": true
+                }
+            },
+            "textdomain": "tableberg",
+            "editorScript": "tableberg-script",
+            "editorStyle": "tableberg-editor-style",
+            "style": "tableberg-style"
+        },
+        "tableberg\/image": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "version": "0.0.2",
+            "title": "Image",
+            "name": "tableberg\/image",
+            "category": "design",
+            "parent": [
+                "tableberg\/cell"
+            ],
+            "description": "Tableberg Image",
+            "attributes": {
+                "media": {
+                    "type": "object",
+                    "default": {}
+                },
+                "height": {
+                    "type": "string",
+                    "default": ""
+                },
+                "width": {
+                    "type": "string",
+                    "default": ""
+                },
+                "align": {
+                    "type": "string",
+                    "default": "left"
+                },
+                "alt": {
+                    "type": "string",
+                    "default": ""
+                },
+                "aspectRatio": {
+                    "type": "string",
+                    "default": ""
+                },
+                "scale": {
+                    "type": "string",
+                    "default": ""
+                },
+                "sizeSlug": {
+                    "type": "string",
+                    "default": "large"
+                },
+                "caption": {
+                    "type": "string",
+                    "default": ""
+                },
+                "href": {
+                    "type": "string",
+                    "default": ""
+                },
+                "linkClass": {
+                    "type": "string",
+                    "default": ""
+                },
+                "linkDestination": {
+                    "type": "string",
+                    "default": ""
+                },
+                "rel": {
+                    "type": "string",
+                    "default": ""
+                },
+                "linkTarget": {
+                    "type": "string",
+                    "default": ""
+                },
+                "border": {
+                    "type": "object",
+                    "default": {}
+                },
+                "borderRadius": {
+                    "type": "object",
+                    "default": {}
+                }
+            },
+            "supports": {
+                "anchor": true,
+                "color": {
+                    "text": false,
+                    "background": false
+                },
+                "filter": {
+                    "duotone": true
+                },
+                "selectors": {
+                    "filter": {
+                        "duotone": ".wp-block-tableberg-image img, .wp-block-tableberg-image .components-placeholder"
+                    }
+                }
+            },
+            "textdomain": "tableberg",
+            "editorScript": "tableberg-script",
+            "editorStyle": "tableberg-editor-style",
+            "style": "tableberg-style"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 84,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

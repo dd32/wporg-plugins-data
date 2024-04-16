@@ -1,0 +1,70 @@
+{
+    "name": "Automatic Product Categories for WooCommerce",
+    "slug": "automatic-product-categories-for-woocommerce",
+    "version": "1.0.1",
+    "author": "penthouseplugins",
+    "author_profile": "https:\/\/profiles.wordpress.org\/penthouseplugins\/",
+    "contributors": {
+        "penthouseplugins": {
+            "profile": "https:\/\/profiles.wordpress.org\/penthouseplugins\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/afd917de88e4bf4b44fc23fcd41681bf?s=96&d=monsterid&r=g",
+            "display_name": "penthouseplugins"
+        }
+    },
+    "requires": "6.0",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/automatic-product-categories-for-woocommerce\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 190,
+    "last_updated": "2024-03-27 6:05pm GMT",
+    "added": "2024-03-18",
+    "homepage": "",
+    "sections": {
+        "description": "<p>This plugins adds an &#8220;Automatic Categories&#8221; item to the Products menu in the WordPress admin, which allows the user to set up rules for automatic product category assignment. Rules can be applied automatically to new and\/or existing products when created or saved, respectively, or they can be run manually on all existing products from the Products &gt; Automatic Categories screen.<\/p>\n<h3>1.0.1<\/h3>\n<ul>\n<li>Add an additional permissions check to admin functionality<\/li>\n<\/ul>\n<h3>1.0.0<\/h3>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n",
+        "installation": "<p>This plugin can be installed under Plugins &gt; Add New Plugin, either by searching for the plugin title or by downloading the plugin zip file and uploading it via the Upload Plugin feature.<\/p>\n",
+        "reviews": ""
+    },
+    "short_description": "Automatically assign product categories to new and existing products based on rules you define.",
+    "description": "<p>This plugins adds an &#8220;Automatic Categories&#8221; item to the Products menu in the WordPress admin, which allows the user to set up rules for automatic product category assignment. Rules can be applied automatically to new and\/or existing products when created or saved, respectively, or they can be run manually on all existing products from the Products &gt; Automatic Categories screen.<\/p>\n<h3>1.0.1<\/h3>\n<ul>\n<li>Add an additional permissions check to admin functionality<\/li>\n<\/ul>\n<h3>1.0.0<\/h3>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/automatic-product-categories-for-woocommerce.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "ecommerce": "ecommerce",
+        "product-categories": "Product Categories"
+    },
+    "stable_tag": "trunk",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/automatic-product-categories-for-woocommerce.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/automatic-product-categories-for-woocommerce.1.0.1.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "default": "https:\/\/s.w.org\/plugins\/geopattern-icon\/automatic-product-categories-for-woocommerce.svg"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

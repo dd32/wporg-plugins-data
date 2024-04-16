@@ -1,0 +1,343 @@
+{
+    "name": "Pop-up",
+    "slug": "pop-up-pop-up",
+    "version": "1.2.5",
+    "author": "<a href=\"https:\/\/inisev.com\">Inisev<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/inisev\/",
+    "contributors": {
+        "inisev": {
+            "profile": "https:\/\/profiles.wordpress.org\/inisev\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/dcddd67e2de697da4e09e7894dc7dbd4?s=96&d=monsterid&r=g",
+            "display_name": "Inisev"
+        }
+    },
+    "requires": "4.6",
+    "tested": "6.4.4",
+    "requires_php": "5.6",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 94,
+    "ratings": {
+        "5": 66,
+        "4": 1,
+        "3": 0,
+        "2": 0,
+        "1": 6
+    },
+    "num_ratings": 73,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/pop-up-pop-up\/",
+    "support_threads": 1,
+    "support_threads_resolved": 1,
+    "active_installs": 10000,
+    "downloaded": 254528,
+    "last_updated": "2024-02-13 5:39am GMT",
+    "added": "2020-11-07",
+    "homepage": "https:\/\/mypopups.com",
+    "sections": {
+        "description": "<p><strong>Try it out on your free dummy site: Click here =&gt; <a href=\"https:\/\/demo.tastewp.com\/mpu\" rel=\"nofollow ugc\">https:\/\/tastewp.com\/plugins\/pop-up-pop-up<\/a>.<\/strong><br \/>\n(this trick works for all plugins in the WP repo &#8211; just replace &#8220;wordpress&#8221; with &#8220;tastewp&#8221; in the URL)<\/p>\n<p>Create stunning pop-ups in a breeze!<\/p>\n<p>This plugin allows you (in combination with MyPopUps.com) to place cool-looking pop-ups on your site for various purposes:<\/p>\n<ul>\n<li>Collect emails<\/li>\n<li>Show discount codes<\/li>\n<li>Get social likes &amp; shares<\/li>\n<li>Show cookie notices<\/li>\n<li>Block ad-blockers<\/li>\n<\/ul>\n<p>You can design the pop-ups to your liking thanks to the powerful builder on MyPopUps.<\/p>\n<p>You can activate &amp; disable the pop-ups directly inside this plugin (without having to leave your WP dashboard)!<\/p>\n<p>Coming soon: define much more granular rules when &amp; how the pop-ups should show (using WordPress parameters, inside this plugin).<\/p>\n<p>Give it a shot! If you find any ways how to improve it, please let us know in the support forum, we&#8217;ll always try to respond quickly \ud83d\ude42<\/p>\n<p>Note: This plugin relies on the 3rd party service MyPopUps, which can be reached at https:\/\/mypopups.com. The pop-ups are created on MyPopUps and displayed on your website with the help of this plugin. Only when you click on the &#8220;Yes&#8221; button in the plugin a connection is established to MyPopUps (this is also mentioned on that button). For the confidential handling of your data, please have a look at MyPopUps&#8217; GDPR-compliant privacy policy at https:\/\/mypopups.com\/privacy as well at the terms of use at https:\/\/mypopups.com\/terms. If you have any questions about those, please don&#8217;t hesitate to contact us here https:\/\/mypopups.com\/contact-us. Thank you!<\/p>\n",
+        "faq": "\n<dt id='is%20the%20plugin%20also%20available%20in%20my%20language%3F'>\nIs the plugin also available in my language?\n<\/h4>\n<p>\n<p>So far we have translated the plugin into these languages:<\/p>\n<p>Arabic: <a href=\"https:\/\/ar.wordpress.org\/plugins\/pop-up-pop-up\/\" rel=\"nofollow ugc\">\u0625\u0646\u0634\u0627\u0621 \u0645\u0630\u0647\u0644 \u0645\u0646\u0628\u062b\u0642\u0629 \u060c \u0644\u0627\u0641\u062a\u0629 \u060c \u0648\u064a\u062f\u062c\u062a \u060c lightbox \u060c \u0645\u0634\u0631\u0648\u0637 \u060c \u0645\u0646\u0628\u062b\u0642\u0629.<\/a><br \/>\nChinese (China): <a href=\"https:\/\/cn.wordpress.org\/plugins\/pop-up-pop-up\/\" rel=\"nofollow ugc\">\u521b\u5efa\u4ee4\u4eba\u60ca\u53f9\u7684\u5f39\u51fa\u7a97\u53e3\u3001\u6a2a\u5e45\u3001\u5c0f\u90e8\u4ef6\u3001\u706f\u7bb1\u3001\u6a21\u5f0f\u3001\u5f39\u51fa\u7a97\u53e3\u3002<\/a><br \/>\nCroatian: <a href=\"https:\/\/hr.wordpress.org\/plugins\/pop-up-pop-up\/\" rel=\"nofollow ugc\">Napravite zadivljuju\u0107i pop-up, banner, widget, lightbox, modal, popup.<\/a><br \/>\nDutch: <a href=\"https:\/\/nl.wordpress.org\/plugins\/pop-up-pop-up\/\" rel=\"nofollow ugc\">Maak een verbluffende pop-up, banner, widget, lightbox, modaal, pop-up.<\/a><br \/>\nEnglish: <a href=\"https:\/\/wordpress.org\/plugins\/pop-up-pop-up\/\" rel=\"ugc\">Create an amazing pop-up, banner, widget, lightbox, modal, popup.<\/a><br \/>\nFinnish: <a href=\"https:\/\/fi.wordpress.org\/plugins\/pop-up-pop-up\/\" rel=\"nofollow ugc\">Luo upeita ponnahdusikkunoita, bannereita, widgetej\u00e4, lightboxeja, modaaleja, ponnahdusikkunoita.<\/a><br \/>\nFrench (France): <a href=\"https:\/\/fr.wordpress.org\/plugins\/pop-up-pop-up\/\" rel=\"nofollow ugc\">Cr\u00e9ez de superbes pop-up, banni\u00e8res, widgets, lightbox, modal, popup.<\/a><br \/>\nGerman: <a href=\"https:\/\/de.wordpress.org\/plugins\/pop-up-pop-up\/\" rel=\"nofollow ugc\">Erstellen Sie atemberaubende Pop-ups, Banner, Widgets, Lightboxen, Modal- und Popups.<\/a><br \/>\nGreek: <a href=\"https:\/\/el.wordpress.org\/plugins\/pop-up-pop-up\/\" rel=\"nofollow ugc\">\u0394\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03ae\u03c3\u03c4\u03b5 \u03b5\u03ba\u03c0\u03bb\u03b7\u03ba\u03c4\u03b9\u03ba\u03cc \u03b1\u03bd\u03b1\u03b4\u03c5\u03cc\u03bc\u03b5\u03bd\u03bf \u03c0\u03b1\u03c1\u03ac\u03b8\u03c5\u03c1\u03bf, banner, widget, lightbox, modal, popup.<\/a><br \/>\nHungarian: <a href=\"https:\/\/hu.wordpress.org\/plugins\/pop-up-pop-up\/\" rel=\"nofollow ugc\">Leny\u0171g\u00f6z\u0151 pop-up, szalaghirdet\u00e9s, widget, \u00e1tvil\u00e1g\u00edt\u00f3doboz, mod\u00e1lis, el\u0151ugr\u00f3 ablak l\u00e9trehoz\u00e1sa.<\/a><br \/>\nIndonesian: <a href=\"https:\/\/id.wordpress.org\/plugins\/pop-up-pop-up\/\" rel=\"nofollow ugc\">Buat pop-up, banner, widget, lightbox, modal, popup yang menakjubkan.<\/a><br \/>\nItalian: <a href=\"https:\/\/it.wordpress.org\/plugins\/pop-up-pop-up\/\" rel=\"nofollow ugc\">Crea straordinari pop-up, banner, widget, lightbox, modali, popup.<\/a><br \/>\nPersian: <a href=\"https:\/\/fa.wordpress.org\/plugins\/pop-up-pop-up\/\" rel=\"nofollow ugc\">\u067e\u0627\u067e \u0622\u067e\u060c \u0628\u0646\u0631\u060c \u0648\u06cc\u062c\u062a\u060c \u0644\u0627\u06cc\u062a \u0628\u0627\u06a9\u0633\u060c \u0645\u062f\u0627\u0644\u060c \u067e\u0627\u067e \u0622\u067e \u062e\u06cc\u0631\u0647 \u06a9\u0646\u0646\u062f\u0647 \u0627\u06cc\u062c\u0627\u062f \u06a9\u0646\u06cc\u062f.<\/a><br \/>\nPolish: <a href=\"https:\/\/pl.wordpress.org\/plugins\/pop-up-pop-up\/\" rel=\"nofollow ugc\">Tw\u00f3rz osza\u0142amiaj\u0105ce pop-upy, banery, wid\u017cety, lightbox, modalne, popup.<\/a><br \/>\nPortuguese (Brazil): <a href=\"https:\/\/br.wordpress.org\/plugins\/pop-up-pop-up\/\" rel=\"nofollow ugc\">Crie impressionantes pop-up, banner, widget, lightbox, modal, pop-up.<\/a><br \/>\nRussian: <a href=\"https:\/\/ru.wordpress.org\/plugins\/pop-up-pop-up\/\" rel=\"nofollow ugc\">\u0421\u043e\u0437\u0434\u0430\u0432\u0430\u0439\u0442\u0435 \u043f\u043e\u0442\u0440\u044f\u0441\u0430\u044e\u0449\u0438\u0435 \u0432\u0441\u043f\u043b\u044b\u0432\u0430\u044e\u0449\u0438\u0435 \u043e\u043a\u043d\u0430, \u0431\u0430\u043d\u043d\u0435\u0440\u044b, \u0432\u0438\u0434\u0436\u0435\u0442\u044b, \u043b\u0430\u0439\u0442\u0431\u043e\u043a\u0441\u044b, \u043c\u043e\u0434\u0430\u043b\u044c\u043d\u044b\u0435 \u043e\u043a\u043d\u0430, \u0432\u0441\u043f\u043b\u044b\u0432\u0430\u044e\u0449\u0438\u0435 \u043e\u043a\u043d\u0430.<\/a><br \/>\nSpanish: <a href=\"https:\/\/es.wordpress.org\/plugins\/pop-up-pop-up\/\" rel=\"nofollow ugc\">Cree impresionantes ventanas emergentes, pancartas, widgets, cajas de luz, modal, ventanas emergentes.<\/a><br \/>\nTurkish: <a href=\"https:\/\/tr.wordpress.org\/plugins\/pop-up-pop-up\/\" rel=\"nofollow ugc\">G\u00f6z kama\u015ft\u0131r\u0131c\u0131 pop-uplar, bannerlar, widgetlar, lightboxlar, modallar ve popuplar olu\u015fturun.<\/a><br \/>\nVietnamese: <a href=\"https:\/\/vi.wordpress.org\/plugins\/pop-up-pop-up\/\" rel=\"nofollow ugc\">T\u1ea1o c\u1eeda s\u1ed5 b\u1eadt l\u00ean, bi\u1ec3u ng\u1eef, ti\u1ec7n \u00edch, h\u1ed9p \u0111\u00e8n, ph\u01b0\u01a1ng th\u1ee9c, c\u1eeda s\u1ed5 b\u1eadt l\u00ean tuy\u1ec7t \u0111\u1eb9p.<\/a><\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.2.5<\/h4>\n<ul>\n<li>[NOTE] Changed plugin&#8217;s author name to our company account<\/li>\n<li>[NOTE] Tested up with WordPress 6.4.3<\/li>\n<\/ul>\n<h4>1.2.4<\/h4>\n<ul>\n<li>[NOTE] Upgraded analyst module to latest version<\/li>\n<li>[NOTE] Tested up to PHP v8.3<\/li>\n<\/ul>\n<h4>1.2.3<\/h4>\n<ul>\n<li>[NOTE] Updated review module for better compatiblity <\/li>\n<li>[NOTE] Updated analyst module<\/li>\n<li>[NOTE] Tested with WordPress 6.4.2<\/li>\n<\/ul>\n<h4>1.2.2<\/h4>\n<ul>\n<li>Tested with WordPress 6.4<\/li>\n<li>Added full PHP support up to PHP 8.2<\/li>\n<li>Improved pop-up activation, code detection<\/li>\n<li>Updated carousel module<\/li>\n<li>Updated opt-in module<\/li>\n<\/ul>\n<h4>1.2.1<\/h4>\n<ul>\n<li>Tested with WP 6.3 RC<\/li>\n<li>Updated all shared modules to their latest versions<\/li>\n<\/ul>\n<h4>1.2.0<\/h4>\n<ul>\n<li>Tested with WordPress 6.2<\/li>\n<li>Updated old database versions compatibility<\/li>\n<li>Removed unused module<\/li>\n<li>Updated carrousel module<\/li>\n<\/ul>\n<h4>1.1.9<\/h4>\n<ul>\n<li>Adjusted PHP compatibility<\/li>\n<\/ul>\n<h4>1.1.8<\/h4>\n<ul>\n<li>Added black-friday theme (only for that period)<\/li>\n<li>Tested up to WordPress 6.1.1<\/li>\n<\/ul>\n<h4>1.1.7<\/h4>\n<ul>\n<li>Tested with WordPress 6.1-RC5 (Multisite setup as well)<\/li>\n<li>Removed possible conflicting function<\/li>\n<\/ul>\n<h4>1.1.6<\/h4>\n<ul>\n<li>Tested with WordPress 6.0.1 (Multisite)<\/li>\n<li>Added nonce verification for additional protection<\/li>\n<li>Fixed issues while MyPopUps token was broken<\/li>\n<\/ul>\n<h4>1.1.5<\/h4>\n<ul>\n<li>Added more handlers for pop-up script insertion (+ use of wp_enqueue_script)<\/li>\n<\/ul>\n<h4>1.1.4<\/h4>\n<ul>\n<li>Modified script insertion method<\/li>\n<\/ul>\n<h4>1.1.3<\/h4>\n<ul>\n<li>Removed possibility of displaying pop-up under \/wp-admin area<\/li>\n<\/ul>\n<h4>1.1.2<\/h4>\n<ul>\n<li>Restricted access to the plugin only for users with &#8220;activate_plugins&#8221; permission.<\/li>\n<li>Added redundant sanitization<\/li>\n<\/ul>\n<h4>1.1.1<\/h4>\n<ul>\n<li>Fully tested up to WP 6.0<\/li>\n<li>Improved solution for script insertion<\/li>\n<li>Improved pop-up activation<\/li>\n<li>Solved known issues when pop-up was not displaying<\/li>\n<\/ul>\n<h4>1.1.0<\/h4>\n<ul>\n<li>Tested up to WP 6.0-beta1<\/li>\n<li>Retested with PHP 8.1 on latest WP beta<\/li>\n<li>Adjusted carrousel banner<\/li>\n<li>Solved display issues with specific themes<\/li>\n<\/ul>\n<h4>1.0.9<\/h4>\n<ul>\n<li>Tested up to WP 5.9-beta2<\/li>\n<li>Removed deactivation module<\/li>\n<\/ul>\n<h4>1.0.8<\/h4>\n<ul>\n<li>Fixed fatal error<\/li>\n<\/ul>\n<h4>1.0.7<\/h4>\n<ul>\n<li>Tested up to WordPress 5.8.2<\/li>\n<li>Tested with PHP 8.0 and 8.1<\/li>\n<li>Updated banners<\/li>\n<li>Deactivation module included<\/li>\n<\/ul>\n<h4>1.0.6<\/h4>\n<ul>\n<li>Updated banners<\/li>\n<li>Tested on WordPress 5.7.2<\/li>\n<\/ul>\n<h4>1.0.5<\/h4>\n<ul>\n<li>Support for WordPress 5.7<\/li>\n<li>Fixed few notices in PHP 8<\/li>\n<li>Modified insert function, which should work with less popular themes.<\/li>\n<\/ul>\n<h4>1.0.4<\/h4>\n<ul>\n<li>Support for WordPress 5.6.2<\/li>\n<li>Fixed issues: &#8220;Orgin Response Error&#8221;<\/li>\n<li>Added backup method for verification when ABSPATH is write-protected<\/li>\n<\/ul>\n<h4>1.0.3<\/h4>\n<ul>\n<li>Support for WordPress 5.6.1<\/li>\n<li>Fixed icon issues<\/li>\n<li>Changed name on plugins list to MyPopUps from Pop-up Pop-up<\/li>\n<li>Added support for PHP 8<\/li>\n<li>Fixed issues with dynamic domain names (Nginx)<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>Support for WordPress 5.5<\/li>\n<li>Fixed some visual issues<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Support chat auto open &#8211; for better UX<\/li>\n<li>Improved visual effects<\/li>\n<li>Removed error_log debug info<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/pop-up-pop-up\/assets\/screenshot-1.jpg?rev=2420739\"><img src=\"https:\/\/ps.w.org\/pop-up-pop-up\/assets\/screenshot-1.jpg?rev=2420739\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/pop-up-pop-up\/assets\/screenshot-2.jpg?rev=2420741\"><img src=\"https:\/\/ps.w.org\/pop-up-pop-up\/assets\/screenshot-2.jpg?rev=2420741\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/pop-up-pop-up\/assets\/screenshot-3.jpg?rev=2420741\"><img src=\"https:\/\/ps.w.org\/pop-up-pop-up\/assets\/screenshot-3.jpg?rev=2420741\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/pop-up-pop-up\/assets\/screenshot-4.jpg?rev=2420741\"><img src=\"https:\/\/ps.w.org\/pop-up-pop-up\/assets\/screenshot-4.jpg?rev=2420741\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/pop-up-pop-up\/assets\/screenshot-5.jpg?rev=2420741\"><img src=\"https:\/\/ps.w.org\/pop-up-pop-up\/assets\/screenshot-5.jpg?rev=2420741\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/pop-up-pop-up\/assets\/screenshot-6.jpg?rev=2420741\"><img src=\"https:\/\/ps.w.org\/pop-up-pop-up\/assets\/screenshot-6.jpg?rev=2420741\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/pop-up-pop-up\/assets\/screenshot-7.jpg?rev=2420741\"><img src=\"https:\/\/ps.w.org\/pop-up-pop-up\/assets\/screenshot-7.jpg?rev=2420741\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">fail<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/games805\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/8097776af8fcce532a4c8e0a7b81df1b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/8097776af8fcce532a4c8e0a7b81df1b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/games805\/\" class=\"reviewer-name\">games805<\/a> on <span class=\"review-date\">April 2, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Waste of time going through the process to see it does not work with elementor<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Easy to Use, Very Reliable<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/sirmoffat\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/3e656b84c54732c5bcedec0f00f4d799?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/3e656b84c54732c5bcedec0f00f4d799?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/sirmoffat\/\" class=\"reviewer-name\">sirmoffat<\/a> on <span class=\"review-date\">March 25, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Having used MyPopUps from the same team behind the lightning-fast follow.it email notification service, (they replaced feedburner) I can confidently say they've struck gold again. i found MyPopUps user-friendly, the pop-ups load like a shot and seamlessly integrate with both my WordPress and Blogger sites. No website slowdown, just powerful conversion tools that inspire visitors to take action. 5 stars from me, thanks guys!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Does the Job<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/alanamark\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f56fdf8168973e365bfe4cdcce7aafb7?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f56fdf8168973e365bfe4cdcce7aafb7?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/alanamark\/\" class=\"reviewer-name\">Alan Mark <small>(alanamark)<\/small><\/a> on <span class=\"review-date\">February 28, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">An awesome source for blogging<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Register at external site?<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/nettpro\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/21e899d0b61397cc7fe4c2bb14401de3?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/21e899d0b61397cc7fe4c2bb14401de3?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/nettpro\/\" class=\"reviewer-name\">NETT.PRO <small>(nettpro)<\/small><\/a> on <span class=\"review-date\">December 12, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">To use this plugin you must first make a popup (register?) at their website. So that's a no no. Another company trying to horde in on your server.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Easy to use!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/kathelijne\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/2c35fe84dd2cfdd41587c74586143235?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/2c35fe84dd2cfdd41587c74586143235?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/kathelijne\/\" class=\"reviewer-name\">kathelijne<\/a> on <span class=\"review-date\">December 5, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Very easy to use and very functional!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Love it!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great plugin for popup<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/vinod308\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/165269c86f25424f16a773aa8b6aaf0b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/165269c86f25424f16a773aa8b6aaf0b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/vinod308\/\" class=\"reviewer-name\">vinod308<\/a> on <span class=\"review-date\">October 28, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">nice and trusted plugin for pop up <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Wasted an hour with this junk!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/nexusbroadcast\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/bcc42c3c1c393b7716c582d8941b3f87?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/bcc42c3c1c393b7716c582d8941b3f87?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/nexusbroadcast\/\" class=\"reviewer-name\">nexusbroadcast<\/a> on <span class=\"review-date\">October 25, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I bypassed cloudflare, I disabled all my security and cache plugins.  I can see the code in the headers.  Still wont activate.  What a waste of time designing the popup only to waste another half hour finding out their system is broken. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great app<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mmahmed\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f92b02ca1fd8354b90b85bde1b9ef664?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f92b02ca1fd8354b90b85bde1b9ef664?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mmahmed\/\" class=\"reviewer-name\">mmahmed<\/a> on <span class=\"review-date\">October 21, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Great App I had seen<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">just what i needed thanks!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/brodilsra\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/261a50957c1584ead57c39216e0f6a9c?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/261a50957c1584ead57c39216e0f6a9c?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/brodilsra\/\" class=\"reviewer-name\">brodilsra<\/a> on <span class=\"review-date\">September 30, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">easy to use and adaptable - i recommend this app! <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Little-to-no help<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/15lconnery\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d356562aabd03a3628f996bed849229e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d356562aabd03a3628f996bed849229e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/15lconnery\/\" class=\"reviewer-name\">15lconnery<\/a> on <span class=\"review-date\">September 11, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">My pop-up had issues - it would only show up on my laptop on safari. It didn't work on google chrome, desktops, etc. I contacted customer service and they said they could help me *IF* I submitted the question on an online forum (????). When I asked why their customer service couldn't help me, the representative said they could help me *IF* I paid for the premium version of the plug in.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">To me, the plugin is not effective and does not work - plus their website\/customer service makes it seems like a scam.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Pop-up Popups",
+    "description": "<p><strong>Try it out on your free dummy site: Click here =&gt; <a href=\"https:\/\/demo.tastewp.com\/mpu\" rel=\"nofollow ugc\">https:\/\/tastewp.com\/plugins\/pop-up-pop-up<\/a>.<\/strong><br \/>\n(this trick works for all plugins in the WP repo &#8211; just replace &#8220;wordpress&#8221; with &#8220;tastewp&#8221; in the URL)<\/p>\n<p>Create stunning pop-ups in a breeze!<\/p>\n<p>This plugin allows you (in combination with MyPopUps.com) to place cool-looking pop-ups on your site for various purposes:<\/p>\n<ul>\n<li>Collect emails<\/li>\n<li>Show discount codes<\/li>\n<li>Get social likes &amp; shares<\/li>\n<li>Show cookie notices<\/li>\n<li>Block ad-blockers<\/li>\n<\/ul>\n<p>You can design the pop-ups to your liking thanks to the powerful builder on MyPopUps.<\/p>\n<p>You can activate &amp; disable the pop-ups directly inside this plugin (without having to leave your WP dashboard)!<\/p>\n<p>Coming soon: define much more granular rules when &amp; how the pop-ups should show (using WordPress parameters, inside this plugin).<\/p>\n<p>Give it a shot! If you find any ways how to improve it, please let us know in the support forum, we&#8217;ll always try to respond quickly \ud83d\ude42<\/p>\n<p>Note: This plugin relies on the 3rd party service MyPopUps, which can be reached at https:\/\/mypopups.com. The pop-ups are created on MyPopUps and displayed on your website with the help of this plugin. Only when you click on the &#8220;Yes&#8221; button in the plugin a connection is established to MyPopUps (this is also mentioned on that button). For the confidential handling of your data, please have a look at MyPopUps&#8217; GDPR-compliant privacy policy at https:\/\/mypopups.com\/privacy as well at the terms of use at https:\/\/mypopups.com\/terms. If you have any questions about those, please don&#8217;t hesitate to contact us here https:\/\/mypopups.com\/contact-us. Thank you!<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.2.5.zip",
+    "upgrade_notice": {
+        "1.2.4": "<ul>\n<li>[NOTE] Upgraded analyst module to latest version<\/li>\n<li>[NOTE] Tested up to PHP v8.3<\/li>\n<\/ul>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/pop-up-pop-up\/assets\/screenshot-1.jpg?rev=2420739",
+            "caption": ""
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/pop-up-pop-up\/assets\/screenshot-2.jpg?rev=2420741",
+            "caption": ""
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/pop-up-pop-up\/assets\/screenshot-3.jpg?rev=2420741",
+            "caption": ""
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/pop-up-pop-up\/assets\/screenshot-4.jpg?rev=2420741",
+            "caption": ""
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/pop-up-pop-up\/assets\/screenshot-5.jpg?rev=2420741",
+            "caption": ""
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/pop-up-pop-up\/assets\/screenshot-6.jpg?rev=2420741",
+            "caption": ""
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/pop-up-pop-up\/assets\/screenshot-7.jpg?rev=2420741",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "lightbox": "lightbox",
+        "modals": "Modals",
+        "pop-up": "pop up",
+        "pop-ups": "pop-ups",
+        "popups": "popups"
+    },
+    "stable_tag": "1.2.5",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.0.4.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.0.5.zip",
+        "1.0.6": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.0.6.zip",
+        "1.0.7": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.0.7.zip",
+        "1.0.8": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.0.8.zip",
+        "1.0.9": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.0.9.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.1.0.zip",
+        "1.1.1": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.1.1.zip",
+        "1.1.2": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.1.2.zip",
+        "1.1.3": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.1.3.zip",
+        "1.1.4": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.1.4.zip",
+        "1.1.5": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.1.5.zip",
+        "1.1.6": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.1.6.zip",
+        "1.1.7": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.1.7.zip",
+        "1.1.8": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.1.8.zip",
+        "1.1.9": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.1.9.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.2.0.zip",
+        "1.2.1": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.2.1.zip",
+        "1.2.2": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.2.2.zip",
+        "1.2.3": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.2.3.zip",
+        "1.2.4": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.2.4.zip",
+        "1.2.5": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.1.2.5.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/pop-up-pop-up.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/pop-up-pop-up\/assets\/banner-772x250.png?rev=2414373",
+        "high": "https:\/\/ps.w.org\/pop-up-pop-up\/assets\/banner-1544x500.png?rev=2414366"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/pop-up-pop-up\/assets\/icon-128x128.gif?rev=2414361"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 94,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "ar",
+            "version": "1.2.5",
+            "updated": "2021-10-21 09:43:55",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/ar.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "bg_BG",
+            "version": "1.2.5",
+            "updated": "2023-12-26 12:16:11",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/bg_BG.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "de_DE",
+            "version": "1.2.5",
+            "updated": "2021-11-15 13:14:05",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "el",
+            "version": "1.2.5",
+            "updated": "2021-10-19 17:59:22",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/el.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "es_MX",
+            "version": "1.2.5",
+            "updated": "2021-09-25 18:48:08",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/es_MX.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "es_VE",
+            "version": "1.2.5",
+            "updated": "2021-09-23 18:58:50",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "es_ES",
+            "version": "1.2.5",
+            "updated": "2021-09-24 03:55:54",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "es_EC",
+            "version": "1.2.5",
+            "updated": "2021-09-26 03:41:10",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/es_EC.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "es_CO",
+            "version": "1.2.5",
+            "updated": "2021-09-23 19:05:36",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/es_CO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "fa_IR",
+            "version": "1.2.5",
+            "updated": "2021-12-29 08:50:24",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/fa_IR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "fi",
+            "version": "1.2.5",
+            "updated": "2021-07-08 13:34:25",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/fi.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "fr_FR",
+            "version": "1.2.5",
+            "updated": "2023-12-26 12:15:49",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "hr",
+            "version": "1.2.5",
+            "updated": "2021-06-19 19:05:59",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/hr.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "hu_HU",
+            "version": "1.2.5",
+            "updated": "2021-08-24 11:24:15",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/hu_HU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "id_ID",
+            "version": "1.2.5",
+            "updated": "2021-11-08 13:22:22",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/id_ID.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "it_IT",
+            "version": "1.2.5",
+            "updated": "2023-12-26 12:14:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "ja",
+            "version": "1.2.5",
+            "updated": "2022-07-04 17:05:54",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/ja.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "ko_KR",
+            "version": "1.2.5",
+            "updated": "2024-04-05 04:50:42",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/ko_KR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "nl_NL",
+            "version": "1.2.5",
+            "updated": "2021-11-22 14:21:48",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "pl_PL",
+            "version": "1.2.5",
+            "updated": "2022-02-17 06:55:54",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/pl_PL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "pt_BR",
+            "version": "1.2.5",
+            "updated": "2021-12-27 17:23:31",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/pt_BR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "ru_RU",
+            "version": "1.2.5",
+            "updated": "2021-09-09 13:00:23",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "tr_TR",
+            "version": "1.2.5",
+            "updated": "2021-07-14 13:15:02",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/tr_TR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "vi",
+            "version": "1.2.5",
+            "updated": "2021-09-16 14:46:34",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/vi.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "zh_CN",
+            "version": "1.2.5",
+            "updated": "2021-12-28 09:04:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/zh_CN.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pop-up-pop-up",
+            "language": "zh_TW",
+            "version": "1.2.5",
+            "updated": "2023-11-15 11:26:57",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pop-up-pop-up\/1.2.5\/zh_TW.zip"
+        }
+    ]
+}

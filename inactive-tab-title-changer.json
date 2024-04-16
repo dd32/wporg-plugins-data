@@ -1,0 +1,88 @@
+{
+    "name": "Inactive Tab Title Changer",
+    "slug": "inactive-tab-title-changer",
+    "version": "1.0.1",
+    "author": "<a href=\"https:\/\/f5.design\">Christoph Lindhauer, f5.design<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/f5design\/",
+    "contributors": {
+        "f5design": {
+            "profile": "https:\/\/profiles.wordpress.org\/f5design\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/1117131aa893ae83c24fecb40f2c4e41?s=96&d=monsterid&r=g",
+            "display_name": "f5design"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/inactive-tab-title-changer\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 10,
+    "downloaded": 316,
+    "last_updated": "2024-02-07 11:24pm GMT",
+    "added": "2024-02-06",
+    "homepage": "",
+    "sections": {
+        "description": "<p>The Inactive Tab Title Changer allows you to change the browser tab&#8217;s title when it becomes inactive after a specified time. This can be helpful to prompt users to return to your site.<\/p>\n",
+        "installation": "<ol>\n<li>Download the plugin and install it via the WordPress plugin directory.<\/li>\n<li>Activate the plugin.<\/li>\n<li>Navigate to the plugin settings and set your desired inactive title and time duration.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='what%20do%20i%20do%20if%20the%20plugin%20isn%27t%20working%3F'>\nWhat do I do if the plugin isn&#8217;t working?\n<\/h4>\n<p>\n<p>Please ensure you have configured the plugin correctly and that it is compatible with your version of WordPress. If you continue to experience issues, please contact us through the support forum.<\/p>\n<\/p>\n\n",
+        "changelog": "<h3>1.0.1<\/h3>\n<ul>\n<li>Added screenshots logo and banner<\/li>\n<\/ul>\n<h3>1.0.0<\/h3>\n<ul>\n<li>Initial release.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/inactive-tab-title-changer\/assets\/screenshot-1.png?rev=3032926\"><img src=\"https:\/\/ps.w.org\/inactive-tab-title-changer\/assets\/screenshot-1.png?rev=3032926\" alt=\"Plugin settings page.\"><\/a><p>Plugin settings page.<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great and easy-to-use Plugin!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/skysurfer1994\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/45da18309dec7e228ea1049127bf47b2?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/45da18309dec7e228ea1049127bf47b2?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/skysurfer1994\/\" class=\"reviewer-name\">Alexander Agasiev <small>(skysurfer1994)<\/small><\/a> on <span class=\"review-date\">February 6, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Great if you look for a plugin that is able to change the title of inactive tabs of your site. Must have for every wordpress site.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Love it!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Changes the browser tab title when the tab becomes inactive after a set duration.",
+    "description": "<p>The Inactive Tab Title Changer allows you to change the browser tab&#8217;s title when it becomes inactive after a specified time. This can be helpful to prompt users to return to your site.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/inactive-tab-title-changer.1.0.1.zip",
+    "upgrade_notice": {
+        "1.0.0": "<p>Initial release.<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/inactive-tab-title-changer\/assets\/screenshot-1.png?rev=3032926",
+            "caption": "Plugin settings page."
+        }
+    },
+    "tags": {
+        "browser": "browser",
+        "changer": "changer",
+        "inactivity": "inactivity",
+        "tab": "tab",
+        "title": "title"
+    },
+    "stable_tag": "1.0.1",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/inactive-tab-title-changer.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/inactive-tab-title-changer.1.0.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/inactive-tab-title-changer.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/inactive-tab-title-changer\/assets\/banner-772x250.png?rev=3032929",
+        "high": "https:\/\/ps.w.org\/inactive-tab-title-changer\/assets\/banner-1544x500.png?rev=3032926"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/inactive-tab-title-changer\/assets\/icon-128x128.gif?rev=3032926",
+        "2x": "https:\/\/ps.w.org\/inactive-tab-title-changer\/assets\/icon-256x256.gif?rev=3032926"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

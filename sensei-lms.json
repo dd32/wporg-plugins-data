@@ -1,0 +1,569 @@
+{
+    "name": "Sensei LMS &#8211; Online Courses, Quizzes, &amp; Learning",
+    "slug": "sensei-lms",
+    "version": "4.23.1",
+    "author": "<a href=\"https:\/\/automattic.com\">Automattic<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/automattic\/",
+    "contributors": {
+        "automattic": {
+            "profile": "https:\/\/profiles.wordpress.org\/automattic\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/687b3bf96c41800814e3b93766444283?s=96&d=monsterid&r=g",
+            "display_name": "Automattic"
+        },
+        "aaronfc": {
+            "profile": "https:\/\/profiles.wordpress.org\/aaronfc\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/6639ec9927ed1b9a6a84ff2dcc664306?s=96&d=monsterid&r=g",
+            "display_name": "Aar\u00f3n"
+        },
+        "burtrw": {
+            "profile": "https:\/\/profiles.wordpress.org\/burtrw\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/a94ca4b055b6372e4fe97c6324e7475e?s=96&d=monsterid&r=g",
+            "display_name": "Ronnie Burt"
+        },
+        "donnapep": {
+            "profile": "https:\/\/profiles.wordpress.org\/donnapep\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/9eb028c0ed61d5f7bb10755e2ce15a0b?s=96&d=monsterid&r=g",
+            "display_name": "Donna Peplinskie (a11n)"
+        },
+        "fjorgemota": {
+            "profile": "https:\/\/profiles.wordpress.org\/fjorgemota\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/03a88ef5c1186a7f812d589b72ac5bef?s=96&d=monsterid&r=g",
+            "display_name": "Fernando Jorge Mota (a11n)"
+        },
+        "gabrielcaires": {
+            "profile": "https:\/\/profiles.wordpress.org\/gabrielcaires\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/32dcd3bbaee11c7de6ebebed4fbcd03a?s=96&d=monsterid&r=g",
+            "display_name": "Gabriel Caire (a11n)"
+        },
+        "gikaragia": {
+            "profile": "https:\/\/profiles.wordpress.org\/gikaragia\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/4ef8c036b43a33ca77e6e326218a1aef?s=96&d=monsterid&r=g",
+            "display_name": "Giannis (a11n)"
+        },
+        "imranh920": {
+            "profile": "https:\/\/profiles.wordpress.org\/imranh920\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/63204843fe11b25e129e5a71859cf390?s=96&d=monsterid&r=g",
+            "display_name": "Imran Hossain (a11n)"
+        },
+        "jakeom": {
+            "profile": "https:\/\/profiles.wordpress.org\/jakeom\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/d2c6764e2324ffd0a2ec587ba7a97473?s=96&d=monsterid&r=g",
+            "display_name": "Jake Morrison (a11n)"
+        },
+        "luchad0res": {
+            "profile": "https:\/\/profiles.wordpress.org\/luchad0res\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/cc93ff280cf9b5a487fd9f2c056a8795?s=96&d=monsterid&r=g",
+            "display_name": "Andrei (a11n)"
+        },
+        "merkushin": {
+            "profile": "https:\/\/profiles.wordpress.org\/merkushin\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2c8893b166c1d6a1792892c5996121d7?s=96&d=monsterid&r=g",
+            "display_name": "Dmitry Merkushin (a11n)"
+        },
+        "m1r0": {
+            "profile": "https:\/\/profiles.wordpress.org\/m1r0\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/77c44aa231d00455bc65b337bcdeabc9?s=96&d=monsterid&r=g",
+            "display_name": "Miroslav Mitev (a11n)"
+        },
+        "onubrooks": {
+            "profile": "https:\/\/profiles.wordpress.org\/onubrooks\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/45b30232a4dd3f7391474cda936b3166?s=96&d=monsterid&r=g",
+            "display_name": "Onu Abah"
+        },
+        "renathoc": {
+            "profile": "https:\/\/profiles.wordpress.org\/renathoc\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/b918a107fbb56b751441afe7f48b3377?s=96&d=monsterid&r=g",
+            "display_name": "Renatho (a11n)"
+        },
+        "yscik": {
+            "profile": "https:\/\/profiles.wordpress.org\/yscik\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/c51ebdee47754eba6d44621c74836cd0?s=96&d=monsterid&r=g",
+            "display_name": "Peter Kiss"
+        }
+    },
+    "requires": "6.3",
+    "tested": "6.5.2",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 76,
+    "ratings": {
+        "5": 20,
+        "4": 2,
+        "3": 1,
+        "2": 3,
+        "1": 7
+    },
+    "num_ratings": 33,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/sensei-lms\/",
+    "support_threads": 21,
+    "support_threads_resolved": 17,
+    "active_installs": 10000,
+    "downloaded": 636319,
+    "last_updated": "2024-04-15 1:32pm GMT",
+    "added": "2019-05-01",
+    "homepage": "https:\/\/senseilms.com\/",
+    "sections": {
+        "description": "<p><strong>Create beautiful and engaging online courses, lessons, and quizzes.<\/strong><\/p>\n<p><a href=\"https:\/\/senseilms.com\" rel=\"nofollow ugc\">Sensei LMS<\/a>  is a powerful learning management plugin from Automattic, the company behind WordPress.com, WooCommerce, and Jetpack. At Automattic, we use Sensei LMS to power all our employee training courses.<\/p>\n<p>Share your knowledge and teach freely with Sensei LMS!<\/p>\n<h3>Powerful LMS Features<\/h3>\n<ul>\n<li>Seamlessly integrate Sensei LMS into your WordPress site. Sensei LMS looks great with any theme and can be customized to match your branding and style.<\/li>\n<li>Create engaging courses with the <a href=\"https:\/\/wordpress.org\/documentation\/article\/wordpress-block-editor\/\" rel=\"ugc\">WordPress Block Editor<\/a>, fully utilized by Sensei&#8217;s free <a href=\"https:\/\/senseilms.com\/meet-course-a-new-free-block-theme-by-sensei\/\" rel=\"nofollow ugc\">Course Theme<\/a>.<\/li>\n<li>Enable <a href=\"https:\/\/senseilms.com\/learning-mode\/\" rel=\"nofollow ugc\">Learning Mode<\/a> for an immersive distraction-free learning experience.<\/li>\n<li>Track student progress and performance with detailed reports.<\/li>\n<li>Embed videos from YouTube, Vimeo, and VideoPress for video-based courses.<\/li>\n<li>Add the Course List block to any page or post to display available courses.<\/li>\n<\/ul>\n<h3>Create effective quizzes<\/h3>\n<p>Quizzes are a powerful way to improve your students&#8217; understanding of key concepts and track their progress. Select from various quiz question types and settings, such as multiple-choice, fill-in-the-blank, true\/false, free response, file uploads, and more.<\/p>\n<h3>Showcase your courses<\/h3>\n<p>Submit your course to Sensei LMS&#8217; public course showcase at <a href=\"https:\/\/senseilms.com\/showcase\/\" rel=\"nofollow ugc\">https:\/\/senseilms.com\/showcase\/<\/a>. Sensei LMS&#8217; course showcase allows you to reach new audiences to expand your course&#8217;s visibility.<\/p>\n<h3>Discover the power of Sensei Pro<\/h3>\n<p>Realize the full potential of your courses with Sensei Pro.<\/p>\n<p><strong>WooCommerce Integration:<\/strong> Effortlessly set a price and sell courses in just a few clicks. Sensei Pro seamlessly integrates with WooCommerce Subscriptions, Payments, Memberships, and Affiliates extensions.<\/p>\n<p><strong>Scheduled Content Drip:<\/strong> Control the pacing of lessons in your courses by specifying when students can access lesson content at fixed intervals after starting the course or on a particular date.<\/p>\n<p><strong>Immersive Interactive Blocks:<\/strong> Enrich your lessons, pages, or posts with engaging videos, flashcards, image hotspots, and task lists.<\/p>\n<p><iframe title=\"VideoPress Video Player\" aria-label='VideoPress Video Player' width='640' height='360' src='https:\/\/videopress.com\/embed\/tLYw7R27?hd=0&amp;cover=1' frameborder='0' allowfullscreen allow='clipboard-write'><\/iframe><script src='https:\/\/v0.wordpress.com\/js\/next\/videopress-iframe.js?m=1674852142'><\/script><\/p>\n<p><strong>Enhanced Quiz Features:<\/strong> Set a quiz timer and incorporate an ordering quiz question type. With Sensei LMS Pro, you can include individual quiz questions in any WordPress content, not just quizzes.<\/p>\n<p><strong>Easy Groups &amp; Cohorts:<\/strong> Organize students into groups and cohorts to manage access and customize learning experiences.<\/p>\n<p><strong>Course Access Periods:<\/strong> Define a start date, end date, or a set amount of time that courses will remain accessible to students.<\/p>\n<p><strong>Conditional Content:<\/strong> Personalize the learning journey by hiding or showing lessons and content based on groups, enrollment status, and date.<\/p>\n<p><strong>Dedicated Priority Support:<\/strong> Our team of expert and friendly engineers is always available to provide assistance and ensure your success!<\/p>\n<p><strong>Flashcards:<\/strong> Add text, videos, images, embeds, and more to both sides of the flashcard block type.<\/p>\n<p><strong>Co-Teachers:<\/strong> Share course ownership with co-teachers who can edit course settings, lessons, and quizzes.<\/p>\n<p><a href=\"https:\/\/senseilms.com\/sensei-pro\/\" rel=\"nofollow ugc\">Learn more about Sensei Pro<\/a>.<\/p>\n<h3>Free Extensions<\/h3>\n<p><strong>Certificates:<\/strong> Automatically generate beautiful downloadable PDF certificates for students when they complete a course.<\/p>\n<p><a href=\"https:\/\/wordpress.org\/plugins\/sensei-certificates\/\" rel=\"ugc\">Learn more about Sensei LMS Certificates.<\/a><\/p>\n<p><strong>Post To Course Creator:<\/strong> Create courses quickly by converting existing blog posts into course lessons in just a few clicks.<\/p>\n<p><a href=\"https:\/\/wordpress.org\/plugins\/sensei-post-to-course\/\" rel=\"ugc\">Learn more about Sensei LMS Post To Course Creator.<\/a><\/p>\n",
+        "installation": "<h4>Automatic installation<\/h4>\n<ol>\n<li>Log into your WordPress admin panel and go to <em>Plugins<\/em> &gt; <em>Add New<\/em>.<\/li>\n<li>Enter &#8220;Sensei LMS&#8221; into the search field.<\/li>\n<li>Once you&#8217;ve located the plugin, click <em>Install Now<\/em>.<\/li>\n<li>Click <em>Activate<\/em>.<\/li>\n<li>Configure the settings by going to <em>Sensei LMS<\/em> &gt; <em>Settings<\/em>.<\/li>\n<\/ol>\n<h4>Manual installation<\/h4>\n<ol>\n<li>Download the plugin file to your computer and unzip it.<\/li>\n<li>Using an FTP program, or your hosting control panel, upload the unzipped plugin folder to your WordPress installation&#8217;s <code>wp-content\/plugins\/<\/code> directory on the server.<\/li>\n<li>Log into your WordPress admin panel and activate the plugin from the <em>Plugins<\/em> menu.<\/li>\n<li>Configure the settings by going to <em>Sensei LMS<\/em> &gt; <em>Settings<\/em>.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='where%20can%20i%20get%20support%20for%20sensei%20lms%3F'>\nWhere can I get support for Sensei LMS?\n<\/h4>\n<p>\n<p>For the free plugin, please use the <a href=\"https:\/\/wordpress.org\/support\/plugin\/sensei-lms\/\" rel=\"ugc\">Support Forums<\/a> for any questions that you may have. We monitor the forums regularly and will reply as soon as we can.<\/p>\n<p>You can also check our <a href=\"https:\/\/senseilms.com\/docs\" rel=\"nofollow ugc\">Documentation<\/a> on our website for guides, tutorials, and other helpful information.<\/p>\n<\/p>\n<dt id='where%20can%20i%20report%20bugs%20or%20contribute%20improvements%20to%20the%20plugin%3F'>\nWhere can I report bugs or contribute improvements to the plugin?\n<\/h4>\n<p>\n<p>Sensei is developed in public on Github. We welcome anyone to report a bug, submit a pull request, and follow along with our progress.<\/p>\n<p><a href=\"https:\/\/github.com\/Automattic\/sensei\/\" rel=\"nofollow ugc\">Visit Sensei LMS on Github<\/a>.<\/p>\n<\/p>\n<dt id='does%20sensei%20work%20with%20membership%20plugins%3F'>\nDoes Sensei work with membership plugins?\n<\/h4>\n<p>\n<p>Sensei LMS can be used in conjunction with <a href=\"https:\/\/senseilms.com\/sensei-pro\/\" rel=\"nofollow ugc\">Sensei Pro<\/a> and <a href=\"https:\/\/woocommerce.com\/products\/woocommerce-memberships\/\" rel=\"nofollow ugc\">WooCommerce Memberships<\/a> to enable you to sell courses as part of a membership plan. See <a href=\"https:\/\/senseilms.com\/documentation\/selling-courses-as-a-membership\/\" rel=\"nofollow ugc\">Selling Courses as a Membership<\/a> for more details.<\/p>\n<\/p>\n<dt id='how%20can%20i%20keep%20up%20to%20date%20with%20new%20releases%20and%20announcements%20for%20sensei%20lms%3F'>\nHow can I keep up to date with new releases and announcements for Sensei LMS?\n<\/h4>\n<p>\n<p>Please visit the <a href=\"https:\/\/senseilms.com\/blog\/\" rel=\"nofollow ugc\">Sensei Blog<\/a> or sign up for our <a href=\"https:\/\/senseilms.com\/mailing-list\/\" rel=\"nofollow ugc\">mailing list<\/a>.<\/p>\n<\/p>\n<dt id='how%20can%20i%20include%20my%20courses%20in%20the%20sensei%20lms%20showcase%3F'>\nHow can I include my courses in the Sensei LMS showcase?\n<\/h4>\n<p>\n<p>To find out how to submit a course to the Sensei LMS showcase, and the requirements, please see our <a href=\"https:\/\/senseilms.com\/documentation\/showcase\/\" rel=\"nofollow ugc\">documentation on the Course Showcase<\/a>.<\/p>\n<\/p>\n<dt id='does%20sensei%20support%20live%20courses%2C%20zoom%20integration%2C%20or%20webinars%3F'>\nDoes Sensei support live courses, Zoom integration, or webinars?\n<\/h4>\n<p>\n<p>Yes! You can add links to Zoom, Google Meet, or whatever platform you choose in a course lesson. In addition, Sensei includes a meeting lesson layout you can select when creating a new lesson to help make this even easier.<\/p>\n<\/p>\n<dt id='does%20sensei%20work%20in%20wordpress%20multisite%3F'>\nDoes Sensei work in WordPress Multisite?\n<\/h4>\n<p>\n<p>Sensei LMS works great in WordPress Multisite. Although a Sensei Pro license covers only one site, the Sensei Agency plan permits the activation of Sensei Pro on up to 20 sites. If you use or plan to use Sensei Pro on a Multisite with more than 20 sites, please <a href=\"https:\/\/senseilms.com\/contact\/\" rel=\"nofollow ugc\">get in touch<\/a> for custom pricing.<\/p>\n<\/p>\n<dt id='how%20can%20i%20sell%20courses%20as%20part%20of%20a%20membership%3F'>\nHow can I sell courses as part of a membership?\n<\/h4>\n<p>\n<p>Sensei LMS is compatible with Sensei Pro and <a href=\"https:\/\/woocommerce.com\/products\/woocommerce-memberships\/\" rel=\"nofollow ugc\">WooCommerce Memberships<\/a>, enabling you to sell courses as part of a membership plan.<\/p>\n<p>See <a href=\"https:\/\/senseilms.com\/documentation\/selling-courses-as-a-membership\/\" rel=\"nofollow ugc\">Selling Courses as a Membership<\/a> for more details.<\/p>\n<\/p>\n<dt id='does%20sensei%20work%20in%20my%20language%3F'>\nDoes Sensei work in my language?\n<\/h4>\n<p>\n<p>Community members have translated the free Sensei LMS plugin <a href=\"https:\/\/translate.wordpress.org\/projects\/wp-plugins\/sensei-lms\/\" rel=\"nofollow ugc\">into 18 languages<\/a>, while Sensei Pro has been <a href=\"https:\/\/translate.wordpress.com\/projects\/sensei\/\" rel=\"nofollow ugc\">professionally translated into 16 languages<\/a>. We welcome contributions to improve even more.<\/p>\n<\/p>\n\n",
+        "changelog": "<h3>4.23.1 &#8211; 2024-04-15<\/h3>\n<h4>Added<\/h4>\n<ul>\n<li>WPML: Setting to disable Sensei slugs translation for better compatibility <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7569\" rel=\"nofollow ugc\">#7569<\/a><\/li>\n<li>WPML: Share student progress and quiz submission across translations <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7492\" rel=\"nofollow ugc\">#7492<\/a><\/li>\n<li>WPML: Show user courses for different languages using <code>sensei_user_courses<\/code> shortcode <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7583\" rel=\"nofollow ugc\">#7583<\/a><\/li>\n<\/ul>\n<h4>Changed<\/h4>\n<ul>\n<li>Open setup wizard if necessary when navigating through relevant pages in WP admin <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7581\" rel=\"nofollow ugc\">#7581<\/a><\/li>\n<\/ul>\n<h4>Fixed<\/h4>\n<ul>\n<li>Usage of question categories in translated quizzes <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7559\" rel=\"nofollow ugc\">#7559<\/a><\/li>\n<li>Lessons being automatically published when course is updated <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7582\" rel=\"nofollow ugc\">#7582<\/a><\/li>\n<\/ul>\n<h3>4.23.0 &#8211; 2024-04-04<\/h3>\n<h4>Added<\/h4>\n<ul>\n<li>Sensei pro upsell task in Sensei Home <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7562\" rel=\"nofollow ugc\">#7562<\/a><\/li>\n<\/ul>\n<h4>Deprecated<\/h4>\n<ul>\n<li>Remove Sell your course with WooCommerce task from core <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7572\" rel=\"nofollow ugc\">#7572<\/a><\/li>\n<\/ul>\n<h4>Fixed<\/h4>\n<ul>\n<li>Ensure student can view the lesson content when rendering the Complete Lesson button <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7579\" rel=\"nofollow ugc\">#7579<\/a><\/li>\n<li>Remove opinionated CSS class from login form <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7542\" rel=\"nofollow ugc\">#7542<\/a><\/li>\n<li>Visibility improved for focus elements of Course tour <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7570\" rel=\"nofollow ugc\">#7570<\/a><\/li>\n<\/ul>\n<h3>4.22.0 &#8211; 2024-03-20<\/h3>\n<h4>Added<\/h4>\n<ul>\n<li>Added Course onboarding tour <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7535\" rel=\"nofollow ugc\">#7535<\/a><\/li>\n<li>Added Lesson Quiz onboarding tour <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7538\" rel=\"nofollow ugc\">#7538<\/a><\/li>\n<li>Add toggle to pre-publish panel to publish associated lessons when the course is published <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7536\" rel=\"nofollow ugc\">#7536<\/a><\/li>\n<li>Display warning when there are no layouts available. <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7530\" rel=\"nofollow ugc\">#7530<\/a><\/li>\n<\/ul>\n<h4>Changed<\/h4>\n<ul>\n<li>Tweak &#8220;Configure learning mode&#8221; task description <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7540\" rel=\"nofollow ugc\">#7540<\/a><\/li>\n<li>Updated styles for module title and lesson title in Course Outline block <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7068\" rel=\"nofollow ugc\">#7068<\/a><\/li>\n<\/ul>\n<h4>Removed<\/h4>\n<ul>\n<li>Remove &#8220;Customize your lesson template&#8221; from task list <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7539\" rel=\"nofollow ugc\">#7539<\/a><\/li>\n<\/ul>\n<h4>Fixed<\/h4>\n<ul>\n<li>Address the issue of patterns flickering in the editor wizard on WPCOM sites <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7511\" rel=\"nofollow ugc\">#7511<\/a><\/li>\n<li>Contact Teacher and Conditional Content block not appearing in Site Editor when Gutenberg is enabled <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7541\" rel=\"nofollow ugc\">#7541<\/a><\/li>\n<li>Email subject with special characters not being displayed correctly <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7546\" rel=\"nofollow ugc\">#7546<\/a><\/li>\n<li>Email Template showing up as default template in editor when GB is installed <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7517\" rel=\"nofollow ugc\">#7517<\/a><\/li>\n<li>Ensure that default passing grade will be &#8220;0&#8221; for any situation <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7524\" rel=\"nofollow ugc\">#7524<\/a><\/li>\n<li>Fix lesson bulk edit. <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7515\" rel=\"nofollow ugc\">#7515<\/a><\/li>\n<li>Fix Sensei Pro question type not displaying in filter and table on Questions page <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7544\" rel=\"nofollow ugc\">#7544<\/a><\/li>\n<li>Ignore Passing Grade for answer feedback when Pass Required is turned off <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7525\" rel=\"nofollow ugc\">#7525<\/a><\/li>\n<li>WPML: Create quiz and question translations, update relations <a href=\"https:\/\/github.com\/Automattic\/sensei\/pull\/7480\" rel=\"nofollow ugc\">#7480<\/a><\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/sensei-lms\/assets\/screenshot-1.png?rev=2904645\"><img src=\"https:\/\/ps.w.org\/sensei-lms\/assets\/screenshot-1.png?rev=2904645\" alt=\"Course Editor\"><\/a><p>Course Editor<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/sensei-lms\/assets\/screenshot-2.png?rev=2904645\"><img src=\"https:\/\/ps.w.org\/sensei-lms\/assets\/screenshot-2.png?rev=2904645\" alt=\"Lesson Editor\"><\/a><p>Lesson Editor<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/sensei-lms\/assets\/screenshot-3.png?rev=2904645\"><img src=\"https:\/\/ps.w.org\/sensei-lms\/assets\/screenshot-3.png?rev=2904645\" alt=\"Learning Mode\"><\/a><p>Learning Mode<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/sensei-lms\/assets\/screenshot-4.png?rev=2904645\"><img src=\"https:\/\/ps.w.org\/sensei-lms\/assets\/screenshot-4.png?rev=2904645\" alt=\"Quiz Editor\"><\/a><p>Quiz Editor<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Nice, but tough<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/persoonlijkvaardiger\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/87078ef964f1af9fac7c8c72b9fc3170?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/87078ef964f1af9fac7c8c72b9fc3170?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/persoonlijkvaardiger\/\" class=\"reviewer-name\">persoonlijkvaardiger<\/a> on <span class=\"review-date\">April 7, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Sensei can do a lot for you, but if you're no noob in building websites and really demand flexibility and free styling, it's not as easy as they pretend it to be. It's all possible, but you have to be a pitbull.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Does exactly what is says<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/whitsey\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/cd7994618f966847904c2ffee11386c0?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/cd7994618f966847904c2ffee11386c0?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/whitsey\/\" class=\"reviewer-name\">SJW <small>(whitsey)<\/small><\/a> on <span class=\"review-date\">November 26, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Flexible tool that allows full control over course management.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Nice plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/urielink\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/3b4db51b65c009788be3397953b607ae?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/3b4db51b65c009788be3397953b607ae?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/urielink\/\" class=\"reviewer-name\">Urielink <small>(urielink)<\/small><\/a> on <span class=\"review-date\">October 2, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I'm testing Sensei for a client, the basic features are good for a beginner user.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/gmollbomsfi\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d9f811a101de943e79e104fe3fb33ef6?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d9f811a101de943e79e104fe3fb33ef6?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/gmollbomsfi\/\" class=\"reviewer-name\">gmollbomsfi<\/a> on <span class=\"review-date\">September 28, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I have used Sensei for almost a year now and I am very pleased with both their excellent support and the plugin itself, which fills my needs of an excellent LMS that can teach people in different ways.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">You better like green<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/midipedalboards\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/9dd848a07d7d7101dd006a0111fd0f56?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/9dd848a07d7d7101dd006a0111fd0f56?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/midipedalboards\/\" class=\"reviewer-name\">Scott <small>(midipedalboards)<\/small><\/a> on <span class=\"review-date\">July 13, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>I like the functionality but unless you simply accept the fact support considers ANY request for help changing the default colors as \u201cbeyond the scope of support\u201d you\u2019re never going to get along with it.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Sure there are \u201csome\u201d tools to help change colors but as of todays date there is no tool to change the ugly greenish color of the \u201cComplete Lesson\u201d or \u201cTake Quiz\u201d button or even change the color of the button text.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>You\u2019ll also notice the defacto, \u201cit must be a conflict with your theme\u201d excuse thrown around constantly. Frankly in my tests these issues exist in their theme too.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>It doesn\u2019t matter if using the free or paid version. The support is useless. Which makes this LMS an option only for those who are developers themselves and not teachers or educational businesses.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>It doesn\u2019t deserve the 1 star I gave it.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Ugly design<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/soylaostia\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f5cc3c1e4b6660a4360250c656c0dec2?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f5cc3c1e4b6660a4360250c656c0dec2?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/soylaostia\/\" class=\"reviewer-name\">ai4k Web Design <small>(soylaostia)<\/small><\/a> on <span class=\"review-date\">July 5, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>You should make this plugin compatible with Elementor and other builders asap. The included theme is ugly and not customizable, and if you should pay for a theme to use this, then you are in the themes business not in the LMS field.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">You have to use Guttenberg blocks<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/kismett\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/7a4d335e11aaec3b437a7ae4334e4a40?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/7a4d335e11aaec3b437a7ae4334e4a40?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/kismett\/\" class=\"reviewer-name\">kismett<\/a> on <span class=\"review-date\">May 17, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Why on earth would they set this plugin up to be used with a 1-star wordpress feature, Guttenberg, so highly disliked by wordpress users? It makes it very tedious and time consuming to use, and also not user friendly at all. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Best than LearnDash<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"4 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"4\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/avillanueva\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/090f1d9f263fcb38e1a6f0bab17e27c3?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/090f1d9f263fcb38e1a6f0bab17e27c3?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/avillanueva\/\" class=\"reviewer-name\">avillanueva<\/a> on <span class=\"review-date\">February 7, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>I tried few weeks ago, Sensei and Learn Dash (premium version of both) and finally choose Sensei.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Both are very similar but Sensei has interactive blocks that make the difference. Sensei sell the interactive blocks alone, so I installed interactive blocks in LEarnDash and works very well but I ask me why I should pay more for Learn Dash ($199 plus $49 of interactive blocks) if Sensei is the same ($149), cheaper and has the interactive blocks.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>I give to Sensei only 4 stars because don't allow integration with forums of BBpress. Sensei has a intermediate solution with native comments but is not the same as a forum system.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Cart before the horse<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/tapsuccess\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e4ddb9457d46c45446407d65e2a636f3?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e4ddb9457d46c45446407d65e2a636f3?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/tapsuccess\/\" class=\"reviewer-name\">TapSuccess <small>(tapsuccess)<\/small><\/a> on <span class=\"review-date\">January 16, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Excellent plugin, good support and rave reviews. Also, it's great that we can sell courses through WooCommerce (as we should, since they are both part of Automattic).<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>But...<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>The free version should work first, and be useful, and include support. THEN is a good time to ask for an upgrade to the paid version. If the free version doesn't work or needs extra support, there is little incentive to upgrade. Happy users make happy customers. Asking to upgrade before any courses are made is premature.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Quality!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/robbert89\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b129d0a6b3526bb5ab91ff7ab8305caf?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b129d0a6b3526bb5ab91ff7ab8305caf?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/robbert89\/\" class=\"reviewer-name\">Robbert89<\/a> on <span class=\"review-date\">January 13, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Used Learndash, Learnpress, Lifter LMS etc... but this LMS stands out. code-quality is excellent! Love the automattic team! <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Create beautiful and engaging online courses, lessons, and quizzes.",
+    "description": "<p><strong>Create beautiful and engaging online courses, lessons, and quizzes.<\/strong><\/p>\n<p><a href=\"https:\/\/senseilms.com\" rel=\"nofollow ugc\">Sensei LMS<\/a>  is a powerful learning management plugin from Automattic, the company behind WordPress.com, WooCommerce, and Jetpack. At Automattic, we use Sensei LMS to power all our employee training courses.<\/p>\n<p>Share your knowledge and teach freely with Sensei LMS!<\/p>\n<h3>Powerful LMS Features<\/h3>\n<ul>\n<li>Seamlessly integrate Sensei LMS into your WordPress site. Sensei LMS looks great with any theme and can be customized to match your branding and style.<\/li>\n<li>Create engaging courses with the <a href=\"https:\/\/wordpress.org\/documentation\/article\/wordpress-block-editor\/\" rel=\"ugc\">WordPress Block Editor<\/a>, fully utilized by Sensei&#8217;s free <a href=\"https:\/\/senseilms.com\/meet-course-a-new-free-block-theme-by-sensei\/\" rel=\"nofollow ugc\">Course Theme<\/a>.<\/li>\n<li>Enable <a href=\"https:\/\/senseilms.com\/learning-mode\/\" rel=\"nofollow ugc\">Learning Mode<\/a> for an immersive distraction-free learning experience.<\/li>\n<li>Track student progress and performance with detailed reports.<\/li>\n<li>Embed videos from YouTube, Vimeo, and VideoPress for video-based courses.<\/li>\n<li>Add the Course List block to any page or post to display available courses.<\/li>\n<\/ul>\n<h3>Create effective quizzes<\/h3>\n<p>Quizzes are a powerful way to improve your students&#8217; understanding of key concepts and track their progress. Select from various quiz question types and settings, such as multiple-choice, fill-in-the-blank, true\/false, free response, file uploads, and more.<\/p>\n<h3>Showcase your courses<\/h3>\n<p>Submit your course to Sensei LMS&#8217; public course showcase at <a href=\"https:\/\/senseilms.com\/showcase\/\" rel=\"nofollow ugc\">https:\/\/senseilms.com\/showcase\/<\/a>. Sensei LMS&#8217; course showcase allows you to reach new audiences to expand your course&#8217;s visibility.<\/p>\n<h3>Discover the power of Sensei Pro<\/h3>\n<p>Realize the full potential of your courses with Sensei Pro.<\/p>\n<p><strong>WooCommerce Integration:<\/strong> Effortlessly set a price and sell courses in just a few clicks. Sensei Pro seamlessly integrates with WooCommerce Subscriptions, Payments, Memberships, and Affiliates extensions.<\/p>\n<p><strong>Scheduled Content Drip:<\/strong> Control the pacing of lessons in your courses by specifying when students can access lesson content at fixed intervals after starting the course or on a particular date.<\/p>\n<p><strong>Immersive Interactive Blocks:<\/strong> Enrich your lessons, pages, or posts with engaging videos, flashcards, image hotspots, and task lists.<\/p>\n<p><iframe title=\"VideoPress Video Player\" aria-label='VideoPress Video Player' width='640' height='360' src='https:\/\/videopress.com\/embed\/tLYw7R27?hd=0&amp;cover=1' frameborder='0' allowfullscreen allow='clipboard-write'><\/iframe><script src='https:\/\/v0.wordpress.com\/js\/next\/videopress-iframe.js?m=1674852142'><\/script><\/p>\n<p><strong>Enhanced Quiz Features:<\/strong> Set a quiz timer and incorporate an ordering quiz question type. With Sensei LMS Pro, you can include individual quiz questions in any WordPress content, not just quizzes.<\/p>\n<p><strong>Easy Groups &amp; Cohorts:<\/strong> Organize students into groups and cohorts to manage access and customize learning experiences.<\/p>\n<p><strong>Course Access Periods:<\/strong> Define a start date, end date, or a set amount of time that courses will remain accessible to students.<\/p>\n<p><strong>Conditional Content:<\/strong> Personalize the learning journey by hiding or showing lessons and content based on groups, enrollment status, and date.<\/p>\n<p><strong>Dedicated Priority Support:<\/strong> Our team of expert and friendly engineers is always available to provide assistance and ensure your success!<\/p>\n<p><strong>Flashcards:<\/strong> Add text, videos, images, embeds, and more to both sides of the flashcard block type.<\/p>\n<p><strong>Co-Teachers:<\/strong> Share course ownership with co-teachers who can edit course settings, lessons, and quizzes.<\/p>\n<p><a href=\"https:\/\/senseilms.com\/sensei-pro\/\" rel=\"nofollow ugc\">Learn more about Sensei Pro<\/a>.<\/p>\n<h3>Free Extensions<\/h3>\n<p><strong>Certificates:<\/strong> Automatically generate beautiful downloadable PDF certificates for students when they complete a course.<\/p>\n<p><a href=\"https:\/\/wordpress.org\/plugins\/sensei-certificates\/\" rel=\"ugc\">Learn more about Sensei LMS Certificates.<\/a><\/p>\n<p><strong>Post To Course Creator:<\/strong> Create courses quickly by converting existing blog posts into course lessons in just a few clicks.<\/p>\n<p><a href=\"https:\/\/wordpress.org\/plugins\/sensei-post-to-course\/\" rel=\"ugc\">Learn more about Sensei LMS Post To Course Creator.<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.23.1.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/sensei-lms\/assets\/screenshot-1.png?rev=2904645",
+            "caption": "Course Editor"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/sensei-lms\/assets\/screenshot-2.png?rev=2904645",
+            "caption": "Lesson Editor"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/sensei-lms\/assets\/screenshot-3.png?rev=2904645",
+            "caption": "Learning Mode"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/sensei-lms\/assets\/screenshot-4.png?rev=2904645",
+            "caption": "Quiz Editor"
+        }
+    },
+    "tags": {
+        "elearning": "elearning",
+        "lms": "lms",
+        "online-courses": "online courses",
+        "teach": "teach",
+        "woocommerce": "woocommerce"
+    },
+    "stable_tag": "4.23.1",
+    "versions": {
+        "2.0.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.2.0.1.zip",
+        "2.1.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.2.1.0.zip",
+        "2.1.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.2.1.1.zip",
+        "2.1.2": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.2.1.2.zip",
+        "2.2.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.2.2.0.zip",
+        "2.2.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.2.2.1.zip",
+        "2.3.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.2.3.0.zip",
+        "2.4.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.2.4.0.zip",
+        "3.0.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.0.0.zip",
+        "3.0.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.0.1.zip",
+        "3.1.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.1.0.zip",
+        "3.1.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.1.1.zip",
+        "3.10.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.10.0.zip",
+        "3.11.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.11.0.zip",
+        "3.11.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.11.1.zip",
+        "3.12.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.12.0.zip",
+        "3.13.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.13.0.zip",
+        "3.13.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.13.1.zip",
+        "3.13.2": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.13.2.zip",
+        "3.13.3": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.13.3.zip",
+        "3.14.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.14.0.zip",
+        "3.15.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.15.0.zip",
+        "3.15.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.15.1.zip",
+        "3.15.2": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.15.2.zip",
+        "3.2.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.2.0.zip",
+        "3.3.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.3.0.zip",
+        "3.3.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.3.1.zip",
+        "3.4.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.4.0.zip",
+        "3.4.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.4.1.zip",
+        "3.5.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.5.0.zip",
+        "3.5.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.5.1.zip",
+        "3.5.2": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.5.2.zip",
+        "3.5.3": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.5.3.zip",
+        "3.6.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.6.0.zip",
+        "3.6.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.6.1.zip",
+        "3.7.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.7.0.zip",
+        "3.8.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.8.0.zip",
+        "3.8.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.8.1.zip",
+        "3.9.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.9.0.zip",
+        "3.9.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.3.9.1.zip",
+        "4.0.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.0.0.zip",
+        "4.0.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.0.1.zip",
+        "4.0.2": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.0.2.zip",
+        "4.1.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.1.0.zip",
+        "4.1.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.1.1.zip",
+        "4.10.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.10.0.zip",
+        "4.11.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.11.0.zip",
+        "4.11.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.11.1.zip",
+        "4.11.2": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.11.2.zip",
+        "4.12.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.12.0.zip",
+        "4.13.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.13.0.zip",
+        "4.13.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.13.1.zip",
+        "4.14.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.14.0.zip",
+        "4.15.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.15.0.zip",
+        "4.15.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.15.1.zip",
+        "4.16.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.16.0.zip",
+        "4.16.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.16.1.zip",
+        "4.17.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.17.0.zip",
+        "4.18.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.18.0.zip",
+        "4.19.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.19.0.zip",
+        "4.19.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.19.1.zip",
+        "4.19.2": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.19.2.zip",
+        "4.2.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.2.0.zip",
+        "4.20.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.20.0.zip",
+        "4.20.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.20.1.zip",
+        "4.20.2": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.20.2.zip",
+        "4.20.2-a.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.20.2-a.1.zip",
+        "4.21.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.21.0.zip",
+        "4.22.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.22.0.zip",
+        "4.23.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.23.0.zip",
+        "4.23.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.23.1.zip",
+        "4.3.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.3.0.zip",
+        "4.4.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.4.0.zip",
+        "4.4.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.4.1.zip",
+        "4.4.2": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.4.2.zip",
+        "4.4.3": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.4.3.zip",
+        "4.5.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.5.0.zip",
+        "4.5.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.5.1.zip",
+        "4.5.2": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.5.2.zip",
+        "4.6.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.6.0.zip",
+        "4.6.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.6.1.zip",
+        "4.6.2": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.6.2.zip",
+        "4.6.3": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.6.3.zip",
+        "4.6.4": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.6.4.zip",
+        "4.7.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.7.0.zip",
+        "4.7.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.7.1.zip",
+        "4.7.2": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.7.2.zip",
+        "4.8.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.8.0.zip",
+        "4.8.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.8.1.zip",
+        "4.9.0": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.9.0.zip",
+        "4.9.1": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.4.9.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/sensei-lms.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/sensei-lms\/assets\/banner-772x250.png?rev=2797849",
+        "high": "https:\/\/ps.w.org\/sensei-lms\/assets\/banner-1544x500.png?rev=2797849"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/sensei-lms\/assets\/icon-128x128.gif?rev=2914239"
+    },
+    "blocks": {
+        "sensei-lms\/course-theme-lesson-module": {
+            "name": "sensei-lms\/course-theme-lesson-module",
+            "category": "theme",
+            "apiVersion": 2,
+            "attributes": {
+                "className": "some-className"
+            },
+            "supports": {
+                "align": true,
+                "color": {
+                    "gradients": true,
+                    "link": true
+                },
+                "spacing": {
+                    "margin": true,
+                    "padding": true,
+                    "blockGap": true
+                },
+                "typography": {
+                    "fontSize": true,
+                    "lineHeight": true,
+                    "__experimentalFontFamily": true,
+                    "__experimentalFontWeight": true,
+                    "__experimentalFontStyle": true,
+                    "__experimentalTextTransform": true,
+                    "__experimentalTextDecoration": true,
+                    "__experimentalLetterSpacing": true,
+                    "__experimentalDefaultControls": {
+                        "fontSize": true
+                    }
+                }
+            },
+            "title": "Sensei LMS - Online Courses, Quizzes, &amp; Learning"
+        },
+        "sensei-lms\/course-title": {
+            "name": "sensei-lms\/course-title",
+            "category": "theme",
+            "apiVersion": 2,
+            "supports": {
+                "align": true,
+                "color": true,
+                "spacing": {
+                    "margin": true,
+                    "padding": true,
+                    "blockGap": true
+                },
+                "typography": {
+                    "fontSize": true,
+                    "lineHeight": true,
+                    "__experimentalFontFamily": true,
+                    "__experimentalFontWeight": true,
+                    "__experimentalFontStyle": true,
+                    "__experimentalTextTransform": true,
+                    "__experimentalTextDecoration": true,
+                    "__experimentalLetterSpacing": true,
+                    "__experimentalDefaultControls": {
+                        "fontSize": true
+                    }
+                }
+            },
+            "title": "Sensei LMS - Online Courses, Quizzes, &amp; Learning"
+        },
+        "sensei-lms\/exit-course": {
+            "name": "sensei-lms\/exit-course",
+            "category": "theme",
+            "apiVersion": 2,
+            "supports": {
+                "align": true,
+                "color": {
+                    "gradients": true
+                },
+                "spacing": {
+                    "margin": true,
+                    "padding": true,
+                    "blockGap": true
+                },
+                "typography": {
+                    "fontSize": true,
+                    "lineHeight": true,
+                    "__experimentalFontFamily": true,
+                    "__experimentalFontWeight": true,
+                    "__experimentalFontStyle": true,
+                    "__experimentalTextTransform": true,
+                    "__experimentalTextDecoration": true,
+                    "__experimentalLetterSpacing": true,
+                    "__experimentalDefaultControls": {
+                        "fontSize": true
+                    }
+                },
+                "__experimentalBorder": {
+                    "color": true,
+                    "radius": true,
+                    "style": true,
+                    "width": true
+                }
+            },
+            "title": "Sensei LMS - Online Courses, Quizzes, &amp; Learning"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": "6",
+    "author_block_rating": 93.68421052631601,
+    "blueprints": [
+        {
+            "filename": "blueprint.json",
+            "url": "https:\/\/wordpress.org\/plugins\/wp-json\/plugins\/v1\/plugin\/sensei-lms\/blueprint.json?rev=3070832"
+        }
+    ],
+    "preview_link": "https:\/\/wordpress.org\/plugins\/sensei-lms\/?preview=1",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "ca",
+            "version": "4.23.1",
+            "updated": "2024-03-28 09:42:31",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/ca.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "cs_CZ",
+            "version": "4.23.1",
+            "updated": "2024-02-29 09:06:35",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/cs_CZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "cy",
+            "version": "4.23.1",
+            "updated": "2023-05-11 13:42:13",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/cy.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "de_DE",
+            "version": "4.23.1",
+            "updated": "2024-04-12 09:54:07",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "es_VE",
+            "version": "4.23.1",
+            "updated": "2021-10-15 03:13:46",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "es_ES",
+            "version": "4.23.1",
+            "updated": "2024-04-15 15:16:15",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "es_MX",
+            "version": "4.23.1",
+            "updated": "2019-12-16 15:53:48",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/es_MX.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "es_CO",
+            "version": "4.23.1",
+            "updated": "2021-10-15 03:14:36",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/es_CO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "es_EC",
+            "version": "4.23.1",
+            "updated": "2022-01-27 17:16:22",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/es_EC.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "fa_IR",
+            "version": "4.23.1",
+            "updated": "2024-04-14 08:25:36",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/fa_IR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "fr_FR",
+            "version": "4.23.1",
+            "updated": "2024-03-27 16:54:07",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "hu_HU",
+            "version": "4.23.1",
+            "updated": "2020-11-12 09:40:23",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/hu_HU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "it_IT",
+            "version": "4.23.1",
+            "updated": "2024-04-11 09:54:08",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "ja",
+            "version": "4.23.1",
+            "updated": "2024-04-11 09:54:08",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/ja.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "ko_KR",
+            "version": "4.23.1",
+            "updated": "2023-11-18 15:49:43",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/ko_KR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "ckb",
+            "version": "4.23.1",
+            "updated": "2024-04-15 18:15:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/ckb.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "lv",
+            "version": "4.23.1",
+            "updated": "2023-03-09 15:05:30",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/lv.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "nl_NL",
+            "version": "4.23.1",
+            "updated": "2024-04-11 15:54:08",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "nl_BE",
+            "version": "4.23.1",
+            "updated": "2024-03-21 15:53:30",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/nl_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "nl_NL_formal",
+            "version": "4.23.1",
+            "updated": "2023-12-15 12:10:13",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/nl_NL_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "pt_BR",
+            "version": "4.23.1",
+            "updated": "2024-04-10 14:54:10",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/pt_BR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "pt_PT",
+            "version": "4.23.1",
+            "updated": "2024-04-05 09:14:57",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/pt_PT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "ru_RU",
+            "version": "4.23.1",
+            "updated": "2024-04-11 18:54:07",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "sv_SE",
+            "version": "4.23.1",
+            "updated": "2024-04-09 11:54:08",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/sv_SE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "vi",
+            "version": "4.23.1",
+            "updated": "2024-02-18 15:38:51",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/vi.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "sensei-lms",
+            "language": "zh_CN",
+            "version": "4.23.1",
+            "updated": "2023-11-18 15:46:10",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/sensei-lms\/4.23.1\/zh_CN.zip"
+        }
+    ]
+}

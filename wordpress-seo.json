@@ -1,0 +1,663 @@
+{
+    "name": "Yoast SEO",
+    "slug": "wordpress-seo",
+    "version": "22.4",
+    "author": "<a href=\"https:\/\/yoa.st\/1uk\">Team Yoast<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/yoast\/",
+    "contributors": {
+        "yoast": {
+            "profile": "https:\/\/profiles.wordpress.org\/yoast\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/67377a634e25eb10de4bb771001d01bf?s=96&d=monsterid&r=g",
+            "display_name": "Yoast"
+        },
+        "joostdevalk": {
+            "profile": "https:\/\/profiles.wordpress.org\/joostdevalk\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/7e0897cfeb791c3b254899d7d314b87f?s=96&d=monsterid&r=g",
+            "display_name": "Joost de Valk"
+        },
+        "tdevalk": {
+            "profile": "https:\/\/profiles.wordpress.org\/tdevalk\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/9a51d2acc1c6e0e3cf4d20e1f025027d?s=96&d=monsterid&r=g",
+            "display_name": "tdevalk"
+        }
+    },
+    "requires": "6.3",
+    "tested": "6.5.2",
+    "requires_php": "7.2.5",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 96,
+    "ratings": {
+        "5": 25872,
+        "4": 625,
+        "3": 194,
+        "2": 133,
+        "1": 803
+    },
+    "num_ratings": 27627,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/wordpress-seo\/",
+    "support_threads": 274,
+    "support_threads_resolved": 235,
+    "active_installs": 5000000,
+    "downloaded": 661348606,
+    "last_updated": "2024-04-03 8:01am GMT",
+    "added": "2010-10-11",
+    "homepage": "https:\/\/yoa.st\/1uj",
+    "sections": {
+        "installation": "<p>Starting with Yoast SEO consists of just two steps: installing and setting up the plugin. Yoast SEO is designed to work with your site\u2019s specific needs, so don\u2019t forget to go through the Yoast SEO first-time configuration as explained in the \u2018after activation\u2019 step!<\/p>\n<h3>INSTALL YOAST SEO FROM WITHIN WORDPRESS<\/h3>\n<ol>\n<li>Visit the plugins page within your dashboard and select \u2018Add New\u2019;<\/li>\n<li>Search for \u2018Yoast SEO\u2019;<\/li>\n<li>Activate Yoast SEO from your Plugins page;<\/li>\n<li>Go to \u2018after activation\u2019 below.<\/li>\n<\/ol>\n<h3>INSTALL YOAST SEO MANUALLY<\/h3>\n<ol>\n<li>Upload the \u2018wordpress-seo\u2019 folder to the \/wp-content\/plugins\/ directory;<\/li>\n<li>Activate the Yoast SEO plugin through the \u2018Plugins\u2019 menu in WordPress;<\/li>\n<li>Go to \u2018after activation\u2019 below.<\/li>\n<\/ol>\n<h3>AFTER ACTIVATION<\/h3>\n<ol>\n<li>You should see (a notice to start) the Yoast SEO first-time configuration;<\/li>\n<li>Go through this configuration and set up the plugin for your site;<\/li>\n<li>You\u2019re done!<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='how%20do%20the%20xml%20sitemaps%20in%20the%20yoast%20seo%20plugin%20work%3F'>\nHow do the XML Sitemaps in the Yoast SEO plugin work?\n<\/h4>\n<p>\n<p>Having an XML sitemap can be beneficial for SEO, as Google can retrieve essential pages of a website very fast, even if the internal linking of a site isn\u2019t flawless.<br \/>\nThe sitemap index and individual sitemaps are updated automatically as you add or remove content and will include the post types you want search engines to index. Post Types marked as noindex will not appear in the sitemap. <a href=\"https:\/\/yoa.st\/3qt\" rel=\"nofollow ugc\">Learn more about XML Sitemaps<\/a>.<\/p>\n<\/p>\n<dt id='how%20can%20i%20add%20my%20website%20to%20google%20search%20console%3F'>\nHow can I add my website to Google Search Console?\n<\/h4>\n<p>\n<p>It is straightforward to add your website to Google Search Console.<br \/>\n1. Create a Google Search Console account and login into your account.<br \/>\n2. Click \u2018Add a property\u2019 under the search drop-down.<br \/>\n3. Enter your website URL in the box and click \u2018Continue\u2019.<br \/>\n4. Click the arrow next to \u2018HTML tag\u2019 to expand the option.<br \/>\n5. Copy the meta tag.<br \/>\n6. Log in to your WordPress website.<br \/>\n7. Click on \u2018SEO\u2019 in the dashboard.<br \/>\n8. Click on \u2018General\u2019.<br \/>\n9. Click on the \u2018Webmaster Tools\u2019 tab.<br \/>\n10. Paste the code in the Google field and click \u2018Save Changes\u2019.<br \/>\n11. Go back to Google Search Console and click \u2018Verify\u2019.<\/p>\n<p>If you want more details steps, please visit <a href=\"https:\/\/yoa.st\/3qu\" rel=\"nofollow ugc\">our article on our help center<\/a>.<\/p>\n<\/p>\n<dt id='how%20do%20i%20implement%20yoast%20seo%20breadcrumbs%3F'>\nHow do I implement Yoast SEO breadcrumbs?\n<\/h4>\n<p>\n<p>The steps below are a temporary solution as manual edits made to theme files may be overwritten with future theme updates. Please contact the theme developer for a permanent solution. We\u2019ve written an article about the <a href=\"https:\/\/yoa.st\/3qv\" rel=\"nofollow ugc\">importance of breadcrumbs for SEO<\/a>.<\/p>\n<p>To implement the <a href=\"https:\/\/yoa.st\/3qw\" rel=\"nofollow ugc\">breadcrumbs<\/a> function in Yoast SEO, you will have to edit your theme. We recommend that prior to any editing of the theme files, a backup is taken. Your host provider can help you take a backup.<br \/>\nCopy the following code into your theme where you want the breadcrumbs to be. If you are not sure, you will need to experiment with placement:<\/p>\n<pre><code>&lt;?php\nif ( function_exists( 'yoast_breadcrumb' ) ) {\n    yoast_breadcrumb( '&lt;p id=\"breadcrumbs\"&gt;','&lt;\/p&gt;' );\n}\n?&gt;\n<\/code><\/pre>\n<p>Common places where you could place your breadcrumbs are inside your <code>single.php<\/code> and\/or <code>page.php<\/code> file just above the page\u2019s title. Another option that makes it really easy in some themes is by just pasting the code in <code>header.php<\/code> at the very end.<\/p>\n<p>In most non-WooTheme themes, this code snippet should not be added to your <code>functions.php<\/code> file.<br \/>\nAlternatively, you can manually add the breadcrumb shortcode to individual posts or pages: <code>[wpseo_breadcrumb]<\/code><\/p>\n<p>If you need more details or a step by step guide, read our <a href=\"https:\/\/yoa.st\/3qx\" rel=\"nofollow ugc\">Implementation guide for Yoast SEO breadcrumbs<\/a>.<\/p>\n<\/p>\n<dt id='how%20do%20i%20noindex%20urls%3F'>\nHow do I noindex URLS?\n<\/h4>\n<p>\n<p>Yoast SEO provides multiple options for setting a URL or group of URLs to noindex. <a href=\"https:\/\/yoa.st\/3qy\/\" rel=\"nofollow ugc\">Read more about how to do this in this guide<\/a>.<\/p>\n<\/p>\n<dt id='google%20shows%20the%20wrong%20description%2C%20how%20do%20i%20fix%20this%3F'>\nGoogle shows the wrong description, how do I fix this?\n<\/h4>\n<p>\n<p>If you\u2019ve crafted nice meta descriptions for your blog posts, nothing is more annoying than Google showing another description for your site completely in the search result snippet.<\/p>\n<p>Possible causes could be:<br \/>\n1. wrong description in code<br \/>\n2. Google cache is outdated<br \/>\n3. Search term manipulation<br \/>\n4. Google ignored the meta description<\/p>\n<p>You can <a href=\"https:\/\/yoa.st\/3qz\" rel=\"nofollow ugc\">read more here on how to solve the issue with the wrong description<\/a>.<\/p>\n<\/p>\n<dt id='how%20often%20is%20yoast%20seo%20updated%3F'>\nHow often is Yoast SEO updated?\n<\/h4>\n<p>\n<p>Yoast SEO is updated every two weeks. If you want to know why, please read <a href=\"https:\/\/yoa.st\/3q-\" rel=\"nofollow ugc\">this post on why we release every two weeks<\/a>!<\/p>\n<\/p>\n<dt id='how%20do%20i%20get%20support%3F'>\nHow do I get support?\n<\/h4>\n<p>\n<p>As our free plugin is used by millions of people worldwide, we cannot offer you all one on one support. If you have trouble with the Yoast SEO for WordPress plugin, you can get help on the support forums here at <a href=\"https:\/\/wordpress.org\/support\/plugin\/wordpress-seo\/\" rel=\"ugc\">wordpress.org<\/a> or by checking out our help center at <a href=\"https:\/\/yoa.st\/3r1\" rel=\"nofollow ugc\">yoast.com\/help\/<\/a>.<\/p>\n<p>The plugins you buy at Yoast are called \u2018premium plugins\u2019 (even if Premium isn\u2019t in its name) and include a complete year of free updates and premium support. This means you can contact our support team if you have any questions about that plugin.<\/p>\n<p><a href=\"https:\/\/yoa.st\/3r2\" rel=\"nofollow ugc\">Read more on how to get support<\/a><\/p>\n<\/p>\n<dt id='what%20happens%20to%20my%20data%20if%20i%20enable%20usage%20tracking%3F'>\nWhat happens to my data if I enable usage tracking?\n<\/h4>\n<p>\n<p><a href=\"https:\/\/yoa.st\/4w7\" rel=\"nofollow ugc\">This page on yoast.com explains what data we collect to improve Yoast SEO<\/a>. We only collect data when you explicitly opt in. Read more about how we handle your data in <a href=\"https:\/\/yoa.st\/4w8\" rel=\"nofollow ugc\">our Privacy Policy<\/a>.<\/p>\n<\/p>\n<dt id='i%20have%20a%20different%20question%20than%20listed%20here'>\nI have a different question than listed here\n<\/h4>\n<p>\n<p>Your question has most likely been answered on our help center: <a href=\"https:\/\/yoa.st\/1va\" rel=\"nofollow ugc\">yoast.com\/help\/<\/a>.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>22.4<\/h4>\n<p>Release date: 2024-04-03<\/p>\n<p>Yoast SEO 22.4 brings optimizations and bug fixes. Our customers who use Elementor can wave goodbye to that unnecessary redirect when saving a post for the first time. Find more about Yoast SEO 22.4 in <a href=\"https:\/\/yoa.st\/release-3-4-24\" rel=\"nofollow ugc\">our release post<\/a>!<\/p>\n<h4>Enhancements<\/h4>\n<ul>\n<li>Removes a duplicated database query on author pages with internal images.<\/li>\n<li>Removes two unnecessary database queries on pages where external images are of SEO interest, like author pages with Gravatar author images.<\/li>\n<\/ul>\n<h4>Bugfixes<\/h4>\n<ul>\n<li>Fixes a bug where an unneeded redirect would be created when a post was first published in Elementor.<\/li>\n<\/ul>\n<h4>Other<\/h4>\n<ul>\n<li>Deprecates the slug of the <code>_dependencies<\/code> property of the private <code>$plugins<\/code> property in the <code>WPSEO_Plugin_Availability<\/code> class.<\/li>\n<li>Fixes the width of the <code>Page type<\/code> dropdown field in the <code>Settings<\/code> page.<\/li>\n<li>Replaces <code>.substr()<\/code> with <code>.substring()<\/code> in JS files since it&#8217;s deprecated.<\/li>\n<li>Stops showing deprecation warnings when retrieving data for paid add-ons goes wrong.<\/li>\n<li>Stops showing notifications about incompatibility with the WooCommerce&#8217;s new beta product editor, after WooCommerce is deactivated.<\/li>\n<li>Stops showing a notification prompting to install Yoast Woo SEO, after WooCommerce is deactivated.<\/li>\n<\/ul>\n<h4>22.3<\/h4>\n<p>Release date: 2024-03-19<\/p>\n<p>Yoast SEO 22.3 is out today. In this release, you\u2019ll find various fixes and improvements for a better user experience. Find out more about what&#8217;s new in Yoast SEO 22.3 in <a href=\"https:\/\/yoa.st\/release-19-3-24\" rel=\"nofollow ugc\">our release post<\/a>!<\/p>\n<h4>Enhancements<\/h4>\n<ul>\n<li>Removes an unnecessary query relating to breadcrumb schema generation on the homepage.<\/li>\n<\/ul>\n<h4>Bugfixes<\/h4>\n<ul>\n<li>Adds <code>x.com<\/code> as a possible domain for the Twitter validation in our first time configuration social profiles settings.<\/li>\n<li>Fixes a bug where the <code>Or go to your SEO dashboard<\/code> link in the final step of our first time configuration would not be focusable using tab.<\/li>\n<\/ul>\n<h4>Other<\/h4>\n<ul>\n<li>Removes the autofill for taxonomy keyphrases.<\/li>\n<li>Sets the WordPress tested up to version to 6.5.<\/li>\n<\/ul>\n<h4>Earlier versions<\/h4>\n<p>For the changelog of earlier versions, please refer to <a href=\"https:\/\/yoa.st\/yoast-seo-changelog\" rel=\"nofollow ugc\">the changelog on yoast.com<\/a>.<\/p>\n",
+        "description": "<p>Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using the Yoast SEO plugin.<\/p>\n<h3>YOAST SEO: THE #1 WORDPRESS SEO PLUGIN<\/h3>\n<p>Supercharge your website&#8217;s visibility and attract organic traffic with Yoast SEO, the WordPress SEO plugin trusted by millions worldwide.<\/p>\n<p>With those millions of users, we&#8217;ve definitely helped someone like you! Users of our plugin range from owners of small-town bakeries and local physical stores to some of the world&#8217;s largest and most influential organizations. And we&#8217;ve done this since 2008!<\/p>\n<p>Yoast SEO Free provides the essentials to kickstart your SEO, and the <a href=\"https:\/\/yoa.st\/1v8\" rel=\"nofollow ugc\">Yoast SEO Premium<\/a> plugin and its extensions unlock extra tools and functionality to take your SEO to the next level.<\/p>\n<h3>SEO FOR EVERYONE, MADE BY SEO EXPERTS<\/h3>\n<p>SEO is the most consistent and cost-effective website traffic source, but it can be a challenging and complex maze. Luckily, you don&#8217;t have to do this alone. We&#8217;re here to help!<\/p>\n<p>Yoast&#8217;s mission is <strong>SEO for everyone<\/strong>. Whether you&#8217;re a beginner or a seasoned expert, Yoast SEO equips you with all the essentials to navigate the complexities of SEO, turning those challenges into opportunities for growth and success.<\/p>\n<h3>STAY ON TOP OF SEO WITH NEW FEATURES<\/h3>\n<p>Creating engaging and optimized SEO titles and meta descriptions has never been easier, faster, and more precise! With the AI title &amp; meta description generator, you&#8217;ll save much time. The feature is available for <a href=\"https:\/\/yoa.st\/1v8\" rel=\"nofollow ugc\">Yoast SEO Premium<\/a> users.<\/p>\n<h3>WHY YOAST SEO?<\/h3>\n<p>Are you agonizing over the intricate details of search engine optimization? Are you losing sleep trying to crack the code of SEO algorithms? Is the ever-evolving landscape of SEO leaving you overwhelmed and behind the curve?<\/p>\n<p>These are the everyday struggles website owners face when trying to master the art of SEO and gain that coveted top spot in search results.<\/p>\n<p>With Yoast SEO, you can overcome these challenges and unlock extraordinary gains:<\/p>\n<ul>\n<li>\n<p><strong>Beat the competition:<\/strong> Leave your rivals in the dust with our powerful SEO tools. Outperform industry competitors and enjoy the traffic and recognition you deserve.<\/p>\n<\/li>\n<li>\n<p><strong>Streamline your SEO strategy:<\/strong> Bid farewell to the complexities of SEO. Yoast SEO handles the technical aspects, such as canonical URLs and meta tags, automating essential optimizations behind the scenes. Unleash your focus on creating captivating content that connects with your audience.<\/p>\n<\/li>\n<li>\n<p><strong>Climb those rankings:<\/strong> Use advanced features like XML sitemaps, title and meta description templating, and Schema.org structured data integration. Empower search engines to fully understand your website, helping you reach the top of search results.<\/p>\n<\/li>\n<li>\n<p><strong>Optimize content mastery:<\/strong> Yoast SEO offers comprehensive analysis tools that help elevate your content&#8217;s SEO and readability. Get powerful insights and actionable recommendations to craft helpful content that resonates with readers and search engines.<\/p>\n<\/li>\n<\/ul>\n<h3>LET&#8217;S GO OVER KEY FEATURES IN YOAST SEO<\/h3>\n<p>Yoast SEO helps you do WordPress SEO in many ways. Let&#8217;s take a look!<\/p>\n<h4>QUICK AND EASY SETUP TO GET YOU STARTED<\/h4>\n<p>Setting up Yoast SEO is smooth, hassle-free, and doesn&#8217;t require any advanced knowledge! Our step-by-step configuration walks you through the essentials, helping you get up and running quickly.<\/p>\n<p>You&#8217;ll be prompted to fill in details about your site during the setup. This enables Yoast SEO to translate all this information into structured data, which helps search engines better understand your content and website!<\/p>\n<p>Are you already using another SEO plugin? Transitioning from other plugins to Yoast SEO is a breeze. We&#8217;ve designed it to be seamless, ensuring you don&#8217;t lose critical data.<\/p>\n<h4>TAKING CARE OF YOUR TECHNICAL SEO NEEDS<\/h4>\n<p>Although technical optimization is a big part of SEO, it&#8217;s not easy. We understand that only some people who work on SEO are experts or have the time to dive into the technical aspects of a website. That&#8217;s why Yoast SEO handles much of the technical optimization, freeing up your time to work on other parts of your website, like writing helpful content.<\/p>\n<ul>\n<li>\n<p><strong>Get automated technical SEO improvements<\/strong>, like optimized meta tags, right out of the box.<\/p>\n<\/li>\n<li>\n<p><strong>Add canonical URLs<\/strong> to tell search engines which content they should show when you have pages with similar content.<\/p>\n<\/li>\n<li>\n<p>Get <strong>advanced XML sitemaps<\/strong>, making it effortless for search engines to understand your site structure and index your web pages effectively.<\/p>\n<\/li>\n<li>\n<p><strong>Get best-in-class Schema.org structured data integration<\/strong>, significantly increasing your chances of getting visually rich search results that attract more users.<\/p>\n<\/li>\n<li>\n<p><strong>Take complete control over your site&#8217;s breadcrumbs<\/strong>, allowing visitors and search engines to navigate your website seamlessly.<\/p>\n<\/li>\n<li>\n<p><strong>Significantly improves your website&#8217;s loading times<\/strong>, courtesy of our innovative data management techniques tailored for WordPress.<\/p>\n<\/li>\n<li>\n<p>[Advanced] Yoast SEO comes with crawl settings that <strong>optimize how search engines crawl your site<\/strong> and reduce its carbon footprint. This lowers your site&#8217;s environmental impact and contributes to a sustainable web.<\/p>\n<\/li>\n<\/ul>\n<h4>WRITE AWESOME CONTENT THAT USERS AND SEARCH ENGINES LOVE<\/h4>\n<p>Unlock the full potential of your content with Yoast SEO&#8217;s <strong>state-of-the-art content analysis<\/strong>. Crafting compelling content becomes easier with features designed to help you increase your website&#8217;s performance.<\/p>\n<ul>\n<li>\n<p><strong>Leverage detailed SEO analysis<\/strong> that guides you toward creating SEO-friendly content, allowing you to target the right keywords and boost your visibility in search results.<\/p>\n<\/li>\n<li>\n<p><strong>Drive engagement and enhance readability<\/strong> with the integrated readability analysis. Ensure your content is clear, concise, and effortlessly readable by humans and search engines alike.<\/p>\n<\/li>\n<li>\n<p>Preview your content as it appears in SERPs, even on mobile devices. This helps you to <strong>fine-tune your meta titles and descriptions to maximize click-through rates<\/strong>.<\/p>\n<\/li>\n<li>\n<p>Enable your HowTo content to be displayed in search results by using the <strong>innovative Schema structured data blocks<\/strong> for the WordPress block editor<\/p>\n<\/li>\n<li>\n<p><strong>A dedicated breadcrumbs block<\/strong> ensures your users always know their location within your website.<\/p>\n<\/li>\n<li>\n<p><strong>Embrace inclusivity in your content creation process with the inclusive language analysis<\/strong>. This optional feature analyzes your text and provides suggestions to make your content more considerate of different audiences. By using inclusive language, you\u2019ll ensure your content resonates with diverse groups of people.<\/p>\n<\/li>\n<li>\n<p><strong>Seamlessly do keyword research<\/strong> right within the plugin with the Semrush integration. Find out what related keywords people are searching for, so you can optimize your content to reach more audiences.<\/p>\n<\/li>\n<li>\n<p><strong>Track your rankings in Yoast SEO<\/strong> with the Wincher integration. Yoast SEO and Wincher show how your content and keywords rank in Google.<\/p>\n<\/li>\n<li>\n<p>Are you using Elementor to build your website? No worries because <strong>Yoast SEO integrates with Elementor<\/strong>. Take advantage of all Yoast SEO&#8217;s benefits within your favorite website builder!<\/p>\n<\/li>\n<li>\n<p><strong>Yoast SEO Premium even has advanced AI features<\/strong>, helping you write titles and meta descriptions at the touch of a button thanks to generative AI. The artificial intelligence tool is free to use once you have Yoast SEO Premium.<\/p>\n<\/li>\n<\/ul>\n<h4>KEEP YOUR SITE IN SHAPE FOR SEO<\/h4>\n<p>Yoast SEO empowers you to keep your website in perfect shape, regardless of your role or expertise:<\/p>\n<ul>\n<li>\n<p>Fine-tune your website&#8217;s engine, allowing you to focus on creating engaging and valuable content. With Yoast SEO, <strong>technical optimization becomes effortless<\/strong>, allowing you to prioritize what truly matters.<\/p>\n<\/li>\n<li>\n<p><strong>Structure your website easily<\/strong> using Yoast SEO&#8217;s cornerstone content features, enabling search engines to understand and index your most important pages effectively.<\/p>\n<\/li>\n<li>\n<p><strong>Translate valuable content into structured data<\/strong>, allowing search engines to fully comprehend your website&#8217;s meaning and context.<\/p>\n<\/li>\n<li>\n<p>Yoast SEO includes a <strong>powerful front-end SEO inspector<\/strong> that lets you preview and fine-tune the SEO settings directly on your front end. With this intuitive tool, you can easily optimize elements such as meta titles, meta descriptions, URL slugs, robots meta tags, and structured data by seeing their appearance in real-time.<\/p>\n<\/li>\n<li>\n<p><strong>Yoast SEO has a regular 2-week update cycle<\/strong>, ensuring you always stay up-to-date with the latest development and updates from search engines.<\/p>\n<\/li>\n<\/ul>\n<h4>POWERFUL INTEGRATION WITH OTHER TOOLS<\/h4>\n<p>Yoast SEO seamlessly integrates with various themes, plugins, and tools to enhance the user experience and improve your WordPress SEO workflow.<\/p>\n<ul>\n<li>\n<p>Utilize the full potential of the <a href=\"https:\/\/wordpress.org\/plugins\/advanced-custom-fields\/\" rel=\"ugc\">Advanced Custom Fields<\/a> plugin when combined with the <a href=\"https:\/\/wordpress.org\/plugins\/acf-content-analysis-for-yoast-seo\/\" rel=\"ugc\">ACF Content Analysis for Yoast SEO<\/a> plugin, and reap the benefits of Yoast SEO&#8217;s powerful analysis.<\/p>\n<\/li>\n<li>\n<p>Seamlessly integrate Yoast SEO with the <a href=\"https:\/\/wordpress.org\/plugins\/elementor\/\" rel=\"ugc\">Elementor<\/a> website builder, empowering you to optimize your stunning designs effectively.<\/p>\n<\/li>\n<li>\n<p>Elevate your site search quality with <a href=\"https:\/\/wordpress.org\/plugins\/wp-search-with-algolia\/\" rel=\"ugc\">Algolia<\/a> integration, ensuring users can effortlessly find the content they want.<\/p>\n<\/li>\n<li>\n<p>Combine Yoast SEO with Semrush, a leading online marketing tool. Access comprehensive keyword data directly within Yoast SEO, empowering you to supercharge your SEO strategy with data-driven insights.<\/p>\n<\/li>\n<li>\n<p>Connect your Yoast SEO plugin with Wincher, a powerful SEO tracking tool. Monitor your keyword rankings, and track your website&#8217;s visibility in search results.<\/p>\n<\/li>\n<\/ul>\n<h4>TRUST THE EXPERTS<\/h4>\n<p>Yoast is powered by expert developers, testers, software architects, and SEO consultants. They work constantly to stay at the cutting edge of WordPress SEO and to improve the plugin with every release.<\/p>\n<h4>WE&#8217;LL ONBOARD YOU AND HELP YOU DO SEO<\/h4>\n<p>We&#8217;re here to help you succeed with your SEO goals because empowering our users is at the core of our philosophy!<\/p>\n<p><strong>Onboarding experience:<\/strong> After you install the plugin and run the first-time setup wizard, we offer an intuitive onboarding experience that guides you through the essential settings and features. This ensures you&#8217;re making the most out of your new plugin, step by step.<\/p>\n<p><strong>Courses in Yoast SEO academy:<\/strong> If you&#8217;re looking for a structured learning path, our <a href=\"https:\/\/yoa.st\/3ri\" rel=\"nofollow ugc\">Yoast SEO academy<\/a> offers free and paid online courses. These lessons cover everything from the basics of WordPress to advanced SEO techniques. Signing up for Yoast SEO Premium also gives you access to all the courses at no extra charge.<\/p>\n<p><strong>SEO blog:<\/strong> Our regularly updated SEO blog is a treasure trove of information, filled with practical tips, insights, and guides on improving your SEO.<\/p>\n<p><strong>Newsletter:<\/strong> Stay in the loop with our newsletter. It&#8217;s more than just news; it&#8217;s a timely update on important changes and trends in the SEO world. We&#8217;ll also provide you with tips and guides on how to improve your SEO.<\/p>\n<p><strong>Webinars:<\/strong> Our regular webinars provide live and interactive learning experiences. They cover various topics and are designed to help you get started with SEO, no matter your skill level.<\/p>\n<h4>EXPAND YOUR SEO KNOWLEDGE WITH ONLINE COURSES<\/h4>\n<p>Investing in <a href=\"https:\/\/yoa.st\/1v8\" rel=\"nofollow ugc\">Yoast SEO Premium<\/a> gives you FULL access to all courses, from SEO copywriting to ecommerce SEO. These courses equip you with more advanced knowledge, skills, and tips to help your website grow and succeed. Get two great products for a single price with Yoast SEO Premium and the Yoast SEO academy!<\/p>\n<h3>SERIOUS ABOUT GETTING HIGHER RANKINGS AND MORE TRAFFIC?<\/h3>\n<p>Not only do you get many additional benefits by upgrading to <a href=\"https:\/\/yoa.st\/1v8\" rel=\"nofollow ugc\">Yoast SEO Premium<\/a>, but you&#8217;ll also get 24\/7 personalized support that takes away your worry.<\/p>\n<ul>\n<li>\n<p>Optimize your content and diversify your keywords using synonyms and related keyphrases. Expand your reach and deliver more natural, engaging content to your audience. You can optimize up to 5 keyphrases with Yoast SEO Premium.<\/p>\n<\/li>\n<li>\n<p>Optimizes your articles for different word forms, singular and plural variations, different verb forms, synonyms, and related keyphrases, thanks to the semantic understanding technology in Yoast SEO Premium.<\/p>\n<\/li>\n<li>\n<p>Seamlessly handle URL changes or page deletions with our redirect manager. Automatically create redirects to prevent &#8220;404: page not found&#8221; errors and retain valuable traffic and backlinks.<\/p>\n<\/li>\n<li>\n<p>Get internal linking suggestions in real-time. The WordPress SEO plugin enhances your article&#8217;s depth and authority by recommending related posts to link to.<\/p>\n<\/li>\n<li>\n<p>Gain precise control over your page&#8217;s appearance on social networks like Facebook and X with social media previews. Customize your social presence and entice users to engage with your content effectively.<\/p>\n<\/li>\n<li>\n<p>Simplify your SEO workflows and get guidance to work on time-consuming SEO tasks, like finding unlinked content, with the Yoast SEO workouts.<\/p>\n<\/li>\n<li>\n<p>Get actionable feedback on using inclusive vocabulary to enhance your writing and make it accessible to a broader audience. (Note: This feature is currently available in English and beta.)<\/p>\n<\/li>\n<li>\n<p>Take advantage of the IndexNow integration, which instantly pings search engines like Microsoft Bing every time you publish or update content to ensure timely indexing.<\/p>\n<\/li>\n<li>\n<p>Easily create optimized SEO titles and meta descriptions at the touch of a button, thanks to generative AI. Crafting optimized and engaging SEO titles and meta descriptions has never been faster and easier.<\/p>\n<\/li>\n<li>\n<p>Get 24\/7 personalized e-mail support, so no matter when a question or issue arises, you&#8217;re never left in the dark. Whether it&#8217;s a technical hurdle or simply a need for guidance, our dedicated support team is always available to assist.<\/p>\n<\/li>\n<li>\n<p>Avoid your content being used to train AI bots: Effortlessly safeguard your intellectual property, uphold data privacy, and maintain control over content by blocking AI bots from scraping it. These AI web crawlers include OpenAI&#8217;s GPTBot, Common Crawl&#8217;s CCBot and Google-Extended, used to train Google Gemini.<\/p>\n<\/li>\n<\/ul>\n<h3>EXTEND YOUR WORDPRESS SEO<\/h3>\n<p>Take your WordPress SEO to new heights with these powerful Yoast SEO add-ons:<\/p>\n<ul>\n<li>\n<p><a href=\"https:\/\/yoa.st\/1uu\" rel=\"nofollow ugc\">Yoast Local SEO<\/a>: Optimize your website for a local audience, drive foot traffic to your stores, and establish a strong presence in local SERPs.<\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/yoa.st\/1uw\" rel=\"nofollow ugc\">Yoast Video SEO<\/a>: Improves the performance of videos and ensures that Google fully understands its content. This helps you rank your videos higher in video search results.<\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/yoa.st\/1uv\" rel=\"nofollow ugc\">Yoast News SEO<\/a>: Amplify your visibility and performance in Google News, allowing your news website to reach a broader audience.<\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/yoa.st\/3rh\" rel=\"nofollow ugc\">Yoast WooCommerce SEO<\/a>: Enhance your online shop&#8217;s discoverability with extra tools designed specifically for online stores, helping you drive more targeted traffic and dominate the search results for your products. It has generative AI tools to help you write great titles and meta descriptions for your products! Also, use WooCommerce SEO to easily import and export global identifiers like GTIN8, UPC, and ISBN for your products.<\/p>\n<\/li>\n<\/ul>\n<h3>BUG REPORTS<\/h3>\n<p>Find a bug in Yoast SEO? We welcome your bug reports! Please report bugs in the WordPress SEO <a href=\"https:\/\/github.com\/Yoast\/wordpress-seo\" rel=\"nofollow ugc\">repository on GitHub<\/a>. Note that GitHub is not a support forum but an efficient platform for addressing and resolving issues efficiently.<\/p>\n<h3>THERE&#8217;S MORE TO LEARN ABOUT SEO<\/h3>\n<p>For a comprehensive resource on search engine optimization and Yoast SEO, please explore our <a href=\"https:\/\/yoast.com\" rel=\"nofollow ugc\">website<\/a>, which is rich with insights and inspiration. Seek guidance in our extensively curated help center, designed to help you provide the knowledge to optimize your website effectively.<\/p>\n<p>Take your SEO skills to new heights with &#8220;<a href=\"https:\/\/yoa.st\/1v6\" rel=\"nofollow ugc\">WordPress SEO &#8211; The Definitive Guide<\/a>&#8221; by Yoast &#8211; a must-read for WordPress SEO enthusiasts. Discover more exceptional plugins and solutions by Team Yoast, tailored to enhance your digital presence and achieve unparalleled success.<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-1.png?rev=2853382\"><img src=\"https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-1.png?rev=2853382\" alt=\"The modern interface makes Yoast SEO easy to work with.\"><\/a><p>The modern interface makes Yoast SEO easy to work with.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-2.png?rev=2853382\"><img src=\"https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-2.png?rev=2853382\" alt=\"Easily manage how your posts and pages appear in SERPs.\"><\/a><p>Easily manage how your posts and pages appear in SERPs.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-3.png?rev=2853382\"><img src=\"https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-3.png?rev=2853382\" alt=\"Yoast SEO Premium has extra crawl optimization options.\"><\/a><p>Yoast SEO Premium has extra crawl optimization options.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-4.png?rev=2853382\"><img src=\"https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-4.png?rev=2853382\" alt=\"Yoast SEO integrates with tools like Semrush and Wincher.\"><\/a><p>Yoast SEO integrates with tools like Semrush and Wincher.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-5.png?rev=2853382\"><img src=\"https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-5.png?rev=2853382\" alt=\"The famous SEO and readability analyses in Yoast SEO.\"><\/a><p>The famous SEO and readability analyses in Yoast SEO.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-6.png?rev=2853382\"><img src=\"https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-6.png?rev=2853382\" alt=\"See what your post looks like in Google.\"><\/a><p>See what your post looks like in Google.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-7.png?rev=2853382\"><img src=\"https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-7.png?rev=2853382\" alt=\"The First-time configuration helps you get started quickly.\"><\/a><p>The First-time configuration helps you get started quickly.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-8.png?rev=2853382\"><img src=\"https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-8.png?rev=2853382\" alt=\"The inclusive language analysis in Yoast SEO.\"><\/a><p>The inclusive language analysis in Yoast SEO.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-9.png?rev=2956588\"><img src=\"https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-9.png?rev=2956588\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Slows down site<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"2 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"2\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/cogeny905\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/6ccaeec1bc0e454c10cfdd94f5a4c85d?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/6ccaeec1bc0e454c10cfdd94f5a4c85d?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/cogeny905\/\" class=\"reviewer-name\">cogeny905<\/a> on <span class=\"review-date\">March 27, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This is my 3rd time deactivating Yoast SEO. I would activate it once i see a new update hoping it would fix the issue and after 24hrs might site would once again be painfully slow to load, even the dashboard loads super slow. Not sure how they have not fixed this since ive seen other posts complaining about the same issue. Once again deactivating it.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">The best one<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/agnegne\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/4a50ac7d572d4df65663baf6a4b88503?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/4a50ac7d572d4df65663baf6a4b88503?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/agnegne\/\" class=\"reviewer-name\">agnegne<\/a> on <span class=\"review-date\">March 19, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The only one plugin for SEO<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Premium to zmarnowane pieni\u0105dze<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/tgkserwis\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/c3e3ee32a8fa2c516aeef82814da2511?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/c3e3ee32a8fa2c516aeef82814da2511?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/tgkserwis\/\" class=\"reviewer-name\">tgkserwis<\/a> on <span class=\"review-date\">March 19, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">&lt;font style=\"vertical-align: inherit;\"&gt;&lt;font style=\"vertical-align: inherit;\"&gt;Kupi\u0142em Yoast Premium i to jest totalna pora\u017cka. Nie kupuj premium&lt;\/font&gt;&lt;\/font&gt; bo jest kiepskie.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Errors Still Not Resolved<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/eossolar\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/2a64934e18afac6da158cab243614a94?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/2a64934e18afac6da158cab243614a94?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/eossolar\/\" class=\"reviewer-name\">eossolar<\/a> on <span class=\"review-date\">March 6, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Hi, The errors on the product page are still not resolved. <br \/>21.7 was the last update that worked for me, after that the product page is a mess with errors. Even Google de-listed almost all my part numbers...<br \/>Now I updated again and again the product page is a mess...<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Added to this the sitemap \/product-sitemap.xml has errors. <br \/>This page contains the following errors:<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">error on line 2 at column 1: Extra content at the end of the document Below is a rendering of the page up to the first error.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I pay for this as well....<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Sorry to rant but i need a solution please....<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Essential SEO Tool<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/teammade\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/084adcb77425f2d6c40edf2103f8817e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/084adcb77425f2d6c40edf2103f8817e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/teammade\/\" class=\"reviewer-name\">teammade<\/a> on <span class=\"review-date\">February 21, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I've been using Yoast SEO on multiple WordPress sites for years, and it's become an indispensable part of my toolkit. The plugin simplifies the complex world of SEO, offering clear guidance on how to optimize content, manage keywords, and improve readability. Its real-time analysis helps make immediate improvements, and the traffic light system is intuitive for users of all levels.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Yoast also excels in technical SEO, generating sitemaps and managing meta tags effortlessly. The regular updates keep it in line with Google's ever-changing algorithm, ensuring your site remains competitive.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><strong>Critical Remark:<\/strong> While Yoast SEO is incredibly user-friendly and effective, its suggestions can sometimes be overly rigid. Following its advice to the letter isn't always beneficial for creative writing or when trying to maintain a natural flow in your content. It's important to balance SEO recommendations with your unique voice and the readability of your text.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Best for boasting seo performance<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/aarav90\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/ab06045bd46764523d6370ba891fad5a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/ab06045bd46764523d6370ba891fad5a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/aarav90\/\" class=\"reviewer-name\">aarav90<\/a> on <span class=\"review-date\">February 18, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">great plugin for seo performance <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Support is bad<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/brendan1029\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/bb15b54eef7cfa758d8ced719481d492?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/bb15b54eef7cfa758d8ced719481d492?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/brendan1029\/\" class=\"reviewer-name\">brendan1029<\/a> on <span class=\"review-date\">February 11, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">0\/5<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">The Best SEO Plugin for WordPress<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/maurovic\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/dc1ef5cd12b8f250f55af40c1b42c642?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/dc1ef5cd12b8f250f55af40c1b42c642?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/maurovic\/\" class=\"reviewer-name\">Mauro <small>(maurovic)<\/small><\/a> on <span class=\"review-date\">January 30, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This plugin is very comprehensive and does an excellent job, even in its free version. It is always up-to-date and continually improved with each new release.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">The support is another positive aspect, always ready to help clarify doubts and resolve issues. It deserves 10 stars!!!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Good SEO Abilities<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/dsitechmktg\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/22ddbc810dcd5fbec294409ff932b9bf?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/22ddbc810dcd5fbec294409ff932b9bf?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/dsitechmktg\/\" class=\"reviewer-name\">dsitechmktg<\/a> on <span class=\"review-date\">January 29, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This is a nice plug-in to easily add SEO data and functions to each page and to the site as a whole<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Bloat, 3 stars for partial Chinese support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"3 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"3\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/frank419\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/c7546d45a164d4a5a6033cc31cdf5fa5?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/c7546d45a164d4a5a6033cc31cdf5fa5?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/frank419\/\" class=\"reviewer-name\">frank419<\/a> on <span class=\"review-date\">February 15, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Yoast SEO is bloat. It slows down my admin dashboard by adding too much stuffs that I don't ever need.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I recently moved back to Yoast SEO for it has Chinese translations. But there's no Chinese content support. I don't understand why while WordPress has word counts feature built-in these SEO plugins tend to develop their own word counts functions.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using the Yoast SEO plugin.",
+    "description": "<p>Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using the Yoast SEO plugin.<\/p>\n<h3>YOAST SEO: THE #1 WORDPRESS SEO PLUGIN<\/h3>\n<p>Supercharge your website&#8217;s visibility and attract organic traffic with Yoast SEO, the WordPress SEO plugin trusted by millions worldwide.<\/p>\n<p>With those millions of users, we&#8217;ve definitely helped someone like you! Users of our plugin range from owners of small-town bakeries and local physical stores to some of the world&#8217;s largest and most influential organizations. And we&#8217;ve done this since 2008!<\/p>\n<p>Yoast SEO Free provides the essentials to kickstart your SEO, and the <a href=\"https:\/\/yoa.st\/1v8\" rel=\"nofollow ugc\">Yoast SEO Premium<\/a> plugin and its extensions unlock extra tools and functionality to take your SEO to the next level.<\/p>\n<h3>SEO FOR EVERYONE, MADE BY SEO EXPERTS<\/h3>\n<p>SEO is the most consistent and cost-effective website traffic source, but it can be a challenging and complex maze. Luckily, you don&#8217;t have to do this alone. We&#8217;re here to help!<\/p>\n<p>Yoast&#8217;s mission is <strong>SEO for everyone<\/strong>. Whether you&#8217;re a beginner or a seasoned expert, Yoast SEO equips you with all the essentials to navigate the complexities of SEO, turning those challenges into opportunities for growth and success.<\/p>\n<h3>STAY ON TOP OF SEO WITH NEW FEATURES<\/h3>\n<p>Creating engaging and optimized SEO titles and meta descriptions has never been easier, faster, and more precise! With the AI title &amp; meta description generator, you&#8217;ll save much time. The feature is available for <a href=\"https:\/\/yoa.st\/1v8\" rel=\"nofollow ugc\">Yoast SEO Premium<\/a> users.<\/p>\n<h3>WHY YOAST SEO?<\/h3>\n<p>Are you agonizing over the intricate details of search engine optimization? Are you losing sleep trying to crack the code of SEO algorithms? Is the ever-evolving landscape of SEO leaving you overwhelmed and behind the curve?<\/p>\n<p>These are the everyday struggles website owners face when trying to master the art of SEO and gain that coveted top spot in search results.<\/p>\n<p>With Yoast SEO, you can overcome these challenges and unlock extraordinary gains:<\/p>\n<ul>\n<li>\n<p><strong>Beat the competition:<\/strong> Leave your rivals in the dust with our powerful SEO tools. Outperform industry competitors and enjoy the traffic and recognition you deserve.<\/p>\n<\/li>\n<li>\n<p><strong>Streamline your SEO strategy:<\/strong> Bid farewell to the complexities of SEO. Yoast SEO handles the technical aspects, such as canonical URLs and meta tags, automating essential optimizations behind the scenes. Unleash your focus on creating captivating content that connects with your audience.<\/p>\n<\/li>\n<li>\n<p><strong>Climb those rankings:<\/strong> Use advanced features like XML sitemaps, title and meta description templating, and Schema.org structured data integration. Empower search engines to fully understand your website, helping you reach the top of search results.<\/p>\n<\/li>\n<li>\n<p><strong>Optimize content mastery:<\/strong> Yoast SEO offers comprehensive analysis tools that help elevate your content&#8217;s SEO and readability. Get powerful insights and actionable recommendations to craft helpful content that resonates with readers and search engines.<\/p>\n<\/li>\n<\/ul>\n<h3>LET&#8217;S GO OVER KEY FEATURES IN YOAST SEO<\/h3>\n<p>Yoast SEO helps you do WordPress SEO in many ways. Let&#8217;s take a look!<\/p>\n<h4>QUICK AND EASY SETUP TO GET YOU STARTED<\/h4>\n<p>Setting up Yoast SEO is smooth, hassle-free, and doesn&#8217;t require any advanced knowledge! Our step-by-step configuration walks you through the essentials, helping you get up and running quickly.<\/p>\n<p>You&#8217;ll be prompted to fill in details about your site during the setup. This enables Yoast SEO to translate all this information into structured data, which helps search engines better understand your content and website!<\/p>\n<p>Are you already using another SEO plugin? Transitioning from other plugins to Yoast SEO is a breeze. We&#8217;ve designed it to be seamless, ensuring you don&#8217;t lose critical data.<\/p>\n<h4>TAKING CARE OF YOUR TECHNICAL SEO NEEDS<\/h4>\n<p>Although technical optimization is a big part of SEO, it&#8217;s not easy. We understand that only some people who work on SEO are experts or have the time to dive into the technical aspects of a website. That&#8217;s why Yoast SEO handles much of the technical optimization, freeing up your time to work on other parts of your website, like writing helpful content.<\/p>\n<ul>\n<li>\n<p><strong>Get automated technical SEO improvements<\/strong>, like optimized meta tags, right out of the box.<\/p>\n<\/li>\n<li>\n<p><strong>Add canonical URLs<\/strong> to tell search engines which content they should show when you have pages with similar content.<\/p>\n<\/li>\n<li>\n<p>Get <strong>advanced XML sitemaps<\/strong>, making it effortless for search engines to understand your site structure and index your web pages effectively.<\/p>\n<\/li>\n<li>\n<p><strong>Get best-in-class Schema.org structured data integration<\/strong>, significantly increasing your chances of getting visually rich search results that attract more users.<\/p>\n<\/li>\n<li>\n<p><strong>Take complete control over your site&#8217;s breadcrumbs<\/strong>, allowing visitors and search engines to navigate your website seamlessly.<\/p>\n<\/li>\n<li>\n<p><strong>Significantly improves your website&#8217;s loading times<\/strong>, courtesy of our innovative data management techniques tailored for WordPress.<\/p>\n<\/li>\n<li>\n<p>[Advanced] Yoast SEO comes with crawl settings that <strong>optimize how search engines crawl your site<\/strong> and reduce its carbon footprint. This lowers your site&#8217;s environmental impact and contributes to a sustainable web.<\/p>\n<\/li>\n<\/ul>\n<h4>WRITE AWESOME CONTENT THAT USERS AND SEARCH ENGINES LOVE<\/h4>\n<p>Unlock the full potential of your content with Yoast SEO&#8217;s <strong>state-of-the-art content analysis<\/strong>. Crafting compelling content becomes easier with features designed to help you increase your website&#8217;s performance.<\/p>\n<ul>\n<li>\n<p><strong>Leverage detailed SEO analysis<\/strong> that guides you toward creating SEO-friendly content, allowing you to target the right keywords and boost your visibility in search results.<\/p>\n<\/li>\n<li>\n<p><strong>Drive engagement and enhance readability<\/strong> with the integrated readability analysis. Ensure your content is clear, concise, and effortlessly readable by humans and search engines alike.<\/p>\n<\/li>\n<li>\n<p>Preview your content as it appears in SERPs, even on mobile devices. This helps you to <strong>fine-tune your meta titles and descriptions to maximize click-through rates<\/strong>.<\/p>\n<\/li>\n<li>\n<p>Enable your HowTo content to be displayed in search results by using the <strong>innovative Schema structured data blocks<\/strong> for the WordPress block editor<\/p>\n<\/li>\n<li>\n<p><strong>A dedicated breadcrumbs block<\/strong> ensures your users always know their location within your website.<\/p>\n<\/li>\n<li>\n<p><strong>Embrace inclusivity in your content creation process with the inclusive language analysis<\/strong>. This optional feature analyzes your text and provides suggestions to make your content more considerate of different audiences. By using inclusive language, you\u2019ll ensure your content resonates with diverse groups of people.<\/p>\n<\/li>\n<li>\n<p><strong>Seamlessly do keyword research<\/strong> right within the plugin with the Semrush integration. Find out what related keywords people are searching for, so you can optimize your content to reach more audiences.<\/p>\n<\/li>\n<li>\n<p><strong>Track your rankings in Yoast SEO<\/strong> with the Wincher integration. Yoast SEO and Wincher show how your content and keywords rank in Google.<\/p>\n<\/li>\n<li>\n<p>Are you using Elementor to build your website? No worries because <strong>Yoast SEO integrates with Elementor<\/strong>. Take advantage of all Yoast SEO&#8217;s benefits within your favorite website builder!<\/p>\n<\/li>\n<li>\n<p><strong>Yoast SEO Premium even has advanced AI features<\/strong>, helping you write titles and meta descriptions at the touch of a button thanks to generative AI. The artificial intelligence tool is free to use once you have Yoast SEO Premium.<\/p>\n<\/li>\n<\/ul>\n<h4>KEEP YOUR SITE IN SHAPE FOR SEO<\/h4>\n<p>Yoast SEO empowers you to keep your website in perfect shape, regardless of your role or expertise:<\/p>\n<ul>\n<li>\n<p>Fine-tune your website&#8217;s engine, allowing you to focus on creating engaging and valuable content. With Yoast SEO, <strong>technical optimization becomes effortless<\/strong>, allowing you to prioritize what truly matters.<\/p>\n<\/li>\n<li>\n<p><strong>Structure your website easily<\/strong> using Yoast SEO&#8217;s cornerstone content features, enabling search engines to understand and index your most important pages effectively.<\/p>\n<\/li>\n<li>\n<p><strong>Translate valuable content into structured data<\/strong>, allowing search engines to fully comprehend your website&#8217;s meaning and context.<\/p>\n<\/li>\n<li>\n<p>Yoast SEO includes a <strong>powerful front-end SEO inspector<\/strong> that lets you preview and fine-tune the SEO settings directly on your front end. With this intuitive tool, you can easily optimize elements such as meta titles, meta descriptions, URL slugs, robots meta tags, and structured data by seeing their appearance in real-time.<\/p>\n<\/li>\n<li>\n<p><strong>Yoast SEO has a regular 2-week update cycle<\/strong>, ensuring you always stay up-to-date with the latest development and updates from search engines.<\/p>\n<\/li>\n<\/ul>\n<h4>POWERFUL INTEGRATION WITH OTHER TOOLS<\/h4>\n<p>Yoast SEO seamlessly integrates with various themes, plugins, and tools to enhance the user experience and improve your WordPress SEO workflow.<\/p>\n<ul>\n<li>\n<p>Utilize the full potential of the <a href=\"https:\/\/wordpress.org\/plugins\/advanced-custom-fields\/\" rel=\"ugc\">Advanced Custom Fields<\/a> plugin when combined with the <a href=\"https:\/\/wordpress.org\/plugins\/acf-content-analysis-for-yoast-seo\/\" rel=\"ugc\">ACF Content Analysis for Yoast SEO<\/a> plugin, and reap the benefits of Yoast SEO&#8217;s powerful analysis.<\/p>\n<\/li>\n<li>\n<p>Seamlessly integrate Yoast SEO with the <a href=\"https:\/\/wordpress.org\/plugins\/elementor\/\" rel=\"ugc\">Elementor<\/a> website builder, empowering you to optimize your stunning designs effectively.<\/p>\n<\/li>\n<li>\n<p>Elevate your site search quality with <a href=\"https:\/\/wordpress.org\/plugins\/wp-search-with-algolia\/\" rel=\"ugc\">Algolia<\/a> integration, ensuring users can effortlessly find the content they want.<\/p>\n<\/li>\n<li>\n<p>Combine Yoast SEO with Semrush, a leading online marketing tool. Access comprehensive keyword data directly within Yoast SEO, empowering you to supercharge your SEO strategy with data-driven insights.<\/p>\n<\/li>\n<li>\n<p>Connect your Yoast SEO plugin with Wincher, a powerful SEO tracking tool. Monitor your keyword rankings, and track your website&#8217;s visibility in search results.<\/p>\n<\/li>\n<\/ul>\n<h4>TRUST THE EXPERTS<\/h4>\n<p>Yoast is powered by expert developers, testers, software architects, and SEO consultants. They work constantly to stay at the cutting edge of WordPress SEO and to improve the plugin with every release.<\/p>\n<h4>WE&#8217;LL ONBOARD YOU AND HELP YOU DO SEO<\/h4>\n<p>We&#8217;re here to help you succeed with your SEO goals because empowering our users is at the core of our philosophy!<\/p>\n<p><strong>Onboarding experience:<\/strong> After you install the plugin and run the first-time setup wizard, we offer an intuitive onboarding experience that guides you through the essential settings and features. This ensures you&#8217;re making the most out of your new plugin, step by step.<\/p>\n<p><strong>Courses in Yoast SEO academy:<\/strong> If you&#8217;re looking for a structured learning path, our <a href=\"https:\/\/yoa.st\/3ri\" rel=\"nofollow ugc\">Yoast SEO academy<\/a> offers free and paid online courses. These lessons cover everything from the basics of WordPress to advanced SEO techniques. Signing up for Yoast SEO Premium also gives you access to all the courses at no extra charge.<\/p>\n<p><strong>SEO blog:<\/strong> Our regularly updated SEO blog is a treasure trove of information, filled with practical tips, insights, and guides on improving your SEO.<\/p>\n<p><strong>Newsletter:<\/strong> Stay in the loop with our newsletter. It&#8217;s more than just news; it&#8217;s a timely update on important changes and trends in the SEO world. We&#8217;ll also provide you with tips and guides on how to improve your SEO.<\/p>\n<p><strong>Webinars:<\/strong> Our regular webinars provide live and interactive learning experiences. They cover various topics and are designed to help you get started with SEO, no matter your skill level.<\/p>\n<h4>EXPAND YOUR SEO KNOWLEDGE WITH ONLINE COURSES<\/h4>\n<p>Investing in <a href=\"https:\/\/yoa.st\/1v8\" rel=\"nofollow ugc\">Yoast SEO Premium<\/a> gives you FULL access to all courses, from SEO copywriting to ecommerce SEO. These courses equip you with more advanced knowledge, skills, and tips to help your website grow and succeed. Get two great products for a single price with Yoast SEO Premium and the Yoast SEO academy!<\/p>\n<h3>SERIOUS ABOUT GETTING HIGHER RANKINGS AND MORE TRAFFIC?<\/h3>\n<p>Not only do you get many additional benefits by upgrading to <a href=\"https:\/\/yoa.st\/1v8\" rel=\"nofollow ugc\">Yoast SEO Premium<\/a>, but you&#8217;ll also get 24\/7 personalized support that takes away your worry.<\/p>\n<ul>\n<li>\n<p>Optimize your content and diversify your keywords using synonyms and related keyphrases. Expand your reach and deliver more natural, engaging content to your audience. You can optimize up to 5 keyphrases with Yoast SEO Premium.<\/p>\n<\/li>\n<li>\n<p>Optimizes your articles for different word forms, singular and plural variations, different verb forms, synonyms, and related keyphrases, thanks to the semantic understanding technology in Yoast SEO Premium.<\/p>\n<\/li>\n<li>\n<p>Seamlessly handle URL changes or page deletions with our redirect manager. Automatically create redirects to prevent &#8220;404: page not found&#8221; errors and retain valuable traffic and backlinks.<\/p>\n<\/li>\n<li>\n<p>Get internal linking suggestions in real-time. The WordPress SEO plugin enhances your article&#8217;s depth and authority by recommending related posts to link to.<\/p>\n<\/li>\n<li>\n<p>Gain precise control over your page&#8217;s appearance on social networks like Facebook and X with social media previews. Customize your social presence and entice users to engage with your content effectively.<\/p>\n<\/li>\n<li>\n<p>Simplify your SEO workflows and get guidance to work on time-consuming SEO tasks, like finding unlinked content, with the Yoast SEO workouts.<\/p>\n<\/li>\n<li>\n<p>Get actionable feedback on using inclusive vocabulary to enhance your writing and make it accessible to a broader audience. (Note: This feature is currently available in English and beta.)<\/p>\n<\/li>\n<li>\n<p>Take advantage of the IndexNow integration, which instantly pings search engines like Microsoft Bing every time you publish or update content to ensure timely indexing.<\/p>\n<\/li>\n<li>\n<p>Easily create optimized SEO titles and meta descriptions at the touch of a button, thanks to generative AI. Crafting optimized and engaging SEO titles and meta descriptions has never been faster and easier.<\/p>\n<\/li>\n<li>\n<p>Get 24\/7 personalized e-mail support, so no matter when a question or issue arises, you&#8217;re never left in the dark. Whether it&#8217;s a technical hurdle or simply a need for guidance, our dedicated support team is always available to assist.<\/p>\n<\/li>\n<li>\n<p>Avoid your content being used to train AI bots: Effortlessly safeguard your intellectual property, uphold data privacy, and maintain control over content by blocking AI bots from scraping it. These AI web crawlers include OpenAI&#8217;s GPTBot, Common Crawl&#8217;s CCBot and Google-Extended, used to train Google Gemini.<\/p>\n<\/li>\n<\/ul>\n<h3>EXTEND YOUR WORDPRESS SEO<\/h3>\n<p>Take your WordPress SEO to new heights with these powerful Yoast SEO add-ons:<\/p>\n<ul>\n<li>\n<p><a href=\"https:\/\/yoa.st\/1uu\" rel=\"nofollow ugc\">Yoast Local SEO<\/a>: Optimize your website for a local audience, drive foot traffic to your stores, and establish a strong presence in local SERPs.<\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/yoa.st\/1uw\" rel=\"nofollow ugc\">Yoast Video SEO<\/a>: Improves the performance of videos and ensures that Google fully understands its content. This helps you rank your videos higher in video search results.<\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/yoa.st\/1uv\" rel=\"nofollow ugc\">Yoast News SEO<\/a>: Amplify your visibility and performance in Google News, allowing your news website to reach a broader audience.<\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/yoa.st\/3rh\" rel=\"nofollow ugc\">Yoast WooCommerce SEO<\/a>: Enhance your online shop&#8217;s discoverability with extra tools designed specifically for online stores, helping you drive more targeted traffic and dominate the search results for your products. It has generative AI tools to help you write great titles and meta descriptions for your products! Also, use WooCommerce SEO to easily import and export global identifiers like GTIN8, UPC, and ISBN for your products.<\/p>\n<\/li>\n<\/ul>\n<h3>BUG REPORTS<\/h3>\n<p>Find a bug in Yoast SEO? We welcome your bug reports! Please report bugs in the WordPress SEO <a href=\"https:\/\/github.com\/Yoast\/wordpress-seo\" rel=\"nofollow ugc\">repository on GitHub<\/a>. Note that GitHub is not a support forum but an efficient platform for addressing and resolving issues efficiently.<\/p>\n<h3>THERE&#8217;S MORE TO LEARN ABOUT SEO<\/h3>\n<p>For a comprehensive resource on search engine optimization and Yoast SEO, please explore our <a href=\"https:\/\/yoast.com\" rel=\"nofollow ugc\">website<\/a>, which is rich with insights and inspiration. Seek guidance in our extensively curated help center, designed to help you provide the knowledge to optimize your website effectively.<\/p>\n<p>Take your SEO skills to new heights with &#8220;<a href=\"https:\/\/yoa.st\/1v6\" rel=\"nofollow ugc\">WordPress SEO &#8211; The Definitive Guide<\/a>&#8221; by Yoast &#8211; a must-read for WordPress SEO enthusiasts. Discover more exceptional plugins and solutions by Team Yoast, tailored to enhance your digital presence and achieve unparalleled success.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.22.4.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-1.png?rev=2853382",
+            "caption": "The modern interface makes Yoast SEO easy to work with."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-2.png?rev=2853382",
+            "caption": "Easily manage how your posts and pages appear in SERPs."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-3.png?rev=2853382",
+            "caption": "Yoast SEO Premium has extra crawl optimization options."
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-4.png?rev=2853382",
+            "caption": "Yoast SEO integrates with tools like Semrush and Wincher."
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-5.png?rev=2853382",
+            "caption": "The famous SEO and readability analyses in Yoast SEO."
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-6.png?rev=2853382",
+            "caption": "See what your post looks like in Google."
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-7.png?rev=2853382",
+            "caption": "The First-time configuration helps you get started quickly."
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-8.png?rev=2853382",
+            "caption": "The inclusive language analysis in Yoast SEO."
+        },
+        "9": {
+            "src": "https:\/\/ps.w.org\/wordpress-seo\/assets\/screenshot-9.png?rev=2956588",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "content-analysis": "Content analysis",
+        "readability": "Readability",
+        "schema": "schema",
+        "seo": "seo",
+        "xml-sitemap": "xml sitemap"
+    },
+    "stable_tag": "22.4",
+    "versions": {
+        "18.0": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.18.0.zip",
+        "18.1": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.18.1.zip",
+        "18.2": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.18.2.zip",
+        "18.3": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.18.3.zip",
+        "18.4": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.18.4.zip",
+        "18.4.1": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.18.4.1.zip",
+        "18.5": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.18.5.zip",
+        "18.5.1": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.18.5.1.zip",
+        "18.6": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.18.6.zip",
+        "18.7": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.18.7.zip",
+        "18.8": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.18.8.zip",
+        "18.9": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.18.9.zip",
+        "19.0": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.19.0.zip",
+        "19.1": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.19.1.zip",
+        "19.10": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.19.10.zip",
+        "19.11": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.19.11.zip",
+        "19.12": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.19.12.zip",
+        "19.13": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.19.13.zip",
+        "19.14": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.19.14.zip",
+        "19.2": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.19.2.zip",
+        "19.3": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.19.3.zip",
+        "19.4": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.19.4.zip",
+        "19.5": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.19.5.zip",
+        "19.5.1": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.19.5.1.zip",
+        "19.6": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.19.6.zip",
+        "19.6.1": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.19.6.1.zip",
+        "19.7": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.19.7.zip",
+        "19.7.1": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.19.7.1.zip",
+        "19.7.2": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.19.7.2.zip",
+        "19.8": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.19.8.zip",
+        "19.9": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.19.9.zip",
+        "20.0": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.20.0.zip",
+        "20.1": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.20.1.zip",
+        "20.10": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.20.10.zip",
+        "20.11": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.20.11.zip",
+        "20.12": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.20.12.zip",
+        "20.13": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.20.13.zip",
+        "20.2": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.20.2.zip",
+        "20.2.1": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.20.2.1.zip",
+        "20.3": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.20.3.zip",
+        "20.4": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.20.4.zip",
+        "20.5": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.20.5.zip",
+        "20.6": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.20.6.zip",
+        "20.7": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.20.7.zip",
+        "20.8": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.20.8.zip",
+        "20.9": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.20.9.zip",
+        "21.0": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.21.0.zip",
+        "21.1": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.21.1.zip",
+        "21.2": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.21.2.zip",
+        "21.3": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.21.3.zip",
+        "21.4": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.21.4.zip",
+        "21.5": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.21.5.zip",
+        "21.6": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.21.6.zip",
+        "21.7": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.21.7.zip",
+        "21.8": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.21.8.zip",
+        "21.8.1": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.21.8.1.zip",
+        "21.9": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.21.9.zip",
+        "21.9.1": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.21.9.1.zip",
+        "22.0": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.22.0.zip",
+        "22.1": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.22.1.zip",
+        "22.2": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.22.2.zip",
+        "22.3": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.22.3.zip",
+        "22.4": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.22.4.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-seo.zip"
+    },
+    "business_model": "commercial",
+    "repository_url": "",
+    "commercial_support_url": "https:\/\/yoast.com\/help\/support\/#premium",
+    "donate_link": "https:\/\/yoa.st\/1up",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/wordpress-seo\/assets\/banner-772x250.png?rev=2643727",
+        "high": "https:\/\/ps.w.org\/wordpress-seo\/assets\/banner-1544x500.png?rev=2643727"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/wordpress-seo\/assets\/icon.svg?rev=2363699",
+        "svg": "https:\/\/ps.w.org\/wordpress-seo\/assets\/icon.svg?rev=2363699"
+    },
+    "blocks": {
+        "yoast\/faq-block": {
+            "name": "yoast\/faq-block",
+            "title": "Yoast SEO"
+        },
+        "yoast\/how-to-block": {
+            "name": "yoast\/how-to-block",
+            "title": "Yoast SEO"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 96,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "ar",
+            "version": "22.4",
+            "updated": "2024-04-11 08:36:36",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/ar.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "bg_BG",
+            "version": "22.4",
+            "updated": "2022-09-28 08:27:37",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/bg_BG.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "ca",
+            "version": "22.4",
+            "updated": "2024-04-11 07:53:39",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/ca.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "cs_CZ",
+            "version": "22.4",
+            "updated": "2024-04-11 08:20:17",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/cs_CZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "da_DK",
+            "version": "22.4",
+            "updated": "2024-04-04 09:49:56",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/da_DK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "de_CH_informal",
+            "version": "22.4",
+            "updated": "2023-04-11 08:16:31",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/de_CH_informal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "de_CH",
+            "version": "22.4",
+            "updated": "2023-11-28 10:12:30",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/de_CH.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "de_DE",
+            "version": "22.4",
+            "updated": "2024-03-21 02:27:43",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "de_DE_formal",
+            "version": "22.4",
+            "updated": "2024-03-26 13:31:23",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/de_DE_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "de_AT",
+            "version": "22.4",
+            "updated": "2024-03-19 09:18:13",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/de_AT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "el",
+            "version": "22.4",
+            "updated": "2024-04-15 16:50:50",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/el.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "en_GB",
+            "version": "22.4",
+            "updated": "2024-03-29 15:24:06",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/en_GB.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "en_ZA",
+            "version": "22.4",
+            "updated": "2023-08-28 17:38:43",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/en_ZA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "en_NZ",
+            "version": "22.4",
+            "updated": "2024-03-19 09:17:53",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/en_NZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "en_CA",
+            "version": "22.4",
+            "updated": "2023-11-28 10:12:00",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/en_CA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "en_AU",
+            "version": "22.4",
+            "updated": "2024-03-19 09:17:50",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/en_AU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "es_CO",
+            "version": "22.4",
+            "updated": "2022-09-20 08:29:59",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/es_CO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "es_CR",
+            "version": "22.4",
+            "updated": "2022-09-28 08:07:14",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/es_CR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "es_EC",
+            "version": "22.4",
+            "updated": "2022-09-28 08:07:36",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/es_EC.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "es_CL",
+            "version": "22.4",
+            "updated": "2024-04-12 04:13:02",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/es_CL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "es_MX",
+            "version": "22.4",
+            "updated": "2024-04-11 07:52:30",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/es_MX.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "es_ES",
+            "version": "22.4",
+            "updated": "2024-03-19 09:19:47",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "es_VE",
+            "version": "22.4",
+            "updated": "2023-11-28 10:14:06",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "es_PE",
+            "version": "22.4",
+            "updated": "2022-09-28 08:07:31",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/es_PE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "es_AR",
+            "version": "22.4",
+            "updated": "2023-11-28 10:13:53",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/es_AR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "fa_IR",
+            "version": "22.4",
+            "updated": "2024-02-20 09:37:35",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/fa_IR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "fi",
+            "version": "22.4",
+            "updated": "2023-03-14 09:18:52",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/fi.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "fr_CA",
+            "version": "22.4",
+            "updated": "2021-05-02 00:48:10",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/fr_CA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "fr_BE",
+            "version": "22.4",
+            "updated": "2024-04-04 09:06:06",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/fr_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "fr_FR",
+            "version": "22.4",
+            "updated": "2024-04-05 13:41:37",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "fy",
+            "version": "22.4",
+            "updated": "2022-12-25 21:20:02",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/fy.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "gl_ES",
+            "version": "22.4",
+            "updated": "2024-03-19 09:18:08",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/gl_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "he_IL",
+            "version": "22.4",
+            "updated": "2024-03-07 03:27:46",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/he_IL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "hi_IN",
+            "version": "22.4",
+            "updated": "2024-04-11 08:42:17",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/hi_IN.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "hr",
+            "version": "22.4",
+            "updated": "2023-03-14 17:45:04",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/hr.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "hu_HU",
+            "version": "22.4",
+            "updated": "2023-08-24 09:56:56",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/hu_HU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "id_ID",
+            "version": "22.4",
+            "updated": "2024-04-11 07:56:08",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/id_ID.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "it_IT",
+            "version": "22.4",
+            "updated": "2024-04-15 12:31:03",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "ja",
+            "version": "22.4",
+            "updated": "2024-04-11 07:59:21",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/ja.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "nb_NO",
+            "version": "22.4",
+            "updated": "2024-03-27 16:12:15",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/nb_NO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "nl_NL_formal",
+            "version": "22.4",
+            "updated": "2024-03-19 10:56:04",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/nl_NL_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "nl_NL",
+            "version": "22.4",
+            "updated": "2024-04-12 13:23:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "nl_BE",
+            "version": "22.4",
+            "updated": "2024-03-19 09:17:45",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/nl_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "pl_PL",
+            "version": "22.4",
+            "updated": "2024-04-10 05:58:31",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/pl_PL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "pt_PT_ao90",
+            "version": "22.4",
+            "updated": "2018-01-25 21:16:05",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/pt_PT_ao90.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "pt_PT",
+            "version": "22.4",
+            "updated": "2024-04-11 08:41:37",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/pt_PT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "pt_BR",
+            "version": "22.4",
+            "updated": "2024-04-11 08:33:17",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/pt_BR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "ro_RO",
+            "version": "22.4",
+            "updated": "2024-03-19 09:19:19",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/ro_RO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "ru_RU",
+            "version": "22.4",
+            "updated": "2024-04-11 08:38:01",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "sk_SK",
+            "version": "22.4",
+            "updated": "2024-03-19 09:19:31",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/sk_SK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "sr_RS",
+            "version": "22.4",
+            "updated": "2024-04-15 15:02:54",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/sr_RS.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "sv_SE",
+            "version": "22.4",
+            "updated": "2024-04-11 07:58:51",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/sv_SE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "tr_TR",
+            "version": "22.4",
+            "updated": "2024-04-11 08:43:23",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/tr_TR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "uk",
+            "version": "22.4",
+            "updated": "2024-04-11 08:45:26",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/uk.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "vi",
+            "version": "22.4",
+            "updated": "2023-12-27 13:11:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/vi.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "zh_HK",
+            "version": "22.4",
+            "updated": "2022-05-17 17:34:43",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/zh_HK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "zh_TW",
+            "version": "22.4",
+            "updated": "2024-04-12 18:29:09",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/zh_TW.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wordpress-seo",
+            "language": "zh_CN",
+            "version": "22.4",
+            "updated": "2024-01-18 13:12:44",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wordpress-seo\/22.4\/zh_CN.zip"
+        }
+    ]
+}

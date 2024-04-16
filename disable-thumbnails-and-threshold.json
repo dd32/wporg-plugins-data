@@ -1,0 +1,131 @@
+{
+    "name": "Disable Thumbnails, Threshold and Image Options",
+    "slug": "disable-thumbnails-and-threshold",
+    "version": "0.5.1",
+    "author": "<a href=\"https:\/\/kgmservizi.com\">KGM Servizi<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/kgmservizi\/",
+    "contributors": {
+        "kgmservizi": {
+            "profile": "https:\/\/profiles.wordpress.org\/kgmservizi\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/e0f45f75aaff26b4f49d342112d43c13?s=96&d=monsterid&r=g",
+            "display_name": "kgmservizi"
+        }
+    },
+    "requires": "4.6",
+    "tested": "6.5.2",
+    "requires_php": "5.6",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 2,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 2,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/disable-thumbnails-and-threshold\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 300,
+    "downloaded": 4318,
+    "last_updated": "2024-04-09 10:21am GMT",
+    "added": "2020-11-03",
+    "homepage": "",
+    "sections": {
+        "description": "<p><strong>Don&#8217;t work? Open ticket, we answer in max 48h.<\/strong><\/p>\n<p>Disable thumbnail sizes, default WordPress sizes and theme\/plugins image size and others image advanced control.<\/p>\n<p>Useful for disable some unused image sizes from WooCommerce, theme or plugins. This can be a good choice for decrease images generated and them space.<\/p>\n<h4>Thumbnails<\/h4>\n<ul>\n<li>Disable WordPress default image size.<\/li>\n<li>Disable theme image size.<\/li>\n<li>Disable plugin image size.<\/li>\n<\/ul>\n<h4>Threshold &amp; EXIF<\/h4>\n<ul>\n<li>Change default image threshold size.<\/li>\n<li>Disable threshold.<\/li>\n<li>Disable image rotation by EXIF.<\/li>\n<\/ul>\n<h4>Image Quality<\/h4>\n<ul>\n<li>Change JPEG image quality.<\/li>\n<\/ul>\n",
+        "installation": "<ol>\n<li>Upload the plugin files to the &#8216;\/wp-content\/plugins\/&#8217; directory, or install the plugin through the WordPress plugins page directly.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; page in WordPress.<\/li>\n<li>Go to settings page inside men\u00f9 Tools -&gt; Thumbnails, Image Quality or Image Threshold &amp; EXIF<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='why%20disable%20thumbnails%20image%20sizes%20generation%3F'>\nWhy disable thumbnails image sizes generation?\n<\/h4>\n<p>\n<p>When some image sizes aren&#8217;t useful you can decrease number of files on your server and used space.<\/p>\n<\/p>\n<dt id='how%20i%20can%20disable%20thumbnails%20image%20size%3F'>\nHow I can disable thumbnails image size?\n<\/h4>\n<p>\n<p>Go to settings page inside men\u00f9 Tools -&gt; Image Thumbnails<\/p>\n<p><strong>Regenerate Thumbnails after disable\/enable sizes.<\/strong><\/p>\n<\/p>\n<dt id='why%20i%20need%20to%20regenerate%20thumbnails%3F'>\nWhy I need to regenerate thumbnails?\n<\/h4>\n<p>\n<p>Because you need to delete or generate the image size disabled\/enabled.<\/p>\n<\/p>\n<dt id='how%20i%20can%20regenerate%20thumbnails%20with%20a%20plugin%3F'>\nHow I can regenerate thumbnails with a plugin?\n<\/h4>\n<p>\n<p><strong>We recommend:<\/strong> <a href=\"https:\/\/uskgm.it\/reg-thumb\" title=\"Regenerate Thumbnails\" rel=\"nofollow ugc\">Regenerate Thumbnails<\/a> by <a href=\"https:\/\/uskgm.it\/alex-mills-viper007bond\" title=\"Alex Mills - Viper007Bond\" rel=\"nofollow ugc\">Alex Mills &#8211; Viper007Bond<\/a><\/p>\n<\/p>\n<dt id='how%20i%20can%20regenerate%20with%20wp-cli%20%28dev%20use%20only%29%3F'>\nHow I can regenerate with WP-CLI (dev use only)?\n<\/h4>\n<p>\n<p><strong>You can read WordPress guide:<\/strong> <a href=\"https:\/\/uskgm.it\/WP-CLI-thumb-rgnrt\" title=\"WP-CLI Thumbnail Regeneration\" rel=\"nofollow ugc\">WP-CLI Thumbnail Regeneration<\/a><\/p>\n<\/p>\n<dt id='how%20i%20can%20change%20image%20quality%3F'>\nHow I can change image quality?\n<\/h4>\n<p>\n<p>Go to settings page inside men\u00f9 Tools -&gt; Image Quality<\/p>\n<\/p>\n<dt id='how%20i%20can%20change%20or%20disable%20threshold%3F'>\nHow I can change or disable threshold?\n<\/h4>\n<p>\n<p>Go to settings page inside men\u00f9 Tools -&gt; Image Threshold&amp;EXIF<\/p>\n<\/p>\n<dt id='how%20i%20can%20disable%20image%20rotation%20by%20exif%3F'>\nHow I can disable image rotation by EXIF?\n<\/h4>\n<p>\n<p>Go to settings page inside men\u00f9 Tools -&gt; Image Threshold&amp;EXIF<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>0.5.1<\/h4>\n<ul>\n<li>Bugfix for UI.<\/li>\n<\/ul>\n<h4>0.5<\/h4>\n<ul>\n<li>Bugfix.<\/li>\n<\/ul>\n<h4>0.4.2<\/h4>\n<ul>\n<li>Bugfix.<\/li>\n<\/ul>\n<h4>0.4.1<\/h4>\n<ul>\n<li>Bugfix.<\/li>\n<\/ul>\n<h4>0.4<\/h4>\n<ul>\n<li>Totally redesigned.<\/li>\n<\/ul>\n<h4>0.3.8<\/h4>\n<ul>\n<li>Bugfix for regeneration.<\/li>\n<\/ul>\n<h4>0.3.7<\/h4>\n<ul>\n<li>Bugfix.<\/li>\n<\/ul>\n<h4>0.3.6<\/h4>\n<ul>\n<li>Fix functions.<\/li>\n<\/ul>\n<h4>0.3.5<\/h4>\n<ul>\n<li>Fix image quality.<\/li>\n<\/ul>\n<h4>0.3.4<\/h4>\n<ul>\n<li>Compatibility WordPress 5.7<\/li>\n<\/ul>\n<h4>0.3.3<\/h4>\n<ul>\n<li>Fix PHP 7.4 error<\/li>\n<\/ul>\n<h4>0.3.2<\/h4>\n<ul>\n<li>Bug fix<\/li>\n<\/ul>\n<h4>0.3.1<\/h4>\n<ul>\n<li>Bug fix<\/li>\n<\/ul>\n<h4>0.3<\/h4>\n<ul>\n<li>New compatibility and bug fix<\/li>\n<\/ul>\n<h4>0.2.1<\/h4>\n<ul>\n<li>Important fix!<\/li>\n<\/ul>\n<h4>0.2<\/h4>\n<ul>\n<li>new function<\/li>\n<\/ul>\n<h4>0.1.2<\/h4>\n<ul>\n<li>better code quality<\/li>\n<\/ul>\n<h4>0.1.1<\/h4>\n<ul>\n<li>_blank for link<\/li>\n<\/ul>\n<h4>0.1<\/h4>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/disable-thumbnails-and-threshold\/assets\/screenshot-1.png?rev=2434710\"><img src=\"https:\/\/ps.w.org\/disable-thumbnails-and-threshold\/assets\/screenshot-1.png?rev=2434710\" alt=\"Image Thumbnails page settings.\"><\/a><p>Image Thumbnails page settings.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/disable-thumbnails-and-threshold\/assets\/screenshot-2.png?rev=2434710\"><img src=\"https:\/\/ps.w.org\/disable-thumbnails-and-threshold\/assets\/screenshot-2.png?rev=2434710\" alt=\"Image Quality page settings.\"><\/a><p>Image Quality page settings.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/disable-thumbnails-and-threshold\/assets\/screenshot-3.png?rev=2434710\"><img src=\"https:\/\/ps.w.org\/disable-thumbnails-and-threshold\/assets\/screenshot-3.png?rev=2434710\" alt=\"Image Threshold&amp;EXIF page settings.\"><\/a><p>Image Threshold&amp;EXIF page settings.<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Perfect Code, not so perfect User Interface<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/shirtguy72\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d64efbbbf3d1c2c733eecfc878626c3a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d64efbbbf3d1c2c733eecfc878626c3a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/shirtguy72\/\" class=\"reviewer-name\">shirtguy72<\/a> on <span class=\"review-date\">April 5, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">But non the less, 5-Stars for clean, errorless code, works without conflict! <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">[ For any future user seeing this, on Image Sizes Page, Toggle ON (blue light) for thumbnails you do NOT want regenerated. ] <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Rambo Never Give Up<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/bymsa\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/fca772067995c7ca5baefe877e6c204d?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/fca772067995c7ca5baefe877e6c204d?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/bymsa\/\" class=\"reviewer-name\">bymsa<\/a> on <span class=\"review-date\">March 27, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Hi buddy, at first I installed another plugin because there are a few thousand active installations, but since it didn't do what I wanted, I installed your plugin and tadaaa, I could see all the resizes of the theme woocoomerce etc, in the other plugin they were not visible.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I wish you continued work and success, I want to give you some advice, if you take it into consideration, you will make your users more satisfied with the frontend.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>Combine the Image sizes | Image Quality | Threshold &amp; EXIF menus so that you can navigate from a single screen instead of separate pages<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Image sizes &gt; Image Thumbnails &gt; In the Settings section, it would be better if you add 150x150 scaling in parentheses next to Thumbnail, Medium, Large.<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>In Image sizes &gt; Image Thumbnnails &gt; Settings we can activate and deactivate the buttons, but it is not clear what function this does, you need to add a note in the same window (activate the buttons to block the sizes you want to prevent from loading).<\/li>\n<!-- \/wp:list-item --><\/ul>\n<!-- \/wp:list -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Disable thumbnail sizes, default WordPress sizes and theme\/plugins image size and others image advanced control.",
+    "description": "<p><strong>Don&#8217;t work? Open ticket, we answer in max 48h.<\/strong><\/p>\n<p>Disable thumbnail sizes, default WordPress sizes and theme\/plugins image size and others image advanced control.<\/p>\n<p>Useful for disable some unused image sizes from WooCommerce, theme or plugins. This can be a good choice for decrease images generated and them space.<\/p>\n<h4>Thumbnails<\/h4>\n<ul>\n<li>Disable WordPress default image size.<\/li>\n<li>Disable theme image size.<\/li>\n<li>Disable plugin image size.<\/li>\n<\/ul>\n<h4>Threshold &amp; EXIF<\/h4>\n<ul>\n<li>Change default image threshold size.<\/li>\n<li>Disable threshold.<\/li>\n<li>Disable image rotation by EXIF.<\/li>\n<\/ul>\n<h4>Image Quality<\/h4>\n<ul>\n<li>Change JPEG image quality.<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/disable-thumbnails-and-threshold.0.5.1.zip",
+    "upgrade_notice": {
+        "0.5.1": "<p>Bugfix for UI.<\/p>",
+        "0.5": "<p>Bugfix.<\/p>",
+        "0.4.2": "<p>Bugfix.<\/p>",
+        "0.4.1": "<p>Bugfix.<\/p>",
+        "0.4": "<p>Totally redesigned.<\/p>",
+        "0.3.8": "<p>Bugfix for regeneration.<\/p>",
+        "0.3.7": "<p>Bugfix.<\/p>",
+        "0.3.6": "<p>Fix functions.<\/p>",
+        "0.3.5": "<p>Fix image quality.<\/p>",
+        "0.3.4": "<p>Compatibility WordPress 5.7<\/p>",
+        "0.3.3": "<p>Fix PHP 7.4 error<\/p>",
+        "0.3.2": "<p>Bug fix<\/p>",
+        "0.3.1": "<p>Bug fix<\/p>",
+        "0.3": "<p>New compatibility and bug fix<\/p>",
+        "0.2.1": "<p>Important fix!<\/p>",
+        "0.2": "<p>new function<\/p>",
+        "0.1.2": "<p>better code quality<\/p>",
+        "0.1.1": "<p>_blank for link<\/p>",
+        "0.1": "<p>Initial release.<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/disable-thumbnails-and-threshold\/assets\/screenshot-1.png?rev=2434710",
+            "caption": "Image Thumbnails page settings."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/disable-thumbnails-and-threshold\/assets\/screenshot-2.png?rev=2434710",
+            "caption": "Image Quality page settings."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/disable-thumbnails-and-threshold\/assets\/screenshot-3.png?rev=2434710",
+            "caption": "Image Threshold&amp;EXIF page settings."
+        }
+    },
+    "tags": {
+        "disable": "disable",
+        "disable-threshold": "disable threshold",
+        "disable-thumbnails": "disable thumbnails",
+        "media": "media",
+        "thumbnails": "thumbnails"
+    },
+    "stable_tag": "0.5.1",
+    "versions": {
+        "0.5": "https:\/\/downloads.wordpress.org\/plugin\/disable-thumbnails-and-threshold.0.5.zip",
+        "0.5.1": "https:\/\/downloads.wordpress.org\/plugin\/disable-thumbnails-and-threshold.0.5.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/disable-thumbnails-and-threshold.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/kgmservizi.com",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/disable-thumbnails-and-threshold\/assets\/banner-772x250.png?rev=2412775",
+        "high": "https:\/\/ps.w.org\/disable-thumbnails-and-threshold\/assets\/banner-1544x500.png?rev=2412775"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/disable-thumbnails-and-threshold\/assets\/icon-128x128.png?rev=2411692",
+        "2x": "https:\/\/ps.w.org\/disable-thumbnails-and-threshold\/assets\/icon-256x256.png?rev=2411692"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "disable-thumbnails-and-threshold",
+            "language": "ru_RU",
+            "version": "0.5.1",
+            "updated": "2023-01-03 17:17:12",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/disable-thumbnails-and-threshold\/0.5.1\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "disable-thumbnails-and-threshold",
+            "language": "sv_SE",
+            "version": "0.5.1",
+            "updated": "2021-11-20 17:14:14",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/disable-thumbnails-and-threshold\/0.5.1\/sv_SE.zip"
+        }
+    ]
+}

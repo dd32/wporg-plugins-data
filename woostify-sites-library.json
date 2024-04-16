@@ -1,0 +1,124 @@
+{
+    "name": "Woostify Sites Library",
+    "slug": "woostify-sites-library",
+    "version": "1.4.8",
+    "author": "<a href=\"https:\/\/woostify.com\">Woostify<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/duongancol\/",
+    "contributors": {
+        "ptp": {
+            "profile": "https:\/\/profiles.wordpress.org\/ptp\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/d76d4648abd53a14bf3b96fd6a06123a?s=96&d=monsterid&r=g",
+            "display_name": "ptp"
+        }
+    },
+    "requires": "4.4",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 2,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 2,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/woostify-sites-library\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 10000,
+    "downloaded": 184465,
+    "last_updated": "2024-01-05 4:49am GMT",
+    "added": "2019-01-21",
+    "homepage": "",
+    "sections": {
+        "description": "<p>This plugin is an add-on for the Woostify WordPress Theme. It gives users a collection of demo sites to choose and import. Here is how it works:<\/p>\n<ol>\n<li>Install required plugins.<\/li>\n<li>Choose a demo site to import.<\/li>\n<li>Import site content and media.<\/li>\n<\/ol>\n<p>More info: <a href=\"https:\/\/woostify.com\" rel=\"nofollow ugc\">https:\/\/woostify.com<\/a><\/p>\n<p>Done!<\/p>\n<h3>Privacy Policy<\/h3>\n<p>Woostify Sites Library uses <a href=\"https:\/\/appsero.com\" rel=\"nofollow ugc\">Appsero<\/a> SDK to collect some telemetry data upon user&#8217;s confirmation. This helps us to troubleshoot problems faster &amp; make product improvements.<\/p>\n<p>Appsero SDK <strong>does not gather any data by default.<\/strong> The SDK only starts gathering basic telemetry data <strong>when a user allows it via the admin notice<\/strong>. We collect the data to ensure a great user experience for all our users.<\/p>\n<p>Integrating Appsero SDK <strong>DOES NOT IMMEDIATELY<\/strong> start gathering data, <strong>without confirmation from users in any case.<\/strong><\/p>\n<p>Learn more about how <a href=\"https:\/\/appsero.com\/privacy-policy\/\" rel=\"nofollow ugc\">Appsero collects and uses this data<\/a>.<\/p>\n",
+        "installation": "<p>This plugin can be installed directly from your site.<\/p>\n<ol>\n<li>Log in and navigate to <em>Plugins &rarr; Add New<\/em>.<\/li>\n<li>Type &#8220;Woostify Sites Library&#8221; into the search box and hit Enter.<\/li>\n<li>Locate the Atomic Blocks plugin in the list of search results and click <strong>Install Now<\/strong>.<\/li>\n<li>Once installed, click <em>Activate<\/em>.<\/li>\n<li>Navigate to <em>Appearance &rarr; Woostify Sites Library<\/em> to import demo sites.<\/li>\n<\/ol>\n<p>It can also be installed manually.<\/p>\n<ol>\n<li>Download the Woostify Sites Library from WordPress.org.<\/li>\n<li>Unzip the package and move to your plugins directory.<\/li>\n<li>Log into WordPress and navigate to the Plugins screen.<\/li>\n<li>Locate Woostify Sites Library in the list and click <em>Activate<\/em>.<\/li>\n<li>Navigate to <em>Appearance &rarr; Woostify Sites Library<\/em> to import demo sites.<\/li>\n<\/ol>\n",
+        "changelog": "<h4>1.4.8<\/h4>\n<ul>\n<li>Change current_user_can function<\/li>\n<\/ul>\n<h4>1.4.7<\/h4>\n<ul>\n<li>Fix security issue<\/li>\n<\/ul>\n<h4>1.4.6<\/h4>\n<ul>\n<li>Add a warning message before importing demo to require activate Flexbox container in Elementor Setting. <\/li>\n<\/ul>\n<h4>1.4.5<\/h4>\n<ul>\n<li>Update All demos use new Elementor Flex container<\/li>\n<li>Add 3 new demos: WooBag, Bakery, WooKids<\/li>\n<\/ul>\n<h4>1.4.4<\/h4>\n<ul>\n<li>Fix Haute demo<\/li>\n<li>Update Appsero<\/li>\n<\/ul>\n<h4>1.4.3<\/h4>\n<ul>\n<li>Remove hijacked content on demo fashion 1<\/li>\n<\/ul>\n<h4>1.4.2<\/h4>\n<ul>\n<li>Re-update all demo content for Elementor 3.8<\/li>\n<\/ul>\n<h4>1.4.1<\/h4>\n<ul>\n<li>Add Fitdo &amp; Jery demo<\/li>\n<\/ul>\n<h4>1.4.0<\/h4>\n<ul>\n<li>Add Ditimal demo<\/li>\n<\/ul>\n<h4>1.3.9<\/h4>\n<ul>\n<li>Fix problem content after import<\/li>\n<\/ul>\n<h4>1.3.8<\/h4>\n<ul>\n<li>Add new free demo &#8211; Haute<\/li>\n<li>Add new pro demo &#8211; Orgifarm<\/li>\n<\/ul>\n<h4>1.3.7<\/h4>\n<ul>\n<li>Update footer demo for fashion1<\/li>\n<\/ul>\n<h4>1.3.6<\/h4>\n<ul>\n<li>Change the import flow<\/li>\n<\/ul>\n<h4>1.3.5<\/h4>\n<ul>\n<li>Fix subbmit button doesn&#8217;t show up<\/li>\n<\/ul>\n<h4>1.3.4<\/h4>\n<ul>\n<li>Introduce Gallery Template when using Elementor<\/li>\n<\/ul>\n<h4>1.3.3<\/h4>\n<ul>\n<li>Update new widgets for all the demo<\/li>\n<\/ul>\n<h4>1.3.2<\/h4>\n<ul>\n<li>Update new domain for the demo<\/li>\n<\/ul>\n<h4>1.3.1<\/h4>\n<ul>\n<li>Update Demo data ver 2<\/li>\n<\/ul>\n<h4>1.3.0<\/h4>\n<ul>\n<li>Update Demo data<\/li>\n<\/ul>\n<h4>1.2.9<\/h4>\n<ul>\n<li>Fix Site Health warning<\/li>\n<\/ul>\n<h4>1.2.8<\/h4>\n<ul>\n<li>Fix Elementor template<\/li>\n<\/ul>\n<h4>1.2.7<\/h4>\n<ul>\n<li>Add Autocar demo &amp; Meins demo<\/li>\n<li>Remove Brizy demo<\/li>\n<\/ul>\n<h4>1.2.6<\/h4>\n<ul>\n<li>Update Appsero client<\/li>\n<\/ul>\n<h4>1.2.5<\/h4>\n<ul>\n<li>Fix brizy demo<\/li>\n<\/ul>\n<h4>1.2.4<\/h4>\n<ul>\n<li>Fix missing Megashop demo in the first installation<\/li>\n<\/ul>\n<h4>1.2.3<\/h4>\n<ul>\n<li>Fix issue on Spanish language<\/li>\n<li>Update content for demo megashop, vouge<\/li>\n<\/ul>\n<h4>1.2.2<\/h4>\n<ul>\n<li>Add load more button<\/li>\n<\/ul>\n<h4>1.2.1<\/h4>\n<ul>\n<li>Update translation file<\/li>\n<\/ul>\n<h4>1.2.0<\/h4>\n<ul>\n<li>Update content for Urban demo<\/li>\n<\/ul>\n<h4>1.1.9<\/h4>\n<ul>\n<li>Update Appsero code<\/li>\n<\/ul>\n<h4>1.1.8<\/h4>\n<ul>\n<li>Update readme for privacy<\/li>\n<\/ul>\n<h4>1.1.7<\/h4>\n<ul>\n<li>Fix missing apsero folder<\/li>\n<\/ul>\n<h4>1.1.6<\/h4>\n<ul>\n<li>Add Appsero to deploy plugin<\/li>\n<\/ul>\n<h4>1.1.5<\/h4>\n<ul>\n<li>Fix some demos with missing background images<\/li>\n<\/ul>\n<h4>1.1.4<\/h4>\n<ul>\n<li>Update for all starter sites<\/li>\n<\/ul>\n<h4>1.1.3<\/h4>\n<ul>\n<li>Add Fashion 1 and Urbanstyle Demo for Brizy demo<\/li>\n<\/ul>\n<h4>1.1.1<\/h4>\n<ul>\n<li>Add Randy Demo &#8211; Pro<\/li>\n<\/ul>\n<h4>1.1.0<\/h4>\n<ul>\n<li>Add Piza Demo<\/li>\n<li>Add Urban Free Demo<\/li>\n<li>Add filter to demo list<\/li>\n<\/ul>\n<h4>1.0.9<\/h4>\n<ul>\n<li>Add Watch, Hippen and Furnitor demo<\/li>\n<\/ul>\n<h4>1.0.8<\/h4>\n<ul>\n<li>Add Pet demo<\/li>\n<\/ul>\n<h4>1.0.7<\/h4>\n<ul>\n<li>Add Elementor &#8211; Header &amp; Footer plugin<\/li>\n<\/ul>\n<h4>1.0.6<\/h4>\n<ul>\n<li>Add Demo 7<\/li>\n<\/ul>\n<h4>1.0.5<\/h4>\n<ul>\n<li>Fix Pro demo 3 issue<\/li>\n<\/ul>\n<h4>1.0.5<\/h4>\n<ul>\n<li>Publish Demo 3-6 Pro<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>Fix demo 3-6 image<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Add Demo 2-6 image<\/li>\n<li>\n<p>Update Demo 1<\/p>\n<\/li>\n<li>\n<p>Initial release.<\/p>\n<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Initial release.<\/li>\n<\/ul>\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Best WooCommerce theme ever!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/astonic1g\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/47f06521c6b6b1153c2e15568b507e30?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/47f06521c6b6b1153c2e15568b507e30?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/astonic1g\/\" class=\"reviewer-name\">astonic1g<\/a> on <span class=\"review-date\">January 5, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I don't usually write reviews but the fact is, this theme is really optimized for speed. Simple but filled with all the necessary features for a woocommerce store!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Great customer support too.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I love it. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">So many errors in this plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mohit999nagar\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/792667c25059d4fa5740382743498533?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/792667c25059d4fa5740382743498533?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mohit999nagar\/\" class=\"reviewer-name\">mohit999nagar<\/a> on <span class=\"review-date\">January 28, 2021<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">this plugin version has so many errors after installation. some of them are as follows\n1. Warning: The magic method Woostify_Sites_Logger::__wakeup() must have public visibility in C:\\xampp\\htdocs\\nxtqart\\wp-content\\plugins\\woostify-sites-library\\includes\\class-woostify-sites-logger.php on line 194\n\n2. Warning: Attempt to read property \"before\" on array in C:\\xampp\\htdocs\\nxtqart\\wp-content\\themes\\woostify\\inc\\class-woostify-walker-menu.php on line 82\n\n3. Warning: Attempt to read property \"link_before\" on array in C:\\xampp\\htdocs\\nxtqart\\wp-content\\themes\\woostify\\inc\\class-woostify-walker-menu.php on line 99\n\n4. Warning: Attempt to read property \"link_after\" on array in C:\\xampp\\htdocs\\nxtqart\\wp-content\\themes\\woostify\\inc\\class-woostify-walker-menu.php on line 99\n\n5. Warning: Attempt to read property \"after\" on array in C:\\xampp\\htdocs\\nxtqart\\wp-content\\themes\\woostify\\inc\\class-woostify-walker-menu.php on line 149\n\nand many more.\n\nmy configuration \nPHP 7.4\nwordpress 5.6<\/div>\n<\/div>\n"
+    },
+    "short_description": "A collection of simple, beautiful demo sites for Woostify.",
+    "description": "<p>This plugin is an add-on for the Woostify WordPress Theme. It gives users a collection of demo sites to choose and import. Here is how it works:<\/p>\n<ol>\n<li>Install required plugins.<\/li>\n<li>Choose a demo site to import.<\/li>\n<li>Import site content and media.<\/li>\n<\/ol>\n<p>More info: <a href=\"https:\/\/woostify.com\" rel=\"nofollow ugc\">https:\/\/woostify.com<\/a><\/p>\n<p>Done!<\/p>\n<h3>Privacy Policy<\/h3>\n<p>Woostify Sites Library uses <a href=\"https:\/\/appsero.com\" rel=\"nofollow ugc\">Appsero<\/a> SDK to collect some telemetry data upon user&#8217;s confirmation. This helps us to troubleshoot problems faster &amp; make product improvements.<\/p>\n<p>Appsero SDK <strong>does not gather any data by default.<\/strong> The SDK only starts gathering basic telemetry data <strong>when a user allows it via the admin notice<\/strong>. We collect the data to ensure a great user experience for all our users.<\/p>\n<p>Integrating Appsero SDK <strong>DOES NOT IMMEDIATELY<\/strong> start gathering data, <strong>without confirmation from users in any case.<\/strong><\/p>\n<p>Learn more about how <a href=\"https:\/\/appsero.com\/privacy-policy\/\" rel=\"nofollow ugc\">Appsero collects and uses this data<\/a>.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.4.8.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "demo": "demo",
+        "one-click-import": "one click import",
+        "theme-demos": "theme demos"
+    },
+    "stable_tag": "1.4.8",
+    "versions": {
+        "1.1.6": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.1.6.zip",
+        "1.1.7": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.1.7.zip",
+        "1.1.8": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.1.8.zip",
+        "1.1.9": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.1.9.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.2.0.zip",
+        "1.2.1": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.2.1.zip",
+        "1.2.2": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.2.2.zip",
+        "1.2.3": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.2.3.zip",
+        "1.2.4": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.2.4.zip",
+        "1.2.5": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.2.5.zip",
+        "1.2.6": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.2.6.zip",
+        "1.2.7": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.2.7.zip",
+        "1.2.8": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.2.8.zip",
+        "1.2.9": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.2.9.zip",
+        "1.3.0": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.3.0.zip",
+        "1.3.1": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.3.1.zip",
+        "1.3.2": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.3.2.zip",
+        "1.3.3": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.3.3.zip",
+        "1.3.4": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.3.4.zip",
+        "1.3.5": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.3.5.zip",
+        "1.3.6": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.3.6.zip",
+        "1.3.8": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.3.8.zip",
+        "1.3.9": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.3.9.zip",
+        "1.4.0": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.4.0.zip",
+        "1.4.1": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.4.1.zip",
+        "1.4.2": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.4.2.zip",
+        "1.4.3": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.4.3.zip",
+        "1.4.4": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.4.4.zip",
+        "1.4.5": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.4.5.zip",
+        "1.4.6": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.4.6.zip",
+        "1.4.7": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.4.7.zip",
+        "1.4.8": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.1.4.8.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/woostify-sites-library.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/woostify-sites-library\/assets\/banner-772x250.png?rev=2147453",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/woostify-sites-library\/assets\/icon-256x256.png?rev=2147453",
+        "2x": "https:\/\/ps.w.org\/woostify-sites-library\/assets\/icon-256x256.png?rev=2147453"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "woostify-sites-library",
+            "language": "es_ES",
+            "version": "1.4.8",
+            "updated": "2021-08-21 15:37:18",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woostify-sites-library\/1.4.8\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woostify-sites-library",
+            "language": "nl_NL",
+            "version": "1.4.8",
+            "updated": "2023-10-13 11:18:10",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woostify-sites-library\/1.4.8\/nl_NL.zip"
+        }
+    ]
+}

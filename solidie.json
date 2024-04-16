@@ -1,0 +1,81 @@
+{
+    "name": "Solidie &#8211; Digital Content Stock",
+    "slug": "solidie",
+    "version": "1.0.2",
+    "author": "<a href=\"https:\/\/solidie.com\/\">Solidie<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/jayedul\/",
+    "contributors": {
+        "jayedul": {
+            "profile": "https:\/\/profiles.wordpress.org\/jayedul\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/e43244e117979370de0f2a712ab4ce60?s=96&d=monsterid&r=g",
+            "display_name": "JK"
+        }
+    },
+    "requires": "5.3",
+    "tested": "6.4.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/solidie\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 192,
+    "last_updated": "2024-02-18 7:10am GMT",
+    "added": "2024-01-31",
+    "homepage": "https:\/\/solidie.com\/apps\/solidie\/",
+    "sections": {
+        "description": "<p>No matter if you are an app developer, photographer, video maker, 3d modeler, writer, or you create any kind of digital contents, Solidie has all the features you need to present your creations to the world and start earning from them. See <a href=\"https:\/\/demo.solidie.com\" rel=\"nofollow ugc\">Live Demo<\/a><\/p>\n",
+        "installation": "<p>From WordPress Dashboard<br \/>\n1. Log in to your WordPress Admin Dashboard.<br \/>\n2. Go to Plugins &gt; Add New<br \/>\n3. The search box should be in the top right corner. Write &#8216;Solidie&#8217;.<br \/>\n4. Click on Install and then Activate.<\/p>\n<p>Manual Installation<br \/>\n1. Upload the plugin folder to the <code>\/wp-content\/plugins\/<\/code> directory.<br \/>\n2. Activate the plugin from the WordPress admin dashboard.<\/p>\n<h4>Documentation and Support<\/h4>\n<p>If you have any questions or problems using this plugin, you can write here in <a href=\"https:\/\/wordpress.org\/support\/plugin\/solidie\/\" rel=\"ugc\">support channel<\/a><\/p>\n<p>There are several minified JavaScript file that are built with React JS and compiled with Webpack. If you want to access the unminified files for this plugin, you can do so from <a href=\"https:\/\/github.com\/Solidie\/Solidie\" rel=\"nofollow ugc\">here<\/a><\/p>\n",
+        "faq": "\n<dt id='any%20limit%20on%20how%20many%20content%20can%20be%20created%3F'>\nAny limit on how many content can be created?\n<\/h4>\n<p>\n<p>You can create unlimited contents. No restriction.<\/p>\n<\/p>\n<dt id='can%20i%20monetize%20my%20content%3F'>\nCan I monetize my content?\n<\/h4>\n<p>\n<p>Yes. however all the monetization features comes with the Pro version.<\/p>\n<\/p>\n<dt id='what%20type%20of%20content%20can%20be%20showcased%3F'>\nWhat type of content can be showcased?\n<\/h4>\n<p>\n<p>Any type of digital contents regardless of app, audio, video, image, tutorial or anything else.<\/p>\n<\/p>\n<dt id='can%20i%20release%20apps%20using%20it%3F'>\nCan I release apps using it?\n<\/h4>\n<p>\n<p>Yes, the features is provided in the pro version. You can release your apps, manage version, auto update distribution like playstore, appstore, wordpress repository etc. You just need to send API request to your website from your app to check update and download if need.<\/p>\n<\/p>\n<dt id='does%20it%20support%20license%20key%20activation%20system%20for%20apps%3F'>\nDoes it support license key activation system for apps?\n<\/h4>\n<p>\n<p>Yes, It does in pro version. Your customers will get license keys after purchaing apps from your website.<\/p>\n<\/p>\n<dt id='can%20i%20sell%20seubscription%3F'>\nCan I sell seubscription?\n<\/h4>\n<p>\n<p>Yes, with the pro version. You can sell various plans for apps and all other content types on monthly, yearly and lifetime basis.<\/p>\n<\/p>\n<dt id='how%20can%20i%20suggest%20new%20features%3F'>\nHow can I suggest new features?\n<\/h4>\n<p>\n<p>You can <a href=\"https:\/\/github.com\/Solidie\/Solidie\/issues\" rel=\"nofollow ugc\">create issue<\/a> on Github repository or write here in <a href=\"https:\/\/wordpress.org\/support\/plugin\/solidie\/\" rel=\"ugc\">support channel<\/a>.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>v1.0.2 -&gt; Feb 18, 2024<\/h4>\n<ul>\n<li>New: Like, Dislike, Rating, Comment, Share functionalities<\/li>\n<li>Fix: Some content type not loading in single page<\/li>\n<li>Update: Content type configuration page merged into general settings<\/li>\n<li>Update: Gallery and single page made responsive<\/li>\n<\/ul>\n<h4>v1.0.1 -&gt; Feb 10, 2024<\/h4>\n<ul>\n<li>Fix: Multiple bug fixes<\/li>\n<\/ul>\n<h4>v1.0.0 -&gt; Jan 30, 2024<\/h4>\n<ul>\n<li>New: Initial release<\/li>\n<\/ul>\n",
+        "reviews": ""
+    },
+    "short_description": "The ultimate plugin for showcasing all kind of digital contents to the world and earn from them.",
+    "description": "<p>No matter if you are an app developer, photographer, video maker, 3d modeler, writer, or you create any kind of digital contents, Solidie has all the features you need to present your creations to the world and start earning from them. See <a href=\"https:\/\/demo.solidie.com\" rel=\"nofollow ugc\">Live Demo<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/solidie.1.0.2.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "content-marketplace": "content marketplace",
+        "digital-content": "digital content",
+        "image-stock": "image stock",
+        "stock-contributors": "stock contributors",
+        "video-stock": "video stock"
+    },
+    "stable_tag": "1.0.2",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/solidie.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/solidie.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/solidie.1.0.2.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/solidie.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/solidie.com\/apps\/solidie-pro\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/solidie\/assets\/banner-772x250.png?rev=3029165",
+        "high": "https:\/\/ps.w.org\/solidie\/assets\/banner-1544x500.png?rev=3029167"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/solidie\/assets\/icon.svg?rev=3029165",
+        "svg": "https:\/\/ps.w.org\/solidie\/assets\/icon.svg?rev=3029165"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

@@ -1,0 +1,75 @@
+{
+    "name": "WooCommerce Update All Prices to Excl VAT",
+    "slug": "wc-update-all-prices-to-excl-vat",
+    "version": "1.0.0",
+    "author": "<a href=\"https:\/\/commercebird.com\">CommerceBird<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/fawadinho\/",
+    "contributors": {
+        "fawadinho": {
+            "profile": "https:\/\/profiles.wordpress.org\/fawadinho\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/e3475aac07059fb9c28dddd64f39f4e0?s=96&d=monsterid&r=g",
+            "display_name": "Fawad Tiemoerie"
+        }
+    },
+    "requires": "6.0",
+    "tested": "6.4.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/wc-update-all-prices-to-excl-vat\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 209,
+    "last_updated": "2024-02-26 2:18pm GMT",
+    "added": "2024-02-26",
+    "homepage": "https:\/\/commercebird.com\/",
+    "sections": {
+        "description": "<p>Using this plugin you can reduce the prices of the WooCommerce products by given percentage+100%.<br \/>\nIf the standard tax rate is 21% in your store, enter <strong>&#8216;121&#8217;<\/strong> in the percentage field and click on update. All your product prices* will be reduced with 21%.<\/p>\n<p>**Important: please read how it works first. There is no second chance in changing prices<\/p>\n<h3>Q: Can I revert my prices update?<\/h3>\n<p>A: No, so please make sure you enter the correct percentage + 100<\/p>\n",
+        "installation": "<p><strong>To install WC Update all Prices, follow these steps:<\/strong><\/p>\n<ol>\n<li>Download and activate the plugin<\/li>\n<li>Go to WooCommerce Settings &gt; Tax &gt; set prices entered to excl. VAT<\/li>\n<li>Go to WC Update Prices in the WooCommerce submenu<\/li>\n<li>Enter the percentage + 100 to reduce the prices. E.g: to reduce prices with 21%, enter 121 in the field.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='q%3A%20does%20it%20also%20support%20variable%20products%3F'>\nQ: Does it also support Variable Products?\n<\/h4>\n<p>\n<p>A: Yes<\/p>\n<\/p>\n<dt id='q%3A%20does%20it%20support%20subscription%20products%3F'>\nQ: Does it support Subscription Products?\n<\/h4>\n<p>\n<p>A: Yes, it supports simple and variable subscription products and even the sign up fee!<\/p>\n<\/p>\n<dt id='q%3A%20can%20i%20also%20increase%20the%20price%20with%20a%20percentage%3F'>\nQ: Can I also increase the price with a percentage?\n<\/h4>\n<p>\n<p>A: No<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0<\/h4>\n<ul>\n<li>First version released.<\/li>\n<\/ul>\n",
+        "reviews": ""
+    },
+    "short_description": "Using this plugin you can reduce the prices of the WooCommerce products by given percentage+100%.",
+    "description": "<p>Using this plugin you can reduce the prices of the WooCommerce products by given percentage+100%.<br \/>\nIf the standard tax rate is 21% in your store, enter <strong>&#8216;121&#8217;<\/strong> in the percentage field and click on update. All your product prices* will be reduced with 21%.<\/p>\n<p>**Important: please read how it works first. There is no second chance in changing prices<\/p>\n<h3>Q: Can I revert my prices update?<\/h3>\n<p>A: No, so please make sure you enter the correct percentage + 100<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wc-update-all-prices-to-excl-vat.1.0.0.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "commerce": "commerce",
+        "e-commerce": "e-commerce",
+        "ecommerce": "ecommerce",
+        "shop": "shop",
+        "store": "store"
+    },
+    "stable_tag": "1.0.0",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/wc-update-all-prices-to-excl-vat.1.0.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/wc-update-all-prices-to-excl-vat.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "default": "https:\/\/s.w.org\/plugins\/geopattern-icon\/wc-update-all-prices-to-excl-vat.svg"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

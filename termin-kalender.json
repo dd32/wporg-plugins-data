@@ -1,0 +1,200 @@
+{
+    "name": "Termin-Kalender",
+    "slug": "termin-kalender",
+    "version": "0.98.6",
+    "author": "Beat Kueffer",
+    "author_profile": "https:\/\/profiles.wordpress.org\/beatk\/",
+    "contributors": {
+        "beatk": {
+            "profile": "https:\/\/profiles.wordpress.org\/beatk\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2fde603dcb0b853d85da8c7e2b836a21?s=96&d=monsterid&r=g",
+            "display_name": "beat.k"
+        },
+        "freemius": {
+            "profile": "https:\/\/profiles.wordpress.org\/freemius\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3ac33da92186a78937b307bdd9e906ee?s=96&d=monsterid&r=g",
+            "display_name": "Freemius"
+        }
+    },
+    "requires": "6.0",
+    "tested": "6.5.2",
+    "requires_php": "8.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/termin-kalender\/",
+    "support_threads": 1,
+    "support_threads_resolved": 1,
+    "active_installs": 10,
+    "downloaded": 970,
+    "last_updated": "2024-04-08 4:55pm GMT",
+    "added": "2023-12-18",
+    "homepage": "https:\/\/termin-kalender.beatkueffer.ch",
+    "sections": {
+        "description": "<p>Erste Version des easy Frontend Termin-Kalender.<\/p>\n<p>Dec 2023: First public beta of my easy Termin-Kalender calendar.<\/p>\n<p>(Reminder: Deaktivate FREE before PRO installation)<\/p>\n<h3>Einfacher Kalender f\u00fcr kleine Arbeitsgruppen.<\/h3>\n<p>Calendar with flexible labels to get a fast monthly overview of what is going.<br \/>\nAlso a flexible Form to adapt to your specific needs of what should be known for every schedule.<br \/>\nLike medication for a patient, deposit amount and details of returning the key for rented car, and so on.<br \/>\nConfigure it for your small business as you need it.<\/p>\n<h3>Der Kalender eignet sich f\u00fcr kleine Firmen und Arbeitsgruppen um Termine zu verwalten.<\/h3>\n<ul>\n<li>F\u00fcr Teameins\u00e4tze, Mitarbeitertermine<\/li>\n<li>Kundentermine<\/li>\n<li>Verwaltung von Materialverleih<\/li>\n<li>Disposition<\/li>\n<li>Raumvermietung, Reservationen<\/li>\n<\/ul>\n<p>Das besondere ist die einfache Installation und Bedienung.<\/p>\n<p><strong>A Frontend Calendar with easy setup and configuration options to use as your personal or a Teams common calendar<\/strong><\/p>\n<h3>Credits<\/h3>\n<p>This plugin uses the following libraries:<br \/>\n* <strong>Bootstrap:<\/strong> https:\/\/getbootstrap.com\/<br \/>\n* <strong>Fullcalendar:<\/strong> https:\/\/fullcalendar.io\/<br \/>\n* <strong>rrule:<\/strong> https:\/\/github.com\/jkbrzt\/rrule<\/p>\n<ul>\n<li>Inspired by ajax-event-calendar from Eran Miller, a discontinued Plug-In, last updated in 2015 for WordPress 4.2<\/li>\n<li>https:\/\/wordpress.org\/plugins\/ajax-event-calendar\/#description<\/li>\n<li>my easy Termin-Kalender calendar is a complete code redo and enhancements, based on most recent WordPress 6.+, Fullcalendar 6.+ and Php 8.+ as for 2023.<\/li>\n<li>Going to be a month planning calendar for ressources like employees, cars, rooms, etc.<\/li>\n<li>Free and PRO versions available.<\/li>\n<\/ul>\n",
+        "installation": "<ol>\n<li>Upload the Termin-Kalender Plugin, or choose it from the Plug-In repository to install.<\/li>\n<li>Activate the plugin through the Plugins menu in WordPress (Installing PRO: DEACTIVATE free version first!)<\/li>\n<li>In the Termin-Kalender ADMIN, find the link to add a page with the calendar and some sample entrys already created.<\/li>\n<li>Go to the calendar page, click on a free date and start with your first calendar entry in the popup menu.<br \/>\n<strong>Thats it, all else is detail configuration:<\/strong><\/li>\n<li>Check if your WordPress template is ok with the calendar. You find a list with information in the admin menu<\/li>\n<li>Check if you have a caching plug-in or method active. Just try to move a item on the calendar. If after refresh it stays at the new place (Remark: recurring events can not be moved) all seems fine. If after the automatic page refresh the item jumps back, you need to switch off caching for this page. More Info in Help.<\/li>\n<li>Depending on your needs, your templates and plugins installed: Choose how to make the calendar accessible to you only, your team, or public.  More Info in Help.<\/li>\n<li>That&#8217;s it, hope you will enjoy to work with the easy Termin-Kalender calendar.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='if%20i%20upgrade%20to%20pro%2C%20do%20i%20need%20both%20versions%20installed%3F'>\nIf i upgrade to PRO, do i need both versions installed?\n<\/h4>\n<p>\n<p>No, before installing the PRO version, please deactivate (later uninstall) the free version. You dont need both, your free calendar data will not be lost.<\/p>\n<\/p>\n<dt id='where%20can%20i%20find%20help%20and%20detailed%20information%20about%20the%20termin-kalender'>\nWhere can i find Help and detailed Information about the Termin-Kalender\n<\/h4>\n<p>\n<p>Visit our Website: <a href=\"https:\/\/termin-kalender.beatkueffer.ch\" rel=\"nofollow ugc\">termin-kalender.beatkueffer.ch<\/a><\/p>\n<\/p>\n<dt id='what%20can%20i%20do%2C%20if%20something%20does%20not%20work'>\nWhat can i do, if something does not work\n<\/h4>\n<p>\n<p>Actually this is the first public release of the easy frontend calendar called Termin-Kalender. <strong>Please download and try the free version first, before you buy PRO with all his possibilities<\/strong>. If your PRO license expires, no data is lost and you can continue using the calendar but some settings features and backup will not be available in the free version.<\/p>\n<\/p>\n<dt id='my%20calendar%20shows%20too%20small'>\nMy calendar shows too small\n<\/h4>\n<p>\n<p>Change the calendar page to use a wide template (full page width). Depending on the wordpress themes you are using, try to remove header, footer and sidebars.<\/p>\n<\/p>\n<dt id='my%20calendar%20does%20not%20show%20changes'>\nMy calendar does not show changes\n<\/h4>\n<p>\n<p>If your changes does not show after saving, you most probably have a CACHING Plug-In active and you need to EXCLUDE the my-easy-kalender page from caching. Try to switch off your caching plugin and LET US KNOW if there is a difference, so we can try to improve the Termin-Kalender. Please EXCLUDE the calendar page in your caching plugin options.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0<\/h4>\n<p><strong>THIS IS STILL BETA -Planned Initial Version 1.0<\/strong><\/p>\n<ul>\n<li>\n<p>Erste Version des Easy Frontend Termin-Kalender. <strong>Geplant \/ Planned for beginning of 2024<\/strong><\/p>\n<\/li>\n<li>\n<p>Please let us know about issues with this Beta, so we can optimize for you.<\/p>\n<\/li>\n<\/ul>\n<h4>0.98.6<\/h4>\n<ul>\n<li>2024 04 09<\/li>\n<li>Several Lists can now be shown in the frontend with content from different categories<\/li>\n<\/ul>\n<h4>0.98.5<\/h4>\n<ul>\n<li>2024 04 09<\/li>\n<li>Startup Checks added<\/li>\n<li>corrected form for name and show-hide field update in admin<\/li>\n<\/ul>\n<h4>0.98.4<\/h4>\n<ul>\n<li>2024 04 08<\/li>\n<li>deactivated frontend use of wp tinymce<\/li>\n<li>corrected auto creation of db field for termin list image<\/li>\n<li>updated freemius sdk to 2.7<\/li>\n<\/ul>\n<h4>0.98.3<\/h4>\n<ul>\n<li>2024 03 17<\/li>\n<li>tested for 6.5RC2<\/li>\n<li>Added Gutenberg Block with a Reservation Request form<\/li>\n<li>Added Gutenberg Block for List View of one Category (example: Events)<\/li>\n<li>Added configuration for both new Blocks:<\/li>\n<li>Choose Email and Category for reservation request<\/li>\n<li>Choose Category for list view<\/li>\n<\/ul>\n<h4>0.98.2<\/h4>\n<ul>\n<li>2024 03 16<\/li>\n<li>add option to set standard lenght of a recurring event<\/li>\n<li>reorganized admin help \/ PRO: editable form fields for calendar on the top admin page<\/li>\n<li>my own enqueued scripts get versioning synchronised with plugin version<\/li>\n<\/ul>\n<h4>0.98.1<\/h4>\n<ul>\n<li>2024 03 11<\/li>\n<li>added fields again: fixed single\/multiline issue<\/li>\n<\/ul>\n<h4>0.98<\/h4>\n<ul>\n<li>2024 03 10<\/li>\n<li>new calendar page does not create additional demo entries<\/li>\n<li>translation of help fields<\/li>\n<\/ul>\n<h4>0.97.8<\/h4>\n<ul>\n<li>2024 03 10<\/li>\n<li>database creation and update optimized \/ Please deactivate and reactivate Termin-Kalender Plug-In to update Database<\/li>\n<li>added function to duplicate calendar entries<\/li>\n<li>added help to the fields for new calendar entries<\/li>\n<li>fixed issue with disappearing added fields when deactivating and reactivating calendar<\/li>\n<\/ul>\n<h4>0.97.7<\/h4>\n<ul>\n<li>2024 03 10<\/li>\n<li>file and code cleanup and language update<\/li>\n<\/ul>\n<h4>0.97.4<\/h4>\n<ul>\n<li>2024 03 08<\/li>\n<li>recurring events are no more shown as all day events but at the choosen starting hour.<\/li>\n<li>\n<ul>\n<li>lenght display still missing due to rrule handling of starttime\/endtime\/duration<\/li>\n<\/ul>\n<\/li>\n<li>added possibility to add and delete categories<\/li>\n<\/ul>\n<h4>0.97.3<\/h4>\n<ul>\n<li>2024 03 02<\/li>\n<li>Admin route to frontend calendar simplified<\/li>\n<li>textupdate Caching Plugin info<\/li>\n<li>calendar form shows locked state<\/li>\n<\/ul>\n<h4>0.97.2<\/h4>\n<ul>\n<li>2024 02 29<\/li>\n<li>message to deactivate FREE if PRO is installing<\/li>\n<li>category link in calendar<\/li>\n<\/ul>\n<h4>0.97<\/h4>\n<ul>\n<li>2024 02 27<\/li>\n<li>Tested on wordpress 6.4.3<\/li>\n<li>Updated to freemius sdk 2.6.2<\/li>\n<li>added function to detect caching of the calendar and message to exclude calendar page<\/li>\n<li>lightspeed cache does not update calendar changes \/ Calendar page needs to be excluded in lightspeed settings.<\/li>\n<li>removed unused assets in plugin folder<\/li>\n<\/ul>\n<h4>0.96.3<\/h4>\n<ul>\n<li>2023 12 18<\/li>\n<li>First Version for WordPress Plugin Directory<\/li>\n<li>Fixed category in Email missing (PRO)<\/li>\n<li>changed modal window output from echoed php to direct show of html form with use of bootstrap form-control-plaintext<\/li>\n<li>start implement php to js data with help of localize_script instead of php echoes inside js<\/li>\n<li>admin banner size flexible<\/li>\n<li>load some transients on startup<\/li>\n<li>implement language strings in js<\/li>\n<\/ul>\n<h4>0.96.2<\/h4>\n<ul>\n<li>2023 12 05<\/li>\n<li>enqueued all dist locally<\/li>\n<li>all php pages secured (if !defined ABSPATH)<\/li>\n<li>removed php short tags<\/li>\n<li>reviewed sanitizing and escaping, did all possible<\/li>\n<li>functions prefixed ter_kal_<\/li>\n<li>Removend upgrade link to PRO on frontend<\/li>\n<li>made dashboard install info dismissable<\/li>\n<li>recheck according to [WordPress Plugin Directory] First Review 27.Nov 2023<\/li>\n<li>updated to freemius sdk version 2.6.1<\/li>\n<li>FIRST submission to PLUGIN REVIEW after initial 3 months old version was reviewed<\/li>\n<\/ul>\n<h4>0.96.1<\/h4>\n<ul>\n<li>code cleanup<\/li>\n<li>js loading in footer. js merged as much as possible<\/li>\n<\/ul>\n<h4>0.96<\/h4>\n<ul>\n<li>testing for final beta release<\/li>\n<\/ul>\n<h4>0.95.8<\/h4>\n<ul>\n<li>non calendar users can not see participants<\/li>\n<li>html email with link to calendar (and place on google maps)<\/li>\n<\/ul>\n<h4>0.95.7<\/h4>\n<ul>\n<li>Fine tune calendar data for compatibility<\/li>\n<li>add and remove user for notification email<\/li>\n<\/ul>\n<h4>0.95.6<\/h4>\n<ul>\n<li>Updated Invitation Email<\/li>\n<li>Laguage update<\/li>\n<\/ul>\n<h4>0.95.5<\/h4>\n<ul>\n<li>Added Invitation Email<\/li>\n<li>Tested with WordPress Twenty Twenty-Four<\/li>\n<\/ul>\n<h4>0.95.4<\/h4>\n<ul>\n<li>Tested on wordpress 6.4.1<\/li>\n<li>minor css improvements (category and submit buttons)<\/li>\n<li>link on help-popup to termin-kalender website<\/li>\n<\/ul>\n<h4>0.95.3<\/h4>\n<ul>\n<li>Testing with different themes<\/li>\n<li>minor optimization for bootstrap and css<\/li>\n<li>create calendar page button on admin<\/li>\n<\/ul>\n<h4>0.95.2<\/h4>\n<ul>\n<li>corrected freemius admin link<\/li>\n<li>if calendar page(s) exist, links from admin page<\/li>\n<li>keep user language from constant to transient<\/li>\n<\/ul>\n<h4>0.95<\/h4>\n<ul>\n<li>added locales-all js for the calendar button translations<\/li>\n<li>changed text content language of all php files from german to english<\/li>\n<li>reworked english wordings<\/li>\n<\/ul>\n<h4>0.94.8<\/h4>\n<ul>\n<li>css bootstrap enhancement frontend popup form<\/li>\n<li>not loged in can not move appointments anymore<\/li>\n<\/ul>\n<h4>0.94.7<\/h4>\n<ul>\n<li>Updated to freemius sdk 2.6<\/li>\n<\/ul>\n<h4>0.94.6<\/h4>\n<ul>\n<li>Optimized calendar user rights admin page<\/li>\n<li>Optimized calendar startup with calendar page creation<\/li>\n<\/ul>\n<h4>0.94.5<\/h4>\n<ul>\n<li>Optimized calendar CSS, for fullsite view and display on phones<\/li>\n<li>Added home and help buttons<\/li>\n<\/ul>\n<h4>0.94.4<\/h4>\n<ul>\n<li>Corrected error showing backup in free version<\/li>\n<\/ul>\n<h4>0.94.3<\/h4>\n<ul>\n<li>Create default backup dir<\/li>\n<\/ul>\n<h4>0.94.2<\/h4>\n<p>*Version for Phone (small screens)<br \/>\n* Used Plugin Check to optimize code:<br \/>\n* -Added nonce to form posts<br \/>\n* -Escaped as much as possible all input and output<br \/>\n* -Prepared database queries as much as possible<br \/>\n* Added a user log for every change of an appointment<br \/>\n* Added weekly, monthly and yearly recurrences in PRO<br \/>\n* Participants to an event will now be choosen from wordpress users<br \/>\n* Updated fullcalendar to 6.1.9<br \/>\n* Added rrule 2.6.4 and fullcalendar\/rrule 6.1.9<br \/>\n* Using Bootstrap 5.3.2 (from 5.2.3)<br \/>\n* Update language de en<\/p>\n<h4>0.94.1.1<\/h4>\n<ul>\n<li>(added google folder for TEST output to google calender,json, csv and ical ics.)<\/li>\n<li>removed calendar exchanges, planned for later<\/li>\n<\/ul>\n<h4>0.94<\/h4>\n<ul>\n<li>wordpress plugin slug: termin-kalender, text domain: termin-kalender<\/li>\n<li>added weekly recurring events in pro version<\/li>\n<\/ul>\n<h4>0.93<\/h4>\n<ul>\n<li>updated readme and header for wordpress<\/li>\n<\/ul>\n<h4>0.92<\/h4>\n<ul>\n<li>fixed redirect after activation<\/li>\n<li>fixed buy button<\/li>\n<li>language update de en<\/li>\n<\/ul>\n<h4>0.91<\/h4>\n<ul>\n<li>sep. 13, 2023 Beta release<\/li>\n<li>Minor changes to adapt to freemius code.<\/li>\n<li>added index.php to db_backup folder to avoid deletion at zip-release of plugin folder.<\/li>\n<\/ul>\n<h4>0.9<\/h4>\n<ul>\n<li>sep. 13, 2023<\/li>\n<li>Public Beta. First stable release.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-001.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-001.png?rev=3013038\" alt=\"Termin-Kalender Website mit Info zu Installation und Konfiguration des Kalenders: &lt;a href=&quot;https:\/\/termin-kalender.beatkueffer.ch&quot;&gt;termin-kalender.beatkueffer.ch&lt;\/a&gt;\"><\/a><p>Termin-Kalender Website mit Info zu Installation und Konfiguration des Kalenders: <a href=\"https:\/\/termin-kalender.beatkueffer.ch\">termin-kalender.beatkueffer.ch<\/a><\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-002.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-002.png?rev=3013038\" alt=\"Termin-Kalender Frontend nach der Installation. Der Terminkalender erstellt bei der Aktivierung eine Kalender-Seite mit Link zum Administrationsbereich.\"><\/a><p>Termin-Kalender Frontend nach der Installation. Der Terminkalender erstellt bei der Aktivierung eine Kalender-Seite mit Link zum Administrationsbereich.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-003.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-003.png?rev=3013038\" alt=\"Termin-Kalender Gutenberg Block. Der Kalender erstellt bei der Aktivierung eine eigene Seite. Passen Sie diese Seite in ihrem Wordpress Thema auf volle Breite an. F\u00fcr Tablet und Phone k\u00f6nnen sie je nach verwendetem Theme zus\u00e4tzlich die Elemente wie Header und Footer ausblenden um den Kalender auf dem Phone in maximal m\u00f6glicher Gr\u00f6sse anzuzeigen.\"><\/a><p>Termin-Kalender Gutenberg Block. Der Kalender erstellt bei der Aktivierung eine eigene Seite. Passen Sie diese Seite in ihrem Wordpress Thema auf volle Breite an. F\u00fcr Tablet und Phone k\u00f6nnen sie je nach verwendetem Theme zus\u00e4tzlich die Elemente wie Header und Footer ausblenden um den Kalender auf dem Phone in maximal m\u00f6glicher Gr\u00f6sse anzuzeigen.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-004.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-004.png?rev=3013038\" alt=\"Kalender Kopfbereich mit Bereiche-\u00dcbersicht und Datums Vor und Zur\u00fcck Navigation.\"><\/a><p>Kalender Kopfbereich mit Bereiche-\u00dcbersicht und Datums Vor und Zur\u00fcck Navigation.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-005.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-005.png?rev=3013038\" alt=\"Bereiche-\u00dcbersicht und Kalender Anzeige: Jahr, Monat, Woche, Tag, Liste. Empfohlen ist die Monatsansicht am PC und die Liste auf dem Phone.\"><\/a><p>Bereiche-\u00dcbersicht und Kalender Anzeige: Jahr, Monat, Woche, Tag, Liste. Empfohlen ist die Monatsansicht am PC und die Liste auf dem Phone.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-006.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-006.png?rev=3013038\" alt=\"Termine: Jahres\u00fcbersicht\"><\/a><p>Termine: Jahres\u00fcbersicht<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-007.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-007.png?rev=3013038\" alt=\"Termine: Monats-Ansicht. Empfohlen f\u00fcr Ansicht auf dem PC.\"><\/a><p>Termine: Monats-Ansicht. Empfohlen f\u00fcr Ansicht auf dem PC.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-008.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-008.png?rev=3013038\" alt=\"Termine: Wochen-Ansicht\"><\/a><p>Termine: Wochen-Ansicht<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-009.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-009.png?rev=3013038\" alt=\"Termine: Tages-Ansicht\"><\/a><p>Termine: Tages-Ansicht<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-010.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-010.png?rev=3013038\" alt=\"Termine: Listen-Ansicht. Empfohlen f\u00fcr Phone.\"><\/a><p>Termine: Listen-Ansicht. Empfohlen f\u00fcr Phone.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-011.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-011.png?rev=3013038\" alt=\"Termin erstellen und Datum ausw\u00e4hlen\"><\/a><p>Termin erstellen und Datum ausw\u00e4hlen<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-012.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-012.png?rev=3013038\" alt=\"Bereich (Kategorie) w\u00e4hlen beim erstellen eines Termins\"><\/a><p>Bereich (Kategorie) w\u00e4hlen beim erstellen eines Termins<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-013.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-013.png?rev=3013038\" alt=\"Termin zeigen. Bearbeiten wird den Benutzern mit Admin Rechten angezeigt. In der PRO Version k\u00f6nnen sie zus\u00e4tzliche Benutzer-Rechte konfigurieren.\"><\/a><p>Termin zeigen. Bearbeiten wird den Benutzern mit Admin Rechten angezeigt. In der PRO Version k\u00f6nnen sie zus\u00e4tzliche Benutzer-Rechte konfigurieren.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-014.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-014.png?rev=3013038\" alt=\"Termin-Kalender Administration im Wordpress Backend. Hier k\u00f6nnen sie auch die PRO Version kaufen.\"><\/a><p>Termin-Kalender Administration im Wordpress Backend. Hier k\u00f6nnen sie auch die PRO Version kaufen.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-015.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-015.png?rev=3013038\" alt=\"Testeintr\u00e4ge erstellen: Im Administrationsbereich k\u00f6nnen sie automatisch Testeintr\u00e4ge erstellen um den Kalender zu testen.\"><\/a><p>Testeintr\u00e4ge erstellen: Im Administrationsbereich k\u00f6nnen sie automatisch Testeintr\u00e4ge erstellen um den Kalender zu testen.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-016.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-016.png?rev=3013038\" alt=\"&lt;strong&gt;PRO Version:&lt;\/strong&gt; Bereiche konfigurieren: Im Administrationsbereich k\u00f6nnen sie den Titel, die Farbe und das Icon jedes Bereichs frei Konfigurieren.\"><\/a><p><strong>PRO Version:<\/strong> Bereiche konfigurieren: Im Administrationsbereich k\u00f6nnen sie den Titel, die Farbe und das Icon jedes Bereichs frei Konfigurieren.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-017.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-017.png?rev=3013038\" alt=\"Bereichs Icon. In der PRO Version k\u00f6nnen sie die Bereichs-Namen, Icon und Farben nach ihren Bed\u00fcrfnissen anpassen.\"><\/a><p>Bereichs Icon. In der PRO Version k\u00f6nnen sie die Bereichs-Namen, Icon und Farben nach ihren Bed\u00fcrfnissen anpassen.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-018.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-018.png?rev=3013038\" alt=\"&lt;strong&gt;PRO Version:&lt;\/strong&gt; Eigene Ein- oder Mehrzeilige Formular-Felder erstellen.\"><\/a><p><strong>PRO Version:<\/strong> Eigene Ein- oder Mehrzeilige Formular-Felder erstellen.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-019.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-019.png?rev=3013038\" alt=\"&lt;strong&gt;PRO Version:&lt;\/strong&gt; Zus\u00e4tzliche eigene Felder erstellen. Eigene Felder k\u00f6nnen deaktiviert werden.\"><\/a><p><strong>PRO Version:<\/strong> Zus\u00e4tzliche eigene Felder erstellen. Eigene Felder k\u00f6nnen deaktiviert werden.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-020.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-020.png?rev=3013038\" alt=\"&lt;strong&gt;PRO Version:&lt;\/strong&gt; Eigene Felder k\u00f6nnen sie im Formular nach bedarf ausblenden, aber auch umbenennen oder l\u00f6schen.\"><\/a><p><strong>PRO Version:<\/strong> Eigene Felder k\u00f6nnen sie im Formular nach bedarf ausblenden, aber auch umbenennen oder l\u00f6schen.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-021.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-021.png?rev=3013038\" alt=\"Termin zeigen mit eigenem Feld f\u00fcr Telefon-Nmmern.\"><\/a><p>Termin zeigen mit eigenem Feld f\u00fcr Telefon-Nmmern.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-022.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-022.png?rev=3013038\" alt=\"&lt;strong&gt;PRO Version:&lt;\/strong&gt; Backup erstellen, auf den PC herunterladen und Wiederherstellen.\"><\/a><p><strong>PRO Version:<\/strong> Backup erstellen, auf den PC herunterladen und Wiederherstellen.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-023.png?rev=3013038\"><img src=\"https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-023.png?rev=3013038\" alt=\"&lt;strong&gt;PRO Version:&lt;\/strong&gt; Einfache Benutzerverwaltung. W\u00e4hlen sie einen der Benutzer, den sie in Wordpress erstellt haben und geben sie ihm das Recht Termine zu erstellen und zu bearbeiten. Oder Erstellen\/Bearbeiten\/L\u00f6schen. Die Anzeige des Terminkalenders im Frontend k\u00f6nnen sie \u00fcber die Wordpress Funktionen oder die Funktionen ihres Templates oder von Erweiterungen einstellen um die Termine allen Besuchern, nur angemeldeten Besuchern usw, anzuzeigen. &lt;em&gt;Achtung:&lt;\/em&gt; Standard ist ALLEN Besuchern anzeigen. Passen sie dies bitte unbedingt an! Wenn die Termine nicht \u00f6ffentlich gezeigt werden sollen.\"><\/a><p><strong>PRO Version:<\/strong> Einfache Benutzerverwaltung. W\u00e4hlen sie einen der Benutzer, den sie in Wordpress erstellt haben und geben sie ihm das Recht Termine zu erstellen und zu bearbeiten. Oder Erstellen\/Bearbeiten\/L\u00f6schen. Die Anzeige des Terminkalenders im Frontend k\u00f6nnen sie \u00fcber die Wordpress Funktionen oder die Funktionen ihres Templates oder von Erweiterungen einstellen um die Termine allen Besuchern, nur angemeldeten Besuchern usw, anzuzeigen. <em>Achtung:<\/em> Standard ist ALLEN Besuchern anzeigen. Passen sie dies bitte unbedingt an! Wenn die Termine nicht \u00f6ffentlich gezeigt werden sollen.<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Late Beta works well so far<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/beatk\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/2fde603dcb0b853d85da8c7e2b836a21?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/2fde603dcb0b853d85da8c7e2b836a21?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/beatk\/\" class=\"reviewer-name\">beat.k<\/a> on <span class=\"review-date\">March 1, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Late Beta works well so far. Before installing PRO, uninstall FREE and EXCLUDE the calendar page in caching settings, if you use a caching Plug-In and new calendar entries or changes does not show immediately. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Erste Version des Easy Frontend Termin-Kalender.\nEinfacher Organisationskalender f\u00fcr kleine Arbeitsgruppen.",
+    "description": "<p>Erste Version des easy Frontend Termin-Kalender.<\/p>\n<p>Dec 2023: First public beta of my easy Termin-Kalender calendar.<\/p>\n<p>(Reminder: Deaktivate FREE before PRO installation)<\/p>\n<h3>Einfacher Kalender f\u00fcr kleine Arbeitsgruppen.<\/h3>\n<p>Calendar with flexible labels to get a fast monthly overview of what is going.<br \/>\nAlso a flexible Form to adapt to your specific needs of what should be known for every schedule.<br \/>\nLike medication for a patient, deposit amount and details of returning the key for rented car, and so on.<br \/>\nConfigure it for your small business as you need it.<\/p>\n<h3>Der Kalender eignet sich f\u00fcr kleine Firmen und Arbeitsgruppen um Termine zu verwalten.<\/h3>\n<ul>\n<li>F\u00fcr Teameins\u00e4tze, Mitarbeitertermine<\/li>\n<li>Kundentermine<\/li>\n<li>Verwaltung von Materialverleih<\/li>\n<li>Disposition<\/li>\n<li>Raumvermietung, Reservationen<\/li>\n<\/ul>\n<p>Das besondere ist die einfache Installation und Bedienung.<\/p>\n<p><strong>A Frontend Calendar with easy setup and configuration options to use as your personal or a Teams common calendar<\/strong><\/p>\n<h3>Credits<\/h3>\n<p>This plugin uses the following libraries:<br \/>\n* <strong>Bootstrap:<\/strong> https:\/\/getbootstrap.com\/<br \/>\n* <strong>Fullcalendar:<\/strong> https:\/\/fullcalendar.io\/<br \/>\n* <strong>rrule:<\/strong> https:\/\/github.com\/jkbrzt\/rrule<\/p>\n<ul>\n<li>Inspired by ajax-event-calendar from Eran Miller, a discontinued Plug-In, last updated in 2015 for WordPress 4.2<\/li>\n<li>https:\/\/wordpress.org\/plugins\/ajax-event-calendar\/#description<\/li>\n<li>my easy Termin-Kalender calendar is a complete code redo and enhancements, based on most recent WordPress 6.+, Fullcalendar 6.+ and Php 8.+ as for 2023.<\/li>\n<li>Going to be a month planning calendar for ressources like employees, cars, rooms, etc.<\/li>\n<li>Free and PRO versions available.<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/termin-kalender.0.98.6.zip",
+    "upgrade_notice": {
+        "": "<p>Actually this is the first public release of the easy frontend calendar called Termin-Kalender.\nEven after the license expires, no data is lost and you can continue using the calendar, but not change configuration anymore and not use the backup function anymore.<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-001.png?rev=3013038",
+            "caption": "Termin-Kalender Website mit Info zu Installation und Konfiguration des Kalenders: <a href=\"https:\/\/termin-kalender.beatkueffer.ch\">termin-kalender.beatkueffer.ch<\/a>"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-002.png?rev=3013038",
+            "caption": "Termin-Kalender Frontend nach der Installation. Der Terminkalender erstellt bei der Aktivierung eine Kalender-Seite mit Link zum Administrationsbereich."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-003.png?rev=3013038",
+            "caption": "Termin-Kalender Gutenberg Block. Der Kalender erstellt bei der Aktivierung eine eigene Seite. Passen Sie diese Seite in ihrem Wordpress Thema auf volle Breite an. F\u00fcr Tablet und Phone k\u00f6nnen sie je nach verwendetem Theme zus\u00e4tzlich die Elemente wie Header und Footer ausblenden um den Kalender auf dem Phone in maximal m\u00f6glicher Gr\u00f6sse anzuzeigen."
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-004.png?rev=3013038",
+            "caption": "Kalender Kopfbereich mit Bereiche-\u00dcbersicht und Datums Vor und Zur\u00fcck Navigation."
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-005.png?rev=3013038",
+            "caption": "Bereiche-\u00dcbersicht und Kalender Anzeige: Jahr, Monat, Woche, Tag, Liste. Empfohlen ist die Monatsansicht am PC und die Liste auf dem Phone."
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-006.png?rev=3013038",
+            "caption": "Termine: Jahres\u00fcbersicht"
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-007.png?rev=3013038",
+            "caption": "Termine: Monats-Ansicht. Empfohlen f\u00fcr Ansicht auf dem PC."
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-008.png?rev=3013038",
+            "caption": "Termine: Wochen-Ansicht"
+        },
+        "9": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-009.png?rev=3013038",
+            "caption": "Termine: Tages-Ansicht"
+        },
+        "10": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-010.png?rev=3013038",
+            "caption": "Termine: Listen-Ansicht. Empfohlen f\u00fcr Phone."
+        },
+        "11": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-011.png?rev=3013038",
+            "caption": "Termin erstellen und Datum ausw\u00e4hlen"
+        },
+        "12": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-012.png?rev=3013038",
+            "caption": "Bereich (Kategorie) w\u00e4hlen beim erstellen eines Termins"
+        },
+        "13": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-013.png?rev=3013038",
+            "caption": "Termin zeigen. Bearbeiten wird den Benutzern mit Admin Rechten angezeigt. In der PRO Version k\u00f6nnen sie zus\u00e4tzliche Benutzer-Rechte konfigurieren."
+        },
+        "14": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-014.png?rev=3013038",
+            "caption": "Termin-Kalender Administration im Wordpress Backend. Hier k\u00f6nnen sie auch die PRO Version kaufen."
+        },
+        "15": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-015.png?rev=3013038",
+            "caption": "Testeintr\u00e4ge erstellen: Im Administrationsbereich k\u00f6nnen sie automatisch Testeintr\u00e4ge erstellen um den Kalender zu testen."
+        },
+        "16": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-016.png?rev=3013038",
+            "caption": "<strong>PRO Version:<\/strong> Bereiche konfigurieren: Im Administrationsbereich k\u00f6nnen sie den Titel, die Farbe und das Icon jedes Bereichs frei Konfigurieren."
+        },
+        "17": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-017.png?rev=3013038",
+            "caption": "Bereichs Icon. In der PRO Version k\u00f6nnen sie die Bereichs-Namen, Icon und Farben nach ihren Bed\u00fcrfnissen anpassen."
+        },
+        "18": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-018.png?rev=3013038",
+            "caption": "<strong>PRO Version:<\/strong> Eigene Ein- oder Mehrzeilige Formular-Felder erstellen."
+        },
+        "19": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-019.png?rev=3013038",
+            "caption": "<strong>PRO Version:<\/strong> Zus\u00e4tzliche eigene Felder erstellen. Eigene Felder k\u00f6nnen deaktiviert werden."
+        },
+        "20": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-020.png?rev=3013038",
+            "caption": "<strong>PRO Version:<\/strong> Eigene Felder k\u00f6nnen sie im Formular nach bedarf ausblenden, aber auch umbenennen oder l\u00f6schen."
+        },
+        "21": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-021.png?rev=3013038",
+            "caption": "Termin zeigen mit eigenem Feld f\u00fcr Telefon-Nmmern."
+        },
+        "22": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-022.png?rev=3013038",
+            "caption": "<strong>PRO Version:<\/strong> Backup erstellen, auf den PC herunterladen und Wiederherstellen."
+        },
+        "23": {
+            "src": "https:\/\/ps.w.org\/termin-kalender\/assets\/screenshot-023.png?rev=3013038",
+            "caption": "<strong>PRO Version:<\/strong> Einfache Benutzerverwaltung. W\u00e4hlen sie einen der Benutzer, den sie in Wordpress erstellt haben und geben sie ihm das Recht Termine zu erstellen und zu bearbeiten. Oder Erstellen\/Bearbeiten\/L\u00f6schen. Die Anzeige des Terminkalenders im Frontend k\u00f6nnen sie \u00fcber die Wordpress Funktionen oder die Funktionen ihres Templates oder von Erweiterungen einstellen um die Termine allen Besuchern, nur angemeldeten Besuchern usw, anzuzeigen. <em>Achtung:<\/em> Standard ist ALLEN Besuchern anzeigen. Passen sie dies bitte unbedingt an! Wenn die Termine nicht \u00f6ffentlich gezeigt werden sollen."
+        }
+    },
+    "tags": {
+        "agenda": "agenda",
+        "appointment": "appointment",
+        "calendrier": "calendrier",
+        "easy-calendar": "easy calendar",
+        "termin": "termin"
+    },
+    "stable_tag": "0.98.6",
+    "versions": {
+        "0.96.3": "https:\/\/downloads.wordpress.org\/plugin\/termin-kalender.0.96.3.zip",
+        "0.97.2": "https:\/\/downloads.wordpress.org\/plugin\/termin-kalender.0.97.2.zip",
+        "0.97.7": "https:\/\/downloads.wordpress.org\/plugin\/termin-kalender.0.97.7.zip",
+        "0.98": "https:\/\/downloads.wordpress.org\/plugin\/termin-kalender.0.98.zip",
+        "0.98.1": "https:\/\/downloads.wordpress.org\/plugin\/termin-kalender.0.98.1.zip",
+        "0.98.3": "https:\/\/downloads.wordpress.org\/plugin\/termin-kalender.0.98.3.zip",
+        "0.98.5": "https:\/\/downloads.wordpress.org\/plugin\/termin-kalender.0.98.5.zip",
+        "0.98.6": "https:\/\/downloads.wordpress.org\/plugin\/termin-kalender.0.98.6.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/termin-kalender.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "http:\/\/termin-kalender.beatkueffer.ch",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/termin-kalender\/assets\/banner-772x250.png?rev=3013039",
+        "high": "https:\/\/ps.w.org\/termin-kalender\/assets\/banner-1544x500.png?rev=3013039"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/termin-kalender\/assets\/icon.svg?rev=3011359",
+        "svg": "https:\/\/ps.w.org\/termin-kalender\/assets\/icon.svg?rev=3011359"
+    },
+    "blocks": {
+        "termin-kalender\/shortcode-block": {
+            "name": "termin-kalender\/shortcode-block",
+            "title": "Termin-Kalender"
+        },
+        "my-termin-reservation\/shortcode-block": {
+            "name": "my-termin-reservation\/shortcode-block",
+            "title": "Termin-Kalender Reservation Form"
+        },
+        "my-termin-eventlist\/shortcode-block": {
+            "name": "my-termin-eventlist\/shortcode-block",
+            "title": "Termin-Kalender Event List"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

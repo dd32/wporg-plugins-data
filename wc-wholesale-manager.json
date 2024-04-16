@@ -1,0 +1,117 @@
+{
+    "name": "WC Wholesale Manager &#8211; Ultimate Wholesale Solution for WooCommerce",
+    "slug": "wc-wholesale-manager",
+    "version": "1.0.0",
+    "author": "<a href=\"https:\/\/pluginever.com\/\">PluginEver<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/pluginever\/",
+    "contributors": {
+        "pluginever": {
+            "profile": "https:\/\/profiles.wordpress.org\/pluginever\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/5787e13a43569917594225870a640194?s=96&d=monsterid&r=g",
+            "display_name": "PluginEver"
+        },
+        "manikmist09": {
+            "profile": "https:\/\/profiles.wordpress.org\/manikmist09\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/bfc18f8c9650875fbc7e1881078de565?s=96&d=monsterid&r=g",
+            "display_name": "Sultan Nasir Uddin"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.5.2",
+    "requires_php": "5.6",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/wc-wholesale-manager\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 134,
+    "last_updated": "2024-04-05 9:24pm GMT",
+    "added": "2024-03-03",
+    "homepage": "https:\/\/pluginever.com\/plugins\/wc-wholesale-manager\/",
+    "sections": {
+        "description": "<p>Wholesale Manager for WooCommerce is the most powerful WooCommerce B2B plugin created for WooCommerce store owners. Sell products at wholesale prices to your registered B2B customers and also sell products at regular prices to your B2C customers all within your WooCommerce store.<\/p>\n<p>Wholesale Manager for WooCommerce plugin bridges this gap by seamlessly integrating all the necessary functionalities. Transform your WooCommerce store into a complete B2B wholesale store without any compromise.<\/p>\n<h3>\u2728 Wholesale Manager for WooCommerce Features:<\/h3>\n<ul>\n<li><strong>Wholesale Pricing Options:<\/strong> Ability to set different wholesale pricing for products, either as a fixed amount or a percentage discount based on user roles or quantity purchased.<\/li>\n<li><strong>Tiered Pricing Structures:<\/strong> Ability to set different pricing levels for different groups of customers (like retailers, distributors, etc.), enabling dynamic pricing based on volume or customer type.<\/li>\n<li><strong>Role-based Discount on Product Categories:<\/strong> Ability to make customized categories for wholesale customers on each role, potentially with different pricing or product offerings.<\/li>\n<li><strong>Role-based Discount on Products:<\/strong> Ability to make customized products for wholesale customers on each role, potentially with different pricing or product offerings.<\/li>\n<li><strong>Minimum Order Quantities:<\/strong> Set minimum order quantities for wholesale orders, ensuring that wholesale customers meet certain volume requirements.<\/li>\n<li><strong>Wholesale Registration and Management:<\/strong> Allow for the creation of wholesale customer accounts with custom registration fields, approval processes, and role assignments.<\/li>\n<li><strong>Customize Default Email Template:<\/strong> Change the default email templates that will be used for notifying registering New Wholesale User, Wholesale User Approved, Declined Wholesale User, and Pending Wholesale User emails.<\/li>\n<li><strong>Custom User Roles and Permissions:<\/strong> Create custom user roles for wholesale customers with specific permissions and access rights, differentiating them from regular retail customers.<\/li>\n<li><strong>Private Store or Exclusive Sections:<\/strong> Create private sections of the store accessible only to approved wholesale customers or even a completely private store for wholesale transactions.<\/li>\n<li><strong>Product Visibility Control:<\/strong> Control which products are visible to wholesale customers and retail customers, allowing for a segmented product catalog.<\/li>\n<li><strong>Customizable Shipping and Payment Options:<\/strong> Ability to disable default payment gateways and shipping methods to provide tailored shipping and payment options for wholesale orders.<\/li>\n<li><strong>Customizable Tax and Coupons:<\/strong> Ability to disable default tax collection and coupons for wholesale users.<\/li>\n<li><strong>Multi-currency and Multi-language Support:<\/strong> Support for multiple currencies and languages to cater to a global wholesale customer base.<\/li>\n<li><strong>Integration with Existing WooCommerce Features:<\/strong> Ensure seamless integration with existing WooCommerce features and plugins, maintaining a consistent user experience and functionality.<\/li>\n<\/ul>\n",
+        "installation": "<h4>Minimum requirements<\/h4>\n<ul>\n<li>WordPress 5.0 or greater<\/li>\n<li>WooCommerce 5.0 or greater<\/li>\n<li>PHP version 5.6 or greater<\/li>\n<li>MySQL version 5.6 or greater<\/li>\n<li>MariaDB version 10 or later<\/li>\n<\/ul>\n<h4>Automatic installation<\/h4>\n<p>Automatic installation is the easiest option as WordPress handles the file transfers itself and you don&#8217;t need to leave your web browser. To do an automatic install of Wholesale Manager for WooCommerce, log in to your WordPress dashboard, navigate to the Plugins menu and click &#8220;Add New&#8221;.<\/p>\n<p>In the search field type &#8220;Wholesale Manager for WooCommerce&#8221; and click Search Plugins. Once you have found the plugin you can view details about it such as plugin version, rating, and description. Most importantly, of course, you can install it by simply clicking &#8220;Install Now&#8221;.<\/p>\n<h4>Manual installation<\/h4>\n<ol>\n<li>Upload the plugin files to the <code>\/wp-content\/plugins\/wc-wholesale-manager<\/code> directory, or install the plugin through the WordPress plugins screen directly.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; screen in WordPress.<\/li>\n<\/ol>\n<h4>Updating<\/h4>\n<p>Automatic updates should work like a charm; as always though, ensure you backup your site just in case.<\/p>\n",
+        "changelog": "<h4>1.0.0<\/h4>\n<ul>\n<li>Initial Release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-1.png?rev=3065741\"><img src=\"https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-1.png?rev=3065741\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-2.png?rev=3065741\"><img src=\"https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-2.png?rev=3065741\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-3.png?rev=3065741\"><img src=\"https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-3.png?rev=3065741\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-4.png?rev=3065741\"><img src=\"https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-4.png?rev=3065741\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-5.png?rev=3065741\"><img src=\"https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-5.png?rev=3065741\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-6.png?rev=3065741\"><img src=\"https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-6.png?rev=3065741\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-7.png?rev=3065741\"><img src=\"https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-7.png?rev=3065741\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-8.png?rev=3065741\"><img src=\"https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-8.png?rev=3065741\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Easily manage wholesale products in your WooCommerce shop.",
+    "description": "<p>Wholesale Manager for WooCommerce is the most powerful WooCommerce B2B plugin created for WooCommerce store owners. Sell products at wholesale prices to your registered B2B customers and also sell products at regular prices to your B2C customers all within your WooCommerce store.<\/p>\n<p>Wholesale Manager for WooCommerce plugin bridges this gap by seamlessly integrating all the necessary functionalities. Transform your WooCommerce store into a complete B2B wholesale store without any compromise.<\/p>\n<h3>\u2728 Wholesale Manager for WooCommerce Features:<\/h3>\n<ul>\n<li><strong>Wholesale Pricing Options:<\/strong> Ability to set different wholesale pricing for products, either as a fixed amount or a percentage discount based on user roles or quantity purchased.<\/li>\n<li><strong>Tiered Pricing Structures:<\/strong> Ability to set different pricing levels for different groups of customers (like retailers, distributors, etc.), enabling dynamic pricing based on volume or customer type.<\/li>\n<li><strong>Role-based Discount on Product Categories:<\/strong> Ability to make customized categories for wholesale customers on each role, potentially with different pricing or product offerings.<\/li>\n<li><strong>Role-based Discount on Products:<\/strong> Ability to make customized products for wholesale customers on each role, potentially with different pricing or product offerings.<\/li>\n<li><strong>Minimum Order Quantities:<\/strong> Set minimum order quantities for wholesale orders, ensuring that wholesale customers meet certain volume requirements.<\/li>\n<li><strong>Wholesale Registration and Management:<\/strong> Allow for the creation of wholesale customer accounts with custom registration fields, approval processes, and role assignments.<\/li>\n<li><strong>Customize Default Email Template:<\/strong> Change the default email templates that will be used for notifying registering New Wholesale User, Wholesale User Approved, Declined Wholesale User, and Pending Wholesale User emails.<\/li>\n<li><strong>Custom User Roles and Permissions:<\/strong> Create custom user roles for wholesale customers with specific permissions and access rights, differentiating them from regular retail customers.<\/li>\n<li><strong>Private Store or Exclusive Sections:<\/strong> Create private sections of the store accessible only to approved wholesale customers or even a completely private store for wholesale transactions.<\/li>\n<li><strong>Product Visibility Control:<\/strong> Control which products are visible to wholesale customers and retail customers, allowing for a segmented product catalog.<\/li>\n<li><strong>Customizable Shipping and Payment Options:<\/strong> Ability to disable default payment gateways and shipping methods to provide tailored shipping and payment options for wholesale orders.<\/li>\n<li><strong>Customizable Tax and Coupons:<\/strong> Ability to disable default tax collection and coupons for wholesale users.<\/li>\n<li><strong>Multi-currency and Multi-language Support:<\/strong> Support for multiple currencies and languages to cater to a global wholesale customer base.<\/li>\n<li><strong>Integration with Existing WooCommerce Features:<\/strong> Ensure seamless integration with existing WooCommerce features and plugins, maintaining a consistent user experience and functionality.<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wc-wholesale-manager.1.0.0.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-1.png?rev=3065741",
+            "caption": ""
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-2.png?rev=3065741",
+            "caption": ""
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-3.png?rev=3065741",
+            "caption": ""
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-4.png?rev=3065741",
+            "caption": ""
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-5.png?rev=3065741",
+            "caption": ""
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-6.png?rev=3065741",
+            "caption": ""
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-7.png?rev=3065741",
+            "caption": ""
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/screenshot-8.png?rev=3065741",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "b2b": "b2b",
+        "b2c": "b2c",
+        "wholesale": "wholesale",
+        "wholesaler": "wholesaler",
+        "woocommerce": "woocommerce"
+    },
+    "stable_tag": "1.0.0",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/wc-wholesale-manager.1.0.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/wc-wholesale-manager.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/banner-772x250.png?rev=3065741",
+        "high": "https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/banner-1544x500.png?rev=3065741"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/icon-128x128.png?rev=3065741",
+        "2x": "https:\/\/ps.w.org\/wc-wholesale-manager\/assets\/icon-256x256.png?rev=3065741"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

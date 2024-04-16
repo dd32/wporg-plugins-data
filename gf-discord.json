@@ -1,0 +1,104 @@
+{
+    "name": "Add-On for Discord and Gravity Forms",
+    "slug": "gf-discord",
+    "version": "1.0.8",
+    "author": "<a href=\"https:\/\/apos37.com\/\">Apos37<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/apos37\/",
+    "contributors": {
+        "apos37": {
+            "profile": "https:\/\/profiles.wordpress.org\/apos37\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/c3bba0d1e3dbab9edff025e0130ec88d?s=96&d=monsterid&r=g",
+            "display_name": "Aristocles"
+        }
+    },
+    "requires": "5.9.0",
+    "tested": "6.4.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/gf-discord\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 30,
+    "downloaded": 655,
+    "last_updated": "2024-03-26 5:36pm GMT",
+    "added": "2023-03-24",
+    "homepage": "https:\/\/apos37.com\/wordpress-addon-for-discord-gravity-forms\/",
+    "sections": {
+        "description": "<p>Automatically send Gravity Form entries to a Discord channel using an Incoming Webhook.<\/p>\n",
+        "installation": "<ol>\n<li>Install the plugin from your website&#8217;s plugin directory, or upload the plugin to your plugins folder. <\/li>\n<li>Activate it.<\/li>\n<li>Go to Gravity Forms &gt; Settings &gt; Discord.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='where%20can%20i%20request%20features%20and%20get%20further%20support%3F'>\nWhere can I request features and get further support?\n<\/h4>\n<p>\n<p>Join my <a href=\"https:\/\/discord.gg\/3HnzNEJVnR\" rel=\"nofollow ugc\">Discord support server<\/a><\/p>\n<\/p>\n<dt id='how%20can%20i%20mention%20a%20user%20or%20tag%20a%20channel%20in%20my%20messages%3F'>\nHow can I mention a user or tag a channel in my messages?\n<\/h4>\n<p>\n<p>From the form&#8217;s Discord feed, you can mention a user with <code>{{@user_id}}<\/code> or a role with <code>{{@&amp;role_id}}<\/code>, and tag a channel with <code>{{#channel_id}}<\/code>. If you&#8217;re unfamiliar with where to find these IDs, check out <a href=\"https:\/\/support.discord.com\/hc\/en-us\/articles\/206346498-Where-can-I-find-my-User-Server-Message-ID\" rel=\"nofollow ugc\">this article<\/a> on Discord.<\/p>\n<\/p>\n<dt id='how%20can%20i%20further%20customize%20the%20message%20sent%20to%20discord%3F'>\nHow can I further customize the message sent to Discord?\n<\/h4>\n<p>\n<p>With version 1.0.6, you can now use the following hook:<\/p>\n<pre><code>&lt;?php\nadd_filter( 'gf_discord_embeds', 'my_gf_discord_embeds', 10, 3 );\nfunction my_gf_discord_embeds( $embeds, $form, $entry ) {\n    \/\/ Filter the message\n    $embeds[0][ 'description' ] = str_replace( '{{my_own_merge_tag}}', 'New Value', $embeds[0][ 'description' ] );\n\n    \/\/ Add a new field\n    $user_id = $entry[ 'created_by' ];\n    $user = get_user_by( 'ID', $user_id );\n    $display_name = $user-&gt;display_name;\n\n    $embeds[0][ 'fields' ][] = [\n        'name'  =&gt; 'Completed By:',\n        'value' =&gt; $display_name\n    ];\n\n    \/\/ Always return embeds\n    return $embeds;\n} \/\/ End my_gf_discord_embeds()\n?&gt;\n<\/code><\/pre>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.8<\/h4>\n<ul>\n<li>Fix: Fatal error undefined function (props calamarigold)<\/li>\n<\/ul>\n<h4>1.0.7<\/h4>\n<ul>\n<li>Fix: Multiselect fields not showing all values (props calamarigold)<\/li>\n<li>Tweak: Removed required email field (props calamarigold)<\/li>\n<\/ul>\n<h4>1.0.6<\/h4>\n<ul>\n<li>Update: Added filter for embeds to further customize message<\/li>\n<li>Tweak: Added support for mentioning a role via the feed message box using <code>{{@&amp;role_id}}<\/code><\/li>\n<\/ul>\n<h4>1.0.5<\/h4>\n<ul>\n<li>Fix: &amp; symbol displayed as &amp;<\/li>\n<li>Fix: Deprecation notice passing # in hexdec()<\/li>\n<li>Update: Added support for tagging a channel via the feed message box using <code>{{#channel_id}}<\/code><\/li>\n<li>Update: Added support for mentioning a user via the feed message box using <code>{{@user_id}}<\/code> (props yaboinish)<\/li>\n<li>Fix: URL back to form entry not working properly<\/li>\n<\/ul>\n<h4>1.0.4<\/h4>\n<ul>\n<li>Tweak: Removed some comments<\/li>\n<\/ul>\n<h4>1.0.3<\/h4>\n<ul>\n<li>Tweak: Updated Discord link<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>Update: Added option for removing footer altogether on feeds<\/li>\n<li>Update: Added field to form settings for customizing the footer (props enes#4893)<\/li>\n<li>Fix: Removed &#8220;Test 3&#8221; from footer<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Created plugin on March 16, 2023<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/gf-discord\/assets\/screenshot-1.png?rev=2886595\"><img src=\"https:\/\/ps.w.org\/gf-discord\/assets\/screenshot-1.png?rev=2886595\" alt=\"Plugin settings page\"><\/a><p>Plugin settings page<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/gf-discord\/assets\/screenshot-2.png?rev=2886595\"><img src=\"https:\/\/ps.w.org\/gf-discord\/assets\/screenshot-2.png?rev=2886595\" alt=\"Form feed settings page\"><\/a><p>Form feed settings page<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/gf-discord\/assets\/screenshot-3.png?rev=2886595\"><img src=\"https:\/\/ps.w.org\/gf-discord\/assets\/screenshot-3.png?rev=2886595\" alt=\"Entry page\"><\/a><p>Entry page<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/gf-discord\/assets\/screenshot-4.png?rev=2886595\"><img src=\"https:\/\/ps.w.org\/gf-discord\/assets\/screenshot-4.png?rev=2886595\" alt=\"Discord channel post\"><\/a><p>Discord channel post<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Works perfectly! Active dev<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/calamarigold\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/92511821dec9fff1ab1c3cdd37a733e4?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/92511821dec9fff1ab1c3cdd37a733e4?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/calamarigold\/\" class=\"reviewer-name\">calamarigold<\/a> on <span class=\"review-date\">March 28, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Does just what i need it to do, very glad this is a thing. Dev is very active too and fixed issues quickly :)<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Automatically send Gravity Form entries to a Discord channel.",
+    "description": "<p>Automatically send Gravity Form entries to a Discord channel using an Incoming Webhook.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/gf-discord.1.0.8.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/gf-discord\/assets\/screenshot-1.png?rev=2886595",
+            "caption": "Plugin settings page"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/gf-discord\/assets\/screenshot-2.png?rev=2886595",
+            "caption": "Form feed settings page"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/gf-discord\/assets\/screenshot-3.png?rev=2886595",
+            "caption": "Entry page"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/gf-discord\/assets\/screenshot-4.png?rev=2886595",
+            "caption": "Discord channel post"
+        }
+    },
+    "tags": {
+        "discord": "discord",
+        "forms": "forms",
+        "gravity": "gravity",
+        "server": "server",
+        "webhook": "webhook"
+    },
+    "stable_tag": "1.0.8",
+    "versions": {
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/gf-discord.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/gf-discord.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/gf-discord.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/gf-discord.1.0.4.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/gf-discord.1.0.5.zip",
+        "1.0.6": "https:\/\/downloads.wordpress.org\/plugin\/gf-discord.1.0.6.zip",
+        "1.0.7": "https:\/\/downloads.wordpress.org\/plugin\/gf-discord.1.0.7.zip",
+        "1.0.8": "https:\/\/downloads.wordpress.org\/plugin\/gf-discord.1.0.8.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/gf-discord.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/paypal.com\/donate\/?business=3XHJUEHGTMK3N",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/gf-discord\/assets\/banner-772x250.png?rev=2886595",
+        "high": "https:\/\/ps.w.org\/gf-discord\/assets\/banner-1544x500.png?rev=2886595"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/gf-discord\/assets\/icon-128x128.png?rev=2886595",
+        "2x": "https:\/\/ps.w.org\/gf-discord\/assets\/icon-256x256.png?rev=2886595"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

@@ -1,0 +1,877 @@
+{
+    "name": "Contact Form 7",
+    "slug": "contact-form-7",
+    "version": "5.9.3",
+    "author": "<a href=\"https:\/\/ideasilo.wordpress.com\/\">Takayuki Miyoshi<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/takayukister\/",
+    "contributors": {
+        "takayukister": {
+            "profile": "https:\/\/profiles.wordpress.org\/takayukister\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/bb7bc21850c77e9eb16b44102f4a539d?s=96&d=monsterid&r=g",
+            "display_name": "Takayuki Miyoshi"
+        }
+    },
+    "requires": "6.3",
+    "tested": "6.5.2",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 80,
+    "ratings": {
+        "5": 1409,
+        "4": 144,
+        "3": 70,
+        "2": 66,
+        "1": 388
+    },
+    "num_ratings": 2077,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/contact-form-7\/",
+    "support_threads": 317,
+    "support_threads_resolved": 104,
+    "active_installs": 5000000,
+    "downloaded": 324042938,
+    "last_updated": "2024-03-21 6:56am GMT",
+    "added": "2007-08-02",
+    "homepage": "https:\/\/contactform7.com\/",
+    "sections": {
+        "description": "<p>Contact Form 7 can manage multiple contact forms, plus you can customize the form and the mail contents flexibly with simple markup. The form supports Ajax-powered submitting, CAPTCHA, Akismet spam filtering and so on.<\/p>\n<h4>Docs and support<\/h4>\n<p>You can find <a href=\"https:\/\/contactform7.com\/docs\/\" rel=\"nofollow ugc\">docs<\/a>, <a href=\"https:\/\/contactform7.com\/faq\/\" rel=\"nofollow ugc\">FAQ<\/a> and more detailed information about Contact Form 7 on <a href=\"https:\/\/contactform7.com\/\" rel=\"nofollow ugc\">contactform7.com<\/a>. When you cannot find the answer to your question on the FAQ or in any of the documentation, check the <a href=\"https:\/\/wordpress.org\/support\/plugin\/contact-form-7\/\" rel=\"ugc\">support forum<\/a> on WordPress.org. If you cannot locate any topics that pertain to your particular issue, post a new topic for it.<\/p>\n<h4>Contact Form 7 needs your support<\/h4>\n<p>It is hard to continue development and support for this free plugin without contributions from users like you. If you enjoy using Contact Form 7 and find it useful, please consider <a href=\"https:\/\/contactform7.com\/donate\/\" rel=\"nofollow ugc\">making a donation<\/a>. Your donation will help encourage and support the plugin&#8217;s continued development and better user support.<\/p>\n<h4>Privacy notices<\/h4>\n<p>With the default configuration, this plugin, in itself, does not:<\/p>\n<ul>\n<li>track users by stealth;<\/li>\n<li>write any user personal data to the database;<\/li>\n<li>send any data to external servers;<\/li>\n<li>use cookies.<\/li>\n<\/ul>\n<p>If you activate certain features in this plugin, the contact form submitter&#8217;s personal data, including their IP address, may be sent to the service provider. Thus, confirming the provider&#8217;s privacy policy is recommended. These features include:<\/p>\n<ul>\n<li>reCAPTCHA (<a href=\"https:\/\/policies.google.com\/?hl=en\" rel=\"nofollow ugc\">Google<\/a>)<\/li>\n<li>Akismet (<a href=\"https:\/\/automattic.com\/privacy\/\" rel=\"nofollow ugc\">Automattic<\/a>)<\/li>\n<li>Constant Contact (<a href=\"https:\/\/www.endurance.com\/privacy\" rel=\"nofollow ugc\">Endurance International Group<\/a>)<\/li>\n<li><a href=\"https:\/\/www.brevo.com\/legal\/privacypolicy\/\" rel=\"nofollow ugc\">Brevo<\/a><\/li>\n<li><a href=\"https:\/\/stripe.com\/privacy\" rel=\"nofollow ugc\">Stripe<\/a><\/li>\n<\/ul>\n<h4>Recommended plugins<\/h4>\n<p>The following plugins are recommended for Contact Form 7 users:<\/p>\n<ul>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/flamingo\/\" rel=\"ugc\">Flamingo<\/a> by Takayuki Miyoshi &#8211; With Flamingo, you can save submitted messages via contact forms in the database.<\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/bogo\/\" rel=\"ugc\">Bogo<\/a> by Takayuki Miyoshi &#8211; Bogo is a straight-forward multilingual plugin that does not cause headaches.<\/li>\n<\/ul>\n<h4>Translations<\/h4>\n<p>You can <a href=\"https:\/\/contactform7.com\/translating-contact-form-7\/\" rel=\"nofollow ugc\">translate Contact Form 7<\/a> on <a href=\"https:\/\/translate.wordpress.org\/projects\/wp-plugins\/contact-form-7\" rel=\"nofollow ugc\">translate.wordpress.org<\/a>.<\/p>\n",
+        "installation": "<ol>\n<li>Upload the entire <code>contact-form-7<\/code> folder to the <code>\/wp-content\/plugins\/<\/code> directory.<\/li>\n<li>Activate the plugin through the <strong>Plugins<\/strong> screen (<strong>Plugins &gt; Installed Plugins<\/strong>).<\/li>\n<\/ol>\n<p>You will find <strong>Contact<\/strong> menu in your WordPress admin screen.<\/p>\n<p>For basic usage, have a look at the <a href=\"https:\/\/contactform7.com\/\" rel=\"nofollow ugc\">plugin&#8217;s website<\/a>.<\/p>\n",
+        "faq": "<p>Do you have questions or issues with Contact Form 7? Use these support channels appropriately.<\/p>\n<ol>\n<li><a href=\"https:\/\/contactform7.com\/docs\/\" rel=\"nofollow ugc\">Docs<\/a><\/li>\n<li><a href=\"https:\/\/contactform7.com\/faq\/\" rel=\"nofollow ugc\">FAQ<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/support\/plugin\/contact-form-7\/\" rel=\"ugc\">Support forum<\/a><\/li>\n<\/ol>\n<p><a href=\"https:\/\/contactform7.com\/support\/\" rel=\"nofollow ugc\">Support<\/a><\/p>\n",
+        "changelog": "<p>For more information, see <a href=\"https:\/\/contactform7.com\/category\/releases\/\" rel=\"nofollow ugc\">Releases<\/a>.<\/p>\n<h4>5.9.3<\/h4>\n<p><a href=\"https:\/\/contactform7.com\/contact-form-7-593\/\" rel=\"nofollow ugc\">https:\/\/contactform7.com\/contact-form-7-593\/<\/a><\/p>\n<h4>5.9.2<\/h4>\n<p><a href=\"https:\/\/contactform7.com\/contact-form-7-592\/\" rel=\"nofollow ugc\">https:\/\/contactform7.com\/contact-form-7-592\/<\/a><\/p>\n<h4>5.9<\/h4>\n<p><a href=\"https:\/\/contactform7.com\/contact-form-7-59\/\" rel=\"nofollow ugc\">https:\/\/contactform7.com\/contact-form-7-59\/<\/a><\/p>\n<h4>5.8.7<\/h4>\n<p><a href=\"https:\/\/contactform7.com\/contact-form-7-587\/\" rel=\"nofollow ugc\">https:\/\/contactform7.com\/contact-form-7-587\/<\/a><\/p>\n<h4>5.8.6<\/h4>\n<p><a href=\"https:\/\/contactform7.com\/contact-form-7-586\/\" rel=\"nofollow ugc\">https:\/\/contactform7.com\/contact-form-7-586\/<\/a><\/p>\n<h4>5.8.5<\/h4>\n<p><a href=\"https:\/\/contactform7.com\/contact-form-7-585\/\" rel=\"nofollow ugc\">https:\/\/contactform7.com\/contact-form-7-585\/<\/a><\/p>\n<h4>5.8.4<\/h4>\n<p><a href=\"https:\/\/contactform7.com\/contact-form-7-584\/\" rel=\"nofollow ugc\">https:\/\/contactform7.com\/contact-form-7-584\/<\/a><\/p>\n<h4>5.8.3<\/h4>\n<p><a href=\"https:\/\/contactform7.com\/contact-form-7-583\/\" rel=\"nofollow ugc\">https:\/\/contactform7.com\/contact-form-7-583\/<\/a><\/p>\n<h4>5.8.2<\/h4>\n<p><a href=\"https:\/\/contactform7.com\/contact-form-7-582\/\" rel=\"nofollow ugc\">https:\/\/contactform7.com\/contact-form-7-582\/<\/a><\/p>\n<h4>5.8.1<\/h4>\n<p><a href=\"https:\/\/contactform7.com\/contact-form-7-581\/\" rel=\"nofollow ugc\">https:\/\/contactform7.com\/contact-form-7-581\/<\/a><\/p>\n<h4>5.8<\/h4>\n<p><a href=\"https:\/\/contactform7.com\/contact-form-7-58\/\" rel=\"nofollow ugc\">https:\/\/contactform7.com\/contact-form-7-58\/<\/a><\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/contact-form-7\/assets\/screenshot-1.png?rev=1176454\"><img src=\"https:\/\/ps.w.org\/contact-form-7\/assets\/screenshot-1.png?rev=1176454\" alt=\"screenshot-1.png\"><\/a><p>screenshot-1.png<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Not Believable<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"2 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"2\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/zothecula\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/9c68f785ec584aff0e23678a8cccb0fc?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/9c68f785ec584aff0e23678a8cccb0fc?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/zothecula\/\" class=\"reviewer-name\">zothecula<\/a> on <span class=\"review-date\">April 13, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Wrong plugin review, I clicked on SAlert review.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Good plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/kotoltodo\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/5919f08e9e27262c0a7e9985e8981510?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/5919f08e9e27262c0a7e9985e8981510?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/kotoltodo\/\" class=\"reviewer-name\">kotoltodo<\/a> on <span class=\"review-date\">April 12, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Good plugin, thank you.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Best form plugin out there!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/artankrasniqi1988\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/789f5e928220c6ae04e87cbaaa0fdbe1?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/789f5e928220c6ae04e87cbaaa0fdbe1?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/artankrasniqi1988\/\" class=\"reviewer-name\">Artan <small>(artankrasniqi1988)<\/small><\/a> on <span class=\"review-date\">March 14, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">No fancy or overfilled user interface, no ads, no shiny bling bling. Just simple slick options and most plain html editable stuff where u can fine tune everything to your desire, when u are a bit aware of HTML and CSS.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Don\u00b4t need the overfilled other plugins just to create a form. But you are also good to go to install integrations for more options.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I also found a good alternative, in house build by develeper: \"Really Simple CAPTCHA\" plugin, as an alternative to Google or Akismet, which I think could give users from EU better data privacy (works also like a charm).<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">So, I can really recommend this and don\u00b4t understand some bad reviews here. I think some people are just overwhelmed by the usage of plain html and code. But for developers this is gold! :)<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Used to be a good plugin...<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"2 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"2\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/agenceneoh\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/91643c6a793bcb2a67599bcbbde12953?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/91643c6a793bcb2a67599bcbbde12953?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/agenceneoh\/\" class=\"reviewer-name\">agenceneoh<\/a> on <span class=\"review-date\">March 12, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">... now it's been updating every months for security issues generally caused by the previous update... What the point to keep updating what used to be a stable plugin and make it worse every time? <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">A stainless classic<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/maehdros\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/5c3b3dfa0fa15f2a1481f3cf953d2de5?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/5c3b3dfa0fa15f2a1481f3cf953d2de5?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/maehdros\/\" class=\"reviewer-name\">maehdros<\/a> on <span class=\"review-date\">March 4, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I started developing with Wordpress at least a decade ago. Since then, Contact Form is by far the most stable and solid plugin I've ever used.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">There are more visually attractive alternatives and stuff, but in my opinion, none is so reliable and customizable as this.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Totally recommended.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">dont work with &quot;Voice Widgets&quot;<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"4 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"4\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/manutanke\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/35070385127282f490db1064b9714c32?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/35070385127282f490db1064b9714c32?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/manutanke\/\" class=\"reviewer-name\">manutanke<\/a> on <span class=\"review-date\">March 2, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">El plugin ha dejado de funcionar junto con \"Voice Widgets\", un plugin muy sencillo para que la gente se pueda comunicar conmigo por voz.<br \/>Solo hay que a\u00f1adir este c\u00f3digo en un formulario de CF7: [qcwpvoicemessage]<br \/>Pero desde hace unas semanas, ya no funciona. Mi empresa de hosting me ha dicho que escriba al soporte de CF7. \u00bfPueden decirme algo? Me encanta su plugin pero he tenido que pasar temporalmente a WPForms.<br \/>Espero su respuesta.<br \/><br \/>Muchas gracias.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Simple but powerful contact form plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/wpnpc420\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/a35bd95d72b5b751a13acc7685598a76?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/a35bd95d72b5b751a13acc7685598a76?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/wpnpc420\/\" class=\"reviewer-name\">wpnpc420<\/a> on <span class=\"review-date\">March 1, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Awesome simple contact form plugin, it has a lot of integrations and works great!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">If it works it works, but lacks support and needs other plugins to function<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"2 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"2\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/royalfth\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/5cd2be8463dfe88be66c294cd4b7e340?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/5cd2be8463dfe88be66c294cd4b7e340?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/royalfth\/\" class=\"reviewer-name\">royalfth<\/a> on <span class=\"review-date\">February 27, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">No support on issues. Does not function out of the box without other plugins. Wonder if it is even still supported.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">The most flexible contact form!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/bistromatic\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/25045485b5fcb7b6080e33fd33c2e587?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/25045485b5fcb7b6080e33fd33c2e587?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/bistromatic\/\" class=\"reviewer-name\">bistromatic<\/a> on <span class=\"review-date\">February 15, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">For someone who develops web pages from scratch like me, this is definitely the best and most configurable solution. Everything works flawlessly and it's free!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Thanks to the developer for a great plugin!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Fantastic Plugin!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/wpktube\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/00cd46c8400062c73ec2d9f1884892bd?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/00cd46c8400062c73ec2d9f1884892bd?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/wpktube\/\" class=\"reviewer-name\">wpktube<\/a> on <span class=\"review-date\">February 13, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The best contact form plugin!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Just another contact form plugin. Simple but flexible.",
+    "description": "<p>Contact Form 7 can manage multiple contact forms, plus you can customize the form and the mail contents flexibly with simple markup. The form supports Ajax-powered submitting, CAPTCHA, Akismet spam filtering and so on.<\/p>\n<h4>Docs and support<\/h4>\n<p>You can find <a href=\"https:\/\/contactform7.com\/docs\/\" rel=\"nofollow ugc\">docs<\/a>, <a href=\"https:\/\/contactform7.com\/faq\/\" rel=\"nofollow ugc\">FAQ<\/a> and more detailed information about Contact Form 7 on <a href=\"https:\/\/contactform7.com\/\" rel=\"nofollow ugc\">contactform7.com<\/a>. When you cannot find the answer to your question on the FAQ or in any of the documentation, check the <a href=\"https:\/\/wordpress.org\/support\/plugin\/contact-form-7\/\" rel=\"ugc\">support forum<\/a> on WordPress.org. If you cannot locate any topics that pertain to your particular issue, post a new topic for it.<\/p>\n<h4>Contact Form 7 needs your support<\/h4>\n<p>It is hard to continue development and support for this free plugin without contributions from users like you. If you enjoy using Contact Form 7 and find it useful, please consider <a href=\"https:\/\/contactform7.com\/donate\/\" rel=\"nofollow ugc\">making a donation<\/a>. Your donation will help encourage and support the plugin&#8217;s continued development and better user support.<\/p>\n<h4>Privacy notices<\/h4>\n<p>With the default configuration, this plugin, in itself, does not:<\/p>\n<ul>\n<li>track users by stealth;<\/li>\n<li>write any user personal data to the database;<\/li>\n<li>send any data to external servers;<\/li>\n<li>use cookies.<\/li>\n<\/ul>\n<p>If you activate certain features in this plugin, the contact form submitter&#8217;s personal data, including their IP address, may be sent to the service provider. Thus, confirming the provider&#8217;s privacy policy is recommended. These features include:<\/p>\n<ul>\n<li>reCAPTCHA (<a href=\"https:\/\/policies.google.com\/?hl=en\" rel=\"nofollow ugc\">Google<\/a>)<\/li>\n<li>Akismet (<a href=\"https:\/\/automattic.com\/privacy\/\" rel=\"nofollow ugc\">Automattic<\/a>)<\/li>\n<li>Constant Contact (<a href=\"https:\/\/www.endurance.com\/privacy\" rel=\"nofollow ugc\">Endurance International Group<\/a>)<\/li>\n<li><a href=\"https:\/\/www.brevo.com\/legal\/privacypolicy\/\" rel=\"nofollow ugc\">Brevo<\/a><\/li>\n<li><a href=\"https:\/\/stripe.com\/privacy\" rel=\"nofollow ugc\">Stripe<\/a><\/li>\n<\/ul>\n<h4>Recommended plugins<\/h4>\n<p>The following plugins are recommended for Contact Form 7 users:<\/p>\n<ul>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/flamingo\/\" rel=\"ugc\">Flamingo<\/a> by Takayuki Miyoshi &#8211; With Flamingo, you can save submitted messages via contact forms in the database.<\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/bogo\/\" rel=\"ugc\">Bogo<\/a> by Takayuki Miyoshi &#8211; Bogo is a straight-forward multilingual plugin that does not cause headaches.<\/li>\n<\/ul>\n<h4>Translations<\/h4>\n<p>You can <a href=\"https:\/\/contactform7.com\/translating-contact-form-7\/\" rel=\"nofollow ugc\">translate Contact Form 7<\/a> on <a href=\"https:\/\/translate.wordpress.org\/projects\/wp-plugins\/contact-form-7\" rel=\"nofollow ugc\">translate.wordpress.org<\/a>.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.9.3.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/contact-form-7\/assets\/screenshot-1.png?rev=1176454",
+            "caption": "screenshot-1.png"
+        }
+    },
+    "tags": {
+        "contact-form": "contact form",
+        "schema-woven-validation": "schema-woven validation"
+    },
+    "stable_tag": "5.9.3",
+    "versions": {
+        "1.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.1.zip",
+        "1.10": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.10.zip",
+        "1.10.0.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.10.0.1.zip",
+        "1.10.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.10.1.zip",
+        "1.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.2.zip",
+        "1.3": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.3.zip",
+        "1.3.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.3.1.zip",
+        "1.3.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.3.2.zip",
+        "1.4": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.4.zip",
+        "1.4.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.4.1.zip",
+        "1.4.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.4.2.zip",
+        "1.4.3": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.4.3.zip",
+        "1.4.4": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.4.4.zip",
+        "1.5": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.5.zip",
+        "1.6": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.6.zip",
+        "1.6.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.6.1.zip",
+        "1.7": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.7.zip",
+        "1.7.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.7.1.zip",
+        "1.7.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.7.2.zip",
+        "1.7.4": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.7.4.zip",
+        "1.7.5": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.7.5.zip",
+        "1.7.6": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.7.6.zip",
+        "1.7.6.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.7.6.1.zip",
+        "1.7.7": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.7.7.zip",
+        "1.7.7.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.7.7.1.zip",
+        "1.7.8": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.7.8.zip",
+        "1.8": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.8.zip",
+        "1.8.0.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.8.0.1.zip",
+        "1.8.0.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.8.0.2.zip",
+        "1.8.0.3": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.8.0.3.zip",
+        "1.8.0.4": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.8.0.4.zip",
+        "1.8.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.8.1.zip",
+        "1.8.1.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.8.1.1.zip",
+        "1.9": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.9.zip",
+        "1.9.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.9.1.zip",
+        "1.9.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.9.2.zip",
+        "1.9.2.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.9.2.1.zip",
+        "1.9.2.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.9.2.2.zip",
+        "1.9.3": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.9.3.zip",
+        "1.9.4": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.9.4.zip",
+        "1.9.5": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.9.5.zip",
+        "1.9.5.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.1.9.5.1.zip",
+        "2.0": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.0.zip",
+        "2.0-beta": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.0-beta.zip",
+        "2.0.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.0.1.zip",
+        "2.0.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.0.2.zip",
+        "2.0.3": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.0.3.zip",
+        "2.0.4": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.0.4.zip",
+        "2.0.5": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.0.5.zip",
+        "2.0.6": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.0.6.zip",
+        "2.0.7": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.0.7.zip",
+        "2.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.1.zip",
+        "2.1.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.1.1.zip",
+        "2.1.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.1.2.zip",
+        "2.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.2.zip",
+        "2.2.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.2.1.zip",
+        "2.3": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.3.zip",
+        "2.3.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.3.1.zip",
+        "2.4": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.4.zip",
+        "2.4.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.4.1.zip",
+        "2.4.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.4.2.zip",
+        "2.4.3": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.4.3.zip",
+        "2.4.4": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.4.4.zip",
+        "2.4.5": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.4.5.zip",
+        "2.4.6": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.2.4.6.zip",
+        "3.0": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.0.zip",
+        "3.0-beta": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.0-beta.zip",
+        "3.0.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.0.1.zip",
+        "3.0.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.0.2.zip",
+        "3.0.2.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.0.2.1.zip",
+        "3.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.1.zip",
+        "3.1.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.1.1.zip",
+        "3.1.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.1.2.zip",
+        "3.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.2.zip",
+        "3.2.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.2.1.zip",
+        "3.3": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.3.zip",
+        "3.3.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.3.1.zip",
+        "3.3.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.3.2.zip",
+        "3.3.3": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.3.3.zip",
+        "3.4": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.4.zip",
+        "3.4.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.4.1.zip",
+        "3.4.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.4.2.zip",
+        "3.5": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.5.zip",
+        "3.5.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.5.1.zip",
+        "3.5.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.5.2.zip",
+        "3.5.3": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.5.3.zip",
+        "3.5.4": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.5.4.zip",
+        "3.6": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.6.zip",
+        "3.7": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.7.zip",
+        "3.7.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.7.1.zip",
+        "3.7.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.7.2.zip",
+        "3.8": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.8.zip",
+        "3.8.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.8.1.zip",
+        "3.9": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.9.zip",
+        "3.9-beta": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.9-beta.zip",
+        "3.9.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.9.1.zip",
+        "3.9.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.9.2.zip",
+        "3.9.3": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.3.9.3.zip",
+        "4.0": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.0.zip",
+        "4.0.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.0.1.zip",
+        "4.0.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.0.2.zip",
+        "4.0.3": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.0.3.zip",
+        "4.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.1.zip",
+        "4.1-beta": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.1-beta.zip",
+        "4.1.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.1.1.zip",
+        "4.1.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.1.2.zip",
+        "4.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.2.zip",
+        "4.2-beta": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.2-beta.zip",
+        "4.2.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.2.1.zip",
+        "4.2.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.2.2.zip",
+        "4.3": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.3.zip",
+        "4.3.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.3.1.zip",
+        "4.4": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.4.zip",
+        "4.4.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.4.1.zip",
+        "4.4.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.4.2.zip",
+        "4.5": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.5.zip",
+        "4.5.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.5.1.zip",
+        "4.6": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.6.zip",
+        "4.6.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.6.1.zip",
+        "4.7": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.7.zip",
+        "4.8": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.8.zip",
+        "4.8.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.8.1.zip",
+        "4.9": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.9.zip",
+        "4.9.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.9.1.zip",
+        "4.9.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.4.9.2.zip",
+        "5.0": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.0.zip",
+        "5.0.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.0.1.zip",
+        "5.0.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.0.2.zip",
+        "5.0.3": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.0.3.zip",
+        "5.0.4": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.0.4.zip",
+        "5.0.5": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.0.5.zip",
+        "5.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.1.zip",
+        "5.1.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.1.1.zip",
+        "5.1.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.1.2.zip",
+        "5.1.3": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.1.3.zip",
+        "5.1.4": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.1.4.zip",
+        "5.1.5": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.1.5.zip",
+        "5.1.6": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.1.6.zip",
+        "5.1.7": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.1.7.zip",
+        "5.1.8": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.1.8.zip",
+        "5.1.9": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.1.9.zip",
+        "5.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.2.zip",
+        "5.2.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.2.1.zip",
+        "5.2.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.2.2.zip",
+        "5.3": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.3.zip",
+        "5.3.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.3.1.zip",
+        "5.3.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.3.2.zip",
+        "5.4": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.4.zip",
+        "5.4.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.4.1.zip",
+        "5.4.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.4.2.zip",
+        "5.5": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.5.zip",
+        "5.5.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.5.1.zip",
+        "5.5.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.5.2.zip",
+        "5.5.3": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.5.3.zip",
+        "5.5.4": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.5.4.zip",
+        "5.5.5": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.5.5.zip",
+        "5.5.6": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.5.6.zip",
+        "5.5.6.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.5.6.1.zip",
+        "5.6": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.6.zip",
+        "5.6.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.6.1.zip",
+        "5.6.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.6.2.zip",
+        "5.6.3": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.6.3.zip",
+        "5.6.4": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.6.4.zip",
+        "5.7": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.7.zip",
+        "5.7.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.7.1.zip",
+        "5.7.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.7.2.zip",
+        "5.7.3": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.7.3.zip",
+        "5.7.4": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.7.4.zip",
+        "5.7.5": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.7.5.zip",
+        "5.7.5.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.7.5.1.zip",
+        "5.7.6": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.7.6.zip",
+        "5.7.7": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.7.7.zip",
+        "5.8": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.8.zip",
+        "5.8.1": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.8.1.zip",
+        "5.8.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.8.2.zip",
+        "5.8.3": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.8.3.zip",
+        "5.8.4": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.8.4.zip",
+        "5.8.5": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.8.5.zip",
+        "5.8.6": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.8.6.zip",
+        "5.8.7": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.8.7.zip",
+        "5.9": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.9.zip",
+        "5.9.2": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.9.2.zip",
+        "5.9.3": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.9.3.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/contactform7.com\/donate\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/contact-form-7\/assets\/banner-772x250.png?rev=880427",
+        "high": "https:\/\/ps.w.org\/contact-form-7\/assets\/banner-1544x500.png?rev=860901"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/contact-form-7\/assets\/icon.svg?rev=2339255",
+        "svg": "https:\/\/ps.w.org\/contact-form-7\/assets\/icon.svg?rev=2339255"
+    },
+    "blocks": {
+        "contact-form-7\/contact-form-selector": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "contact-form-7\/contact-form-selector",
+            "title": "Contact Form 7",
+            "category": "widgets",
+            "description": "Insert a contact form you have created with Contact Form 7.",
+            "keywords": [
+                "form"
+            ],
+            "textdomain": "contact-form-7",
+            "attributes": {
+                "id": {
+                    "type": "integer"
+                },
+                "hash": {
+                    "type": "string"
+                },
+                "title": {
+                    "type": "string"
+                },
+                "htmlId": {
+                    "type": "string"
+                },
+                "htmlName": {
+                    "type": "string"
+                },
+                "htmlTitle": {
+                    "type": "string"
+                },
+                "htmlClass": {
+                    "type": "string"
+                },
+                "output": {
+                    "enum": [
+                        "form",
+                        "raw_form"
+                    ],
+                    "default": "form"
+                }
+            },
+            "editorScript": "file:.\/index.js"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 80,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "ar",
+            "version": "5.9.3",
+            "updated": "2023-04-05 09:50:06",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/ar.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "az",
+            "version": "5.9.3",
+            "updated": "2016-04-30 18:22:11",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/az.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "bel",
+            "version": "5.9.3",
+            "updated": "2018-07-24 12:39:43",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/bel.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "bg_BG",
+            "version": "5.9.3",
+            "updated": "2023-12-18 09:42:02",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/bg_BG.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "bs_BA",
+            "version": "5.9.3",
+            "updated": "2023-10-27 20:30:37",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/bs_BA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "ca",
+            "version": "5.9.3",
+            "updated": "2024-02-05 07:48:03",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/ca.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "ca_valencia",
+            "version": "5.9.3",
+            "updated": "2024-03-21 10:20:10",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/ca_valencia.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "cs_CZ",
+            "version": "5.9.3",
+            "updated": "2023-10-09 09:06:37",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/cs_CZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "cy",
+            "version": "5.9.3",
+            "updated": "2021-02-15 11:00:17",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/cy.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "da_DK",
+            "version": "5.9.3",
+            "updated": "2023-10-25 14:48:25",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/da_DK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "de_CH",
+            "version": "5.9.3",
+            "updated": "2023-01-24 12:40:46",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/de_CH.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "de_DE",
+            "version": "5.9.3",
+            "updated": "2024-03-25 11:19:56",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "de_DE_formal",
+            "version": "5.9.3",
+            "updated": "2024-04-13 20:08:44",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/de_DE_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "de_CH_informal",
+            "version": "5.9.3",
+            "updated": "2023-01-24 12:40:34",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/de_CH_informal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "el",
+            "version": "5.9.3",
+            "updated": "2024-02-14 13:10:47",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/el.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "en_GB",
+            "version": "5.9.3",
+            "updated": "2024-03-12 08:38:32",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/en_GB.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "en_ZA",
+            "version": "5.9.3",
+            "updated": "2021-12-24 12:19:46",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/en_ZA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "en_CA",
+            "version": "5.9.3",
+            "updated": "2024-03-18 08:32:04",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/en_CA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "en_NZ",
+            "version": "5.9.3",
+            "updated": "2024-03-18 08:28:49",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/en_NZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "en_AU",
+            "version": "5.9.3",
+            "updated": "2024-03-18 08:28:25",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/en_AU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "es_CL",
+            "version": "5.9.3",
+            "updated": "2024-04-16 00:59:53",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/es_CL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "es_MX",
+            "version": "5.9.3",
+            "updated": "2024-03-12 15:27:48",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/es_MX.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "es_PE",
+            "version": "5.9.3",
+            "updated": "2020-05-08 17:23:03",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/es_PE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "es_ES",
+            "version": "5.9.3",
+            "updated": "2024-03-12 11:08:49",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "es_VE",
+            "version": "5.9.3",
+            "updated": "2024-01-11 08:46:11",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "es_CO",
+            "version": "5.9.3",
+            "updated": "2024-03-12 08:39:41",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/es_CO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "es_CR",
+            "version": "5.9.3",
+            "updated": "2022-11-28 20:17:19",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/es_CR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "es_AR",
+            "version": "5.9.3",
+            "updated": "2023-09-27 01:40:22",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/es_AR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "es_EC",
+            "version": "5.9.3",
+            "updated": "2022-06-18 07:52:29",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/es_EC.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "et",
+            "version": "5.9.3",
+            "updated": "2023-01-20 14:47:01",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/et.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "fa_IR",
+            "version": "5.9.3",
+            "updated": "2024-03-12 08:39:21",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/fa_IR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "fa_AF",
+            "version": "5.9.3",
+            "updated": "2024-02-13 04:31:15",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/fa_AF.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "fi",
+            "version": "5.9.3",
+            "updated": "2023-06-29 04:22:44",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/fi.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "fr_BE",
+            "version": "5.9.3",
+            "updated": "2022-05-20 05:26:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/fr_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "fr_CA",
+            "version": "5.9.3",
+            "updated": "2020-12-02 02:14:37",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/fr_CA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "fr_FR",
+            "version": "5.9.3",
+            "updated": "2023-09-25 10:13:35",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "gl_ES",
+            "version": "5.9.3",
+            "updated": "2024-03-12 08:38:39",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/gl_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "gu",
+            "version": "5.9.3",
+            "updated": "2022-12-30 09:28:08",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/gu.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "he_IL",
+            "version": "5.9.3",
+            "updated": "2021-02-05 18:15:06",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/he_IL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "hr",
+            "version": "5.9.3",
+            "updated": "2023-10-09 11:38:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/hr.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "hu_HU",
+            "version": "5.9.3",
+            "updated": "2023-06-06 12:31:46",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/hu_HU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "id_ID",
+            "version": "5.9.3",
+            "updated": "2024-02-23 08:09:07",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/id_ID.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "it_IT",
+            "version": "5.9.3",
+            "updated": "2024-03-29 09:31:28",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "ja",
+            "version": "5.9.3",
+            "updated": "2024-03-12 08:38:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/ja.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "ko_KR",
+            "version": "5.9.3",
+            "updated": "2023-06-12 01:03:52",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/ko_KR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "ckb",
+            "version": "5.9.3",
+            "updated": "2023-07-09 12:09:22",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/ckb.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "lt_LT",
+            "version": "5.9.3",
+            "updated": "2024-01-27 22:03:52",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/lt_LT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "mn",
+            "version": "5.9.3",
+            "updated": "2022-12-13 02:44:43",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/mn.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "nb_NO",
+            "version": "5.9.3",
+            "updated": "2023-08-09 11:34:29",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/nb_NO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "nl_NL_formal",
+            "version": "5.9.3",
+            "updated": "2024-03-12 20:53:41",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/nl_NL_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "nl_NL",
+            "version": "5.9.3",
+            "updated": "2024-03-12 08:38:24",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "nl_BE",
+            "version": "5.9.3",
+            "updated": "2024-03-12 08:38:25",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/nl_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "nn_NO",
+            "version": "5.9.3",
+            "updated": "2021-05-04 21:36:36",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/nn_NO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "oci",
+            "version": "5.9.3",
+            "updated": "2017-08-18 08:56:33",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/oci.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "pl_PL",
+            "version": "5.9.3",
+            "updated": "2024-02-05 07:59:38",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/pl_PL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "pt_AO",
+            "version": "5.9.3",
+            "updated": "2019-06-05 19:33:59",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/pt_AO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "pt_BR",
+            "version": "5.9.3",
+            "updated": "2023-10-27 10:58:15",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/pt_BR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "pt_PT_ao90",
+            "version": "5.9.3",
+            "updated": "2018-01-31 04:46:07",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/pt_PT_ao90.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "pt_PT",
+            "version": "5.9.3",
+            "updated": "2023-05-19 15:17:51",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/pt_PT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "ro_RO",
+            "version": "5.9.3",
+            "updated": "2024-04-01 19:37:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/ro_RO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "ru_RU",
+            "version": "5.9.3",
+            "updated": "2024-03-12 08:39:31",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "sk_SK",
+            "version": "5.9.3",
+            "updated": "2024-03-17 11:18:35",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/sk_SK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "sl_SI",
+            "version": "5.9.3",
+            "updated": "2023-11-23 07:44:03",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/sl_SI.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "sq",
+            "version": "5.9.3",
+            "updated": "2024-03-12 08:37:59",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/sq.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "sr_RS",
+            "version": "5.9.3",
+            "updated": "2024-01-31 23:08:36",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/sr_RS.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "sv_SE",
+            "version": "5.9.3",
+            "updated": "2024-03-21 09:11:26",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/sv_SE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "tr_TR",
+            "version": "5.9.3",
+            "updated": "2021-01-06 06:40:21",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/tr_TR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "uk",
+            "version": "5.9.3",
+            "updated": "2024-03-12 08:39:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/uk.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "vi",
+            "version": "5.9.3",
+            "updated": "2023-03-10 01:28:21",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/vi.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "zh_CN",
+            "version": "5.9.3",
+            "updated": "2021-04-29 05:55:43",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/zh_CN.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "contact-form-7",
+            "language": "zh_TW",
+            "version": "5.9.3",
+            "updated": "2024-03-12 08:38:18",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/contact-form-7\/5.9.3\/zh_TW.zip"
+        }
+    ]
+}

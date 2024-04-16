@@ -1,0 +1,143 @@
+{
+    "name": "SiteGround Email Marketing",
+    "slug": "siteground-email-marketing",
+    "version": "1.3.0",
+    "author": "<a href=\"https:\/\/www.siteground.com\">SiteGround<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/siteground\/",
+    "contributors": {
+        "hristo-sg": {
+            "profile": "https:\/\/profiles.wordpress.org\/hristo-sg\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/e4bd58b1bb0d1540d4e32a74e3452f49?s=96&d=monsterid&r=g",
+            "display_name": "Hristo Pandjarov"
+        },
+        "siteground": {
+            "profile": "https:\/\/profiles.wordpress.org\/siteground\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/c69483f5e52eb6cb7d197bab5c73ce24?s=96&d=monsterid&r=g",
+            "display_name": "SiteGround"
+        },
+        "sstoqnov": {
+            "profile": "https:\/\/profiles.wordpress.org\/sstoqnov\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/27378dfefac1382ffcbc63e7183834ae?s=96&d=monsterid&r=g",
+            "display_name": "Stanimir Stoyanov"
+        },
+        "stoyangeorgiev": {
+            "profile": "https:\/\/profiles.wordpress.org\/stoyangeorgiev\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/22acbe6da757ebdebfc15c4ccfac109b?s=96&d=monsterid&r=g",
+            "display_name": "Stoyan Georgiev"
+        },
+        "elenachavdarova": {
+            "profile": "https:\/\/profiles.wordpress.org\/elenachavdarova\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/6e10bb03d768a51e034e0cb87a9226b9?s=96&d=monsterid&r=g",
+            "display_name": "Elena Chavdarova"
+        },
+        "ignatggeorgiev": {
+            "profile": "https:\/\/profiles.wordpress.org\/ignatggeorgiev\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/a3b3253f942fdfc516210f5b989b1206?s=96&d=monsterid&r=g",
+            "display_name": "Ignat Georgiev"
+        }
+    },
+    "requires": "4.7",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 40,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 1,
+        "2": 0,
+        "1": 1
+    },
+    "num_ratings": 2,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/siteground-email-marketing\/",
+    "support_threads": 2,
+    "support_threads_resolved": 1,
+    "active_installs": 600,
+    "downloaded": 2590,
+    "last_updated": "2024-03-27 12:04pm GMT",
+    "added": "2023-12-19",
+    "homepage": "https:\/\/siteground.com",
+    "sections": {
+        "description": "<p>SiteGround Email Marketing plugin is a lead generation plugin for WordPress that allows you to create subscriptions forms and use them for automatic lead submission to SiteGround Email Marketing service. The plugin also allows you to add a subscription option to some already created contact forms, comment and sign up processes. By using this plugin as a supplementary tool to <a href=\"https:\/\/eu.siteground.com\/email-marketing\" rel=\"nofollow ugc\">SiteGround Email Marketing<\/a> service you may easily turn your website visitors into mailing list subscribers.<\/p>\n<h3>Features<\/h3>\n<ul>\n<li><strong>Integration with SiteGround Email Marketing:<\/strong> Use this plugin to <a href=\"https:\/\/eu.siteground.com\/kb\/start-getting-subscribers-from-wordpress\/#How_to_connect_the_Email_Marketing_plugin_to_SiteGround_Email_Marketing\" rel=\"nofollow ugc\">link your WordPress<\/a> site with the SiteGround Email Marketing service and seamlessly grow your mailing list.<\/li>\n<li><strong>User-Friendly Interface:<\/strong> Our plugin is designed with simplicity in mind, ensuring that even beginners can easily set up and manage their email marketing forms.<\/li>\n<li><strong>Customizable Forms:<\/strong> <a href=\"https:\/\/eu.siteground.com\/kb\/create-custom-sign-up-form\/\" rel=\"nofollow ugc\">Create beautiful and highly customizable forms<\/a> to match the look and feel of your website.<\/li>\n<li><strong>Responsive Design:<\/strong> All forms are mobile-responsive, ensuring they look great and function perfectly on all devices.<\/li>\n<li><strong>Seamless Integrations:<\/strong> Instantly connect this plugin to begin capturing leads through various channels including the <a href=\"https:\/\/eu.siteground.com\/kb\/collect-subscribers-from-wordpress-forms\/\" rel=\"nofollow ugc\">WP comment form, registration pages<\/a>, <a href=\"https:\/\/eu.siteground.com\/kb\/email-marketing-integration-with-contact-form-7\/\" rel=\"nofollow ugc\">Contact Form 7<\/a>, <a href=\"https:\/\/www.siteground.com\/kb\/email-marketing-integration-with-elementor-pro-forms\/\" rel=\"nofollow ugc\">Elementor Pro Forms<\/a>, <a href=\"https:\/\/www.siteground.com\/kb\/email-marketing-integration-with-wpforms\/\" rel=\"nofollow ugc\">WPForms<\/a>, <a href=\"https:\/\/www.siteground.com\/kb\/email-marketing-integration-with-ninja-forms\" rel=\"nofollow ugc\">Ninja Forms<\/a> and more.<\/li>\n<\/ul>\n<h3>Requirements<\/h3>\n<p>In order to work correctly, this plugin requires that your server meets the following criteria:<\/p>\n<ul>\n<li>WordPress 4.7<\/li>\n<li>PHP 7.0+<\/li>\n<\/ul>\n<p>Our plugin uses a cookie in order to function properly. It does not store personal data and is used solely for the needs of our caching system.<\/p>\n",
+        "installation": "<h4>Automatic Installation<\/h4>\n<ol>\n<li>Go to Plugins -&gt; Add New<\/li>\n<li>Search for &#8220;SiteGround Email Marketing&#8221;<\/li>\n<li>Click on the Install button under the SiteGround Email Marketing plugin<\/li>\n<li>Once the plugin is installed, click on the Activate plugin link<\/li>\n<\/ol>\n<h4>Manual Installation<\/h4>\n<ol>\n<li>Download: Download the  SiteGround Email Marketing &#8211; Lead Generation Plugin from the WordPress plugin repository or directly from your SiteGround Email Marketing account.<\/li>\n<li>Install: Log in to your WordPress dashboard, go to Plugins &gt; Add New, and click the &#8220;Upload Plugin&#8221; button. Upload the downloaded plugin file and click &#8220;Install Now.&#8221;<\/li>\n<li>Activate: After installation, click the &#8220;Activate&#8221; button to enable the plugin.<\/li>\n<li>Connect: Navigate to the plugin Settings page to configure your email marketing service integration and<\/li>\n<li>Integrate: While on the Settings page, make sure to customize your existing website with a checkbox allowing website visitors to sign up to your mailing list.<\/li>\n<li>Create Custom Forms: Create and customize your lead capture forms. You can add them to your posts, pages, or widgets using shortcodes or widgets.<\/li>\n<li>Start Collecting Leads: Once your integrations and forms are set up, you can start collecting leads and growing your email list.<\/li>\n<\/ol>\n",
+        "changelog": "<h4>Version 1.3.0<\/h4>\n<p>Release Date: Mar 27th, 2024<\/p>\n<ul>\n<li>New integration with Ninja Forms<\/li>\n<\/ul>\n<h4>Version 1.2.0<\/h4>\n<p>Release Date: Feb 15th, 2024<\/p>\n<ul>\n<li>New Integration with WPForms<\/li>\n<li>New integration with WooCommerce Checkout Gutenberg block<\/li>\n<li>New settings for padding and margin added to SG Email Marketing Gutenberg block<\/li>\n<li>Fixed bug with WooCommerce shortcode checkout page integration<\/li>\n<\/ul>\n<h4>Version 1.1.3<\/h4>\n<p>Release Date: Jan 24th, 2024<\/p>\n<ul>\n<li>New integration with Elementor Pro Forms<\/li>\n<li>Fixed an issue with translations not being displayed<\/li>\n<\/ul>\n<h4>Version 1.1.2<\/h4>\n<p>Release Date: Dec 19th, 2023<\/p>\n<ul>\n<li>Plugin now available to download from wordpress.org<\/li>\n<\/ul>\n<h4>Version 1.1.1<\/h4>\n<p>Release Date: Dec 18th, 2023<\/p>\n<ul>\n<li>Fixed increase of footer size when adding a form to a page<\/li>\n<li>Fixed issue with forms not submitting through Elementor Popup<\/li>\n<li>Added options for title and description of the forms<\/li>\n<\/ul>\n<h4>Version 1.1.0<\/h4>\n<p>Release Date: Dec 13th, 2023<\/p>\n<ul>\n<li>New Integration with Contact Form 7<\/li>\n<\/ul>\n<h4>Version 1.0.1<\/h4>\n<p>Release Date: Nov 3rd, 2023<\/p>\n<ul>\n<li>Fixed memory leak on integrations listing page<\/li>\n<li>Fixed crashing page case related to suspended mail marketing accounts<\/li>\n<li>Fixed translations<\/li>\n<\/ul>\n<h4>Version 1.0.0<\/h4>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Does not natively support GDPR regulations<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"3 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"3\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/ivansoenderholm\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/6866c4d66f42e0ec366d9e66eb14c0e7?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/6866c4d66f42e0ec366d9e66eb14c0e7?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/ivansoenderholm\/\" class=\"reviewer-name\">ivansoenderholm<\/a> on <span class=\"review-date\">March 17, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Generally I'm satisfied with hosting and service from Siteground but I'm disappointed with this plugin and their Email Marketing solution because I can't use the native form which is missing a checkfield for consent which is required by GDPR i EU. I'm also missing a native double opt-in which also is required in several countries in Europe.  Well - a workaround for the missing  consent checkfield can be done with a (free) WPForm plugin so I will still consider to use Sitegrounds solution if I can find a way to solve the missing double opt-in.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">No support for #1 Theme Divi!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/iarovuo\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/66c7d5f00dd72ff5553c4ab1a5101b78?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/66c7d5f00dd72ff5553c4ab1a5101b78?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/iarovuo\/\" class=\"reviewer-name\">Ilari Arovuo <small>(iarovuo)<\/small><\/a> on <span class=\"review-date\">March 14, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">As an agency, we cannot utilize Siteground email marketing platform, as it does not natively support Divi opt-in and contact form modules!<br \/>The native support must be provided also for the Elegant Themes Bloom plugin.<br \/>We HATE zapiers and the likes, as they create extra layer of problems, and COST!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "SiteGround Email Marketing plugin is a lead generation plugin for WordPress that allows you to create subscriptions forms and use them for automatic l &hellip;",
+    "description": "<p>SiteGround Email Marketing plugin is a lead generation plugin for WordPress that allows you to create subscriptions forms and use them for automatic lead submission to SiteGround Email Marketing service. The plugin also allows you to add a subscription option to some already created contact forms, comment and sign up processes. By using this plugin as a supplementary tool to <a href=\"https:\/\/eu.siteground.com\/email-marketing\" rel=\"nofollow ugc\">SiteGround Email Marketing<\/a> service you may easily turn your website visitors into mailing list subscribers.<\/p>\n<h3>Features<\/h3>\n<ul>\n<li><strong>Integration with SiteGround Email Marketing:<\/strong> Use this plugin to <a href=\"https:\/\/eu.siteground.com\/kb\/start-getting-subscribers-from-wordpress\/#How_to_connect_the_Email_Marketing_plugin_to_SiteGround_Email_Marketing\" rel=\"nofollow ugc\">link your WordPress<\/a> site with the SiteGround Email Marketing service and seamlessly grow your mailing list.<\/li>\n<li><strong>User-Friendly Interface:<\/strong> Our plugin is designed with simplicity in mind, ensuring that even beginners can easily set up and manage their email marketing forms.<\/li>\n<li><strong>Customizable Forms:<\/strong> <a href=\"https:\/\/eu.siteground.com\/kb\/create-custom-sign-up-form\/\" rel=\"nofollow ugc\">Create beautiful and highly customizable forms<\/a> to match the look and feel of your website.<\/li>\n<li><strong>Responsive Design:<\/strong> All forms are mobile-responsive, ensuring they look great and function perfectly on all devices.<\/li>\n<li><strong>Seamless Integrations:<\/strong> Instantly connect this plugin to begin capturing leads through various channels including the <a href=\"https:\/\/eu.siteground.com\/kb\/collect-subscribers-from-wordpress-forms\/\" rel=\"nofollow ugc\">WP comment form, registration pages<\/a>, <a href=\"https:\/\/eu.siteground.com\/kb\/email-marketing-integration-with-contact-form-7\/\" rel=\"nofollow ugc\">Contact Form 7<\/a>, <a href=\"https:\/\/www.siteground.com\/kb\/email-marketing-integration-with-elementor-pro-forms\/\" rel=\"nofollow ugc\">Elementor Pro Forms<\/a>, <a href=\"https:\/\/www.siteground.com\/kb\/email-marketing-integration-with-wpforms\/\" rel=\"nofollow ugc\">WPForms<\/a>, <a href=\"https:\/\/www.siteground.com\/kb\/email-marketing-integration-with-ninja-forms\" rel=\"nofollow ugc\">Ninja Forms<\/a> and more.<\/li>\n<\/ul>\n<h3>Requirements<\/h3>\n<p>In order to work correctly, this plugin requires that your server meets the following criteria:<\/p>\n<ul>\n<li>WordPress 4.7<\/li>\n<li>PHP 7.0+<\/li>\n<\/ul>\n<p>Our plugin uses a cookie in order to function properly. It does not store personal data and is used solely for the needs of our caching system.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/siteground-email-marketing.1.3.0.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "growth": "growth",
+        "lead-generation": "lead generation",
+        "leads": "leads",
+        "subscription": "subscription"
+    },
+    "stable_tag": "1.3.0",
+    "versions": {
+        "1.1.2": "https:\/\/downloads.wordpress.org\/plugin\/siteground-email-marketing.1.1.2.zip",
+        "1.1.3": "https:\/\/downloads.wordpress.org\/plugin\/siteground-email-marketing.1.1.3.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/siteground-email-marketing.1.2.0.zip",
+        "1.3.0": "https:\/\/downloads.wordpress.org\/plugin\/siteground-email-marketing.1.3.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/siteground-email-marketing.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/siteground-email-marketing\/assets\/banner-772x250.png?rev=3011980",
+        "high": "https:\/\/ps.w.org\/siteground-email-marketing\/assets\/banner-1544x500.png?rev=3011980"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/siteground-email-marketing\/assets\/icon-128x128.png?rev=3012001",
+        "2x": "https:\/\/ps.w.org\/siteground-email-marketing\/assets\/icon-256x256.png?rev=3012001"
+    },
+    "blocks": {
+        "sg-email-marketing\/form-selector": {
+            "name": "sg-email-marketing\/form-selector",
+            "title": "SiteGround Email Marketing"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 40,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "siteground-email-marketing",
+            "language": "de_DE",
+            "version": "1.3.0",
+            "updated": "2024-02-22 11:48:49",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/siteground-email-marketing\/1.3.0\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "siteground-email-marketing",
+            "language": "es_ES",
+            "version": "1.3.0",
+            "updated": "2024-03-27 14:48:50",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/siteground-email-marketing\/1.3.0\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "siteground-email-marketing",
+            "language": "fr_FR",
+            "version": "1.3.0",
+            "updated": "2024-02-27 15:35:53",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/siteground-email-marketing\/1.3.0\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "siteground-email-marketing",
+            "language": "it_IT",
+            "version": "1.3.0",
+            "updated": "2024-03-27 12:55:01",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/siteground-email-marketing\/1.3.0\/it_IT.zip"
+        }
+    ]
+}

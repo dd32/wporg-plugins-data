@@ -1,0 +1,370 @@
+{
+    "name": "Widgets for Amazon Reviews",
+    "slug": "review-widgets-for-amazon",
+    "version": "11.8.2",
+    "author": "<a href=\"https:\/\/www.trustindex.io\/\">Trustindex.io <\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/trustindex\/",
+    "contributors": {
+        "trustindex": {
+            "profile": "https:\/\/profiles.wordpress.org\/trustindex\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/cbc0f9aab95ea91af0b2e12d6d788a1f?s=96&d=monsterid&r=g",
+            "display_name": "Trustindex"
+        }
+    },
+    "requires": "3.0.1",
+    "tested": "6.4.4",
+    "requires_php": "5.2",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 80,
+    "ratings": {
+        "5": 19,
+        "4": 1,
+        "3": 1,
+        "2": 0,
+        "1": 6
+    },
+    "num_ratings": 27,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/review-widgets-for-amazon\/",
+    "support_threads": 1,
+    "support_threads_resolved": 0,
+    "active_installs": 1000,
+    "downloaded": 74369,
+    "last_updated": "2024-04-04 11:23am GMT",
+    "added": "2020-05-02",
+    "homepage": "https:\/\/wordpress.org\/plugins\/review-widgets-for-amazon\/",
+    "sections": {
+        "description": "<p>Display your <strong>Amazon reviews<\/strong> for free with our responsive widgets in 2 minutes.<\/p>\n<p>The plugin displays your Amazon reviews in amazing predesigned widgets. You can simply create and display your own widgets, and filter your reviews to build customers\u2019 trust and increase SEO.<\/p>\n<div class=\"embed-vimeo\" style=\"text-align: center;\"><iframe loading=\"lazy\" src=\"https:\/\/player.vimeo.com\/video\/506419573\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen><\/iframe><\/div>\n<p>The Amazon Reviews WordPress Widget plugin is for showing off your best Amazon customer reviews on your website with a variety of customizable widgets.<\/p>\n<p>While it may seem just like a visually appealing way to spruce up your website, including a widget with Amazon reviews can be much more than that.<\/p>\n<p>How?<\/p>\n<p>Well, by showing off your top Amazon reviews through a stylized widget that you\u2019ve personalized to your brand\u2019s image, you can develop social proof for your business. Social proof is one of those key concepts in business that can help your sales soar and interest in your goods skyrocket.<\/p>\n<h3>Why are Amazon reviews so important?<\/h3>\n<p>Social proof is simply what you get when you have plenty of positive feedback and reviews about your business. It\u2019s what convinces potential new customers who are on the fence about choosing your business to go with you over the competition. After all, all new customers want to know is what previous customers have to say about interacting with the business.<\/p>\n<p>Real people want to hear from real people, and it\u2019s not because customers perceive all business owners as evil, but because customers who\u2019ve had experience with the business can be trusted more easily.<\/p>\n<p>Amazon reviews can be critical for the growth of your business given that it\u2019s one of the largest online retailers on the market.<\/p>\n<p>If you don\u2019t have a lot of reviews yet, you\u2019ll need to start collecting some. All you need to do is create a link customers can use to leave a review on Amazon, and then attach it in your email and social media interactions with your existing customer base.<\/p>\n<h3>Free plugin features<\/h3>\n<ul>\n<li>Free usage<\/li>\n<li>Display up to 10 Amazon reviews* 40+ Widget layouts<\/li>\n<li>25+ Pre-designed widget styles<\/li>\n<li>1 Review widget<\/li>\n<li>Filter reviews by rating<\/li>\n<li>Hide any reviews<\/li>\n<li>Language support<\/li>\n<li>Shortcode integration<\/li>\n<li>Keep all reviews in a WordPress database<\/li>\n<li>SEO boost<\/li>\n<li>Dark website support<\/li>\n<li>Use in any page builder: Gutenberg, Elementor, Page Origin, Beaver Builder, WPBakery, Divi, Classic, &#8230;<\/li>\n<li>Zero loading time<\/li>\n<li>Use of assets stored in CDN<\/li>\n<li>Linux &amp; Windows (XAMPP, WAMP,&#8230;) compatible<\/li>\n<\/ul>\n<h3>Get more features with our professional review software<\/h3>\n<p><a href=\"https:\/\/www.trustindex.io\/ti-redirect.php?a=sys-wp&amp;c=amazon.php-r1\" rel=\"nofollow ugc\">Create a free account for more features!<\/a><\/p>\n<ul>\n<li>Display all reviews from Google, Facebook, Yelp, Amazon, Tripadvisor, Booking.com, AirBnb, Hotels.com, &#8230;<\/li>\n<li>Display reviews from different platforms in a widget<\/li>\n<li>Customizable design<\/li>\n<li>Unlimited number of widgets<\/li>\n<li>Management of multiple businesses<\/li>\n<li>Option to hide a review or mark as spam<\/li>\n<li>Professional review tagging system<\/li>\n<li>Widgets are updated when you receive a new review<\/li>\n<li>Widget link modification<\/li>\n<li>Edit review order<\/li>\n<li>Review shortening<\/li>\n<li>Automated review invitation system<\/li>\n<li>Review widgets for your email signatures<\/li>\n<li>Generate amazing images from your reviews to Instagram, Facebook, Twitter, Pinterest<\/li>\n<li>Shortcode &amp; HTML\/JavaScript support<\/li>\n<li>Detailed statistics<\/li>\n<li>Priority support<\/li>\n<li>AMP support<\/li>\n<\/ul>\n<p><a href=\"https:\/\/www.trustindex.io\/ti-redirect.php?a=sys-wp&amp;c=amazon.php-r2\" rel=\"nofollow ugc\">Create a free account for more features!<\/a><\/p>\n<h3>Additional free review plugins<\/h3>\n<p>Why not display your other ratings, too? Check out our other free review plugins:<\/p>\n<ul>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/review-widgets-for-airbnb\/\" rel=\"ugc\">Airbnb<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/widgets-for-aliexpress-reviews\/\" rel=\"ugc\">Aliexpress<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/widgets-for-alibaba-reviews\/\" rel=\"ugc\">Alibaba<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/review-widgets-for-amazon\/\" rel=\"ugc\">Amazon<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/review-widgets-for-booking-com\/\" rel=\"ugc\">Booking.com<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/review-widgets-for-capterra\/\" rel=\"ugc\">Capterra<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/widgets-for-ebay-reviews\/\" rel=\"ugc\">Ebay<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/review-widgets-for-expedia\/\" rel=\"ugc\">Expedia<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/free-facebook-reviews-and-recommendations-widgets\/\" rel=\"ugc\">Facebook<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/review-widgets-for-foursquare\/\" rel=\"ugc\">Foursquare<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/wp-reviews-plugin-for-google\/\" rel=\"ugc\">Google<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/review-widgets-for-hotels-com\/\" rel=\"ugc\">Hotels.com<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/reviews-widgets-for-opentable\/\" rel=\"ugc\">Opentable<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/widgets-for-sourceforge-reviews\/\" rel=\"ugc\">SourceForge<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/widgets-for-thumbtack-reviews\/\" rel=\"ugc\">Thumbtack<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/review-widgets-for-tripadvisor\/\" rel=\"ugc\">Tripadvisor<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/reviews-widgets-for-yelp\/\" rel=\"ugc\">Yelp<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/widgets-for-zillow-reviews\/\" rel=\"ugc\">Zillow<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/customer-reviews-for-woocommerce\/\" rel=\"ugc\">WooCommerce<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/reviews-widgets\/\" rel=\"ugc\">WordPress<\/a><\/li>\n<\/ul>\n<h3>Languages<\/h3>\n<p>If your company does business globally, it\u2019s in your interest to cater to various languages.<\/p>\n<p>Our Widgets for Amazon Reviews supports the following languages:<br \/>\nAfrikaans, Albanian, Arabic, Armenian, Azerbaijani, Bengali, Bosnian, Bulgarian, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, Galician, Georgian, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Kazakh, Korean, Lithuanian, Macedonian, Malay, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Scottish Gaelic, Serbian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Ukranian, Vietnamese, Welsh<\/p>\n<h3>Support<\/h3>\n<p>If you have any issues at all setting up the Amazon reviews WordPress Plugin for your business, you can contact our customer support team in various ways.<\/p>\n<p>We offer 24\/7 email support in English.<\/p>\n<p>We recommend the following order when searching for answers:<br \/>\n1. Plugin FAQ here at the bottom &#8211; if you don\u2019t already know why it\u2019s worth displaying Amazon reviews2. You can find more info and Troubleshooting in the plugin&#8217;s admin dashboard after install.<br \/>\n3. <a href=\"https:\/\/www.trustindex.io\/frequently-asked-questions\/\" rel=\"nofollow ugc\">Trustindex FAQ<\/a><br \/>\n4. Check topics or ask a new question here: <a href=\"https:\/\/wordpress.org\/support\/plugin\/review-widgets-for-amazon\/\" rel=\"ugc\">Support Forum<\/a><br \/>\n5. Join our Community on Facebook: https:\/\/www.facebook.com\/groups\/990874785532977<br \/>\n5. If you still can&#8217;t find the answer, feel free to email us: support@trustindex.io<\/p>\n<p>To find out more about who we are and what we do, here are some useful links:<\/p>\n<ul>\n<li><a href=\"https:\/\/www.trustindex.io\/\" rel=\"nofollow ugc\">TrustIndex Website<\/a><\/li>\n<li><a href=\"https:\/\/www.trustindex.io\/blog\/\" rel=\"nofollow ugc\">Our Blog<\/a><\/li>\n<\/ul>\n",
+        "installation": "<ol>\n<li>Upload the plugin files to the <code>\/wp-content\/plugins\/<\/code> directory, or install the plugin through the WordPress plugins screen directly.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; screen in WordPress<\/li>\n<li>Use the Trustindex.io menu item on the left to configure the plugin.<\/li>\n<li>You can get premium features under the &#8220;Get more Features&#8221; tab!<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='what%20is%20the%20widgets%20for%20amazon%20reviews%20wordpress%20plugin%3F'>\nWhat is the Widgets for Amazon Reviews WordPress plugin?\n<\/h4>\n<p>\n<p>The Amazon reviews plugin allows you to display your reviews in a stylish widget on your WordPress website.<\/p>\n<\/p>\n<dt id='is%20the%20review%20widget%20plugin%20free%3F'>\nIs the Review widget plugin free?\n<\/h4>\n<p>\n<p>Yes, it\u2019s completely free to use, although you\u2019ll be limited to certain features.<\/p>\n<\/p>\n<dt id='what%20is%20in%20the%20free%20widget%20plugin%3F'>\nWhat is in the free widget plugin?\n<\/h4>\n<p>\n<p>In the free plugin, you can use any of the features listed earlier in this guide, including the use of 25+ pre-designed widget styles and 40+ widget layouts.<\/p>\n<\/p>\n<dt id='how%20to%20add%20amazon%20reviews%20to%20your%20wordpress%20website%3F'>\nHow to add Amazon reviews to your WordPress website?\n<\/h4>\n<p>\n<ul>\n<li>First, download and activate the plugin<\/li>\n<li>Then, sync the plugin to your Amazon business account<\/li>\n<li>Choose a widget type from the 40 options<\/li>\n<li>Choose a widget style from the 25 options<\/li>\n<li>Adjust your widget using the available filters<\/li>\n<li>Embed reviews to your WordPress website using the shortcodes provided<\/li>\n<\/ul>\n<\/p>\n<dt id='how%20can%20you%20embed%20amazon%20reviews%20on%20your%20website%3F'>\nHow can you embed Amazon Reviews on your website?\n<\/h4>\n<p>\n<p>By simply connecting your WordPress account to your Amazon business account.<\/p>\n<\/p>\n<dt id='can%20you%20filter%20the%20reviews%20for%20your%20website%3F'>\nCan you filter the reviews for your website?\n<\/h4>\n<p>\n<p>Yes, go down to \u2018filter your ratings\u2019 on the \u2018set up widget\u2019 page which comes after you\u2019ve selected a style and layout.<\/p>\n<\/p>\n<dt id='is%20the%20amazon%20review%20widget%20compatible%20with%20your%20cms%20or%20site%20builder%3F'>\nIs the Amazon Review Widget compatible with your CMS or site builder?\n<\/h4>\n<p>\n<p>Our widgets work on all HTML pages and AMP pages. Also with the website builders below: Adobe Muse, BigCommerce, Blogger, Drupal, Elementor, Joomla, Magento, ModX, OpenCart, Squarespace, Webflow, Webnode, Weebly, Wix, WordPress, WooCommerce, Google Sites, GoDaddy<\/p>\n<\/p>\n<dt id='which%20is%20the%20best%20way%20to%20use%20the%20amazon%20reviews%20widget%3F'>\nWhich is the best way to use the Amazon reviews widget?\n<\/h4>\n<p>\n<p>Use the widget in a prominent place on your WordPress website for the best results, and only show four to five star reviews.<\/p>\n<\/p>\n<dt id='is%20the%20amazon%20reviews%20widget%20plugin%20mobile%20friendly%3F'>\nIs the Amazon Reviews Widget Plugin mobile friendly?\n<\/h4>\n<p>\n<p>Yes, like other WordPress plugins the Amazon review plugin is mobile friendly.<\/p>\n<\/p>\n<dt id='can%20you%20modify%20the%20style%20of%20the%20widget%3F'>\nCan you modify the style of the widget?\n<\/h4>\n<p>\n<p>Yes, you can go in and make a variety of changes to customize your widget\u2019s appearance.<\/p>\n<\/p>\n<dt id='is%20there%20a%20review-request%20button%3F%20can%20you%20collect%20reviews%20directly%20on%20your%20website%3F'>\nIs there a review-request button? Can you collect reviews directly on your website?\n<\/h4>\n<p>\n<p>Yes, you can add in a review-request button so that website visitors can leave a review on your Amazon page.<\/p>\n<\/p>\n<dt id='how%20to%20collect%20amazon%20reviews%3F'>\nHow to collect Amazon reviews?\n<\/h4>\n<p>\n<p>If you don\u2019t yet have Amazon reviews, not to worry. It\u2019s easy enough to collect them. The best approach is to make your existing customer base aware of how important their feedback is to you, and to provide a link to your Amazon Business page in an email or through social media.<\/p>\n<\/p>\n\n",
+        "changelog": "<p>The change log and upgrade notices can be found here: <a href=\"https:\/\/admin.trustindex.io\/page\/static\/content\/wp-changelog\" rel=\"nofollow ugc\">https:\/\/admin.trustindex.io\/page\/static\/content\/wp-changelog<\/a><\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/review-widgets-for-amazon\/assets\/screenshot-1.png?rev=2473550\"><img src=\"https:\/\/ps.w.org\/review-widgets-for-amazon\/assets\/screenshot-1.png?rev=2473550\" alt=\"Sample widget - Slider (light background)\"><\/a><p>Sample widget - Slider (light background)<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/review-widgets-for-amazon\/assets\/screenshot-2.png?rev=2473550\"><img src=\"https:\/\/ps.w.org\/review-widgets-for-amazon\/assets\/screenshot-2.png?rev=2473550\" alt=\"Sample widget - Grid (light background)\"><\/a><p>Sample widget - Grid (light background)<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/review-widgets-for-amazon\/assets\/screenshot-3.png?rev=2473550\"><img src=\"https:\/\/ps.w.org\/review-widgets-for-amazon\/assets\/screenshot-3.png?rev=2473550\" alt=\"Sample widget - List (light background)\"><\/a><p>Sample widget - List (light background)<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/review-widgets-for-amazon\/assets\/screenshot-4.png?rev=2473550\"><img src=\"https:\/\/ps.w.org\/review-widgets-for-amazon\/assets\/screenshot-4.png?rev=2473550\" alt=\"Connect platform easily\"><\/a><p>Connect platform easily<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/review-widgets-for-amazon\/assets\/screenshot-5.png?rev=2473550\"><img src=\"https:\/\/ps.w.org\/review-widgets-for-amazon\/assets\/screenshot-5.png?rev=2473550\" alt=\"Select layouts easily\"><\/a><p>Select layouts easily<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Not Trustworthy<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/greg2liberty\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/7cdf81f669c74451685fefde8342d961?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/7cdf81f669c74451685fefde8342d961?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/greg2liberty\/\" class=\"reviewer-name\">greg2liberty<\/a> on <span class=\"review-date\">March 19, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">For me, the experience with this plugin has been rocky. It looked good at first, but fell apart later on. I'm an author with over 20 books published and have hundreds of reviews across each book on Amazon and Goodreads. However, you can only hook up ONE Amazon product without having to pay for the higher tiers. It makes no sense for an author to pay so much when we have many books. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">So, I asked them if they could instead connect to my Author page where ALL the reviews are. They did so for me. For which I was thankful. I had to tag each review to filter it according to the proper book...and with the number of reviews I have, that took a lot of time. And I was willing, but that is when the problems began to crop up.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">First, the reviews would not update as promised. I wrote several times and each time they manually updated them for me, promising me that their developers were going to fix the problem. They lied. They never intended to fix the problem. They merely waited for me to contact them. I've waited a year, and not once has the account updated on its own. They did this so they could refuse to give me my money back when their product did not work as advertised.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Then they kept doing something that erased my tags, and I had to go back through and rebuild them from scratch. Again, they promised this would be taken care of. It was not. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Then they promised to connect to Goodreads, but again, they never did, despite promising me they were going to do so.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Over and over, they kept promising me something that never happened. So while the individual sliders and reviews displayed on the website looked great, customer service is not trustworthy. They lied and prevaricated. Be warned. These developers are NOT to be trusted. And for the price, there are much better options out there.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great plugin, a few glitches, but worth the installation!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mossreports\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/1b72adb5b703255ac3b4e68ab4fc1b8b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/1b72adb5b703255ac3b4e68ab4fc1b8b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mossreports\/\" class=\"reviewer-name\">The Moss Report <small>(mossreports)<\/small><\/a> on <span class=\"review-date\">January 28, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This is a much needed plugin, and the free version really gives you a lot of value right out of the box. Considering what TrustPilot costs for pro versions, and how much I dislike their wordpress integration, Trustindex does really even more, showing amazon and other reviews, and not just forcing people down a proprietary path. Great work, keep up the development! <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Looks and works great!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/kimball31\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/51765ea91cb17745b66fbc41452e0849?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/51765ea91cb17745b66fbc41452e0849?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/kimball31\/\" class=\"reviewer-name\">Kimball31<\/a> on <span class=\"review-date\">January 4, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Thank you so much for this fantastic amazon reviews plugin <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Does what I need<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/k-david\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/589565d17ff3a9fb15f62bbf6f7ff44d?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/589565d17ff3a9fb15f62bbf6f7ff44d?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/k-david\/\" class=\"reviewer-name\">K. David<\/a> on <span class=\"review-date\">December 26, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Easy to set up and use, displays what I need - the way I wish.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Does the job and does it well<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/kkoch3\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/a933933ad3cebecc4458bf2d7d6a0ab8?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/a933933ad3cebecc4458bf2d7d6a0ab8?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/kkoch3\/\" class=\"reviewer-name\">kkoch3<\/a> on <span class=\"review-date\">November 24, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Great plugin. Many formatting options. The support team is quick to respond and resolve any issues. If you have a problem with your connection to any reviews, contact them before looking elsewhere.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">waste of time<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/fartbrat\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/8dfa9a31acf7da40f247127199b6220b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/8dfa9a31acf7da40f247127199b6220b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/fartbrat\/\" class=\"reviewer-name\">fartbrat<\/a> on <span class=\"review-date\">October 13, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">doesnt just provide the script instead but going through emails. doesnt mention free account can only post 10 reviews. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Parfait !<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/corytransition\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/a95c3777529eb6a7b15fa3ae1364fa29?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/a95c3777529eb6a7b15fa3ae1364fa29?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/corytransition\/\" class=\"reviewer-name\">corytransition<\/a> on <span class=\"review-date\">September 18, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Fonctionne parfaitement<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Perfect<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/riccardolumeiu\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/0299110ab448b3bb0ecf12bf28a36635?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/0299110ab448b3bb0ecf12bf28a36635?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/riccardolumeiu\/\" class=\"reviewer-name\">riccardolumeiu<\/a> on <span class=\"review-date\">August 2, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Work very well<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">It doesn&#039;t work!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/glaffo\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e19a708d6e0b07acdfc4f5e21eb51ae9?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e19a708d6e0b07acdfc4f5e21eb51ae9?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/glaffo\/\" class=\"reviewer-name\">glaffo<\/a> on <span class=\"review-date\">June 3, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>I actually thing it's a kinda malware as it asks for too many exceptions<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Didn&#039;t work for me<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"3 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"3\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/oldpalmarcus\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/33c73d88f91e32f59103ac438ead6f1d?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/33c73d88f91e32f59103ac438ead6f1d?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/oldpalmarcus\/\" class=\"reviewer-name\">oldpalmarcus<\/a> on <span class=\"review-date\">March 26, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This plugin correctly identified my product, then spent hours and hours allegedly pulling reviews, then told me that it found no reviews. Additionally, it then wouldn't let me try to pull them again. I saw other reviews say that this doesn't work on KDP products. If that's the case, it would be nice if the description said so up front.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Embed Amazon reviews fast and easily into your WordPress site. Increase SEO, trust and sales using Amazon reviews.",
+    "description": "<p>Display your <strong>Amazon reviews<\/strong> for free with our responsive widgets in 2 minutes.<\/p>\n<p>The plugin displays your Amazon reviews in amazing predesigned widgets. You can simply create and display your own widgets, and filter your reviews to build customers\u2019 trust and increase SEO.<\/p>\n<div class=\"embed-vimeo\" style=\"text-align: center;\"><iframe loading=\"lazy\" src=\"https:\/\/player.vimeo.com\/video\/506419573\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen><\/iframe><\/div>\n<p>The Amazon Reviews WordPress Widget plugin is for showing off your best Amazon customer reviews on your website with a variety of customizable widgets.<\/p>\n<p>While it may seem just like a visually appealing way to spruce up your website, including a widget with Amazon reviews can be much more than that.<\/p>\n<p>How?<\/p>\n<p>Well, by showing off your top Amazon reviews through a stylized widget that you\u2019ve personalized to your brand\u2019s image, you can develop social proof for your business. Social proof is one of those key concepts in business that can help your sales soar and interest in your goods skyrocket.<\/p>\n<h3>Why are Amazon reviews so important?<\/h3>\n<p>Social proof is simply what you get when you have plenty of positive feedback and reviews about your business. It\u2019s what convinces potential new customers who are on the fence about choosing your business to go with you over the competition. After all, all new customers want to know is what previous customers have to say about interacting with the business.<\/p>\n<p>Real people want to hear from real people, and it\u2019s not because customers perceive all business owners as evil, but because customers who\u2019ve had experience with the business can be trusted more easily.<\/p>\n<p>Amazon reviews can be critical for the growth of your business given that it\u2019s one of the largest online retailers on the market.<\/p>\n<p>If you don\u2019t have a lot of reviews yet, you\u2019ll need to start collecting some. All you need to do is create a link customers can use to leave a review on Amazon, and then attach it in your email and social media interactions with your existing customer base.<\/p>\n<h3>Free plugin features<\/h3>\n<ul>\n<li>Free usage<\/li>\n<li>Display up to 10 Amazon reviews* 40+ Widget layouts<\/li>\n<li>25+ Pre-designed widget styles<\/li>\n<li>1 Review widget<\/li>\n<li>Filter reviews by rating<\/li>\n<li>Hide any reviews<\/li>\n<li>Language support<\/li>\n<li>Shortcode integration<\/li>\n<li>Keep all reviews in a WordPress database<\/li>\n<li>SEO boost<\/li>\n<li>Dark website support<\/li>\n<li>Use in any page builder: Gutenberg, Elementor, Page Origin, Beaver Builder, WPBakery, Divi, Classic, &#8230;<\/li>\n<li>Zero loading time<\/li>\n<li>Use of assets stored in CDN<\/li>\n<li>Linux &amp; Windows (XAMPP, WAMP,&#8230;) compatible<\/li>\n<\/ul>\n<h3>Get more features with our professional review software<\/h3>\n<p><a href=\"https:\/\/www.trustindex.io\/ti-redirect.php?a=sys-wp&amp;c=amazon.php-r1\" rel=\"nofollow ugc\">Create a free account for more features!<\/a><\/p>\n<ul>\n<li>Display all reviews from Google, Facebook, Yelp, Amazon, Tripadvisor, Booking.com, AirBnb, Hotels.com, &#8230;<\/li>\n<li>Display reviews from different platforms in a widget<\/li>\n<li>Customizable design<\/li>\n<li>Unlimited number of widgets<\/li>\n<li>Management of multiple businesses<\/li>\n<li>Option to hide a review or mark as spam<\/li>\n<li>Professional review tagging system<\/li>\n<li>Widgets are updated when you receive a new review<\/li>\n<li>Widget link modification<\/li>\n<li>Edit review order<\/li>\n<li>Review shortening<\/li>\n<li>Automated review invitation system<\/li>\n<li>Review widgets for your email signatures<\/li>\n<li>Generate amazing images from your reviews to Instagram, Facebook, Twitter, Pinterest<\/li>\n<li>Shortcode &amp; HTML\/JavaScript support<\/li>\n<li>Detailed statistics<\/li>\n<li>Priority support<\/li>\n<li>AMP support<\/li>\n<\/ul>\n<p><a href=\"https:\/\/www.trustindex.io\/ti-redirect.php?a=sys-wp&amp;c=amazon.php-r2\" rel=\"nofollow ugc\">Create a free account for more features!<\/a><\/p>\n<h3>Additional free review plugins<\/h3>\n<p>Why not display your other ratings, too? Check out our other free review plugins:<\/p>\n<ul>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/review-widgets-for-airbnb\/\" rel=\"ugc\">Airbnb<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/widgets-for-aliexpress-reviews\/\" rel=\"ugc\">Aliexpress<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/widgets-for-alibaba-reviews\/\" rel=\"ugc\">Alibaba<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/review-widgets-for-amazon\/\" rel=\"ugc\">Amazon<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/review-widgets-for-booking-com\/\" rel=\"ugc\">Booking.com<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/review-widgets-for-capterra\/\" rel=\"ugc\">Capterra<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/widgets-for-ebay-reviews\/\" rel=\"ugc\">Ebay<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/review-widgets-for-expedia\/\" rel=\"ugc\">Expedia<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/free-facebook-reviews-and-recommendations-widgets\/\" rel=\"ugc\">Facebook<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/review-widgets-for-foursquare\/\" rel=\"ugc\">Foursquare<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/wp-reviews-plugin-for-google\/\" rel=\"ugc\">Google<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/review-widgets-for-hotels-com\/\" rel=\"ugc\">Hotels.com<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/reviews-widgets-for-opentable\/\" rel=\"ugc\">Opentable<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/widgets-for-sourceforge-reviews\/\" rel=\"ugc\">SourceForge<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/widgets-for-thumbtack-reviews\/\" rel=\"ugc\">Thumbtack<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/review-widgets-for-tripadvisor\/\" rel=\"ugc\">Tripadvisor<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/reviews-widgets-for-yelp\/\" rel=\"ugc\">Yelp<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/widgets-for-zillow-reviews\/\" rel=\"ugc\">Zillow<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/customer-reviews-for-woocommerce\/\" rel=\"ugc\">WooCommerce<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/reviews-widgets\/\" rel=\"ugc\">WordPress<\/a><\/li>\n<\/ul>\n<h3>Languages<\/h3>\n<p>If your company does business globally, it\u2019s in your interest to cater to various languages.<\/p>\n<p>Our Widgets for Amazon Reviews supports the following languages:<br \/>\nAfrikaans, Albanian, Arabic, Armenian, Azerbaijani, Bengali, Bosnian, Bulgarian, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, Galician, Georgian, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Kazakh, Korean, Lithuanian, Macedonian, Malay, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Scottish Gaelic, Serbian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Ukranian, Vietnamese, Welsh<\/p>\n<h3>Support<\/h3>\n<p>If you have any issues at all setting up the Amazon reviews WordPress Plugin for your business, you can contact our customer support team in various ways.<\/p>\n<p>We offer 24\/7 email support in English.<\/p>\n<p>We recommend the following order when searching for answers:<br \/>\n1. Plugin FAQ here at the bottom &#8211; if you don\u2019t already know why it\u2019s worth displaying Amazon reviews2. You can find more info and Troubleshooting in the plugin&#8217;s admin dashboard after install.<br \/>\n3. <a href=\"https:\/\/www.trustindex.io\/frequently-asked-questions\/\" rel=\"nofollow ugc\">Trustindex FAQ<\/a><br \/>\n4. Check topics or ask a new question here: <a href=\"https:\/\/wordpress.org\/support\/plugin\/review-widgets-for-amazon\/\" rel=\"ugc\">Support Forum<\/a><br \/>\n5. Join our Community on Facebook: https:\/\/www.facebook.com\/groups\/990874785532977<br \/>\n5. If you still can&#8217;t find the answer, feel free to email us: support@trustindex.io<\/p>\n<p>To find out more about who we are and what we do, here are some useful links:<\/p>\n<ul>\n<li><a href=\"https:\/\/www.trustindex.io\/\" rel=\"nofollow ugc\">TrustIndex Website<\/a><\/li>\n<li><a href=\"https:\/\/www.trustindex.io\/blog\/\" rel=\"nofollow ugc\">Our Blog<\/a><\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.11.8.2.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/review-widgets-for-amazon\/assets\/screenshot-1.png?rev=2473550",
+            "caption": "Sample widget - Slider (light background)"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/review-widgets-for-amazon\/assets\/screenshot-2.png?rev=2473550",
+            "caption": "Sample widget - Grid (light background)"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/review-widgets-for-amazon\/assets\/screenshot-3.png?rev=2473550",
+            "caption": "Sample widget - List (light background)"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/review-widgets-for-amazon\/assets\/screenshot-4.png?rev=2473550",
+            "caption": "Connect platform easily"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/review-widgets-for-amazon\/assets\/screenshot-5.png?rev=2473550",
+            "caption": "Select layouts easily"
+        }
+    },
+    "tags": {
+        "amazon": "amazon",
+        "amazon-reviews": "amazon reviews",
+        "ratings": "ratings",
+        "recommendations": "recommendations",
+        "reviews": "reviews"
+    },
+    "stable_tag": "11.8.2",
+    "versions": {
+        "10.0.1": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.10.0.1.zip",
+        "10.1": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.10.1.zip",
+        "10.2.2": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.10.2.2.zip",
+        "10.3": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.10.3.zip",
+        "10.4.1": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.10.4.1.zip",
+        "10.5": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.10.5.zip",
+        "10.6.1": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.10.6.1.zip",
+        "10.7": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.10.7.zip",
+        "10.8": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.10.8.zip",
+        "10.9.1": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.10.9.1.zip",
+        "11.0.2": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.11.0.2.zip",
+        "11.1": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.11.1.zip",
+        "11.2.2": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.11.2.2.zip",
+        "11.3.1": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.11.3.1.zip",
+        "11.4": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.11.4.zip",
+        "11.5": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.11.5.zip",
+        "11.6": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.11.6.zip",
+        "11.7": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.11.7.zip",
+        "11.7.1": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.11.7.1.zip",
+        "11.8.2": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.11.8.2.zip",
+        "4.0": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.4.0.zip",
+        "7.12": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.7.12.zip",
+        "8.3": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.8.3.zip",
+        "9.10": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.9.10.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/review-widgets-for-amazon.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/www.trustindex.io\/prices\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/review-widgets-for-amazon\/assets\/banner-772x250.jpg?rev=2473550",
+        "high": "https:\/\/ps.w.org\/review-widgets-for-amazon\/assets\/banner-1544x500.jpg?rev=2473550"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/review-widgets-for-amazon\/assets\/icon-128x128.png?rev=2726341",
+        "2x": "https:\/\/ps.w.org\/review-widgets-for-amazon\/assets\/icon-256x256.png?rev=2726341"
+    },
+    "blocks": {
+        "trustindex\/block-selector": {
+            "name": "trustindex\/block-selector",
+            "title": "Widgets for Amazon Reviews"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 80,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "bg_BG",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:12:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/bg_BG.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "cs_CZ",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:12:59",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/cs_CZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "da_DK",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:00",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/da_DK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "de_DE",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:04",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "el",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:06",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/el.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "es_VE",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "es_ES",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:19",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "es_EC",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:19",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/es_EC.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "es_CO",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:18",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/es_CO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "et",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:01",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/et.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "fi",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:02",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/fi.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "fr_CA",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:03",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/fr_CA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "fr_FR",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:04",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "hr",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:12:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/hr.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "hu_HU",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:08",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/hu_HU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "it_IT",
+            "version": "11.8.2",
+            "updated": "2023-08-22 14:06:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "lt_LT",
+            "version": "11.8.2",
+            "updated": "2022-11-01 14:42:35",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/lt_LT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "lv",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:10",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/lv.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "mlt",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:11",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/mlt.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "nb_NO",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:12",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/nb_NO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "nl_NL",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:01",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "pl_PL",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:13",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/pl_PL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "pt_PT",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:14",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/pt_PT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "pt_BR",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:13",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/pt_BR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "ro_RO",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:15",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/ro_RO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "ru_RU",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:16",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "sk_SK",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:16",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/sk_SK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "sl_SI",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:17",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/sl_SI.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "sv_SE",
+            "version": "11.8.2",
+            "updated": "2023-10-31 14:18:48",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/sv_SE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "review-widgets-for-amazon",
+            "language": "tr_TR",
+            "version": "11.8.2",
+            "updated": "2021-09-23 08:13:22",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/review-widgets-for-amazon\/11.8.2\/tr_TR.zip"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "name": "Bangla Font",
+    "slug": "bangla-font",
+    "version": "1.0.2",
+    "author": "<a href=\"https:\/\/web.facebook.com\/themeforen\">ThemeForen<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/themeforen\/",
+    "contributors": {
+        "themeforen": {
+            "profile": "https:\/\/profiles.wordpress.org\/themeforen\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/93f65600a1bea43d4f63bb02447b4cfb?s=96&d=monsterid&r=g",
+            "display_name": "themeforen"
+        }
+    },
+    "requires": "5.2",
+    "tested": "6.5.2",
+    "requires_php": "5.6",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 2,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 2,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/bangla-font\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 10,
+    "downloaded": 182,
+    "last_updated": "2024-04-07 8:51am GMT",
+    "added": "2024-03-03",
+    "homepage": "https:\/\/wordpress.org\/plugins\/bangla-font\/",
+    "sections": {
+        "description": "<p>Bangla language people are regularly facing Bengali font problem in WordPress. Especially Bangla sites are failing to make their fonts look beautiful. However, this plugin is not the first of ours, but other plugins have also had some issues. So we further developed the plugin and brought it to the market completely free. Now you just activate the plugin and enjoy!<\/p>\n",
+        "installation": "<ol>\n<li>Unpack the entire contents of this plugin zip file into your wp-content\/plugins\/ folder locally<\/li>\n<li>Upload to your site<\/li>\n<li>Navigate to wp-admin\/plugins.php on your site (your WP Admin plugin page)<\/li>\n<li>Activate this plugin<\/li>\n<\/ol>\n<p>OR you can just install it with WordPress by going to Plugins &gt; Add New &gt; and type this plugin\u2019s name<\/p>\n",
+        "faq": "\n<dt id='can%20i%20install%20this%20plugin%20any%20wordpres%20site%20%3F'>\nCan i install this plugin any wordpres site ?\n<\/h4>\n<p>\n<p>Yes this plugin are compatible with any wordpress site<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.0 \u2013 Dec 21, 2023<\/h4>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n<h4>1.0.1 \u2013 Mar 25, 2024<\/h4>\n<p>*Icon issue has been fixed<\/p>\n<h4>1.0.2 \u2013 Apr 07, 2024<\/h4>\n<ul>\n<li>6.5 Compatibility<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/bangla-font\/assets\/screenshot-1.png?rev=3044466\"><img src=\"https:\/\/ps.w.org\/bangla-font\/assets\/screenshot-1.png?rev=3044466\" alt=\"Sample of font applied\"><\/a><p>Sample of font applied<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/bangla-font\/assets\/screenshot-2.png?rev=3044466\"><img src=\"https:\/\/ps.w.org\/bangla-font\/assets\/screenshot-2.png?rev=3044466\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Awesome Plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mrhasan20222\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d89371f42bd63af7d0689d7550029fd9?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d89371f42bd63af7d0689d7550029fd9?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mrhasan20222\/\" class=\"reviewer-name\">mrhasan20222<\/a> on <span class=\"review-date\">April 14, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Awesome Plugin<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Use And Review<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/themeforen\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/93f65600a1bea43d4f63bb02447b4cfb?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/93f65600a1bea43d4f63bb02447b4cfb?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/themeforen\/\" class=\"reviewer-name\">themeforen<\/a> on <span class=\"review-date\">March 3, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Plunging is excellent according to users<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "This is Bangla Font plugin which is allows you to install clear bangla font to your wordpress site. this plugin display neat and clean Bangla Font.",
+    "description": "<p>Bangla language people are regularly facing Bengali font problem in WordPress. Especially Bangla sites are failing to make their fonts look beautiful. However, this plugin is not the first of ours, but other plugins have also had some issues. So we further developed the plugin and brought it to the market completely free. Now you just activate the plugin and enjoy!<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/bangla-font.zip",
+    "upgrade_notice": {
+        "": "<p>Safe to upgrade<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/bangla-font\/assets\/screenshot-1.png?rev=3044466",
+            "caption": "Sample of font applied"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/bangla-font\/assets\/screenshot-2.png?rev=3044466",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "bangla-font": "Bangla Font",
+        "bangla-font-for-wordpress": "Bangla Font for wordpress",
+        "bangla-font-plugin": "bangla font plugin",
+        "solaimanlipi": "SolaimanLipi",
+        "solaimanlipi-font": "solaimanlipi font"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/web.facebook.com\/themeforen",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/bangla-font\/assets\/banner-772x250.png?rev=3044515",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/bangla-font\/assets\/icon-256x256.png?rev=3044515",
+        "2x": "https:\/\/ps.w.org\/bangla-font\/assets\/icon-256x256.png?rev=3044515"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

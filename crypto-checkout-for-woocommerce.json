@@ -1,0 +1,149 @@
+{
+    "name": "Crypto Checkout for Woocommerce",
+    "slug": "crypto-checkout-for-woocommerce",
+    "version": "1.2.1",
+    "author": "<a href=\"https:\/\/cryptocheckout.co\">Cryptocheckout.co<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/heroo\/",
+    "contributors": {
+        "heroo": {
+            "profile": "https:\/\/profiles.wordpress.org\/heroo\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/5fdaa05a09fd88eb563eb497692f6b47?s=96&d=monsterid&r=g",
+            "display_name": "Soufiane"
+        }
+    },
+    "requires": "5.6",
+    "tested": "6.5.2",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/crypto-checkout-for-woocommerce\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 191,
+    "last_updated": "2024-04-07 12:22am GMT",
+    "added": "2024-03-07",
+    "homepage": "https:\/\/cryptocheckout.co\/",
+    "sections": {
+        "description": "<p>Secure Simple Decentralized crypto payments gateway.<br \/>\nThis plugin is relying on a 3rd party CryptoCheckout (crypto payment processor) as a service<\/p>\n<ul>Features:<\/p>\n<li>Start in seconds: use your private crypto addresses, generate merchant ID in one click\/tap, no signup required, no ID verification required<\/li>\n<li>Universal: target any client who has crypto wallet not only clients on such platform<\/li>\n<li>Decentralized: no private keys\/mnemonic phrases required\/shared with us<\/li>\n<li>Sales notifications: includes amount, currency &amp; payer address<\/li>\n<li>Setup isolated prices: if you don&#8217;t need to follow the market prices, so no need to update the prices of all the products<\/li>\n<\/ul>\n<p>Crypto currencies supported are: USDT(BEP20), BTC, ETH, SOL, AVAX, ADA, DOT, XTZ, XMR.<br \/>\nLanguages supported: ar, bn, zh, cs, en, da, nl, fr, de, he, hi, id, it, ja, ko, pl, pt, ru, sv, es, tr, uk, vi (ISO 639\u20111).<\/p>\n<ul>Fees: there are two plans (unique flat fee), there are no fee per transaction\/sale:<\/p>\n<li>Free: 0.00$ 5 transactions\/month\n<\/li>\n<li>Paid: 2.00$ Unlimited transactions\/month\n<\/li>\n<\/ul>\n<p>Live preview: <a href=\"https:\/\/myawesome.shop\/wp\/checkout\" rel=\"nofollow ugc\">https:\/\/myawesome.shop\/wp\/checkout<\/a><br \/>\nImportant: This version works only with latest WooCommerce releases (blocks checkout).<br \/>\nCryptoCheckout homepage: <a href=\"https:\/\/cryptocheckout.co\" rel=\"nofollow ugc\">https:\/\/cryptocheckout.co<\/a><br \/>\nHow it&#8217;s secure: <a href=\"https:\/\/cryptocheckout.co\/how-it's-secure\" rel=\"nofollow ugc\">https:\/\/cryptocheckout.co\/how-it&#8217;s-secure<\/a><br \/>\nTerms: <a href=\"https:\/\/cryptocheckout.co\/terms\" rel=\"nofollow ugc\">https:\/\/cryptocheckout.co\/terms<\/a><br \/>\nPrivacy Policy: <a href=\"https:\/\/cryptocheckout.co\/privacy-policy\" rel=\"nofollow ugc\">https:\/\/cryptocheckout.co\/privacy-policy<\/a><br \/>\nChangelog: <a href=\"https:\/\/cryptocheckout.co\/changelog\" rel=\"nofollow ugc\">https:\/\/cryptocheckout.co\/changelog<\/a><br \/>\nAny issues contact: <a href=\"mailto:support@cryptocheckout.co\" rel=\"nofollow ugc\">support@cryptocheckout.co<\/a><\/p>\n",
+        "installation": "<ol>\n<li>Upload the plugin folder to your \/wp-content\/plugins\/ folder.<\/li>\n<li>Go to the <strong>Plugins<\/strong> page and activate the plugin.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='how%20do%20i%20use%20this%20plugin%3F'>\nHow do I use this plugin?\n<\/h4>\n<p>\n<p>You will need to create\/generate new wallet from our site (you will get addresses, mnemonic phrase &amp; ID)<br \/>\nPaste your id in the ID input form inside the woocommerce get payed crypto payment settings, the payment button will add automatically after enable the gateway\/payment method, the prices will set depending to you: market price or isolated<br \/>\nManage your wallet by paste the mnemonic phrase on trust wallet or any other wallet<\/p>\n<\/p>\n<dt id='how%20to%20uninstall%20the%20plugin%3F'>\nHow to uninstall the plugin?\n<\/h4>\n<p>\n<p>Simply deactivate and delete the plugin.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.0 (2023-06-02)<\/h4>\n<ul>\n<li>Plugin released. <\/li>\n<\/ul>\n<h4>1.0.1 (2023-06-19)<\/h4>\n<ul>\n<li>Fix stuck\/block\/ when activating without Woocommerce is activated<\/li>\n<li>Update plugin options, prices menu drop down instead checkbox<\/li>\n<\/ul>\n<h4>1.0.3 (2023-09-07)<\/h4>\n<ul>\n<li>Fix admin notices<\/li>\n<li>Add default values of language (en) &amp; prices (market)<\/li>\n<\/ul>\n<h4>1.0.5 (2023-10-14)<\/h4>\n<ul>\n<li>Enhance transaction validation, the issue before the fix is the rate may change at the moment of validating the transaction that cause failing, but now we&#8217;ve attache the rate at the moment when the user pay to the transaction object, so the problem goes away<\/li>\n<\/ul>\n<h4>1.0.6 (2024-01-10)<\/h4>\n<ul>\n<li>Update links after moving from getpaidcrypto.online to cryptocheckout.co<\/li>\n<\/ul>\n<h4>1.0.7 (2024-01-11)<\/h4>\n<ul>\n<li>Update the code to comply with php8.3<\/li>\n<\/ul>\n<h4>1.0.9 (2024-01-29)<\/h4>\n<ul>\n<li>Add WooCommerce blocks checkout support<\/li>\n<\/ul>\n<h4>1.1.0 (2024-01-30)<\/h4>\n<ul>\n<li>Add USDT Binance Smart Chain support<\/li>\n<\/ul>\n<h4>1.1.1 (2024-01-30)<\/h4>\n<ul>\n<li>Fixes &amp; enhacements<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-1.jpg?rev=3062262\"><img src=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-1.jpg?rev=3062262\" alt=\"Crypto checkout as a payment method.\"><\/a><p>Crypto checkout as a payment method.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-2.jpg?rev=3062262\"><img src=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-2.jpg?rev=3062262\" alt=\"Pay Now button.\"><\/a><p>Pay Now button.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-3.jpg?rev=3062262\"><img src=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-3.jpg?rev=3062262\" alt=\"Selecting the desired currency.\"><\/a><p>Selecting the desired currency.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-4.jpg?rev=3062262\"><img src=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-4.jpg?rev=3062262\" alt=\"Collecting the user address, it&#039;s used for confirmation process (We ignore other\/side confirmations from other locations comes from hackers that listen to the merchant address).\"><\/a><p>Collecting the user address, it's used for confirmation process (We ignore other\/side confirmations from other locations comes from hackers that listen to the merchant address).<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-5.jpg?rev=3062262\"><img src=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-5.jpg?rev=3062262\" alt=\"QR &amp; the merchant address.\"><\/a><p>QR &amp; the merchant address.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-6.jpg?rev=3062262\"><img src=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-6.jpg?rev=3062262\" alt=\"Copy address clicked.\"><\/a><p>Copy address clicked.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-7.jpg?rev=3062262\"><img src=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-7.jpg?rev=3062262\" alt=\"Validating transaction using crypto explorers.\"><\/a><p>Validating transaction using crypto explorers.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-8.png?rev=3047440\"><img src=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-8.png?rev=3047440\" alt=\"Admin dashboard (listed on the woo&#039;s payment methods).\"><\/a><p>Admin dashboard (listed on the woo's payment methods).<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-9.png?rev=3047440\"><img src=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-9.png?rev=3047440\" alt=\"Admin dashboard (options main page).\"><\/a><p>Admin dashboard (options main page).<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-10.png?rev=3047440\"><img src=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-10.png?rev=3047440\" alt=\"Admin dashboard (suite of options).\"><\/a><p>Admin dashboard (suite of options).<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-11.png?rev=3047440\"><img src=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-11.png?rev=3047440\" alt=\"Admin dashboard (market prices).\"><\/a><p>Admin dashboard (market prices).<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-12.png?rev=3047440\"><img src=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-12.png?rev=3047440\" alt=\"Admin dashboard (isolated prices).\"><\/a><p>Admin dashboard (isolated prices).<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-13.png?rev=3047440\"><img src=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-13.png?rev=3047440\" alt=\"Admin dashboard (isolated prices, setup values).\"><\/a><p>Admin dashboard (isolated prices, setup values).<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-14.png?rev=3047440\"><img src=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-14.png?rev=3047440\" alt=\"Admin dashboard (isolated prices, setup values).\"><\/a><p>Admin dashboard (isolated prices, setup values).<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-15.png?rev=3047440\"><img src=\"https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-15.png?rev=3047440\" alt=\"Admin dashboard (isolated prices, setup values).\"><\/a><p>Admin dashboard (isolated prices, setup values).<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Secure, simple, decentralized plugin compatible with the latest WooCommerce Blocks Checkout experience.",
+    "description": "<p>Secure Simple Decentralized crypto payments gateway.<br \/>\nThis plugin is relying on a 3rd party CryptoCheckout (crypto payment processor) as a service<\/p>\n<ul>Features:<\/p>\n<li>Start in seconds: use your private crypto addresses, generate merchant ID in one click\/tap, no signup required, no ID verification required<\/li>\n<li>Universal: target any client who has crypto wallet not only clients on such platform<\/li>\n<li>Decentralized: no private keys\/mnemonic phrases required\/shared with us<\/li>\n<li>Sales notifications: includes amount, currency &amp; payer address<\/li>\n<li>Setup isolated prices: if you don&#8217;t need to follow the market prices, so no need to update the prices of all the products<\/li>\n<\/ul>\n<p>Crypto currencies supported are: USDT(BEP20), BTC, ETH, SOL, AVAX, ADA, DOT, XTZ, XMR.<br \/>\nLanguages supported: ar, bn, zh, cs, en, da, nl, fr, de, he, hi, id, it, ja, ko, pl, pt, ru, sv, es, tr, uk, vi (ISO 639\u20111).<\/p>\n<ul>Fees: there are two plans (unique flat fee), there are no fee per transaction\/sale:<\/p>\n<li>Free: 0.00$ 5 transactions\/month\n<\/li>\n<li>Paid: 2.00$ Unlimited transactions\/month\n<\/li>\n<\/ul>\n<p>Live preview: <a href=\"https:\/\/myawesome.shop\/wp\/checkout\" rel=\"nofollow ugc\">https:\/\/myawesome.shop\/wp\/checkout<\/a><br \/>\nImportant: This version works only with latest WooCommerce releases (blocks checkout).<br \/>\nCryptoCheckout homepage: <a href=\"https:\/\/cryptocheckout.co\" rel=\"nofollow ugc\">https:\/\/cryptocheckout.co<\/a><br \/>\nHow it&#8217;s secure: <a href=\"https:\/\/cryptocheckout.co\/how-it's-secure\" rel=\"nofollow ugc\">https:\/\/cryptocheckout.co\/how-it&#8217;s-secure<\/a><br \/>\nTerms: <a href=\"https:\/\/cryptocheckout.co\/terms\" rel=\"nofollow ugc\">https:\/\/cryptocheckout.co\/terms<\/a><br \/>\nPrivacy Policy: <a href=\"https:\/\/cryptocheckout.co\/privacy-policy\" rel=\"nofollow ugc\">https:\/\/cryptocheckout.co\/privacy-policy<\/a><br \/>\nChangelog: <a href=\"https:\/\/cryptocheckout.co\/changelog\" rel=\"nofollow ugc\">https:\/\/cryptocheckout.co\/changelog<\/a><br \/>\nAny issues contact: <a href=\"mailto:support@cryptocheckout.co\" rel=\"nofollow ugc\">support@cryptocheckout.co<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/crypto-checkout-for-woocommerce.1.2.1.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-1.jpg?rev=3062262",
+            "caption": "Crypto checkout as a payment method."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-2.jpg?rev=3062262",
+            "caption": "Pay Now button."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-3.jpg?rev=3062262",
+            "caption": "Selecting the desired currency."
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-4.jpg?rev=3062262",
+            "caption": "Collecting the user address, it's used for confirmation process (We ignore other\/side confirmations from other locations comes from hackers that listen to the merchant address)."
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-5.jpg?rev=3062262",
+            "caption": "QR &amp; the merchant address."
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-6.jpg?rev=3062262",
+            "caption": "Copy address clicked."
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-7.jpg?rev=3062262",
+            "caption": "Validating transaction using crypto explorers."
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-8.png?rev=3047440",
+            "caption": "Admin dashboard (listed on the woo's payment methods)."
+        },
+        "9": {
+            "src": "https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-9.png?rev=3047440",
+            "caption": "Admin dashboard (options main page)."
+        },
+        "10": {
+            "src": "https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-10.png?rev=3047440",
+            "caption": "Admin dashboard (suite of options)."
+        },
+        "11": {
+            "src": "https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-11.png?rev=3047440",
+            "caption": "Admin dashboard (market prices)."
+        },
+        "12": {
+            "src": "https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-12.png?rev=3047440",
+            "caption": "Admin dashboard (isolated prices)."
+        },
+        "13": {
+            "src": "https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-13.png?rev=3047440",
+            "caption": "Admin dashboard (isolated prices, setup values)."
+        },
+        "14": {
+            "src": "https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-14.png?rev=3047440",
+            "caption": "Admin dashboard (isolated prices, setup values)."
+        },
+        "15": {
+            "src": "https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/screenshot-15.png?rev=3047440",
+            "caption": "Admin dashboard (isolated prices, setup values)."
+        }
+    },
+    "tags": {
+        "payment": "payment",
+        "payment-gateway": "payment gateway",
+        "payments": "payments",
+        "usdt": "USDT",
+        "woocommerce": "woocommerce"
+    },
+    "stable_tag": "1.2.1",
+    "versions": {
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/crypto-checkout-for-woocommerce.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/crypto-checkout-for-woocommerce.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/crypto-checkout-for-woocommerce.1.0.4.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/crypto-checkout-for-woocommerce.1.0.5.zip",
+        "1.0.9": "https:\/\/downloads.wordpress.org\/plugin\/crypto-checkout-for-woocommerce.1.0.9.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/crypto-checkout-for-woocommerce.1.1.0.zip",
+        "1.1.1": "https:\/\/downloads.wordpress.org\/plugin\/crypto-checkout-for-woocommerce.1.1.1.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/crypto-checkout-for-woocommerce.1.2.0.zip",
+        "1.2.1": "https:\/\/downloads.wordpress.org\/plugin\/crypto-checkout-for-woocommerce.1.2.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/crypto-checkout-for-woocommerce.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/banner-772x250.png?rev=3047440",
+        "high": "https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/banner-1544x500.png?rev=3047440"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/icon-128x128.png?rev=3047440",
+        "2x": "https:\/\/ps.w.org\/crypto-checkout-for-woocommerce\/assets\/icon-256x256.png?rev=3047440"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

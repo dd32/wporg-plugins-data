@@ -1,0 +1,1421 @@
+{
+    "name": "WooCommerce",
+    "slug": "woocommerce",
+    "version": "8.7.0",
+    "author": "<a href=\"https:\/\/woo.com\">Automattic<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/woothemes\/",
+    "contributors": {
+        "automattic": {
+            "profile": "https:\/\/profiles.wordpress.org\/automattic\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/687b3bf96c41800814e3b93766444283?s=96&d=monsterid&r=g",
+            "display_name": "Automattic"
+        },
+        "woocommerce": {
+            "profile": "https:\/\/profiles.wordpress.org\/woocommerce\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/f3c6ec4fe984504efa75aa4ba51e06cc?s=96&d=monsterid&r=g",
+            "display_name": "WooCommerce"
+        },
+        "mikejolley": {
+            "profile": "https:\/\/profiles.wordpress.org\/mikejolley\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/9b87f99f47e30735e1136c5141531fdf?s=96&d=monsterid&r=g",
+            "display_name": "Mike Jolley (a11n)"
+        },
+        "jameskoster": {
+            "profile": "https:\/\/profiles.wordpress.org\/jameskoster\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/19a6a101c57df54bc1c40adcfba785d8?s=96&d=monsterid&r=g",
+            "display_name": "James Koster"
+        },
+        "claudiosanches": {
+            "profile": "https:\/\/profiles.wordpress.org\/claudiosanches\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/908480753c07509e76322dc17d305c8b?s=96&d=monsterid&r=g",
+            "display_name": "Claudio Sanches"
+        },
+        "rodrigosprimo": {
+            "profile": "https:\/\/profiles.wordpress.org\/rodrigosprimo\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/f2271ae6814a29d8cbf38ae2d0305a72?s=96&d=monsterid&r=g",
+            "display_name": "Rodrigo Primo"
+        },
+        "peterfabian1000": {
+            "profile": "https:\/\/profiles.wordpress.org\/peterfabian1000\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/be249b86dddbf495565a36196625d77a?s=96&d=monsterid&r=g",
+            "display_name": "Peter Fabian"
+        },
+        "vedjain": {
+            "profile": "https:\/\/profiles.wordpress.org\/vedjain\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/7a640eb2847d9a0a0d5e6af385e21881?s=96&d=monsterid&r=g",
+            "display_name": "Vedanshu Jain"
+        },
+        "jamosova": {
+            "profile": "https:\/\/profiles.wordpress.org\/jamosova\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/eb515897a71b0df82ccd2788548588c4?s=96&d=monsterid&r=g",
+            "display_name": "Julia Amosova"
+        },
+        "obliviousharmony": {
+            "profile": "https:\/\/profiles.wordpress.org\/obliviousharmony\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/185f31c1e5af65fee78506769ca13276?s=96&d=monsterid&r=g",
+            "display_name": "obliviousharmony"
+        },
+        "konamiman": {
+            "profile": "https:\/\/profiles.wordpress.org\/konamiman\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/6f89064cf77f281c903ade9911b347b5?s=96&d=monsterid&r=g",
+            "display_name": "konamiman"
+        },
+        "sadowski": {
+            "profile": "https:\/\/profiles.wordpress.org\/sadowski\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/766381c51d7072d1f48ee8878e2ce3af?s=96&d=monsterid&r=g",
+            "display_name": "sadowski"
+        },
+        "wpmuguru": {
+            "profile": "https:\/\/profiles.wordpress.org\/wpmuguru\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/7b8ff059b9a4504dfbaebd4dd190466e?s=96&d=monsterid&r=g",
+            "display_name": "Ron Rennick"
+        },
+        "royho": {
+            "profile": "https:\/\/profiles.wordpress.org\/royho\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/715b4097a10f874f8681b15608687f83?s=96&d=monsterid&r=g",
+            "display_name": "royho"
+        },
+        "barryhughes-1": {
+            "profile": "https:\/\/profiles.wordpress.org\/barryhughes-1\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/4d7aea8e7879e3ea257ddb4a99a300f1?s=96&d=monsterid&r=g",
+            "display_name": "Barry"
+        },
+        "claudiulodro": {
+            "profile": "https:\/\/profiles.wordpress.org\/claudiulodro\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/ef37f6ac5bb6d898709078c843699fa8?s=96&d=monsterid&r=g",
+            "display_name": "Claudiu Lodromanean"
+        },
+        "tiagonoronha": {
+            "profile": "https:\/\/profiles.wordpress.org\/tiagonoronha\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/de4488154c03a4bb7a0197eaaddbfd3d?s=96&d=monsterid&r=g",
+            "display_name": "Tiago Noronha"
+        },
+        "ryelle": {
+            "profile": "https:\/\/profiles.wordpress.org\/ryelle\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/ca5ab31df7108a28998792f75bb1d7d1?s=96&d=monsterid&r=g",
+            "display_name": "Kelly Choyce-Dwan"
+        },
+        "levinmedia": {
+            "profile": "https:\/\/profiles.wordpress.org\/levinmedia\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/40511bf4877318776a0d1bcfaa95f57a?s=96&d=monsterid&r=g",
+            "display_name": "levinmedia"
+        },
+        "aljullu": {
+            "profile": "https:\/\/profiles.wordpress.org\/aljullu\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/c0faac1ed3a278b78d4cc54555011a00?s=96&d=monsterid&r=g",
+            "display_name": "Albert Juh\u00e9 Lluveras"
+        },
+        "nerrad": {
+            "profile": "https:\/\/profiles.wordpress.org\/nerrad\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/82c44d1ed35aec5d4a7252da502eb04b?s=96&d=monsterid&r=g",
+            "display_name": "Darren Ethier (nerrad)"
+        },
+        "joshuawold": {
+            "profile": "https:\/\/profiles.wordpress.org\/joshuawold\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/78f0d973775bae2efe33199b84682818?s=96&d=monsterid&r=g",
+            "display_name": "Joshua Wold"
+        },
+        "assassinateur": {
+            "profile": "https:\/\/profiles.wordpress.org\/assassinateur\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/123fd4de078afed33253db23c740b7f9?s=96&d=monsterid&r=g",
+            "display_name": "Nadir Seghir"
+        },
+        "haszari": {
+            "profile": "https:\/\/profiles.wordpress.org\/haszari\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2770b107404b421d75483443454357d6?s=96&d=monsterid&r=g",
+            "display_name": "Rua Haszard"
+        },
+        "mppfeiffer": {
+            "profile": "https:\/\/profiles.wordpress.org\/mppfeiffer\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/8a71536ecdb56815f4a6d7f090f9a1d6?s=96&d=monsterid&r=g",
+            "display_name": "Michael P. Pfeiffer"
+        },
+        "nielslange": {
+            "profile": "https:\/\/profiles.wordpress.org\/nielslange\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/0eb4d4cb15c2538a435c4ef2f300f98c?s=96&d=monsterid&r=g",
+            "display_name": "Niels Lange"
+        },
+        "ralucastn": {
+            "profile": "https:\/\/profiles.wordpress.org\/ralucastn\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/ab46081c522a76d8ded00afe35709fce?s=96&d=monsterid&r=g",
+            "display_name": "ralucastn"
+        },
+        "tjcafferkey": {
+            "profile": "https:\/\/profiles.wordpress.org\/tjcafferkey\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/afb82270d62c2e15e93cd67266cbd05b?s=96&d=monsterid&r=g",
+            "display_name": "tjcafferkey"
+        },
+        "danielwrobert": {
+            "profile": "https:\/\/profiles.wordpress.org\/danielwrobert\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/8be94139fba3931699d23861915de7ad?s=96&d=monsterid&r=g",
+            "display_name": "danielwrobert"
+        },
+        "patriciahillebrandt": {
+            "profile": "https:\/\/profiles.wordpress.org\/patriciahillebrandt\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/754f035dc61fdb1ee0c421d0dd9b6548?s=96&d=monsterid&r=g",
+            "display_name": "patriciahillebrandt"
+        },
+        "albarin": {
+            "profile": "https:\/\/profiles.wordpress.org\/albarin\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/ebd9116182de32acff7c937e63a334ca?s=96&d=monsterid&r=g",
+            "display_name": "albarin"
+        },
+        "dinhtungdu": {
+            "profile": "https:\/\/profiles.wordpress.org\/dinhtungdu\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/256a636b71ef62a4a25b675e7df193cb?s=96&d=monsterid&r=g",
+            "display_name": "Tung Du"
+        },
+        "imanish003": {
+            "profile": "https:\/\/profiles.wordpress.org\/imanish003\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/07ad3b84edb8ad248f32865259e93f76?s=96&d=monsterid&r=g",
+            "display_name": "imanish003"
+        },
+        "karolmanijak": {
+            "profile": "https:\/\/profiles.wordpress.org\/karolmanijak\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/baa4e8535d51ead12d13f4f9b4635941?s=96&d=monsterid&r=g",
+            "display_name": "Karol Manijak"
+        },
+        "sunyatasattva": {
+            "profile": "https:\/\/profiles.wordpress.org\/sunyatasattva\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3812e0fa65aaf3301b4b7831adb34116?s=96&d=monsterid&r=g",
+            "display_name": "sunyatasattva (a11n)"
+        },
+        "alexandrelara": {
+            "profile": "https:\/\/profiles.wordpress.org\/alexandrelara\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/0bb01184012ef3dcea27d39f608efbc8?s=96&d=monsterid&r=g",
+            "display_name": "Alexandre Lara"
+        },
+        "gigitux": {
+            "profile": "https:\/\/profiles.wordpress.org\/gigitux\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/14b4ac105ab488143e3054b0f19b0f45?s=96&d=monsterid&r=g",
+            "display_name": "Luigi"
+        },
+        "danieldudzic": {
+            "profile": "https:\/\/profiles.wordpress.org\/danieldudzic\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/ac71ae93eb8b7b125e9e8456a215a2f3?s=96&d=monsterid&r=g",
+            "display_name": "danieldudzic"
+        },
+        "samueljseay": {
+            "profile": "https:\/\/profiles.wordpress.org\/samueljseay\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/0e0c7d17bef89462fcad9e26d52698eb?s=96&d=monsterid&r=g",
+            "display_name": "Sam"
+        },
+        "alexflorisca": {
+            "profile": "https:\/\/profiles.wordpress.org\/alexflorisca\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/59637462ac8fbc0127f06e1720fd9da9?s=96&d=monsterid&r=g",
+            "display_name": "alexflorisca"
+        },
+        "opr18": {
+            "profile": "https:\/\/profiles.wordpress.org\/opr18\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/d05a54809270fd5369e3a78965aff28e?s=96&d=monsterid&r=g",
+            "display_name": "opr18"
+        },
+        "tarunvijwani": {
+            "profile": "https:\/\/profiles.wordpress.org\/tarunvijwani\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/e344f1eee54077e4e573282dd8aefbdf?s=96&d=monsterid&r=g",
+            "display_name": "tarunvijwani"
+        },
+        "pauloarromba": {
+            "profile": "https:\/\/profiles.wordpress.org\/pauloarromba\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/fdebebd87b97260b706c1170326042f5?s=96&d=monsterid&r=g",
+            "display_name": "Paulo Arromba"
+        },
+        "saadtarhi": {
+            "profile": "https:\/\/profiles.wordpress.org\/saadtarhi\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/8ecbf20755aea99f876f5e1f1cf29537?s=96&d=monsterid&r=g",
+            "display_name": "Saad T."
+        },
+        "bor0": {
+            "profile": "https:\/\/profiles.wordpress.org\/bor0\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/bdf960f676361ad8583435b91d88f9e4?s=96&d=monsterid&r=g",
+            "display_name": "Boro Sitnikovski"
+        },
+        "kloon": {
+            "profile": "https:\/\/profiles.wordpress.org\/kloon\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/0ca73c5a054774e42732997af3cd8b53?s=96&d=monsterid&r=g",
+            "display_name": "Gerhard Potgieter"
+        },
+        "coreymckrill": {
+            "profile": "https:\/\/profiles.wordpress.org\/coreymckrill\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3ae68dc337436ff11f96e370ec4b8276?s=96&d=monsterid&r=g",
+            "display_name": "Corey McKrill"
+        },
+        "jorgeatorres": {
+            "profile": "https:\/\/profiles.wordpress.org\/jorgeatorres\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3e4f939e694f5a7068a799f464fa4234?s=96&d=monsterid&r=g",
+            "display_name": "Jorge A. Torres"
+        },
+        "leifsinger": {
+            "profile": "https:\/\/profiles.wordpress.org\/leifsinger\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2e936c01386eb16a680e41fda6a7b4aa?s=96&d=monsterid&r=g",
+            "display_name": "Leif Singer"
+        }
+    },
+    "requires": "6.3",
+    "tested": "6.4.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 90,
+    "ratings": {
+        "5": 3529,
+        "4": 174,
+        "3": 97,
+        "2": 97,
+        "1": 378
+    },
+    "num_ratings": 4275,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/woocommerce\/",
+    "support_threads": 1524,
+    "support_threads_resolved": 1183,
+    "active_installs": 5000000,
+    "downloaded": 300895549,
+    "last_updated": "2024-03-19 2:51pm GMT",
+    "added": "2011-09-27",
+    "homepage": "https:\/\/woo.com\/",
+    "sections": {
+        "description": "<p><a href=\"https:\/\/woo.com\/woocommerce\/\" rel=\"nofollow ugc\">WooCommerce<\/a> is the open-source ecommerce platform for WordPress.<\/p>\n<p>Our core platform is free, flexible, and amplified by a global community. The freedom of open-source means you retain full ownership of your store\u2019s content and data forever.<\/p>\n<p>Whether you\u2019re launching a business, taking brick-and-mortar retail online, or developing sites for clients, use WooCommerce for a store that powerfully blends content and commerce.<\/p>\n<ul>\n<li><strong>Create beautiful, enticing storefronts<\/strong> with <a href=\"https:\/\/woo.com\/product-category\/themes\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">themes<\/a> suited to your brand and industry.<\/li>\n<li><strong>Increase revenue<\/strong> with an optimized <a href=\"https:\/\/woo.com\/checkout-blocks\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">shopping cart experience<\/a> that converts.<\/li>\n<li><strong>Customize product pages in minutes<\/strong> using modular <a href=\"https:\/\/woo.com\/document\/woocommerce-blocks\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">product blocks<\/a>.<\/li>\n<li>Showcase physical and digital goods, product variations, custom configurations, instant downloads, and affiliate items.<\/li>\n<li>Sell <a href=\"https:\/\/woo.com\/products\/woocommerce-subscriptions\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">subscriptions<\/a>, <a href=\"https:\/\/woo.com\/products\/woocommerce-bookings\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">bookings<\/a>, or <a href=\"https:\/\/woo.com\/products\/woocommerce-memberships\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">memberships<\/a>, with our developer-vetted extensions.<\/li>\n<li><strong>Rise to the top of search results<\/strong> by leveraging <a href=\"https:\/\/www.searchenginejournal.com\/wordpress-best-cms-seo\/\" rel=\"nofollow ugc\">WordPress\u2019 SEO advantage<\/a>.<\/li>\n<li><strong>Build on a platform that scales.<\/strong> Get flexible ecommerce for <a href=\"https:\/\/woo.com\/high-volume-stores\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">high-volume stores<\/a>.<\/li>\n<\/ul>\n<h4>ALL THE TOOLS YOU NEED TO SELL<\/h4>\n<p>Built-in tools and popular integrations help you efficiently manage your business operations. Many services are free to add with a single click via the optional <a href=\"https:\/\/woo.com\/document\/woocommerce-setup-wizard\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Setup Wizard<\/a>.<\/p>\n<ul>\n<li><strong>Choose how you want to get paid<\/strong>. Conveniently manage payments from the comfort of your store with <a href=\"https:\/\/woo.com\/payments\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">WooPayments<\/a> (Available in the U.S., U.K., Ireland, Australia, New Zealand, Canada, Spain, France, Germany, and Italy). Securely accept credit cards, mobile wallets, bank transfers, and cash thanks to <a href=\"https:\/\/woo.com\/product-category\/woocommerce-extensions\/payment-gateways\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">100+ payment gateways<\/a> \u2013 including <a href=\"https:\/\/woo.com\/products\/stripe\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Stripe<\/a>, <a href=\"https:\/\/woo.com\/products\/woocommerce-gateway-paypal-checkout\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">PayPal<\/a>, and <a href=\"https:\/\/woo.com\/products\/square\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Square<\/a>.<\/li>\n<li><strong>Configure your shipping options<\/strong>. Print USPS labels right from your dashboard and even schedule a pickup with <a href=\"https:\/\/woo.com\/products\/shipping\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">WooCommerce Shipping<\/a> (U.S.-only). Connect with <a href=\"https:\/\/woo.com\/product-category\/woocommerce-extensions\/shipping-methods\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">well-known carriers<\/a> such as UPS and FedEx \u2013 plus a wide variety of delivery, inventory, and fulfillment solutions for your locale.<\/li>\n<li><strong>Simplify sales tax<\/strong>. Add <a href=\"https:\/\/woo.com\/products\/tax\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">WooCommerce Tax<\/a> or <a href=\"https:\/\/woo.com\/product-category\/woocommerce-extensions\/tax?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">similar integrated services<\/a> to make automated calculations a reality.<\/li>\n<\/ul>\n<h4>Grow your business, add features, and monitor your store on the go<\/h4>\n<p>WooCommerce means business. Keep tabs on the performance metrics most important to you with <a href=\"https:\/\/wordpress.org\/plugins\/woocommerce-admin\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"ugc\">WooCommerce Admin<\/a> \u2013 a powerful, customizable central dashboard for your store.<\/p>\n<p>Expand your audience across marketing and social channels with <a href=\"https:\/\/woo.com\/products\/google-ads\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Google Ads<\/a>, <a href=\"https:\/\/woo.com\/products\/hubspot-for-woocommerce\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">HubSpot<\/a>, <a href=\"https:\/\/woo.com\/products\/mailchimp-for-woocommerce\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Mailchimp<\/a>, and <a href=\"https:\/\/woo.com\/products\/facebook\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Facebook<\/a> integrations. You can always check out the in-dashboard <a href=\"https:\/\/woo.com\/document\/marketing-hub\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Marketing Hub<\/a> for fresh ideas and tips to help you succeed.<\/p>\n<p>Enhance store functionality with hundreds of free and paid extensions from the <a href=\"https:\/\/woo.com\/products\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">official WooCommerce Marketplace<\/a>. Our developers <a href=\"https:\/\/woo.com\/document\/marketplace-overview\/#section-6?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">vet each new extension<\/a> and regularly review existing extensions to maintain Marketplace quality standards. We are actively <a href=\"https:\/\/woo.com\/document\/marketplace-overview\/#section-2?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">looking for products that help store builders create successful stores<\/a>.<\/p>\n<p>Manage your store from anywhere with the free WooCommerce <a href=\"https:\/\/woo.com\/mobile\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">mobile app<\/a> (Android and iOS). Spoiler alert: Keep an ear out for the slightly addictive &#8220;cha-ching&#8221; notification sound each time you make a new sale!<\/p>\n<h4>Own and control your store data \u2013 forever<\/h4>\n<p>With <a href=\"https:\/\/woo.com\/woocommerce\/\" rel=\"nofollow ugc\">WooCommerce<\/a>, your data belongs to you. Always.<\/p>\n<p>If you opt to share <a href=\"https:\/\/woo.com\/usage-tracking\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">usage data<\/a> with us, you can feel confident knowing that it\u2019s anonymized and kept secure. Choose to opt-out at any time without impacting your store.<\/p>\n<p>Unlike hosted ecommerce solutions, WooCommerce store data is future-proof; you\u2019re free to export all your content and take your site to any platform you choose. No restrictions.<\/p>\n<h4>Why developers choose (and love) WooCommerce<\/h4>\n<p>Developers can use <a href=\"https:\/\/woo.com\/woocommerce\/\" rel=\"nofollow ugc\">WooCommerce<\/a> to create, customize, and scale a store to meet a client\u2019s exact specifications, making enhancements through extensions or custom solutions.<\/p>\n<ul>\n<li>Leverage <a href=\"https:\/\/woo.com\/document\/introduction-to-hooks-actions-and-filters\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">hooks and filters<\/a> to modify or create functionality.<\/li>\n<li>Integrate virtually any service using a robust <a href=\"https:\/\/woo.com\/document\/woocommerce-rest-api\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">REST API<\/a> and webhooks.<\/li>\n<li>Design and build custom content blocks with React.<\/li>\n<li><a href=\"https:\/\/woo.com\/documentation\/plugins\/woocommerce\/woocommerce-codex\/extending\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Inspect and modify<\/a> any aspect of the core plugin code.<\/li>\n<li>Speed up development with a lightning-fast <a href=\"https:\/\/woocommerce.github.io\/code-reference\/classes\/wc-cli-rest-command.html?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">CLI<\/a>.<\/li>\n<\/ul>\n<p>The core platform is tested rigorously and often, supported by a dedicated development team working across time zones. Comprehensive documentation is updated with each release, empowering you to build exactly the store required.<\/p>\n<h4>Be part of our growing international community<\/h4>\n<p>WooCommerce has a large, passionate community dedicated to helping merchants succeed \u2013 and it\u2019s growing fast.<\/p>\n<p>There are <a href=\"https:\/\/woo.com\/meetups\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">WooCommerce Meetups<\/a> in locations around the world that you can attend for free and even get involved in running. These events are a great way to learn from others, share your expertise, and connect with like-minded folks.<\/p>\n<p>WooCommerce also has a regular presence at WordCamps across the globe \u2013 we\u2019d love to meet you.<\/p>\n<h4>Contribute and translate<\/h4>\n<p>WooCommerce is developed and supported by Automattic, the creators of WordPress.com and Jetpack. We also have hundreds of independent contributors, and there\u2019s always room for more. Head to the <a href=\"https:\/\/github.com\/woocommerce\/woocommerce?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">WooCommerce GitHub Repository<\/a> to find out how you can pitch in.<\/p>\n<p>WooCommerce is translated into multiple languages, including Danish, Ukrainian, and Persian. Help localize WooCommerce even further by adding your locale \u2013 visit <a href=\"https:\/\/translate.wordpress.org\/projects\/wp-plugins\/woocommerce\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">translate.wordpress.org<\/a>.<\/p>\n",
+        "installation": "<h4>Minimum Requirements<\/h4>\n<ul>\n<li>PHP 7.4 or greater is required (PHP 8.0 or greater is recommended)<\/li>\n<li>MySQL 5.6 or greater, OR MariaDB version 10.1 or greater, is required<\/li>\n<\/ul>\n<p>Visit the <a href=\"https:\/\/woo.com\/document\/server-requirements\/?utm_source=wp%20org%20repo%20listing&amp;utm_content=3.6\" rel=\"nofollow ugc\">WooCommerce server requirements documentation<\/a> for a detailed list of server requirements.<\/p>\n<h4>Automatic installation<\/h4>\n<p>Automatic installation is the easiest option &#8212; WordPress will handle the file transfer, and you won\u2019t need to leave your web browser. To do an automatic install of WooCommerce, log in to your WordPress dashboard, navigate to the Plugins menu, and click \u201cAdd New.\u201d<\/p>\n<p>In the search field type \u201cWooCommerce,\u201d then click \u201cSearch Plugins.\u201d Once you\u2019ve found us,  you can view details about it such as the point release, rating, and description. Most importantly of course, you can install it by! Click \u201cInstall Now,\u201d and WordPress will take it from there.<\/p>\n<h4>Manual installation<\/h4>\n<p>Manual installation method requires downloading the WooCommerce plugin and uploading it to your web server via your favorite FTP application. The WordPress codex contains <a href=\"https:\/\/wordpress.org\/support\/article\/managing-plugins\/#manual-plugin-installation\" rel=\"ugc\">instructions on how to do this here<\/a>.<\/p>\n<h4>Updating<\/h4>\n<p>Automatic updates should work smoothly, but we still recommend you back up your site.<\/p>\n<p>If you encounter issues with the shop\/category pages after an update, flush the permalinks by going to WordPress &gt; Settings &gt; Permalinks and hitting \u201cSave.\u201d That should return things to normal.<\/p>\n<h4>Sample data<\/h4>\n<p>WooCommerce comes with some sample data you can use to see how products look; import sample_products.xml via the <a href=\"https:\/\/wordpress.org\/plugins\/wordpress-importer\/\" rel=\"ugc\">WordPress importer<\/a>. You can also use the core <a href=\"https:\/\/woo.com\/document\/product-csv-importer-exporter\/?utm_source=wp%20org%20repo%20listing&amp;utm_content=3.6\" rel=\"nofollow ugc\">CSV importer<\/a> or our <a href=\"https:\/\/woo.com\/products\/product-csv-import-suite\/?utm_source=wp%20org%20repo%20listing&amp;utm_content=3.6\" rel=\"nofollow ugc\">CSV Import Suite extension<\/a> to import sample_products.csv<\/p>\n",
+        "faq": "\n<dt id='where%20can%20i%20find%20woocommerce%20documentation%20and%20user%20guides%3F'>\nWhere can I find WooCommerce documentation and user guides?\n<\/h4>\n<p>\n<p>For help setting up and configuring WooCommerce, please refer to <a href=\"https:\/\/woo.com\/documentation\/plugins\/woocommerce\/getting-started\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Getting Started<\/a> and the <a href=\"https:\/\/woo.com\/guides\/new-store\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">New WooCommerce Store Owner Guide<\/a>.<\/p>\n<p>For extending or theming WooCommerce, see our <a href=\"https:\/\/woo.com\/documentation\/plugins\/woocommerce\/woocommerce-codex\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">codex<\/a>, as well as the <a href=\"https:\/\/woo.com\/document\/create-a-plugin\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Plugin Developer Handbook<\/a>.<\/p>\n<\/p>\n<dt id='where%20can%20i%20get%20help%20or%20talk%20to%20other%20users%20about%20woocommerce%20core%3F'>\nWhere can I get help or talk to other users about WooCommerce Core?\n<\/h4>\n<p>\n<p>If you get stuck, you can ask for help in the <a href=\"https:\/\/wordpress.org\/support\/plugin\/woocommerce\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"ugc\">WooCommerce Support Forum<\/a> by following <a href=\"https:\/\/wordpress.org\/support\/topic\/guide-to-the-woocommerce-forum\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"ugc\">these guidelines<\/a>, reach out via the <a href=\"https:\/\/woo.com\/community-slack\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">WooCommerce Community Slack<\/a>, or post in the <a href=\"https:\/\/www.facebook.com\/groups\/advanced.woocommerce?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">WooCommerce Community group<\/a> on Facebook.<\/p>\n<\/p>\n<dt id='where%20can%20i%20get%20help%20for%20extensions%20i%20have%20purchased%20from%20the%20woocommerce%20marketplace%3F'>\nWhere can I get help for extensions I have purchased from the WooCommerce Marketplace?\n<\/h4>\n<p>\n<p>For assistance with paid extensions from the WooCommerce Marketplace: first, review our <a href=\"https:\/\/woo.com\/document\/woocommerce-self-service-guide\/\" rel=\"nofollow ugc\">self-service troubleshooting guide<\/a>. If the problem persists, kindly log a support ticket via <a href=\"https:\/\/woo.com\/my-account\/create-a-ticket\/\" rel=\"nofollow ugc\">our helpdesk<\/a>. Our dedicated Happiness Engineers aim to respond within 24 hours.<\/p>\n<\/p>\n<dt id='i%E2%80%99m%20having%20trouble%20logging%20in%20to%20woo.com%20%E2%80%93%20what%20now%3F'>\nI\u2019m having trouble logging in to Woo.com \u2013 what now?\n<\/h4>\n<p>\n<p>First, troubleshoot common login issues using this helpful <a href=\"https:\/\/woo.com\/document\/log-into-woocommerce-com-with-wordpress-com\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">step-by-step guide<\/a>. Still not working? <a href=\"https:\/\/woo.com\/contact-us\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Get in touch with us<\/a>.<\/p>\n<\/p>\n<dt id='will%20woocommerce%20work%20with%20my%20theme%3F'>\nWill WooCommerce work with my theme?\n<\/h4>\n<p>\n<p>Yes! WooCommerce will work with any theme but may require some additional styling. If you\u2019re looking for a theme featuring deep WooCommerce integration, we recommend <a href=\"https:\/\/woo.com\/storefront\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Storefront<\/a>.<\/p>\n<\/p>\n<dt id='how%20do%20i%20update%20woocommerce%3F'>\nHow do I update WooCommerce?\n<\/h4>\n<p>\n<p>We have a detailed guide on <a href=\"https:\/\/woo.com\/document\/how-to-update-woocommerce\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">How To Update WooCommerce<\/a>.<\/p>\n<\/p>\n<dt id='my%20site%20broke%20%E2%80%93%20what%20do%20i%20do%3F'>\nMy site broke \u2013 what do I do?\n<\/h4>\n<p>\n<p>Start by diagnosing the issue using our helpful <a href=\"https:\/\/woo.com\/documentation\/get-help\/troubleshooting-get-help\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">troubleshooting guide<\/a>.<\/p>\n<p>If you noticed the error after updating a theme or plugin, there might be compatibility issues between it and WooCommerce. If the issue appeared after updating WooCommerce, there could be a conflict between WooCommerce and an outdated theme or plugin.<\/p>\n<p>In both instances, we recommend running a conflict test using <a href=\"https:\/\/woo.com\/document\/troubleshooting-using-health-check\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Health Check<\/a> (which allows you to disable themes and plugins without affecting your visitors) or troubleshooting the issue using a <a href=\"https:\/\/woo.com\/document\/how-to-test-for-conflicts\/#section-3?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">staging site<\/a>.<\/p>\n<\/p>\n<dt id='where%20can%20i%20report%20bugs%3F'>\nWhere can I report bugs?\n<\/h4>\n<p>\n<p>Report bugs on the <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/issues?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">WooCommerce GitHub repository<\/a>. You can also notify us via our support forum \u2013 be sure to search the forums to confirm that the error has not already been reported.<\/p>\n<\/p>\n<dt id='where%20can%20i%20request%20new%20features%2C%20themes%2C%20and%20extensions%3F'>\nWhere can I request new features, themes, and extensions?\n<\/h4>\n<p>\n<p>Request new features and extensions and vote on existing suggestions on our official <a href=\"https:\/\/woo.com\/feature-requests\/woocommerce?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">feature request board<\/a>. Our Product teams regularly review requests and consider them valuable for product planning.<\/p>\n<\/p>\n<dt id='woocommerce%20is%20awesome%21%20can%20i%20contribute%3F'>\nWooCommerce is awesome! Can I contribute?\n<\/h4>\n<p>\n<p>Yes, you can! Join in on our <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">GitHub repository<\/a> and follow the <a href=\"https:\/\/woocommerce.wordpress.com\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">development blog<\/a> to stay up-to-date with everything happening in the project.<\/p>\n<\/p>\n<dt id='where%20can%20i%20find%20rest%20api%20documentation%3F'>\nWhere can I find REST API documentation?\n<\/h4>\n<p>\n<p>Extensive <a href=\"https:\/\/woocommerce.github.io\/woocommerce-rest-api-docs\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">WooCommerce REST API Documentation<\/a> is available on GitHub.<\/p>\n<\/p>\n<dt id='my%20question%20is%20not%20listed%20here.%20where%20can%20i%20find%20more%20answers%3F'>\nMy question is not listed here. Where can I find more answers?\n<\/h4>\n<p>\n<p>Check out <a href=\"https:\/\/woo.com\/document\/frequently-asked-questions\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Frequently Asked Questions<\/a> for more.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>8.7.0 2024-03-18<\/h4>\n<p><strong>WooCommerce<\/strong><\/p>\n<ul>\n<li>Fix &#8211; Product Editor pages do not pass global settings into Editor. Product Editor is responsible for loading settings itself. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/45490\" rel=\"nofollow ugc\">#45490<\/a><\/li>\n<li>Fix &#8211; Fix issue where no text would be displayed if no shipping methods are available in the cart\/checkout <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/45249\" rel=\"nofollow ugc\">#45249<\/a><\/li>\n<li>Fix &#8211; Products Stock Indicator and Sale Badge: prevent fatal when block were used in a homepage <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/45135\" rel=\"nofollow ugc\">#45135<\/a><\/li>\n<li>Fix &#8211; Fix LegacyProxy::get_instance_of throwing an error when trying to get an instance of a non-Woo namespaced class. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/45178\" rel=\"nofollow ugc\">#45178<\/a><\/li>\n<li>Fix &#8211; &#8220;Hero product chessboard&#8221; pattern: remove placeholder and update margins. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44553\" rel=\"nofollow ugc\">#44553<\/a><\/li>\n<li>Fix &#8211; Add checks and filters to the product_page shortcode. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44666\" rel=\"nofollow ugc\">#44666<\/a><\/li>\n<li>Fix &#8211; Adds a nonce check to the HPOS order sync tool. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44667\" rel=\"nofollow ugc\">#44667<\/a><\/li>\n<li>Fix &#8211; Avoid duplicate templates appearing on the Site Editor when the WooCommerce template and the theme template have been customized by the user <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44000\" rel=\"nofollow ugc\">#44000<\/a><\/li>\n<li>Fix &#8211; Core &#8211; CYS: fix fonts not loaded on the font picker iframes <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44586\" rel=\"nofollow ugc\">#44586<\/a><\/li>\n<li>Fix &#8211; Core &#8211; CYS: fix Inter font not applied. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44544\" rel=\"nofollow ugc\">#44544<\/a><\/li>\n<li>Fix &#8211; Corrects references for WC_API_Server. It was all uppercase. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/37054\" rel=\"nofollow ugc\">#37054<\/a><\/li>\n<li>Fix &#8211; CYS &#8211; Core: Ensure that the Bodoni font is loaded <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44464\" rel=\"nofollow ugc\">#44464<\/a><\/li>\n<li>Fix &#8211; CYS &#8211; Core: ensure that the the default font pair and color pair are selected. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44309\" rel=\"nofollow ugc\">#44309<\/a><\/li>\n<li>Fix &#8211; CYS &#8211; Core: fix fonts not loaded after the setup <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44550\" rel=\"nofollow ugc\">#44550<\/a><\/li>\n<li>Fix &#8211; CYS &#8211; Core: install fonts only when the tracking is enabled <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44558\" rel=\"nofollow ugc\">#44558<\/a><\/li>\n<li>Fix &#8211; CYS &#8211; Ensure the size of fonts is not affected by a font family change. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44424\" rel=\"nofollow ugc\">#44424<\/a><\/li>\n<li>Fix &#8211; CYS &#8211; Fix button typhography for the &#8220;Montserrat + Arvo&#8221; and &#8220;Commissioner + Crimson Pro&#8221; font pairings. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44458\" rel=\"nofollow ugc\">#44458<\/a><\/li>\n<li>Fix &#8211; CYS &#8211; Update pattern image to have a better resolution <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44611\" rel=\"nofollow ugc\">#44611<\/a><\/li>\n<li>Fix &#8211; Ensure a consistent border style is applied to combobox suggestions and the main input. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44183\" rel=\"nofollow ugc\">#44183<\/a><\/li>\n<li>Fix &#8211; Ensure all customers have a session when visiting the order pay page. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/43858\" rel=\"nofollow ugc\">#43858<\/a><\/li>\n<li>Fix &#8211; Ensure proper handling of product-related taxonomies in the Product Collection block <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44230\" rel=\"nofollow ugc\">#44230<\/a><\/li>\n<li>Fix &#8211; Ensure that no undefined index warnings are thrown while parsing the backtrace to determine a log&#8217;s source <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44486\" rel=\"nofollow ugc\">#44486<\/a><\/li>\n<li>Fix &#8211; Ensure WC admin functions are defined before attempting to add notices. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44114\" rel=\"nofollow ugc\">#44114<\/a><\/li>\n<li>Fix &#8211; Fix &#8211; Add back the parent machine to the <code>designWithNoAiStateMachineDefinition<\/code> child machine option. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44397\" rel=\"nofollow ugc\">#44397<\/a><\/li>\n<li>Fix &#8211; Fix a possible fatal exception setting a duplicate asset registry key <code>needsRefreshForInteractivityAPI<\/code> <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44808\" rel=\"nofollow ugc\">#44808<\/a><\/li>\n<li>Fix &#8211; Fix default shipping method selection after rate changes. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44117\" rel=\"nofollow ugc\">#44117<\/a><\/li>\n<li>Fix &#8211; Fix deprecation notices for legacy order item keys. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44362\" rel=\"nofollow ugc\">#44362<\/a><\/li>\n<li>Fix &#8211; Fixed a bug affecting registration during checkout that would prevent a new user from logging in. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/43777\" rel=\"nofollow ugc\">#43777<\/a><\/li>\n<li>Fix &#8211; Fixed a bug where express payment methods could not be removed from the wc\/store\/payment data store. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44633\" rel=\"nofollow ugc\">#44633<\/a><\/li>\n<li>Fix &#8211; Fixed coupon errors with coupon codes containing apostrophes. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/40998\" rel=\"nofollow ugc\">#40998<\/a><\/li>\n<li>Fix &#8211; fix fatal string to array conversion error in get_full_size_image_dimensions <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/40395\" rel=\"nofollow ugc\">#40395<\/a><\/li>\n<li>Fix &#8211; Fix for the dependency injection container resolution by tag <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44496\" rel=\"nofollow ugc\">#44496<\/a><\/li>\n<li>Fix &#8211; Fix orders being attributed to Web Admin incorrectly in certain cases. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44219\" rel=\"nofollow ugc\">#44219<\/a><\/li>\n<li>Fix &#8211; Fix overlay sizing issue with the Product Gallery Pop-Up. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44479\" rel=\"nofollow ugc\">#44479<\/a><\/li>\n<li>Fix &#8211; Fix pre-publish modal styles #44562 <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44562\" rel=\"nofollow ugc\">#44562<\/a><\/li>\n<li>Fix &#8211; Fix refund props not updating properly with HPOS <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44214\" rel=\"nofollow ugc\">#44214<\/a><\/li>\n<li>Fix &#8211; Fix regression (and inconsistency) in the way the session handler references its database table. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44517\" rel=\"nofollow ugc\">#44517<\/a><\/li>\n<li>Fix &#8211; Fix SVG markup in miniCartIcon <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44042\" rel=\"nofollow ugc\">#44042<\/a><\/li>\n<li>Fix &#8211; Fix the missing AI status when reloading the CYS transitional page. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44121\" rel=\"nofollow ugc\">#44121<\/a><\/li>\n<li>Fix &#8211; Fix the REST API controllers registration <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44833\" rel=\"nofollow ugc\">#44833<\/a><\/li>\n<li>Fix &#8211; Fix the Site Editor showing the template slug instead of the template title when saving a WooCommerce block template customized by the theme. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44254\" rel=\"nofollow ugc\">#44254<\/a><\/li>\n<li>Fix &#8211; Fix untranslated &#8220;Are you already selling somewhere else?&#8221; text in the product task <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44763\" rel=\"nofollow ugc\">#44763<\/a><\/li>\n<li>Fix &#8211; Focus return to the trigger element when closing the Product Gallery Pop-Up <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44414\" rel=\"nofollow ugc\">#44414<\/a><\/li>\n<li>Fix &#8211; HPOS: fix handling order meta containing nonexistent class when sync is on. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/43517\" rel=\"nofollow ugc\">#43517<\/a><\/li>\n<li>Fix &#8211; Prevent script caching by using the WC core version to hash Interactivity API assets instead of old WC Blocks version <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44806\" rel=\"nofollow ugc\">#44806<\/a><\/li>\n<li>Fix &#8211; Prevent <code>wc_get_chosen_shipping_method_ids<\/code> from causing fatal errors if chosen methods are not strings. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/43869\" rel=\"nofollow ugc\">#43869<\/a><\/li>\n<li>Fix &#8211; Product Collection: fix incorrect product data being displayed when Product Collection is placed in Single Product block <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44123\" rel=\"nofollow ugc\">#44123<\/a><\/li>\n<li>Fix &#8211; Product Collection: fix minor UI glitches in editor <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44403\" rel=\"nofollow ugc\">#44403<\/a><\/li>\n<li>Fix &#8211; Product Editor loading state now shows until form is displayed. No more blank flash of white. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/43840\" rel=\"nofollow ugc\">#43840<\/a><\/li>\n<li>Fix &#8211; Product Image block: show the setting to control the imageSizing attribute and add the attribute to the Product Catalog and Product Search Results templates. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44691\" rel=\"nofollow ugc\">#44691<\/a><\/li>\n<li>Fix &#8211; Remove double reporting from daily runs <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44592\" rel=\"nofollow ugc\">#44592<\/a><\/li>\n<li>Fix &#8211; Remove override of \/jetpack\/v4\/connection\/data that was added as a workaround to fix issues with the mobile apps. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44390\" rel=\"nofollow ugc\">#44390<\/a><\/li>\n<li>Fix &#8211; Remove property type hints in TransientFilesEngine and ReceiptRenderingEngine <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44829\" rel=\"nofollow ugc\">#44829<\/a><\/li>\n<li>Fix &#8211; Removes the ability to test if arbitrary files exist on a server through the product editor&#8217;s downloadable files UI. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44665\" rel=\"nofollow ugc\">#44665<\/a><\/li>\n<li>Fix &#8211; Restrict the Number of Thumbnails setting from the Product Gallery block to integer values <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44282\" rel=\"nofollow ugc\">#44282<\/a><\/li>\n<li>Fix &#8211; Translations for the new Product Editor are now loaded. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44520\" rel=\"nofollow ugc\">#44520<\/a><\/li>\n<li>Fix &#8211; Updates REST API V1 (though it generally should no longer be used) to prevent the emission of various deprecation notices. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44741\" rel=\"nofollow ugc\">#44741<\/a><\/li>\n<li>Fix &#8211; Update <code>get_shipping_countries<\/code> to return an empty list of countries when shipping is disabled. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44034\" rel=\"nofollow ugc\">#44034<\/a><\/li>\n<li>Fix &#8211; [CYS &#8211; Core]: Before installing the fonts, ensure that the font library is available <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44358\" rel=\"nofollow ugc\">#44358<\/a><\/li>\n<li>Fix &#8211; [CYS- Core] Improve the default palette. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44722\" rel=\"nofollow ugc\">#44722<\/a><\/li>\n<li>Fix &#8211; [Experimental] Fix a bug where the editor for attribute selector would flicker and re-render constantly. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44147\" rel=\"nofollow ugc\">#44147<\/a><\/li>\n<li>Fix &#8211; [Experimental] Fix the style of chip for new active filter block. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44682\" rel=\"nofollow ugc\">#44682<\/a><\/li>\n<li>Add &#8211; Add a filter to allow preventing an expired log file from being deleted <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44380\" rel=\"nofollow ugc\">#44380<\/a><\/li>\n<li>Add &#8211; Add a new remote variant for random distribution of cohort assignment. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44786\" rel=\"nofollow ugc\">#44786<\/a><\/li>\n<li>Add &#8211; Add details about the logging configuration to the System Status Report <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44106\" rel=\"nofollow ugc\">#44106<\/a><\/li>\n<li>Add &#8211; Added the selected collection name in the product collection block context <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/43247\" rel=\"nofollow ugc\">#43247<\/a><\/li>\n<li>Add &#8211; Add focus trapping within the Product Gallery Pop-Up to enhance keyboard navigation and accessibility. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44439\" rel=\"nofollow ugc\">#44439<\/a><\/li>\n<li>Add &#8211; Add functionality to navigate between Product Gallery image thumbnails with the keyboard. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44236\" rel=\"nofollow ugc\">#44236<\/a><\/li>\n<li>Add &#8211; Add legacy data cleanup process for HPOS. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/43293\" rel=\"nofollow ugc\">#43293<\/a><\/li>\n<li>Add &#8211; Add new &#8220;can receive cancelled order email&#8221; test <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/43985\" rel=\"nofollow ugc\">#43985<\/a><\/li>\n<li>Add &#8211; Adds logic to display notices of promotions from Woo.com on in-app marketplace pages <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44840\" rel=\"nofollow ugc\">#44840<\/a><\/li>\n<li>Add &#8211; Add structured metadata to grouped products. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/42808\" rel=\"nofollow ugc\">#42808<\/a><\/li>\n<li>Add &#8211; Adds <code>wp wc hpos backfill<\/code> tool to backfill from\/to either order datastore. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44281\" rel=\"nofollow ugc\">#44281<\/a><\/li>\n<li>Add &#8211; Add test to check product reviews. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44077\" rel=\"nofollow ugc\">#44077<\/a><\/li>\n<li>Add &#8211; Add the &#8220;Mobile app&#8221; order attribution source. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44519\" rel=\"nofollow ugc\">#44519<\/a><\/li>\n<li>Add &#8211; Add the receipts rendering engine <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/43502\" rel=\"nofollow ugc\">#43502<\/a><\/li>\n<li>Add &#8211; Add <code>source<\/code> event props for <code>marketing_recommended_extension<\/code> track events to differentiate recommendations from woo.com API or default fallback data. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44714\" rel=\"nofollow ugc\">#44714<\/a><\/li>\n<li>Add &#8211; Always show the variation options and variations section <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44001\" rel=\"nofollow ugc\">#44001<\/a><\/li>\n<li>Add &#8211; Announce Pop-Up Opening with Voiceovers <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44332\" rel=\"nofollow ugc\">#44332<\/a><\/li>\n<li>Add &#8211; CYS &#8211; Core &#8211; Check the Font Library availability. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44206\" rel=\"nofollow ugc\">#44206<\/a><\/li>\n<li>Add &#8211; CYS &#8211; Core: Add async job to install fonts. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44473\" rel=\"nofollow ugc\">#44473<\/a><\/li>\n<li>Add &#8211; CYS &#8211; Core: add integration with the font library. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44004\" rel=\"nofollow ugc\">#44004<\/a><\/li>\n<li>Add &#8211; Fix styles for our InterfaceSkeleton actions #44331 <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44331\" rel=\"nofollow ugc\">#44331<\/a><\/li>\n<li>Add &#8211; Hide Downloads section under Toggle for product variations <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44152\" rel=\"nofollow ugc\">#44152<\/a><\/li>\n<li>Add &#8211; Improve Accessibility in Product Collection Navigation <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44599\" rel=\"nofollow ugc\">#44599<\/a><\/li>\n<li>Add &#8211; Introduce WooCommerce Admin Notice component <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44620\" rel=\"nofollow ugc\">#44620<\/a><\/li>\n<li>Add &#8211; Product Collection: Add loading indicator for client-side pagination <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44571\" rel=\"nofollow ugc\">#44571<\/a><\/li>\n<li>Add &#8211; Product Collection: recognise the location of block in Editor and pass it with the request <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/43997\" rel=\"nofollow ugc\">#43997<\/a><\/li>\n<li>Add &#8211; Product Collection: Return to top after the page change <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/43817\" rel=\"nofollow ugc\">#43817<\/a><\/li>\n<li>Add &#8211; Product Editor: Subsection block #43725 <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/43725\" rel=\"nofollow ugc\">#43725<\/a><\/li>\n<li>Add &#8211; Use the new text area block in the summary field <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44104\" rel=\"nofollow ugc\">#44104<\/a><\/li>\n<li>Add &#8211; [Product Block Editor]: use text-area block to handle the variation description field <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44151\" rel=\"nofollow ugc\">#44151<\/a><\/li>\n<li>Update &#8211; Add Moroccan regions to states.php <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/41769\" rel=\"nofollow ugc\">#41769<\/a><\/li>\n<li>Update &#8211; Change promotions transient name to correspond with WC_Admin_Marketplace_Promotions::TRANSIENT_NAME. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44857\" rel=\"nofollow ugc\">#44857<\/a><\/li>\n<li>Update &#8211; Comment: This is behind a feature flag <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44615\" rel=\"nofollow ugc\">#44615<\/a><\/li>\n<li>Update &#8211; Create a dedicated survey and tracking events for the CYS flow on core. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/43862\" rel=\"nofollow ugc\">#43862<\/a><\/li>\n<li>Update &#8211; CYS &#8211; Move checking if the current active theme has modifications to the assembler-hub step instead of the intro step <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44647\" rel=\"nofollow ugc\">#44647<\/a><\/li>\n<li>Update &#8211; CYS &#8211; Reduce the width of the &#8220;Design your own&#8221; text box on the Intro screen <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44546\" rel=\"nofollow ugc\">#44546<\/a><\/li>\n<li>Update &#8211; CYS &#8211; Update &#8220;Start customizing your store&#8221; task description on Core <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44584\" rel=\"nofollow ugc\">#44584<\/a><\/li>\n<li>Update &#8211; CYS &#8211; Update homepage templates intro patterns <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44616\" rel=\"nofollow ugc\">#44616<\/a><\/li>\n<li>Update &#8211; CYS &#8211; Update sidebar links copy on the assembled page. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44762\" rel=\"nofollow ugc\">#44762<\/a><\/li>\n<li>Update &#8211; CYS &#8211; Update the &#8220;Change your homepage&#8221; description on Core <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44579\" rel=\"nofollow ugc\">#44579<\/a><\/li>\n<li>Update &#8211; CYS &#8211; Update the subheading copy of the transitional page <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44603\" rel=\"nofollow ugc\">#44603<\/a><\/li>\n<li>Update &#8211; CYS: Proceed with product creation when their images fail to upload. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44031\" rel=\"nofollow ugc\">#44031<\/a><\/li>\n<li>Update &#8211; Fix condition in Promotions component so marketplace promotions are properly filtered by page. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44884\" rel=\"nofollow ugc\">#44884<\/a><\/li>\n<li>Update &#8211; Fix type handling and default value for remote API transformers <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44418\" rel=\"nofollow ugc\">#44418<\/a><\/li>\n<li>Update &#8211; Improved the combobox component validation error message <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44229\" rel=\"nofollow ugc\">#44229<\/a><\/li>\n<li>Update &#8211; Improve remote specifications transient handling and error management <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44384\" rel=\"nofollow ugc\">#44384<\/a><\/li>\n<li>Update &#8211; Introduced <code>woocommerce_my_account_after_my_address<\/code>, <code>woocommerce_order_details_after_customer_address<\/code>, and <code>woocommerce_edit_account_form_fields<\/code> hooks. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/43823\" rel=\"nofollow ugc\">#43823<\/a><\/li>\n<li>Update &#8211; Move rendering of Order Attribution inputs to <code>woocommerce_checkout_after_customer_details<\/code>. Expose a method for custom theming. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44333\" rel=\"nofollow ugc\">#44333<\/a><\/li>\n<li>Update &#8211; Product Collection: improve flaky E2E test when block was nested in Single Product block <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44404\" rel=\"nofollow ugc\">#44404<\/a><\/li>\n<li>Update &#8211; Remove WooCommerce Blocks entry from the WooCommerce status page <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44412\" rel=\"nofollow ugc\">#44412<\/a><\/li>\n<li>Update &#8211; Simplify the applied coupon data that gets stored as line item meta <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44113\" rel=\"nofollow ugc\">#44113<\/a><\/li>\n<li>Update &#8211; This is behind a feature flag. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44463\" rel=\"nofollow ugc\">#44463<\/a><\/li>\n<li>Update &#8211; This is behind a feature flag. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44615\" rel=\"nofollow ugc\">#44615<\/a><\/li>\n<li>Update &#8211; Update &#8220;Large Footer&#8221; and &#8220;Large Footer Dark&#8221; Twitter icons to X and update the social URLs. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44807\" rel=\"nofollow ugc\">#44807<\/a><\/li>\n<li>Update &#8211; Update Action Scheduler to 3.7.2 <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44628\" rel=\"nofollow ugc\">#44628<\/a><\/li>\n<li>Update &#8211; Updated example plugin code in activity-panel-inbox.md to include namespacing. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44504\" rel=\"nofollow ugc\">#44504<\/a><\/li>\n<li>Update &#8211; Update experiment name for enabling new product editor. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44731\" rel=\"nofollow ugc\">#44731<\/a><\/li>\n<li>Update &#8211; Update Shipping Method creation call to action button with more clear label <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44788\" rel=\"nofollow ugc\">#44788<\/a><\/li>\n<li>Update &#8211; Updates the bundled JS Cookie library to v3.0.5. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/43686\" rel=\"nofollow ugc\">#43686<\/a><\/li>\n<li>Update &#8211; Update the CYS intro modal copy on Core. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44081\" rel=\"nofollow ugc\">#44081<\/a><\/li>\n<li>Update &#8211; Update the Product gallery pattern title <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44604\" rel=\"nofollow ugc\">#44604<\/a><\/li>\n<li>Update &#8211; [CYS &#8211; Core] Handling errors during the setup for the <code>NoAI<\/code> flow <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/43810\" rel=\"nofollow ugc\">#43810<\/a><\/li>\n<li>Update &#8211; [Experimental] Add a flag that will force page refresh when combining interactivity filters with classic template or products (beta) blocks. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44631\" rel=\"nofollow ugc\">#44631<\/a><\/li>\n<li>Dev &#8211; Add base RemoteSpecsEngine class, add logging for errors in all remote specs <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44775\" rel=\"nofollow ugc\">#44775<\/a><\/li>\n<li>Dev &#8211; Add checks and unit tests to rule processors <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44448\" rel=\"nofollow ugc\">#44448<\/a><\/li>\n<li>Dev &#8211; Add checks and unit tests to Transformers <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44634\" rel=\"nofollow ugc\">#44634<\/a><\/li>\n<li>Dev &#8211; Add e2e tests to edit and delete product reviews. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44411\" rel=\"nofollow ugc\">#44411<\/a><\/li>\n<li>Dev &#8211; Added e2e test to monitor number of JS includes in certain pages <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44046\" rel=\"nofollow ugc\">#44046<\/a><\/li>\n<li>Dev &#8211; Add error handling and tests for ShippingPartnerSuggestions <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44641\" rel=\"nofollow ugc\">#44641<\/a><\/li>\n<li>Dev &#8211; Add extra checks (description, sale-price, SKU, purchase note, attribute color) to the existing add-virtual-product test <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/43783\" rel=\"nofollow ugc\">#43783<\/a><\/li>\n<li>Dev &#8211; Add php unit watcher and update unit test docs <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44681\" rel=\"nofollow ugc\">#44681<\/a><\/li>\n<li>Dev &#8211; Adds e2e tests for the creation of all coupon types (merchant) <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44671\" rel=\"nofollow ugc\">#44671<\/a><\/li>\n<li>Dev &#8211; Adds e2e tests for user account email flows <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44622\" rel=\"nofollow ugc\">#44622<\/a><\/li>\n<li>Dev &#8211; Adds logic to get notices of promotions from Woo.com endpoint, and (if necessary) show a bubble next to the WooCommerce &#8220;Extensions&#8221; menu item. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44655\" rel=\"nofollow ugc\">#44655<\/a><\/li>\n<li>Dev &#8211; Add some missing core contributors to the contributors list. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44740\" rel=\"nofollow ugc\">#44740<\/a><\/li>\n<li>Dev &#8211; Adds tests for the creation of restricted coupons <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44716\" rel=\"nofollow ugc\">#44716<\/a><\/li>\n<li>Dev &#8211; Add <code>queryContextIncludes<\/code> attribute to Product Collection block <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44150\" rel=\"nofollow ugc\">#44150<\/a><\/li>\n<li>Dev &#8211; Apply Rector suggestions for PHP 8.1 <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/43230\" rel=\"nofollow ugc\">#43230<\/a><\/li>\n<li>Dev &#8211; Apply Rector suggestions for PHP 8.1 <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/43233\" rel=\"nofollow ugc\">#43233<\/a><\/li>\n<li>Dev &#8211; Apply type checks and enhancements for PHP 8.1 <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/41253\" rel=\"nofollow ugc\">#41253<\/a><\/li>\n<li>Dev &#8211; Apply type checks and enhancements for PHP 8.1 <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/41482\" rel=\"nofollow ugc\">#41482<\/a><\/li>\n<li>Dev &#8211; E2E tests: add explicit timeout for action and navigation <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44891\" rel=\"nofollow ugc\">#44891<\/a><\/li>\n<li>Dev &#8211; E2E tests: add test for creating a downloadable product <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44112\" rel=\"nofollow ugc\">#44112<\/a><\/li>\n<li>Dev &#8211; E2E tests: add tests for managing product images in block editor <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44470\" rel=\"nofollow ugc\">#44470<\/a><\/li>\n<li>Dev &#8211; E2E tests: add tests for product edit using blocks editor <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44272\" rel=\"nofollow ugc\">#44272<\/a><\/li>\n<li>Dev &#8211; E2E tests: add tests for product inventory in product block editor <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44699\" rel=\"nofollow ugc\">#44699<\/a><\/li>\n<li>Dev &#8211; E2E tests: add tests for products bulk edit <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44039\" rel=\"nofollow ugc\">#44039<\/a><\/li>\n<li>Dev &#8211; E2E tests: add tests for up-sells and cross-sells <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44154\" rel=\"nofollow ugc\">#44154<\/a><\/li>\n<li>Dev &#8211; E2E tests: fix a flaky product inventory test <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44897\" rel=\"nofollow ugc\">#44897<\/a><\/li>\n<li>Dev &#8211; E2E tests: update product review tests to work with more reviews <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44644\" rel=\"nofollow ugc\">#44644<\/a><\/li>\n<li>Dev &#8211; Fix a couple of flaky e2e tests <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44208\" rel=\"nofollow ugc\">#44208<\/a><\/li>\n<li>Dev &#8211; Fixed the postinstall command failing on macos <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44853\" rel=\"nofollow ugc\">#44853<\/a><\/li>\n<li>Dev &#8211; Improve return value type checks prior to usage <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/43227\" rel=\"nofollow ugc\">#43227<\/a><\/li>\n<li>Dev &#8211; Improve the existing E2E test shopper simple product to test description and images <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44365\" rel=\"nofollow ugc\">#44365<\/a><\/li>\n<li>Dev &#8211; Misc e2e test fixes <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44325\" rel=\"nofollow ugc\">#44325<\/a><\/li>\n<li>Dev &#8211; Move the test out of isolation (tax folder) and update it to reflect cart flow <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44115\" rel=\"nofollow ugc\">#44115<\/a><\/li>\n<li>Dev &#8211; Product Collection: minor E2E test optimisation <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44407\" rel=\"nofollow ugc\">#44407<\/a><\/li>\n<li>Dev &#8211; Product Filters: update E2E tests after adding Beta label <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44564\" rel=\"nofollow ugc\">#44564<\/a><\/li>\n<li>Dev &#8211; Revert a workaround updating the mariadb image tag in wp-env <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44881\" rel=\"nofollow ugc\">#44881<\/a><\/li>\n<li>Dev &#8211; Shard Blocks Playwright test execution <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44440\" rel=\"nofollow ugc\">#44440<\/a><\/li>\n<li>Dev &#8211; Stabilize a flaky E2E Add to Cart Form test <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44639\" rel=\"nofollow ugc\">#44639<\/a><\/li>\n<li>Dev &#8211; Stabilize a flaky Price Filter test by addressing the unstable nature of the filter input. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44690\" rel=\"nofollow ugc\">#44690<\/a><\/li>\n<li>Dev &#8211; Stabilize the &#8216;Products can be filtered based on &#8220;on sale&#8221; status&#8217; E2E test. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44796\" rel=\"nofollow ugc\">#44796<\/a><\/li>\n<li>Dev &#8211; This aims to add more checks to confirm that a completed order email is received, as well as its content. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44186\" rel=\"nofollow ugc\">#44186<\/a><\/li>\n<li>Dev &#8211; Update onboarding task documentation and fix example command <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44026\" rel=\"nofollow ugc\">#44026<\/a><\/li>\n<li>Dev &#8211; Updates the test of a virtual product creation functionality with further characteristics <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/43783\" rel=\"nofollow ugc\">#43783<\/a><\/li>\n<li>Dev &#8211; Update the daily test workflow to run e2e tests with sharding <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44330\" rel=\"nofollow ugc\">#44330<\/a><\/li>\n<li>Dev &#8211; Update WooCommerce Blocks Playwright End to End Tests readme <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44468\" rel=\"nofollow ugc\">#44468<\/a><\/li>\n<li>Dev &#8211; Workaround for fixing broken wp-env test environment. Force mariadb image tag. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44841\" rel=\"nofollow ugc\">#44841<\/a><\/li>\n<li>Dev &#8211; Wrangle MarketingRecommendations as RemoteSpecsEngine <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44828\" rel=\"nofollow ugc\">#44828<\/a><\/li>\n<li>Dev &#8211; [Experimental] Add beta suffix to new filter blocks in prep for release. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44487\" rel=\"nofollow ugc\">#44487<\/a><\/li>\n<li>Dev &#8211; [Experimental] Fix a bug in new attribute filter where we didn&#8217;t set the attribute from content panel <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44757\" rel=\"nofollow ugc\">#44757<\/a><\/li>\n<li>Dev &#8211; [Experimental] Unify class naming in new interactivity stock filter block. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44073\" rel=\"nofollow ugc\">#44073<\/a><\/li>\n<li>Dev &#8211; [Experimental] Utilize WP generated class names to style rating filter block. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44072\" rel=\"nofollow ugc\">#44072<\/a><\/li>\n<li>Dev &#8211; [Experimental] Utilize WP generated class names when styling new active filters block. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44069\" rel=\"nofollow ugc\">#44069<\/a><\/li>\n<li>Dev &#8211; [Product editor block]: Rename the Add button to Publish #44461 <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44461\" rel=\"nofollow ugc\">#44461<\/a><\/li>\n<li>Tweak &#8211; Adjust spacing in\/between elements on the Cart and Checkout block pages. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44160\" rel=\"nofollow ugc\">#44160<\/a><\/li>\n<li>Tweak &#8211; Improve tasklist performance and add tasklist id track props <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44442\" rel=\"nofollow ugc\">#44442<\/a><\/li>\n<li>Tweak &#8211; Product Collection: fix flaky E2E test <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44687\" rel=\"nofollow ugc\">#44687<\/a><\/li>\n<li>Tweak &#8211; Setup E2E block theme without opening browser and remove obsolete CLI call. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44702\" rel=\"nofollow ugc\">#44702<\/a><\/li>\n<li>Tweak &#8211; [Experimental] Filter block: replace custom upgrade panel by Transforms API <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44024\" rel=\"nofollow ugc\">#44024<\/a><\/li>\n<li>Performance &#8211; Avoid duplicating requests to the <code>\/onboarding\/themes\/recommended<\/code> and <code>\/onboarding\/tasks<\/code> endpoints during the CYS flow. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44179\" rel=\"nofollow ugc\">#44179<\/a><\/li>\n<li>Enhancement &#8211; CYS &#8211; Add title to the &#8220;Product Gallery&#8221; pattern. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44556\" rel=\"nofollow ugc\">#44556<\/a><\/li>\n<li>Enhancement &#8211; CYS &#8211; Core: catch error when font installation fails. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44559\" rel=\"nofollow ugc\">#44559<\/a><\/li>\n<li>Enhancement &#8211; Prevent prefilling of the billing address with the shipping address in the Checkout block for the Guest Shopper. <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44347\" rel=\"nofollow ugc\">#44347<\/a><\/li>\n<li>Enhancement &#8211; Product Collection: enable &#8220;Sync with query&#8221; option by default only for the first Product Catalog instance, disable for 2nd and next ones <a href=\"https:\/\/github.com\/woocommerce\/woocommerce\/pull\/44577\" rel=\"nofollow ugc\">#44577<\/a><\/li>\n<\/ul>\n<p><a href=\"https:\/\/raw.githubusercontent.com\/woocommerce\/woocommerce\/trunk\/changelog.txt\" rel=\"nofollow ugc\">See changelog for all versions<\/a>.<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/woocommerce\/assets\/screenshot-1.jpg?rev=2366418\"><img src=\"https:\/\/ps.w.org\/woocommerce\/assets\/screenshot-1.jpg?rev=2366418\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/woocommerce\/assets\/screenshot-2.jpg?rev=2366418\"><img src=\"https:\/\/ps.w.org\/woocommerce\/assets\/screenshot-2.jpg?rev=2366418\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/woocommerce\/assets\/screenshot-3.jpg?rev=2366418\"><img src=\"https:\/\/ps.w.org\/woocommerce\/assets\/screenshot-3.jpg?rev=2366418\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/woocommerce\/assets\/screenshot-4.jpg?rev=2366418\"><img src=\"https:\/\/ps.w.org\/woocommerce\/assets\/screenshot-4.jpg?rev=2366418\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/woocommerce\/assets\/screenshot-5.jpg?rev=2366418\"><img src=\"https:\/\/ps.w.org\/woocommerce\/assets\/screenshot-5.jpg?rev=2366418\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/woocommerce\/assets\/screenshot-6.jpg?rev=2366418\"><img src=\"https:\/\/ps.w.org\/woocommerce\/assets\/screenshot-6.jpg?rev=2366418\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Configuration issue resolved<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/naud06000\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b83e129ea37baea944aff6ea4c04996a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b83e129ea37baea944aff6ea4c04996a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/naud06000\/\" class=\"reviewer-name\">naud06000<\/a> on <span class=\"review-date\">April 14, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Technical support gave me the help I expected. Thank you so much.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Ottimo plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/albertopiazza\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/44cc2637dd4073ce81ded6d4a2c9aad1?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/44cc2637dd4073ce81ded6d4a2c9aad1?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/albertopiazza\/\" class=\"reviewer-name\">lupus89 <small>(albertopiazza)<\/small><\/a> on <span class=\"review-date\">April 13, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Il miglior plugin per la vendita online! Consigliato.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">always has issues customer support sucks<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jamiea1988\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/4f0551d2a4a5407f2ae1b6ba057bde0c?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/4f0551d2a4a5407f2ae1b6ba057bde0c?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jamiea1988\/\" class=\"reviewer-name\">jamiea1988<\/a> on <span class=\"review-date\">April 12, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I loved how the layout and everything that came with the plugin but I have had an issue every single time a wholesale client has tried to checkout and customer service is no help what so ever so ive had to hire developers to fix issues. Im switching over to another plugin because im losing money and time trying to fix issues<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">INSOPORTABLES UPDATE<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/pexcreative\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/afad8306a316bc935145d24fcf3db785?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/afad8306a316bc935145d24fcf3db785?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/pexcreative\/\" class=\"reviewer-name\">Ezequiel Del Vacchio <small>(pexcreative)<\/small><\/a> on <span class=\"review-date\">April 11, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Todos los d\u00edas actualizaciones y encima para PEOR!<br \/>A\u00f1os actualizando y actualizando y ARRUINAN el SEO de lo mal que funcionan.<br \/>Ya no tiene sentido tener una tienda totalmente inestable. Para que actualizan tanto si cada vez funciona peor. SIMPLEMENTE WORDPRESS y WOOCOMMERCE se van de mi server.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Update 8.7.0 Customers Unable to Checkout<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jacs2023\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/51195608dc2e865d82d2de07eef8ada2?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/51195608dc2e865d82d2de07eef8ada2?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jacs2023\/\" class=\"reviewer-name\">jacs2023<\/a> on <span class=\"review-date\">March 30, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Since the new update - and for the past month none of my customer are able to checkout. Constant messages of invalid or missing payment details. Because I don't have a paid extension Woo Support is refusing to assist or even entertain that there is an issue.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">If I cannot resole this tomorrow I'm changing to Shopify.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">woocommerce is a pain since 8.4<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jmsynth\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/676c21a6aaa34e897e9f157e0a9375ba?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/676c21a6aaa34e897e9f157e0a9375ba?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jmsynth\/\" class=\"reviewer-name\">jmsynth<\/a> on <span class=\"review-date\">March 28, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Since 8.4 it triggers too many false positive on modsecurity, crash any website under plesk\/debian11\/Comodo ruleset... adds unwanted cookies, calls external apis, force new functionalities, too bulky for what the average shop owner needs... well... now i'm afraid of updating this plugin... are you even testing your plugin before put it in production ? and last but not least extensions are overpriced. Cant wait for an alternative, in the meantime i will suggest my client to move to another platform.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Nothig swown after update 8.7.0<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/rubenmora\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e66a3272414dfacbd40726741cab9ffb?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e66a3272414dfacbd40726741cab9ffb?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/rubenmora\/\" class=\"reviewer-name\">Ruben <small>(rubenmora)<\/small><\/a> on <span class=\"review-date\">March 27, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I tried in dif ways but it is impossible. After the installation of 8.7.0 I cant see the web and I cant access to the administrator of wordpress. <br \/>My php 7.4 and using Divi. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Error in WooCommerce after change in XAMPP<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"3 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"3\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/blaugrana\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/7b4968cfdb49cb61c2907f669f67989b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/7b4968cfdb49cb61c2907f669f67989b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/blaugrana\/\" class=\"reviewer-name\">\u041c\u0430\u0440\u0438\u044f \u0420\u0430\u043d\u0433\u0435\u043b\u043e\u0432\u0430 <small>(blaugrana)<\/small><\/a> on <span class=\"review-date\">April 10, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Hello :) Until a month ago, I had a working WooCommerce. But now it crashes my whole site. I'm developing locally on Xampp when I try to access the site dashboard and it gives me a network related error. I did a brand new installation of WordPress and gradually added the plugins. And the moment I installed WooCommerce everything exploded - it kicked me out again and gave me the error I mentioned.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Problem with checkout and Multi Currency for WooCommerce plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/uni12\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f1b75caeb666b9e18ca6354d00391d83?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f1b75caeb666b9e18ca6354d00391d83?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/uni12\/\" class=\"reviewer-name\">uni12<\/a> on <span class=\"review-date\">March 26, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Hello, I updated the latest version of Woocomerce, 1st it does not save the short description or the downloadable files.<br \/>I can write the description correctly and put the pdf file to download but when I click update it is deleted.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">2nd I use the latest version of the Multi Currency for WooCommerce plugin establishing USD as the main currency and $ as the second, when all the products enter from my country and in the cart they appear with the $ symbol and the price that is fine, but at checkout I change the symbol to USD and the price.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Both things since I updated the plugin.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I never had any problems with this plugin, it's the first time.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Best e-commerce option<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/laurpm\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/0540692f70bfcc57d8513d02efee430a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/0540692f70bfcc57d8513d02efee430a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/laurpm\/\" class=\"reviewer-name\">laurlau <small>(laurpm)<\/small><\/a> on <span class=\"review-date\">March 24, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">with a little bit of customization, you can have the best ecommerce option available<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Everything you need to launch an online store in days and keep it growing for years. From your first sale to millions in revenue, Woo is with you.",
+    "description": "<p><a href=\"https:\/\/woo.com\/woocommerce\/\" rel=\"nofollow ugc\">WooCommerce<\/a> is the open-source ecommerce platform for WordPress.<\/p>\n<p>Our core platform is free, flexible, and amplified by a global community. The freedom of open-source means you retain full ownership of your store\u2019s content and data forever.<\/p>\n<p>Whether you\u2019re launching a business, taking brick-and-mortar retail online, or developing sites for clients, use WooCommerce for a store that powerfully blends content and commerce.<\/p>\n<ul>\n<li><strong>Create beautiful, enticing storefronts<\/strong> with <a href=\"https:\/\/woo.com\/product-category\/themes\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">themes<\/a> suited to your brand and industry.<\/li>\n<li><strong>Increase revenue<\/strong> with an optimized <a href=\"https:\/\/woo.com\/checkout-blocks\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">shopping cart experience<\/a> that converts.<\/li>\n<li><strong>Customize product pages in minutes<\/strong> using modular <a href=\"https:\/\/woo.com\/document\/woocommerce-blocks\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">product blocks<\/a>.<\/li>\n<li>Showcase physical and digital goods, product variations, custom configurations, instant downloads, and affiliate items.<\/li>\n<li>Sell <a href=\"https:\/\/woo.com\/products\/woocommerce-subscriptions\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">subscriptions<\/a>, <a href=\"https:\/\/woo.com\/products\/woocommerce-bookings\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">bookings<\/a>, or <a href=\"https:\/\/woo.com\/products\/woocommerce-memberships\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">memberships<\/a>, with our developer-vetted extensions.<\/li>\n<li><strong>Rise to the top of search results<\/strong> by leveraging <a href=\"https:\/\/www.searchenginejournal.com\/wordpress-best-cms-seo\/\" rel=\"nofollow ugc\">WordPress\u2019 SEO advantage<\/a>.<\/li>\n<li><strong>Build on a platform that scales.<\/strong> Get flexible ecommerce for <a href=\"https:\/\/woo.com\/high-volume-stores\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">high-volume stores<\/a>.<\/li>\n<\/ul>\n<h4>ALL THE TOOLS YOU NEED TO SELL<\/h4>\n<p>Built-in tools and popular integrations help you efficiently manage your business operations. Many services are free to add with a single click via the optional <a href=\"https:\/\/woo.com\/document\/woocommerce-setup-wizard\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Setup Wizard<\/a>.<\/p>\n<ul>\n<li><strong>Choose how you want to get paid<\/strong>. Conveniently manage payments from the comfort of your store with <a href=\"https:\/\/woo.com\/payments\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">WooPayments<\/a> (Available in the U.S., U.K., Ireland, Australia, New Zealand, Canada, Spain, France, Germany, and Italy). Securely accept credit cards, mobile wallets, bank transfers, and cash thanks to <a href=\"https:\/\/woo.com\/product-category\/woocommerce-extensions\/payment-gateways\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">100+ payment gateways<\/a> \u2013 including <a href=\"https:\/\/woo.com\/products\/stripe\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Stripe<\/a>, <a href=\"https:\/\/woo.com\/products\/woocommerce-gateway-paypal-checkout\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">PayPal<\/a>, and <a href=\"https:\/\/woo.com\/products\/square\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Square<\/a>.<\/li>\n<li><strong>Configure your shipping options<\/strong>. Print USPS labels right from your dashboard and even schedule a pickup with <a href=\"https:\/\/woo.com\/products\/shipping\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">WooCommerce Shipping<\/a> (U.S.-only). Connect with <a href=\"https:\/\/woo.com\/product-category\/woocommerce-extensions\/shipping-methods\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">well-known carriers<\/a> such as UPS and FedEx \u2013 plus a wide variety of delivery, inventory, and fulfillment solutions for your locale.<\/li>\n<li><strong>Simplify sales tax<\/strong>. Add <a href=\"https:\/\/woo.com\/products\/tax\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">WooCommerce Tax<\/a> or <a href=\"https:\/\/woo.com\/product-category\/woocommerce-extensions\/tax?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">similar integrated services<\/a> to make automated calculations a reality.<\/li>\n<\/ul>\n<h4>Grow your business, add features, and monitor your store on the go<\/h4>\n<p>WooCommerce means business. Keep tabs on the performance metrics most important to you with <a href=\"https:\/\/wordpress.org\/plugins\/woocommerce-admin\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"ugc\">WooCommerce Admin<\/a> \u2013 a powerful, customizable central dashboard for your store.<\/p>\n<p>Expand your audience across marketing and social channels with <a href=\"https:\/\/woo.com\/products\/google-ads\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Google Ads<\/a>, <a href=\"https:\/\/woo.com\/products\/hubspot-for-woocommerce\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">HubSpot<\/a>, <a href=\"https:\/\/woo.com\/products\/mailchimp-for-woocommerce\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Mailchimp<\/a>, and <a href=\"https:\/\/woo.com\/products\/facebook\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Facebook<\/a> integrations. You can always check out the in-dashboard <a href=\"https:\/\/woo.com\/document\/marketing-hub\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Marketing Hub<\/a> for fresh ideas and tips to help you succeed.<\/p>\n<p>Enhance store functionality with hundreds of free and paid extensions from the <a href=\"https:\/\/woo.com\/products\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">official WooCommerce Marketplace<\/a>. Our developers <a href=\"https:\/\/woo.com\/document\/marketplace-overview\/#section-6?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">vet each new extension<\/a> and regularly review existing extensions to maintain Marketplace quality standards. We are actively <a href=\"https:\/\/woo.com\/document\/marketplace-overview\/#section-2?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">looking for products that help store builders create successful stores<\/a>.<\/p>\n<p>Manage your store from anywhere with the free WooCommerce <a href=\"https:\/\/woo.com\/mobile\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">mobile app<\/a> (Android and iOS). Spoiler alert: Keep an ear out for the slightly addictive &#8220;cha-ching&#8221; notification sound each time you make a new sale!<\/p>\n<h4>Own and control your store data \u2013 forever<\/h4>\n<p>With <a href=\"https:\/\/woo.com\/woocommerce\/\" rel=\"nofollow ugc\">WooCommerce<\/a>, your data belongs to you. Always.<\/p>\n<p>If you opt to share <a href=\"https:\/\/woo.com\/usage-tracking\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">usage data<\/a> with us, you can feel confident knowing that it\u2019s anonymized and kept secure. Choose to opt-out at any time without impacting your store.<\/p>\n<p>Unlike hosted ecommerce solutions, WooCommerce store data is future-proof; you\u2019re free to export all your content and take your site to any platform you choose. No restrictions.<\/p>\n<h4>Why developers choose (and love) WooCommerce<\/h4>\n<p>Developers can use <a href=\"https:\/\/woo.com\/woocommerce\/\" rel=\"nofollow ugc\">WooCommerce<\/a> to create, customize, and scale a store to meet a client\u2019s exact specifications, making enhancements through extensions or custom solutions.<\/p>\n<ul>\n<li>Leverage <a href=\"https:\/\/woo.com\/document\/introduction-to-hooks-actions-and-filters\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">hooks and filters<\/a> to modify or create functionality.<\/li>\n<li>Integrate virtually any service using a robust <a href=\"https:\/\/woo.com\/document\/woocommerce-rest-api\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">REST API<\/a> and webhooks.<\/li>\n<li>Design and build custom content blocks with React.<\/li>\n<li><a href=\"https:\/\/woo.com\/documentation\/plugins\/woocommerce\/woocommerce-codex\/extending\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">Inspect and modify<\/a> any aspect of the core plugin code.<\/li>\n<li>Speed up development with a lightning-fast <a href=\"https:\/\/woocommerce.github.io\/code-reference\/classes\/wc-cli-rest-command.html?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">CLI<\/a>.<\/li>\n<\/ul>\n<p>The core platform is tested rigorously and often, supported by a dedicated development team working across time zones. Comprehensive documentation is updated with each release, empowering you to build exactly the store required.<\/p>\n<h4>Be part of our growing international community<\/h4>\n<p>WooCommerce has a large, passionate community dedicated to helping merchants succeed \u2013 and it\u2019s growing fast.<\/p>\n<p>There are <a href=\"https:\/\/woo.com\/meetups\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">WooCommerce Meetups<\/a> in locations around the world that you can attend for free and even get involved in running. These events are a great way to learn from others, share your expertise, and connect with like-minded folks.<\/p>\n<p>WooCommerce also has a regular presence at WordCamps across the globe \u2013 we\u2019d love to meet you.<\/p>\n<h4>Contribute and translate<\/h4>\n<p>WooCommerce is developed and supported by Automattic, the creators of WordPress.com and Jetpack. We also have hundreds of independent contributors, and there\u2019s always room for more. Head to the <a href=\"https:\/\/github.com\/woocommerce\/woocommerce?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">WooCommerce GitHub Repository<\/a> to find out how you can pitch in.<\/p>\n<p>WooCommerce is translated into multiple languages, including Danish, Ukrainian, and Persian. Help localize WooCommerce even further by adding your locale \u2013 visit <a href=\"https:\/\/translate.wordpress.org\/projects\/wp-plugins\/woocommerce\/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\" rel=\"nofollow ugc\">translate.wordpress.org<\/a>.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.7.0.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/woocommerce\/assets\/screenshot-1.jpg?rev=2366418",
+            "caption": ""
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/woocommerce\/assets\/screenshot-2.jpg?rev=2366418",
+            "caption": ""
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/woocommerce\/assets\/screenshot-3.jpg?rev=2366418",
+            "caption": ""
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/woocommerce\/assets\/screenshot-4.jpg?rev=2366418",
+            "caption": ""
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/woocommerce\/assets\/screenshot-5.jpg?rev=2366418",
+            "caption": ""
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/woocommerce\/assets\/screenshot-6.jpg?rev=2366418",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "ecommerce": "ecommerce",
+        "online-store": "online store",
+        "sell-online": "sell online",
+        "shop": "shop",
+        "shopping-cart": "shopping cart"
+    },
+    "stable_tag": "8.7.0",
+    "versions": {
+        "3.0.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.0.0.zip",
+        "3.0.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.0.1.zip",
+        "3.0.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.0.2.zip",
+        "3.0.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.0.3.zip",
+        "3.0.4": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.0.4.zip",
+        "3.0.5": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.0.5.zip",
+        "3.0.6": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.0.6.zip",
+        "3.0.7": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.0.7.zip",
+        "3.0.8": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.0.8.zip",
+        "3.0.9": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.0.9.zip",
+        "3.1.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.1.0.zip",
+        "3.1.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.1.1.zip",
+        "3.1.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.1.2.zip",
+        "3.2.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.2.0.zip",
+        "3.2.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.2.1.zip",
+        "3.2.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.2.2.zip",
+        "3.2.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.2.3.zip",
+        "3.2.4": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.2.4.zip",
+        "3.2.5": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.2.5.zip",
+        "3.2.6": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.2.6.zip",
+        "3.3.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.3.0.zip",
+        "3.3.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.3.1.zip",
+        "3.3.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.3.2.zip",
+        "3.3.2-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.3.2-rc.1.zip",
+        "3.3.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.3.3.zip",
+        "3.3.4": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.3.4.zip",
+        "3.3.5": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.3.5.zip",
+        "3.3.6": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.3.6.zip",
+        "3.4.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.4.0.zip",
+        "3.4.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.4.0-beta.1.zip",
+        "3.4.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.4.0-rc.2.zip",
+        "3.4.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.4.1.zip",
+        "3.4.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.4.2.zip",
+        "3.4.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.4.3.zip",
+        "3.4.4": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.4.4.zip",
+        "3.4.5": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.4.5.zip",
+        "3.4.6": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.4.6.zip",
+        "3.4.7": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.4.7.zip",
+        "3.4.8": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.4.8.zip",
+        "3.5.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.5.0.zip",
+        "3.5.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.5.0-beta.1.zip",
+        "3.5.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.5.0-rc.1.zip",
+        "3.5.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.5.0-rc.2.zip",
+        "3.5.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.5.1.zip",
+        "3.5.10": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.5.10.zip",
+        "3.5.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.5.2.zip",
+        "3.5.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.5.3.zip",
+        "3.5.4": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.5.4.zip",
+        "3.5.5": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.5.5.zip",
+        "3.5.6": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.5.6.zip",
+        "3.5.7": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.5.7.zip",
+        "3.5.8": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.5.8.zip",
+        "3.5.9": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.5.9.zip",
+        "3.6.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.6.0.zip",
+        "3.6.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.6.0-beta.1.zip",
+        "3.6.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.6.0-rc.1.zip",
+        "3.6.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.6.0-rc.2.zip",
+        "3.6.0-rc.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.6.0-rc.3.zip",
+        "3.6.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.6.1.zip",
+        "3.6.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.6.2.zip",
+        "3.6.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.6.3.zip",
+        "3.6.4": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.6.4.zip",
+        "3.6.5": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.6.5.zip",
+        "3.6.6": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.6.6.zip",
+        "3.6.7": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.6.7.zip",
+        "3.7.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.7.0.zip",
+        "3.7.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.7.0-beta.1.zip",
+        "3.7.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.7.0-rc.1.zip",
+        "3.7.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.7.0-rc.2.zip",
+        "3.7.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.7.1.zip",
+        "3.7.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.7.2.zip",
+        "3.7.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.7.3.zip",
+        "3.8.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.8.0.zip",
+        "3.8.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.8.0-beta.1.zip",
+        "3.8.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.8.0-rc.1.zip",
+        "3.8.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.8.0-rc.2.zip",
+        "3.8.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.8.1.zip",
+        "3.8.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.8.2.zip",
+        "3.8.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.8.3.zip",
+        "3.9.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.9.0.zip",
+        "3.9.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.9.0-beta.1.zip",
+        "3.9.0-beta.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.9.0-beta.2.zip",
+        "3.9.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.9.0-rc.1.zip",
+        "3.9.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.9.0-rc.2.zip",
+        "3.9.0-rc.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.9.0-rc.3.zip",
+        "3.9.0-rc.4": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.9.0-rc.4.zip",
+        "3.9.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.9.1.zip",
+        "3.9.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.9.2.zip",
+        "3.9.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.9.3.zip",
+        "3.9.4": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.9.4.zip",
+        "3.9.5": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.3.9.5.zip",
+        "4.0.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.0.0.zip",
+        "4.0.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.0.0-beta.1.zip",
+        "4.0.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.0.0-rc.1.zip",
+        "4.0.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.0.0-rc.2.zip",
+        "4.0.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.0.1.zip",
+        "4.0.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.0.2.zip",
+        "4.0.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.0.3.zip",
+        "4.0.4": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.0.4.zip",
+        "4.1.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.1.0.zip",
+        "4.1.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.1.0-beta.1.zip",
+        "4.1.0-beta.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.1.0-beta.2.zip",
+        "4.1.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.1.0-rc.1.zip",
+        "4.1.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.1.0-rc.2.zip",
+        "4.1.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.1.1.zip",
+        "4.1.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.1.2.zip",
+        "4.1.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.1.3.zip",
+        "4.1.4": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.1.4.zip",
+        "4.2.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.2.0.zip",
+        "4.2.0-RC.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.2.0-RC.1.zip",
+        "4.2.0-RC.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.2.0-RC.2.zip",
+        "4.2.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.2.0-beta.1.zip",
+        "4.2.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.2.1.zip",
+        "4.2.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.2.2.zip",
+        "4.2.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.2.3.zip",
+        "4.2.4": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.2.4.zip",
+        "4.2.5": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.2.5.zip",
+        "4.3.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.3.0.zip",
+        "4.3.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.3.0-beta.1.zip",
+        "4.3.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.3.0-rc.1.zip",
+        "4.3.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.3.0-rc.2.zip",
+        "4.3.0-rc.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.3.0-rc.3.zip",
+        "4.3.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.3.1.zip",
+        "4.3.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.3.2.zip",
+        "4.3.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.3.3.zip",
+        "4.3.4": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.3.4.zip",
+        "4.3.5": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.3.5.zip",
+        "4.3.6": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.3.6.zip",
+        "4.4.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.4.0.zip",
+        "4.4.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.4.0-beta.1.zip",
+        "4.4.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.4.0-rc.1.zip",
+        "4.4.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.4.1.zip",
+        "4.4.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.4.2.zip",
+        "4.4.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.4.3.zip",
+        "4.4.4": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.4.4.zip",
+        "4.5.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.5.0.zip",
+        "4.5.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.5.0-beta.1.zip",
+        "4.5.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.5.0-rc.1.zip",
+        "4.5.0-rc.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.5.0-rc.3.zip",
+        "4.5.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.5.1.zip",
+        "4.5.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.5.2.zip",
+        "4.5.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.5.3.zip",
+        "4.5.4": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.5.4.zip",
+        "4.5.5": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.5.5.zip",
+        "4.6.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.6.0.zip",
+        "4.6.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.6.0-beta.1.zip",
+        "4.6.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.6.0-rc.1.zip",
+        "4.6.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.6.1.zip",
+        "4.6.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.6.2.zip",
+        "4.6.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.6.3.zip",
+        "4.6.4": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.6.4.zip",
+        "4.6.5": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.6.5.zip",
+        "4.7.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.7.0.zip",
+        "4.7.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.7.0-beta.1.zip",
+        "4.7.0-beta.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.7.0-beta.2.zip",
+        "4.7.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.7.0-rc.1.zip",
+        "4.7.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.7.1.zip",
+        "4.7.1-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.7.1-beta.1.zip",
+        "4.7.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.7.2.zip",
+        "4.7.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.7.3.zip",
+        "4.7.4": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.7.4.zip",
+        "4.8.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.8.0.zip",
+        "4.8.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.8.0-beta.1.zip",
+        "4.8.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.8.0-rc.1.zip",
+        "4.8.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.8.0-rc.2.zip",
+        "4.8.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.8.1.zip",
+        "4.8.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.8.2.zip",
+        "4.8.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.8.3.zip",
+        "4.9.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.9.0.zip",
+        "4.9.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.9.0-beta.1.zip",
+        "4.9.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.9.0-rc.1.zip",
+        "4.9.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.9.0-rc.2.zip",
+        "4.9.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.9.1.zip",
+        "4.9.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.9.2.zip",
+        "4.9.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.9.3.zip",
+        "4.9.4": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.9.4.zip",
+        "4.9.5": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.4.9.5.zip",
+        "5.0.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.0.0.zip",
+        "5.0.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.0.0-beta.1.zip",
+        "5.0.0-beta.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.0.0-beta.2.zip",
+        "5.0.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.0.0-rc.1.zip",
+        "5.0.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.0.0-rc.2.zip",
+        "5.0.0-rc.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.0.0-rc.3.zip",
+        "5.0.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.0.1.zip",
+        "5.0.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.0.2.zip",
+        "5.0.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.0.3.zip",
+        "5.1.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.1.0.zip",
+        "5.1.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.1.0-beta.1.zip",
+        "5.1.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.1.0-rc.1.zip",
+        "5.1.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.1.1.zip",
+        "5.1.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.1.2.zip",
+        "5.1.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.1.3.zip",
+        "5.2.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.2.0.zip",
+        "5.2.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.2.0-beta.1.zip",
+        "5.2.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.2.0-rc.1.zip",
+        "5.2.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.2.0-rc.2.zip",
+        "5.2.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.2.1.zip",
+        "5.2.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.2.2.zip",
+        "5.2.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.2.3.zip",
+        "5.2.4": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.2.4.zip",
+        "5.2.5": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.2.5.zip",
+        "5.3.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.3.0.zip",
+        "5.3.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.3.0-beta.1.zip",
+        "5.3.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.3.0-rc.1.zip",
+        "5.3.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.3.0-rc.2.zip",
+        "5.3.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.3.1.zip",
+        "5.3.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.3.2.zip",
+        "5.3.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.3.3.zip",
+        "5.4.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.4.0.zip",
+        "5.4.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.4.0-beta.1.zip",
+        "5.4.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.4.0-rc.1.zip",
+        "5.4.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.4.1.zip",
+        "5.4.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.4.2.zip",
+        "5.4.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.4.3.zip",
+        "5.4.4": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.4.4.zip",
+        "5.5.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.5.0.zip",
+        "5.5.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.5.0-beta.1.zip",
+        "5.5.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.5.0-rc.1.zip",
+        "5.5.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.5.0-rc.2.zip",
+        "5.5.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.5.1.zip",
+        "5.5.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.5.2.zip",
+        "5.5.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.5.3.zip",
+        "5.5.4": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.5.4.zip",
+        "5.6.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.6.0.zip",
+        "5.6.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.6.0-beta.1.zip",
+        "5.6.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.6.0-rc.1.zip",
+        "5.6.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.6.0-rc.2.zip",
+        "5.6.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.6.1.zip",
+        "5.6.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.6.2.zip",
+        "5.7.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.7.0.zip",
+        "5.7.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.7.0-beta.1.zip",
+        "5.7.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.7.0-rc.1.zip",
+        "5.7.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.7.1.zip",
+        "5.7.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.7.2.zip",
+        "5.8.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.8.0.zip",
+        "5.8.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.8.0-beta.1.zip",
+        "5.8.0-beta.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.8.0-beta.2.zip",
+        "5.8.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.8.0-rc.1.zip",
+        "5.8.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.8.1.zip",
+        "5.9.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.9.0.zip",
+        "5.9.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.9.0-beta.1.zip",
+        "5.9.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.9.0-rc.1.zip",
+        "5.9.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.9.0-rc.2.zip",
+        "5.9.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.5.9.1.zip",
+        "6.0.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.0.0.zip",
+        "6.0.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.0.0-beta.1.zip",
+        "6.0.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.0.0-rc.1.zip",
+        "6.0.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.0.1.zip",
+        "6.1.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.1.0.zip",
+        "6.1.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.1.0-beta.1.zip",
+        "6.1.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.1.0-rc.1.zip",
+        "6.1.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.1.0-rc.2.zip",
+        "6.1.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.1.1.zip",
+        "6.1.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.1.2.zip",
+        "6.2.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.2.0.zip",
+        "6.2.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.2.0-beta.1.zip",
+        "6.2.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.2.0-rc.1.zip",
+        "6.2.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.2.0-rc.2.zip",
+        "6.2.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.2.1.zip",
+        "6.2.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.2.2.zip",
+        "6.3.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.3.0.zip",
+        "6.3.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.3.0-beta.1.zip",
+        "6.3.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.3.0-rc.1.zip",
+        "6.3.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.3.0-rc.2.zip",
+        "6.3.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.3.1.zip",
+        "6.4.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.4.0.zip",
+        "6.4.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.4.0-beta.1.zip",
+        "6.4.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.4.0-rc.1.zip",
+        "6.4.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.4.1.zip",
+        "6.5.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.5.0.zip",
+        "6.5.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.5.0-beta.1.zip",
+        "6.5.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.5.0-rc.1.zip",
+        "6.5.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.5.0-rc.2.zip",
+        "6.5.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.5.1.zip",
+        "6.6.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.6.0.zip",
+        "6.6.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.6.0-beta.1.zip",
+        "6.6.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.6.0-rc.1.zip",
+        "6.6.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.6.0-rc.2.zip",
+        "6.6.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.6.1.zip",
+        "6.7.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.7.0.zip",
+        "6.7.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.7.0-beta.1.zip",
+        "6.7.0-beta.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.7.0-beta.2.zip",
+        "6.7.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.7.0-rc.1.zip",
+        "6.8.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.8.0.zip",
+        "6.8.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.8.0-beta.1.zip",
+        "6.8.0-beta.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.8.0-beta.2.zip",
+        "6.8.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.8.0-rc.1.zip",
+        "6.8.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.8.1.zip",
+        "6.8.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.8.2.zip",
+        "6.9.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.9.0.zip",
+        "6.9.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.9.0-beta.1.zip",
+        "6.9.0-beta.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.9.0-beta.2.zip",
+        "6.9.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.9.0-rc.1.zip",
+        "6.9.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.9.1.zip",
+        "6.9.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.9.2.zip",
+        "6.9.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.9.3.zip",
+        "6.9.4": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.6.9.4.zip",
+        "7.0.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.0.0.zip",
+        "7.0.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.0.0-beta.1.zip",
+        "7.0.0-beta.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.0.0-beta.2.zip",
+        "7.0.0-beta.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.0.0-beta.3.zip",
+        "7.0.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.0.0-rc.1.zip",
+        "7.0.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.0.0-rc.2.zip",
+        "7.0.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.0.1.zip",
+        "7.1.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.1.0.zip",
+        "7.1.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.1.0-beta.1.zip",
+        "7.1.0-beta.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.1.0-beta.2.zip",
+        "7.1.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.1.0-rc.1.zip",
+        "7.1.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.1.0-rc.2.zip",
+        "7.1.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.1.1.zip",
+        "7.2.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.2.0.zip",
+        "7.2.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.2.0-beta.1.zip",
+        "7.2.0-beta.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.2.0-beta.2.zip",
+        "7.2.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.2.0-rc.1.zip",
+        "7.2.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.2.0-rc.2.zip",
+        "7.2.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.2.1.zip",
+        "7.2.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.2.2.zip",
+        "7.2.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.2.3.zip",
+        "7.3.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.3.0.zip",
+        "7.3.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.3.0-beta.1.zip",
+        "7.3.0-beta.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.3.0-beta.2.zip",
+        "7.3.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.3.0-rc.1.zip",
+        "7.3.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.3.0-rc.2.zip",
+        "7.4.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.4.0.zip",
+        "7.4.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.4.0-beta.1.zip",
+        "7.4.0-beta.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.4.0-beta.2.zip",
+        "7.4.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.4.0-rc.1.zip",
+        "7.4.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.4.0-rc.2.zip",
+        "7.4.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.4.1.zip",
+        "7.5.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.5.0.zip",
+        "7.5.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.5.0-beta.1.zip",
+        "7.5.0-beta.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.5.0-beta.2.zip",
+        "7.5.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.5.0-rc.1.zip",
+        "7.5.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.5.1.zip",
+        "7.6.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.6.0.zip",
+        "7.6.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.6.0-beta.1.zip",
+        "7.6.0-beta.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.6.0-beta.2.zip",
+        "7.6.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.6.0-rc.1.zip",
+        "7.6.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.6.0-rc.2.zip",
+        "7.6.0-rc.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.6.0-rc.3.zip",
+        "7.6.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.6.1.zip",
+        "7.7.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.7.0.zip",
+        "7.7.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.7.0-beta.1.zip",
+        "7.7.0-beta.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.7.0-beta.2.zip",
+        "7.7.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.7.0-rc.1.zip",
+        "7.7.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.7.1.zip",
+        "7.7.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.7.2.zip",
+        "7.8.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.8.0.zip",
+        "7.8.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.8.0-beta.1.zip",
+        "7.8.0-beta.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.8.0-beta.2.zip",
+        "7.8.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.8.0-rc.1.zip",
+        "7.8.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.8.0-rc.2.zip",
+        "7.8.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.8.1.zip",
+        "7.8.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.8.2.zip",
+        "7.9.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.9.0.zip",
+        "7.9.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.9.0-beta.1.zip",
+        "7.9.0-beta.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.9.0-beta.2.zip",
+        "7.9.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.9.0-rc.2.zip",
+        "7.9.0-rc.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.7.9.0-rc.3.zip",
+        "8.0.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.0.0.zip",
+        "8.0.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.0.0-beta.1.zip",
+        "8.0.0-beta.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.0.0-beta.2.zip",
+        "8.0.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.0.0-rc.1.zip",
+        "8.0.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.0.0-rc.2.zip",
+        "8.0.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.0.1.zip",
+        "8.0.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.0.2.zip",
+        "8.0.3": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.0.3.zip",
+        "8.1.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.1.0.zip",
+        "8.1.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.1.0-beta.1.zip",
+        "8.1.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.1.0-rc.1.zip",
+        "8.1.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.1.0-rc.2.zip",
+        "8.1.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.1.1.zip",
+        "8.2.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.2.0.zip",
+        "8.2.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.2.0-beta.1.zip",
+        "8.2.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.2.0-rc.1.zip",
+        "8.2.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.2.0-rc.2.zip",
+        "8.2.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.2.1.zip",
+        "8.2.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.2.2.zip",
+        "8.3.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.3.0.zip",
+        "8.3.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.3.0-beta.1.zip",
+        "8.3.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.3.0-rc.1.zip",
+        "8.3.0-rc.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.3.0-rc.2.zip",
+        "8.3.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.3.1.zip",
+        "8.4.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.4.0.zip",
+        "8.4.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.4.0-beta.1.zip",
+        "8.4.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.4.0-rc.1.zip",
+        "8.5.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.5.0.zip",
+        "8.5.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.5.0-beta.1.zip",
+        "8.5.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.5.0-rc.1.zip",
+        "8.5.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.5.1.zip",
+        "8.5.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.5.2.zip",
+        "8.6.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.6.0.zip",
+        "8.6.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.6.0-beta.1.zip",
+        "8.6.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.6.0-rc.1.zip",
+        "8.6.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.6.1.zip",
+        "8.7.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.7.0.zip",
+        "8.7.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.7.0-beta.1.zip",
+        "8.7.0-beta.2": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.7.0-beta.2.zip",
+        "8.7.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.7.0-rc.1.zip",
+        "8.8.0": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.8.0.zip",
+        "8.8.0-beta.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.8.0-beta.1.zip",
+        "8.8.0-rc.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.8.0-rc.1.zip",
+        "8.8.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.8.8.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce.zip"
+    },
+    "business_model": "commercial",
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/woocommerce\/assets\/banner-772x250.png?rev=3000842",
+        "high": "https:\/\/ps.w.org\/woocommerce\/assets\/banner-1544x500.png?rev=3000842"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/woocommerce\/assets\/icon-128x128.gif?rev=2869506",
+        "2x": "https:\/\/ps.w.org\/woocommerce\/assets\/icon-256x256.gif?rev=2869506"
+    },
+    "blocks": {
+        "woocommerce\/stock-filter": {
+            "name": "woocommerce\/stock-filter",
+            "version": "1.0.0",
+            "title": "Filter by Stock Controls",
+            "description": "Enable customers to filter the product grid by stock status.",
+            "category": "woocommerce",
+            "keywords": [
+                "WooCommerce"
+            ],
+            "supports": {
+                "html": false,
+                "multiple": false,
+                "color": true,
+                "inserter": false,
+                "lock": false
+            },
+            "attributes": {
+                "className": {
+                    "type": "string",
+                    "default": ""
+                },
+                "headingLevel": {
+                    "type": "number",
+                    "default": 3
+                },
+                "showCounts": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "showFilterButton": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "displayStyle": {
+                    "type": "string",
+                    "default": "list"
+                },
+                "selectType": {
+                    "type": "string",
+                    "default": "multiple"
+                },
+                "isPreview": {
+                    "type": "boolean",
+                    "default": false
+                }
+            },
+            "textdomain": "woocommerce",
+            "apiVersion": 2,
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json"
+        },
+        "woocommerce\/rating-filter": {
+            "name": "woocommerce\/rating-filter",
+            "version": "1.0.0",
+            "title": "Filter by Rating Controls",
+            "description": "Enable customers to filter the product grid by rating.",
+            "category": "woocommerce",
+            "keywords": [
+                "WooCommerce"
+            ],
+            "supports": {
+                "html": false,
+                "multiple": false,
+                "color": true,
+                "inserter": false,
+                "lock": false
+            },
+            "attributes": {
+                "className": {
+                    "type": "string",
+                    "default": ""
+                },
+                "showCounts": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "displayStyle": {
+                    "type": "string",
+                    "default": "list"
+                },
+                "showFilterButton": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "selectType": {
+                    "type": "string",
+                    "default": "multiple"
+                },
+                "isPreview": {
+                    "type": "boolean",
+                    "default": false
+                }
+            },
+            "textdomain": "woocommerce",
+            "apiVersion": 2,
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 90,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "ary",
+            "version": "8.7.0",
+            "updated": "2023-11-16 19:22:22",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/ary.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "ar",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:16:34",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/ar.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "bg_BG",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:48:46",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/bg_BG.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "bs_BA",
+            "version": "8.7.0",
+            "updated": "2023-10-27 20:26:17",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/bs_BA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "ca",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:17:05",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/ca.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "cs_CZ",
+            "version": "8.7.0",
+            "updated": "2024-02-27 15:28:10",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/cs_CZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "da_DK",
+            "version": "8.7.0",
+            "updated": "2024-03-19 22:32:08",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/da_DK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "de_CH",
+            "version": "8.7.0",
+            "updated": "2024-03-19 17:51:16",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/de_CH.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "de_CH_informal",
+            "version": "8.7.0",
+            "updated": "2024-03-19 17:51:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/de_CH_informal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "de_DE",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:18:56",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "de_DE_formal",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:19:02",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/de_DE_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "el",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:19:12",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/el.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "en_ZA",
+            "version": "8.7.0",
+            "updated": "2023-02-14 20:02:38",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/en_ZA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "en_GB",
+            "version": "8.7.0",
+            "updated": "2024-04-15 19:18:24",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/en_GB.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "en_NZ",
+            "version": "8.7.0",
+            "updated": "2024-04-15 22:36:02",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/en_NZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "en_AU",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:17:59",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/en_AU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "en_CA",
+            "version": "8.7.0",
+            "updated": "2024-03-26 08:34:50",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/en_CA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "eo",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:18:19",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/eo.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "es_MX",
+            "version": "8.7.0",
+            "updated": "2024-02-28 14:13:44",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/es_MX.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "es_CL",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:22:01",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/es_CL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "es_VE",
+            "version": "8.7.0",
+            "updated": "2024-02-02 23:26:21",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "es_EC",
+            "version": "8.7.0",
+            "updated": "2023-11-16 19:23:45",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/es_EC.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "es_CR",
+            "version": "8.7.0",
+            "updated": "2020-11-06 07:37:09",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/es_CR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "es_CO",
+            "version": "8.7.0",
+            "updated": "2024-03-19 17:54:13",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/es_CO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "es_AR",
+            "version": "8.7.0",
+            "updated": "2023-11-16 19:23:35",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/es_AR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "es_ES",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:22:22",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "et",
+            "version": "8.7.0",
+            "updated": "2023-12-12 22:23:46",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/et.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "eu",
+            "version": "8.7.0",
+            "updated": "2023-12-15 23:20:01",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/eu.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "fa_AF",
+            "version": "8.7.0",
+            "updated": "2024-02-19 23:37:33",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/fa_AF.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "fa_IR",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:20:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/fa_IR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "fi",
+            "version": "8.7.0",
+            "updated": "2024-04-05 08:09:19",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/fi.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "fr_BE",
+            "version": "8.7.0",
+            "updated": "2022-05-20 05:27:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/fr_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "fr_FR",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:18:38",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "fr_CA",
+            "version": "8.7.0",
+            "updated": "2024-04-12 16:37:03",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/fr_CA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "gl_ES",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:18:44",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/gl_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "he_IL",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:19:24",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/he_IL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "hr",
+            "version": "8.7.0",
+            "updated": "2024-02-23 21:15:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/hr.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "hu_HU",
+            "version": "8.7.0",
+            "updated": "2024-03-05 14:34:52",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/hu_HU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "id_ID",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:19:40",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/id_ID.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "it_IT",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:19:48",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "ja",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:19:55",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/ja.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "ka_GE",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:18:48",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/ka_GE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "ko_KR",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:20:07",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/ko_KR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "ckb",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:20:11",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/ckb.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "lt_LT",
+            "version": "8.7.0",
+            "updated": "2024-02-07 19:32:50",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/lt_LT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "lv",
+            "version": "8.7.0",
+            "updated": "2024-03-25 22:01:47",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/lv.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "mk_MK",
+            "version": "8.7.0",
+            "updated": "2024-02-26 16:55:01",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/mk_MK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "nb_NO",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:20:44",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/nb_NO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "nl_NL",
+            "version": "8.7.0",
+            "updated": "2024-04-15 19:21:55",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "nl_NL_formal",
+            "version": "8.7.0",
+            "updated": "2024-04-15 20:13:00",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/nl_NL_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "nl_BE",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:17:47",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/nl_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "oci",
+            "version": "8.7.0",
+            "updated": "2017-10-12 14:47:42",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/oci.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "pl_PL",
+            "version": "8.7.0",
+            "updated": "2024-04-11 06:34:55",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/pl_PL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "pt_AO",
+            "version": "8.7.0",
+            "updated": "2021-06-03 19:01:11",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/pt_AO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "pt_BR",
+            "version": "8.7.0",
+            "updated": "2024-04-14 03:58:08",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/pt_BR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "pt_PT",
+            "version": "8.7.0",
+            "updated": "2024-04-15 13:24:03",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/pt_PT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "pt_PT_ao90",
+            "version": "8.7.0",
+            "updated": "2022-11-16 13:28:02",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/pt_PT_ao90.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "ro_RO",
+            "version": "8.7.0",
+            "updated": "2024-04-15 17:20:34",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/ro_RO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "ru_RU",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:21:32",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "sk_SK",
+            "version": "8.7.0",
+            "updated": "2024-02-01 20:05:44",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/sk_SK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "sl_SI",
+            "version": "8.7.0",
+            "updated": "2024-01-30 09:37:57",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/sl_SI.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "sq",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:16:23",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/sq.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "sr_RS",
+            "version": "8.7.0",
+            "updated": "2024-02-17 21:11:31",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/sr_RS.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "sv_SE",
+            "version": "8.7.0",
+            "updated": "2024-04-15 17:47:12",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/sv_SE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "th",
+            "version": "8.7.0",
+            "updated": "2023-08-10 06:56:50",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/th.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "tr_TR",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:22:56",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/tr_TR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "uk",
+            "version": "8.7.0",
+            "updated": "2024-04-15 23:14:07",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/uk.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "uz_UZ",
+            "version": "8.7.0",
+            "updated": "2023-11-16 19:24:50",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/uz_UZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "vi",
+            "version": "8.7.0",
+            "updated": "2023-05-26 14:39:52",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/vi.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "zh_HK",
+            "version": "8.7.0",
+            "updated": "2023-11-16 19:19:06",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/zh_HK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "zh_CN",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:17:14",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/zh_CN.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woocommerce",
+            "language": "zh_TW",
+            "version": "8.7.0",
+            "updated": "2024-04-15 15:17:23",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce\/8.7.0\/zh_TW.zip"
+        }
+    ]
+}

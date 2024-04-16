@@ -1,0 +1,119 @@
+{
+    "name": "WooCommerce Blacklist Manager",
+    "slug": "wc-blacklist-manager",
+    "version": "1.1.3",
+    "author": "<a href=\"https:\/\/yoohw.co\">Yo Ohw<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/yoohw\/",
+    "contributors": {
+        "yoohw": {
+            "profile": "https:\/\/profiles.wordpress.org\/yoohw\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2ddc7c9890b068ddb078d5e3bd0cda82?s=96&d=monsterid&r=g",
+            "display_name": "Yo Ohw"
+        },
+        "baonguyen0310": {
+            "profile": "https:\/\/profiles.wordpress.org\/baonguyen0310\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/9d179672d3b7e6ecd4fc3ccc9172604e?s=96&d=monsterid&r=g",
+            "display_name": "B.Ng"
+        }
+    },
+    "requires": "5.2",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/wc-blacklist-manager\/",
+    "support_threads": 1,
+    "support_threads_resolved": 0,
+    "active_installs": 30,
+    "downloaded": 451,
+    "last_updated": "2024-03-24 7:31am GMT",
+    "added": "2024-01-18",
+    "homepage": "https:\/\/wordpress.org\/plugins\/wc-blacklist-manager",
+    "sections": {
+        "description": "<p>The WooCommerce Blacklist Manager plugin is an essential tool for WooCommerce store owners, providing the ability to blacklist specific phone numbers and email addresses. This plugin helps in preventing orders or cancellations from unwanted or problematic sources, also refused the visitor to create an account. With an easy-to-use interface integrated into the WordPress dashboard, managing your blacklist is both straightforward and efficient.<\/p>\n<h3>Features<\/h3>\n<ul>\n<li><strong>Blacklist Management<\/strong>: Add phone numbers and email addresses to your blacklist directly from the WordPress admin panel and Edit Order page.<\/li>\n<li><strong>Blocklist Management<\/strong>: Move phone numbers and email address to your blocklist directly from the WordPress admin panel and Edit Order page.<\/li>\n<li><strong>IP Blacklist<\/strong>: Enable IP Blacklist option to ban customer ip to your blacklist directly from the Edit Order page.<\/li>\n<li><strong>Search Functionality<\/strong>: Easily search through your blacklist to find specific entries.<\/li>\n<li><strong>Date Tracking<\/strong>: Each entry records the date and time it was added for better tracking.<\/li>\n<li><strong>Email Notifications<\/strong>: Sending notifications via email when the Customer in Blacklist has placed an order.<\/li>\n<li><strong>Action on Blocked List<\/strong>: Cancels the order when the Customer in the Blocked List has placed an order with a delay of time. Or Prevents to place an order with an alert message to the customer while checking out. Either declined to create an account.<\/li>\n<li><strong>Action on IP Blacklist<\/strong>: Prevents to place an order with an alert message to the customer while checking out.<\/li>\n<\/ul>\n<h3>Usage<\/h3>\n<ul>\n<li><strong>Accessing the Blacklist Manager<\/strong>: After activation, find the &#8216;Blacklist Manager&#8217; option in your WordPress admin menu.<\/li>\n<li><strong>Adding to Blacklist<\/strong>: Use the provided form to add phone numbers or email addresses. You can add either or both.<\/li>\n<li><strong>Searching the Blacklist<\/strong>: Utilize the search feature above the blacklist table to filter entries.<\/li>\n<li><strong>Navigating the List<\/strong>: The pagination controls allow you to navigate through multiple pages if your blacklist grows.<\/li>\n<li><strong>Blocklist Management<\/strong>: Have the same functions with the Blacklist, but more further as auto cancelled order.<\/li>\n<li><strong>IP Blacklist<\/strong>: When enabled then the customer ip will be able to manage and you can prevent the user to place an order.<\/li>\n<li><strong>Settings<\/strong>: Selects the options to cancel or prevent an order, and declined to create an account.<\/li>\n<\/ul>\n<h3>Additional Notes<\/h3>\n<ul>\n<li>This plugin requires WooCommerce to be installed and activated.<\/li>\n<li>Always back up your WordPress site before installing new plugins.<\/li>\n<li>The plugin is developed and tested with WordPress version 6.4.1 and WooCommerce version 8.3.1.<\/li>\n<\/ul>\n<h3>Support<\/h3>\n<p>For support, please contact dev@yoohw.co.<\/p>\n",
+        "installation": "<ol>\n<li><strong>Upload Plugin<\/strong>: Download the plugin and upload it to your WordPress site under <code>wp-content\/plugins<\/code>.<\/li>\n<li><strong>Activate<\/strong>: Navigate to the WordPress admin area, go to the &#8216;Plugins&#8217; section, and activate the &#8216;WooCommerce Blacklist Manager&#8217; plugin.<\/li>\n<li><strong>Database Setup<\/strong>: Upon activation, the plugin automatically creates the necessary database tables.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='q%3A%20do%20i%20need%20to%20configure%20any%20settings%20after%20installation%3F'>\nQ: Do I need to configure any settings after installation?\n<\/h4>\n<p>\n<p>A: Yes, additional configuration is needed for the plugin to work as your expectation.<\/p>\n<\/p>\n<dt id='q%3A%20is%20there%20a%20limit%20to%20the%20number%20of%20entries%20i%20can%20add%20to%20the%20blacklist%3F'>\nQ: Is there a limit to the number of entries I can add to the blacklist?\n<\/h4>\n<p>\n<p>A: There is no set limit within the plugin, but practical limitations depend on your server and database performance.<\/p>\n<\/p>\n\n",
+        "changelog": "<h3>1.1.3<\/h3>\n<ul>\n<li>New: Added an option (Settings) to prevent placing an order.<\/li>\n<li>Improvement: Clear some unused codes. Small fixes.<\/li>\n<\/ul>\n<h3>1.1.2<\/h3>\n<ul>\n<li>New: IP Blacklist released.<\/li>\n<li>New: Add customer IP into IP Blacklist by click on Add to Blacklist button (Flag icon) in the Order page (Admin).<\/li>\n<li>Improvement: Popup message to confirm if you are sure to do the actions in the Blacklist Management.<\/li>\n<\/ul>\n<h3>1.1.1<\/h3>\n<ul>\n<li>New: Declined to create an account if the email address is on Blocked list.<\/li>\n<li>New: Added the popup message to confirm if you are sure to do the action in the Order page (Admin).<\/li>\n<li>Improvement: Change the text button to be icon button in the Order page (Admin).<\/li>\n<li>Improvement: Refresh the Order page after Add to Blacklist message&#8217;s displaying automatically (in 3 seconds).<\/li>\n<\/ul>\n<h3>1.1.0<\/h3>\n<ul>\n<li>Settings: Prevent Order selection added.<\/li>\n<li>Language updated.<\/li>\n<\/ul>\n<h3>1.0.1<\/h3>\n<ul>\n<li>JavaScript file is specifically enqueued only on the plugin.<\/li>\n<li>Small bugs fixed.<\/li>\n<\/ul>\n<h3>1.0.0<\/h3>\n<ul>\n<li>Initial release.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/screenshot-1.png?rev=3045075\"><img src=\"https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/screenshot-1.png?rev=3045075\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/screenshot-2.png?rev=3048135\"><img src=\"https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/screenshot-2.png?rev=3048135\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/screenshot-3.png?rev=3057259\"><img src=\"https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/screenshot-3.png?rev=3057259\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/screenshot-4.png?rev=3057259\"><img src=\"https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/screenshot-4.png?rev=3057259\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/screenshot-5.png?rev=3057259\"><img src=\"https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/screenshot-5.png?rev=3057259\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/screenshot-6.png?rev=3057259\"><img src=\"https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/screenshot-6.png?rev=3057259\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/screenshot-7.png?rev=3057533\"><img src=\"https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/screenshot-7.png?rev=3057533\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "The WooCommerce Blacklist Manager plugin is an essential tool for WooCommerce store owners, providing the ability to blacklist specific phone numbers  &hellip;",
+    "description": "<p>The WooCommerce Blacklist Manager plugin is an essential tool for WooCommerce store owners, providing the ability to blacklist specific phone numbers and email addresses. This plugin helps in preventing orders or cancellations from unwanted or problematic sources, also refused the visitor to create an account. With an easy-to-use interface integrated into the WordPress dashboard, managing your blacklist is both straightforward and efficient.<\/p>\n<h3>Features<\/h3>\n<ul>\n<li><strong>Blacklist Management<\/strong>: Add phone numbers and email addresses to your blacklist directly from the WordPress admin panel and Edit Order page.<\/li>\n<li><strong>Blocklist Management<\/strong>: Move phone numbers and email address to your blocklist directly from the WordPress admin panel and Edit Order page.<\/li>\n<li><strong>IP Blacklist<\/strong>: Enable IP Blacklist option to ban customer ip to your blacklist directly from the Edit Order page.<\/li>\n<li><strong>Search Functionality<\/strong>: Easily search through your blacklist to find specific entries.<\/li>\n<li><strong>Date Tracking<\/strong>: Each entry records the date and time it was added for better tracking.<\/li>\n<li><strong>Email Notifications<\/strong>: Sending notifications via email when the Customer in Blacklist has placed an order.<\/li>\n<li><strong>Action on Blocked List<\/strong>: Cancels the order when the Customer in the Blocked List has placed an order with a delay of time. Or Prevents to place an order with an alert message to the customer while checking out. Either declined to create an account.<\/li>\n<li><strong>Action on IP Blacklist<\/strong>: Prevents to place an order with an alert message to the customer while checking out.<\/li>\n<\/ul>\n<h3>Usage<\/h3>\n<ul>\n<li><strong>Accessing the Blacklist Manager<\/strong>: After activation, find the &#8216;Blacklist Manager&#8217; option in your WordPress admin menu.<\/li>\n<li><strong>Adding to Blacklist<\/strong>: Use the provided form to add phone numbers or email addresses. You can add either or both.<\/li>\n<li><strong>Searching the Blacklist<\/strong>: Utilize the search feature above the blacklist table to filter entries.<\/li>\n<li><strong>Navigating the List<\/strong>: The pagination controls allow you to navigate through multiple pages if your blacklist grows.<\/li>\n<li><strong>Blocklist Management<\/strong>: Have the same functions with the Blacklist, but more further as auto cancelled order.<\/li>\n<li><strong>IP Blacklist<\/strong>: When enabled then the customer ip will be able to manage and you can prevent the user to place an order.<\/li>\n<li><strong>Settings<\/strong>: Selects the options to cancel or prevent an order, and declined to create an account.<\/li>\n<\/ul>\n<h3>Additional Notes<\/h3>\n<ul>\n<li>This plugin requires WooCommerce to be installed and activated.<\/li>\n<li>Always back up your WordPress site before installing new plugins.<\/li>\n<li>The plugin is developed and tested with WordPress version 6.4.1 and WooCommerce version 8.3.1.<\/li>\n<\/ul>\n<h3>Support<\/h3>\n<p>For support, please contact dev@yoohw.co.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wc-blacklist-manager.1.1.3.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/screenshot-1.png?rev=3045075",
+            "caption": ""
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/screenshot-2.png?rev=3048135",
+            "caption": ""
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/screenshot-3.png?rev=3057259",
+            "caption": ""
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/screenshot-4.png?rev=3057259",
+            "caption": ""
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/screenshot-5.png?rev=3057259",
+            "caption": ""
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/screenshot-6.png?rev=3057259",
+            "caption": ""
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/screenshot-7.png?rev=3057533",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "blacklist-customers": "Blacklist customers",
+        "block-ip": "block ip",
+        "fraud-customers": "fraud customers",
+        "fraud-prevention": "fraud prevention",
+        "woocommerce-anti-fraud": "WooCommerce Anti-Fraud"
+    },
+    "stable_tag": "1.1.3",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/wc-blacklist-manager.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/wc-blacklist-manager.1.0.1.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/wc-blacklist-manager.1.1.0.zip",
+        "1.1.1": "https:\/\/downloads.wordpress.org\/plugin\/wc-blacklist-manager.1.1.1.zip",
+        "1.1.2": "https:\/\/downloads.wordpress.org\/plugin\/wc-blacklist-manager.1.1.2.zip",
+        "1.1.3": "https:\/\/downloads.wordpress.org\/plugin\/wc-blacklist-manager.1.1.3.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/wc-blacklist-manager.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/banner-772x250.png?rev=3057555",
+        "high": "https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/banner-1544x500.png?rev=3057555"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/icon.svg?rev=3023427",
+        "svg": "https:\/\/ps.w.org\/wc-blacklist-manager\/assets\/icon.svg?rev=3023427"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

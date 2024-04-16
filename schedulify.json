@@ -1,0 +1,105 @@
+{
+    "name": "Schedulify &#8211; The Ultimate WordPress Scheduled Post Manager",
+    "slug": "schedulify",
+    "version": "1.0.4",
+    "author": "<a href=\"https:\/\/wpcorner.co\">WP Corner<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/wpcornerke\/",
+    "contributors": {
+        "lumiblog": {
+            "profile": "https:\/\/profiles.wordpress.org\/lumiblog\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/f5bee397738a30c6fd24a75b80d09679?s=96&d=monsterid&r=g",
+            "display_name": "Patrick Lumumba"
+        },
+        "wpcornerke": {
+            "profile": "https:\/\/profiles.wordpress.org\/wpcornerke\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2c7ad578191c09146386b326476859c9?s=96&d=monsterid&r=g",
+            "display_name": "WP Corner"
+        }
+    },
+    "requires": "5.8",
+    "tested": "6.5.2",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/schedulify\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 22,
+    "last_updated": "2024-04-14 2:49pm GMT",
+    "added": "2024-04-14",
+    "homepage": "",
+    "sections": {
+        "description": "<p><em>Schedulify<\/em> is a powerful WordPress plugin designed to streamline the management of scheduled posts, ensuring timely publication and providing essential tools for administrators. This plugin addresses the common challenges associated with WordPress cron and enhances the scheduled post publishing process.<\/p>\n<h3>Key Features<\/h3>\n<ul>\n<li>\n<p><strong>Automated Scheduled Post Publication<\/strong>: Schedulify takes charge of scheduled post publication, automatically publishing posts that may have been missed by the default WordPress cron.<\/p>\n<\/li>\n<li>\n<p><strong>Email Notifications<\/strong>: Receive instant email notifications upon the successful publication of scheduled posts. Keep administrators informed about the latest updates directly in their inbox.<\/p>\n<\/li>\n<li>\n<p><strong>Customizable Interval Settings<\/strong>: Tailor the plugin to your needs by setting a custom interval for scheduled post checks. <strong>Choose intervals from 5 to 60 minutes<\/strong>, providing flexibility based on your site&#8217;s requirements.<\/p>\n<\/li>\n<li>\n<p><strong>User Role Access Control<\/strong>: Fine-tune access control by specifying user roles that are permitted to manage the Schedulify settings. This feature ensures that only authorized users can configure and monitor the plugin.<\/p>\n<\/li>\n<li>\n<p><strong>Detailed Plugin Settings<\/strong>: Access a dedicated settings page within the WordPress dashboard, offering a user-friendly interface for configuring Schedulify. Admins can easily manage <strong>email notifications<\/strong>, <strong>custom intervals<\/strong>, and <strong>user role access<\/strong>.<\/p>\n<\/li>\n<li>\n<p><strong>Plugin Activation Link<\/strong>: Directly access the list of scheduled posts from the WordPress dashboard by utilizing the convenient &#8220;Scheduled Posts&#8221; link added under the &#8216;Posts&#8217; menu.<\/p>\n<\/li>\n<\/ul>\n<h3>Documentation and Support<\/h3>\n<p>Refer to the comprehensive <a href=\"https:\/\/github.com\/lumumbapl\/Schedulify\/wiki\/Documentation\" rel=\"nofollow ugc\">plugin documentation<\/a> for detailed guidance on Schedulify&#8217;s functionalities. Additionally, get support by visiting our <a href=\"https:\/\/wordpress.org\/support\/plugin\/schedulify\/\" rel=\"ugc\">Support Page<\/a>.<\/p>\n",
+        "installation": "<h4>Requirements<\/h4>\n<p>To run Schedulify, we recommend your host supports:<\/p>\n<ul>\n<li>PHP version 7.4 or greater.<\/li>\n<li>MySQL version 5.6 or greater, or, MariaDB version 10.0 or greater.<\/li>\n<li>HTTPS support.<\/li>\n<\/ul>\n<h4>Installation Process<\/h4>\n<ol>\n<li>Go to the WordPress admin dashboard<\/li>\n<li>Navigate to <code>Plugins<\/code> &gt; <code>Add New<\/code><\/li>\n<li>Search for Schedulify<\/li>\n<li>Click <code>Install Now<\/code><\/li>\n<li>Activate the plugin<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='how%20does%20schedulify%20ensure%20scheduled%20posts%20are%20not%20missed'>\nHow does Schedulify ensure scheduled posts are not missed\n<\/h4>\n<p>\n<p>Schedulify automatically checks for missed scheduled posts, ensuring they are published promptly. It complements the default WordPress cron system to prevent any lapses.<\/p>\n<\/p>\n<dt id='can%20i%20customize%20the%20interval%20for%20checking%20scheduled%20posts%3F'>\nCan I customize the interval for checking scheduled posts?\n<\/h4>\n<p>\n<p>Yes, Schedulify offers customizable interval settings. You can choose intervals between 5 and 60 minutes based on your site&#8217;s needs.<\/p>\n<\/p>\n<dt id='what%20happens%20if%20i%20enable%20email%20notifications%3F'>\nWhat happens if I enable email notifications?\n<\/h4>\n<p>\n<p>Enabling email notifications ensures that administrators receive instant notifications upon the successful publication of scheduled posts. This feature keeps you informed about the latest updates on your site.<\/p>\n<\/p>\n<dt id='how%20can%20i%20control%20access%20to%20schedulify%20settings%3F'>\nHow can I control access to Schedulify settings?\n<\/h4>\n<p>\n<p>Schedulify allows you to control access by specifying user roles that are authorized to manage the plugin settings. This enhances security and ensures that only authorized users can configure the plugin.<\/p>\n<p><em>Schedulify<\/em> is your reliable solution for efficient scheduled post management in WordPress, combining automation with user-friendly customization options. Upgrade your publishing workflow with Schedulify today!<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.4<\/h4>\n<ul>\n<li>Minor fix to the plugin file to the issue causing error during plugin activation. <\/li>\n<\/ul>\n<h4>1.0.3<\/h4>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/schedulify\/assets\/Screenshot-1.PNG?rev=3070223\"><img src=\"https:\/\/ps.w.org\/schedulify\/assets\/Screenshot-1.PNG?rev=3070223\" alt=\"Screenshot 1 - Schedulify Settings saved\"><\/a><p>Screenshot 1 - Schedulify Settings saved<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/schedulify\/assets\/Screenshot-2.PNG?rev=3070223\"><img src=\"https:\/\/ps.w.org\/schedulify\/assets\/Screenshot-2.PNG?rev=3070223\" alt=\"Screenshot 2 - Scheduled posts page\"><\/a><p>Screenshot 2 - Scheduled posts page<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/schedulify\/assets\/Screenshot-3.png?rev=3070223\"><img src=\"https:\/\/ps.w.org\/schedulify\/assets\/Screenshot-3.png?rev=3070223\" alt=\"Screenshot 3 - Missed schedule post\"><\/a><p>Screenshot 3 - Missed schedule post<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/schedulify\/assets\/Screenshot-4.png?rev=3070223\"><img src=\"https:\/\/ps.w.org\/schedulify\/assets\/Screenshot-4.png?rev=3070223\" alt=\"Screenshot 4 - Email example of a published post\"><\/a><p>Screenshot 4 - Email example of a published post<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Schedulify is a WordPress plugin that automatically publishes all the scheduled posts missed by WordPress cron.",
+    "description": "<p><em>Schedulify<\/em> is a powerful WordPress plugin designed to streamline the management of scheduled posts, ensuring timely publication and providing essential tools for administrators. This plugin addresses the common challenges associated with WordPress cron and enhances the scheduled post publishing process.<\/p>\n<h3>Key Features<\/h3>\n<ul>\n<li>\n<p><strong>Automated Scheduled Post Publication<\/strong>: Schedulify takes charge of scheduled post publication, automatically publishing posts that may have been missed by the default WordPress cron.<\/p>\n<\/li>\n<li>\n<p><strong>Email Notifications<\/strong>: Receive instant email notifications upon the successful publication of scheduled posts. Keep administrators informed about the latest updates directly in their inbox.<\/p>\n<\/li>\n<li>\n<p><strong>Customizable Interval Settings<\/strong>: Tailor the plugin to your needs by setting a custom interval for scheduled post checks. <strong>Choose intervals from 5 to 60 minutes<\/strong>, providing flexibility based on your site&#8217;s requirements.<\/p>\n<\/li>\n<li>\n<p><strong>User Role Access Control<\/strong>: Fine-tune access control by specifying user roles that are permitted to manage the Schedulify settings. This feature ensures that only authorized users can configure and monitor the plugin.<\/p>\n<\/li>\n<li>\n<p><strong>Detailed Plugin Settings<\/strong>: Access a dedicated settings page within the WordPress dashboard, offering a user-friendly interface for configuring Schedulify. Admins can easily manage <strong>email notifications<\/strong>, <strong>custom intervals<\/strong>, and <strong>user role access<\/strong>.<\/p>\n<\/li>\n<li>\n<p><strong>Plugin Activation Link<\/strong>: Directly access the list of scheduled posts from the WordPress dashboard by utilizing the convenient &#8220;Scheduled Posts&#8221; link added under the &#8216;Posts&#8217; menu.<\/p>\n<\/li>\n<\/ul>\n<h3>Documentation and Support<\/h3>\n<p>Refer to the comprehensive <a href=\"https:\/\/github.com\/lumumbapl\/Schedulify\/wiki\/Documentation\" rel=\"nofollow ugc\">plugin documentation<\/a> for detailed guidance on Schedulify&#8217;s functionalities. Additionally, get support by visiting our <a href=\"https:\/\/wordpress.org\/support\/plugin\/schedulify\/\" rel=\"ugc\">Support Page<\/a>.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/schedulify.1.0.4.zip",
+    "upgrade_notice": {
+        "1.0.4": "<ul>\n<li>A change since the previous version.<\/li>\n<\/ul>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/schedulify\/assets\/Screenshot-1.PNG?rev=3070223",
+            "caption": "Screenshot 1 - Schedulify Settings saved"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/schedulify\/assets\/Screenshot-2.PNG?rev=3070223",
+            "caption": "Screenshot 2 - Scheduled posts page"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/schedulify\/assets\/Screenshot-3.png?rev=3070223",
+            "caption": "Screenshot 3 - Missed schedule post"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/schedulify\/assets\/Screenshot-4.png?rev=3070223",
+            "caption": "Screenshot 4 - Email example of a published post"
+        }
+    },
+    "tags": {
+        "blog": "blog",
+        "blog-posts": "blog posts",
+        "missed-scheduled-posts": "missed scheduled posts",
+        "posts": "posts",
+        "scheduled-posts": "scheduled posts"
+    },
+    "stable_tag": "1.0.4",
+    "versions": {
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/schedulify.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/schedulify.1.0.4.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/schedulify.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/wpcorner.co\/donate\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/schedulify\/assets\/banner-772x250.png?rev=3070223",
+        "high": "https:\/\/ps.w.org\/schedulify\/assets\/banner-1544x500.png?rev=3070223"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/schedulify\/assets\/icon-128x128.png?rev=3070223",
+        "2x": "https:\/\/ps.w.org\/schedulify\/assets\/icon-256x256.png?rev=3070223"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

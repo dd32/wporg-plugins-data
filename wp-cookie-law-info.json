@@ -1,0 +1,122 @@
+{
+    "name": "WP Cookie Law Info",
+    "slug": "wp-cookie-law-info",
+    "version": "1.1",
+    "author": "<a href=\"https:\/\/sohamsolution.com\/\">Soham Web Solution<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/anshuln90\/",
+    "contributors": {
+        "anshuln90": {
+            "profile": "https:\/\/profiles.wordpress.org\/anshuln90\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/ae7b0cc4accbd9b97be74af687f95a37?s=96&d=monsterid&r=g",
+            "display_name": "Anshul Gangrade"
+        },
+        "sohamwebsolution": {
+            "profile": "https:\/\/profiles.wordpress.org\/sohamwebsolution\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/5f04afa2e43860014838c47bc7c75dcb?s=96&d=monsterid&r=g",
+            "display_name": "Soham Web Solution"
+        }
+    },
+    "requires": "3.5",
+    "tested": "6.4.4",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/wp-cookie-law-info\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 1000,
+    "downloaded": 16330,
+    "last_updated": "2024-02-21 5:02am GMT",
+    "added": "2018-04-04",
+    "homepage": "https:\/\/wordpress.org\/plugins\/wp-cookie-law-info\/",
+    "sections": {
+        "description": "<p>WP Cookie Law Info allows you to easily show Cookie Law Popup for showing<br \/>\na notice to the user only the very first time that visits your website.<\/p>\n<p>Message, position and the style can be easily modified through the plugin menu.<\/p>\n<p>The WP Cookie Law Info plugin supports the following features:<\/p>\n<ul>\n<li> Choose Custom background Color<\/li>\n<li> Choose Custom Button Color<\/li>\n<li> Add Custom Message<\/li>\n<li> Options for Show\/Hide Cookie Law Popup<\/li>\n<li> Options for Change Popup Position<\/li>\n<li> Options for Change Popup Layout (4 Layouts available )<\/li>\n<li> Options for Change Color Style<\/li>\n<li> Options for Add Custom policy link and Label Text<\/li>\n<\/ul>\n<p><a href=\"http:\/\/www.paypal.me\/anshulgangrade\" rel=\"nofollow ugc\">Donate Me<\/a><\/p>\n<p>If you are having any kind of issue with configuring our plugin or you face any problem, Contact us on contact@sohamsolution.com<\/p>\n",
+        "installation": "<ol>\n<li>Upload the wp-cookie-law-info folder to the \/wp-content\/plugins\/ directory<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress<\/li>\n<li>Go to Settings &gt; WP Cookie Law Info<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='1%29%20how%20to%20use%20%3F'>\n1) How to Use ?\n<\/h4>\n<p>\n<p>Go to Settings &gt; WP Cookie Law Info.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.1<\/h4>\n<ul>\n<li>Update to support with latest WordPress version 6.4.3<\/li>\n<li>Bug fixes and improvements<\/li>\n<\/ul>\n<h4>1.0<\/h4>\n<p>Initial Release.<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-1.png?rev=1852326\"><img src=\"https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-1.png?rev=1852326\" alt=\"WP Cookie Law Info Setting Option Page\"><\/a><p>WP Cookie Law Info Setting Option Page<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-2.png?rev=1852315\"><img src=\"https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-2.png?rev=1852315\" alt=\"Cookie Law Banner Bottom Position\"><\/a><p>Cookie Law Banner Bottom Position<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-3.png?rev=1852315\"><img src=\"https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-3.png?rev=1852315\" alt=\"Cookie Law Banner Top Position\"><\/a><p>Cookie Law Banner Top Position<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-4.png?rev=1852315\"><img src=\"https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-4.png?rev=1852315\" alt=\"Cookie Law Floating Left Position\"><\/a><p>Cookie Law Floating Left Position<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-5.png?rev=1852315\"><img src=\"https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-5.png?rev=1852315\" alt=\"Cookie Law Floating Right Position\"><\/a><p>Cookie Law Floating Right Position<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-6.png?rev=1852315\"><img src=\"https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-6.png?rev=1852315\" alt=\"Cookie Law Custom Color Design With Block Layout\"><\/a><p>Cookie Law Custom Color Design With Block Layout<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-7.png?rev=1852315\"><img src=\"https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-7.png?rev=1852315\" alt=\"Cookie Law Custom Color Design With Edgeless Layout\"><\/a><p>Cookie Law Custom Color Design With Edgeless Layout<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-8.png?rev=1852315\"><img src=\"https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-8.png?rev=1852315\" alt=\"Cookie Law Custom Color Design With Classic Layout\"><\/a><p>Cookie Law Custom Color Design With Classic Layout<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "WP Cookie Law Info allows you to easily show Cookie Law Popup for showing\na notice to the user only the very first time that visits your website.",
+    "description": "<p>WP Cookie Law Info allows you to easily show Cookie Law Popup for showing<br \/>\na notice to the user only the very first time that visits your website.<\/p>\n<p>Message, position and the style can be easily modified through the plugin menu.<\/p>\n<p>The WP Cookie Law Info plugin supports the following features:<\/p>\n<ul>\n<li> Choose Custom background Color<\/li>\n<li> Choose Custom Button Color<\/li>\n<li> Add Custom Message<\/li>\n<li> Options for Show\/Hide Cookie Law Popup<\/li>\n<li> Options for Change Popup Position<\/li>\n<li> Options for Change Popup Layout (4 Layouts available )<\/li>\n<li> Options for Change Color Style<\/li>\n<li> Options for Add Custom policy link and Label Text<\/li>\n<\/ul>\n<p><a href=\"http:\/\/www.paypal.me\/anshulgangrade\" rel=\"nofollow ugc\">Donate Me<\/a><\/p>\n<p>If you are having any kind of issue with configuring our plugin or you face any problem, Contact us on contact@sohamsolution.com<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wp-cookie-law-info.1.1.zip",
+    "upgrade_notice": {
+        "1.1": "<p>Update to support with latest WordPress version 6.4.3\nBug fixes and improvements<\/p>",
+        "1.0": "<p>Initial Release.<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-1.png?rev=1852326",
+            "caption": "WP Cookie Law Info Setting Option Page"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-2.png?rev=1852315",
+            "caption": "Cookie Law Banner Bottom Position"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-3.png?rev=1852315",
+            "caption": "Cookie Law Banner Top Position"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-4.png?rev=1852315",
+            "caption": "Cookie Law Floating Left Position"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-5.png?rev=1852315",
+            "caption": "Cookie Law Floating Right Position"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-6.png?rev=1852315",
+            "caption": "Cookie Law Custom Color Design With Block Layout"
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-7.png?rev=1852315",
+            "caption": "Cookie Law Custom Color Design With Edgeless Layout"
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/screenshot-8.png?rev=1852315",
+            "caption": "Cookie Law Custom Color Design With Classic Layout"
+        }
+    },
+    "tags": {
+        "cookie": "cookie",
+        "cookie-bar": "cookie bar",
+        "cookie-law": "cookie law",
+        "cookie-notice": "cookie notice",
+        "wp-cookie": "wp cookie"
+    },
+    "stable_tag": "1.1",
+    "versions": {
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/wp-cookie-law-info.1.0.zip",
+        "1.1": "https:\/\/downloads.wordpress.org\/plugin\/wp-cookie-law-info.1.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/wp-cookie-law-info.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "http:\/\/www.paypal.me\/anshulgangrade",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/banner-772x250.png?rev=1852315",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/icon-256x256.jpg?rev=1852315",
+        "2x": "https:\/\/ps.w.org\/wp-cookie-law-info\/assets\/icon-256x256.jpg?rev=1852315"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

@@ -1,0 +1,120 @@
+{
+    "name": "RY Tools for WooCommerce",
+    "slug": "ry-woocommerce-tools",
+    "version": "3.3.3",
+    "author": "<a href=\"https:\/\/richer.tw\/\">Richer Yang<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/fantasyworld\/",
+    "contributors": {
+        "fantasyworld": {
+            "profile": "https:\/\/profiles.wordpress.org\/fantasyworld\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/881e912506b55b7b0629e1f1e71009e3?s=96&d=monsterid&r=g",
+            "display_name": "Richer Yang"
+        }
+    },
+    "requires": "6.3",
+    "tested": "6.5.2",
+    "requires_php": "8.0",
+    "requires_plugins": [
+        "woocommerce"
+    ],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 6,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 6,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/ry-woocommerce-tools\/",
+    "support_threads": 1,
+    "support_threads_resolved": 1,
+    "active_installs": 5000,
+    "downloaded": 138811,
+    "last_updated": "2024-04-12 9:21am GMT",
+    "added": "2018-03-13",
+    "homepage": "https:\/\/ry-plugin.com\/ry-woocommerce-tools",
+    "sections": {
+        "description": "<p>Let your WooCommerce store support ECPay \/ NewebPay \/ SmilePay.<\/p>\n<p>Let your WooCommerce store more with Taiwan&#8217;s habits.<\/p>\n<h4>Contributors<\/h4>\n<p>You can contribute to this plugin to <a href=\"https:\/\/github.com\/RicherYang\/RY-WooCommerce-Tools\" rel=\"nofollow ugc\">GitHub repository<\/a><\/p>\n",
+        "installation": "<h4>Minimum Requirements<\/h4>\n<ul>\n<li>PHP 8.0+<\/li>\n<li>WordPress 6.3+<\/li>\n<li>WooCommerce 8.0+<\/li>\n<\/ul>\n",
+        "faq": "<p>Basically I didn&#8217;t follow the support forum at wordpress.org.<br \/>\nPlease visit the <a href=\"https:\/\/ry-plugin.com\/ry-woocommerce-tools\/forum\" title=\" \" rel=\"nofollow ugc\">plugin forum page<\/a> with any questions.<\/p>\n",
+        "changelog": "<h4>3.3.3 &#8211; 2024\/04\/12<\/h4>\n<ul>\n<li>\u914d\u5408 WordPress 6.5 \u9032\u884c\u8abf\u6574\u3002<\/li>\n<li>\u4fee\u6b63 &#8211; \u8abf\u6574\u8a3b\u518a\u81ea\u5b9a\u7fa9\u7684\u8a02\u55ae\u72c0\u614b\u908f\u8f2f\u3002<\/li>\n<\/ul>\n<h4>3.3.2 &#8211; 2024\/04\/09<\/h4>\n<ul>\n<li>\u4fee\u6b63 &#8211; \u914d\u5408\u85cd\u65b0\u8abf\u6574 API \u50b3\u905e\u53c3\u6578\u3002<\/li>\n<\/ul>\n<h4>3.3.1 &#8211; 2024\/04\/01<\/h4>\n<ul>\n<li>\u4fee\u6b63 &#8211; \u79fb\u9664\u4e0d\u5fc5\u8981\u7684\u8a2d\u5b9a\u9078\u9805\u3002<\/li>\n<\/ul>\n<h4>3.3.0 &#8211; 2024\/02\/29<\/h4>\n<ul>\n<li>\u8b8a\u66f4\u5916\u639b\u540d\u7a31\u3002<\/li>\n<li>\u4fee\u6b63\u9801\u9762\u8cc7\u8a0a\u8f38\u51fa\u9a57\u8b49\u4e0d\u5b8c\u5168\u5c0e\u81f4\u7684\u6f5b\u5728\u5b89\u5168\u6027\u98a8\u96aa\u3002<\/li>\n<\/ul>\n<h4>3.2.4 &#8211; 2024\/02\/24<\/h4>\n<ul>\n<li>\u4fee\u6b63\u9801\u9762\u8cc7\u8a0a\u8f38\u51fa\u9a57\u8b49\u4e0d\u5b8c\u5168\u5c0e\u81f4\u7684\u6f5b\u5728\u5b89\u5168\u6027\u98a8\u96aa<\/li>\n<li>\u8abf\u6574\u7a0b\u5f0f\u78bc\u67b6\u69cb\u3002<\/li>\n<\/ul>\n<h4>3.2.3 &#8211; 2024\/02\/23<\/h4>\n<ul>\n<li>\u4fee\u6b63 &#8211; \u5f8c\u53f0\u624b\u52d5\u53d6\u5f97\u7269\u6d41\u55ae\u865f\u5f8c\uff0c\u7269\u6d41\u8cc7\u8a0a\u53ef\u80fd\u672a\u6b63\u5e38\u66f4\u65b0\u3002<\/li>\n<\/ul>\n<h4>3.2.2 &#8211; 2024\/02\/18<\/h4>\n<ul>\n<li>\u4fee\u6b63 &#8211; \u914d\u5408 WooCommerce 8.6 \u65e5\u8a8c\u7d00\u9304\u8abf\u6574\u7d00\u9304\u5167\u5bb9\u3002<\/li>\n<li>\u4fee\u6b63 &#8211; \u5728\u85cd\u65b0\u8d85\u5546\u53d6\u8ca8\u8207\u975e\u85cd\u65b0\u7269\u6d41\u9593\u5207\u63db\u5c0e\u81f4\u7121\u6cd5\u6b63\u5e38\u7d50\u5e33\u3002<\/li>\n<li>\u4fee\u6b63 &#8211; \u901f\u8cb7\u914d\u7121\u6cd5\u522a\u9664\u7269\u6d41\u8cc7\u8a0a\u7d00\u9304\u3002<\/li>\n<\/ul>\n<h4>3.2.1 &#8211; 2024\/02\/16<\/h4>\n<ul>\n<li>\u4fee\u6b63 &#8211; \u4ee5\u5546\u54c1\u539f\u50f9\u505a\u70ba\u7269\u6d41\u7533\u5831\u8ca8\u54c1\u50f9\u503c\u3002<\/li>\n<li>\u4fee\u6b63 &#8211; \u624b\u52d5\u53d6\u5f97\u7269\u6d41\u55ae\u5f8c\u6539\u70ba\u7368\u7acb\u6309\u9215\uff0c\u539f\u672c\u662f\u5408\u4f75\u65bc\u8a02\u55ae\u52d5\u4f5c\u9078\u55ae\u4e2d\u3002<\/li>\n<li>\u4fee\u6b63 &#8211; \u66f4\u65b0\u901f\u8cb7\u914d\u5546\u6a19\u5716\u793a\u3002<\/li>\n<li>\u4fee\u6b63 &#8211; \u90e8\u5206\u6587\u5b57\u8f38\u51fa\u672a\u9032\u884c\u5b89\u5168\u6027\u904e\u6ffe\u3002<\/li>\n<\/ul>\n<h4>3.1.0 &#8211; 2024\/01\/29<\/h4>\n<ul>\n<li>\u4fee\u6b63 &#8211; \u8abf\u6574\u7a0b\u5f0f\u78bc\u907f\u514d\u56fa\u5b9a\u53c3\u6578\u88ab\u4fee\u6b63\u3002<\/li>\n<li>\u4fee\u6b63 &#8211; WooCommerce \u65b0\u7248\u7269\u6d41\u53c3\u6578\u6b04\u4f4d\u986f\u793a\u7570\u5e38\u3002<\/li>\n<li>\u65b0\u589e &#8211; \u7d00\u9304\u7269\u6d41\u55ae\u7533\u8acb\u7684\u4ee3\u6536\u91d1\u984d\u3002<\/li>\n<\/ul>\n<h4>3.0.7 &#8211; 2024\/01\/27<\/h4>\n<ul>\n<li>\u4fee\u6b63 &#8211; \u7da0\u754c\u8d85\u5546\u689d\u78bc\u986f\u793a\u932f\u8aa4\u3002<\/li>\n<\/ul>\n<h4>3.0.6 &#8211; 2023\/12\/19<\/h4>\n<ul>\n<li>\u8abf\u6574\u5916\u639b\u9650\u5236\u652f\u63f4 PHP \u7248\u672c\u70ba 8.0 \u6216\u4ee5\u4e0a\u7248\u672c\u3002<\/li>\n<li>\u4fee\u6b63 &#8211; \u689d\u78bc\u7e73\u8cbb\u6642\u7121\u6cd5\u6b63\u78ba\u986f\u793a\u689d\u78bc\u3002<\/li>\n<li>\u4fee\u6b63 &#8211; \u4fee\u6b63\u90e8\u5206\u91d1\u6d41\u8cc7\u8a0a\u9801\u9762\u986f\u793a\u53ef\u80fd\u7684 XSS \u5b89\u5168\u6027\u554f\u984c\u3002<\/li>\n<\/ul>\n<h4>3.0.5 &#8211; 2023\/11\/29<\/h4>\n<ul>\n<li>\u4fee\u6b63 &#8211; \u90e8\u5206\u7db2\u7ad9\u8a2d\u5b9a\u53ef\u80fd\u5c0e\u81f4 JavaScript \u53c3\u6578\u932f\u8aa4\u7684\u554f\u984c\u3002<\/li>\n<\/ul>\n<h4>3.0.3.1 &#8211; 2023\/11\/14<\/h4>\n<ul>\n<li>\u4fee\u6b63 &#8211; \u85cd\u65b0\u8d85\u5546\u53d6\u8ca8\u7121\u6cd5\u4f7f\u7528\u8ca8\u5230\u4ed8\u6b3e\u932f\u8aa4<\/li>\n<\/ul>\n<h4>3.0.2 &#8211; 2023\/11\/07<\/h4>\n<ul>\n<li>\u4fee\u6b63 &#8211; \u7121\u6cd5\u55ae\u7368\u555f\u52d5\u7da0\u754c\u91d1\u6d41\u6a21\u7d44\u932f\u8aa4\u3002<\/li>\n<\/ul>\n<h4>3.0.1 &#8211; 2023\/11\/06<\/h4>\n<ul>\n<li>\u4fee\u6b63 &#8211; \u4fee\u6b63\u7121\u6cd5\u5132\u5b58\u8a02\u55ae\u932f\u8aa4\u3002<\/li>\n<li>\u4fee\u6b63 &#8211; \u5f8c\u53f0\u7121\u6cd5\u6b63\u78ba\u986f\u793a\u8a02\u55ae\u7684\u8d85\u5546\u8cc7\u8a0a\u8aaa\u660e\u3002<\/li>\n<\/ul>\n<h4>3.0.0 &#8211; 2023\/11\/05<\/h4>\n<ul>\n<li>\u8abf\u6574\u5916\u639b\u7a0b\u5f0f\u78bc\u67b6\u69cb\u3002<\/li>\n<li>\u8b8a\u66f4 &#8211; \u652f\u63f4 HPOS\u3002<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/ry-woocommerce-tools\/assets\/screenshot-1.png?rev=3061924\"><img src=\"https:\/\/ps.w.org\/ry-woocommerce-tools\/assets\/screenshot-1.png?rev=3061924\" alt=\"Basic WooCommerce settings.\"><\/a><p>Basic WooCommerce settings.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/ry-woocommerce-tools\/assets\/screenshot-2.png?rev=3061924\"><img src=\"https:\/\/ps.w.org\/ry-woocommerce-tools\/assets\/screenshot-2.png?rev=3061924\" alt=\"ECPay gateway global settings.\"><\/a><p>ECPay gateway global settings.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/ry-woocommerce-tools\/assets\/screenshot-3.png?rev=3061924\"><img src=\"https:\/\/ps.w.org\/ry-woocommerce-tools\/assets\/screenshot-3.png?rev=3061924\" alt=\"SmilePay gateway global settings.\"><\/a><p>SmilePay gateway global settings.<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Good plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/polomiwp\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/447b2a0b4621ec5445ebf00ca06391a9?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/447b2a0b4621ec5445ebf00ca06391a9?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/polomiwp\/\" class=\"reviewer-name\">polomiwp<\/a> on <span class=\"review-date\">December 17, 2020<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">\u975e\u5e38\u5be6\u7528<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u65b9\u4fbf\u597d\u7528<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/wpgsander\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/ea58987c3bc3f326547929760fbd7fa6?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/ea58987c3bc3f326547929760fbd7fa6?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/wpgsander\/\" class=\"reviewer-name\">wpgsander<\/a> on <span class=\"review-date\">March 17, 2020<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">\u597d\u7528\u4e5f\u597d\u8a2d\u5b9a\uff0c\u5916\u52a0\u6709\u518d\u66f4\u65b0\u3002<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u975e\u5e38\u65b9\u4fbf\u597d\u7528<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/webbiztw\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/c93e0cf052ce941dc0cfd749a4a80d37?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/c93e0cf052ce941dc0cfd749a4a80d37?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/webbiztw\/\" class=\"reviewer-name\">webbiztw<\/a> on <span class=\"review-date\">August 6, 2019<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">\u5f88\u597d\u7528\uff0c\u4e5f\u5f88\u5920\u7528\uff0c\u6709\u6642\u5e38\u5728\u66f4\u65b0\u7dad\u8b77<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u63a8\u85a6\u4f7f\u7528<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/ateliershen\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f13469d190fd0efd541df8e1c74b070d?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f13469d190fd0efd541df8e1c74b070d?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/ateliershen\/\" class=\"reviewer-name\">ateliershen<\/a> on <span class=\"review-date\">May 23, 2018<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">\u611f\u8b1d\u4f5c\u8005\u63d0\u4f9b\u5982\u6b64\u597d\u7528\u7684\u5916\u639b\uff0c\u63a8\u85a6\u5927\u5bb6\u5b89\u88dd\uff01<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u7a69\u5b9a\u597d\u7528\uff0c\u53ef\u88dc\u8db3\u8a31\u591a\u529f\u80fd<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mloveggc\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/fcba670fe616a7537fb01fb4098dd786?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/fcba670fe616a7537fb01fb4098dd786?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mloveggc\/\" class=\"reviewer-name\">mloveggc<\/a> on <span class=\"review-date\">March 22, 2018<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">\u7a69\u5b9a\u597d\u7528\uff0c\u53ef\u88dc\u8db3\u8a31\u591a\u529f\u80fd<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u529f\u80fd\u5f88\u65b9\u4fbf\u597d\u7528 \u63a8\u85a6<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jason6616\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/41b2a2e96b011833c28bca1a25829351?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/41b2a2e96b011833c28bca1a25829351?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jason6616\/\" class=\"reviewer-name\">jason6616<\/a> on <span class=\"review-date\">March 16, 2018<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">\u5efa\u8b70\u53ef\u65b0\u589e\u8d85\u5546\u689d\u78bc\u548c\u4ee3\u78bc\u7684\u6700\u4f4e\u4f7f\u7528\u8a02\u8cfc\u91d1\u984d<\/div>\n<\/div>\n"
+    },
+    "short_description": "Accept your WooCommerce store payment with ECPay \/ NewebPay \/ SmilePay and shipping with ECPay \/ NewebPay \/ SmilePay.",
+    "description": "<p>Let your WooCommerce store support ECPay \/ NewebPay \/ SmilePay.<\/p>\n<p>Let your WooCommerce store more with Taiwan&#8217;s habits.<\/p>\n<h4>Contributors<\/h4>\n<p>You can contribute to this plugin to <a href=\"https:\/\/github.com\/RicherYang\/RY-WooCommerce-Tools\" rel=\"nofollow ugc\">GitHub repository<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.3.3.3.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/ry-woocommerce-tools\/assets\/screenshot-1.png?rev=3061924",
+            "caption": "Basic WooCommerce settings."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/ry-woocommerce-tools\/assets\/screenshot-2.png?rev=3061924",
+            "caption": "ECPay gateway global settings."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/ry-woocommerce-tools\/assets\/screenshot-3.png?rev=3061924",
+            "caption": "SmilePay gateway global settings."
+        }
+    },
+    "tags": {
+        "gateway": "gateway",
+        "payment": "payment",
+        "shipping": "shipping",
+        "woocommerce": "woocommerce"
+    },
+    "stable_tag": "3.3.3",
+    "versions": {
+        "2.0.0": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.2.0.0.zip",
+        "2.0.3": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.2.0.3.zip",
+        "2.0.4": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.2.0.4.zip",
+        "2.0.5": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.2.0.5.zip",
+        "2.0.6": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.2.0.6.zip",
+        "3.0.0": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.3.0.0.zip",
+        "3.0.1": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.3.0.1.zip",
+        "3.0.2": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.3.0.2.zip",
+        "3.0.3.1": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.3.0.3.1.zip",
+        "3.0.5": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.3.0.5.zip",
+        "3.0.6": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.3.0.6.zip",
+        "3.0.7": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.3.0.7.zip",
+        "3.1.0": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.3.1.0.zip",
+        "3.2.1": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.3.2.1.zip",
+        "3.2.2": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.3.2.2.zip",
+        "3.2.3": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.3.2.3.zip",
+        "3.2.4": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.3.2.4.zip",
+        "3.3.0": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.3.3.0.zip",
+        "3.3.1": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.3.3.1.zip",
+        "3.3.2": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.3.3.2.zip",
+        "3.3.3": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.3.3.3.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/ry-woocommerce-tools.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/www.paypal.me\/RicherYang",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/ry-woocommerce-tools\/assets\/icon-128x128.png?rev=2670608",
+        "2x": "https:\/\/ps.w.org\/ry-woocommerce-tools\/assets\/icon-256x256.png?rev=2670608"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "ry-woocommerce-tools",
+            "language": "zh_TW",
+            "version": "3.3.3",
+            "updated": "2024-04-01 07:11:47",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/ry-woocommerce-tools\/3.3.3\/zh_TW.zip"
+        }
+    ]
+}

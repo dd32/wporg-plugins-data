@@ -1,0 +1,1092 @@
+{
+    "name": "MasterStudy LMS WordPress Plugin \u2013 for Online Courses and Education",
+    "slug": "masterstudy-lms-learning-management-system",
+    "version": "3.3.6",
+    "author": "<a href=\"https:\/\/stylemixthemes.com\/\">StylemixThemes<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/stylemix\/",
+    "contributors": {
+        "stylemix": {
+            "profile": "https:\/\/profiles.wordpress.org\/stylemix\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/0231b4ceb0d31b5de8d2d3d430db935d?s=96&d=monsterid&r=g",
+            "display_name": "Stylemix"
+        }
+    },
+    "requires": "4.6",
+    "tested": "6.5.2",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 88,
+    "ratings": {
+        "5": 249,
+        "4": 11,
+        "3": 8,
+        "2": 2,
+        "1": 34
+    },
+    "num_ratings": 304,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/masterstudy-lms-learning-management-system\/",
+    "support_threads": 39,
+    "support_threads_resolved": 33,
+    "active_installs": 10000,
+    "downloaded": 1001968,
+    "last_updated": "2024-04-15 11:45am GMT",
+    "added": "2018-08-27",
+    "homepage": "http:\/\/masterstudy.stylemixthemes.com\/lms-plugin\/",
+    "sections": {
+        "description": "<p>MasterStudy is a free WordPress LMS plugin for online learning business. The WordPress plugin turns any regular WP website into an online school with all the necessary eLearning &amp; LMS features.<\/p>\n<p>MasterStudy is the best free Learning Management System  WordPress plugin for online coaching, instructors, trainers, tutors, schools, colleges, marketplaces and any type of learning website.<\/p>\n<p>\u2b50 <a href=\"https:\/\/masterstudy.stylemixthemes.com\/lms-plugin\/\" rel=\"nofollow ugc\">MasterStudy Free version<\/a><br \/>\n\u2b50 <a href=\"https:\/\/stylemixthemes.com\/wordpress-lms-plugin\/?utm_source=wporg-lms&amp;utm_medium=en&amp;utm_campaign=2021\" rel=\"nofollow ugc\">MasterStudy PRO version<\/a><br \/>\n\u2b50 <a href=\"https:\/\/themeforest.net\/item\/masterstudy-education-center-wordpress-theme\/12170274\" rel=\"nofollow ugc\">MasterStudy Theme<\/a><br \/>\n\u2b50 <a href=\"https:\/\/codecanyon.net\/item\/masterstudy-lms-mobile-app-flutter-ios-android\/27103832\" rel=\"nofollow ugc\">MasterStudy iOS\/Android App<\/a><br \/>\n\u2b50 <a href=\"https:\/\/docs.stylemixthemes.com\/masterstudy-lms\/\" rel=\"nofollow ugc\">Documentation<\/a><br \/>\n\u2b50 <a href=\"https:\/\/www.facebook.com\/groups\/masterstudylms\" rel=\"nofollow ugc\">Join Facebook Community<\/a><\/p>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/fCD__iEbxwI?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n<h3>Who is it for?<\/h3>\n<p>Masterstudy LMS plugin for WordPress is targeted to:<\/p>\n<ul>\n<li><strong>Single instructor (coach or tutor);<\/strong><\/li>\n<li><strong>Education institutions (learning centers, schools, universities);<\/strong><\/li>\n<li><strong>Marketplace (with online courses).<\/strong><\/li>\n<\/ul>\n<h3>How Does It Work?<\/h3>\n<p>With MasterStudy, you can create and sell online courses without needing to be a tech expert. It&#8217;s like building your website with easy and ready tools.<\/p>\n<h3>For Individual Instructors (Tutors, Coaches):<\/h3>\n<p>MasterStudy is a perfect LMS WordPress plugin for tutors, coaches, or anyone who wants to teach online. You can make interactive lessons with videos, images, and slides, and organize them for your students.<\/p>\n<h3>For Educational Institutions:<\/h3>\n<p>MasterStudy helps schools and colleges handle students, grades, and lessons smoothly. Teachers can add materials, edit lessons, and talk to students with message boards. Students can ask questions and talk to their teachers through comments and messages. They can pay per course or sign up for monthly\/yearly subscriptions.<\/p>\n<h3>For Online Course Marketplaces:<\/h3>\n<p>With MasterStudy, you can set up online course marketplaces like Udemy or Coursera in WordPress. It takes care of subscriptions, quizzes, payments, and student management. You can also make certificates for students. Each user gets their own profile where they can track progress, continue lessons, see quiz scores, and buy courses or memberships.<\/p>\n<p>There is a step-by-step video tutorial on how to use the MasterStudy WordPress Plugin<\/p>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/kdgakNgB4S0?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n<h3>Create a Course Easily with Our Powerful Builder:<\/h3>\n<p>Creating courses is simple with the MasterStudy WordPress LMS plugin. Our builder is user-friendly and beautifully designed, divided into easy-to-follow sections. Once you&#8217;ve created a course, you can add lessons, quizzes, and assignments. You can also customize the sequence of lessons, preview specific ones, set pricing options, and add FAQs.<\/p>\n<p>Easily  include all the details you need in one place, such as the title, descriptions, curriculum, duration, price, skill level, and the number of active students. Plus, you can add videos, attachments, teachers, and rewards.<\/p>\n<p>With our Course builder, you have unlimited options for managing your courses:<\/p>\n<ul>\n<li>Featuring Courses<\/li>\n<li>Previewing Courses<\/li>\n<li>Describing Courses for Users<\/li>\n<li>Announcing Course Updates<\/li>\n<li>Adding FAQ Sections<\/li>\n<li>Reviewing and Rating Courses<\/li>\n<li>Setting Expiry Dates for Courses<\/li>\n<li>Temporarily Pausing Courses<\/li>\n<li>Sorting Courses into Categories<\/li>\n<li>Attaching Files to Courses<\/li>\n<li>Tracking Course Progress<\/li>\n<li>Managing Enrolled Students<\/li>\n<li>Specifying Course Durations and Video Lengths<\/li>\n<li>Determining the Number of Lessons<\/li>\n<li>Assigning Difficulty Levels<\/li>\n<li>Managing Students&#8217; Progress<\/li>\n<li>Adding Students Manually<\/li>\n<li>Viewing Students&#8217; Progress Details<\/li>\n<li>Resetting Students&#8217; Progress<\/li>\n<\/ul>\n<h3>ADDING LESSONS<\/h3>\n<p>Once your course and sections are set up, it&#8217;s time to add lessons. You have the flexibility to create four types of lessons: text, video, online streams, and slideshows. Plus, you can easily incorporate previously created content with our library of lessons and quizzes.<\/p>\n<p><strong><em>Here&#8217;s what you can manage with lessons:<\/em><\/strong><\/p>\n<ul>\n<li>Duration<\/li>\n<li>Preview (accessible to everyone)<\/li>\n<li>Description visible on the frontend<\/li>\n<li>Type of video lesson<\/li>\n<li>Discussions for students with the instructor<\/li>\n<li>Lesson materials (any media type)<\/li>\n<\/ul>\n<h3>Seven Types of Video Sources to Add for Video Lessons<\/h3>\n<p>With our MasterStudy LMS WordPress plugin, adding videos is simple. It\u2019s fully compatible with Presto Player, a cutting-edge WordPress video player plugin. You can use up  to seven video sources:<\/p>\n<ul>\n<li>HTML(MP4)<\/li>\n<li>YouTube<\/li>\n<li>Vimeo<\/li>\n<li>External Links<\/li>\n<li>Embedded Video<\/li>\n<li>Shortcodes<\/li>\n<li>Presto Player<\/li>\n<\/ul>\n<h3>QUIZZES<\/h3>\n<p>You can add questions to quizzes manually or select from the preset questions library. Then, simply input your first question. We offer eight question types to suit your needs: single-choice, multi-choice, true or false, item match, image match, image choice, keywords, and fill-in-the-gap.<\/p>\n<p><strong><em>Here are the features of our quizzes:<\/em><\/strong><\/p>\n<ul>\n<li>Advanced quiz builder<\/li>\n<li>Various quiz styles<\/li>\n<li>Categorization of quizzes<\/li>\n<li>Setting quiz duration<\/li>\n<li>Limiting quiz attempts<\/li>\n<li>Deducting points on resubmission<\/li>\n<li>Defining passing grades<\/li>\n<li>Randomizing questions<\/li>\n<li>Displaying correct answers<\/li>\n<li>Describing the quiz visible on the frontend<\/li>\n<\/ul>\n<h3>Course Player: Better Learning Experience<\/h3>\n<p>Improve your students&#8217; learning journey with our Course Player. It&#8217;s distraction-free, sleek, and user-friendly. Students can easily navigate through course content, switch between light and dark modes, and take part in discussions. Progressing through lessons is effortless\u2014students can just click &#8220;Complete&#8221; to move to the next one.<\/p>\n<p><strong>Key Features of MasterStudy Free Plugin:<\/strong><\/p>\n<ul>\n<li>Modern design<\/li>\n<li>Powerful Course Builder<\/li>\n<li>Course Player<\/li>\n<li>Dark Mode in courses<\/li>\n<li>Unlimited courses and lessons<\/li>\n<li>Course preview<\/li>\n<li>Frontend student dashboard<\/li>\n<li>Teacher\u2019s profile<\/li>\n<li>Video lessons<\/li>\n<li>Many video sources (self-hosted, YouTube, Vimeo, Presto Player, HTML, Embeded, Shortcode)<\/li>\n<li>Separate teacher profiles<\/li>\n<li>Lesson management<\/li>\n<li>Dynamic drag and drop certificate builder<\/li>\n<li>Advanced quiz builder (8 quiz types)<\/li>\n<li>Earning &amp; commission allocation<\/li>\n<li>Many withdrawal options<\/li>\n<li>Purchase history<\/li>\n<li>Styling options<\/li>\n<li>Course widget<\/li>\n<li>Teacher registration form<\/li>\n<li>Course review and rating system<\/li>\n<li>Q&amp;A for students with the course teacher<\/li>\n<li>Video poster (trailer\/teaser)<\/li>\n<li>Tracking course progress<\/li>\n<li>Course difficulty level<\/li>\n<li>Define course duration<\/li>\n<li>Course marketplace<\/li>\n<li>Add course requirements and instruction<\/li>\n<li>Quiz timer<\/li>\n<li>Quiz attempts<\/li>\n<li>Centralized monetization settings<\/li>\n<li>Spotlight mode<\/li>\n<li>RTL ready<\/li>\n<li>Page builder support<\/li>\n<li>Gutenberg compatible<\/li>\n<li>Content security<\/li>\n<li>Advanced analytics<\/li>\n<\/ul>\n<p>For more details, please visit <a href=\"https:\/\/stylemixthemes.com\/wordpress-lms-plugin\/\" rel=\"nofollow ugc\">our website<\/a>.<\/p>\n<p><strong>MasterStudy Premium Plugin Features<\/strong><\/p>\n<ul>\n<li><strong>Certificate Builder<\/strong>: Make custom certificates easily.<\/li>\n<li><strong>Udemy Course Importer<\/strong>: Bring in Udemy courses and earn commissions.<\/li>\n<li><strong>Prerequisites<\/strong>: Set required courses before new enrollments.<\/li>\n<li><strong>Quizzes<\/strong>: Add different types of questions to tests.<\/li>\n<li><strong>Sequential Drip Content<\/strong>: Plan lessons step by step.<\/li>\n<li><strong>Gradebook<\/strong>: See and export class results.<\/li>\n<li><strong>Live Streaming<\/strong>: Conduct live lessons.<\/li>\n<li><strong>Group Courses<\/strong>: Sell to companies and manage members.<\/li>\n<li><strong>Assignments<\/strong>: Students submit work and get grades.<\/li>\n<li><strong>Question Media<\/strong>: Add videos, audio, and images to quizzes.<\/li>\n<li><strong>Point system<\/strong>: Reward learners for achievements.<\/li>\n<li><strong>Statistics and Payouts<\/strong>: Analyze data and manage payments for instructors.<\/li>\n<li><strong>Online Testing<\/strong>: Embed quizzes anywhere and conduct tests online.<\/li>\n<li><strong>Trial Courses<\/strong>: Offer courses as trials or demos for new users.<\/li>\n<li><strong>Co-instructors<\/strong>: Assign multiple instructors to a course.<\/li>\n<li><strong>Gradebook<\/strong>: Monitor students&#8217; progress and performance.<\/li>\n<li><strong>Email Manager<\/strong>: Personalize email templates.<\/li>\n<li><strong>Course Bundles<\/strong>: Bundle courses together and offer discounts.<\/li>\n<li><strong>Google Classrooms<\/strong>: Import classes from Google Classrooms.<\/li>\n<li><strong>Zoom Conference<\/strong>: Conduct Zoom lessons, meetings, and webinars on your site.<\/li>\n<li><strong>Google Meet<\/strong>: Schedule and host Google Meet meetings.<\/li>\n<li><strong>SCORM<\/strong>: Import pre-built e-learning content using SCORM standards.<\/li>\n<li><strong>LMS Forms Editor<\/strong>: Customize website forms with an easy-to-use editor.<\/li>\n<li><strong>File Upload Manager<\/strong>: Manage various file types in courses and lessons.<\/li>\n<li><strong>Upcoming Course Status<\/strong>: Promote courses that are not yet open for enrollment.<\/li>\n<\/ul>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/98LKgphFSCY?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n",
+        "installation": "<p>This section describes how to install the plugin and get it working.<\/p>\n<ol>\n<li>Upload the plugin files to the <code>\/wp-content\/plugins\/<\/code> directory, or install the plugin through the WordPress plugins screen directly.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; screen in WordPress<\/li>\n<li>Please find more details about Installation in documentation<\/li>\n<li>Set Up Courses Archive Page in Menu -&gt; STM LMS Settings Area.<\/li>\n<\/ol>\n<h4>Shortcodes<\/h4>\n<ul>\n<li>[stm_lms_courses_grid_display per_row=&#8221;4&#8243; posts_per_page=&#8221;4&#8243; load_more=&#8221;true&#8221;]<br \/>\nAccepts all WP_Query params for sorting, order by etc<\/li>\n<li>[stm_courses_searchbox]<br \/>\nShows courses search box<\/li>\n<li>[stm_lms_courses_carousel]<br \/>\nEnables the courses carousel<\/li>\n<li>[stm_lms_courses_categories]<br \/>\nShows categories of the courses<\/li>\n<li>[stm_lms_courses_grid]<br \/>\nEnables the courses grid<\/li>\n<li>[stm_lms_featured_teacher]<br \/>\nShows Featured Teacher<\/li>\n<li>[stm_lms_instructors_carousel]<br \/>\nshows the Instructors carousel<\/li>\n<li>[stm_lms_recent_courses]<br \/>\nDisplays Recent courses<\/li>\n<li>[stm_lms_single_course_carousel]<br \/>\nShows the carousel with single course<\/li>\n<\/ul>\n<h4>Template System<\/h4>\n<ul>\n<li>Easily copy any template from stm-lms-templates folder and move it in your theme for future customization. Try not to edit plugin files, they will be replaced after plugin update.<\/li>\n<\/ul>\n<h4>LMS Hard-coded Pages<\/h4>\n<ul>\n<li>\/lms-login &#8211; Login\/Register Page<\/li>\n<li>\/courses\/{course}\/{lesson} &#8211; Lesson Page (must be logged in with Purchased course or lesson is Preview)<\/li>\n<li>\/lms-user\/{user_id} &#8211; User Private Page (must be logged in)<\/li>\n<li>\/lms-user_profile\/{user_id} &#8211; User Public Page<\/li>\n<li>\/lms-chats &#8211; User Chat (must be logged in)<\/li>\n<li>\/lms-wishlist &#8211; My Wishlist Page<\/li>\n<li>\/lms-checkout &#8211; Checkout Page (must be logged in)<\/li>\n<\/ul>\n",
+        "faq": "\n<dt id='can%20i%20use%20the%20plugin%20with%20different%20wordpress%20themes%3F'>\nCan I use the plugin with different WordPress Themes?\n<\/h4>\n<p>\n<p>Yes, MasterStudy WordPress LMS Plugin is compatible with free and premium WordPress themes, so you can use it with the one you choose. If you have difficulties selecting the theme for your educational website, you can consider the option of getting MasterStudy LMS Theme, which has the Pro version of the plugin built in the bundle.<\/p>\n<\/p>\n<dt id='do%20i%20need%20a%20membership%20plugin%3F'>\nDo I need a Membership Plugin?\n<\/h4>\n<p>\n<p>This only depends on the purpose you follow. If you are planning to implement membership plans on the platform, then you have to install the Membership Plugin. But, you do not need to search for the options.<\/p>\n<p>MasterStudy WordPress LMS plugin already integrates with WooCommerce and Paid Membership PRO. These are the best items that will help you to establish a great membership system and create smart plans.<\/p>\n<\/p>\n<dt id='does%20masterstudy%20wordpress%20lms%20plugin%20support%20webinars%20and%20live%20stream%20sessions%3F'>\nDoes MasterStudy WordPress LMS plugin support webinars and live stream sessions?\n<\/h4>\n<p>\n<p>MasterStudy support Zoom meetings and webinars. The integration with the service is available through the eRoom plugin which is free. It connects your website with the Zoom account and allows you to create and manage video conferences from your dashboard.<\/p>\n<p>You can also use the MasterStudy Pro addon to conduct live stream lessons.<\/p>\n<\/p>\n<dt id='is%20this%20wordpress%20lms%20plugin%20free%3F'>\nIs this WordPress LMS plugin free?\n<\/h4>\n<p>\n<p>This plugin has two versions: free and a paid one. The paid Pro version has more features that are not able to use in the free plugin, which extends the functionality and provides more opportunities.<\/p>\n<p>Still, the main function of building and managing online courses and selling them is available equally in both versions.<\/p>\n<\/p>\n<dt id='where%20can%20i%20find%20masterstudy%20wordpress%20lms%20plugin%20documentation%3F'>\nWhere can I find MasterStudy WordPress LMS plugin documentation?\n<\/h4>\n<p>\n<p>There is a detailed text <a href=\"https:\/\/support.stylemixthemes.com\/manuals\/masterstudy-plugin\/\" rel=\"nofollow ugc\">guide<\/a> describing every feature and option of the plugin. You can also find the video library with video tutorials on our <a href=\"https:\/\/www.youtube.com\/channel\/UCpuJgzrLAbVKCHDo_1lluKA\/videos\" rel=\"nofollow ugc\">YouTube channel<\/a>.<\/p>\n<\/p>\n<dt id='how%20can%20i%20get%20support%20or%20talk%20to%20someone%20from%20the%20team%3F'>\nHow can I get support or talk to someone from the team?\n<\/h4>\n<p>\n<p>Our support team is available 24\/7. To submit about the problem please follow to <a href=\"https:\/\/support.stylemixthemes.com\/tickets\/new\" rel=\"nofollow ugc\">your account<\/a> to submit a support ticket. If you have some pre-sale questions you can always use live-chat on our website: stylemixthemes.com<\/p>\n<\/p>\n<dt id='can%20i%20translate%20the%20plugin%20to%20a%20different%20language%3F'>\nCan I translate the plugin to a different language?\n<\/h4>\n<p>\n<p>Yes, however MasterStudy WordPress LMS plugin already translated into 8 languages: English, Portuguese, Spanish, Dutch, German, French, Italian, and Russian.<\/p>\n<\/p>\n<dt id='what%20kind%20of%20media%20can%20be%20used%20in%20courses%3F'>\nWhat kind of media can be used in courses?\n<\/h4>\n<p>\n<p>The plugin allows uploading absolutely different formats of files. There are three types of lessons available, where you can present various types of content such as text, video, slides. Besides this, we have an option of course\/lesson attachments, where you can upload different files including images, audio files, zip folders, and more.<\/p>\n<\/p>\n<dt id='is%20it%20a%20one-time%20fee%20for%20the%20pro%20version%20or%20do%20i%20need%20to%20extend%20my%20license%3F'>\nIs it a one-time fee for the Pro version or do I need to extend my license?\n<\/h4>\n<p>\n<p>No, you don\u2019t have to extend your license, the core features will be available. In case you want to receive further updates and support you need to renew your license. The MasterStudy WordPress LMS plugin Pro is available at $62.99.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>3.3.6 &#8211; 2024-04-15<\/h4>\n<ul>\n<li><strong>Enhancements:<\/strong> When a course is in draft or pending review, the Start Course button for both instructor and admin opens the course in preview (Pro).<\/li>\n<li><strong>Enhancements:<\/strong> Changed the logic of URLs in courses (Pro).<\/li>\n<li><strong>Enhancements:<\/strong> If a student adds answers with gaps at the beginning and end on Fill the Gap questions, the gaps are cut off and the answers are considered correct.<\/li>\n<li><strong>Fix:<\/strong> Video with hidden branding YouTube or Vimeo crops the frame in PHP 8.1+.<\/li>\n<\/ul>\n<h4>3.3.5 &#8211; 2024-04-08<\/h4>\n<ul>\n<li><strong>Enhancements:<\/strong> Replaced Google+ with Linkedin in Social Network for User Account.<\/li>\n<li><strong>Enhancements:<\/strong> Removed the character limit in the password field when registering.<\/li>\n<li><strong>Enhancements:<\/strong> Added additional validation for assigning a plan to a user through the admin to avoid errors.<\/li>\n<li><strong>Fix:<\/strong> Changed error text if unacceptable characters are added to login when registering on multisite.<\/li>\n<li><strong>Fix:<\/strong> If there are no popups or signup forms on the page when a guest tries to sign up using a referral link, the referral link option does not work (Pro).<\/li>\n<li><strong>Fix:<\/strong> The certificate tab is not displayed for a student (Pro).<\/li>\n<li><strong>Fix:<\/strong> Small bug fixes.<\/li>\n<\/ul>\n<h4>3.3.4 &#8211; 2024-04-04<\/h4>\n<ul>\n<li><strong>Enhancements:<\/strong> Updated the Guest checkout view.<\/li>\n<li><strong>Enhancements:<\/strong> Added settings to show MasterStudy player for YouTube and Vimeo videos.<\/li>\n<li><strong>Enhancements:<\/strong> Added filter on instructor names in Certificate builder for admin (Pro).<\/li>\n<li><strong>Enhancements:<\/strong> Added ability for instructors to create certificates (Pro).<\/li>\n<li><strong>Enhancements:<\/strong> Added a separate page with certificates that instructors have created themselves (Pro).<\/li>\n<li><strong>Enhancements:<\/strong> Added certificate list in the admin panel, where admin manages all certificates and instructor can see and edit\/delete only certificates created by him (Pro).<\/li>\n<li><strong>Enhancements:<\/strong> Added filter for changing custom field in certificate builder (Pro).<\/li>\n<li><strong>Fix:<\/strong> Available in the premium version for memberships for students is not working.<\/li>\n<li><strong>Fix:<\/strong> When Query Monitor is enabled, a certificate error is highlighted in Course Player.<\/li>\n<li><strong>Fix:<\/strong> Have a Question form for enterprise is not being submitted.<\/li>\n<li><strong>Fix:<\/strong> Internal user account pages are displayed as blog pages when using the Yoast SEO plugin.<\/li>\n<li><strong>Fix:<\/strong> Container on pages compresses content and breaks blocks.<\/li>\n<\/ul>\n<h4>3.3.3 &#8211; 2024-04-01<\/h4>\n<ul>\n<li><strong>Update:<\/strong> Checked for compatibility with Paid Membership Pro 3.0.<\/li>\n<li><strong>Enhancements:<\/strong> Added additional filter to remove unwanted script load.<\/li>\n<li><strong>Enhancements:<\/strong> Added improved and updated Russian &amp; Ukrainian translations.<\/li>\n<li><strong>Enhancements:<\/strong> Added ability to add students to courses via CSV files.<\/li>\n<li><strong>Fix:<\/strong> Reset Course Progress resets the course start date and adds the wrong time to the database.<\/li>\n<li><strong>Fix:<\/strong> Students who have purchased a pre-ordered upcoming course can take the course via Curriculum (Pro).<\/li>\n<\/ul>\n<h4>3.3.2 &#8211; 2024-03-27<\/h4>\n<ul>\n<li><strong>Enhancements:<\/strong> Improved protection for user registration forms.<\/li>\n<\/ul>\n<h4>3.3.1 &#8211; 2024-03-20<\/h4>\n<ul>\n<li><strong>Enhancements:<\/strong> Added an option to display coowned courses in the instructor&#8217;s public profile.<\/li>\n<li><strong>Enhancements:<\/strong> Updated the view on the page of quizzes created with the Online Testing addon (Pro).<\/li>\n<li><strong>Enhancements:<\/strong> Database tables are now indexed to increase speed during query processing.<\/li>\n<li><strong>Fix:<\/strong> The new page where the shortcode from the Online Testing addon is added is not published.<\/li>\n<li><strong>Fix:<\/strong> Registration form is incorrectly displayed when a guest tries to enroll in a course twice.<\/li>\n<li><strong>Fix:<\/strong> The login form opens when clicking on Registration via the side profile menu.<\/li>\n<li><strong>Fix:<\/strong> Email shortcodes sent from &#8220;Become instructor&#8221; and &#8220;Have a question&#8221; forms are not working.<\/li>\n<li><strong>Fix:<\/strong> Student progress is not displayed for the group creator (Pro).<\/li>\n<li><strong>Fix:<\/strong> Student files from Assignments are displayed in the admin&#8217;s media library (Pro).<\/li>\n<li><strong>Dev:<\/strong> File path checks have been added to the Modal Loader for better protection.<\/li>\n<li><strong>Dev:<\/strong> Form Fields additional checks have been added to Authorization Forms for better protection.<\/li>\n<\/ul>\n<h4>3.3.0 &#8211; 2024-03-14<\/h4>\n<ul>\n<li><strong>Enhancements:<\/strong> Added a new Certificate builder (Pro).<\/li>\n<li><strong>Enhancements:<\/strong> Added sidebar for selecting certificate templates (Pro).<\/li>\n<li><strong>Enhancements:<\/strong> Added ability to insert different elements such as course time, description, progress, etc (Pro).<\/li>\n<li><strong>Enhancements:<\/strong> It is possible to add a certificate separately to a course or to a category of courses (Pro).<\/li>\n<li><strong>Dev:<\/strong> Added a patch for importing new certificates.<\/li>\n<li><strong>Dev:<\/strong> Capability condition added for Settings Autocomplete Search field.<\/li>\n<li><strong>Fix:<\/strong> Small bug fixes.<\/li>\n<\/ul>\n<h4>3.2.13 &#8211; 2024-03-09<\/h4>\n<ul>\n<li><strong>Enhancements:<\/strong> Authorization checks have been added to User Order Requests for better data protection.<\/li>\n<\/ul>\n<h4>3.2.12 &#8211; 2024-03-06<\/h4>\n<ul>\n<li><strong>Fix:<\/strong> Small bug fixes.<\/li>\n<\/ul>\n<h4>3.2.11 &#8211; 2024-03-05<\/h4>\n<ul>\n<li><strong>Enhancements:<\/strong> Capability checks have been added to Statistics Requests for better data protection.<\/li>\n<li><strong>Enhancements:<\/strong> The Instructor Statistics page has become better in performance.<\/li>\n<li><strong>Fix:<\/strong> Course price does not change to the new price in the cart if the price has been changed or after the discount has expired.<\/li>\n<\/ul>\n<h4>3.2.10 &#8211; 2024-02-29<\/h4>\n<ul>\n<li><strong>New:<\/strong> Added a new Social Login addon (Pro).<\/li>\n<li><strong>Enhancements:<\/strong> Added Loader to show audio and video saving process in percentage (Pro).<\/li>\n<li><strong>Enhancements:<\/strong> All tabs from the user account page via WPML are now translated.<\/li>\n<li><strong>Enhancements:<\/strong> Optimization of the speed of the loader was performed.<\/li>\n<li><strong>Fix:<\/strong> Add Enrolled Students as Attendees option is not available when creating a Google Meet lesson from Course Builder (Pro).<\/li>\n<li><strong>Fix:<\/strong> Small bug fixes.<\/li>\n<\/ul>\n<h4>3.2.9 &#8211; 2024-02-29<\/h4>\n<ul>\n<li><strong>Fix:<\/strong> Minor improvements<\/li>\n<\/ul>\n<h4>3.2.8 &#8211; 2024-02-23<\/h4>\n<ul>\n<li><strong>Enhancements:<\/strong> Improved performance and speed of Course Player by conducting query optimization.<\/li>\n<li><strong>Fix:<\/strong> Icons for social networks are not displayed.<\/li>\n<li><strong>Fix:<\/strong> If you select one correct answer in a Multi Choice quiz question, the second answer is automatically selected.<\/li>\n<\/ul>\n<h4>3.2.7 &#8211; 2024-02-20<\/h4>\n<ul>\n<li><strong>Update:<\/strong> Updated FontAwesome to version 6.4.2.<\/li>\n<li><strong>Enhancements:<\/strong> Added the ability for students to save draft assignments (Pro).<\/li>\n<li><strong>Enhancements:<\/strong> Audio\/video question playback now stops when a user makes a second audio\/video playback (Pro).<\/li>\n<li><strong>Enhancements:<\/strong> Simplified the activation of the Question Media addon (Pro).<\/li>\n<li><strong>Dev:<\/strong> Added an option that resets current_lesson_id, start_time and end_time after resetting or deleting a student.<\/li>\n<li><strong>Fix:<\/strong> The discounted course price is not displayed correctly in the Course Bundle (Pro).<\/li>\n<li><strong>Fix:<\/strong> Single Course Co-Instructors undefined key avatar error is fixed (Pro).<\/li>\n<li><strong>Fix:<\/strong> Course pictures are displayed in poor quality on the instructor&#8217;s public page.<\/li>\n<li><strong>Fix:<\/strong> A profile with a username with non-English letters is not registered.<\/li>\n<li><strong>Fix:<\/strong> The correct answers in a quiz are not counted if there are two spaces in a line. or if the text is enclosed in quotes at the beginning of a line.<\/li>\n<li><strong>Fix:<\/strong> Fixed a small PHP warning when going to the Manage Students page.<\/li>\n<\/ul>\n<h4>3.2.6 &#8211; 2024-02-16<\/h4>\n<ul>\n<li><strong>Fix:<\/strong> Added protection for the Instructor Account Statistics page function to prevent unauthorized access to data.<\/li>\n<\/ul>\n<h4>3.2.5 &#8211; 2024-02-14<\/h4>\n<ul>\n<li><strong>New:<\/strong> Added a new Question Media addon (Pro).<\/li>\n<li><strong>New:<\/strong> Now it is possible to add video, audio and pictures to questions in a quiz (Pro).<\/li>\n<li><strong>Dev:<\/strong> Added a new template _core\/stm-lms-templates\/components\/video-media.php.<\/li>\n<\/ul>\n<h4>3.2.4 &#8211; 2024-02-09<\/h4>\n<ul>\n<li><strong>New:<\/strong> Added new blocks for Gutenberg: Call to Action, Icon, Button, Testimonial, Iconbox, Adaptive Container and Text.<\/li>\n<li><strong>New:<\/strong> Added new blocks in the Customize section to customize the header and footer of the MasterSudy Starter theme.<\/li>\n<li><strong>Enhancements:<\/strong> The MasterStudy tab color in the admin panel changes color according to WordPress admin panel dashboard settings.<\/li>\n<li><strong>Enhancements:<\/strong> Added a quick Edit with the Course Builder link in the top admin bar when an admin is viewing a course.<\/li>\n<li><strong>Enhancements:<\/strong> All LMS shortcodes are now copied when clicking on them for easier use.<\/li>\n<li><strong>Fix:<\/strong> Reviews from students are not displayed in the course after the course is approved by the admin.<\/li>\n<li><strong>Fix:<\/strong> The FAQ tab is displayed when it is not present in the course settings.<\/li>\n<li><strong>Fix:<\/strong> The quiz does not open in the Course Builder.<\/li>\n<li><strong>Fix:<\/strong> Course and empty fields are not filled with default values.<\/li>\n<li><strong>Dev:<\/strong> Course Builder Settings warnings fixed for course_certificate, current_students or end_time<\/li>\n<\/ul>\n<h4>3.2.3 &#8211; 2024-02-01<\/h4>\n<ul>\n<li><strong>SOLVED<\/strong>: If going into the lesson, the lesson and recent blog are displayed.<\/li>\n<\/ul>\n<h4>3.2.2 &#8211; 2024-01-29<\/h4>\n<ul>\n<li><strong>Enhancements:<\/strong> Added an option for instructors to view unpublished courses.<\/li>\n<li><strong>Enhancements:<\/strong> Added Authorization settings section separately in Profiles Settings.<\/li>\n<li><strong>Enhancements:<\/strong> Added validation for Become Instructor form.<\/li>\n<li><strong>Enhancements:<\/strong> Added validation for Enterprise form.<\/li>\n<li><strong>Enhancements:<\/strong> Now if you click a window outside the popup for forms the popup is hidden.<\/li>\n<li><strong>Enhancements:<\/strong> Added shortcodes for authorization forms and become instructor forms.<\/li>\n<li><strong>Enhancements:<\/strong> Added a separate form for Sign up as an Instructor in the Authorization form.<\/li>\n<li><strong>Enhancements:<\/strong> Added Elementor widgets for the Authorization form and Become Instructor form.<\/li>\n<li><strong>Enhancements:<\/strong> Redesigned the registration form for profile into a single style.<\/li>\n<li><strong>Enhancements:<\/strong> Added generation of the instructor registration page in LMS Wizard.<\/li>\n<li><strong>Dev<\/strong>: Changed component templates: _core\/stm-lms-templates\/components\/modals\/become-instructor.php, _core\/stm-lms-templates\/components\/modals\/enterprise.php<\/li>\n<li><strong>Dev<\/strong>: Changed &#8220;apply_for_instructor&#8221; function in _core\/lms\/classes\/user.php file.<\/li>\n<li><strong>Dev<\/strong>: Changed &#8220;enterprise&#8221; function in _core\/lms\/classes\/user.php.<\/li>\n<li><strong>SOLVED<\/strong>: The color of the check mark and inner circle in the Success view after registration does not change.<\/li>\n<li><strong>SOLVED<\/strong>: The Translation of minutes in Quiz in Course Player is not working.<\/li>\n<\/ul>\n<h4>3.2.1 &#8211; 2024-01-24<\/h4>\n<ul>\n<li><strong>SOLVED<\/strong>: Answers in quizzes with special characters are not accepted as correct.<\/li>\n<li><strong>SOLVED<\/strong>: The &#8220;add student&#8221; functionality through the admin panel does not work if the plan in Paid Membership Pro is set to the category in which the course is created.<\/li>\n<li><strong>SOLVED<\/strong>: After translating a course via WPML, a link to a translated course in another language displays a 404 page until the user saves the settings.<\/li>\n<li><strong>SOLVED<\/strong>: Points cut after retake functionality incorrectly cuts results after the second retake.<\/li>\n<li><strong>SOLVED<\/strong>: Audio files in Lesson Materials are not played in Course Player.<\/li>\n<li><strong>SOLVED<\/strong>: Downloading a certificate only works in the courses to which the certificate is linked (Pro).<\/li>\n<li><strong>SOLVED<\/strong>: Page Title is not working correctly in Course Player.<\/li>\n<li><strong>Dev<\/strong>: Global $post object set as Lesson in Course Player page.<\/li>\n<li><strong>Dev<\/strong>: Course Player data functions refactored.<\/li>\n<li><strong>Dev<\/strong>: Courses post type made public for Sitemaps.<\/li>\n<\/ul>\n<h4>3.2.0 &#8211; 2024-01-15<\/h4>\n<ul>\n<li><strong>Enhancements:<\/strong> The upcoming course will have its own badge in the admin panel (Pro).<\/li>\n<li><strong>Enhancements:<\/strong> If the admin logs into the Manage Course upcoming course, he will see the student&#8217;s subscription date (Pro).<\/li>\n<li><strong>SOLVED:<\/strong> If the images in the video lesson or the course settings are removed, the Save button will not be clickable.<\/li>\n<li><strong>SOLVED:<\/strong> If a course has a Sale Price, the course card bounces in the hover when the course-card widget Elementor style is selected.<\/li>\n<li><strong>SOLVED:<\/strong> The order of lessons is not correct when changing the order of sections<\/li>\n<li><strong>SOLVED:<\/strong> Some words in Course Builder are not translated.<\/li>\n<li><strong>SOLVED:<\/strong> Removed Explanation to answers after the retake of the quiz.<\/li>\n<li><strong>SOLVED:<\/strong> The video poster in video lessons is not removed when deleting.<\/li>\n<li><strong>SOLVED:<\/strong> If sections are swapped when &#8220;Lock lessons in order&#8221; is enabled in the Drip Content addon, the sections do not open correctly (Pro).<\/li>\n<li><strong>SOLVED:<\/strong> If the Course expiration in the Access section was set for an upcoming course, the days for expiration were accrued from the date the course was offered to the student (Pro).<\/li>\n<li><strong>SOLVED:<\/strong> If a student wants to buy a course again after the course has expired, the course is not purchased (Pro).<\/li>\n<li><strong>SOLVED:<\/strong> The words Earnings and Sales on the Payouts page are not translated (Pro).<\/li>\n<\/ul>\n<h4>3.1.25 &#8211; 2024-01-10<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> After enrolling in a course, students and instructors are sent the Course added and Course added to User emails several times.<\/li>\n<\/ul>\n<h4>3.1.24 &#8211; 2024-01-04<\/h4>\n<ul>\n<li><strong>UPD:<\/strong> Cleaned up nonessential classes in the plugin and theme for optimization.<\/li>\n<li><strong>UPD:<\/strong> Added dropdown for sections in the Curriculum section.<\/li>\n<li><strong>DEV:<\/strong> Changed completely the template _core\/stm-lms-templates\/course\/parts\/tabs\/curriculum.php<\/li>\n<li><strong>SOLVED:<\/strong> On the Archive page, course filtering does not work and the numerical rating of courses is not displayed.<\/li>\n<li><strong>SOLVED:<\/strong> The sorting view on mobile phones is displayed incorrectly with spaces.<\/li>\n<li><strong>SOLVED:<\/strong> The name of the Course Level in the admin panel can not be changed.<\/li>\n<li><strong>SOLVED:<\/strong> Guest Checkout does not work when purchasing through a course lesson.<\/li>\n<li><strong>SOLVED:<\/strong> The login button in the header is displayed incorrectly.<\/li>\n<li><strong>SOLVED:<\/strong> The user account is displayed incorrectly when the Buddypress plugin is enabled.<\/li>\n<li><strong>SOLVED:<\/strong> Small bug fixes.<\/li>\n<\/ul>\n<h4>3.1.23 &#8211; 2023-12-22<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> The loader color when loading the lesson in Course Player and in the Buy for Group popup is not changed.<\/li>\n<li><strong>SOLVED:<\/strong> If there was a special promotion for a course and the end date of the promotion has passed, the price of the promotion is still displayed in the Popular Courses part.<\/li>\n<li><strong>SOLVED:<\/strong> When using the free MasterStudy plugin, Stackable plugin styles are broken.<\/li>\n<li><strong>SOLVED:<\/strong> When trying to create a new Loops and Logic template, or edit an existing one, then all the custom HTML gets erased upon updating or saving the template.<\/li>\n<li><strong>UPD:<\/strong> Added masterstudy_lms_course_player_complete_button_class hook to add classes for the button.<\/li>\n<li><strong>SOLVED:<\/strong> The Membership popup comes out in dark mode.<\/li>\n<li><strong>SOLVED:<\/strong> &#8220;Favourite course&#8221; has been renamed &#8220;Wishlist&#8221; and should be translated to custom translation via the Loco Translate plugin.<\/li>\n<\/ul>\n<h4>3.1.22 &#8211; 2023-12-19<\/h4>\n<ul>\n<li><strong>UPD:<\/strong> Added a Become Instructor form to the login and registration forms after updating the forms.<\/li>\n<li><strong>SOLVED:<\/strong> &#8220;WordPress database error Table &#8216;.wp_posts&#8217; doesn&#8217;t exist&#8230;&#8221; error.<\/li>\n<\/ul>\n<h4>3.1.21 &#8211; 2023-12-18<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> Minor bug fixes<\/li>\n<\/ul>\n<h4>3.1.20 &#8211; 2023-12-15<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> Minor bug fixes<\/li>\n<\/ul>\n<h4>3.1.19 &#8211; 2023-12-14<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> The Home page doesn&#8217;t work when reinserting the Course block.<\/li>\n<\/ul>\n<h4>3.1.18 &#8211; 2023-12-07<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> If email confirmation is enabled in the Profiles section of the LMS settings, the link sent doesn&#8217;t work.<\/li>\n<\/ul>\n<h4>3.1.17 &#8211; 2023-12-07<\/h4>\n<ul>\n<li><strong>UPD:<\/strong> Added a setting to apply custom colors for Course Player pages, Authorization pages and popups.<\/li>\n<\/ul>\n<h4>3.1.16 &#8211; 2023-12-05<\/h4>\n<ul>\n<li><strong>UPD:<\/strong> Changed the design of the registration, login and password reset forms.<\/li>\n<li><strong>UPD:<\/strong> Made error validation for all fields in the forms.<\/li>\n<li><strong>UPD:<\/strong> Made integration with Google Recaptcha in the login &amp; register form.<\/li>\n<li><strong>UPD:<\/strong> The FAQ section in the course can be translated via WPML.<\/li>\n<li><strong>SOLVED:<\/strong> If the order of sections and lessons is moved, the wrong order occurs.<\/li>\n<li><strong>SOLVED:<\/strong> If a quiz is created and you start creating a lesson or switch to another tab, a confirm note appears even though there is no unsaved data in the quiz.<\/li>\n<li><strong>SOLVED:<\/strong> The Curriculum, FAQ, Announcement, and Review tabs on the Single Course page of the Globalstudy layout for Divi do not work.<\/li>\n<\/ul>\n<h4>3.1.15 &#8211; 2023-11-29<\/h4>\n<ul>\n<li><strong>UPD:<\/strong> Redesigned the popup for students with memberships.<\/li>\n<li><strong>UPD:<\/strong> Redesigned the popup for the &#8220;Become an Instructor&#8221; form.<\/li>\n<li><strong>UPD:<\/strong> Redesigned the popup for the &#8220;Have a question&#8221; form.<\/li>\n<\/ul>\n<h4>3.1.14 &#8211; 2023-11-24<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> Minor bug fixes<\/li>\n<\/ul>\n<h4>3.1.13 &#8211; 2023-11-23<\/h4>\n<ul>\n<li><strong>NEW:<\/strong> Added new Upcoming course status addon.<\/li>\n<li><strong>SOLVED:<\/strong> Minor bug fixes<\/li>\n<\/ul>\n<h4>3.1.12 &#8211; 2023-11-17<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> Minor bugs<\/li>\n<\/ul>\n<h4>3.1.11 &#8211; 2023-11-16<\/h4>\n<ul>\n<li><strong>UPD:<\/strong> Made the Course Player compatible with WPML<\/li>\n<li><strong>SOLVED:<\/strong> Question Bank categories are not displayed until the user saves Quiz<\/li>\n<\/ul>\n<h4>3.1.10 &#8211; 2023-11-13<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> Minor bugs<\/li>\n<\/ul>\n<h4>3.1.9 &#8211; 2023-11-08<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> Now when the course is free, students are automatically enrolled when they visit the course page.<\/li>\n<li><strong>SOLVED:<\/strong> The hint field for the question disappears when editing.<\/li>\n<li><strong>SOLVED:<\/strong> If the Single Choice quiz type is changed, previously deleted questions are returned to the quiz.<\/li>\n<li><strong>SOLVED:<\/strong> Content size changes when opening Question Bank if it is at the end.<\/li>\n<li><strong>SOLVED:<\/strong> Fill the gap quiz type finds the correct answer incorrect.<\/li>\n<\/ul>\n<h4>3.1.8 &#8211; 2023-11-03<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> Minor bugs<\/li>\n<\/ul>\n<h4>3.1.7 &#8211; 2023-11-02<\/h4>\n<ul>\n<li><strong>UPD:<\/strong> Added setting to disable Discussions in Course Player.<\/li>\n<li><strong>SOLVED:<\/strong> The &#8220;Load more&#8221; button does not appear on the instructor page and not all courses are displayed.<\/li>\n<li><strong>SOLVED:<\/strong> Quiz does not end and a popup with results does not show up.<\/li>\n<li><strong>SOLVED:<\/strong> If the Email Manager addon is enabled and a student is added via Manage Students, he receives an email from the Enterprise template.<\/li>\n<li><strong>SOLVED:<\/strong> The user&#8217;s answers are shown incorrectly on the second attempt in Show Correct Answers.<\/li>\n<li><strong>SOLVED:<\/strong> Unable to send a blank Multichoice answer on the second attempt.<\/li>\n<li><strong>SOLVED:<\/strong> The Complete button in Course Player does not become active on mobile view.<\/li>\n<li><strong>SOLVED:<\/strong> After resetting progress, if users log into the course again, they continue the course from the same page.<\/li>\n<li><strong>SOLVED:<\/strong> Small bug fixes.<\/li>\n<\/ul>\n<h4>3.1.6 &#8211; 2023-10-30<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> Minor bugs<\/li>\n<\/ul>\n<h4>3.1.5 &#8211; 2023-10-20<\/h4>\n<ul>\n<li><strong>UPD:<\/strong> Added blocking of the \u201cComplete lesson\u201d button in text lessons until the user scrolls to the end.<\/li>\n<li><strong>SOLVED:<\/strong> The currency symbol did not apply in Course Builder.<\/li>\n<li><strong>SOLVED:<\/strong> Quiz Style is reset after saving and reloading the page.<\/li>\n<li><strong>SOLVED:<\/strong> Small bug fixes.<\/li>\n<\/ul>\n<h4>3.1.4 &#8211; 2023-10-18<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> In lesson preview content, when a user is not signed in, after clicking on Login, the login window isn&#8217;t shown correctly.<\/li>\n<\/ul>\n<h4>3.1.3 &#8211; 2023-10-16<\/h4>\n<ul>\n<li><strong>UPD:<\/strong> New view for the page before starting Quiz<\/li>\n<li><strong>UPD:<\/strong> Added to the interface Empty state of discussions in the course player for students to view.<\/li>\n<li><strong>SOLVED:<\/strong> Curriculum icons do not match the course builder icons.<\/li>\n<li><strong>SOLVED:<\/strong> Pictures attached to questions in quizzes do not display properly.<\/li>\n<li><strong>SOLVED:<\/strong> Quiz content\/instructions are displayed after the end of the quiz along with the results.<\/li>\n<li><strong>SOLVED:<\/strong> Admin Top Bar is located at the end of the page in the theme.<\/li>\n<\/ul>\n<h4>3.1.2 &#8211; 2023-10-12<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> The certificate does not download on iOS in Safari.<\/li>\n<li><strong>SOLVED:<\/strong> Removed Lesson Style settings from Wizard from the Curriculum section.<\/li>\n<li><strong>SOLVED:<\/strong> Quiz questions do not mix when the Randomize Questions setting is enabled.<\/li>\n<li><strong>SOLVED:<\/strong> Embedding video lessons does not work in the new course player.<\/li>\n<li><strong>SOLVED:<\/strong> The loader of the starter theme in the player interferes with the course player&#8217;s loader.<\/li>\n<\/ul>\n<h4>3.1.1 &#8211; 2023-10-11<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> Minor bugs<\/li>\n<\/ul>\n<h4>3.1.0 &#8211; 2023-10-10<\/h4>\n<ul>\n<li><strong>UPD:<\/strong> <a href=\"https:\/\/stylemixthemes.com\/wp\/masterstudy-lms-plugin-v3-1-0-making-students-learning-better-and-easier-with-the-course-player\/\" rel=\"nofollow ugc\"> New Course Player. <\/a><\/li>\n<li><strong>UPD:<\/strong> New student view interface.<\/li>\n<li><strong>UPD:<\/strong> Switch between Light and Dark Themes.<\/li>\n<li><strong>UPD:<\/strong> Enhanced Mobile-first view for students.<\/li>\n<li><strong>UPD:<\/strong> New view for Item Match and Image Match.<\/li>\n<\/ul>\n<h4>3.0.29 &#8211; 2023-10-06<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> The Login snd Register tabs in the authorization\/registration popup can not be switched<\/li>\n<\/ul>\n<h4>3.0.28 &#8211; 2023-10-03<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> When an authorized user clicks on one of the tab links, the first lesson opens with incorrect content.<\/li>\n<li><strong>SOLVED:<\/strong> Instructors cannot insert iframes into lessons.<\/li>\n<\/ul>\n<h4>3.0.27 &#8211; 2023-09-18<\/h4>\n<ul>\n<li><strong>UPD:<\/strong> Automatic generation of LMS pages when installing the free version of the plugin.<\/li>\n<li><strong>UPD:<\/strong> The course information on the course page is centered on the left edge when viewed on mobile.<\/li>\n<li><strong>SOLVED:<\/strong> When a user creates a quiz and then immediately creates the next quiz, AutoSave occurs at the time of creation and the current edited question is simply deleted.<\/li>\n<li><strong>SOLVED:<\/strong> When deleting a large number of questions, sometimes deleted questions are returned because AutoSave is triggered at a random moment.<\/li>\n<li><strong>SOLVED:<\/strong> When clicking on the \u201cOpen Settings\u201d button in the \u201cMS Pages are not generated\u201d notice, the button does not open the desired settings if you are on the settings page.<\/li>\n<li><strong>SOLVED:<\/strong> Only one-course category is displayed on the Single course page, although several categories and subcategories are specified in the course builder.<\/li>\n<li><strong>SOLVED:<\/strong> After deleting the generated pages and reloading the page, errors appear.<\/li>\n<\/ul>\n<h4>3.0.26 &#8211; 2023-09-11<\/h4>\n<ul>\n<li><strong>UPD:<\/strong> Libraries were updated to the latest version of the plugin<\/li>\n<\/ul>\n<h4>3.0.25 &#8211; 2023-09-06<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> Minor bug fixes<\/li>\n<\/ul>\n<h4>3.0.24 &#8211; 2023-09-05<\/h4>\n<ul>\n<li><strong>UPD<\/strong>: Course card settings added to LMS widget settings in WPBakery and Elementor<\/li>\n<li><strong>UPD<\/strong>: It is possible to change the height of pictures in course cards on Elementor<\/li>\n<li><strong>UPD<\/strong>: Course card settings in the admin panel customize settings for the Archive page<\/li>\n<li><strong>SOLVED:<\/strong> The instructor could not reset the rating and review even after using the LMS Course Rating tool<\/li>\n<li><strong>SOLVED:<\/strong> The courses widget on Elementor continued to show the discounted price even after the discount date expired<\/li>\n<\/ul>\n<h4>3.0.23 &#8211; 2023-08-25<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> Minor bug fixes<\/li>\n<\/ul>\n<h4>3.0.22 &#8211; 2023-08-24<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> Quiz question titles did not display HTML tags as text<\/li>\n<\/ul>\n<h4>3.0.21 &#8211; 2023-08-22<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> After completing the quiz, the Quiz Complete email should include the result of the quiz<\/li>\n<li><strong>SOLVED:<\/strong> The lesson creation page gives an error when refreshing<\/li>\n<li><strong>SOLVED:<\/strong> When the user uploads a picture and puts the cursor there, some text appears<\/li>\n<\/ul>\n<h4>3.0.20 &#8211; 2023-08-16<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> Minor bug fixes<\/li>\n<\/ul>\n<h4>3.0.19 &#8211; 2023-08-14<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> There was a conflict with the file manager addon and uploader<\/li>\n<li><strong>SOLVED:<\/strong> Error fixes with Course Carousel and Course Category<\/li>\n<li><strong>SOLVED:<\/strong> End Time is not filled in the database automatically when a student completes a course<\/li>\n<\/ul>\n<h4>3.0.18 &#8211; 2023-08-10<\/h4>\n<ul>\n<li><strong>UPD<\/strong>: Compatibility with WordPress 6.3<\/li>\n<li><strong>SOLVED:<\/strong> In the Single Course page, the sidebar drops down when there are not enough tabs<\/li>\n<li><strong>SOLVED:<\/strong> The wishlist button on the course card does not work after clearing a field in search<\/li>\n<li><strong>SOLVED:<\/strong> &#8220;No Courses Found&#8221; icon moves off on default themes<\/li>\n<li><strong>SOLVED:<\/strong> Icons for Text and Stream Lessons in Manage Students are not displayed on the left<\/li>\n<li><strong>SOLVED:<\/strong> When adding students, the number of students is not updated on the course page<\/li>\n<li><strong>SOLVED:<\/strong> Corrected Compatibility issues with PHP<\/li>\n<li><strong>SOLVED:<\/strong> When resetting a password, an email is sent without a clickable link<\/li>\n<li><strong>SOLVED:<\/strong> Bug fixes based on WPScan Vulnerability Report<\/li>\n<\/ul>\n<h4>3.0.17 &#8211; 2023-08-10<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> Minor bug fixes<\/li>\n<\/ul>\n<h4>3.0.16 &#8211; 2023-08-04<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> An additional scroll appeared on the right if the question was large or if there were too many questions<\/li>\n<li><strong>SOLVED:<\/strong> Removed the scroll that is closer to the edge of the screen in lessons<\/li>\n<li><strong>SOLVED:<\/strong> Create button did not become Save and the page did not refresh to edit state after creating Google Meet lessons<\/li>\n<li><strong>SOLVED:<\/strong> There was a 502 error when creating a large number of tabs with a lot of content<\/li>\n<\/ul>\n<h4>3.0.15 &#8211; 2023-07-19<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> Notice &#8220;This field is required&#8221; was not translated in the Course Builder<\/li>\n<\/ul>\n<h4>3.0.14 &#8211; 2023-07-18<\/h4>\n<ul>\n<li><strong>UPD:<\/strong> It is possible to duplicate curriculum with Post duplication<\/li>\n<li><strong>SOLVED:<\/strong> Solved incompatibility with WP Umbrella<\/li>\n<li><strong>SOLVED:<\/strong> Some texts are not translated in the new Course Builder<\/li>\n<li><strong>SOLVED:<\/strong> The Required field on the quiz title tag is not working<\/li>\n<li><strong>SOLVED:<\/strong> Separator goes over  words in the instructor&#8217;s Google Meet tab<\/li>\n<li><strong>UPD:<\/strong> Added word &#8220;Lesson&#8221; when creating a Google Meet lesson via Course Builder<\/li>\n<li><strong>SOLVED:<\/strong> Solved PHP Deprecated Bugs<\/li>\n<li><strong>SOLVED:<\/strong> Login buttons didn&#8217;t display full width<\/li>\n<li><strong>SOLVED:<\/strong> Embedded errors when creating a Zoom lesson<\/li>\n<\/ul>\n<h4>3.0.13 &#8211; 2023-07-14<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> The first section did not redirect the student to the second section if the section order has been changed<\/li>\n<li><strong>SOLVED:<\/strong> Add new course button in the admin panel did not always work from  the first time<\/li>\n<\/ul>\n<h4>3.0.12 &#8211; 2023-07-12<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> Minor bug fixes<\/li>\n<\/ul>\n<h4>3.0.11 &#8211; 2023-07-12<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> File size in the empty selector is not working in Course Builder<\/li>\n<\/ul>\n<h4>3.0.10 &#8211; 2023-07-11<\/h4>\n<ul>\n<li><strong>UPD:<\/strong> Added new Admin Notifications view<\/li>\n<li><strong>UPD:<\/strong> New icons and cursor pointers are now made for all date and time pickers<\/li>\n<li><strong>UPD:<\/strong> Moved all Hooks from the old Course Builder to the new one<\/li>\n<li><strong>UPD:<\/strong> Added new arguments to hooks<\/li>\n<li><strong>UPD:<\/strong> New mechanics for transferring lessons between sections in the curriculum<\/li>\n<li><strong>SOLVED:<\/strong> Side Profile Menu gets under Online Header<\/li>\n<li><strong>SOLVED:<\/strong> Avatar shrinks when opening Side Profile Menu on lives<\/li>\n<li><strong>SOLVED:<\/strong> A label in Quiz was in SVG format<\/li>\n<li><strong>SOLVED:<\/strong> Added Custom fields in Course Builder for Grassblade<\/li>\n<li><strong>SOLVED:<\/strong> Various bugs in the plugin were solved<\/li>\n<li><strong>SOLVED:<\/strong> There was a warning when visiting the site as Guest<\/li>\n<li><strong>SOLVED:<\/strong> Course Builder does not work with Gutenberd plugin<\/li>\n<li><strong>SOLVED:<\/strong> Removed Unused Undefined $curriculum_item variable<\/li>\n<li><strong>SOLVED:<\/strong> The mobile header on iOS is hitting buttons in Course Player in lessons<\/li>\n<li><strong>SOLVED:<\/strong> The created course should be saved as Draft<\/li>\n<li><strong>SOLVED:<\/strong> Corrected Notification when navigating from section to section in Google Meet<\/li>\n<li><strong>SOLVED:<\/strong> Part of the text not visible in Course Total<\/li>\n<li><strong>SOLVED:<\/strong> Lesson Content and Lesson Materials fields for Stream Lesson and Zoom Conference are not working.<\/li>\n<li><strong>SOLVED:<\/strong> Browser default notification is shown when closing the page<\/li>\n<li><strong>SOLVED:<\/strong> Settings and Q&amp;A tabs set max-width<\/li>\n<\/ul>\n<h4>3.0.9 &#8211; 2023-06-27<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> Cross-Site Scripting (XSS) vulnerability issue reported by Patchstack.<\/li>\n<li><strong>SOLVED:<\/strong> Broken Access Control vulnerability issue.<\/li>\n<\/ul>\n<h4>3.0.8 &#8211; 2023-06-21<\/h4>\n<ul>\n<li><strong>UPD:<\/strong> Compatibility Update with the latest version of Elementor Pro.<\/li>\n<li><strong>UPD:<\/strong> Compatibility Update  with the latest version of Elementor Header &amp; Footer Plugin<\/li>\n<li><strong>SOLVED:<\/strong> Mobile Menu of Elementor Pro was not clickable when MasterStudy LMS was active.<\/li>\n<li><strong>SOLVED:<\/strong> Courses search bar did not display on the Courses archive page.<\/li>\n<li><strong>SOLVED:<\/strong> Additional attempts were added when Quiz progress was reset by Admin.<\/li>\n<li><strong>SOLVED:<\/strong> Previous and Next icons are not displayed in Lesson navigation, when lesson Locked with Drip Content,<\/li>\n<\/ul>\n<h4>3.0.7 &#8211; 2023-06-08<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> Emails regarding &#8220;Course Pre-moderation&#8221; were not sent.<\/li>\n<li><strong>SOLVED:<\/strong> After publishing the course with the price, instructors could not make it free.<\/li>\n<li><strong>SOLVED:<\/strong> Stream lesson did not save after changing date and time.<\/li>\n<li><strong>SOLVED:<\/strong> Lesson preview displayed error in Trial Course.<\/li>\n<\/ul>\n<h4>3.0.6 &#8211; 2023-06-05<\/h4>\n<ul>\n<li><strong>UPD:<\/strong> Added video poster for External link source type of video lessons.<\/li>\n<li><strong>SOLVED:<\/strong> Course builder was loaded blank on the translated version of the website with WPML.<\/li>\n<li><strong>SOLVED:<\/strong> While switching between the lessons changes in the content did not apply at once.<\/li>\n<\/ul>\n<h4>3.0.5 &#8211; 2023-06-02<\/h4>\n<ul>\n<li><strong>UPD:<\/strong> The questions category will be displayed in the Questions bank section.<\/li>\n<li><strong>SOLVED:<\/strong> Favorite Courses page was available for not logged-in users.<\/li>\n<li><strong>SOLVED:<\/strong> After submitting the TRUE and FALSE, questions both options were displayed as FALSE.<\/li>\n<li><strong>SOLVED:<\/strong> Course sections and Lessons did not create due to Restricted PUT and DELETE requests on Server-side.<\/li>\n<li><strong>SOLVED:<\/strong> A &#8220;Validation error&#8221; was displayed on the console when the Image match question type was created.<\/li>\n<\/ul>\n<h4>3.0.4 &#8211; 2023-05-30<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> Minor bug fixes.<\/li>\n<\/ul>\n<h4>3.0.3 &#8211; 2023-05-29<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> The video in 16:9 format was cut off in the lesson.<\/li>\n<li><strong>SOLVED:<\/strong> Users could submit an empty assignment to review.<\/li>\n<li><strong>SOLVED:<\/strong> Embed content with &#8220;iframe&#8221; did not load in the lessons.<\/li>\n<li><strong>SOLVED:<\/strong> Default QUiz style settings are not imported with demo quizzes.<\/li>\n<li><strong>SOLVED:<\/strong> SCORM Packages did not upload to the course.<\/li>\n<li><strong>SOLVED:<\/strong> Validation of Date and Time picker of Zoom Lesson were missed.<\/li>\n<li><strong>SOLVED:<\/strong> Minor visual bugs in the Import Course materials section.<\/li>\n<\/ul>\n<h4>3.0.2 &#8211; 2023-05-18<\/h4>\n<ul>\n<li><strong>NEW:<\/strong> MS Slider widget added for Elementor to create custom Slides.<\/li>\n<li><strong>UPD:<\/strong> Added an &#8220;Add Link&#8221; button to all Tiny MCE editors in the Course Builder so that links can be inserted.<\/li>\n<li><strong>SOLVED:<\/strong> Strip Slashes of MathJax-LaTeX disappeared on lesson content and the formula was not generated in Course Builder.<\/li>\n<li><strong>SOLVED:<\/strong> Avatars of Co-Instructors did not display while creating a course with Course Builder.<\/li>\n<li><strong>SOLVED:<\/strong> Course Builder stopped loading when the latest comments were deleted from the Q&amp;A session while editing the lesson.<\/li>\n<li><strong>SOLVED:<\/strong> The name of the Course in the Prerequisites does not fit into the tab in Course Builder.<\/li>\n<li><strong>SOLVED:<\/strong> Multi-choice question type didn&#8217;t display the correct answer if there was a comma in the answer.<\/li>\n<li><strong>SOLVED:<\/strong> Image Match question type were not working when included in  Question Bank.<\/li>\n<li><strong>SOLVED:<\/strong> The quiz did not load for students when all questions were deleted and replaced with Question Bank<\/li>\n<li><strong>SOLVED:<\/strong> Special characters in Course titles such as ( &#8211; ) were displayed as code ( &#8211; ).<\/li>\n<li><strong>SOLVED:<\/strong> Video preview did not generate and displayed as a broken file at first seconds after uploading.<\/li>\n<\/ul>\n<h4>3.0.1 &#8211; 2023-05-16<\/h4>\n<ul>\n<li><strong>UPD:<\/strong> Horizontal Scroll added for Courses widget sorting options in mobile view.<\/li>\n<li><strong>SOLVED:<\/strong> Some course grid items did not appear in the slider view while sorting them.<\/li>\n<li><strong>SOLVED:<\/strong> New questions did not add to the quiz by clicking plus icon.<\/li>\n<li><strong>SOLVED:<\/strong> The questions library did not return results while editing the quiz in the Course Builder.<\/li>\n<li><strong>SOLVED:<\/strong> In Item Match questions, the second answer did not count as correct.<\/li>\n<li><strong>SOLVED:<\/strong> Course Builder did not load and displayed a blank page when WordPress was located in Subdirectory.<\/li>\n<\/ul>\n<h4>3.0.0 &#8211; 2023-05-08<\/h4>\n<ul>\n<li><strong>NEW:<\/strong> Course Builder with new design and a range of enhancements released.<\/li>\n<li><strong>UPD:<\/strong> The slider lesson type is converted to the text lesson type. Previously created lessons with Slider type will be displayed as text lessons.<\/li>\n<li><strong>SOLVED:<\/strong> Testimonials widget avatars were duplicated.<\/li>\n<\/ul>\n<h4>2.9.39 &#8211; 2023-05-02<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> Minor bug fixes.<\/li>\n<\/ul>\n<h4>2.9.38 &#8211; 2023-04-28<\/h4>\n<ul>\n<li><strong>SOLVED:<\/strong> Minor bug fixes.<\/li>\n<\/ul>\n<h4>2.9.37 &#8211; 2023-04-26<\/h4>\n<ul>\n<li><strong>UPD:<\/strong> Option to disable the featured courses section on the Elementor course archive page.<\/li>\n<li><strong>UPD:<\/strong> Courses widget of Elementor can be used for the Courses grid, Courses archive, Courses Carousel and Featured Teacher block.<\/li>\n<li><strong>SOLVED:<\/strong> The registration process did not complete when the file upload field was added to the registration  &hellip;<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-1.png?rev=2910669\"><img src=\"https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-1.png?rev=2910669\" alt=\"Powerful Course Builder\"><\/a><p>Powerful Course Builder<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-2.png?rev=2977335\"><img src=\"https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-2.png?rev=2977335\" alt=\"Polished Course Player\"><\/a><p>Polished Course Player<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-3.png?rev=2977335\"><img src=\"https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-3.png?rev=2977335\" alt=\"Onpage List of Courses\"><\/a><p>Onpage List of Courses<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-4.png?rev=2977335\"><img src=\"https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-4.png?rev=2977335\" alt=\"Single Course Page\"><\/a><p>Single Course Page<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-5.png?rev=2977335\"><img src=\"https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-5.png?rev=2977335\" alt=\"Live Streams, Webinars &amp; Classes\"><\/a><p>Live Streams, Webinars &amp; Classes<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-6.png?rev=2977335\"><img src=\"https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-6.png?rev=2977335\" alt=\"External Course Materials\"><\/a><p>External Course Materials<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-7.png?rev=2977335\"><img src=\"https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-7.png?rev=2977335\" alt=\"Interactive Quizzes\"><\/a><p>Interactive Quizzes<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-8.png?rev=2977335\"><img src=\"https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-8.png?rev=2977335\" alt=\"Lessons &amp; Learning Content Curriculum\"><\/a><p>Lessons &amp; Learning Content Curriculum<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-9.png?rev=2977335\"><img src=\"https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-9.png?rev=2977335\" alt=\"Custom Course Completion Certificates\"><\/a><p>Custom Course Completion Certificates<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Good plugin, good people !<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/baekseung71\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/625d1deb1918dcc4b78f1e69b8bc0753?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/625d1deb1918dcc4b78f1e69b8bc0753?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/baekseung71\/\" class=\"reviewer-name\">baekseung71<\/a> on <span class=\"review-date\">April 12, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I am first to build up website by masterstudy. I think as I purchase the item, my website is built up already. it is a naive thought. But the support team turned it to a completion of my website. Good plugin, good people, Lisa among them especially!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great Plugin, Great Support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/cbarendsen\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/56f57f77c0c1065519337b04081266f6?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/56f57f77c0c1065519337b04081266f6?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/cbarendsen\/\" class=\"reviewer-name\">cbarendsen<\/a> on <span class=\"review-date\">April 9, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">It is easy to get caught up in the world of so many plugins. We were looking for a plugin, for a client, and from the research we did, MasterStudy LMS came out tops for a number of reasons:<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>Functionality and feature rich.<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Easy to use.<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Customisation<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Logical flow.<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>User profiling. <\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Documentation availability.<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Dedicated support team. <\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Pricing<\/li>\n<!-- \/wp:list-item --><\/ul>\n<!-- \/wp:list -->\n\n<!-- wp:paragraph -->\n<p class=\"\">One would be mistaken to believe that there would be one plugin which would service all of one's needs however MasterStudy LMS goes a long way to be that solution. Not only is the product ever evolving but the support has been spectacular, especially from <strong>Lisa Williams<\/strong> and <strong>Stan Kim<\/strong>. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">The decision to go with MasterStudy LMS was the right decision.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">We are looking forward to this ever evolving journey with MasterStudy LMS and once again a very special thank you to <strong>Lisa Williams <\/strong>for being patient with us. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Very good LMS yet with some RTL shortages<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"4 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"4\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mdarwish313\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/8d444f9c272d25b081c0453e96fac45a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/8d444f9c272d25b081c0453e96fac45a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mdarwish313\/\" class=\"reviewer-name\">mdarwish <small>(mdarwish313)<\/small><\/a> on <span class=\"review-date\">April 7, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">As someone who values simplicity and believes in a \"less plugins, better site\", I've found Masterstudy LMS to be a comprehensive learning management system that offers a wide range of features and functionality for online course creation and delivery. Here's my balanced review of the platform:<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">The Good:<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:list {\"ordered\":true} -->\n<ol><!-- wp:list-item -->\n<li>Intuitive interface: Masterstudy LMS has a user-friendly interface that makes it easy for both instructors and students to navigate and use the platform.<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Extensive customization options: The platform offers a variety of customization options, allowing you to tailor the look and feel of your courses to match your brand.<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Diverse content formats: Masterstudy LMS supports various content formats, including videos, audio files, PDFs, slides and interactive quizzes, enabling you to create engaging and interactive courses.<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Robust course management: The platform provides powerful tools for managing courses, including the ability to set prerequisites, create learning paths, and track student progress.<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Built-in Stripe integration: One of the standout features of Masterstudy LMS is its built-in Stripe integration. This allows you to handle payments directly through the platform without needing to rely on WooCommerce, which aligns perfectly with my \"less plugins, better site\" philosophy.<\/li>\n<!-- \/wp:list-item --><\/ol>\n<!-- \/wp:list -->\n\n<!-- wp:paragraph -->\n<p class=\"\">The Bad:<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:list {\"ordered\":true} -->\n<ol><!-- wp:list-item -->\n<li>RTL (Right-to-Left) language issues: I've experienced some problems with the platform's support for RTL languages, such as Arabic and Hebrew. Text alignment and overall layout can be inconsistent, which can be frustrating for users who rely on RTL languages.<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Reliance on Paid Memberships Pro: Although Masterstudy LMS's built-in Stripe integration is a great step towards reducing plugin dependence, I still find myself relying on Paid Memberships Pro (PMPro) for membership functionality. I hope that one day, more LMS platforms, including Masterstudy LMS, will incorporate comprehensive membership features natively, eliminating the need for additional plugins like PMPro.<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>The profile navigation option overlaps the logo if set on the right, or overlaps the logged in button if set on the left. It should not overlap the header at all.<\/li>\n<!-- \/wp:list-item --><\/ol>\n<!-- \/wp:list -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Useful plugin, nicely documented, good support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/ahmetozer10\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/eb40d88fd8aa0d0c74835303f92ae21d?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/eb40d88fd8aa0d0c74835303f92ae21d?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/ahmetozer10\/\" class=\"reviewer-name\">ahmetozer10<\/a> on <span class=\"review-date\">April 1, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Till now, I'm satisfied with MasterStudy LMS plugin, its documentation and Stylemix support team. Hope to see the same in the future.<br \/>Thank you.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Super Theme-buy without hesitation<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/dunyasertifika198961\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e7cc900a0b77f98a1539e1ed9d0f6ce2?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e7cc900a0b77f98a1539e1ed9d0f6ce2?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/dunyasertifika198961\/\" class=\"reviewer-name\">dunyasertifika198961<\/a> on <span class=\"review-date\">March 30, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I have been using this theme for a long time, it is a very useful and clean theme. The support team provides excellent support and does not let you down. It is a very useful theme, it meets all your requests, buy it without hesitation, I recommend it to everyone, thank you.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">It\u2019s good that I not only read reviews, but also decided to check it myself :)<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/rubendotred\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/730379da3830f2b61c4768cbe71be8d8?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/730379da3830f2b61c4768cbe71be8d8?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/rubendotred\/\" class=\"reviewer-name\">rubendotred<\/a> on <span class=\"review-date\">March 27, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I don't know who writes bad reviews. Maybe they relate to the free versions of the plugin and theme? I tried the free version, found it worked and bought the Pro version of the plugin and the paid theme. All together it came out to about 150 euros. This is inexpensive, given the financial appetites of the developers of other similar LMS plugins, but we are a start-up company and the cost was very important for us.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I can say that I have been designing for many years and I don't know wordpress very well, but in about 3-4 days I was able to install the product myself, activate it, install a theme and configure most of the things. Frankly speaking, the guys have a lot to work on. Some settings seemed illogical to me, but the support team explained everything. Yes, they do not work super fast, I waited 4 days for my answer, including weekends, but the answer was very clear, professional and resolved all my questions at that time.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Nothing broke for me, like others who leave reviews. Everything works and I hope to get some more answers to some of my questions.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Therefore, before you write that everything is bad, ask yourself a question - would you support a free product and demand so much from an inexpensive budget solution? You can end up going out and buying other similar systems for a few hundred a year and they'll respond to you within a day. Ultimately you get what you pay for, right?<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Best Plugin LMS Ever!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/souliver\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/4ecd3180549f563a07080d904d90ae33?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/4ecd3180549f563a07080d904d90ae33?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/souliver\/\" class=\"reviewer-name\">souliver<\/a> on <span class=\"review-date\">March 26, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Best Plugin LMS Ever! Hope Stylemix will make App Masterstudy LMS next future same plugin.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">My encounter with a support consultant David Parker of StylemixThemes was a ver<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/siwema\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/41e17eb2719d4fa8c03e80606481d769?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/41e17eb2719d4fa8c03e80606481d769?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/siwema\/\" class=\"reviewer-name\">siwema<\/a> on <span class=\"review-date\">March 23, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">StylemixThemes Support Consultant David Parker is a great assest to the compant, he managed to resolve my issues with Certificate Builder of Master Study LMS. The new look Certificate Builder is awesome, just like the Master Study LMS itself. I would recommend it  with a five star.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">DO NOT USE!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/earthrebirth\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/6c8ae7d4eac54872bb674a8316c417c1?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/6c8ae7d4eac54872bb674a8316c417c1?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/earthrebirth\/\" class=\"reviewer-name\">earthrebirth<\/a> on <span class=\"review-date\">March 22, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I can not express how bad their customer service has been. It's been an exercise in futility. Dealing with a support ticket where the responding employee couldn't even bother to replace her name in the \"insert name\" part of her canned response was just the beginning. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">To make matters worse, after reluctantly providing host access, I discovered my website's theme had been completely changed and all my pages were broken. This incident couldn't have come at a worse time, as we are a nonprofit focusing on setting up gardens with schools and families, and we're currently in our busiest season.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Our website is still broken and the lack of assistance in resolving our course-related issues for three weeks was frustrating enough, but now combined with the recent havoc on our website is COMPLETELY unacceptable. I'm now in a position where I have to insist on TRYING to speak with a supervisor and require immediate action to fix my website. They do not respond for days between messages. As someone working in customer service, I'm appalled by the lack of competence and care shown in handling our concerns. It's truly disgraceful.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Perhaps the best plugin for online courses<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/roooiz\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/2077a9e774e062b4e5a04dfaf3fcc771?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/2077a9e774e062b4e5a04dfaf3fcc771?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/roooiz\/\" class=\"reviewer-name\">roooiz<\/a> on <span class=\"review-date\">March 22, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I would like to express my gratitude and positive feedback regarding the performance of the plugin for my online learning website.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">The plugin has very wide functionality and fine-tuning for online courses.<br \/>However, it is easy to customize for a project of any complexity.<br \/>Many additions such as certificates, a point system, zoom and Google meetings, several teachers and more will do their job.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I would especially like to thank the technical support.<br \/>David helped me resolve the issue quickly and professionally.<br \/>He demonstrated a willingness to help in any situation.<br \/>I really appreciate such responsiveness and professionalism.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I recommend the WordPress LMS plugin and plagin technical support to anyone looking for a reliable and effective solution for creating online courses. They provide excellent service and help make the learning process more convenient and efficient.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Learning Management System and eLearning plugin for WordPress. Create easily LMS WordPress website, add and sell Courses, Lessons, Quizzes online.",
+    "description": "<p>MasterStudy is a free WordPress LMS plugin for online learning business. The WordPress plugin turns any regular WP website into an online school with all the necessary eLearning &amp; LMS features.<\/p>\n<p>MasterStudy is the best free Learning Management System  WordPress plugin for online coaching, instructors, trainers, tutors, schools, colleges, marketplaces and any type of learning website.<\/p>\n<p>\u2b50 <a href=\"https:\/\/masterstudy.stylemixthemes.com\/lms-plugin\/\" rel=\"nofollow ugc\">MasterStudy Free version<\/a><br \/>\n\u2b50 <a href=\"https:\/\/stylemixthemes.com\/wordpress-lms-plugin\/?utm_source=wporg-lms&amp;utm_medium=en&amp;utm_campaign=2021\" rel=\"nofollow ugc\">MasterStudy PRO version<\/a><br \/>\n\u2b50 <a href=\"https:\/\/themeforest.net\/item\/masterstudy-education-center-wordpress-theme\/12170274\" rel=\"nofollow ugc\">MasterStudy Theme<\/a><br \/>\n\u2b50 <a href=\"https:\/\/codecanyon.net\/item\/masterstudy-lms-mobile-app-flutter-ios-android\/27103832\" rel=\"nofollow ugc\">MasterStudy iOS\/Android App<\/a><br \/>\n\u2b50 <a href=\"https:\/\/docs.stylemixthemes.com\/masterstudy-lms\/\" rel=\"nofollow ugc\">Documentation<\/a><br \/>\n\u2b50 <a href=\"https:\/\/www.facebook.com\/groups\/masterstudylms\" rel=\"nofollow ugc\">Join Facebook Community<\/a><\/p>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/fCD__iEbxwI?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n<h3>Who is it for?<\/h3>\n<p>Masterstudy LMS plugin for WordPress is targeted to:<\/p>\n<ul>\n<li><strong>Single instructor (coach or tutor);<\/strong><\/li>\n<li><strong>Education institutions (learning centers, schools, universities);<\/strong><\/li>\n<li><strong>Marketplace (with online courses).<\/strong><\/li>\n<\/ul>\n<h3>How Does It Work?<\/h3>\n<p>With MasterStudy, you can create and sell online courses without needing to be a tech expert. It&#8217;s like building your website with easy and ready tools.<\/p>\n<h3>For Individual Instructors (Tutors, Coaches):<\/h3>\n<p>MasterStudy is a perfect LMS WordPress plugin for tutors, coaches, or anyone who wants to teach online. You can make interactive lessons with videos, images, and slides, and organize them for your students.<\/p>\n<h3>For Educational Institutions:<\/h3>\n<p>MasterStudy helps schools and colleges handle students, grades, and lessons smoothly. Teachers can add materials, edit lessons, and talk to students with message boards. Students can ask questions and talk to their teachers through comments and messages. They can pay per course or sign up for monthly\/yearly subscriptions.<\/p>\n<h3>For Online Course Marketplaces:<\/h3>\n<p>With MasterStudy, you can set up online course marketplaces like Udemy or Coursera in WordPress. It takes care of subscriptions, quizzes, payments, and student management. You can also make certificates for students. Each user gets their own profile where they can track progress, continue lessons, see quiz scores, and buy courses or memberships.<\/p>\n<p>There is a step-by-step video tutorial on how to use the MasterStudy WordPress Plugin<\/p>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/kdgakNgB4S0?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n<h3>Create a Course Easily with Our Powerful Builder:<\/h3>\n<p>Creating courses is simple with the MasterStudy WordPress LMS plugin. Our builder is user-friendly and beautifully designed, divided into easy-to-follow sections. Once you&#8217;ve created a course, you can add lessons, quizzes, and assignments. You can also customize the sequence of lessons, preview specific ones, set pricing options, and add FAQs.<\/p>\n<p>Easily  include all the details you need in one place, such as the title, descriptions, curriculum, duration, price, skill level, and the number of active students. Plus, you can add videos, attachments, teachers, and rewards.<\/p>\n<p>With our Course builder, you have unlimited options for managing your courses:<\/p>\n<ul>\n<li>Featuring Courses<\/li>\n<li>Previewing Courses<\/li>\n<li>Describing Courses for Users<\/li>\n<li>Announcing Course Updates<\/li>\n<li>Adding FAQ Sections<\/li>\n<li>Reviewing and Rating Courses<\/li>\n<li>Setting Expiry Dates for Courses<\/li>\n<li>Temporarily Pausing Courses<\/li>\n<li>Sorting Courses into Categories<\/li>\n<li>Attaching Files to Courses<\/li>\n<li>Tracking Course Progress<\/li>\n<li>Managing Enrolled Students<\/li>\n<li>Specifying Course Durations and Video Lengths<\/li>\n<li>Determining the Number of Lessons<\/li>\n<li>Assigning Difficulty Levels<\/li>\n<li>Managing Students&#8217; Progress<\/li>\n<li>Adding Students Manually<\/li>\n<li>Viewing Students&#8217; Progress Details<\/li>\n<li>Resetting Students&#8217; Progress<\/li>\n<\/ul>\n<h3>ADDING LESSONS<\/h3>\n<p>Once your course and sections are set up, it&#8217;s time to add lessons. You have the flexibility to create four types of lessons: text, video, online streams, and slideshows. Plus, you can easily incorporate previously created content with our library of lessons and quizzes.<\/p>\n<p><strong><em>Here&#8217;s what you can manage with lessons:<\/em><\/strong><\/p>\n<ul>\n<li>Duration<\/li>\n<li>Preview (accessible to everyone)<\/li>\n<li>Description visible on the frontend<\/li>\n<li>Type of video lesson<\/li>\n<li>Discussions for students with the instructor<\/li>\n<li>Lesson materials (any media type)<\/li>\n<\/ul>\n<h3>Seven Types of Video Sources to Add for Video Lessons<\/h3>\n<p>With our MasterStudy LMS WordPress plugin, adding videos is simple. It\u2019s fully compatible with Presto Player, a cutting-edge WordPress video player plugin. You can use up  to seven video sources:<\/p>\n<ul>\n<li>HTML(MP4)<\/li>\n<li>YouTube<\/li>\n<li>Vimeo<\/li>\n<li>External Links<\/li>\n<li>Embedded Video<\/li>\n<li>Shortcodes<\/li>\n<li>Presto Player<\/li>\n<\/ul>\n<h3>QUIZZES<\/h3>\n<p>You can add questions to quizzes manually or select from the preset questions library. Then, simply input your first question. We offer eight question types to suit your needs: single-choice, multi-choice, true or false, item match, image match, image choice, keywords, and fill-in-the-gap.<\/p>\n<p><strong><em>Here are the features of our quizzes:<\/em><\/strong><\/p>\n<ul>\n<li>Advanced quiz builder<\/li>\n<li>Various quiz styles<\/li>\n<li>Categorization of quizzes<\/li>\n<li>Setting quiz duration<\/li>\n<li>Limiting quiz attempts<\/li>\n<li>Deducting points on resubmission<\/li>\n<li>Defining passing grades<\/li>\n<li>Randomizing questions<\/li>\n<li>Displaying correct answers<\/li>\n<li>Describing the quiz visible on the frontend<\/li>\n<\/ul>\n<h3>Course Player: Better Learning Experience<\/h3>\n<p>Improve your students&#8217; learning journey with our Course Player. It&#8217;s distraction-free, sleek, and user-friendly. Students can easily navigate through course content, switch between light and dark modes, and take part in discussions. Progressing through lessons is effortless\u2014students can just click &#8220;Complete&#8221; to move to the next one.<\/p>\n<p><strong>Key Features of MasterStudy Free Plugin:<\/strong><\/p>\n<ul>\n<li>Modern design<\/li>\n<li>Powerful Course Builder<\/li>\n<li>Course Player<\/li>\n<li>Dark Mode in courses<\/li>\n<li>Unlimited courses and lessons<\/li>\n<li>Course preview<\/li>\n<li>Frontend student dashboard<\/li>\n<li>Teacher\u2019s profile<\/li>\n<li>Video lessons<\/li>\n<li>Many video sources (self-hosted, YouTube, Vimeo, Presto Player, HTML, Embeded, Shortcode)<\/li>\n<li>Separate teacher profiles<\/li>\n<li>Lesson management<\/li>\n<li>Dynamic drag and drop certificate builder<\/li>\n<li>Advanced quiz builder (8 quiz types)<\/li>\n<li>Earning &amp; commission allocation<\/li>\n<li>Many withdrawal options<\/li>\n<li>Purchase history<\/li>\n<li>Styling options<\/li>\n<li>Course widget<\/li>\n<li>Teacher registration form<\/li>\n<li>Course review and rating system<\/li>\n<li>Q&amp;A for students with the course teacher<\/li>\n<li>Video poster (trailer\/teaser)<\/li>\n<li>Tracking course progress<\/li>\n<li>Course difficulty level<\/li>\n<li>Define course duration<\/li>\n<li>Course marketplace<\/li>\n<li>Add course requirements and instruction<\/li>\n<li>Quiz timer<\/li>\n<li>Quiz attempts<\/li>\n<li>Centralized monetization settings<\/li>\n<li>Spotlight mode<\/li>\n<li>RTL ready<\/li>\n<li>Page builder support<\/li>\n<li>Gutenberg compatible<\/li>\n<li>Content security<\/li>\n<li>Advanced analytics<\/li>\n<\/ul>\n<p>For more details, please visit <a href=\"https:\/\/stylemixthemes.com\/wordpress-lms-plugin\/\" rel=\"nofollow ugc\">our website<\/a>.<\/p>\n<p><strong>MasterStudy Premium Plugin Features<\/strong><\/p>\n<ul>\n<li><strong>Certificate Builder<\/strong>: Make custom certificates easily.<\/li>\n<li><strong>Udemy Course Importer<\/strong>: Bring in Udemy courses and earn commissions.<\/li>\n<li><strong>Prerequisites<\/strong>: Set required courses before new enrollments.<\/li>\n<li><strong>Quizzes<\/strong>: Add different types of questions to tests.<\/li>\n<li><strong>Sequential Drip Content<\/strong>: Plan lessons step by step.<\/li>\n<li><strong>Gradebook<\/strong>: See and export class results.<\/li>\n<li><strong>Live Streaming<\/strong>: Conduct live lessons.<\/li>\n<li><strong>Group Courses<\/strong>: Sell to companies and manage members.<\/li>\n<li><strong>Assignments<\/strong>: Students submit work and get grades.<\/li>\n<li><strong>Question Media<\/strong>: Add videos, audio, and images to quizzes.<\/li>\n<li><strong>Point system<\/strong>: Reward learners for achievements.<\/li>\n<li><strong>Statistics and Payouts<\/strong>: Analyze data and manage payments for instructors.<\/li>\n<li><strong>Online Testing<\/strong>: Embed quizzes anywhere and conduct tests online.<\/li>\n<li><strong>Trial Courses<\/strong>: Offer courses as trials or demos for new users.<\/li>\n<li><strong>Co-instructors<\/strong>: Assign multiple instructors to a course.<\/li>\n<li><strong>Gradebook<\/strong>: Monitor students&#8217; progress and performance.<\/li>\n<li><strong>Email Manager<\/strong>: Personalize email templates.<\/li>\n<li><strong>Course Bundles<\/strong>: Bundle courses together and offer discounts.<\/li>\n<li><strong>Google Classrooms<\/strong>: Import classes from Google Classrooms.<\/li>\n<li><strong>Zoom Conference<\/strong>: Conduct Zoom lessons, meetings, and webinars on your site.<\/li>\n<li><strong>Google Meet<\/strong>: Schedule and host Google Meet meetings.<\/li>\n<li><strong>SCORM<\/strong>: Import pre-built e-learning content using SCORM standards.<\/li>\n<li><strong>LMS Forms Editor<\/strong>: Customize website forms with an easy-to-use editor.<\/li>\n<li><strong>File Upload Manager<\/strong>: Manage various file types in courses and lessons.<\/li>\n<li><strong>Upcoming Course Status<\/strong>: Promote courses that are not yet open for enrollment.<\/li>\n<\/ul>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/98LKgphFSCY?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.zip",
+    "upgrade_notice": {
+        "": "<p>It\u2019s recommended to have a backup of your website before hitting the update button.<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-1.png?rev=2910669",
+            "caption": "Powerful Course Builder"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-2.png?rev=2977335",
+            "caption": "Polished Course Player"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-3.png?rev=2977335",
+            "caption": "Onpage List of Courses"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-4.png?rev=2977335",
+            "caption": "Single Course Page"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-5.png?rev=2977335",
+            "caption": "Live Streams, Webinars &amp; Classes"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-6.png?rev=2977335",
+            "caption": "External Course Materials"
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-7.png?rev=2977335",
+            "caption": "Interactive Quizzes"
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-8.png?rev=2977335",
+            "caption": "Lessons &amp; Learning Content Curriculum"
+        },
+        "9": {
+            "src": "https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/screenshot-9.png?rev=2977335",
+            "caption": "Custom Course Completion Certificates"
+        }
+    },
+    "tags": {
+        "course": "course",
+        "education": "education",
+        "elearning": "elearning",
+        "learning-management-system": "learning management system",
+        "lms": "lms"
+    },
+    "stable_tag": "trunk",
+    "versions": {
+        "1.10.4": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.1.10.4.zip",
+        "2.3.0": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.3.0.zip",
+        "2.4.3.1": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.4.3.1.zip",
+        "2.4.4": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.4.4.zip",
+        "2.4.4.1": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.4.4.1.zip",
+        "2.4.5": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.4.5.zip",
+        "2.4.6": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.4.6.zip",
+        "2.4.7": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.4.7.zip",
+        "2.5.0": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.5.0.zip",
+        "2.5.1": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.5.1.zip",
+        "2.5.2": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.5.2.zip",
+        "2.5.3": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.5.3.zip",
+        "2.5.4": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.5.4.zip",
+        "2.5.5": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.5.5.zip",
+        "2.5.6": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.5.6.zip",
+        "2.5.7": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.5.7.zip",
+        "2.5.8": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.5.8.zip",
+        "2.5.9": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.5.9.zip",
+        "2.6.0": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.6.0.zip",
+        "2.6.1": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.6.1.zip",
+        "2.6.2": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.6.2.zip",
+        "2.6.3": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.6.3.zip",
+        "2.6.4": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.6.4.zip",
+        "2.6.5": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.6.5.zip",
+        "2.6.6": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.6.6.zip",
+        "2.6.7": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.6.7.zip",
+        "2.6.8": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.6.8.zip",
+        "2.6.9": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.6.9.zip",
+        "2.7.0": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.7.0.zip",
+        "2.7.1": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.7.1.zip",
+        "2.7.2": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.7.2.zip",
+        "2.7.3": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.7.3.zip",
+        "2.7.4": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.7.4.zip",
+        "2.7.5": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.7.5.zip",
+        "2.7.6": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.7.6.zip",
+        "2.7.7": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.7.7.zip",
+        "2.7.8": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.7.8.zip",
+        "2.7.9": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.7.9.zip",
+        "2.8.0": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.8.0.zip",
+        "2.8.1": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.8.1.zip",
+        "2.8.2": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.8.2.zip",
+        "2.8.3": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.8.3.zip",
+        "2.8.4": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.8.4.zip",
+        "2.8.5": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.8.5.zip",
+        "2.8.6": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.8.6.zip",
+        "2.8.7": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.8.7.zip",
+        "2.8.8": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.8.8.zip",
+        "2.8.9": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.8.9.zip",
+        "2.9.0": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.0.zip",
+        "2.9.1": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.1.zip",
+        "2.9.11": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.11.zip",
+        "2.9.12": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.12.zip",
+        "2.9.13": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.13.zip",
+        "2.9.14": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.14.zip",
+        "2.9.15": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.15.zip",
+        "2.9.16": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.16.zip",
+        "2.9.17": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.17.zip",
+        "2.9.18": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.18.zip",
+        "2.9.19": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.19.zip",
+        "2.9.2": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.2.zip",
+        "2.9.20": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.20.zip",
+        "2.9.21": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.21.zip",
+        "2.9.22": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.22.zip",
+        "2.9.23": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.23.zip",
+        "2.9.24": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.24.zip",
+        "2.9.25": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.25.zip",
+        "2.9.26": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.26.zip",
+        "2.9.27": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.27.zip",
+        "2.9.28": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.28.zip",
+        "2.9.29": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.29.zip",
+        "2.9.3": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.3.zip",
+        "2.9.30": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.30.zip",
+        "2.9.31": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.31.zip",
+        "2.9.32": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.32.zip",
+        "2.9.33": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.33.zip",
+        "2.9.34": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.34.zip",
+        "2.9.35": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.35.zip",
+        "2.9.36": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.36.zip",
+        "2.9.37": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.37.zip",
+        "2.9.38": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.38.zip",
+        "2.9.39": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.39.zip",
+        "2.9.4": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.4.zip",
+        "2.9.5": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.5.zip",
+        "2.9.6": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.6.zip",
+        "2.9.7": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.7.zip",
+        "2.9.8": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.8.zip",
+        "2.9.9": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.2.9.9.zip",
+        "3.0.0": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.0.zip",
+        "3.0.1": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.1.zip",
+        "3.0.10": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.10.zip",
+        "3.0.11": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.11.zip",
+        "3.0.12": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.12.zip",
+        "3.0.13": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.13.zip",
+        "3.0.14": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.14.zip",
+        "3.0.15": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.15.zip",
+        "3.0.16": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.16.zip",
+        "3.0.17": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.17.zip",
+        "3.0.18": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.18.zip",
+        "3.0.19": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.19.zip",
+        "3.0.2": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.2.zip",
+        "3.0.20": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.20.zip",
+        "3.0.21": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.21.zip",
+        "3.0.22": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.22.zip",
+        "3.0.23": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.23.zip",
+        "3.0.24": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.24.zip",
+        "3.0.25": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.25.zip",
+        "3.0.26": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.26.zip",
+        "3.0.27": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.27.zip",
+        "3.0.28": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.28.zip",
+        "3.0.29": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.29.zip",
+        "3.0.3": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.3.zip",
+        "3.0.4": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.4.zip",
+        "3.0.5": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.5.zip",
+        "3.0.6": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.6.zip",
+        "3.0.7": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.7.zip",
+        "3.0.8": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.8.zip",
+        "3.0.9": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.0.9.zip",
+        "3.1.0": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.0.zip",
+        "3.1.1": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.1.zip",
+        "3.1.10": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.10.zip",
+        "3.1.11": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.11.zip",
+        "3.1.12": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.12.zip",
+        "3.1.13": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.13.zip",
+        "3.1.14": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.14.zip",
+        "3.1.15": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.15.zip",
+        "3.1.16": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.16.zip",
+        "3.1.17": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.17.zip",
+        "3.1.18": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.18.zip",
+        "3.1.19": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.19.zip",
+        "3.1.2": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.2.zip",
+        "3.1.20": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.20.zip",
+        "3.1.21": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.21.zip",
+        "3.1.22": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.22.zip",
+        "3.1.23": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.23.zip",
+        "3.1.24": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.24.zip",
+        "3.1.25": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.25.zip",
+        "3.1.3": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.3.zip",
+        "3.1.4": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.4.zip",
+        "3.1.5": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.5.zip",
+        "3.1.6": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.6.zip",
+        "3.1.7": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.7.zip",
+        "3.1.8": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.8.zip",
+        "3.1.9": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.1.9.zip",
+        "3.2.0": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.2.0.zip",
+        "3.2.1": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.2.1.zip",
+        "3.2.10": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.2.10.zip",
+        "3.2.11": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.2.11.zip",
+        "3.2.12": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.2.12.zip",
+        "3.2.13": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.2.13.zip",
+        "3.2.2": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.2.2.zip",
+        "3.2.3": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.2.3.zip",
+        "3.2.4": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.2.4.zip",
+        "3.2.5": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.2.5.zip",
+        "3.2.6": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.2.6.zip",
+        "3.2.7": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.2.7.zip",
+        "3.2.8": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.2.8.zip",
+        "3.2.9": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.2.9.zip",
+        "3.3.0": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.3.0.zip",
+        "3.3.1": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.3.1.zip",
+        "3.3.2": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.3.2.zip",
+        "3.3.3": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.3.3.zip",
+        "3.3.4": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.3.4.zip",
+        "3.3.5": "https:\/\/downloads.wordpress.org\/plugin\/masterstudy-lms-learning-management-system.3.3.5.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/stylemixthemes.com\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/banner-772x250.jpg?rev=2910669",
+        "high": "https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/banner-1544x500.jpg?rev=2910669"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/icon-128x128.gif?rev=2846471",
+        "2x": "https:\/\/ps.w.org\/masterstudy-lms-learning-management-system\/assets\/icon-256x256.gif?rev=2846471"
+    },
+    "blocks": {
+        "masterstudy\/cta": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "masterstudy\/cta",
+            "version": "0.1.0",
+            "title": "MasterStudy Call to Action",
+            "category": "masterstudy-lms-blocks",
+            "icon": "",
+            "description": "Make your offer clear and convince readers to take action",
+            "example": {},
+            "supports": {
+                "html": false,
+                "align": [
+                    "wide",
+                    "full"
+                ],
+                "__experimentalBorder": {
+                    "width": true,
+                    "radius": true,
+                    "color": true,
+                    "style": true
+                },
+                "typography": {
+                    "fontSize": true,
+                    "lineHeight": true,
+                    "__experimentalFontFamily": true,
+                    "__experimentalFontWeight": true,
+                    "__experimentalFontStyle": true,
+                    "__experimentalTextTransform": true,
+                    "__experimentalLetterSpacing": true,
+                    "__experimentalDefaultControls": {
+                        "fontSize": true
+                    }
+                },
+                "spacing": {
+                    "padding": true,
+                    "margin": true
+                },
+                "layout": true
+            },
+            "attributes": {
+                "layout": {},
+                "width": {
+                    "type": "string",
+                    "default": ""
+                },
+                "textAlign": {
+                    "type": "string",
+                    "default": ""
+                },
+                "color": {
+                    "type": "string",
+                    "default": ""
+                },
+                "hoverColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "bgColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "bgHoverColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "backgroundImage": {
+                    "type": "string",
+                    "default": ""
+                },
+                "isBackgroundImage": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "isBackgroundTransparent": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "clientId": {
+                    "type": "string",
+                    "default": ""
+                }
+            },
+            "keywords": [
+                "lms",
+                "cta",
+                "call to action",
+                "masterstudy"
+            ],
+            "textdomain": "masterstudy-lms-learning-management-system",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css",
+            "viewScript": "file:.\/view.js"
+        },
+        "masterstudy\/iconbox": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "masterstudy\/iconbox",
+            "version": "0.1.0",
+            "title": "MasterStudy Iconbox",
+            "category": "masterstudy-lms-blocks",
+            "icon": "welcome-widgets-menus",
+            "description": "Add bullet points with an icon box to show off your products and services",
+            "example": {},
+            "supports": {
+                "html": false,
+                "align": [
+                    "wide",
+                    "full"
+                ]
+            },
+            "attributes": {
+                "title": {
+                    "type": "string",
+                    "default": ""
+                },
+                "description": {
+                    "type": "string",
+                    "default": ""
+                },
+                "titleColor": {
+                    "type": "string",
+                    "default": "#2A3045"
+                },
+                "titleFontSize": {
+                    "type": "string",
+                    "default": "20px"
+                },
+                "titleFontWeight": {
+                    "type": "number",
+                    "default": 700
+                },
+                "descColor": {
+                    "type": "string",
+                    "default": "#2A3045BF"
+                },
+                "descFontSize": {
+                    "type": "string",
+                    "default": "14px"
+                },
+                "descFontWeight": {
+                    "type": "number",
+                    "default": 400
+                },
+                "blockColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "clientId": {
+                    "type": "string",
+                    "default": ""
+                }
+            },
+            "keywords": [
+                "lms",
+                "Iconbox",
+                "box",
+                "masterstudy"
+            ],
+            "textdomain": "masterstudy-lms-learning-management-system",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css",
+            "viewScript": "file:.\/view.js"
+        },
+        "masterstudy\/testimonials": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "masterstudy\/testimonials",
+            "version": "0.1.0",
+            "title": "MasterStudy Testimonial",
+            "category": "masterstudy-lms-blocks",
+            "icon": "testimonial",
+            "description": "Build customer trust by adding testimonials",
+            "example": {},
+            "supports": {
+                "html": false,
+                "align": [
+                    "wide",
+                    "full"
+                ],
+                "__experimentalBorder": {
+                    "width": true,
+                    "radius": true,
+                    "color": true,
+                    "style": true
+                },
+                "typography": {
+                    "fontSize": true,
+                    "lineHeight": true,
+                    "__experimentalFontFamily": true,
+                    "__experimentalFontWeight": true,
+                    "__experimentalFontStyle": true,
+                    "__experimentalTextTransform": true,
+                    "__experimentalLetterSpacing": true,
+                    "__experimentalDefaultControls": {
+                        "fontSize": true
+                    }
+                },
+                "spacing": {
+                    "padding": true,
+                    "margin": true
+                }
+            },
+            "attributes": {
+                "slides": {
+                    "type": "array",
+                    "default": [],
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "id": {
+                                "type": "string"
+                            },
+                            "content": {
+                                "type": "string"
+                            },
+                            "rating": {
+                                "type": "number"
+                            },
+                            "reviewer": {
+                                "type": "string",
+                                "default": ""
+                            },
+                            "imgUrl": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                },
+                "title": {
+                    "type": "string",
+                    "default": ""
+                },
+                "titleColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "textColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "ratingColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "reviewerColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "bgColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "iconColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "iconBgColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "avatarBorderColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "activeAvatarBgColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "avatarBgColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "avatarIconColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "clientId": {
+                    "type": "string",
+                    "default": ""
+                }
+            },
+            "keywords": [
+                "lms",
+                "testimonials",
+                "masterstudy"
+            ],
+            "textdomain": "masterstudy-lms-learning-management-system",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css",
+            "viewScript": "file:.\/view.js"
+        },
+        "masterstudy\/icon": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "masterstudy\/icon",
+            "version": "0.1.0",
+            "title": "MasterStudy Icon",
+            "category": "masterstudy-lms-blocks",
+            "icon": "flag",
+            "description": "Add an icon to the page as a block",
+            "example": {},
+            "supports": {
+                "html": false,
+                "align": false,
+                "alignWide": false,
+                "__experimentalBorder": {
+                    "width": true,
+                    "radius": true,
+                    "color": true,
+                    "style": true
+                },
+                "spacing": {
+                    "padding": true,
+                    "margin": true
+                },
+                "color": {
+                    "background": true,
+                    "gradients": true,
+                    "text": true
+                }
+            },
+            "attributes": {
+                "iconName": {
+                    "type": "string",
+                    "default": ""
+                },
+                "iconAttr": {
+                    "type": "object",
+                    "default": {
+                        "prefix": "fas",
+                        "iconName": "graduation-cap",
+                        "icon": [
+                            640,
+                            512,
+                            [
+                                127891,
+                                "mortar-board"
+                            ],
+                            "f19d",
+                            "M320 32c-8.1 0-16.1 1.4-23.7 4.1L15.8 137.4C6.3 140.9 0 149.9 0 160s6.3 19.1 15.8 22.6l57.9 20.9C57.3 229.3 48 259.8 48 291.9v28.1c0 28.4-10.8 57.7-22.3 80.8c-6.5 13-13.9 25.8-22.5 37.6C0 442.7-.9 448.3 .9 453.4s6 8.9 11.2 10.2l64 16c4.2 1.1 8.7 .3 12.4-2s6.3-6.1 7.1-10.4c8.6-42.8 4.3-81.2-2.1-108.7C90.3 344.3 86 329.8 80 316.5V291.9c0-30.2 10.2-58.7 27.9-81.5c12.9-15.5 29.6-28 49.2-35.7l157-61.7c8.2-3.2 17.5 .8 20.7 9s-.8 17.5-9 20.7l-157 61.7c-12.4 4.9-23.3 12.4-32.2 21.6l159.6 57.6c7.6 2.7 15.6 4.1 23.7 4.1s16.1-1.4 23.7-4.1L624.2 182.6c9.5-3.4 15.8-12.5 15.8-22.6s-6.3-19.1-15.8-22.6L343.7 36.1C336.1 33.4 328.1 32 320 32zM128 408c0 35.3 86 72 192 72s192-36.7 192-72L496.7 262.6 354.5 314c-11.1 4-22.8 6-34.5 6s-23.5-2-34.5-6L143.3 262.6 128 408z"
+                        ]
+                    }
+                },
+                "mobile": {
+                    "type": "object",
+                    "default": {}
+                },
+                "tablet": {
+                    "type": "object",
+                    "default": {}
+                },
+                "desktop": {
+                    "type": "object",
+                    "default": {}
+                },
+                "blockStyles": {
+                    "type": "object",
+                    "default": {}
+                },
+                "clientId": {
+                    "type": "string",
+                    "default": ""
+                }
+            },
+            "keywords": [
+                "lms",
+                "icon",
+                "icons",
+                "masterstudy"
+            ],
+            "textdomain": "masterstudy-lms-learning-management-system",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css",
+            "viewScript": "file:.\/view.js"
+        },
+        "masterstudy\/adaptive-box": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "masterstudy\/adaptive-box",
+            "version": "0.1.0",
+            "title": "MasterStudy Adaptive Container",
+            "category": "masterstudy-lms-blocks",
+            "icon": "align-center",
+            "description": "Add an adaptive section with MasterStudy blocks",
+            "example": {},
+            "supports": {
+                "html": false,
+                "anchor": true,
+                "__experimentalBorder": {
+                    "radius": true,
+                    "color": true,
+                    "style": true,
+                    "width": false
+                },
+                "color": {
+                    "background": true,
+                    "text": false
+                },
+                "align": [
+                    "wide",
+                    "full"
+                ],
+                "typography": {
+                    "fontSize": true,
+                    "lineHeight": true
+                },
+                "layout": {
+                    "allowSizingOnChildren": true
+                },
+                "interactivity": {
+                    "clientNavigation": true
+                }
+            },
+            "attributes": {
+                "mobile": {
+                    "type": "object",
+                    "default": {}
+                },
+                "tablet": {
+                    "type": "object",
+                    "default": {}
+                },
+                "desktop": {
+                    "type": "object",
+                    "default": {}
+                },
+                "display": {
+                    "type": "string",
+                    "default": "block",
+                    "enum": [
+                        "block",
+                        "flex"
+                    ]
+                },
+                "isBackgroundImage": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "backgroundImage": {
+                    "type": "string",
+                    "default": ""
+                },
+                "blockStyles": {
+                    "type": "string",
+                    "default": ""
+                },
+                "clientId": {
+                    "type": "string",
+                    "default": ""
+                }
+            },
+            "keywords": [
+                "lms",
+                "flex",
+                "adaptive",
+                "masterstudy"
+            ],
+            "textdomain": "masterstudy-lms-learning-management-system",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css",
+            "viewScript": "file:.\/view.js"
+        },
+        "masterstudy\/button": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "masterstudy\/button",
+            "version": "0.1.0",
+            "title": "MasterStudy Button",
+            "category": "masterstudy-lms-blocks",
+            "icon": "button",
+            "description": "Convince readers to take action with a button",
+            "supports": {
+                "html": false,
+                "align": false,
+                "alignWide": false,
+                "__experimentalBorder": {
+                    "width": true,
+                    "radius": true,
+                    "color": true,
+                    "style": true
+                },
+                "typography": {
+                    "fontSize": true,
+                    "lineHeight": true,
+                    "__experimentalFontFamily": true,
+                    "__experimentalFontWeight": true,
+                    "__experimentalFontStyle": true,
+                    "__experimentalTextTransform": true,
+                    "__experimentalLetterSpacing": true,
+                    "__experimentalDefaultControls": {
+                        "fontSize": true
+                    }
+                },
+                "spacing": {
+                    "padding": true,
+                    "margin": true
+                }
+            },
+            "attributes": {
+                "linkTarget": {
+                    "type": "string",
+                    "default": ""
+                },
+                "rel": {
+                    "type": "string",
+                    "default": ""
+                },
+                "url": {
+                    "type": "string",
+                    "default": ""
+                },
+                "text": {
+                    "type": "string",
+                    "default": ""
+                },
+                "enableIcon": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "iconPosition": {
+                    "type": "string",
+                    "default": "right"
+                },
+                "color": {
+                    "type": "string",
+                    "default": ""
+                },
+                "hoverColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "bgColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "bgHoverColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "borderColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "clientId": {
+                    "type": "string",
+                    "default": ""
+                }
+            },
+            "keywords": [
+                "lms",
+                "link",
+                "button",
+                "masterstudy"
+            ],
+            "example": {},
+            "textdomain": "masterstudy-lms-learning-management-system",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css",
+            "viewScript": "file:.\/view.js"
+        },
+        "masterstudy\/advanced-text": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "masterstudy\/advanced-text",
+            "version": "0.1.0",
+            "title": "MasterStudy Text",
+            "category": "masterstudy-lms-blocks",
+            "icon": "heading",
+            "description": "Add and customize texts with MasterStudy Text",
+            "example": {},
+            "supports": {
+                "html": false,
+                "align": [
+                    "wide",
+                    "full"
+                ],
+                "anchor": true,
+                "className": true,
+                "color": {
+                    "gradients": true,
+                    "link": true,
+                    "__experimentalDefaultControls": {
+                        "background": true,
+                        "text": true
+                    }
+                },
+                "typography": {
+                    "fontSize": true,
+                    "lineHeight": true,
+                    "__experimentalFontFamily": true,
+                    "__experimentalFontStyle": true,
+                    "__experimentalFontWeight": true,
+                    "__experimentalLetterSpacing": true,
+                    "__experimentalTextTransform": true,
+                    "__experimentalTextDecoration": true,
+                    "__experimentalWritingMode": true,
+                    "__experimentalDefaultControls": {
+                        "fontSize": true
+                    }
+                },
+                "__unstablePasteTextInline": true,
+                "__experimentalSlashInserter": true
+            },
+            "attributes": {
+                "title": {
+                    "type": "string",
+                    "default": ""
+                },
+                "text": {
+                    "type": "string",
+                    "default": ""
+                },
+                "mobile": {
+                    "type": "object",
+                    "default": {}
+                },
+                "tablet": {
+                    "type": "object",
+                    "default": {}
+                },
+                "desktop": {
+                    "type": "object",
+                    "default": {}
+                },
+                "level": {
+                    "type": "number",
+                    "default": 2
+                },
+                "blockStyles": {
+                    "type": "object",
+                    "default": {}
+                },
+                "clientId": {
+                    "type": "string",
+                    "default": ""
+                }
+            },
+            "textdomain": "advanced-text",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css",
+            "viewScript": "file:.\/view.js"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 88,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "masterstudy-lms-learning-management-system",
+            "language": "arq",
+            "version": "3.3.6",
+            "updated": "2024-02-05 09:03:52",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/masterstudy-lms-learning-management-system\/3.3.6\/arq.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "masterstudy-lms-learning-management-system",
+            "language": "ar",
+            "version": "3.3.6",
+            "updated": "2024-03-20 08:40:34",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/masterstudy-lms-learning-management-system\/3.3.6\/ar.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "masterstudy-lms-learning-management-system",
+            "language": "de_DE",
+            "version": "3.3.6",
+            "updated": "2024-02-16 16:46:29",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/masterstudy-lms-learning-management-system\/3.3.6\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "masterstudy-lms-learning-management-system",
+            "language": "de_DE_formal",
+            "version": "3.3.6",
+            "updated": "2024-03-28 19:21:07",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/masterstudy-lms-learning-management-system\/3.3.6\/de_DE_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "masterstudy-lms-learning-management-system",
+            "language": "es_MX",
+            "version": "3.3.6",
+            "updated": "2023-12-19 04:30:04",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/masterstudy-lms-learning-management-system\/3.3.6\/es_MX.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "masterstudy-lms-learning-management-system",
+            "language": "es_VE",
+            "version": "3.3.6",
+            "updated": "2024-02-05 09:04:04",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/masterstudy-lms-learning-management-system\/3.3.6\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "masterstudy-lms-learning-management-system",
+            "language": "es_ES",
+            "version": "3.3.6",
+            "updated": "2024-01-30 12:57:23",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/masterstudy-lms-learning-management-system\/3.3.6\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "masterstudy-lms-learning-management-system",
+            "language": "es_EC",
+            "version": "3.3.6",
+            "updated": "2024-02-05 09:03:40",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/masterstudy-lms-learning-management-system\/3.3.6\/es_EC.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "masterstudy-lms-learning-management-system",
+            "language": "es_CO",
+            "version": "3.3.6",
+            "updated": "2024-02-05 09:03:25",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/masterstudy-lms-learning-management-system\/3.3.6\/es_CO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "masterstudy-lms-learning-management-system",
+            "language": "fa_IR",
+            "version": "3.3.6",
+            "updated": "2024-04-01 05:03:30",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/masterstudy-lms-learning-management-system\/3.3.6\/fa_IR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "masterstudy-lms-learning-management-system",
+            "language": "fr_FR",
+            "version": "3.3.6",
+            "updated": "2024-02-05 08:50:59",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/masterstudy-lms-learning-management-system\/3.3.6\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "masterstudy-lms-learning-management-system",
+            "language": "hu_HU",
+            "version": "3.3.6",
+            "updated": "2024-02-05 08:51:12",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/masterstudy-lms-learning-management-system\/3.3.6\/hu_HU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "masterstudy-lms-learning-management-system",
+            "language": "it_IT",
+            "version": "3.3.6",
+            "updated": "2024-04-16 03:10:27",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/masterstudy-lms-learning-management-system\/3.3.6\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "masterstudy-lms-learning-management-system",
+            "language": "nl_NL",
+            "version": "3.3.6",
+            "updated": "2024-02-09 12:58:55",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/masterstudy-lms-learning-management-system\/3.3.6\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "masterstudy-lms-learning-management-system",
+            "language": "pl_PL",
+            "version": "3.3.6",
+            "updated": "2024-03-20 08:40:04",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/masterstudy-lms-learning-management-system\/3.3.6\/pl_PL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "masterstudy-lms-learning-management-system",
+            "language": "pt_BR",
+            "version": "3.3.6",
+            "updated": "2024-02-05 08:50:19",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/masterstudy-lms-learning-management-system\/3.3.6\/pt_BR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "masterstudy-lms-learning-management-system",
+            "language": "ro_RO",
+            "version": "3.3.6",
+            "updated": "2024-03-19 18:00:13",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/masterstudy-lms-learning-management-system\/3.3.6\/ro_RO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "masterstudy-lms-learning-management-system",
+            "language": "ru_RU",
+            "version": "3.3.6",
+            "updated": "2024-04-09 12:40:05",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/masterstudy-lms-learning-management-system\/3.3.6\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "masterstudy-lms-learning-management-system",
+            "language": "tr_TR",
+            "version": "3.3.6",
+            "updated": "2024-02-05 08:51:46",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/masterstudy-lms-learning-management-system\/3.3.6\/tr_TR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "masterstudy-lms-learning-management-system",
+            "language": "zh_CN",
+            "version": "3.3.6",
+            "updated": "2024-02-05 08:50:45",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/masterstudy-lms-learning-management-system\/3.3.6\/zh_CN.zip"
+        }
+    ]
+}

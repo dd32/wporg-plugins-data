@@ -1,0 +1,84 @@
+{
+    "name": "Numeric Captcha for WooCommerce",
+    "slug": "numeric-captcha-for-woocommerce",
+    "version": "1.0",
+    "author": "<a href=\"https:\/\/www.linkedin.com\/in\/mohammad-ebrahim-aali\/\">Mohammad Ebrahim Aali<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/newmea\/",
+    "contributors": {
+        "newmea": {
+            "profile": "https:\/\/profiles.wordpress.org\/newmea\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/cf3f27eb4660b74860b6bfc29f22462c?s=96&d=monsterid&r=g",
+            "display_name": "Mohammad Ebrahim"
+        }
+    },
+    "requires": "4.0",
+    "tested": "6.4.4",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/numeric-captcha-for-woocommerce\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 71,
+    "last_updated": "2024-02-02 1:41pm GMT",
+    "added": "2024-02-01",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Numeric Captcha for WooCommerce is a plugin that adds a numeric captcha to the WooCommerce login and register forms. It helps prevent automated bot submissions and enhances security for your WooCommerce store.<\/p>\n",
+        "installation": "<ol>\n<li>Upload the <code>numeric-captcha-woocommerce<\/code> folder to the <code>\/wp-content\/plugins\/<\/code> directory.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='how%20does%20the%20numeric%20captcha%20work%3F'>\nHow does the numeric captcha work?\n<\/h4>\n<p>\n<p>The plugin generates a random numeric equation (e.g., 3 + 5) and asks the user to solve it. The user must enter the correct answer to proceed with the login or registration.<\/p>\n<\/p>\n<dt id='can%20i%20customize%20the%20appearance%20of%20the%20captcha%20field%3F'>\nCan I customize the appearance of the captcha field?\n<\/h4>\n<p>\n<p>Yes, you can use custom CSS to style the captcha field as per your requirements.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0<\/h4>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/numeric-captcha-for-woocommerce\/assets\/screenshot-1.png?rev=3030591\"><img src=\"https:\/\/ps.w.org\/numeric-captcha-for-woocommerce\/assets\/screenshot-1.png?rev=3030591\" alt=\"Login form &amp; Registration form with numeric captcha\"><\/a><p>Login form &amp; Registration form with numeric captcha<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Enhancing WooCommerce Security with Numeric Captcha: A Seamless Solution<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/aidin594\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/23382302ed78166c82dac83a01e169a8?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/23382302ed78166c82dac83a01e169a8?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/aidin594\/\" class=\"reviewer-name\">aidin594<\/a> on <span class=\"review-date\">February 2, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Numeric Captcha for WooCommerce is an efficient plugin that enhances security on WooCommerce login and registration forms by adding a numeric captcha. It's an effective defense against automated bots, ensuring a safer environment for your e-commerce operations without complicating the user experience. Simple to set up, it integrates well with WooCommerce, offering a straightforward solution for those seeking to improve their store's security with minimal fuss.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Numeric Captcha for WooCommerce is a plugin that adds a numeric captcha to the WooCommerce login and register forms. It helps prevent automated bot su &hellip;",
+    "description": "<p>Numeric Captcha for WooCommerce is a plugin that adds a numeric captcha to the WooCommerce login and register forms. It helps prevent automated bot submissions and enhances security for your WooCommerce store.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/numeric-captcha-for-woocommerce.1.0.zip",
+    "upgrade_notice": {
+        "1.0": "<ul>\n<li>Initial release<\/li>\n<\/ul>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/numeric-captcha-for-woocommerce\/assets\/screenshot-1.png?rev=3030591",
+            "caption": "Login form &amp; Registration form with numeric captcha"
+        }
+    },
+    "tags": {
+        "captcha": "captcha",
+        "woocommerce": "woocommerce"
+    },
+    "stable_tag": "1.0",
+    "versions": {
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/numeric-captcha-for-woocommerce.1.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/numeric-captcha-for-woocommerce.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/numeric-captcha-for-woocommerce\/assets\/banner-772x250.png?rev=3032438",
+        "high": "https:\/\/ps.w.org\/numeric-captcha-for-woocommerce\/assets\/banner-1544x500.png?rev=3032437"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/numeric-captcha-for-woocommerce\/assets\/icon-256x256.png?rev=3032433",
+        "2x": "https:\/\/ps.w.org\/numeric-captcha-for-woocommerce\/assets\/icon-256x256.png?rev=3032433"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Membership Management",
+    "slug": "membership-management",
+    "version": "0.1.1",
+    "author": "<a href=\"https:\/\/digitallycultured.com\/\">Digitally Cultured<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/digitally-cultured\/",
+    "contributors": {
+        "digitally-cultured": {
+            "profile": "https:\/\/profiles.wordpress.org\/digitally-cultured\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/570f98e6abbf426700116f0ba5435b82?s=96&d=monsterid&r=g",
+            "display_name": "Digitally Cultured"
+        }
+    },
+    "requires": false,
+    "tested": "6.4.4",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/membership-management\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 56,
+    "last_updated": "2024-01-23 10:27pm GMT",
+    "added": "2024-01-23",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Manage your organization or club&#8217;s membership online.<\/p>\n",
+        "reviews": ""
+    },
+    "short_description": "Manage your organization or club&#039;s membership online.",
+    "description": "<p>Manage your organization or club&#8217;s membership online.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/membership-management.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "crm": "crm",
+        "membership-management": "membership management"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "default": "https:\/\/s.w.org\/plugins\/geopattern-icon\/membership-management.svg"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

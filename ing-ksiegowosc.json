@@ -1,0 +1,95 @@
+{
+    "name": "ING Ksi\u0119gowo\u015b\u0107",
+    "slug": "ing-ksiegowosc",
+    "version": "1.0.4",
+    "author": "<a href=\"https:\/\/ingksiegowosc.pl\">ING Ksi\u0119gowo\u015b\u0107<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/radoslawlyzniak\/",
+    "contributors": {
+        "radoslawlyzniak": {
+            "profile": "https:\/\/profiles.wordpress.org\/radoslawlyzniak\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/839fd0aba6517410693231f3d8c611a6?s=96&d=monsterid&r=g",
+            "display_name": "radoslawlyzniak"
+        }
+    },
+    "requires": "4.7",
+    "tested": "6.4.4",
+    "requires_php": "5.6.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/ing-ksiegowosc\/",
+    "support_threads": 1,
+    "support_threads_resolved": 0,
+    "active_installs": 30,
+    "downloaded": 184,
+    "last_updated": "2024-03-22 7:26am GMT",
+    "added": "2024-03-07",
+    "homepage": "https:\/\/www.ingksiegowosc.pl\/",
+    "sections": {
+        "description": "<p>ING Ksi\u0119gowo\u015b\u0107 to aplikacja pozwalaj\u0105ca na rejestrowanie faktur zakupu i sprzeda\u017cy oraz ich zaksi\u0119gowanie \u2013 dzi\u0119ki temu masz wszystkie sprawy firmy w jednym miejscu. Je\u015bli dodatkowo posiadasz rachunek firmowy w ING, mo\u017cesz zleca\u0107 p\u0142atno\u015bci za dokumenty kosztowe.<\/p>\n<p>Nasza wtyczka dzia\u0142a w powi\u0105zaniu z wtyczk\u0105 WooCommerce.<br \/>\nPo dokonaniu zakupu w Twoim sklepie informacja na temat zrealizowanej p\u0142atno\u015bci trafia do ING Ksi\u0119gowo\u015b\u0107, gdzie automatycznie jest tworzona faktura dla klienta.<\/p>\n<p>Je\u017celi prowadzisz sprzeda\u017c tak\u017ce dla firm, zalecamy dodatkowo zainstalowanie wtyczki Flexible Chechout Fields for WooCommerce \u2013 pozwala ona na dodanie do formularza p\u0142atno\u015bci pola na numer NIP.<\/p>\n<p><a href=\"https:\/\/www.ingksiegowosc.pl\/_fileserver\/item\/qz7baiy\" rel=\"nofollow ugc\">Sprawd\u017a, jak powi\u0105za\u0107 WooCommerce z ING Ksi\u0119gowo\u015b\u0107 krok po kroku<\/a><\/p>\n",
+        "installation": "<p>Uwaga \u2013 przed instalacj\u0105 wtyczki upewnij si\u0119, \u017ce posiadasz ju\u017c zainstalowan\u0105 wtyczk\u0119 WooCommerce, skonfigurowany sklep oraz produkty.<\/p>\n<ul>\n<li>Po pobraniu wtyczki ING Ksi\u0119gowo\u015b\u0107 zaloguj si\u0119 do panelu firmy w ING Ksi\u0119gowo\u015b\u0107 <a href=\"https:\/\/www.ingksiegowosc.pl\" rel=\"nofollow ugc\">https:\/\/www.ingksiegowosc.pl<\/a><\/li>\n<li>Przejd\u017a w nim do zak\u0142adki Dane i ustawienia &gt; Integracje &gt; Klucz API. Kliknij &#8216;Generuj&#8217; i skopiuj do schowka ca\u0142y klucz<\/li>\n<li>Wr\u00f3\u0107 do wtyczki. Przejd\u017a do jej Ustawie\u0144 i wklej klucz w polu &#8216;Klucz API&#8217;<\/li>\n<li>Zainstaluj wtyczk\u0119 Flexible Checkout Fields. Przejd\u017a do zak\u0142adki &#8216;Wtyczki&#8217; i wybierz &#8216;Ustawienia&#8217;. Dodaj do swojego formularza w dowolnym miejscu pole Tekst lub Liczba. Nadaj mu nazw\u0119 NIP. Skopiuj warto\u015b\u0107 widoczn\u0105 w polu &#8216;Nazwa meta&#8217;.<\/li>\n<li>Przejd\u017a do ustawie\u0144 wtyczki ING Ksi\u0119gowo\u015b\u0107. Wklej skopiowan\u0105 warto\u015b\u0107 w polu &#8216;Meta dla NIP&#8217;<\/li>\n<\/ul>\n<p>Gotowe! Teraz Twoje faktury b\u0119d\u0105 wystawia\u0107 si\u0119 automatycznie w ING Ksi\u0119gowo\u015b\u0107.<\/p>\n",
+        "faq": "\n<dt id='czy%20musz%C4%99%20mie%C4%87%20konto%20firmowe%20w%20ing%2C%20%C5%BCeby%20korzysta%C4%87%20z%20ing%20ksi%C4%99gowo%C5%9B%C4%87%3F'>\nCzy musz\u0119 mie\u0107 konto firmowe w ING, \u017ceby korzysta\u0107 z ING Ksi\u0119gowo\u015b\u0107?\n<\/h4>\n<p>\n<p>Nie, nie jest to wymagane. Dowiedz si\u0119 wi\u0119cej na <a href=\"https:\/\/www.ingksiegowosc.pl\/\" rel=\"nofollow ugc\">ingksiegowosc.pl<\/a>.<\/p>\n<\/p>\n<dt id='czy%20korzystanie%20z%20wtyczki%20jest%20dodatkowo%20p%C5%82atne%3F'>\nCzy korzystanie z wtyczki jest dodatkowo p\u0142atne?\n<\/h4>\n<p>\n<p>Nie, korzystanie z naszej wtyczki nie poci\u0105ga za sob\u0105 dodatkowych koszt\u00f3w.<\/p>\n<\/p>\n<dt id='czy%20mog%C4%99%20powi%C4%85za%C4%87%20moje%20konto%20w%20ing%20ksi%C4%99gowo%C5%9B%C4%87%20z%20kontem%20dowolnego%20sklepu%3F'>\nCzy mog\u0119 powi\u0105za\u0107 moje konto w ING Ksi\u0119gowo\u015b\u0107 z kontem dowolnego sklepu?\n<\/h4>\n<p>\n<p>W tej chwili jest to mo\u017cliwe wy\u0142\u0105cznie dla sklep\u00f3w obs\u0142ugiwanych w WooCommerce.<\/p>\n<\/p>\n<dt id='jestem%20wzrokowcem%20%E2%80%93%20czy%20macie%20jak%C4%85%C5%9B%20instrukcj%C4%99%3F'>\nJestem wzrokowcem \u2013 czy macie jak\u0105\u015b instrukcj\u0119?\n<\/h4>\n<p>\n<p>Tak, mo\u017cesz podejrze\u0107 j\u0105 <a href=\"https:\/\/www.ingksiegowosc.pl\/_fileserver\/item\/qz7baiy\" rel=\"nofollow ugc\">tutaj<\/a><\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.4<\/h4>\n<ul>\n<li>fix for format string<\/li>\n<\/ul>\n<h4>1.0.3<\/h4>\n<ul>\n<li>rename plugin<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>adjustment plugin for requirements<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>fix for constant name<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>plugin release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/ing-ksiegowosc\/assets\/screenshot-1.png?rev=3046916\"><img src=\"https:\/\/ps.w.org\/ing-ksiegowosc\/assets\/screenshot-1.png?rev=3046916\" alt=\"Ustawienia wtyczki\"><\/a><p>Ustawienia wtyczki<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/ing-ksiegowosc\/assets\/screenshot-2.png?rev=3046916\"><img src=\"https:\/\/ps.w.org\/ing-ksiegowosc\/assets\/screenshot-2.png?rev=3046916\" alt=\"List\u0119 faktur utworzonych w ING Ksi\u0119gowo\u015b\u0107 zgodnie z zam\u00f3wieniami WooCommerce.\"><\/a><p>List\u0119 faktur utworzonych w ING Ksi\u0119gowo\u015b\u0107 zgodnie z zam\u00f3wieniami WooCommerce.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/ing-ksiegowosc\/assets\/screenshot-3.png?rev=3046916\"><img src=\"https:\/\/ps.w.org\/ing-ksiegowosc\/assets\/screenshot-3.png?rev=3046916\" alt=\"Pulpit nawigacyjny firmy w ING Ksi\u0119gowo\u015b\u0107.\"><\/a><p>Pulpit nawigacyjny firmy w ING Ksi\u0119gowo\u015b\u0107.<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Niech faktury za zakupy Twoich klient\u00f3w wystawiaj\u0105 si\u0119 automatycznie! Wtyczka pozwala na powi\u0105zanie sklepu z kontem firmy w aplikacji ING Ksi\u0119gowo\u015b\u0107",
+    "description": "<p>ING Ksi\u0119gowo\u015b\u0107 to aplikacja pozwalaj\u0105ca na rejestrowanie faktur zakupu i sprzeda\u017cy oraz ich zaksi\u0119gowanie \u2013 dzi\u0119ki temu masz wszystkie sprawy firmy w jednym miejscu. Je\u015bli dodatkowo posiadasz rachunek firmowy w ING, mo\u017cesz zleca\u0107 p\u0142atno\u015bci za dokumenty kosztowe.<\/p>\n<p>Nasza wtyczka dzia\u0142a w powi\u0105zaniu z wtyczk\u0105 WooCommerce.<br \/>\nPo dokonaniu zakupu w Twoim sklepie informacja na temat zrealizowanej p\u0142atno\u015bci trafia do ING Ksi\u0119gowo\u015b\u0107, gdzie automatycznie jest tworzona faktura dla klienta.<\/p>\n<p>Je\u017celi prowadzisz sprzeda\u017c tak\u017ce dla firm, zalecamy dodatkowo zainstalowanie wtyczki Flexible Chechout Fields for WooCommerce \u2013 pozwala ona na dodanie do formularza p\u0142atno\u015bci pola na numer NIP.<\/p>\n<p><a href=\"https:\/\/www.ingksiegowosc.pl\/_fileserver\/item\/qz7baiy\" rel=\"nofollow ugc\">Sprawd\u017a, jak powi\u0105za\u0107 WooCommerce z ING Ksi\u0119gowo\u015b\u0107 krok po kroku<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/ing-ksiegowosc.1.0.4.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/ing-ksiegowosc\/assets\/screenshot-1.png?rev=3046916",
+            "caption": "Ustawienia wtyczki"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/ing-ksiegowosc\/assets\/screenshot-2.png?rev=3046916",
+            "caption": "List\u0119 faktur utworzonych w ING Ksi\u0119gowo\u015b\u0107 zgodnie z zam\u00f3wieniami WooCommerce."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/ing-ksiegowosc\/assets\/screenshot-3.png?rev=3046916",
+            "caption": "Pulpit nawigacyjny firmy w ING Ksi\u0119gowo\u015b\u0107."
+        }
+    },
+    "tags": {
+        "faktury": "faktury",
+        "ing": "ING",
+        "ingksiegowosc": "ingksi\u0119gowo\u015b\u0107",
+        "invoices": "invoices",
+        "ksiegowosc": "ksi\u0119gowo\u015b\u0107"
+    },
+    "stable_tag": "1.0.4",
+    "versions": {
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/ing-ksiegowosc.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/ing-ksiegowosc.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/ing-ksiegowosc.1.0.4.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/ing-ksiegowosc.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/ing-ksiegowosc\/assets\/banner-772x250.png?rev=3046916",
+        "high": "https:\/\/ps.w.org\/ing-ksiegowosc\/assets\/banner-1544x500.png?rev=3046916"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/ing-ksiegowosc\/assets\/icon-256x256.png?rev=3046916",
+        "2x": "https:\/\/ps.w.org\/ing-ksiegowosc\/assets\/icon-256x256.png?rev=3046916"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

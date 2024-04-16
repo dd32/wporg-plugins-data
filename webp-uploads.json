@@ -1,0 +1,140 @@
+{
+    "name": "Modern Image Formats",
+    "slug": "webp-uploads",
+    "version": "1.1.0",
+    "author": "<a href=\"https:\/\/make.wordpress.org\/performance\/\">WordPress Performance Team<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/performanceteam\/",
+    "contributors": {
+        "wordpressdotorg": {
+            "profile": "https:\/\/profiles.wordpress.org\/wordpressdotorg\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/61ee2579b8905e62b4b4045bdc92c11a?s=96&d=monsterid&r=g",
+            "display_name": "WordPress.org"
+        }
+    },
+    "requires": "6.4",
+    "tested": "6.5.2",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 74,
+    "ratings": {
+        "5": 4,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 2
+    },
+    "num_ratings": 6,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/webp-uploads\/",
+    "support_threads": 8,
+    "support_threads_resolved": 3,
+    "active_installs": 30000,
+    "downloaded": 53156,
+    "last_updated": "2024-04-15 5:10pm GMT",
+    "added": "2023-04-06",
+    "homepage": "https:\/\/github.com\/WordPress\/performance\/tree\/trunk\/plugins\/webp-uploads",
+    "sections": {
+        "description": "<p>This plugin adds WebP support for media uploads within the WordPress application. WebP images will be generated only for new uploads, pre-existing imagery will not be converted to WebP format. By default, WebP images will only be generated for JPEG uploads, only the original uploaded file will still exist as a JPEG image. All generated image sizes will exist as WebP only. If you wish to change this behaviour, there is a checkbox in <code>Settings &gt; Media<\/code> that &#8211; when checked &#8211; will alter the behaviour of this plugin to generate both JPEG and WebP images for every sub-size (noting again that this will only affect newly uploaded images, i.e. after making said change).<\/p>\n<p><em>This plugin was formerly known as WebP Uploads.<\/em><\/p>\n",
+        "installation": "<h4>Installation from within WordPress<\/h4>\n<ol>\n<li>Visit <strong>Plugins &gt; Add New<\/strong>.<\/li>\n<li>Search for <strong>Modern Image Formats<\/strong>.<\/li>\n<li>Install and activate the <strong>Modern Image Formats<\/strong> plugin.<\/li>\n<\/ol>\n<h4>Manual installation<\/h4>\n<ol>\n<li>Upload the entire <code>webp-uploads<\/code> folder to the <code>\/wp-content\/plugins\/<\/code> directory.<\/li>\n<li>Visit <strong>Plugins<\/strong>.<\/li>\n<li>Activate the <strong>Modern Image Formats<\/strong> plugin.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='where%20can%20i%20submit%20my%20plugin%20feedback%3F'>\nWhere can I submit my plugin feedback?\n<\/h4>\n<p>\n<p>Feedback is encouraged and much appreciated, especially since this plugin may contain future WordPress core features. If you have suggestions or requests for new features, you can <a href=\"https:\/\/github.com\/WordPress\/performance\/issues\/new\/choose\" rel=\"nofollow ugc\">submit them as an issue in the WordPress Performance Team&#8217;s GitHub repository<\/a>. If you need help with troubleshooting or have a question about the plugin, please <a href=\"https:\/\/wordpress.org\/support\/plugin\/webp-uploads\/#new-topic-0\" rel=\"ugc\">create a new topic on our support forum<\/a>.<\/p>\n<\/p>\n<dt id='where%20can%20i%20report%20security%20bugs%3F'>\nWhere can I report security bugs?\n<\/h4>\n<p>\n<p>The Performance team and WordPress community take security bugs seriously. We appreciate your efforts to responsibly disclose your findings, and will make every effort to acknowledge your contributions.<\/p>\n<p>To report a security issue, please visit the <a href=\"https:\/\/hackerone.com\/wordpress\" rel=\"nofollow ugc\">WordPress HackerOne<\/a> program.<\/p>\n<\/p>\n<dt id='how%20can%20i%20contribute%20to%20the%20plugin%3F'>\nHow can I contribute to the plugin?\n<\/h4>\n<p>\n<p>Contributions are always welcome! Learn more about how to get involved in the <a href=\"https:\/\/make.wordpress.org\/performance\/handbook\/get-involved\/\" rel=\"nofollow ugc\">Core Performance Team Handbook<\/a>.<\/p>\n<\/p>\n<dt id='i%27ve%20activated%20the%20modern%20image%20formats%20plugin%2C%20but%20webp%20images%20are%20not%20always%20generated%20when%20i%20upload%20a%20jpeg%20image.%20why%3F'>\nI&#8217;ve activated the Modern Image Formats plugin, but WebP images are not always generated when I upload a JPEG image. Why?\n<\/h4>\n<p>\n<p>There are two primary reasons that a WebP image may not be generated:<\/p>\n<ol>\n<li>The Modern Image Formats plugin has identified that the WebP version of the uploaded JPEG image would have a larger file size than the original JPEG image, so it does not generate the WebP version.<\/li>\n<li>The JPEG image was not uploaded to the <a href=\"https:\/\/wordpress.com\/support\/media\/\" rel=\"nofollow ugc\">Media Library<\/a>. At this time, WebP versions are only generated for images to the Media Library. WebP versions are not generated for JPEG images that are added to your site in other ways, such as in a template file or the <a href=\"https:\/\/wordpress.com\/support\/customizer\/\" rel=\"nofollow ugc\">Customizer<\/a>.<\/li>\n<\/ol>\n<\/p>\n<dt id='with%20the%20modern%20image%20formats%20plugin%20activated%2C%20will%20the%20plugin%20generate%20jpeg%20and%20webp%20versions%20of%20every%20image%20that%20i%20upload%3F'>\nWith the Modern Image Formats plugin activated, will the plugin generate JPEG and WebP versions of every image that I upload?\n<\/h4>\n<p>\n<p>By default, the Modern Image Formats plugin will only generate WebP versions of the images that you upload. If you wish to have both WebP <strong>and<\/strong> JPEG versions generated, you can navigate to <strong>Settings &gt; Media<\/strong> and enable the <strong>Generate JPEG files in addition to WebP<\/strong> option.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.1.0<\/h4>\n<ul>\n<li>Add link to WebP settings to plugins table. (<a href=\"https:\/\/github.com\/WordPress\/performance\/pull\/1036\" rel=\"nofollow ugc\">1036<\/a>)<\/li>\n<li>Rename plugin to &#8220;Modern Image Formats&#8221;. (<a href=\"https:\/\/github.com\/WordPress\/performance\/pull\/1101\" rel=\"nofollow ugc\">1101<\/a>)<\/li>\n<li>Use plugin slug for generator tag. (<a href=\"https:\/\/github.com\/WordPress\/performance\/pull\/1103\" rel=\"nofollow ugc\">1103<\/a>)<\/li>\n<li>Delete option when uninstalling the Modern Image Formats plugin. (<a href=\"https:\/\/github.com\/WordPress\/performance\/pull\/1116\" rel=\"nofollow ugc\">1116<\/a>)<\/li>\n<li>Bump minimum required WP version to 6.4. (<a href=\"https:\/\/github.com\/WordPress\/performance\/pull\/1062\" rel=\"nofollow ugc\">1062<\/a>)<\/li>\n<li>Update tested WordPress version to 6.5. (<a href=\"https:\/\/github.com\/WordPress\/performance\/pull\/1027\" rel=\"nofollow ugc\">1027<\/a>)<\/li>\n<\/ul>\n<h4>1.0.5<\/h4>\n<ul>\n<li>Exclude &#8220;.wordpress-org&#8221; directory when deploying standalone plugins. (<a href=\"https:\/\/github.com\/WordPress\/performance\/pull\/866\" rel=\"nofollow ugc\">866<\/a>)<\/li>\n<\/ul>\n<h4>1.0.4<\/h4>\n<ul>\n<li>Bump minimum required PHP version to 7.0 and minimum required WP version to 6.3. (<a href=\"https:\/\/github.com\/WordPress\/performance\/pull\/851\" rel=\"nofollow ugc\">851<\/a>)<\/li>\n<\/ul>\n<h4>1.0.3<\/h4>\n<ul>\n<li>Add standalone plugin assets. (<a href=\"https:\/\/github.com\/WordPress\/performance\/pull\/815\" rel=\"nofollow ugc\">815<\/a>)<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>Fix WebP handling when editing images based on WordPress 6.3 change. (<a href=\"https:\/\/github.com\/WordPress\/performance\/pull\/796\" rel=\"nofollow ugc\">796<\/a>)<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Bump tested up to version to 6.3. (<a href=\"https:\/\/github.com\/WordPress\/performance\/pull\/772\" rel=\"nofollow ugc\">772<\/a>)<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Initial release of the Modern Image Formats plugin as a standalone plugin. (<a href=\"https:\/\/github.com\/WordPress\/performance\/pull\/664\" rel=\"nofollow ugc\">664<\/a>)<\/li>\n<\/ul>\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Works perfect!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/anjape\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/36c09c55768e8c7110b749e96f6e80b0?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/36c09c55768e8c7110b749e96f6e80b0?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/anjape\/\" class=\"reviewer-name\">Anja Pestov <small>(anjape)<\/small><\/a> on <span class=\"review-date\">March 25, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Simple Plugin, that does it's one simple job very good. Definitely a recommendation!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Causes error 500 on peepso avatar upload<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/pscolv\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f87ce9dff50634bcf7133ca499b45652?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f87ce9dff50634bcf7133ca499b45652?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/pscolv\/\" class=\"reviewer-name\">pscolv<\/a> on <span class=\"review-date\">February 5, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I've had a hard time with an issue making it impossible for my users to upload their profile avatar (using Peepso plugin). Trying to debug the Ajax call, I've observed an error 500 message, making the whole website unresponsive when being called upon avatar confirmation.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">After proceeding by elimination, I finally located the issue to this new extension I had installed some time ago.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Next time I'll be more prudent... <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Works like a charm, but there&#039;s no option to convert old images<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/meymigrou\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/853c32b7241e0d4b378bfb326e1c006b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/853c32b7241e0d4b378bfb326e1c006b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/meymigrou\/\" class=\"reviewer-name\">Panos Sakalakis <small>(meymigrou)<\/small><\/a> on <span class=\"review-date\">January 20, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The plugin does exactly what it says; Adds support for WebP images and automatically converts the pictures you upload to that specific format. However, not having the option to convert existing images is a big feature missing from the plugin for me.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I don't know what you have in your future plans, but what would you recommend for converting old images to WebP and deleting their original format to save disk space? I'm currently using WebP Express, but I wonder if you recommend something else?<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Doesn&#039;t work<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/xxswakxx\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/3160c8f746681eb6b42e26ed3e9daafa?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/3160c8f746681eb6b42e26ed3e9daafa?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/xxswakxx\/\" class=\"reviewer-name\">Larry <small>(xxswakxx)<\/small><\/a> on <span class=\"review-date\">January 18, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Had to go back to the original performance plugin and all works fine.<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Working great!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/waqas1982\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/9f469f4810ec857e89ba9bfb164c7cd9?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/9f469f4810ec857e89ba9bfb164c7cd9?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/waqas1982\/\" class=\"reviewer-name\">waqas1982<\/a> on <span class=\"review-date\">August 17, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">It works great! <br \/><br \/><em>Please check the keyword it does not appear in the search result, please optimize it with the plugin title: WebP Uploads<\/em><\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great! Do the job better than popular plugins<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/brahimmansour2\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/fea755262d77fcd2ad8deebba5b91c2a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/fea755262d77fcd2ad8deebba5b91c2a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/brahimmansour2\/\" class=\"reviewer-name\">brahimmansour2<\/a> on <span class=\"review-date\">July 29, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Thank you for this plugin !!!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">WebP Uploads currently works better than the most popular image conversion plugins in the market.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">It's something simple, but it simplify life. It automatically convert every image you upload to webp.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Here is what I noticed on the other plugins in the market (not really doing what I was looking for) :<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>You upload .jpg image to your blog post =&gt; It's still a .jpg image unconverted<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>You need to go to the plugin to convert manually new uploads<\/li>\n<!-- \/wp:list-item --><\/ul>\n<!-- \/wp:list --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Converts images to more modern formats such as WebP or AVIF during upload.",
+    "description": "<p>This plugin adds WebP support for media uploads within the WordPress application. WebP images will be generated only for new uploads, pre-existing imagery will not be converted to WebP format. By default, WebP images will only be generated for JPEG uploads, only the original uploaded file will still exist as a JPEG image. All generated image sizes will exist as WebP only. If you wish to change this behaviour, there is a checkbox in <code>Settings &gt; Media<\/code> that &#8211; when checked &#8211; will alter the behaviour of this plugin to generate both JPEG and WebP images for every sub-size (noting again that this will only affect newly uploaded images, i.e. after making said change).<\/p>\n<p><em>This plugin was formerly known as WebP Uploads.<\/em><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/webp-uploads.1.1.0.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "images": "images",
+        "performance": "performance",
+        "webp": "webp"
+    },
+    "stable_tag": "1.1.0",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/webp-uploads.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/webp-uploads.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/webp-uploads.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/webp-uploads.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/webp-uploads.1.0.4.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/webp-uploads.1.0.5.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/webp-uploads.1.1.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/webp-uploads.zip"
+    },
+    "business_model": "community",
+    "repository_url": "https:\/\/github.com\/WordPress\/performance",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/webp-uploads\/assets\/banner-772x250.png?rev=2968401",
+        "high": "https:\/\/ps.w.org\/webp-uploads\/assets\/banner-1544x500.png?rev=2968401"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/webp-uploads\/assets\/icon.svg?rev=2968401",
+        "svg": "https:\/\/ps.w.org\/webp-uploads\/assets\/icon.svg?rev=2968401"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 74,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "webp-uploads",
+            "language": "de_DE_formal",
+            "version": "1.1.0",
+            "updated": "2023-04-17 13:39:51",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/webp-uploads\/1.1.0\/de_DE_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "webp-uploads",
+            "language": "de_DE",
+            "version": "1.1.0",
+            "updated": "2023-04-17 13:40:08",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/webp-uploads\/1.1.0\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "webp-uploads",
+            "language": "es_ES",
+            "version": "1.1.0",
+            "updated": "2023-04-06 18:42:50",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/webp-uploads\/1.1.0\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "webp-uploads",
+            "language": "nb_NO",
+            "version": "1.1.0",
+            "updated": "2023-04-06 17:36:18",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/webp-uploads\/1.1.0\/nb_NO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "webp-uploads",
+            "language": "nl_NL",
+            "version": "1.1.0",
+            "updated": "2024-04-15 18:59:42",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/webp-uploads\/1.1.0\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "webp-uploads",
+            "language": "sv_SE",
+            "version": "1.1.0",
+            "updated": "2023-04-16 20:56:55",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/webp-uploads\/1.1.0\/sv_SE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "webp-uploads",
+            "language": "zh_TW",
+            "version": "1.1.0",
+            "updated": "2023-05-31 06:10:37",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/webp-uploads\/1.1.0\/zh_TW.zip"
+        }
+    ]
+}

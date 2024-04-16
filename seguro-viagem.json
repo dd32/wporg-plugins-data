@@ -1,0 +1,83 @@
+{
+    "name": "Real Seguro Viagem",
+    "slug": "seguro-viagem",
+    "version": "2.0.1",
+    "author": "<a href=\"https:\/\/www.seguroviagem.srv.br\/\">Real Seguro Viagem<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/realcpd\/",
+    "contributors": {
+        "ernanej": {
+            "profile": "https:\/\/profiles.wordpress.org\/ernanej\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/5d81fc4888b03ad9bb65c1c8e396e159?s=96&d=monsterid&r=g",
+            "display_name": "Ernane Ferreira"
+        },
+        "carloshendvpm": {
+            "profile": "https:\/\/profiles.wordpress.org\/carloshendvpm\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/9cd9438ca03bf8211f6a73bd0f4fc285?s=96&d=monsterid&r=g",
+            "display_name": "carloshendvpm"
+        }
+    },
+    "requires": "3.5",
+    "tested": "6.4.4",
+    "requires_php": "5.3",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 3,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 3,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/seguro-viagem\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 20,
+    "downloaded": 1758,
+    "last_updated": "2024-02-29 5:15pm GMT",
+    "added": "2015-07-10",
+    "homepage": "http:\/\/wordpress.org\/plugins\/seguro-viagem",
+    "sections": {
+        "description": "<p>O Plugin da <a href=\"https:\/\/www.seguroviagem.srv.br\/\" rel=\"nofollow ugc\">Real Seguro Viagem<\/a> permite que voc\u00ea adicione nossa ferramenta comparativa de seguro viagem &#8211; um hotsite &#8211; ao seu site WordPress e aumente seus lucros. \ud83d\ude80<\/p>\n<p>Com o nosso novo plugin, voc\u00ea pode adicionar um comparador de seguro viagem personalizado ao seu blog WordPress. O hotsite \u00e9 totalmente responsivo e se adapta a qualquer tamanho de tela, garantindo uma experi\u00eancia perfeita para seus leitores.<\/p>\n<p>O hotsite \u00e9 feito de forma f\u00e1cil e intuitiva direto na sua Plataforma de Indicadores, o que significa que voc\u00ea n\u00e3o precisa se preocupar com programa\u00e7\u00e3o ou design. Basta adicionar suas informa\u00e7\u00f5es e pronto!<\/p>\n<p><strong>Link do v\u00eddeo tutorial:<\/strong> <a href=\"https:\/\/youtu.be\/Te80OlaZJlE\" rel=\"nofollow ugc\">Tutorial em V\u00eddeo<\/a><\/p>\n<p>Estamos desde 2009 no mercado de seguro viagem, garantindo seguran\u00e7a e tranquilidade para mais de 1 milh\u00e3o de pessoas que conheceram o Brasil e o mundo.<\/p>\n<p>Voc\u00ea indica, n\u00f3s vendemos e voc\u00ea ganha! \ud83d\udcbc\ud83d\udcb0<\/p>\n",
+        "installation": "<h3>Como usar o plugin<\/h3>\n<ol>\n<li>Fa\u00e7a o seu cadastro no <a href=\"https:\/\/app.seguroviagem.srv.br\/indica\" rel=\"nofollow ugc\">Programa de Indicadores da Real<\/a> \ud83d\ude80<\/li>\n<li>Instale o plugin no seu blog WordPress. \u2b07\ufe0f<\/li>\n<li>Acesse o Indica, o painel dos Indicadores da Real e v\u00e1 para <strong>Divulgue &gt; Integrar &gt; Hotsite.<\/strong> \ud83c\udfc3\ud83c\udffc\u200d\u2642\ufe0f<\/li>\n<li>Personalize o seu comparador. \u2728<\/li>\n<li>Acesse o WP-Admin em \u201cSeguro Viagem\u201d informe seu c\u00f3digo de afiliado. \u2705<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='ficou%20com%20alguma%20d%C3%BAvida%3F'>\nFicou com alguma d\u00favida?\n<\/h4>\n<p>\n<p>Entre em contato com nosso atendimento: <a href=\"https:\/\/api.whatsapp.com\/send?phone=551130909298&amp;text=oi\" rel=\"nofollow ugc\">Contato via WhatsApp<\/a><\/p>\n<\/p>\n<dt id='o%20programa%20de%20indicadores%20%C3%A9%20pago%3F'>\nO programa de indicadores \u00e9 pago?\n<\/h4>\n<p>\n<p>N\u00e3o! O programa de indicadores \u00e9 totalmente <strong>GRATUITO<\/strong>.<\/p>\n<\/p>\n<dt id='quais%20s%C3%A3o%20os%20requisitos%20para%20utilizar%20o%20plugin%3F'>\nQuais s\u00e3o os requisitos para utilizar o plugin?\n<\/h4>\n<p>\n<ol>\n<li>PHP vers\u00e3o 5.3 ou superior.<\/li>\n<li>Um site com o WordPress vers\u00e3o 3.5 ou superior<\/li>\n<\/ol>\n<\/p>\n<dt id='n%C3%A3o%20sou%20brasileiro%2C%20posso%20utilizar%20este%20plugin%3F'>\nN\u00e3o sou brasileiro, posso utilizar este plugin?\n<\/h4>\n<p>\n<p>Este plugin \u00e9 voltado apenas para brasileiros. Entretanto, caso possua CPF e uma conta banc\u00e1ria no Brasil, poder\u00e1 utiliz\u00e1-lo. \ud83c\udf0e\ud83d\udcb3<\/p>\n<\/p>\n\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excelente<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/realrafael555\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/dcd9a562b2c05aa80392c1e3b693b3cb?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/dcd9a562b2c05aa80392c1e3b693b3cb?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/realrafael555\/\" class=\"reviewer-name\">RAFAEL ANTONELLO CARDOSO DA SILVA <small>(realrafael555)<\/small><\/a> on <span class=\"review-date\">January 29, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Adorei, instalei no meu blog e funcionou na hora. J\u00e1 recebi alguns repasses, indico<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u00d3timo plugin!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/ernanej\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/5d81fc4888b03ad9bb65c1c8e396e159?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/5d81fc4888b03ad9bb65c1c8e396e159?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/ernanej\/\" class=\"reviewer-name\">Ernane Ferreira <small>(ernanej)<\/small><\/a> on <span class=\"review-date\">February 29, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">O plugin oferece uma abordagem verdadeiramente abrangente e din\u00e2mica, possibilitando a utiliza\u00e7\u00e3o vers\u00e1til da p\u00e1gina de indicadores! \ud83d\ude80<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Plugin devidamente atualizado em 29 fev 2024<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/carloshendvpm\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/9cd9438ca03bf8211f6a73bd0f4fc285?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/9cd9438ca03bf8211f6a73bd0f4fc285?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/carloshendvpm\/\" class=\"reviewer-name\">carloshendvpm<\/a> on <span class=\"review-date\">February 29, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Plugin devidamente atualizado em 29 fev 2024<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "O Plugin da Real Seguro Viagem permite que voc\u00ea adicione nossa ferramenta comparativa de seguro viagem - um hotsite - ao seu site WordPress e aumente  &hellip;",
+    "description": "<p>O Plugin da <a href=\"https:\/\/www.seguroviagem.srv.br\/\" rel=\"nofollow ugc\">Real Seguro Viagem<\/a> permite que voc\u00ea adicione nossa ferramenta comparativa de seguro viagem &#8211; um hotsite &#8211; ao seu site WordPress e aumente seus lucros. \ud83d\ude80<\/p>\n<p>Com o nosso novo plugin, voc\u00ea pode adicionar um comparador de seguro viagem personalizado ao seu blog WordPress. O hotsite \u00e9 totalmente responsivo e se adapta a qualquer tamanho de tela, garantindo uma experi\u00eancia perfeita para seus leitores.<\/p>\n<p>O hotsite \u00e9 feito de forma f\u00e1cil e intuitiva direto na sua Plataforma de Indicadores, o que significa que voc\u00ea n\u00e3o precisa se preocupar com programa\u00e7\u00e3o ou design. Basta adicionar suas informa\u00e7\u00f5es e pronto!<\/p>\n<p><strong>Link do v\u00eddeo tutorial:<\/strong> <a href=\"https:\/\/youtu.be\/Te80OlaZJlE\" rel=\"nofollow ugc\">Tutorial em V\u00eddeo<\/a><\/p>\n<p>Estamos desde 2009 no mercado de seguro viagem, garantindo seguran\u00e7a e tranquilidade para mais de 1 milh\u00e3o de pessoas que conheceram o Brasil e o mundo.<\/p>\n<p>Voc\u00ea indica, n\u00f3s vendemos e voc\u00ea ganha! \ud83d\udcbc\ud83d\udcb0<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/seguro-viagem.2.0.1.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "afiliado": "afiliado",
+        "indicador": "indicador",
+        "programa-de-indicacao": "programa de indica\u00e7\u00e3o",
+        "seguro-de-viagem": "seguro de viagem",
+        "travel-insurance": "travel insurance"
+    },
+    "stable_tag": "2.0.1",
+    "versions": {
+        "2.0.1": "https:\/\/downloads.wordpress.org\/plugin\/seguro-viagem.2.0.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/seguro-viagem.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/seguro-viagem\/assets\/banner-772x250.png?rev=3043227",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/seguro-viagem\/assets\/icon-128x128.png?rev=3043227",
+        "2x": "https:\/\/ps.w.org\/seguro-viagem\/assets\/icon-256x256.png?rev=3043227"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

@@ -1,0 +1,369 @@
+{
+    "name": "BetterDocs \u2013 Best Documentation, FAQ &amp; Knowledge Base Plugin with AI Support &amp; Instant Answer for Elementor &amp; Gutenberg",
+    "slug": "betterdocs",
+    "version": "3.5.1",
+    "author": "<a href=\"https:\/\/wpdeveloper.com\">WPDeveloper<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/wpdevteam\/",
+    "contributors": {
+        "wpdevteam": {
+            "profile": "https:\/\/profiles.wordpress.org\/wpdevteam\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2e11aca66806641e205724c7f3d44ce2?s=96&d=monsterid&r=g",
+            "display_name": "WPDeveloper"
+        },
+        "re_enter_rupok": {
+            "profile": "https:\/\/profiles.wordpress.org\/re_enter_rupok\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/697d2b077281ce807e915bcc3885e4ac?s=96&d=monsterid&r=g",
+            "display_name": "Rupok"
+        },
+        "asif2bd": {
+            "profile": "https:\/\/profiles.wordpress.org\/asif2bd\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/1852249120f11f0a4a73590292ab27e5?s=96&d=monsterid&r=g",
+            "display_name": "M Asif Rahman"
+        },
+        "emsohel": {
+            "profile": "https:\/\/profiles.wordpress.org\/emsohel\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/e2335afb8889abcfa2f1aab5f5ba1e56?s=96&d=monsterid&r=g",
+            "display_name": "Kazi Emam Mahedi"
+        },
+        "priyomukul": {
+            "profile": "https:\/\/profiles.wordpress.org\/priyomukul\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/4b29e93b742c3a64721c6256695ce1be?s=96&d=monsterid&r=g",
+            "display_name": "PriyoMukul"
+        },
+        "cu121": {
+            "profile": "https:\/\/profiles.wordpress.org\/cu121\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/382833dd63e68bf062453fb21c7865f1?s=96&d=monsterid&r=g",
+            "display_name": "Cupid Chakma"
+        },
+        "fencermonir": {
+            "profile": "https:\/\/profiles.wordpress.org\/fencermonir\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/7ed30aff60cc27dfd3fbc753bfbc80cf?s=96&d=monsterid&r=g",
+            "display_name": "Md Monir Hossain"
+        },
+        "sapanmozammel": {
+            "profile": "https:\/\/profiles.wordpress.org\/sapanmozammel\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2963d2020e89352fa1c5b4b314b800f3?s=96&d=monsterid&r=g",
+            "display_name": "Sapan Mozammel"
+        },
+        "seakashdiu": {
+            "profile": "https:\/\/profiles.wordpress.org\/seakashdiu\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/94934cfb9d2b24c9b9de2be375f8aa9e?s=96&d=monsterid&r=g",
+            "display_name": "Akash Mia"
+        }
+    },
+    "requires": "4.0",
+    "tested": "6.5.2",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 96,
+    "ratings": {
+        "5": 262,
+        "4": 14,
+        "3": 0,
+        "2": 3,
+        "1": 11
+    },
+    "num_ratings": 290,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/betterdocs\/",
+    "support_threads": 20,
+    "support_threads_resolved": 17,
+    "active_installs": 30000,
+    "downloaded": 1244417,
+    "last_updated": "2024-03-31 8:29am GMT",
+    "added": "2019-10-15",
+    "homepage": "https:\/\/betterdocs.co\/",
+    "sections": {
+        "description": "<p>Do you want to reduce support tickets immediately? How about you creating a stunning and resourceful knowledge base for your customers with better docs &amp; FAQs? \ud83e\udd14<\/p>\n<p>\ud83d\udc68\u200d\ud83d\udcbb 82% of customers prefer to support through an online knowledge base and get annoyed creating support tickets as it&#8217;s a lengthy process. So creating an informative Documentation page can help to enhance your customer experience.<\/p>\n<p>But how do you create a stunning <strong>docs<\/strong> page easily on WordPress site without any coding? Well, we\u2019ve got you covered. \ud83d\ude0e<\/p>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/57BioKfROlo?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent&#038;listType=playlist&#038;list=PLWHp1xKHCfxDOGyziODrJ1qYNOC8pbVYA\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<h3>\ud83d\udcd2 Create Stunning Knowledge Base To Scale Customer Support<\/h3>\n<p><a href=\"https:\/\/betterdocs.co\/\" rel=\"nofollow ugc\">BetterDocs<\/a> will help you to create &amp; organize your documentation page in a beautiful way that will make your visitors find any help article easily. It will facilitate your client to make faster decisions and get help on the spot by self-servicing instead of avoiding lengthy conversations.<\/p>\n<h3>\ud83d\udd25 Power Up Knowledge Base To Reduce Support Tickets<\/h3>\n<p>Let the visitors instantly find the answers they are searching for without having to wait for the support team and reduce support workload.<\/p>\n<h3>\ud83c\udf1f Top Features<\/h3>\n<ul>\n<li>Stunning readymade template designs to create your Docs landing page, Single Doc page, &amp; Archive page without any coding<\/li>\n<li>In-built theme customization option, or use Shortcodes &amp; Elementor widgets, or Gutenberg Blocks to design &amp; customize the entire documentation page<\/li>\n<li>Table of Contents or Sticky TOC to provide an absolute user experience<\/li>\n<li>In-built advanced live search bar to help visitors get the exact docs solution<\/li>\n<li>Advanced List View (FREE) &amp; Grid View feature (PRO)<\/li>\n<li>Create &amp; manage multiple knowledgebases for all products separately (PRO)<\/li>\n<li>Manage roles for your knowledgebase users &amp; give access accordingly<\/li>\n<li>Integrated with Analytics to track and evaluate the performance<\/li>\n<li>100% Compatibility with Elementor Page Builder<\/li>\n<li>WPML Certified Plugin<\/li>\n<li>Gutenberg Blocks <a href=\"https:\/\/betterdocs.co\/docs\/betterdocs-search-box-gutenberg\/\" rel=\"nofollow ugc\">BetterDocs Search Form<\/a>, <a href=\"https:\/\/betterdocs.co\/docs\/betterdocs-category-grid-gutenberg\/\" rel=\"nofollow ugc\">BetterDocs Category Box<\/a> &amp; <a href=\"https:\/\/betterdocs.co\/docs\/betterdocs-category-grid-gutenberg\/\" rel=\"nofollow ugc\">BetterDocs Category Grid<\/a> to easily create your Knowledgebase<\/li>\n<li>Create <a href=\"https:\/\/betterdocs.co\/docs\/betterdocs-advanced-search\/\" rel=\"nofollow ugc\">Advanced Search<\/a> &amp; showcase <a href=\"https:\/\/betterdocs.co\/docs\/how-to-feature-popular-docs-on-knowledge-base-using-betterdocs\/\" rel=\"nofollow ugc\">Popular Docs<\/a> with ready layouts (PRO)<\/li>\n<li>FSE Compatible with 10+ Gutenberg Blocks &amp; Patterns<\/li>\n<li>Import and export CSV and XML files options to migrate essential documentation or back up your knowledge base<\/li>\n<li>Generate advanced documentation instantly using Write With AI, the powerful AI auto writer feature by integrating ChatGPT<\/li>\n<li>Generate Sample Data to make the knowledge base data creation process smooth<\/li>\n<li>Seamless migration of knowledge base from any 3rd party solution like Help Scout<\/li>\n<li>Estimated Reading Time for Single Docs<\/li>\n<li>Add attachments to any single doc to provide additional content to help readers (PRO)<\/li>\n<li>Related doc embedding in any single doc to provide supporting documentation for more knowledge (PRO)<\/li>\n<\/ul>\n<h3>\ud83d\ude4c STUNNING READY TEMPLATES FOR DOCS LANDING PAGE<\/h3>\n<p>BetterDocs offers multiple ready templates to design your WordPress documentation site within a few minutes. Besides, you have full freedom to customize the layout with ease.<\/p>\n<h3>\ud83d\udde3\ufe0f TRANSLATE SINGLE DOC PAGE WITH WPML<\/h3>\n<p>Translate your BetterDocs Single Docs by using WPML quite easily.<\/p>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/db4FB2NUD-g?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<h3>\ud83d\udcac CREATE FAQ INSTANTLY<\/h3>\n<p>Design FAQ sections for your Knowledge base easily with the help of BetterDocs FAQ Builder.<\/p>\n<h3>\ud83d\udcac Full Site Editor (FSE) Compatibility<\/h3>\n<p>Design your documentation, single docs, archive pages effortlessly in Gutenberg Editor with the help of BetterDocs&#8217; Gutenberg Blocks &amp; Patterns.<\/p>\n<h3>\ud83d\udccb INTERACTIVE TABLE OF CONTENTS (TOC)<\/h3>\n<p>BetterDocs will automatically create a well-managed <a href=\"https:\/\/wpdeveloper.com\/display-toc-wordpress\/\" rel=\"nofollow ugc\">Table Of Contents(TOC)<\/a> while you are writing your documentation. With an effective automated process, it will organize your documentation with its in-built functions and this stunning TOC moves with your scroll, so your visitors can always go to other pages easily.<\/p>\n<h3>\ud83d\udd0e IN-BUILT ADVANCED SEARCH OPTION<\/h3>\n<p>Assist your visitors to get the exact docs solution and reduce dependency on support with a built-in advanced live search &amp; advanced search option(PRO) from the top.<\/p>\n<h3>\u2699\ufe0f ADVANCED CUSTOMIZATION OPTION<\/h3>\n<p>Customize documentation pages from settings or even add shortcode (PRO), page builder widgets, and more to get the full authority to make it stand out for your web visitors.<\/p>\n<h3>\u26a1 FULLY COMPATIBLE WITH GUTENBERG EDITOR [READY GUTENBERG BLOCKS]<\/h3>\n<p>Make an interactive knowledge base site in Gutenberg by using fully functional ready Gutenberg blocks.<\/p>\n<h3>\ud83d\udcaf 100% COMPATIBILITY WITH ELEMENTOR PAGE BUILDER [FREE ELEMENTOR WIDGETS]<\/h3>\n<p>Design amazing single docs and docs archive page without any hassle with <a href=\"https:\/\/wordpress.org\/plugins\/elementor\/\" rel=\"ugc\">Elementor Page Builder using free Elementor widgets<\/a><\/p>\n<h3>\ud83d\udd25 SINGLE DOC TEMPLATE WITH ELEMENTOR<\/h3>\n<p>Show off your creativity and create an amazing single doc template with advanced elements, and ready layouts with Elementor Theme Builder<\/p>\n<h3>\ud83e\udd16 WRITE DOCUMENTATION &amp; FAQ WITH CHATGPT AI AUTO WRITER<\/h3>\n<p>Use the powerful Write With AI auto writer feature like ChatGPT to quickly generate detailed documentation &amp; FAQs in a few clicks without any hassle.<\/p>\n<h3>\ud83d\ude80 DOCS ARCHIVE TEMPLATE WITH ELEMENTOR<\/h3>\n<p>Design stunning Docs page and Docs Category archive template with Elementor Theme Builder.<\/p>\n<h3>\ud83d\udd04 IMPORT AND EXPORT OPTION<\/h3>\n<p>Migrate your valuable content and back up your knowledge base with just a few clicks with easy import and export feature that seamlessly supports CSV and XML formats.<\/p>\n<h3>\ud83d\udccc ONE CLICK GENERATE SAMPLE DATA<\/h3>\n<p>Create Sample Data to streamline the knowledge base data creation process, ensuring efficiency and accuracy in populating the database.<\/p>\n<h3>\ud83d\udd04  3RD PARTY MIGRATION SUCH AS HELP SCOUT<\/h3>\n<p>Seamless migration of knowledge base from any 3rd party plugin solution like Help Scout with a single click to improve customer service capabilities.<\/p>\n<h3>\ud83e\udd16 INSTANT ANSWER BOT TO REDUCE SUPPORT TICKETS (PRO)<\/h3>\n<p>Help your customers browse the docs and knowledge base articles right from the chat window without leaving the page and reduce the support tickets.<\/p>\n<h3>\ud83d\udcca INSIGHTFUL ANALYTICS TO EVALUATE PERFORMANCE (PRO)<\/h3>\n<p>Track and evaluate activities on your documentation page and improve customer experience. Also, analyze the site traffic to get insights into your Knowledge Base.<\/p>\n<h3>\ud83c\udd95 CREATE MULTIPLE KNOWLEDGE BASE (PRO)<\/h3>\n<p>Create multiple knowledge-bases for different products and provide instant support to your customers from one place<\/p>\n<h3>\ud83d\udd12 MANAGE INTERNAL KNOWLEDGE BASE (PRO)<\/h3>\n<p>Restrict your knowledge base based on certain user roles and manage Internal Knowledge Base to make your documentation private<\/p>\n<h3>\ud83d\udcd4 DESIGN STUNNING MULTIPLE KNOWLEDGE BASES WITH ELEMENTOR (PRO)<\/h3>\n<p>Design spectacular multiple knowledge bases with absolute ease by using Multiple KB widget for Elementor widget.<\/p>\n<h3>\ud83d\udd17 ADD ATTACHMENT IN SINGLE DOCUMENTATION (PRO)<\/h3>\n<p>Include attachments within each document to offer supplementary content and extra details, enhancing comprehension and accessibility.<\/p>\n<h3>\ud83d\udcda EMBED RELATED DOCS IN SINGLE DOCUMENTATION<\/h3>\n<p>Incorporate relevant documentation into each document to promote supporting content and additional information.<\/p>\n<p>You don\u2019t have to just take our word for it. See what one of the WordPress experts are saying:<\/p>\n<blockquote>\n<ul>\n<li>Sweet solution for adding a knowledge base to your website.<\/li>\n<li>Visit \/docs to view the built-in page (URL is changeable in settings)<\/li>\n<li>Easy to create and manage with beautiful layouts and powerful search.<\/li>\n<\/ul>\n<p>-Nathan, iThemes<\/p>\n<\/blockquote>\n<p>\ud83d\ude4c After reading this feature list, you can probably imagine BetterDocs is the most advanced and powerful documentation plugin in the market. Give BetterDocs Knowledge Base plugin a try.<\/p>\n<p>Want to unlock the advanced features? <a href=\"http:\/\/betterdocs.co\/#pricing\" rel=\"nofollow ugc\">Upgrade to our Pro version<\/a><\/p>\n<h3>\ud83d\ude80 Backed By A Trusted Team<\/h3>\n<p>This Documentation plugin is brought to you by the team behind <a href=\"https:\/\/wpdeveloper.com\/\" rel=\"nofollow ugc\">WPDeveloper<\/a>, a dedicated marketplace for WordPress, trusted by 6 Million+ happy users.<\/p>\n<h3>\ud83d\udc68\u200d\ud83d\udcbb DOCUMENTATION AND SUPPORT<\/h3>\n<ul>\n<li>For documentation and tutorials go to our <a href=\"https:\/\/betterdocs.co\/docs\/\" rel=\"nofollow ugc\">Documentation<\/a><\/li>\n<li>For video tutorials go to our <a href=\"https:\/\/www.youtube.com\/playlist?list=PLWHp1xKHCfxDOGyziODrJ1qYNOC8pbVYA\" rel=\"nofollow ugc\">YouTube Playlist<\/a><\/li>\n<li>If you have any more questions, visit our support on the Plugin\u2019s <a href=\"https:\/\/wordpress.org\/support\/plugin\/betterdocs\/\" rel=\"ugc\">Forum<\/a><\/li>\n<li>For more information about features, FAQs and documentation, check out our website at <a href=\"https:\/\/betterdocs.co\/\" rel=\"nofollow ugc\">BetterDocs<\/a><\/li>\n<\/ul>\n<h4>Create better Docs, Knowledge Base and wiki with BetterDocs<\/h4>\n<h3>\ud83d\udc99 Loved BetterDocs?<\/h3>\n<ul>\n<li>Join our <a href=\"https:\/\/www.facebook.com\/groups\/wpdeveloper.net\/\" rel=\"nofollow ugc\">Facebook Group<\/a><\/li>\n<li>Learn from our tutorials on <a href=\"https:\/\/wpdeveloper.com\/go\/youtube-channel\" rel=\"nofollow ugc\">Youtube Channel<\/a><\/li>\n<li>Or rate <a href=\"https:\/\/wordpress.org\/support\/plugin\/betterdocs\/reviews\/#new-post\" rel=\"ugc\">BetterDocs<\/a> on WordPress<\/li>\n<\/ul>\n<h3>\ud83d\udd25 WHAT\u2019S NEXT<\/h3>\n<p>If you like this docs plugin, then consider checking out our other projects:<\/p>\n<p><a href=\"https:\/\/wordpress.org\/plugins\/essential-addons-for-elementor-lite\/\" rel=\"ugc\">Essential Addons For Elementor<\/a> \u2013 Most popular Elementor widget library with 2 Million+ active users in the WordPress repository.<br \/>\n<a href=\"https:\/\/wordpress.org\/plugins\/notificationx\/\" rel=\"ugc\">NotificationX<\/a> \u2013 Best Social Proof &amp; FOMO Marketing Solution<br \/>\n<a href=\"https:\/\/wordpress.org\/plugins\/wp-scheduled-posts\/\" rel=\"ugc\">SchedulePress<\/a> \u2013 Complete solution for WordPress Post Scheduling to manage schedules through an editorial calendar.<br \/>\n<a href=\"https:\/\/wordpress.org\/plugins\/embedpress\/\" rel=\"ugc\">EmbedPress<\/a>&#8211; Embed videos, images, posts, audio, maps and upload PDF, DOC, PPT &amp; all other types of content into your WordPress site with one-click and showcase it beautifully for the visitors.<br \/>\n<a href=\"https:\/\/wordpress.org\/plugins\/templately\/\" rel=\"ugc\">Templately<\/a> Ultimate Template clouds with 5000+ ready templates for Elementor &amp; Gutenberg along with FREE cloud collaboration with your team.<\/p>\n<p>Visit <a href=\"https:\/\/wpdeveloper.com\" rel=\"nofollow ugc\">WPDeveloper<\/a> to learn more about how to do better in WordPress with <a href=\"https:\/\/wpdeveloper.com\/blog\" rel=\"nofollow ugc\">Help Tutorial, Tips &amp; Tricks<\/a>!<\/p>\n",
+        "installation": "<h4>Modern Way:<\/h4>\n<ol>\n<li>Go to the WordPress Dashboard &#8220;Add New Plugin&#8221; section.<\/li>\n<li>Search For &#8220;BetterDocs&#8221;.<\/li>\n<li>Install, then Activate it.<\/li>\n<li>Follow the <a href=\"https:\/\/betterdocs.co\/docs\/\" rel=\"nofollow ugc\">Documentation<\/a><\/li>\n<\/ol>\n<h4>Old Way:<\/h4>\n<ol>\n<li>Upload <code>betterdocs<\/code> to the <code>\/wp-content\/plugins\/<\/code> directory<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress<\/li>\n<li>Follow the <a href=\"https:\/\/betterdocs.co\/docs\/\" rel=\"nofollow ugc\">Documentation<\/a><\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='does%20it%20work%20with%20any%20wordpress%20theme%3F'>\nDoes it work with any WordPress theme?\n<\/h4>\n<p>\n<p>Yes, it will work with any standard WordPress theme.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>3.5.1 &#8211; 31\/03\/2024<\/h4>\n<ul>\n<li>Added: Estimated reading time for Single Docs<\/li>\n<li>Fixed: Multiple KB and Categories admin pages don&#8217;t show Yoast SEO terms<\/li>\n<li>Fixed: Live search is showing previous page search results for certain cases<\/li>\n<li>Few minor bug fixes and improvements<\/li>\n<\/ul>\n<p><a href=\"https:\/\/betterdocs.co\/changelog\/\" rel=\"nofollow ugc\">See changelog for all versions<\/a>.<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-1.png?rev=2598535\"><img src=\"https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-1.png?rev=2598535\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-2.gif?rev=3007981\"><img src=\"https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-2.gif?rev=3007981\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-3.gif?rev=2773394\"><img src=\"https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-3.gif?rev=2773394\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-4.gif?rev=3007981\"><img src=\"https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-4.gif?rev=3007981\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-5.gif?rev=2773394\"><img src=\"https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-5.gif?rev=2773394\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-6.gif?rev=3007981\"><img src=\"https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-6.gif?rev=3007981\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-7.gif?rev=3007981\"><img src=\"https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-7.gif?rev=3007981\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-8.gif?rev=3007981\"><img src=\"https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-8.gif?rev=3007981\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-9.gif?rev=3009820\"><img src=\"https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-9.gif?rev=3009820\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Bought 3 Hours Ago &amp; Seems Like a Great Plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/carolmb\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d1446a87bcfd96c0cf8c13c8c8a2503a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d1446a87bcfd96c0cf8c13c8c8a2503a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/carolmb\/\" class=\"reviewer-name\">carolmb<\/a> on <span class=\"review-date\">April 11, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I am using BetterDocs Pro with Elementor. <br \/>The online documentation can be lacking in some areas, but the support team is pretty awesome. Quick to respond and provided the answer to what I was looking for. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Would definitely buy more from them.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Easy to Use \/ Excellent Support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/amgill\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b1630812cd7d2d337e1e1c00d720dbee?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b1630812cd7d2d337e1e1c00d720dbee?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/amgill\/\" class=\"reviewer-name\">AMGill<\/a> on <span class=\"review-date\">March 28, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Better Docs is easy to use, especially the latet version with the grid view in the back end to organize the documents.  We had some trouble with top category links not working and custom css that was messing up the latest version's layout and support was super helpful and responsive to help us fix those issues.  Thank you!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great Plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/dav3man\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/ed0e64bdce643a943191b18efe462543?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/ed0e64bdce643a943191b18efe462543?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/dav3man\/\" class=\"reviewer-name\">dav3man<\/a> on <span class=\"review-date\">March 19, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Firstly great plugin, easy setup and great customer support and compatible on all devices. The customisable css options made it easy to adapt the plugin to my website. Also the fact I can simply add questions-answers and assign them to categories in the admin area is a great aspect as opposed to editing pages.. Highly recommend.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great plugin!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/kheeten\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/1ee18b467eede00a1b4ef98422257cef?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/1ee18b467eede00a1b4ef98422257cef?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/kheeten\/\" class=\"reviewer-name\">kheeten<\/a> on <span class=\"review-date\">March 19, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I really love this plugin! Interface is great and the usabillty is very friendly! Great work!!!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Plugin works good, support is great<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"4 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"4\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/hugohek\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/34c335346029ef90ba636aabe13dcb5e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/34c335346029ef90ba636aabe13dcb5e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/hugohek\/\" class=\"reviewer-name\">hugohek<\/a> on <span class=\"review-date\">March 15, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The support is excellent, and the plugin is good. However, I think there could be more options for those wanting to use the shortcodes. Perhaps an integrated tool for building the options ourselves would be helpful.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">I&#039;ll switch as soon as I have found something better!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"2 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"2\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/tenserd\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e131d123095c2b67024cc19983a8ccf2?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e131d123095c2b67024cc19983a8ccf2?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/tenserd\/\" class=\"reviewer-name\">tenserd<\/a> on <span class=\"review-date\">March 14, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I've been hoping for improvement for a few years now, but unfortunately the ultimate disaster came with the last upgrade. We use the Divi builder for our and our customers' sites and Divi has simply been ignored for years (not everyone uses Elementor!).<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Everything that bothers me about BetterDocs:<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>With the upgrade, a lot of what was individually customized in settings was simply put back.<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Shortcode placed on a page and poof, the theme-biulder function is overridden and the page has a title and a sidebar. This applies to all pages after the update. (Tip: In the Divi-Builder a layout must be created in the Theme-Builder -&gt; This can only be activated for the BD start page, all subpages remain unaffected)<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Do not use the Divi-Builder for the Docs pages\u2026 you will get problems with the display with \"Instant-Answer\".<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Not everything is translated and you also have to install Loco-Translate. Why is it not possible to translate the complete texts that are displayed in the frontend?<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>I don't even want to start talking about Instant-Answer here. I haven't come across anything like this since the early days of Wordpress\u2026 The best thing to do is simply not to use it<br \/>--&gt; If you do, then turn off the chat, because you have no possibilities to customize important things here.<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>BetterDocs UI???? Why are you doing this to us? I'm glad you can switch back to the classic view<br \/>-- No possibility to access deleted content (no recycle bin)<br \/>-- No quickedit option<br \/>-- Only practical to quickly move texts from one category to another or to move the order<\/li>\n<!-- \/wp:list-item --><\/ul>\n<!-- \/wp:list -->\n\n<!-- wp:paragraph -->\n<p class=\"\">It looks great from the outside, but under the hood\u2026 unfortunately the upgrade didn't help \u2026 oh yes\u2026 an AI function is now built in\u2026 WOW<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Before the standard phrase \"Please contact our support\" comes up \u2026 I and some of my colleagues have already done so and the answer has always been that you are working on it. Unfortunately, we have been waiting for several years now for something to happen. Unfortunately nothing!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">As I wrote in the title, some of my colleagues and I are looking for a more usable alternative. If you have any tips, please feel free to write to me.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">its the best<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/papers4novels\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/ae1d88ae7a97808e90856d49a796a506?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/ae1d88ae7a97808e90856d49a796a506?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/papers4novels\/\" class=\"reviewer-name\">papers4novels<\/a> on <span class=\"review-date\">March 13, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The support team is great and quick to respond. The plugin is also easy to use and has great features. We rely on it completely for our website<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">You get full 5 stars when...<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"4 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"4\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/auraplugins\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/c3425ef523c9ce7c527be157eb86cdf7?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/c3425ef523c9ce7c527be157eb86cdf7?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/auraplugins\/\" class=\"reviewer-name\">auraplugins<\/a> on <span class=\"review-date\">March 11, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">You give us ability to use custom templates. The templates you have are OK, but not suitable for example on our site. Therefore we had to change the core templates, which is not ideal.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Also, working with DIVI is a bit nightmare. I can not for example, add related documents when DIVI builder is enabled. Every time I click to link to another Doc, DIVI just reloads the page and I am back to square one.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Other than that, I am very pleased.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/moeinich\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/8e41e7abc86236ee84e07f3f68c1437c?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/8e41e7abc86236ee84e07f3f68c1437c?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/moeinich\/\" class=\"reviewer-name\">moeinich<\/a> on <span class=\"review-date\">March 5, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">my issue was fixed quick and easy, love the plugin :) <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great support from real developers!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/cappersg\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/ec44f8428edcd9494bbb176257d0ebb4?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/ec44f8428edcd9494bbb176257d0ebb4?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/cappersg\/\" class=\"reviewer-name\">cappersg<\/a> on <span class=\"review-date\">February 28, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Installing of this plugin starts with an initial setup. I got a message about \"insufficient permissions\" although I was using an account with administration rights. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Contacted WPDeveloper support. They (Loren Ashley)  responded very fast. Initial suggestions (disabling plugin's) didn't work so I granted them acces to the site. They discovered that the Ultimate Member plugin \"admin\" role is NOT the same as the standard administrator - and that was the problem. <br \/>Not only they act very fast: they really know their stuff. Great work!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "A full-featured documentation plugin including AI writing assistance to create knowledge bases, docs, FAQs, wikis, and more with easy drag &amp; drop UI.",
+    "description": "<p>Do you want to reduce support tickets immediately? How about you creating a stunning and resourceful knowledge base for your customers with better docs &amp; FAQs? \ud83e\udd14<\/p>\n<p>\ud83d\udc68\u200d\ud83d\udcbb 82% of customers prefer to support through an online knowledge base and get annoyed creating support tickets as it&#8217;s a lengthy process. So creating an informative Documentation page can help to enhance your customer experience.<\/p>\n<p>But how do you create a stunning <strong>docs<\/strong> page easily on WordPress site without any coding? Well, we\u2019ve got you covered. \ud83d\ude0e<\/p>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/57BioKfROlo?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent&#038;listType=playlist&#038;list=PLWHp1xKHCfxDOGyziODrJ1qYNOC8pbVYA\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<h3>\ud83d\udcd2 Create Stunning Knowledge Base To Scale Customer Support<\/h3>\n<p><a href=\"https:\/\/betterdocs.co\/\" rel=\"nofollow ugc\">BetterDocs<\/a> will help you to create &amp; organize your documentation page in a beautiful way that will make your visitors find any help article easily. It will facilitate your client to make faster decisions and get help on the spot by self-servicing instead of avoiding lengthy conversations.<\/p>\n<h3>\ud83d\udd25 Power Up Knowledge Base To Reduce Support Tickets<\/h3>\n<p>Let the visitors instantly find the answers they are searching for without having to wait for the support team and reduce support workload.<\/p>\n<h3>\ud83c\udf1f Top Features<\/h3>\n<ul>\n<li>Stunning readymade template designs to create your Docs landing page, Single Doc page, &amp; Archive page without any coding<\/li>\n<li>In-built theme customization option, or use Shortcodes &amp; Elementor widgets, or Gutenberg Blocks to design &amp; customize the entire documentation page<\/li>\n<li>Table of Contents or Sticky TOC to provide an absolute user experience<\/li>\n<li>In-built advanced live search bar to help visitors get the exact docs solution<\/li>\n<li>Advanced List View (FREE) &amp; Grid View feature (PRO)<\/li>\n<li>Create &amp; manage multiple knowledgebases for all products separately (PRO)<\/li>\n<li>Manage roles for your knowledgebase users &amp; give access accordingly<\/li>\n<li>Integrated with Analytics to track and evaluate the performance<\/li>\n<li>100% Compatibility with Elementor Page Builder<\/li>\n<li>WPML Certified Plugin<\/li>\n<li>Gutenberg Blocks <a href=\"https:\/\/betterdocs.co\/docs\/betterdocs-search-box-gutenberg\/\" rel=\"nofollow ugc\">BetterDocs Search Form<\/a>, <a href=\"https:\/\/betterdocs.co\/docs\/betterdocs-category-grid-gutenberg\/\" rel=\"nofollow ugc\">BetterDocs Category Box<\/a> &amp; <a href=\"https:\/\/betterdocs.co\/docs\/betterdocs-category-grid-gutenberg\/\" rel=\"nofollow ugc\">BetterDocs Category Grid<\/a> to easily create your Knowledgebase<\/li>\n<li>Create <a href=\"https:\/\/betterdocs.co\/docs\/betterdocs-advanced-search\/\" rel=\"nofollow ugc\">Advanced Search<\/a> &amp; showcase <a href=\"https:\/\/betterdocs.co\/docs\/how-to-feature-popular-docs-on-knowledge-base-using-betterdocs\/\" rel=\"nofollow ugc\">Popular Docs<\/a> with ready layouts (PRO)<\/li>\n<li>FSE Compatible with 10+ Gutenberg Blocks &amp; Patterns<\/li>\n<li>Import and export CSV and XML files options to migrate essential documentation or back up your knowledge base<\/li>\n<li>Generate advanced documentation instantly using Write With AI, the powerful AI auto writer feature by integrating ChatGPT<\/li>\n<li>Generate Sample Data to make the knowledge base data creation process smooth<\/li>\n<li>Seamless migration of knowledge base from any 3rd party solution like Help Scout<\/li>\n<li>Estimated Reading Time for Single Docs<\/li>\n<li>Add attachments to any single doc to provide additional content to help readers (PRO)<\/li>\n<li>Related doc embedding in any single doc to provide supporting documentation for more knowledge (PRO)<\/li>\n<\/ul>\n<h3>\ud83d\ude4c STUNNING READY TEMPLATES FOR DOCS LANDING PAGE<\/h3>\n<p>BetterDocs offers multiple ready templates to design your WordPress documentation site within a few minutes. Besides, you have full freedom to customize the layout with ease.<\/p>\n<h3>\ud83d\udde3\ufe0f TRANSLATE SINGLE DOC PAGE WITH WPML<\/h3>\n<p>Translate your BetterDocs Single Docs by using WPML quite easily.<\/p>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/db4FB2NUD-g?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<h3>\ud83d\udcac CREATE FAQ INSTANTLY<\/h3>\n<p>Design FAQ sections for your Knowledge base easily with the help of BetterDocs FAQ Builder.<\/p>\n<h3>\ud83d\udcac Full Site Editor (FSE) Compatibility<\/h3>\n<p>Design your documentation, single docs, archive pages effortlessly in Gutenberg Editor with the help of BetterDocs&#8217; Gutenberg Blocks &amp; Patterns.<\/p>\n<h3>\ud83d\udccb INTERACTIVE TABLE OF CONTENTS (TOC)<\/h3>\n<p>BetterDocs will automatically create a well-managed <a href=\"https:\/\/wpdeveloper.com\/display-toc-wordpress\/\" rel=\"nofollow ugc\">Table Of Contents(TOC)<\/a> while you are writing your documentation. With an effective automated process, it will organize your documentation with its in-built functions and this stunning TOC moves with your scroll, so your visitors can always go to other pages easily.<\/p>\n<h3>\ud83d\udd0e IN-BUILT ADVANCED SEARCH OPTION<\/h3>\n<p>Assist your visitors to get the exact docs solution and reduce dependency on support with a built-in advanced live search &amp; advanced search option(PRO) from the top.<\/p>\n<h3>\u2699\ufe0f ADVANCED CUSTOMIZATION OPTION<\/h3>\n<p>Customize documentation pages from settings or even add shortcode (PRO), page builder widgets, and more to get the full authority to make it stand out for your web visitors.<\/p>\n<h3>\u26a1 FULLY COMPATIBLE WITH GUTENBERG EDITOR [READY GUTENBERG BLOCKS]<\/h3>\n<p>Make an interactive knowledge base site in Gutenberg by using fully functional ready Gutenberg blocks.<\/p>\n<h3>\ud83d\udcaf 100% COMPATIBILITY WITH ELEMENTOR PAGE BUILDER [FREE ELEMENTOR WIDGETS]<\/h3>\n<p>Design amazing single docs and docs archive page without any hassle with <a href=\"https:\/\/wordpress.org\/plugins\/elementor\/\" rel=\"ugc\">Elementor Page Builder using free Elementor widgets<\/a><\/p>\n<h3>\ud83d\udd25 SINGLE DOC TEMPLATE WITH ELEMENTOR<\/h3>\n<p>Show off your creativity and create an amazing single doc template with advanced elements, and ready layouts with Elementor Theme Builder<\/p>\n<h3>\ud83e\udd16 WRITE DOCUMENTATION &amp; FAQ WITH CHATGPT AI AUTO WRITER<\/h3>\n<p>Use the powerful Write With AI auto writer feature like ChatGPT to quickly generate detailed documentation &amp; FAQs in a few clicks without any hassle.<\/p>\n<h3>\ud83d\ude80 DOCS ARCHIVE TEMPLATE WITH ELEMENTOR<\/h3>\n<p>Design stunning Docs page and Docs Category archive template with Elementor Theme Builder.<\/p>\n<h3>\ud83d\udd04 IMPORT AND EXPORT OPTION<\/h3>\n<p>Migrate your valuable content and back up your knowledge base with just a few clicks with easy import and export feature that seamlessly supports CSV and XML formats.<\/p>\n<h3>\ud83d\udccc ONE CLICK GENERATE SAMPLE DATA<\/h3>\n<p>Create Sample Data to streamline the knowledge base data creation process, ensuring efficiency and accuracy in populating the database.<\/p>\n<h3>\ud83d\udd04  3RD PARTY MIGRATION SUCH AS HELP SCOUT<\/h3>\n<p>Seamless migration of knowledge base from any 3rd party plugin solution like Help Scout with a single click to improve customer service capabilities.<\/p>\n<h3>\ud83e\udd16 INSTANT ANSWER BOT TO REDUCE SUPPORT TICKETS (PRO)<\/h3>\n<p>Help your customers browse the docs and knowledge base articles right from the chat window without leaving the page and reduce the support tickets.<\/p>\n<h3>\ud83d\udcca INSIGHTFUL ANALYTICS TO EVALUATE PERFORMANCE (PRO)<\/h3>\n<p>Track and evaluate activities on your documentation page and improve customer experience. Also, analyze the site traffic to get insights into your Knowledge Base.<\/p>\n<h3>\ud83c\udd95 CREATE MULTIPLE KNOWLEDGE BASE (PRO)<\/h3>\n<p>Create multiple knowledge-bases for different products and provide instant support to your customers from one place<\/p>\n<h3>\ud83d\udd12 MANAGE INTERNAL KNOWLEDGE BASE (PRO)<\/h3>\n<p>Restrict your knowledge base based on certain user roles and manage Internal Knowledge Base to make your documentation private<\/p>\n<h3>\ud83d\udcd4 DESIGN STUNNING MULTIPLE KNOWLEDGE BASES WITH ELEMENTOR (PRO)<\/h3>\n<p>Design spectacular multiple knowledge bases with absolute ease by using Multiple KB widget for Elementor widget.<\/p>\n<h3>\ud83d\udd17 ADD ATTACHMENT IN SINGLE DOCUMENTATION (PRO)<\/h3>\n<p>Include attachments within each document to offer supplementary content and extra details, enhancing comprehension and accessibility.<\/p>\n<h3>\ud83d\udcda EMBED RELATED DOCS IN SINGLE DOCUMENTATION<\/h3>\n<p>Incorporate relevant documentation into each document to promote supporting content and additional information.<\/p>\n<p>You don\u2019t have to just take our word for it. See what one of the WordPress experts are saying:<\/p>\n<blockquote>\n<ul>\n<li>Sweet solution for adding a knowledge base to your website.<\/li>\n<li>Visit \/docs to view the built-in page (URL is changeable in settings)<\/li>\n<li>Easy to create and manage with beautiful layouts and powerful search.<\/li>\n<\/ul>\n<p>-Nathan, iThemes<\/p>\n<\/blockquote>\n<p>\ud83d\ude4c After reading this feature list, you can probably imagine BetterDocs is the most advanced and powerful documentation plugin in the market. Give BetterDocs Knowledge Base plugin a try.<\/p>\n<p>Want to unlock the advanced features? <a href=\"http:\/\/betterdocs.co\/#pricing\" rel=\"nofollow ugc\">Upgrade to our Pro version<\/a><\/p>\n<h3>\ud83d\ude80 Backed By A Trusted Team<\/h3>\n<p>This Documentation plugin is brought to you by the team behind <a href=\"https:\/\/wpdeveloper.com\/\" rel=\"nofollow ugc\">WPDeveloper<\/a>, a dedicated marketplace for WordPress, trusted by 6 Million+ happy users.<\/p>\n<h3>\ud83d\udc68\u200d\ud83d\udcbb DOCUMENTATION AND SUPPORT<\/h3>\n<ul>\n<li>For documentation and tutorials go to our <a href=\"https:\/\/betterdocs.co\/docs\/\" rel=\"nofollow ugc\">Documentation<\/a><\/li>\n<li>For video tutorials go to our <a href=\"https:\/\/www.youtube.com\/playlist?list=PLWHp1xKHCfxDOGyziODrJ1qYNOC8pbVYA\" rel=\"nofollow ugc\">YouTube Playlist<\/a><\/li>\n<li>If you have any more questions, visit our support on the Plugin\u2019s <a href=\"https:\/\/wordpress.org\/support\/plugin\/betterdocs\/\" rel=\"ugc\">Forum<\/a><\/li>\n<li>For more information about features, FAQs and documentation, check out our website at <a href=\"https:\/\/betterdocs.co\/\" rel=\"nofollow ugc\">BetterDocs<\/a><\/li>\n<\/ul>\n<h4>Create better Docs, Knowledge Base and wiki with BetterDocs<\/h4>\n<h3>\ud83d\udc99 Loved BetterDocs?<\/h3>\n<ul>\n<li>Join our <a href=\"https:\/\/www.facebook.com\/groups\/wpdeveloper.net\/\" rel=\"nofollow ugc\">Facebook Group<\/a><\/li>\n<li>Learn from our tutorials on <a href=\"https:\/\/wpdeveloper.com\/go\/youtube-channel\" rel=\"nofollow ugc\">Youtube Channel<\/a><\/li>\n<li>Or rate <a href=\"https:\/\/wordpress.org\/support\/plugin\/betterdocs\/reviews\/#new-post\" rel=\"ugc\">BetterDocs<\/a> on WordPress<\/li>\n<\/ul>\n<h3>\ud83d\udd25 WHAT\u2019S NEXT<\/h3>\n<p>If you like this docs plugin, then consider checking out our other projects:<\/p>\n<p><a href=\"https:\/\/wordpress.org\/plugins\/essential-addons-for-elementor-lite\/\" rel=\"ugc\">Essential Addons For Elementor<\/a> \u2013 Most popular Elementor widget library with 2 Million+ active users in the WordPress repository.<br \/>\n<a href=\"https:\/\/wordpress.org\/plugins\/notificationx\/\" rel=\"ugc\">NotificationX<\/a> \u2013 Best Social Proof &amp; FOMO Marketing Solution<br \/>\n<a href=\"https:\/\/wordpress.org\/plugins\/wp-scheduled-posts\/\" rel=\"ugc\">SchedulePress<\/a> \u2013 Complete solution for WordPress Post Scheduling to manage schedules through an editorial calendar.<br \/>\n<a href=\"https:\/\/wordpress.org\/plugins\/embedpress\/\" rel=\"ugc\">EmbedPress<\/a>&#8211; Embed videos, images, posts, audio, maps and upload PDF, DOC, PPT &amp; all other types of content into your WordPress site with one-click and showcase it beautifully for the visitors.<br \/>\n<a href=\"https:\/\/wordpress.org\/plugins\/templately\/\" rel=\"ugc\">Templately<\/a> Ultimate Template clouds with 5000+ ready templates for Elementor &amp; Gutenberg along with FREE cloud collaboration with your team.<\/p>\n<p>Visit <a href=\"https:\/\/wpdeveloper.com\" rel=\"nofollow ugc\">WPDeveloper<\/a> to learn more about how to do better in WordPress with <a href=\"https:\/\/wpdeveloper.com\/blog\" rel=\"nofollow ugc\">Help Tutorial, Tips &amp; Tricks<\/a>!<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.3.5.1.zip",
+    "upgrade_notice": {
+        "2.5.6": "<p>Attention! Please Backup your site before updating.<\/p>\n\n<p>The latest version of <strong>BetterDocs v2.5<\/strong> includes massive changes across different areas of the plugin with revamped code structure for optimized performance. We would highly recommend you to <a href=\"https:\/\/wpdeveloper.com\/backup-wordpress-site\/\">backup your entire site<\/a> before updating the plugin &amp; test it on your staging website. <a href=\"https:\/\/wpdeveloper.com\/support\/\">Contact our Support<\/a> if you encounter any kind of errors or if you need any kind of assistance.<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-1.png?rev=2598535",
+            "caption": ""
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-2.gif?rev=3007981",
+            "caption": ""
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-3.gif?rev=2773394",
+            "caption": ""
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-4.gif?rev=3007981",
+            "caption": ""
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-5.gif?rev=2773394",
+            "caption": ""
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-6.gif?rev=3007981",
+            "caption": ""
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-7.gif?rev=3007981",
+            "caption": ""
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-8.gif?rev=3007981",
+            "caption": ""
+        },
+        "9": {
+            "src": "https:\/\/ps.w.org\/betterdocs\/assets\/screenshot-9.gif?rev=3009820",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "docs": "docs",
+        "documentation": "documentation",
+        "faq": "faq",
+        "faq-page": "faq page",
+        "knowledge-base": "knowledge base"
+    },
+    "stable_tag": "3.5.1",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.0.1.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.1.0.zip",
+        "1.1.1": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.1.1.zip",
+        "1.1.2": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.1.2.zip",
+        "1.1.3": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.1.3.zip",
+        "1.1.4": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.1.4.zip",
+        "1.1.5": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.1.5.zip",
+        "1.1.6": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.1.6.zip",
+        "1.1.7": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.1.7.zip",
+        "1.1.8": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.1.8.zip",
+        "1.1.9": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.1.9.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.2.0.zip",
+        "1.2.1": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.2.1.zip",
+        "1.2.2": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.2.2.zip",
+        "1.2.3": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.2.3.zip",
+        "1.2.4": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.2.4.zip",
+        "1.2.5": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.2.5.zip",
+        "1.2.6": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.2.6.zip",
+        "1.3.0": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.3.0.zip",
+        "1.3.1": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.3.1.zip",
+        "1.3.2": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.3.2.zip",
+        "1.3.3": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.3.3.zip",
+        "1.3.4": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.3.4.zip",
+        "1.3.5": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.3.5.zip",
+        "1.4.0": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.4.0.zip",
+        "1.4.1": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.4.1.zip",
+        "1.4.2": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.4.2.zip",
+        "1.4.3": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.4.3.zip",
+        "1.5.0": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.5.0.zip",
+        "1.5.1": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.5.1.zip",
+        "1.5.2": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.5.2.zip",
+        "1.5.3": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.5.3.zip",
+        "1.5.4": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.5.4.zip",
+        "1.5.5": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.5.5.zip",
+        "1.5.6": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.5.6.zip",
+        "1.5.7": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.5.7.zip",
+        "1.6.0": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.6.0.zip",
+        "1.6.1": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.6.1.zip",
+        "1.7.0": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.7.0.zip",
+        "1.7.1": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.7.1.zip",
+        "1.7.2": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.7.2.zip",
+        "1.7.3": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.7.3.zip",
+        "1.7.4": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.7.4.zip",
+        "1.7.5": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.7.5.zip",
+        "1.7.6": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.7.6.zip",
+        "1.8.0": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.8.0.zip",
+        "1.8.1": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.8.1.zip",
+        "1.8.2": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.8.2.zip",
+        "1.8.3": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.8.3.zip",
+        "1.8.4": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.8.4.zip",
+        "1.9.0": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.9.0.zip",
+        "1.9.1": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.9.1.zip",
+        "1.9.2": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.9.2.zip",
+        "1.9.3": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.9.3.zip",
+        "1.9.4": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.9.4.zip",
+        "1.9.5": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.9.5.zip",
+        "1.9.6": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.9.6.zip",
+        "1.9.7": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.1.9.7.zip",
+        "2.0.0": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.0.0.zip",
+        "2.0.1": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.0.1.zip",
+        "2.0.10": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.0.10.zip",
+        "2.0.11": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.0.11.zip",
+        "2.0.12": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.0.12.zip",
+        "2.0.13": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.0.13.zip",
+        "2.0.14": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.0.14.zip",
+        "2.0.2": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.0.2.zip",
+        "2.0.3": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.0.3.zip",
+        "2.0.4": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.0.4.zip",
+        "2.0.5": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.0.5.zip",
+        "2.0.6": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.0.6.zip",
+        "2.0.7": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.0.7.zip",
+        "2.0.8": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.0.8.zip",
+        "2.0.9": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.0.9.zip",
+        "2.1.0": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.1.0.zip",
+        "2.1.1": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.1.1.zip",
+        "2.1.2": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.1.2.zip",
+        "2.1.3": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.1.3.zip",
+        "2.1.4": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.1.4.zip",
+        "2.1.5": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.1.5.zip",
+        "2.1.6": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.1.6.zip",
+        "2.2.0": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.2.0.zip",
+        "2.2.1": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.2.1.zip",
+        "2.2.2": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.2.2.zip",
+        "2.3.0": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.3.0.zip",
+        "2.3.1": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.3.1.zip",
+        "2.3.2": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.3.2.zip",
+        "2.3.3": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.3.3.zip",
+        "2.3.4": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.3.4.zip",
+        "2.3.5": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.3.5.zip",
+        "2.3.6": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.3.6.zip",
+        "2.3.7": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.3.7.zip",
+        "2.5.0": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.5.0.zip",
+        "2.5.1": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.5.1.zip",
+        "2.5.2": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.5.2.zip",
+        "2.5.3": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.5.3.zip",
+        "2.5.4": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.5.4.zip",
+        "2.5.5": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.5.5.zip",
+        "2.5.6": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.2.5.6.zip",
+        "3.0.0": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.3.0.0.zip",
+        "3.0.1": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.3.0.1.zip",
+        "3.0.2": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.3.0.2.zip",
+        "3.1.0": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.3.1.0.zip",
+        "3.2.0": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.3.2.0.zip",
+        "3.3.0": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.3.3.0.zip",
+        "3.3.1": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.3.3.1.zip",
+        "3.3.2": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.3.3.2.zip",
+        "3.3.3": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.3.3.3.zip",
+        "3.3.4": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.3.3.4.zip",
+        "3.4.0": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.3.4.0.zip",
+        "3.4.1": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.3.4.1.zip",
+        "3.4.2": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.3.4.2.zip",
+        "3.5.0": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.3.5.0.zip",
+        "3.5.1": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.3.5.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/betterdocs.zip"
+    },
+    "business_model": "commercial",
+    "repository_url": "",
+    "commercial_support_url": "https:\/\/wpdeveloper.com\/support\/",
+    "donate_link": "https:\/\/wpdeveloper.com",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/betterdocs\/assets\/banner-772x250.gif?rev=2773394",
+        "high": "https:\/\/ps.w.org\/betterdocs\/assets\/banner-1544x500.gif?rev=2773394"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/betterdocs\/assets\/icon-128x128.png?rev=2953105",
+        "2x": "https:\/\/ps.w.org\/betterdocs\/assets\/icon-256x256.png?rev=2953105"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": "22",
+    "author_block_rating": 88.5,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "betterdocs",
+            "language": "ar",
+            "version": "3.5.1",
+            "updated": "2024-01-05 22:38:39",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/betterdocs\/3.5.1\/ar.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "betterdocs",
+            "language": "bn_BD",
+            "version": "3.5.1",
+            "updated": "2023-02-06 11:58:24",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/betterdocs\/3.5.1\/bn_BD.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "betterdocs",
+            "language": "es_EC",
+            "version": "3.5.1",
+            "updated": "2021-12-14 10:39:54",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/betterdocs\/3.5.1\/es_EC.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "betterdocs",
+            "language": "es_CO",
+            "version": "3.5.1",
+            "updated": "2021-12-14 10:40:51",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/betterdocs\/3.5.1\/es_CO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "betterdocs",
+            "language": "es_MX",
+            "version": "3.5.1",
+            "updated": "2022-12-21 18:48:14",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/betterdocs\/3.5.1\/es_MX.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "betterdocs",
+            "language": "es_ES",
+            "version": "3.5.1",
+            "updated": "2023-12-15 10:18:15",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/betterdocs\/3.5.1\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "betterdocs",
+            "language": "es_VE",
+            "version": "3.5.1",
+            "updated": "2021-12-14 10:40:21",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/betterdocs\/3.5.1\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "betterdocs",
+            "language": "nl_BE",
+            "version": "3.5.1",
+            "updated": "2024-03-25 06:46:15",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/betterdocs\/3.5.1\/nl_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "betterdocs",
+            "language": "pt_BR",
+            "version": "3.5.1",
+            "updated": "2024-04-15 02:16:35",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/betterdocs\/3.5.1\/pt_BR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "betterdocs",
+            "language": "ru_RU",
+            "version": "3.5.1",
+            "updated": "2024-03-31 11:27:37",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/betterdocs\/3.5.1\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "betterdocs",
+            "language": "tr_TR",
+            "version": "3.5.1",
+            "updated": "2021-12-19 11:11:23",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/betterdocs\/3.5.1\/tr_TR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "betterdocs",
+            "language": "zh_CN",
+            "version": "3.5.1",
+            "updated": "2023-12-10 15:44:14",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/betterdocs\/3.5.1\/zh_CN.zip"
+        }
+    ]
+}

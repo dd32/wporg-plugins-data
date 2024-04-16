@@ -1,0 +1,109 @@
+{
+    "name": "Plugin de Clip para WooCommerce",
+    "slug": "clip-for-woocommerce",
+    "version": "1.1.0",
+    "author": "<a href=\"https:\/\/www.clip.mx\/\">Clip<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/payclip\/",
+    "contributors": {
+        "payclip": {
+            "profile": "https:\/\/profiles.wordpress.org\/payclip\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/f28ac7cc9317d20c81f6d9b643c2e895?s=96&d=monsterid&r=g",
+            "display_name": "payclip"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.2.5",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 80,
+    "ratings": {
+        "5": 3,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 1
+    },
+    "num_ratings": 4,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/clip-for-woocommerce\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 800,
+    "downloaded": 5729,
+    "last_updated": "2024-03-21 3:02pm GMT",
+    "added": "2023-02-28",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Potencializa tus ventas con el Plugin de Checkout Clip desde tu tienda en l\u00ednea en WooCommerce; es f\u00e1cil, r\u00e1pido y seguro y acepta todas las tarjetas de cr\u00e9dito y d\u00e9bito, as\u00ed como pagos en efectivo en tiendas de conveniencia participantes.<\/p>\n<p>Simplifica la experiencia de compra en tu sitio web y acepta todos los m\u00e9todos de pago de forma segura y con el respaldo de Todo el poder de Clip y sus m\u00e1s de 20 beneficios para tu negocio como:<\/p>\n<ul>\n<li>F\u00e1cil y r\u00e1pida instalaci\u00f3n<\/li>\n<li>Tecnologia antifraude.<\/li>\n<li>Ofrece facilidades de pago a tus clientes con hasta 24 Meses sin Intereses<\/li>\n<li>Recibe tus ganancias en 24 horas, los 365 d\u00edas del a\u00f1o, incluso en fines de semana y d\u00edas festivos.<\/li>\n<li>Servicio de atenci\u00f3n a clientes de clase mundial disponible 24\/7, todo el a\u00f1o.<\/li>\n<\/ul>\n<p>\u00bfNecesitas ayuda?<\/p>\n<p>Puedes consultar todos los detalles en nuestra documentaci\u00f3n oficial del Plugin de Clip o ir a nuestro centro de atenci\u00f3n a clientes, Customer Happiness\u00ae, donde te atiende 24\/7, todo el a\u00f1o. Tambi\u00e9n puedes escribirnos por WhatsApp o ll\u00e1manos al 556393-2323, env\u00edar un correo a help@clip.mx o solicita apoyo en el chat de clip.mx.<\/p>\n<p>As\u00edDeF\u00e1cil<\/p>\n",
+        "installation": "<p>Requisitos t\u00e9cnicos m\u00ednimos<\/p>\n<p>Para instalar este plugin deber\u00e1s contar con:<\/p>\n<ul>\n<li>PHP 7.4 o superior    <\/li>\n<li>WordPress 5.0 o superior<\/li>\n<li>WooCommerce 4.0 o superior<\/li>\n<li>Contar con una cuenta en Clip<\/li>\n<\/ul>\n<p>Comienza en unos pocos minutos<\/p>\n<p>Puedes instalar el plugin de manera autom\u00e1tica o manual:<\/p>\n<p>Manera autom\u00e1tica<\/p>\n<ol>\n<li>Desde el administrador de WordPress, selecciona \u201cPlugins\u201d&#8211;&gt;\u201dA\u00f1adir nuevo\u201d.<\/li>\n<li>En el buscador de Plugins escribe \u201cClip\u201d y presiona Enter<\/li>\n<li>Selecciona nuestro Plugin y da click en \u201cInstalar ahora\u201d.<\/li>\n<li>Una vez instalado ser\u00e1s redirigido a la p\u00e1gina de Onboarding para configurar tu cuenta de Clip.<\/li>\n<li>Realiza las configuraciones del plugin y gu\u00e1rdalas.<br \/>\n\u00a1Listo!<\/li>\n<\/ol>\n<p>Manera Manual<\/p>\n<ol>\n<li>Descarga el archivo .zip en esta misma p\u00e1gina en el bot\u00f3n \u201cdescargar\u201d o encuentralo en nuestra documentaci\u00f3n.<\/li>\n<li>Ingresa al administrador de WordPress selecciona \u201cPlugins\u201d&#8211;&gt;\u201dA\u00f1adir nuevo\u201d.<\/li>\n<li>En la parte superior selecciona \u201cSubir Plugin\u201d<\/li>\n<li>Selecciona el archivo .zip guardado previamente en tu computadora y selecciona el bot\u00f3n \u201cInstalar ahora\u201d.<\/li>\n<li>Luego al dar click en \u201cActivar\u201d ser\u00e1s redirigido a la p\u00e1gina de Onboarding para configurar tu cuenta de Clip.<\/li>\n<li>Finalmente dir\u00edgete a la secci\u00f3n de \u201cWoocommerce\u201d&#8211;&gt;\u201dAjustes\u201d y realiza las configuraciones que desees.<br \/>\n\u00a1Listo!<\/li>\n<\/ol>\n<p>Puedes encontrar video tutoriales en nuestra documentaci\u00f3n de Plugin de WooCommerce.<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/clip-for-woocommerce\/assets\/screenshot-1.png?rev=2898870\"><img src=\"https:\/\/ps.w.org\/clip-for-woocommerce\/assets\/screenshot-1.png?rev=2898870\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/clip-for-woocommerce\/assets\/screenshot-2.png?rev=2898870\"><img src=\"https:\/\/ps.w.org\/clip-for-woocommerce\/assets\/screenshot-2.png?rev=2898870\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/clip-for-woocommerce\/assets\/screenshot-3.png?rev=2898870\"><img src=\"https:\/\/ps.w.org\/clip-for-woocommerce\/assets\/screenshot-3.png?rev=2898870\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/clip-for-woocommerce\/assets\/screenshot-4.png?rev=2898870\"><img src=\"https:\/\/ps.w.org\/clip-for-woocommerce\/assets\/screenshot-4.png?rev=2898870\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">SI DESEAS PERDER DINERO USA CLIP MX<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/diabeticosstore\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/651d6d521ead8288260931db8f89f65d?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/651d6d521ead8288260931db8f89f65d?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/diabeticosstore\/\" class=\"reviewer-name\">diabeticosstore<\/a> on <span class=\"review-date\">February 1, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Mi experiencia con el plugin Clip ha sido decepcionante y desalentadora. Despu\u00e9s de utilizar la plataforma durante mas de un a\u00f1o y realizar transacciones por m\u00e1s de 250 mil pesos, me encontr\u00e9 en la desafortunada situaci\u00f3n de ser v\u00edctima de dos operaciones fraudulentas. A pesar de haber reclamado y presentado evidencias con un total de aproximado a 7000 pesos, Clip no proporcion\u00f3 la protecci\u00f3n esperada para el vendedor.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">La falta de cobertura y apoyo por parte de Clip en estas situaciones ha dejado una impresi\u00f3n muy negativa en mi experiencia como usuario me hicieron esperar por un periodo de 100 d\u00edas para poder dar una respuesta al final negativa. A pesar de cumplir con sus requisitos y utilizar la plataforma de manera regular, En resum\u00e9n quedas desprotegido y vulnerable como vendedor. La incapacidad de Clip para salvaguardar mi dinero despu\u00e9s de haber confiado en ellos durante tanto tiempo es inaceptable.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Si est\u00e1s considerando utilizar Clip para tus transacciones como WooCommerce, te aconsejar\u00eda reconsiderarlo seriamente. La falta de una protecci\u00f3n efectiva para el vendedor, especialmente despu\u00e9s de alcanzar una cifra considerable en transacciones, hace que la plataforma no sea una opci\u00f3n confiable. Es m\u00e1s prudente buscar alternativas que brinden una seguridad m\u00e1s s\u00f3lida y una protecci\u00f3n adecuada para los vendedores. No vale la pena arriesgar tu dinero y tranquilidad utilizando esta plataforma llamada Clip MX. JAMAS LA RECOMENDARIA<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Actualizaci\u00f3n 1.0.6 no captura datos importantes de orden<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/ictmx\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/4a02339af5bfb140438d903ce0d98711?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/4a02339af5bfb140438d903ce0d98711?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/ictmx\/\" class=\"reviewer-name\">ictmx<\/a> on <span class=\"review-date\">July 22, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">En la versi\u00f3n 1.0.1 (con la que inici\u00e9 mi tienda) se transmit\u00eda a Clip detalles de la orden (ejemplo: Shop at tienda.scout.org.mx #344) al campo \"Concepto\", este dato es importante ya que para los pagos en efectivo (tienda de conveniencia) era una manera f\u00e1cil de conciliar de manera manual las ordenes pagadas por esa via.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">En la versi\u00f3n 1.0.6 en el concepto solo pone \"Compra en tienda\", aunque hay otro campo llamado \"Referencia\" donde se refleja algo del n\u00famero de orden de WooCommerce solo se registra para pagos con tarjeta, m\u00e1s o menos contiene algo as\u00ed: WC415-764be-333-4a8-9ed-f175c7340, donde WC415 hace referencia a la orden. Para los pagos en efectivo este campo el plugin 1.0.6 lo deja vac\u00edo.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Espero puedan regresar la nota de la orden al campo de \"Concepto\" tal como la versi\u00f3n 1.0.1. Por el momento tuve que degradar mi tienda a la 1.0.1 ya que de otra manera no hay forma de conciliar los pagos hechos en tienda de conveniencia contra los pedidos de WooCommerce.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Gracias.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">No funciona<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/erickonavarro\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e8f33706d0082797b56b3c7c80add299?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e8f33706d0082797b56b3c7c80add299?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/erickonavarro\/\" class=\"reviewer-name\">erickonavarro<\/a> on <span class=\"review-date\">May 5, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Por alguna raz\u00f3n la primera vez que intent\u00e9 implementarla no me funcionaba, pero el soporte me contact\u00f3 directamente despu\u00e9s de contactarlos por aqu\u00ed en Wordpress y me resolvieron el problema. Agradezco la atenci\u00f3n y ya me funciona bien el plugin<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Clip Review<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/payclip\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f28ac7cc9317d20c81f6d9b643c2e895?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f28ac7cc9317d20c81f6d9b643c2e895?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/payclip\/\" class=\"reviewer-name\">payclip<\/a> on <span class=\"review-date\">March 16, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Ofrece a tus clientes pagos con todas las tarjetas, incluso efectivo y obt\u00e9n tus dep\u00f3sitos en 24 horas con el plugin oficial de Clip.",
+    "description": "<p>Potencializa tus ventas con el Plugin de Checkout Clip desde tu tienda en l\u00ednea en WooCommerce; es f\u00e1cil, r\u00e1pido y seguro y acepta todas las tarjetas de cr\u00e9dito y d\u00e9bito, as\u00ed como pagos en efectivo en tiendas de conveniencia participantes.<\/p>\n<p>Simplifica la experiencia de compra en tu sitio web y acepta todos los m\u00e9todos de pago de forma segura y con el respaldo de Todo el poder de Clip y sus m\u00e1s de 20 beneficios para tu negocio como:<\/p>\n<ul>\n<li>F\u00e1cil y r\u00e1pida instalaci\u00f3n<\/li>\n<li>Tecnologia antifraude.<\/li>\n<li>Ofrece facilidades de pago a tus clientes con hasta 24 Meses sin Intereses<\/li>\n<li>Recibe tus ganancias en 24 horas, los 365 d\u00edas del a\u00f1o, incluso en fines de semana y d\u00edas festivos.<\/li>\n<li>Servicio de atenci\u00f3n a clientes de clase mundial disponible 24\/7, todo el a\u00f1o.<\/li>\n<\/ul>\n<p>\u00bfNecesitas ayuda?<\/p>\n<p>Puedes consultar todos los detalles en nuestra documentaci\u00f3n oficial del Plugin de Clip o ir a nuestro centro de atenci\u00f3n a clientes, Customer Happiness\u00ae, donde te atiende 24\/7, todo el a\u00f1o. Tambi\u00e9n puedes escribirnos por WhatsApp o ll\u00e1manos al 556393-2323, env\u00edar un correo a help@clip.mx o solicita apoyo en el chat de clip.mx.<\/p>\n<p>As\u00edDeF\u00e1cil<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/clip-for-woocommerce.1.1.0.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/clip-for-woocommerce\/assets\/screenshot-1.png?rev=2898870",
+            "caption": ""
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/clip-for-woocommerce\/assets\/screenshot-2.png?rev=2898870",
+            "caption": ""
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/clip-for-woocommerce\/assets\/screenshot-3.png?rev=2898870",
+            "caption": ""
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/clip-for-woocommerce\/assets\/screenshot-4.png?rev=2898870",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "woocommerce": "woocommerce"
+    },
+    "stable_tag": "1.1.0",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/clip-for-woocommerce.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/clip-for-woocommerce.1.0.1.zip",
+        "1.0.14": "https:\/\/downloads.wordpress.org\/plugin\/clip-for-woocommerce.1.0.14.zip",
+        "1.0.16": "https:\/\/downloads.wordpress.org\/plugin\/clip-for-woocommerce.1.0.16.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/clip-for-woocommerce.1.0.2.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/clip-for-woocommerce.1.0.4.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/clip-for-woocommerce.1.0.5.zip",
+        "1.0.6": "https:\/\/downloads.wordpress.org\/plugin\/clip-for-woocommerce.1.0.6.zip",
+        "1.0.7": "https:\/\/downloads.wordpress.org\/plugin\/clip-for-woocommerce.1.0.7.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/clip-for-woocommerce.1.1.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/clip-for-woocommerce.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/clip-for-woocommerce\/assets\/banner-772x250.png?rev=2914449",
+        "high": "https:\/\/ps.w.org\/clip-for-woocommerce\/assets\/banner-1544x500.png?rev=2914449"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/clip-for-woocommerce\/assets\/icon-128x128.png?rev=2872712",
+        "2x": "https:\/\/ps.w.org\/clip-for-woocommerce\/assets\/icon-256x256.png?rev=2872712"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 80,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "clip-for-woocommerce",
+            "language": "es_MX",
+            "version": "1.1.0",
+            "updated": "2023-08-25 15:39:50",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/clip-for-woocommerce\/1.1.0\/es_MX.zip"
+        }
+    ]
+}

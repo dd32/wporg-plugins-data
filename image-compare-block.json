@@ -1,0 +1,180 @@
+{
+    "name": "Beaf &#8211; Photo Comparison Block",
+    "slug": "image-compare-block",
+    "version": "1.6.0",
+    "author": "<a href=\"https:\/\/gutenbergkits.com\">Gutenbergkits<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/binsaifullah\/",
+    "contributors": {
+        "binsaifullah": {
+            "profile": "https:\/\/profiles.wordpress.org\/binsaifullah\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/e28c06c1e6407d5650d9e766496315f1?s=96&d=monsterid&r=g",
+            "display_name": "Binsaifullah"
+        }
+    },
+    "requires": "5.7",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 76,
+    "ratings": {
+        "5": 2,
+        "4": 1,
+        "3": 0,
+        "2": 0,
+        "1": 1
+    },
+    "num_ratings": 4,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/image-compare-block\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 600,
+    "downloaded": 3417,
+    "last_updated": "2024-02-04 4:16pm GMT",
+    "added": "2021-10-01",
+    "homepage": "",
+    "sections": {
+        "description": "<p><strong>Beaf<\/strong> is a custom Gutenberg Block based plugin that is developed with <strong>Gutenberg Native Components<\/strong>. You can easily showcase the <strong>Photo Comparison<\/strong>. It comes with  different styles and settings so that you can easily customize it as per your needs. It is a lite version of Beaf Pro. To get more features and options, you can check the <a href=\"https:\/\/beaf.gutenbergkits.com\" rel=\"nofollow ugc\">Beaf Pro<\/a>.<\/p>\n<h3>Overview<\/h3>\n<ul>\n<li><a href=\"https:\/\/beaf.gutenbergkits.com\/demos\" rel=\"nofollow ugc\">See Demos<\/a><\/li>\n<li><a href=\"https:\/\/beaf.gutenbergkits.com\" rel=\"nofollow ugc\">Get Beaf Pro<\/a><\/li>\n<\/ul>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/OylHrkczwK4?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n<h3>Key Features<\/h3>\n<ul>\n<li>Simple, light-weight, and super-fast<\/li>\n<li><strong>Built with only Gutenberg Native Components<\/strong><\/li>\n<li><strong>No Block Builder at all<\/strong><\/li>\n<li><strong>100% Responsive<\/strong><\/li>\n<li><strong>Horizontal &amp; Vertical View<\/strong><\/li>\n<li>Images Comparison Options\n<ul>\n<li><strong>Before &amp; After Label<\/strong><\/li>\n<li><strong>Comparison start on Hover<\/strong><\/li>\n<li><strong>Horizontal &amp; Vertical Comparison<\/strong><\/li>\n<\/ul>\n<\/li>\n<li>Easy to Use in Gutenberg Editor<\/li>\n<li><strong>Drag &amp; Drop Use<\/strong><\/li>\n<li>No jQuery dependency<\/li>\n<\/ul>\n<h4>Beaf Pro features<\/h4>\n<ul>\n<li>3 Content Types (Image, Video, Iframe &#8211; Google Map)<\/li>\n<li>Custom Label Styles<\/li>\n<li>Custom Label Position<\/li>\n<li>Custom Label Typography<\/li>\n<li>Labels Animation Options<\/li>\n<li>Custom Comparison Starting Point <\/li>\n<li>Custom Comparison Line<\/li>\n<li>Custom Comparison Line Color<\/li>\n<li>Custom Comparison Line Thickness<\/li>\n<li>Custom Caption for beaf slider<\/li>\n<\/ul>\n<p><strong>Beaf Pro<\/strong> is a premium version of Beaf. You can get more features and options in Beaf Pro. <a href=\"https:\/\/beaf.gutenbergkits.com\" rel=\"nofollow ugc\">Get Beaf Pro<\/a><\/p>\n",
+        "installation": "<p>This section describes how to install the plugin and get it working.<\/p>\n<p>e.g.<\/p>\n<ol>\n<li>Upload the plugin files to the <code>\/wp-content\/plugins\/image-compare-block<\/code> directory, or install the plugin through the WordPress plugins screen directly.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; screen in WordPress<\/li>\n<li>Simply go to Gutenberg Block Editor and you will find a new block at Media Category named &#8220;Image Compare&#8221;<\/li>\n<li>Drag and drop to use it.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='what%20is%20beaf%20slider%3F'>\nWhat is Beaf Slider?\n<\/h4>\n<p>\n<p>Beaf slider means Before and After Slider. It is a slider that showcases the before and after comparison between two images, videos, or iframes.<\/p>\n<\/p>\n<dt id='what%20is%20beaf%20pro%3F'>\nWhat is Beaf Pro?\n<\/h4>\n<p>\n<p>Beaf Pro is a premium version of Beaf. You can get more features and options in Beaf Pro. <a href=\"https:\/\/beaf.gutenbergkits.com\" rel=\"nofollow ugc\">Get Beaf Pro<\/a><\/p>\n<\/p>\n<dt id='how%20to%20upgrade%20to%20beaf%20pro%3F'>\nHow to upgrade to Beaf Pro?\n<\/h4>\n<p>\n<p>Beaf Pro is the premium version of Beaf and it comes with a complete set of features and options. It is completely a separate plugin. You can simply deactivate the Beaf and install Beaf Pro. Then, you can start using it.<\/p>\n<\/p>\n<dt id='is%20it%20compatible%20with%20the%20latest%20wordpress%20version%3F'>\nIs it compatible with the latest WordPress version?\n<\/h4>\n<p>\n<p>Yes, it is compatible with the latest WordPress version.<\/p>\n<\/p>\n<dt id='is%20it%20responsive%3F'>\nIs it responsive?\n<\/h4>\n<p>\n<p>Sure, it is 100% Responsive<\/p>\n<\/p>\n<dt id='have%20you%20used%20any%20block%20builder%3F'>\nHave you used any block builder?\n<\/h4>\n<p>\n<p>No, it is built with 100% Gutenberg Native Components only.<\/p>\n<\/p>\n<dt id='how%20can%20i%20use%20it%3F'>\nHow can I use it?\n<\/h4>\n<p>\n<p>Please follow the video tutorial to see the uses of it.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.6.0<\/h4>\n<ul>\n<li>Beaf Pro is now available<\/li>\n<li>Labels position issue fixed<\/li>\n<li>Admin page updated<\/li>\n<\/ul>\n<p>1.5.0 &#8211; Checking Compatibility with the Latest WordPress version<br \/>\n1.0.0 &#8211; Initial Release<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/image-compare-block\/assets\/screenshot-1.jpg?rev=2607994\"><img src=\"https:\/\/ps.w.org\/image-compare-block\/assets\/screenshot-1.jpg?rev=2607994\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/image-compare-block\/assets\/screenshot-2.jpg?rev=2607994\"><img src=\"https:\/\/ps.w.org\/image-compare-block\/assets\/screenshot-2.jpg?rev=2607994\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/image-compare-block\/assets\/screenshot-3.jpg?rev=2607994\"><img src=\"https:\/\/ps.w.org\/image-compare-block\/assets\/screenshot-3.jpg?rev=2607994\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/image-compare-block\/assets\/screenshot-4.jpg?rev=2607994\"><img src=\"https:\/\/ps.w.org\/image-compare-block\/assets\/screenshot-4.jpg?rev=2607994\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">i like it! But...<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/wotography\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/a56993efa74723e035db690617fdb519?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/a56993efa74723e035db690617fdb519?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/wotography\/\" class=\"reviewer-name\">wotography<\/a> on <span class=\"review-date\">February 13, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">...the plugin always shows a message on every page in the dashboard asking for consent to some data colelction. I dont want it and I apreciate that you probably dont just take it anyway. But I dont't like that I can't say no. I can skip the message and in the next milisecond it will eppear right away again. ... maybe consider fixing this. its annoying!<br \/>I will definitly change this review once its fixed!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Simple and easy<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"4 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"4\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/maltmann\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b5777f4505ef251a27dca4a9951b9a17?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b5777f4505ef251a27dca4a9951b9a17?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/maltmann\/\" class=\"reviewer-name\">maltmann<\/a> on <span class=\"review-date\">January 8, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Basic block settings, that just work.<br \/><br \/>I tried another plugin first that had way more options, but lagged very badly on iPhone.<br \/><br \/>After adding this block (into columns) I can't select it again to edit by clicking on it directly, just via the block list. Clicking it directly just moves the split bar. That should be fixed.<br \/>(Mac, Safari, WP 6.4.2, Gutenberg)<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Best Image Comparison Plugin Out There<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/54days\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e2c1b0a1bacf0366346b431309e485b3?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e2c1b0a1bacf0366346b431309e485b3?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/54days\/\" class=\"reviewer-name\">54days<\/a> on <span class=\"review-date\">June 19, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">It works perfectly, and has lots of customization options. I am really surprised that it is not more popular. Works perfectly in Gutenberg without any issues. I hope the developer keeps actively updating this plugin because it is perfect<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Better than the Competition, Just Works and does not cause CLS Problems<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jestmurdermystery\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/862a8b4b61146d42ea736e9a428a7b7b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/862a8b4b61146d42ea736e9a428a7b7b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jestmurdermystery\/\" class=\"reviewer-name\">James <small>(jestmurdermystery)<\/small><\/a> on <span class=\"review-date\">November 22, 2021<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">This plugin does one thing and it does it better than all the rest! I tried the image compare block included with Jetpack and it caused CLS (Cumulative Layout Shift) Issues on my page. I tried Two other plugins offering image comparison blocks with the same issue. This one just works! Also allows you to change the images once you add the block which the Jetpack block did not.\n\nHope the developer keeps it updated and it becomes the go to image comparison widget!<\/div>\n<\/div>\n"
+    },
+    "short_description": "Beaf is a Gutenberg Block developed with Gutenberg Native Components to showcase photo Comparison with different styles.",
+    "description": "<p><strong>Beaf<\/strong> is a custom Gutenberg Block based plugin that is developed with <strong>Gutenberg Native Components<\/strong>. You can easily showcase the <strong>Photo Comparison<\/strong>. It comes with  different styles and settings so that you can easily customize it as per your needs. It is a lite version of Beaf Pro. To get more features and options, you can check the <a href=\"https:\/\/beaf.gutenbergkits.com\" rel=\"nofollow ugc\">Beaf Pro<\/a>.<\/p>\n<h3>Overview<\/h3>\n<ul>\n<li><a href=\"https:\/\/beaf.gutenbergkits.com\/demos\" rel=\"nofollow ugc\">See Demos<\/a><\/li>\n<li><a href=\"https:\/\/beaf.gutenbergkits.com\" rel=\"nofollow ugc\">Get Beaf Pro<\/a><\/li>\n<\/ul>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/OylHrkczwK4?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n<h3>Key Features<\/h3>\n<ul>\n<li>Simple, light-weight, and super-fast<\/li>\n<li><strong>Built with only Gutenberg Native Components<\/strong><\/li>\n<li><strong>No Block Builder at all<\/strong><\/li>\n<li><strong>100% Responsive<\/strong><\/li>\n<li><strong>Horizontal &amp; Vertical View<\/strong><\/li>\n<li>Images Comparison Options\n<ul>\n<li><strong>Before &amp; After Label<\/strong><\/li>\n<li><strong>Comparison start on Hover<\/strong><\/li>\n<li><strong>Horizontal &amp; Vertical Comparison<\/strong><\/li>\n<\/ul>\n<\/li>\n<li>Easy to Use in Gutenberg Editor<\/li>\n<li><strong>Drag &amp; Drop Use<\/strong><\/li>\n<li>No jQuery dependency<\/li>\n<\/ul>\n<h4>Beaf Pro features<\/h4>\n<ul>\n<li>3 Content Types (Image, Video, Iframe &#8211; Google Map)<\/li>\n<li>Custom Label Styles<\/li>\n<li>Custom Label Position<\/li>\n<li>Custom Label Typography<\/li>\n<li>Labels Animation Options<\/li>\n<li>Custom Comparison Starting Point <\/li>\n<li>Custom Comparison Line<\/li>\n<li>Custom Comparison Line Color<\/li>\n<li>Custom Comparison Line Thickness<\/li>\n<li>Custom Caption for beaf slider<\/li>\n<\/ul>\n<p><strong>Beaf Pro<\/strong> is a premium version of Beaf. You can get more features and options in Beaf Pro. <a href=\"https:\/\/beaf.gutenbergkits.com\" rel=\"nofollow ugc\">Get Beaf Pro<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/image-compare-block.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/image-compare-block\/assets\/screenshot-1.jpg?rev=2607994",
+            "caption": ""
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/image-compare-block\/assets\/screenshot-2.jpg?rev=2607994",
+            "caption": ""
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/image-compare-block\/assets\/screenshot-3.jpg?rev=2607994",
+            "caption": ""
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/image-compare-block\/assets\/screenshot-4.jpg?rev=2607994",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "beaf-slider": "beaf slider",
+        "before-after-slider": "before after slider",
+        "gutenberg-block": "Gutenberg block",
+        "image-comparison": "image comparison",
+        "photo-comparison": "photo comparison"
+    },
+    "stable_tag": "trunk",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/image-compare-block.1.0.0.zip",
+        "1.5.0": "https:\/\/downloads.wordpress.org\/plugin\/image-compare-block.1.5.0.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/makegutenblock.com\/contact",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/image-compare-block\/assets\/banner-772x250.png?rev=2607994",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/image-compare-block\/assets\/icon-256x256.png?rev=2607994",
+        "2x": "https:\/\/ps.w.org\/image-compare-block\/assets\/icon-256x256.png?rev=2607994"
+    },
+    "blocks": {
+        "icgb\/image-compare": {
+            "apiVersion": 2,
+            "name": "icgb\/image-compare",
+            "version": "0.1.0",
+            "title": "Photo Comparison",
+            "category": "media",
+            "description": "Showcase Images Comparision with different styles",
+            "supports": {
+                "html": false,
+                "anchor": true
+            },
+            "keywords": [
+                "image",
+                "compare",
+                "compare images",
+                "image compare",
+                "image comparison"
+            ],
+            "example": {
+                "attributes": {
+                    "beforeImageUrl": "https:\/\/i.postimg.cc\/v8WNPMGL\/home-before.jpg",
+                    "afterImageUrl": "https:\/\/i.postimg.cc\/m2B6JqDx\/home-after.jpg"
+                }
+            },
+            "attributes": {
+                "beforeImageUrl": {
+                    "type": "string"
+                },
+                "beforeImageAlt": {
+                    "type": "string"
+                },
+                "beforeImageId": {
+                    "type": "number"
+                },
+                "afterImageUrl": {
+                    "type": "string"
+                },
+                "afterImageAlt": {
+                    "type": "string"
+                },
+                "afterImageId": {
+                    "type": "number"
+                },
+                "verticalMode": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "hover": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "showLabel": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "leftImageLabel": {
+                    "type": "string",
+                    "default": "Before"
+                },
+                "rightImageLabel": {
+                    "type": "string",
+                    "default": "After"
+                }
+            },
+            "textdomain": "image-comparision-block",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css"
+        }
+    },
+    "block_assets": [
+        "\/trunk\/build\/image-comparision\/index.js",
+        "\/trunk\/build\/image-comparision\/index.css",
+        "\/trunk\/build\/image-comparision\/style-index.css"
+    ],
+    "author_block_count": "5",
+    "author_block_rating": 92,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "image-compare-block",
+            "language": "cs_CZ",
+            "version": "1.6.0",
+            "updated": "2023-04-03 09:13:32",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/image-compare-block\/1.6.0\/cs_CZ.zip"
+        }
+    ]
+}

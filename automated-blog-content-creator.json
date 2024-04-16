@@ -1,0 +1,88 @@
+{
+    "name": "WP-AutoInsight &#8211; (former Automated Blog Content Creator)",
+    "slug": "automated-blog-content-creator",
+    "version": "1.4",
+    "author": "<a href=\"https:\/\/phalkmin.me\/\">Paulo H. Alkmin<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/phalkmin\/",
+    "contributors": {
+        "phalkmin": {
+            "profile": "https:\/\/profiles.wordpress.org\/phalkmin\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/a8070c4ae696342efaecb04c215305d3?s=96&d=monsterid&r=g",
+            "display_name": "phalkmin"
+        }
+    },
+    "requires": "5.8",
+    "tested": "6.4.4",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/automated-blog-content-creator\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 10,
+    "downloaded": 622,
+    "last_updated": "2024-02-23 2:04pm GMT",
+    "added": "2023-06-09",
+    "homepage": "",
+    "sections": {
+        "description": "<p>The Automated Blog Content Creator plugin allows you to automatically generate blog posts using the power of the OpenAI API. With this plugin, you can harness the capabilities of ChatGPT to create SEO-focused articles on your WordPress site. Simply provide a set of keywords or subjects, and the plugin will generate engaging content for you.<\/p>\n<p>Features:<\/p>\n<ul>\n<li>Seamless integration with the OpenAI API.<\/li>\n<li>Automatically generates blog posts based on specified keywords.<\/li>\n<li>Customizable character limit for generated posts.<\/li>\n<li>Ability to generate images related to the content.<\/li>\n<li>Supports Gutenberg blocks for easy content formatting.<\/li>\n<li>Option for daily automatic post creation.<\/li>\n<li>AJAX-powered manual post creation.<\/li>\n<li>Translatable strings for internationalization.<\/li>\n<\/ul>\n",
+        "installation": "<ol>\n<li>Upload the <code>openai-api-blog-post-creator<\/code> directory to the <code>\/wp-content\/plugins\/<\/code> directory, or install the plugin through the WordPress plugins screen directly.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; screen in WordPress.<\/li>\n<li>Use the &#8216;OpenAI Blog Post&#8217; menu in the WordPress admin sidebar to configure the plugin settings.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='how%20do%20i%20get%20an%20openai%20api%20key%3F'>\nHow do I get an OpenAI API key?\n<\/h4>\n<p>\n<p>To use the OpenAI API, you need to sign up for an API key on the OpenAI website. Visit the OpenAI website and follow the instructions to obtain an API key.<\/p>\n<\/p>\n<dt id='how%20can%20i%20specify%20the%20subjects%20or%20keywords%20for%20generating%20blog%20posts%3F'>\nHow can I specify the subjects or keywords for generating blog posts?\n<\/h4>\n<p>\n<p>In the plugin settings, you can enter a list of subjects or keywords separated by line breaks. The generated blog posts will be focused on these subjects.<\/p>\n<\/p>\n<dt id='can%20i%20customize%20the%20maximum%20character%20limit%20for%20generated%20posts%3F'>\nCan I customize the maximum character limit for generated posts?\n<\/h4>\n<p>\n<p>Yes, you can specify the maximum character limit for the generated posts in the plugin settings. The default limit is 200 characters.<\/p>\n<\/p>\n<dt id='can%20the%20plugin%20automatically%20create%20blog%20posts%3F'>\nCan the plugin automatically create blog posts?\n<\/h4>\n<p>\n<p>Yes, the plugin provides an option for daily automatic post creation. When enabled, it will generate and save new blog posts based on the specified keywords.<\/p>\n<\/p>\n<dt id='how%20can%20i%20manually%20generate%20a%20blog%20post%3F'>\nHow can I manually generate a blog post?\n<\/h4>\n<p>\n<p>You can manually generate a blog post by clicking the &#8220;Create post manually&#8221; button on the plugin settings page. This will trigger an AJAX request to generate a new post.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.4<\/h4>\n<ul>\n<li>Added\n<ul>\n<li>Gemini API &#8211; Now you can use Google AI to create your posts!<\/li>\n<li>A tone selector so you can define how the post should be written.<\/li>\n<\/ul>\n<\/li>\n<li>Changed\n<ul>\n<li>Now it&#8217;s possible to use wp-config variables to store the OpenAI and GeminiAI API keys. It&#8217;s more secure than storing them in the database;<\/li>\n<li>The admin menu and form was remade, so it&#8217;s easier to work and don&#8217;t get lost on so many options;<\/li>\n<li>Minor changes for better usage;<\/li>\n<\/ul>\n<\/li>\n<\/ul>\n<h4>1.0<\/h4>\n<ul>\n<li>\n<p>Added<\/p>\n<ul>\n<li>Implemented image generation using OpenAI&#8217;s DALL-E model based on provided prompts and keywords.<\/li>\n<li>Introduced the option to select categories for posts, allowing users to specify relevant categories for generated content.<\/li>\n<li>Provided an option to receive email notifications when a new post is created automatically.<\/li>\n<\/ul>\n<\/li>\n<li>\n<p>Changed<\/p>\n<ul>\n<li>Refactored code for better readability, modularity, and maintainability.<\/li>\n<li>Updated UI\/UX for the settings page to improve user experience.<\/li>\n<li>Better scheduled post generation feature, allowing users to schedule automatic post creation at hourly, daily, or weekly intervals.<\/li>\n<li>Revised error handling and logging mechanisms for smoother operation.<\/li>\n<\/ul>\n<\/li>\n<li>\n<p>Fixed<\/p>\n<ul>\n<li>Resolved issues related to API key validation and error handling.<\/li>\n<li>Fixed bugs and glitches reported by users in the previous version.<\/li>\n<\/ul>\n<\/li>\n<\/ul>\n<h4>0.9<\/h4>\n<ul>\n<li>Bug Fixes, Quality of life updates &#8211; Expect 1.0 in a few days<\/li>\n<\/ul>\n<h4>0.8<\/h4>\n<ul>\n<li>WordPress Review Guidelines fixes<\/li>\n<\/ul>\n<h4>0.5<\/h4>\n<ul>\n<li>Initial release.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/automated-blog-content-creator\/assets\/screenshot-1.png?rev=3026788\"><img src=\"https:\/\/ps.w.org\/automated-blog-content-creator\/assets\/screenshot-1.png?rev=3026788\" alt=\"Plugin settings page - Configure API key, keywords, and other options.\"><\/a><p>Plugin settings page - Configure API key, keywords, and other options.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/automated-blog-content-creator\/assets\/screenshot-2.png?rev=3026788\"><img src=\"https:\/\/ps.w.org\/automated-blog-content-creator\/assets\/screenshot-2.png?rev=3026788\" alt=\"Example generated blog post using Gutenberg blocks.\"><\/a><p>Example generated blog post using Gutenberg blocks.<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Create blog posts automatically using the OpenAI and Gemini APIs!",
+    "description": "<p>The Automated Blog Content Creator plugin allows you to automatically generate blog posts using the power of the OpenAI API. With this plugin, you can harness the capabilities of ChatGPT to create SEO-focused articles on your WordPress site. Simply provide a set of keywords or subjects, and the plugin will generate engaging content for you.<\/p>\n<p>Features:<\/p>\n<ul>\n<li>Seamless integration with the OpenAI API.<\/li>\n<li>Automatically generates blog posts based on specified keywords.<\/li>\n<li>Customizable character limit for generated posts.<\/li>\n<li>Ability to generate images related to the content.<\/li>\n<li>Supports Gutenberg blocks for easy content formatting.<\/li>\n<li>Option for daily automatic post creation.<\/li>\n<li>AJAX-powered manual post creation.<\/li>\n<li>Translatable strings for internationalization.<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/automated-blog-content-creator.1.4.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/automated-blog-content-creator\/assets\/screenshot-1.png?rev=3026788",
+            "caption": "Plugin settings page - Configure API key, keywords, and other options."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/automated-blog-content-creator\/assets\/screenshot-2.png?rev=3026788",
+            "caption": "Example generated blog post using Gutenberg blocks."
+        }
+    },
+    "tags": {
+        "blog": "blog",
+        "generator": "generator",
+        "openai": "openai",
+        "post": "post"
+    },
+    "stable_tag": "1.4",
+    "versions": {
+        "0.8": "https:\/\/downloads.wordpress.org\/plugin\/automated-blog-content-creator.0.8.zip",
+        "0.9": "https:\/\/downloads.wordpress.org\/plugin\/automated-blog-content-creator.0.9.zip",
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/automated-blog-content-creator.1.0.zip",
+        "1.4": "https:\/\/downloads.wordpress.org\/plugin\/automated-blog-content-creator.1.4.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/automated-blog-content-creator.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/automated-blog-content-creator\/assets\/icon-128x128.png?rev=3023217",
+        "2x": "https:\/\/ps.w.org\/automated-blog-content-creator\/assets\/icon-256x256.png?rev=3023217"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

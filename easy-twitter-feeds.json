@@ -1,0 +1,220 @@
+{
+    "name": "Easy Twitter Feed",
+    "slug": "easy-twitter-feeds",
+    "version": "1.2.5",
+    "author": "<a href=\"https:\/\/bplugins.com\/\">bPlugins LLC<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/abuhayat\/",
+    "contributors": {
+        "abuhayat": {
+            "profile": "https:\/\/profiles.wordpress.org\/abuhayat\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/e020cc4a7d658bbf1855eaf34e1a9de5?s=96&d=monsterid&r=g",
+            "display_name": "Abu Hayat"
+        },
+        "charlescormier": {
+            "profile": "https:\/\/profiles.wordpress.org\/charlescormier\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/5b72c7c5c6fcafa79e78f6fa991bbec6?s=96&d=monsterid&r=g",
+            "display_name": "Charles Cormier"
+        },
+        "shehabulislam": {
+            "profile": "https:\/\/profiles.wordpress.org\/shehabulislam\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/1f5df515d633da02717a3600fefec940?s=96&d=monsterid&r=g",
+            "display_name": "shehabulislam"
+        },
+        "shehab24": {
+            "profile": "https:\/\/profiles.wordpress.org\/shehab24\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/e9306a7659dd3e0dd0398e785b0835e4?s=96&d=monsterid&r=g",
+            "display_name": "Shehab mahamud"
+        },
+        "freemius": {
+            "profile": "https:\/\/profiles.wordpress.org\/freemius\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3ac33da92186a78937b307bdd9e906ee?s=96&d=monsterid&r=g",
+            "display_name": "Freemius"
+        }
+    },
+    "requires": "4.0",
+    "tested": "6.3.4",
+    "requires_php": "7.1",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 86,
+    "ratings": {
+        "5": 9,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 2
+    },
+    "num_ratings": 11,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/easy-twitter-feeds\/",
+    "support_threads": 1,
+    "support_threads_resolved": 0,
+    "active_installs": 3000,
+    "downloaded": 24047,
+    "last_updated": "2024-04-04 4:26am GMT",
+    "added": "2020-04-15",
+    "homepage": "https:\/\/twitter-feed.bplugins.com\/",
+    "sections": {
+        "description": "<p>Embed Twitter Timeline\/Feed, Post, Video, Hashtag, Follow Button, Tweet Button easily. This plugin is liteweight but super powerful.<\/p>\n<h3>Important Notice: This plugin only work with X premium accounts.<\/h3>\n<p><strong><a href=\"https:\/\/bplugins.com\/products\/easy-twitter-feeds\" rel=\"nofollow ugc\">Demos<\/a><\/strong><\/p>\n<h4>Features<\/h4>\n<ul>\n<li>\n<p><strong>Timeline:<\/strong> Add Twitter Timeline.<\/p>\n<\/li>\n<li>\n<p><strong>Timeline Style:<\/strong> Add Style on Timeline feed Height,Width,Scrolling,Theme.<\/p>\n<\/li>\n<li>\n<p><strong>Follow Button:<\/strong> Add Twiiter Follow Button.<\/p>\n<\/li>\n<li>\n<p><strong>Follow Button Style:<\/strong> Add Button Style Color,Background,font-size, padding.<\/p>\n<\/li>\n<\/ul>\n<h4>Pro Features<\/h4>\n<ul>\n<li>\n<p><strong>Timeline:<\/strong> Hide timeline header , footer.<\/p>\n<\/li>\n<li>\n<p><strong>Timeline Language:<\/strong> Translate timeline to any language.<\/p>\n<\/li>\n<li>\n<p><strong>Button Icon:<\/strong> Add twitter Latest icon.<\/p>\n<\/li>\n<li>\n<p><strong>Tweet Button:<\/strong> Add Tweet Button with tweet text.<\/p>\n<\/li>\n<li>\n<p><strong>Hashtag:<\/strong> Add Hashtag with tweet text.<\/p>\n<\/li>\n<li>\n<p><strong>Video:<\/strong> Add video from any specific twitter post.<\/p>\n<\/li>\n<li>\n<p><strong>Post:<\/strong> Add any spacific twitter post.<\/p>\n<\/li>\n<\/ul>\n<h4>ShortCode<\/h4>\n<h3>Twitter Timeline<\/h3>\n<p>Use following shortCode To Embed Twitter Timeline<\/p>\n<pre>\n    [timeline username=\"YOUR_USERNAME\"]\n<\/pre>\n<p>Only the username attribute is Required to Embed a Timeline.<br \/>\nYou can Customize the aperance of the timeline by following the ShortCode Below.<\/p>\n<pre>\n    [timeline username=\"YOUR_USERNAME\" theme=\"light\" width=\"300\" height=\"400\" title=\"My Timeline\"]\n<\/pre>\n<ul>\n<li>The theme attribute accept light and dark as a value.<\/li>\n<li>In height and width attribute, don&#8217;t add PX<\/li>\n<\/ul>\n<h3>Twitter Follow Button<\/h3>\n<p>Use following shortCode to Embed a follow button.<\/p>\n<pre>\n[follow_button username=\"YOUR_USERNAME\"]\n<\/pre>\n<p>You can customize the Follow button according the the shortCode below&#8230;<\/p>\n<pre>\n[follow_button username=\"YOUR_USERNAME\" size=\"large\" count=\"false\"]\n<\/pre>\n<p>Size attribute accept large and small as a value,<br \/>\nSet count=&#8221;true&#8221; to Display total Followers Count in the Button<\/p>\n<h4>Feedback<\/h4>\n<p>Liked that plugin? Hate it? Want a new feature?  [Send me some feedback](mailto: support@bplugins.com &#8220;Send feedback&#8221;)<\/p>\n<h4>\u2b50 Checkout our other WordPress Plugins-<\/h4>\n<p>\ud83d\udd25 <strong><a href=\"https:\/\/audioplayerwp.com\/\" rel=\"nofollow ugc\">Html5 Audio Player<\/a><\/strong> \u2013 Best audio player plugin for WordPress.<\/p>\n<p>\ud83d\udd25 <strong><a href=\"https:\/\/wpvideoplayer.com\/\" rel=\"nofollow ugc\">Html5 Video Player<\/a><\/strong> \u2013 Best video player plugin for WordPress.<\/p>\n<p>\ud83d\udd25 <strong><a href=\"http:\/\/pdfposter.com\/\" rel=\"nofollow ugc\">PDF Poster<\/a><\/strong> \u2013 A fully-featured PDF Viewer Plugin for WordPresss.<\/p>\n<p>\ud83d\udd25 <strong><a href=\"https:\/\/wordpress.org\/plugins\/streamcast\" rel=\"ugc\">StreamCast<\/a><\/strong> \u2013 A fully-featured Radio Player Plugin for WordPresss.<\/p>\n<p>\ud83d\udd25 <strong><a href=\"https:\/\/3d-viewer.bplugins.com\/\" rel=\"nofollow ugc\">3D Viewer<\/a><\/strong> \u2013 Display interactive 3D models on the webs.<\/p>\n<p>\ud83d\udd25 <strong><a href=\"https:\/\/wordpress.org\/plugins\/advanced-scrollbar\/\" rel=\"ugc\">Advanced scrollbar<\/a><\/strong> \u2013 Display attractive Scrollbar on website.<\/p>\n",
+        "installation": "<p>This section describes how to install the plugin and get it working.<\/p>\n<p>e.g.<\/p>\n<ol>\n<li>Upload <code>plugin-directory<\/code> to the <code>\/wp-content\/plugins\/<\/code> directory<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress<\/li>\n<li>Use shortcode in page, post or in widgets.<\/li>\n<li>If you want player in your theme php, Place <code>&lt;?php echo do_shortcode('YOUR_SHORTCODE'); ?&gt;<\/code> in your templates<\/li>\n<\/ol>\n",
+        "changelog": "<h4>1.2.5<\/h4>\n<ul>\n<li>Performance and code improvement<\/li>\n<\/ul>\n<h4>1.2.4<\/h4>\n<ul>\n<li>Performance improvement<\/li>\n<\/ul>\n<h4>1.2.3<\/h4>\n<ul>\n<li>Add Gutenberg Block<\/li>\n<li>Button Style Features<\/li>\n<\/ul>\n<h4>1.1.2<\/h4>\n<ul>\n<li>Fixed: timeline not showing<\/li>\n<\/ul>\n<h4>1.1<\/h4>\n<ul>\n<li>Fixed Json error in Block Editor<\/li>\n<\/ul>\n<h4>1.0<\/h4>\n<ul>\n<li>Initial Release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/easy-twitter-feeds\/assets\/screenshot-1.jpg?rev=3064268\"><img src=\"https:\/\/ps.w.org\/easy-twitter-feeds\/assets\/screenshot-1.jpg?rev=3064268\" alt=\"Sidebar menu\"><\/a><p>Sidebar menu<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/easy-twitter-feeds\/assets\/screenshot-2.jpg?rev=3064268\"><img src=\"https:\/\/ps.w.org\/easy-twitter-feeds\/assets\/screenshot-2.jpg?rev=3064268\" alt=\"UI\"><\/a><p>UI<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">doesnt work<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/willoftheweb\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/233acdb6f6fdad6d2cf79bf47cbfe34f?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/233acdb6f6fdad6d2cf79bf47cbfe34f?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/willoftheweb\/\" class=\"reviewer-name\">WillOfTheWeb<\/a> on <span class=\"review-date\">October 31, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">unfortunately it doesnt work<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Was working great and stopped all of a sudden<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/visionfactory\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/6110265a74aa1c75bfa2b0868103f523?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/6110265a74aa1c75bfa2b0868103f523?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/visionfactory\/\" class=\"reviewer-name\">visionfactory<\/a> on <span class=\"review-date\">July 15, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Not reliable really, so looking for an alternative.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">It&#039;s full of Tweeter plugins out there<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mukkino\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/8e0f8a0c097ab9fa458050b559a96c14?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/8e0f8a0c097ab9fa458050b559a96c14?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mukkino\/\" class=\"reviewer-name\">mukkino<\/a> on <span class=\"review-date\">June 23, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>and they all want an unreasonable amount of money for a personal page. and they don't work. this one is free and it just works. best thing on WP for Twitter. Thank you for this!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">simple but great<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/bravium69\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/4a17c95bb3ff3f64eca0cedd03a73d52?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/4a17c95bb3ff3f64eca0cedd03a73d52?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/bravium69\/\" class=\"reviewer-name\">bravium69<\/a> on <span class=\"review-date\">May 9, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Simple, but great. It knows everything I need.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">It Just Works<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/itguy1024\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/3713daac2ed4d138feecd0097597f505?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/3713daac2ed4d138feecd0097597f505?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/itguy1024\/\" class=\"reviewer-name\">itguy1024<\/a> on <span class=\"review-date\">April 22, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Easy Twitter Feed to the rescue when Smash Balloon stopped working with no ETA on fix.<br \/>I think Easy Twitter Feed is easier to use and looks better. Thanks for this!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great simple<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/1000zen\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f57aab048571b19246292914aa11c183?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f57aab048571b19246292914aa11c183?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/1000zen\/\" class=\"reviewer-name\">1000zen<\/a> on <span class=\"review-date\">April 17, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Smash Balloon stoped working, find this little plugin and got it up and running in minutes. Nice looking to. Just punt the shortcode in a HTML widget.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great, no hassle!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/psudan\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/153e077bde1e4f6f99f4b325f995aeed?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/153e077bde1e4f6f99f4b325f995aeed?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/psudan\/\" class=\"reviewer-name\">psudan<\/a> on <span class=\"review-date\">April 6, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Smash balloon on the blink - Easy Twitter Feed to the rescue. Thank you very much and people seems to even prefer it!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Perfect<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/wpkuldeep\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/03884ae7a24560fd1d19cb16e5f23166?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/03884ae7a24560fd1d19cb16e5f23166?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/wpkuldeep\/\" class=\"reviewer-name\">wpkuldeep<\/a> on <span class=\"review-date\">December 5, 2020<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">The plugin is simply amazing. Just use an empty HTML widget and the shortcode mentioned in the description pop-up. Easy, light, and exceptional. <\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Easy and light wight<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/docbt\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/50b6182cd03b684d53114ab8d011d963?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/50b6182cd03b684d53114ab8d011d963?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/docbt\/\" class=\"reviewer-name\">docbt<\/a> on <span class=\"review-date\">October 16, 2020<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">It changes the twitter widget.js src from twitter.com to your local site.\nVery light weight. Easy to use \ud83d\udc4d <\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Best Twitter Feed Plugin !!!!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/firefliespilots\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d6927e1d706c99d4533801805c0cb1ac?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d6927e1d706c99d4533801805c0cb1ac?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/firefliespilots\/\" class=\"reviewer-name\">Neo <small>(firefliespilots)<\/small><\/a> on <span class=\"review-date\">August 25, 2020<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">This is by far the best Twitter feed plugin I have seen, installed and tested.\n\nIt is visually perfect, easy to install (even for laymen extremely simple), and fast.\n\nThe best you can get here. I hope the best for the developer and the plugin and that it will stay and establish itself on the market. I am convinced of that.\n\nThanks a lot and all the best. Cheers Neo<\/div>\n<\/div>\n"
+    },
+    "short_description": "Embed Twitter Timeline\/Feed, Post, Video, Hashtag, Follow Button, Tweet Button easily. This plugin is liteweight but super powerful.",
+    "description": "<p>Embed Twitter Timeline\/Feed, Post, Video, Hashtag, Follow Button, Tweet Button easily. This plugin is liteweight but super powerful.<\/p>\n<h3>Important Notice: This plugin only work with X premium accounts.<\/h3>\n<p><strong><a href=\"https:\/\/bplugins.com\/products\/easy-twitter-feeds\" rel=\"nofollow ugc\">Demos<\/a><\/strong><\/p>\n<h4>Features<\/h4>\n<ul>\n<li>\n<p><strong>Timeline:<\/strong> Add Twitter Timeline.<\/p>\n<\/li>\n<li>\n<p><strong>Timeline Style:<\/strong> Add Style on Timeline feed Height,Width,Scrolling,Theme.<\/p>\n<\/li>\n<li>\n<p><strong>Follow Button:<\/strong> Add Twiiter Follow Button.<\/p>\n<\/li>\n<li>\n<p><strong>Follow Button Style:<\/strong> Add Button Style Color,Background,font-size, padding.<\/p>\n<\/li>\n<\/ul>\n<h4>Pro Features<\/h4>\n<ul>\n<li>\n<p><strong>Timeline:<\/strong> Hide timeline header , footer.<\/p>\n<\/li>\n<li>\n<p><strong>Timeline Language:<\/strong> Translate timeline to any language.<\/p>\n<\/li>\n<li>\n<p><strong>Button Icon:<\/strong> Add twitter Latest icon.<\/p>\n<\/li>\n<li>\n<p><strong>Tweet Button:<\/strong> Add Tweet Button with tweet text.<\/p>\n<\/li>\n<li>\n<p><strong>Hashtag:<\/strong> Add Hashtag with tweet text.<\/p>\n<\/li>\n<li>\n<p><strong>Video:<\/strong> Add video from any specific twitter post.<\/p>\n<\/li>\n<li>\n<p><strong>Post:<\/strong> Add any spacific twitter post.<\/p>\n<\/li>\n<\/ul>\n<h4>ShortCode<\/h4>\n<h3>Twitter Timeline<\/h3>\n<p>Use following shortCode To Embed Twitter Timeline<\/p>\n<pre>\n    [timeline username=\"YOUR_USERNAME\"]\n<\/pre>\n<p>Only the username attribute is Required to Embed a Timeline.<br \/>\nYou can Customize the aperance of the timeline by following the ShortCode Below.<\/p>\n<pre>\n    [timeline username=\"YOUR_USERNAME\" theme=\"light\" width=\"300\" height=\"400\" title=\"My Timeline\"]\n<\/pre>\n<ul>\n<li>The theme attribute accept light and dark as a value.<\/li>\n<li>In height and width attribute, don&#8217;t add PX<\/li>\n<\/ul>\n<h3>Twitter Follow Button<\/h3>\n<p>Use following shortCode to Embed a follow button.<\/p>\n<pre>\n[follow_button username=\"YOUR_USERNAME\"]\n<\/pre>\n<p>You can customize the Follow button according the the shortCode below&#8230;<\/p>\n<pre>\n[follow_button username=\"YOUR_USERNAME\" size=\"large\" count=\"false\"]\n<\/pre>\n<p>Size attribute accept large and small as a value,<br \/>\nSet count=&#8221;true&#8221; to Display total Followers Count in the Button<\/p>\n<h4>Feedback<\/h4>\n<p>Liked that plugin? Hate it? Want a new feature?  [Send me some feedback](mailto: support@bplugins.com &#8220;Send feedback&#8221;)<\/p>\n<h4>\u2b50 Checkout our other WordPress Plugins-<\/h4>\n<p>\ud83d\udd25 <strong><a href=\"https:\/\/audioplayerwp.com\/\" rel=\"nofollow ugc\">Html5 Audio Player<\/a><\/strong> \u2013 Best audio player plugin for WordPress.<\/p>\n<p>\ud83d\udd25 <strong><a href=\"https:\/\/wpvideoplayer.com\/\" rel=\"nofollow ugc\">Html5 Video Player<\/a><\/strong> \u2013 Best video player plugin for WordPress.<\/p>\n<p>\ud83d\udd25 <strong><a href=\"http:\/\/pdfposter.com\/\" rel=\"nofollow ugc\">PDF Poster<\/a><\/strong> \u2013 A fully-featured PDF Viewer Plugin for WordPresss.<\/p>\n<p>\ud83d\udd25 <strong><a href=\"https:\/\/wordpress.org\/plugins\/streamcast\" rel=\"ugc\">StreamCast<\/a><\/strong> \u2013 A fully-featured Radio Player Plugin for WordPresss.<\/p>\n<p>\ud83d\udd25 <strong><a href=\"https:\/\/3d-viewer.bplugins.com\/\" rel=\"nofollow ugc\">3D Viewer<\/a><\/strong> \u2013 Display interactive 3D models on the webs.<\/p>\n<p>\ud83d\udd25 <strong><a href=\"https:\/\/wordpress.org\/plugins\/advanced-scrollbar\/\" rel=\"ugc\">Advanced scrollbar<\/a><\/strong> \u2013 Display attractive Scrollbar on website.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/easy-twitter-feeds.1.2.5.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/easy-twitter-feeds\/assets\/screenshot-1.jpg?rev=3064268",
+            "caption": "Sidebar menu"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/easy-twitter-feeds\/assets\/screenshot-2.jpg?rev=3064268",
+            "caption": "UI"
+        }
+    },
+    "tags": {
+        "embed-twitter": "embed twitter",
+        "follow-button": "follow button",
+        "twitter-feed": "twitter feed",
+        "x": "x",
+        "x-post": "X Post"
+    },
+    "stable_tag": "1.2.5",
+    "versions": {
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/easy-twitter-feeds.1.0.zip",
+        "1.2.2": "https:\/\/downloads.wordpress.org\/plugin\/easy-twitter-feeds.1.2.2.zip",
+        "1.2.3": "https:\/\/downloads.wordpress.org\/plugin\/easy-twitter-feeds.1.2.3.zip",
+        "1.2.4": "https:\/\/downloads.wordpress.org\/plugin\/easy-twitter-feeds.1.2.4.zip",
+        "1.2.5": "https:\/\/downloads.wordpress.org\/plugin\/easy-twitter-feeds.1.2.5.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/easy-twitter-feeds.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/www.buymeacoffee.com\/abuhayat",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/easy-twitter-feeds\/assets\/banner-772x250.png?rev=3064268",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/easy-twitter-feeds\/assets\/icon-128x128.png?rev=3064268"
+    },
+    "blocks": {
+        "etf\/twitter-feed": {
+            "apiVersion": "1",
+            "name": "etf\/twitter-feed",
+            "title": "Twitter Feed",
+            "description": "A Easy twitter Feeds plugin",
+            "category": "widgets",
+            "keywords": [
+                "key1",
+                "key2",
+                "key3"
+            ],
+            "textdomain": "easy-twitter",
+            "attributes": {
+                "align": {
+                    "type": "string",
+                    "default": ""
+                },
+                "cId": {
+                    "type": "string",
+                    "default": ""
+                },
+                "userName": {
+                    "type": "string",
+                    "default": "XDevelopers"
+                },
+                "videoPostID": {
+                    "type": "string",
+                    "default": "1732824684683784516"
+                },
+                "type": {
+                    "type": "string",
+                    "default": ""
+                },
+                "config": {
+                    "type": "object",
+                    "default": {
+                        "theme": "dark",
+                        "width": "500px",
+                        "height": "520px",
+                        "scrolling": "no",
+                        "isHeader": true,
+                        "isFooter": true,
+                        "language": "en"
+                    }
+                },
+                "button": {
+                    "type": "object",
+                    "default": {
+                        "tweetText": "This is a text",
+                        "hasTagText": "Wordpress",
+                        "iconsType": "tIcon",
+                        "icon": {
+                            "width": "20px",
+                            "height": "20px"
+                        },
+                        "typo": {
+                            "fontSize": {
+                                "desktop": 14
+                            },
+                            "fontWeight": 500,
+                            "textDecoration": "none"
+                        },
+                        "colors": {
+                            "color": "#fff",
+                            "bg": "#1d9bf0"
+                        },
+                        "padding": {
+                            "top": "6px",
+                            "right": "10px",
+                            "bottom": "6px",
+                            "left": "10px"
+                        }
+                    }
+                },
+                "alignment": {
+                    "type": "string",
+                    "default": "center"
+                },
+                "border": {
+                    "type": "object",
+                    "default": {
+                        "radius": "30px"
+                    }
+                },
+                "shadow": {
+                    "type": "array",
+                    "default": {}
+                }
+            },
+            "supports": {
+                "align": [
+                    "wide",
+                    "full"
+                ],
+                "html": false
+            },
+            "example": {
+                "attributes": {
+                    "preview": true,
+                    "columns": {
+                        "desktop": 1,
+                        "tablet": 1,
+                        "mobile": 1
+                    }
+                }
+            },
+            "editorScript": "file:..\/dist\/editor.js"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": "50",
+    "author_block_rating": 87.843137254902,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

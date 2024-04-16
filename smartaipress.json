@@ -1,0 +1,117 @@
+{
+    "name": "SmartAIPress",
+    "slug": "smartaipress",
+    "version": "1.0.4",
+    "author": "<a href=\"https:\/\/smartaipress.com\/\">SmartAIPress <\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/jerryscg\/",
+    "contributors": {
+        "jerryscg": {
+            "profile": "https:\/\/profiles.wordpress.org\/jerryscg\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/e4b2f09e669b7b5d5298951d0ff24da4?s=96&d=monsterid&r=g",
+            "display_name": "jerryscg"
+        },
+        "jovandosen": {
+            "profile": "https:\/\/profiles.wordpress.org\/jovandosen\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/08b9947c324fad3ab5184af52ef31929?s=96&d=monsterid&r=g",
+            "display_name": "jovandosen"
+        }
+    },
+    "requires": "6.2",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 2,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 2,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/smartaipress\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 20,
+    "downloaded": 411,
+    "last_updated": "2024-02-07 9:08am GMT",
+    "added": "2024-01-18",
+    "homepage": "https:\/\/smartaipress.com\/smartaipress-for-wordpress\/",
+    "sections": {
+        "description": "<p>Unleash the Power of AI to Revolutionize Your Content Creation. Effortlessly generate high-quality articles, blog posts, and web content with our intelligent AI-driven plugin. Say goodbye to writer&#8217;s block and hello to a world of creativity and efficiency.<\/p>\n<h3>AI Generated Images<\/h3>\n<p><a href=\"https:\/\/smartaipress.com\/ai-generated-images\/\" rel=\"nofollow ugc\">SmartAIPress Gallery<\/a><\/p>\n<h3>FEATURES<\/h3>\n<ul>\n<li>Generate articles<\/li>\n<li>Generate articles featured images<\/li>\n<li>Generate WooCommerce products descriptions<\/li>\n<li>Generate WooCommerce product feature images<\/li>\n<li>Custom prompts (PRO)<\/li>\n<li>Generate DALL*E HD images (PRO)<\/li>\n<\/ul>\n",
+        "installation": "<p>The installation of the SmartAIPress plugin is straight forward and very easy.<br \/>\nYou can install it from the WordPress admin dashboard plugins page,<br \/>\nor you can manually install it by downloading the smartaipress.zip file from wp.org and follow next procedure:<\/p>\n<ol>\n<li>Unzip the smartaipress.zip file.<\/li>\n<li>Upload <code>smartaipress<\/code> folder to the <code>\/wp-content\/plugins\/<\/code> directory<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='how%20i%20can%20obtain%20openai%20api%20key%3F'>\nHow i can obtain OpenAI API Key?\n<\/h4>\n<p>\n<p>To initiate the process, kindly establish a new account via the <a href=\"https:\/\/auth0.openai.com\/u\/signup\" rel=\"nofollow ugc\">OpenAI API sign-up page<\/a>. Subsequently, proceed to access the <a href=\"https:\/\/platform.openai.com\/api-keys\" rel=\"nofollow ugc\">OpenAI API keys section<\/a> to continue with the requisite steps.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.4 Feb 07, 2024<\/h4>\n<ul>\n<li>Minor changes.<\/li>\n<\/ul>\n<h4>1.0.3 Feb 05, 2024<\/h4>\n<ul>\n<li>Minor changes.<\/li>\n<\/ul>\n<h4>1.0.2 Feb 02, 2024<\/h4>\n<ul>\n<li>Minor changes.<\/li>\n<\/ul>\n<h4>1.0.1 Jan 20, 2024<\/h4>\n<ul>\n<li>Minor changes.<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/smartaipress\/assets\/screenshot-1.png?rev=3024458\"><img src=\"https:\/\/ps.w.org\/smartaipress\/assets\/screenshot-1.png?rev=3024458\" alt=\"Administrator panel settings page\"><\/a><p>Administrator panel settings page<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/smartaipress\/assets\/screenshot-2.png?rev=3024458\"><img src=\"https:\/\/ps.w.org\/smartaipress\/assets\/screenshot-2.png?rev=3024458\" alt=\"New post article generation prompt\"><\/a><p>New post article generation prompt<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/smartaipress\/assets\/screenshot-3.png?rev=3024458\"><img src=\"https:\/\/ps.w.org\/smartaipress\/assets\/screenshot-3.png?rev=3024458\" alt=\"New post article generated\"><\/a><p>New post article generated<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/smartaipress\/assets\/screenshot-4.png?rev=3024458\"><img src=\"https:\/\/ps.w.org\/smartaipress\/assets\/screenshot-4.png?rev=3024458\" alt=\"New post article inserted to editor\"><\/a><p>New post article inserted to editor<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/smartaipress\/assets\/screenshot-5.png?rev=3024458\"><img src=\"https:\/\/ps.w.org\/smartaipress\/assets\/screenshot-5.png?rev=3024458\" alt=\"New post featured image generation prompt\"><\/a><p>New post featured image generation prompt<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/smartaipress\/assets\/screenshot-6.png?rev=3024458\"><img src=\"https:\/\/ps.w.org\/smartaipress\/assets\/screenshot-6.png?rev=3024458\" alt=\"New post featured image generation process\"><\/a><p>New post featured image generation process<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/smartaipress\/assets\/screenshot-7.png?rev=3024458\"><img src=\"https:\/\/ps.w.org\/smartaipress\/assets\/screenshot-7.png?rev=3024458\" alt=\"New post featured image generation completed\"><\/a><p>New post featured image generation completed<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">A Game-Changer for AI Content Generation!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jovandosen\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/08b9947c324fad3ab5184af52ef31929?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/08b9947c324fad3ab5184af52ef31929?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jovandosen\/\" class=\"reviewer-name\">jovandosen<\/a> on <span class=\"review-date\">January 19, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">SmartAIPress is a revelation in AI content generation. Seamlessly integrated, it transforms ideas into compelling content effortlessly. The precision and adaptability make it a must-have for anyone seeking unparalleled efficiency and creativity in their digital content strategy. A game-changer indeed!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excellent<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jerryscg\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e4b2f09e669b7b5d5298951d0ff24da4?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e4b2f09e669b7b5d5298951d0ff24da4?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jerryscg\/\" class=\"reviewer-name\">jerryscg<\/a> on <span class=\"review-date\">January 19, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">When you choose SmartAIPress, you're not just getting a plugin \u2013 you're gaining a reliable partner. Experience top-notch customer support ready to assist you with any questions or concerns. Enjoy peace of mind knowing that you have a dedicated team backing you up on your content creation journey.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Unleash the Power of AI to Revolutionize Your Content Creation. Effortlessly generate high-quality articles, blog posts, and web content with our inte &hellip;",
+    "description": "<p>Unleash the Power of AI to Revolutionize Your Content Creation. Effortlessly generate high-quality articles, blog posts, and web content with our intelligent AI-driven plugin. Say goodbye to writer&#8217;s block and hello to a world of creativity and efficiency.<\/p>\n<h3>AI Generated Images<\/h3>\n<p><a href=\"https:\/\/smartaipress.com\/ai-generated-images\/\" rel=\"nofollow ugc\">SmartAIPress Gallery<\/a><\/p>\n<h3>FEATURES<\/h3>\n<ul>\n<li>Generate articles<\/li>\n<li>Generate articles featured images<\/li>\n<li>Generate WooCommerce products descriptions<\/li>\n<li>Generate WooCommerce product feature images<\/li>\n<li>Custom prompts (PRO)<\/li>\n<li>Generate DALL*E HD images (PRO)<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/smartaipress.1.0.4.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/smartaipress\/assets\/screenshot-1.png?rev=3024458",
+            "caption": "Administrator panel settings page"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/smartaipress\/assets\/screenshot-2.png?rev=3024458",
+            "caption": "New post article generation prompt"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/smartaipress\/assets\/screenshot-3.png?rev=3024458",
+            "caption": "New post article generated"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/smartaipress\/assets\/screenshot-4.png?rev=3024458",
+            "caption": "New post article inserted to editor"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/smartaipress\/assets\/screenshot-5.png?rev=3024458",
+            "caption": "New post featured image generation prompt"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/smartaipress\/assets\/screenshot-6.png?rev=3024458",
+            "caption": "New post featured image generation process"
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/smartaipress\/assets\/screenshot-7.png?rev=3024458",
+            "caption": "New post featured image generation completed"
+        }
+    },
+    "tags": {
+        "ai": "AI",
+        "ai-content-generator": "AI content generator",
+        "ai-generator": "AI Generator",
+        "ai-image-generator": "ai image generator",
+        "chatgpt-generator": "ChatGPT Generator"
+    },
+    "stable_tag": "1.0.4",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/smartaipress.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/smartaipress.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/smartaipress.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/smartaipress.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/smartaipress.1.0.4.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/smartaipress.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/www.paypal.com\/paypalme\/uniformsplugin",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/smartaipress\/assets\/banner-772x250.jpg?rev=3023347",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/smartaipress\/assets\/icon-128x128.png?rev=3023347"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

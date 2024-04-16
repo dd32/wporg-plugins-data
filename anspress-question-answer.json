@@ -1,0 +1,238 @@
+{
+    "name": "AnsPress &#8211; Question and answer",
+    "slug": "anspress-question-answer",
+    "version": "4.4.0",
+    "author": "<a href=\"https:\/\/anspress.net\">Rahul Aryan<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/lattepress\/",
+    "contributors": {
+        "nerdaryan": {
+            "profile": "https:\/\/profiles.wordpress.org\/nerdaryan\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/0c8cfd3bc56d97fe6bebc035fe9b8c80?s=96&d=monsterid&r=g",
+            "display_name": "Rahul Aryan"
+        }
+    },
+    "requires": "4.7",
+    "tested": "6.5.2",
+    "requires_php": "8.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 80,
+    "ratings": {
+        "5": 68,
+        "4": 3,
+        "3": 3,
+        "2": 3,
+        "1": 20
+    },
+    "num_ratings": 97,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/anspress-question-answer\/",
+    "support_threads": 5,
+    "support_threads_resolved": 0,
+    "active_installs": 4000,
+    "downloaded": 242302,
+    "last_updated": "2024-04-13 7:38am GMT",
+    "added": "2014-10-20",
+    "homepage": "https:\/\/anspress.net",
+    "sections": {
+        "description": "<p>Zen Projects and Rahul have agreed to team up to bring substantial resources into the development of AnsPress and its related themes and extensions, read the full announcement here: https:\/\/anspress.net\/blog\/anspress-update-annoucement\/<\/p>\n<p>AnsPress is an open source, developer friendly, question and answer plugin for WordPress. AnsPress adds a full question and answer system to your existing WordPress site. It can be used to create a Q&amp;A network similar to StackOverflow and Quora, or be a single page on existing site. The plugin supports multiple languages, shortcodes, reCAPTCHA, email and push notifications, and more.<\/p>\n<p>AnsPress is not just limited to questions and answers. It can be used in many different ways, like a bug tracker, an internal Q&amp;A board, support ticket forum, FAQ, and more. Anspress is trusted and used by many popular companies and sites at scale.<\/p>\n<p><strong>Performance and Optimizations:<\/strong><\/p>\n<p>In our latest release, we&#8217;ve made big improvements to performance and have tested the plugin in many different server environments. It has run smoothly on every type of server with minimal impact on load times. AnsPress (including all of its functionalities) is very fast compared to other Q&amp;A plugins. In the latest release we have made major improvements to reduce MySQL queries and to increase the page load speed for all page templates within the plugin.<\/p>\n<p><strong>Developer Friendly:<\/strong><\/p>\n<p>AnsPress is built with developers in mind and can easily be extended to fit your needs. All parts of the template layouts can be overridden. Our source code follows WP coding standards and is properly commented. We are working on a documentation site which will be available soon.<\/p>\n<p><strong>Contributors:<\/strong><\/p>\n<p>This plugin wouldn&#8217;t be possible without the huge amount of contributions we have received. Check our contributors at https:\/\/anspress.net\/contributors\/<\/p>\n<p><strong>Support and Demo:<\/strong><\/p>\n<p>We provide support on our site: https:\/\/anspress.net\/questions<br \/>\nOur support section uses the actual version of AnsPress, so you can check out the support site if you want to see full working version.<br \/>\nYou can also take the demo site for a test drive at https:\/\/anspress.net\/demo\/<\/p>\n<p><strong>AnsPress Key Features:<\/strong><\/p>\n<ul>\n<li>Submit \/ Filter \/ Order \/ Edit \/ Delete Question<\/li>\n<li>Answer \/ Comment<\/li>\n<li>Vote and Select Best Answer<\/li>\n<li>Notification Emails and Web Push Notifications<\/li>\n<li>10+ languages supported<\/li>\n<li>Captcha supported<\/li>\n<li>Shortcodes available<\/li>\n<li>Private\/Public for Question and Answer<\/li>\n<li>Ability to Follow Questions \/ Answers<\/li>\n<li>Featured (Sticky) Question<\/li>\n<li>Closed questions<\/li>\n<li>Flag\/report questions and answers to moderator<\/li>\n<li>Basic user profile<\/li>\n<li>BuddyPress integration<\/li>\n<li>More to come&#8230;<\/li>\n<\/ul>\n<p><strong>Free Add-ons:<\/strong><\/p>\n<ul>\n<li>Reputations<\/li>\n<li>Tags<\/li>\n<li>Categories<\/li>\n<li>Bad words filter<\/li>\n<li>Email notifications<\/li>\n<li>reCaptcha<\/li>\n<li>Dynamic text avatar<\/li>\n<\/ul>\n<p>AnsPress is frequently updated and more features are added based on feedback from our users. This means you are welcome to give us feedback and suggestions as to what you would like to see or need in the plugin. Visit our Github project https:\/\/github.com\/anspress\/anspress  or visit our community https:\/\/anspress.net\/questions\/ to get updates and leave feedback.<\/p>\n<p><strong>Page Shortcodes<\/strong><\/p>\n<p>Use this shortcode in the base page of AnsPress to work properly<br \/>\n    [anspress]<\/p>\n",
+        "installation": "<p>Read the full documentation here https:\/\/anspress.net\/resources\/<\/p>\n",
+        "faq": "<p>Read the full FAQ here https:\/\/anspress.net\/resources\/faq\/<\/p>\n",
+        "changelog": "<h4>4.4.0<\/h4>\n<p>Changelog can be found at https:\/\/github.com\/anspress\/anspress\/releases\/tag\/4.4.0<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/anspress-question-answer\/assets\/screenshot-1.png?rev=2414999\"><img src=\"https:\/\/ps.w.org\/anspress-question-answer\/assets\/screenshot-1.png?rev=2414999\" alt=\"&lt;p&gt;Question list page.&lt;\/p&gt;\"><\/a><p><p>Question list page.<\/p><\/p><\/li><li><a href=\"https:\/\/ps.w.org\/anspress-question-answer\/assets\/screenshot-2.png?rev=2414999\"><img src=\"https:\/\/ps.w.org\/anspress-question-answer\/assets\/screenshot-2.png?rev=2414999\" alt=\"&lt;p&gt;Single question page.&lt;\/p&gt;\"><\/a><p><p>Single question page.<\/p><\/p><\/li><li><a href=\"https:\/\/ps.w.org\/anspress-question-answer\/assets\/screenshot-3.png?rev=2414999\"><img src=\"https:\/\/ps.w.org\/anspress-question-answer\/assets\/screenshot-3.png?rev=2414999\" alt=\"&lt;p&gt;User profile&lt;\/p&gt;\"><\/a><p><p>User profile<\/p><\/p><\/li><li><a href=\"https:\/\/ps.w.org\/anspress-question-answer\/assets\/screenshot-4.png?rev=2414999\"><img src=\"https:\/\/ps.w.org\/anspress-question-answer\/assets\/screenshot-4.png?rev=2414999\" alt=\"&lt;p&gt;User hover card&lt;\/p&gt;\"><\/a><p><p>User hover card<\/p><\/p><\/li><li><a href=\"https:\/\/ps.w.org\/anspress-question-answer\/assets\/screenshot-5.png?rev=2414999\"><img src=\"https:\/\/ps.w.org\/anspress-question-answer\/assets\/screenshot-5.png?rev=2414999\" alt=\"&lt;p&gt;Users directory&lt;\/p&gt;\"><\/a><p><p>Users directory<\/p><\/p><\/li><li><a href=\"https:\/\/ps.w.org\/anspress-question-answer\/assets\/screenshot-6.png?rev=2414999\"><img src=\"https:\/\/ps.w.org\/anspress-question-answer\/assets\/screenshot-6.png?rev=2414999\" alt=\"&lt;p&gt;Notifications&lt;\/p&gt;\"><\/a><p><p>Notifications<\/p><\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Easy to use and customize<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/davidjosue11\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/6bbf2165f66b7ef9b7d6ba8f7aac1a5f?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/6bbf2165f66b7ef9b7d6ba8f7aac1a5f?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/davidjosue11\/\" class=\"reviewer-name\">davidjosue11<\/a> on <span class=\"review-date\">September 19, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This Q&amp;A plugin is very easy to setup and start using quickly. I like that it has a simple design that's fast and optimized. The developer tools make it really easy to customize the look and feel to match my site. Overall a great plugin!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great questions answers plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/isbuilder\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/5f0c6f44ac5c6a67bb2a3f57a540cf6d?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/5f0c6f44ac5c6a67bb2a3f57a540cf6d?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/isbuilder\/\" class=\"reviewer-name\">incometube <small>(isbuilder)<\/small><\/a> on <span class=\"review-date\">March 29, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Great plugin. No bloated extras and works seamlessly with Buddypress and activity stream. Integrates into existing theme. Perfect!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great Plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/texo\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/aad289117d1b4df69049eb821b84f982?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/aad289117d1b4df69049eb821b84f982?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/texo\/\" class=\"reviewer-name\">texo<\/a> on <span class=\"review-date\">August 25, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Fast plugin, easy to customise, with plenty of features. Love it.<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Very nice plugins<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"4 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"4\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/luka2013\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/c2aece70548de40e0aaa6901d783562b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/c2aece70548de40e0aaa6901d783562b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/luka2013\/\" class=\"reviewer-name\">Luka2013<\/a> on <span class=\"review-date\">January 14, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Very nice plugins but much work is still needed.<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Missing a lot<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"3 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"3\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mrmaxdomains\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b62cf49f9fb4eddd475657abbc62d041?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b62cf49f9fb4eddd475657abbc62d041?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mrmaxdomains\/\" class=\"reviewer-name\">mrmaxdomains<\/a> on <span class=\"review-date\">January 9, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">The plugin makes an Q&amp;A functionality that works.\n\nBut it has several issues\n- It is made \"DEVELOPER FRIENDLY\" not \"USER FRIENDLY\"\n- The look is something from 1998\n- You cant disble VOTE\n- You cant disable COMMENT\n- confusing controle of who can answer a question and who can make a comment\n<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excellent Plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/edifying\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/ac3fdc7967a5755ec3c128d8734ebcdf?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/ac3fdc7967a5755ec3c128d8734ebcdf?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/edifying\/\" class=\"reviewer-name\">edifying<\/a> on <span class=\"review-date\">December 15, 2021<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Support, code, functions, and performance everything is excellent <\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Can not answers with image Suddenly<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"4 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"4\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/yephannibal\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/2dfaf10c2157785a9927908de47a8fb1?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/2dfaf10c2157785a9927908de47a8fb1?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/yephannibal\/\" class=\"reviewer-name\">yephannibal<\/a> on <span class=\"review-date\">November 5, 2021<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">This plugin is great and works well and I set it auto-renew at the start. However, one day my users told me that they can not upload the image when answers, I WROTE an email to anspress team, they told me they will help me to solve this problem and charge me $85\/hours. I still doubt their plugin detects my user's surge and closes this function for my website.<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excellent<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/rpatwall1206\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d9a13ddd058b6a4c2d3146c86bebaa84?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d9a13ddd058b6a4c2d3146c86bebaa84?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/rpatwall1206\/\" class=\"reviewer-name\">rpatwall1206<\/a> on <span class=\"review-date\">April 7, 2021<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Pretty Please Update to recent wordpress currently 5.7  My wordpress is complaining.\n\n<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/gfreemankz\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/a327c925dbd7d20900f861ab200d4b17?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/a327c925dbd7d20900f861ab200d4b17?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/gfreemankz\/\" class=\"reviewer-name\">gfreemankz<\/a> on <span class=\"review-date\">April 3, 2021<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Thank you Rahul Aryan for this great plugin. <\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Such an Amazing Plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/teamxlk\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/ffb59bc3f9e63fc48d31c6da1e0ca446?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/ffb59bc3f9e63fc48d31c6da1e0ca446?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/teamxlk\/\" class=\"reviewer-name\">Margot Bailey <small>(teamxlk)<\/small><\/a> on <span class=\"review-date\">November 1, 2020<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">I already Using on 5 More Sites. Love \u2764\ufe0f You Developers for Your Amazing Commitment. I Love if you Add Backup &amp; Restore Options to AnsPress.\n<em>Thanks<\/em><\/div>\n<\/div>\n"
+    },
+    "short_description": "A free question and answer plugin for WordPress. Made with developers in mind, and highly customizable.",
+    "description": "<p>Zen Projects and Rahul have agreed to team up to bring substantial resources into the development of AnsPress and its related themes and extensions, read the full announcement here: https:\/\/anspress.net\/blog\/anspress-update-annoucement\/<\/p>\n<p>AnsPress is an open source, developer friendly, question and answer plugin for WordPress. AnsPress adds a full question and answer system to your existing WordPress site. It can be used to create a Q&amp;A network similar to StackOverflow and Quora, or be a single page on existing site. The plugin supports multiple languages, shortcodes, reCAPTCHA, email and push notifications, and more.<\/p>\n<p>AnsPress is not just limited to questions and answers. It can be used in many different ways, like a bug tracker, an internal Q&amp;A board, support ticket forum, FAQ, and more. Anspress is trusted and used by many popular companies and sites at scale.<\/p>\n<p><strong>Performance and Optimizations:<\/strong><\/p>\n<p>In our latest release, we&#8217;ve made big improvements to performance and have tested the plugin in many different server environments. It has run smoothly on every type of server with minimal impact on load times. AnsPress (including all of its functionalities) is very fast compared to other Q&amp;A plugins. In the latest release we have made major improvements to reduce MySQL queries and to increase the page load speed for all page templates within the plugin.<\/p>\n<p><strong>Developer Friendly:<\/strong><\/p>\n<p>AnsPress is built with developers in mind and can easily be extended to fit your needs. All parts of the template layouts can be overridden. Our source code follows WP coding standards and is properly commented. We are working on a documentation site which will be available soon.<\/p>\n<p><strong>Contributors:<\/strong><\/p>\n<p>This plugin wouldn&#8217;t be possible without the huge amount of contributions we have received. Check our contributors at https:\/\/anspress.net\/contributors\/<\/p>\n<p><strong>Support and Demo:<\/strong><\/p>\n<p>We provide support on our site: https:\/\/anspress.net\/questions<br \/>\nOur support section uses the actual version of AnsPress, so you can check out the support site if you want to see full working version.<br \/>\nYou can also take the demo site for a test drive at https:\/\/anspress.net\/demo\/<\/p>\n<p><strong>AnsPress Key Features:<\/strong><\/p>\n<ul>\n<li>Submit \/ Filter \/ Order \/ Edit \/ Delete Question<\/li>\n<li>Answer \/ Comment<\/li>\n<li>Vote and Select Best Answer<\/li>\n<li>Notification Emails and Web Push Notifications<\/li>\n<li>10+ languages supported<\/li>\n<li>Captcha supported<\/li>\n<li>Shortcodes available<\/li>\n<li>Private\/Public for Question and Answer<\/li>\n<li>Ability to Follow Questions \/ Answers<\/li>\n<li>Featured (Sticky) Question<\/li>\n<li>Closed questions<\/li>\n<li>Flag\/report questions and answers to moderator<\/li>\n<li>Basic user profile<\/li>\n<li>BuddyPress integration<\/li>\n<li>More to come&#8230;<\/li>\n<\/ul>\n<p><strong>Free Add-ons:<\/strong><\/p>\n<ul>\n<li>Reputations<\/li>\n<li>Tags<\/li>\n<li>Categories<\/li>\n<li>Bad words filter<\/li>\n<li>Email notifications<\/li>\n<li>reCaptcha<\/li>\n<li>Dynamic text avatar<\/li>\n<\/ul>\n<p>AnsPress is frequently updated and more features are added based on feedback from our users. This means you are welcome to give us feedback and suggestions as to what you would like to see or need in the plugin. Visit our Github project https:\/\/github.com\/anspress\/anspress  or visit our community https:\/\/anspress.net\/questions\/ to get updates and leave feedback.<\/p>\n<p><strong>Page Shortcodes<\/strong><\/p>\n<p>Use this shortcode in the base page of AnsPress to work properly<br \/>\n    [anspress]<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.4.0.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/anspress-question-answer\/assets\/screenshot-1.png?rev=2414999",
+            "caption": "<p>Question list page.<\/p>"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/anspress-question-answer\/assets\/screenshot-2.png?rev=2414999",
+            "caption": "<p>Single question page.<\/p>"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/anspress-question-answer\/assets\/screenshot-3.png?rev=2414999",
+            "caption": "<p>User profile<\/p>"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/anspress-question-answer\/assets\/screenshot-4.png?rev=2414999",
+            "caption": "<p>User hover card<\/p>"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/anspress-question-answer\/assets\/screenshot-5.png?rev=2414999",
+            "caption": "<p>Users directory<\/p>"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/anspress-question-answer\/assets\/screenshot-6.png?rev=2414999",
+            "caption": "<p>Notifications<\/p>"
+        }
+    },
+    "tags": {
+        "answer": "answer",
+        "forum": "forum",
+        "profile": "profile",
+        "qa": "q&amp;a",
+        "question": "question"
+    },
+    "stable_tag": "4.4.0",
+    "versions": {
+        "1.3.1": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.1.3.1.zip",
+        "1.4.3": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.1.4.3.zip",
+        "2.0.0-alpha": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.2.0.0-alpha.zip",
+        "2.0.2": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.2.0.2.zip",
+        "2.0.3": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.2.0.3.zip",
+        "2.0.4": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.2.0.4.zip",
+        "2.0.5": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.2.0.5.zip",
+        "2.4": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.2.4.zip",
+        "2.4.1": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.2.4.1.zip",
+        "2.4.3": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.2.4.3.zip",
+        "2.4.4": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.2.4.4.zip",
+        "2.4.6": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.2.4.6.zip",
+        "3.0.1": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.3.0.1.zip",
+        "3.0.2": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.3.0.2.zip",
+        "3.0.3": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.3.0.3.zip",
+        "3.0.6": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.3.0.6.zip",
+        "4.0.2": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.0.2.zip",
+        "4.0.3": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.0.3.zip",
+        "4.0.4": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.0.4.zip",
+        "4.0.5": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.0.5.zip",
+        "4.1.0": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.1.0.zip",
+        "4.1.1": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.1.1.zip",
+        "4.1.10": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.1.10.zip",
+        "4.1.11": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.1.11.zip",
+        "4.1.15": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.1.15.zip",
+        "4.1.20": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.1.20.zip",
+        "4.1.21": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.1.21.zip",
+        "4.1.22": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.1.22.zip",
+        "4.1.23": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.1.23.zip",
+        "4.1.24": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.1.24.zip",
+        "4.1.4": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.1.4.zip",
+        "4.1.7": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.1.7.zip",
+        "4.1.8": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.1.8.zip",
+        "4.1.9": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.1.9.zip",
+        "4.2.0": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.2.0.zip",
+        "4.2.1": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.2.1.zip",
+        "4.2.2": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.2.2.zip",
+        "4.2.3": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.2.3.zip",
+        "4.3.0": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.3.0.zip",
+        "4.3.1": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.3.1.zip",
+        "4.3.2": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.3.2.zip",
+        "4.4.0": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.4.0.zip",
+        "4.4.0-rc1": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.4.0-rc1.zip",
+        "4.4.0-rc2": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.4.0-rc2.zip",
+        "4.4.0-rc3": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.4.4.0-rc3.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/anspress-question-answer.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/www.paypal.me\/anspress",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/anspress-question-answer\/assets\/banner-772x250.png?rev=2414999",
+        "high": "https:\/\/ps.w.org\/anspress-question-answer\/assets\/banner-1544x500.png?rev=2414999"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/anspress-question-answer\/assets\/icon-128x128.png?rev=2432843",
+        "2x": "https:\/\/ps.w.org\/anspress-question-answer\/assets\/icon-256x256.png?rev=2432843"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 80,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "anspress-question-answer",
+            "language": "es_ES",
+            "version": "4.4.0",
+            "updated": "2024-04-13 07:56:35",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/anspress-question-answer\/4.4.0\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "anspress-question-answer",
+            "language": "es_MX",
+            "version": "4.4.0",
+            "updated": "2021-11-30 14:07:11",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/anspress-question-answer\/4.4.0\/es_MX.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "anspress-question-answer",
+            "language": "fr_FR",
+            "version": "4.4.0",
+            "updated": "2024-02-02 09:33:06",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/anspress-question-answer\/4.4.0\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "anspress-question-answer",
+            "language": "fr_CA",
+            "version": "4.4.0",
+            "updated": "2020-12-07 05:57:11",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/anspress-question-answer\/4.4.0\/fr_CA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "anspress-question-answer",
+            "language": "fr_BE",
+            "version": "4.4.0",
+            "updated": "2020-12-07 05:57:10",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/anspress-question-answer\/4.4.0\/fr_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "anspress-question-answer",
+            "language": "he_IL",
+            "version": "4.4.0",
+            "updated": "2020-12-07 05:57:22",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/anspress-question-answer\/4.4.0\/he_IL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "anspress-question-answer",
+            "language": "nl_NL",
+            "version": "4.4.0",
+            "updated": "2024-04-13 07:55:04",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/anspress-question-answer\/4.4.0\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "anspress-question-answer",
+            "language": "pl_PL",
+            "version": "4.4.0",
+            "updated": "2022-05-30 05:49:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/anspress-question-answer\/4.4.0\/pl_PL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "anspress-question-answer",
+            "language": "ru_RU",
+            "version": "4.4.0",
+            "updated": "2022-12-01 14:05:43",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/anspress-question-answer\/4.4.0\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "anspress-question-answer",
+            "language": "tr_TR",
+            "version": "4.4.0",
+            "updated": "2024-04-13 07:56:50",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/anspress-question-answer\/4.4.0\/tr_TR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "anspress-question-answer",
+            "language": "zh_CN",
+            "version": "4.4.0",
+            "updated": "2020-12-07 06:20:31",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/anspress-question-answer\/4.4.0\/zh_CN.zip"
+        }
+    ]
+}

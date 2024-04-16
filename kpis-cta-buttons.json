@@ -1,0 +1,105 @@
+{
+    "name": "KPIS CTA Buttons",
+    "slug": "kpis-cta-buttons",
+    "version": "2.0.2",
+    "author": "<a href=\"https:\/\/agenciakpis.com\">Agencia KPIS<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/agenciakpis\/",
+    "contributors": {
+        "agenciakpis": {
+            "profile": "https:\/\/profiles.wordpress.org\/agenciakpis\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/5c81df8c9d4810e1ec6b0ab7edeca7c6?s=96&d=monsterid&r=g",
+            "display_name": "Agencia KPIs"
+        },
+        "huuguu": {
+            "profile": "https:\/\/profiles.wordpress.org\/huuguu\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/f21147635748138248753239f7be5699?s=96&d=monsterid&r=g",
+            "display_name": "Hugo Calixto"
+        }
+    },
+    "requires": "6.2.2",
+    "tested": "6.2.5",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/kpis-cta-buttons\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 30,
+    "downloaded": 549,
+    "last_updated": "2024-03-11 6:44pm GMT",
+    "added": "2022-10-28",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Show float Buttons to CTA on sidebar websites. KPIS CTA Buttons is Easy to use &amp; atraction to conversion.<\/p>\n<h3>Available Languages<\/h3>\n<ul>\n<li>Spanish<\/li>\n<li>Portuguese-BR<\/li>\n<li>English<\/li>\n<\/ul>\n<h3>Demo<\/h3>\n<p>Homepage <a href=\"https:\/\/www.agenciakpis.com\/\" rel=\"nofollow ugc\">https:\/\/www.agenciakpis.com\/<\/a><br \/>\nInner Page <a href=\"https:\/\/www.agenciakpis.com\/servicios\/posicionamiento-seo\/\" rel=\"nofollow ugc\">https:\/\/www.agenciakpis.com\/servicios\/posicionamiento-seo\/<\/a><\/p>\n",
+        "installation": "<ol>\n<li>Unzip the downloaded &#8216;kpis-cta-buttons.zip&#8217; file<\/li>\n<li>Upload the &#8216;kpis-cta-buttons&#8217; folder to &#8216;\/wp-content\/plugins&#8217; directory of your WordPress installation<\/li>\n<li>Activate the plugin via the WordPress Plugins page<\/li>\n<li>A new submenu will automatically create on users menu<\/li>\n<\/ol>\n",
+        "faq": "<p>coming soon&#8230;<\/p>\n",
+        "changelog": "<h4>Version 2.0.1<\/h4>\n<p>Release date: 2023-07-09<br \/>\nUpdate freemius<\/p>\n<h4>Version 2.0<\/h4>\n<p>Release date: 2023-04-26<br \/>\nNew option to insert anchor text in contact with a 15-character limit<\/p>\n<h4>Version 1.0<\/h4>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/kpis-cta-buttons\/assets\/screenshot-1.png?rev=2806291\"><img src=\"https:\/\/ps.w.org\/kpis-cta-buttons\/assets\/screenshot-1.png?rev=2806291\" alt=\"The setup in wp-admin\"><\/a><p>The setup in wp-admin<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/kpis-cta-buttons\/assets\/screenshot-2.png?rev=2806291\"><img src=\"https:\/\/ps.w.org\/kpis-cta-buttons\/assets\/screenshot-2.png?rev=2806291\" alt=\"Example frontend Desktop on page home\"><\/a><p>Example frontend Desktop on page home<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/kpis-cta-buttons\/assets\/screenshot-3.png?rev=2806291\"><img src=\"https:\/\/ps.w.org\/kpis-cta-buttons\/assets\/screenshot-3.png?rev=2806291\" alt=\"Example frontend Desktop on inner page\"><\/a><p>Example frontend Desktop on inner page<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/kpis-cta-buttons\/assets\/screenshot-4.png?rev=2806291\"><img src=\"https:\/\/ps.w.org\/kpis-cta-buttons\/assets\/screenshot-4.png?rev=2806291\" alt=\"Example frontend Mobile on page home\"><\/a><p>Example frontend Mobile on page home<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/kpis-cta-buttons\/assets\/screenshot-5.png?rev=2806291\"><img src=\"https:\/\/ps.w.org\/kpis-cta-buttons\/assets\/screenshot-5.png?rev=2806291\" alt=\"Example frontend Mobile on inner page\"><\/a><p>Example frontend Mobile on inner page<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">very good plugin to quickly contact the company<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/nuriwag\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/91958a3ce52bae75e5b41b19cdf1b219?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/91958a3ce52bae75e5b41b19cdf1b219?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/nuriwag\/\" class=\"reviewer-name\">Nuria P\u00e9rez <small>(nuriwag)<\/small><\/a> on <span class=\"review-date\">April 3, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Allows you to quickly contact the company. In addition, it adapts very well on mobile devices<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Show float Buttons to CTA on sidebar websites. KPIS CTA Buttons is Easy to use &amp; atraction to conversion.",
+    "description": "<p>Show float Buttons to CTA on sidebar websites. KPIS CTA Buttons is Easy to use &amp; atraction to conversion.<\/p>\n<h3>Available Languages<\/h3>\n<ul>\n<li>Spanish<\/li>\n<li>Portuguese-BR<\/li>\n<li>English<\/li>\n<\/ul>\n<h3>Demo<\/h3>\n<p>Homepage <a href=\"https:\/\/www.agenciakpis.com\/\" rel=\"nofollow ugc\">https:\/\/www.agenciakpis.com\/<\/a><br \/>\nInner Page <a href=\"https:\/\/www.agenciakpis.com\/servicios\/posicionamiento-seo\/\" rel=\"nofollow ugc\">https:\/\/www.agenciakpis.com\/servicios\/posicionamiento-seo\/<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/kpis-cta-buttons.zip",
+    "upgrade_notice": {
+        "": "<p>N\/A<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/kpis-cta-buttons\/assets\/screenshot-1.png?rev=2806291",
+            "caption": "The setup in wp-admin"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/kpis-cta-buttons\/assets\/screenshot-2.png?rev=2806291",
+            "caption": "Example frontend Desktop on page home"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/kpis-cta-buttons\/assets\/screenshot-3.png?rev=2806291",
+            "caption": "Example frontend Desktop on inner page"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/kpis-cta-buttons\/assets\/screenshot-4.png?rev=2806291",
+            "caption": "Example frontend Mobile on page home"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/kpis-cta-buttons\/assets\/screenshot-5.png?rev=2806291",
+            "caption": "Example frontend Mobile on inner page"
+        }
+    },
+    "tags": {
+        "buttons": "buttons",
+        "call-to-action": "call to action",
+        "chat": "chat",
+        "cta": "cta",
+        "phone": "phone"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/kpis-cta-buttons\/assets\/banner-772x250.png?rev=2806370",
+        "high": "https:\/\/ps.w.org\/kpis-cta-buttons\/assets\/banner-1544x500.png?rev=2806370"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/kpis-cta-buttons\/assets\/icon-128x128.png?rev=2806303",
+        "2x": "https:\/\/ps.w.org\/kpis-cta-buttons\/assets\/icon-256x256.png?rev=2806303"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

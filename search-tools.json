@@ -1,0 +1,76 @@
+{
+    "name": "Search Tools",
+    "slug": "search-tools",
+    "version": "1.0.0",
+    "author": "<a href=\"https:\/\/www.toptal.com\/resume\/peter-stehlik\">Peter Stehlik<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/stehlik\/",
+    "contributors": {
+        "stehlik": {
+            "profile": "https:\/\/profiles.wordpress.org\/stehlik\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/20fc46885b77d6db7739f7ca88d7e9fb?s=96&d=monsterid&r=g",
+            "display_name": "Peter Stehl\u00edk"
+        }
+    },
+    "requires": "6.2",
+    "tested": "6.4.4",
+    "requires_php": "7.3",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/search-tools\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 23,
+    "last_updated": "2024-04-12 10:15am GMT",
+    "added": "2024-04-12",
+    "homepage": "https:\/\/www.wpsearchtools.com\/",
+    "sections": {
+        "description": "<p>WP Search Tools is a collection of useful improvements to the site search functionality.<\/p>\n<p>Do you know what people search for on your website, actually? WordPress core doesn\u2019t<br \/>\nstore any statistical data, but the WP Search Tools plugin shows detailed insights about the history of searched terms. The Insights is a great analytics tool which tells you what users really look for. No personal data is saved.<\/p>\n<p>Free version of the plugin extends the default search engine. It allows searching in post types, taxonomies, authors and meta data. The results are ordered by relevance not post date. All these parts of the WordPress are not included in the basic search. You can customize the settings by yourself to fit your needs.<\/p>\n<h4>Key Features<\/h4>\n<ul>\n<li>collects search terms what people look for<\/li>\n<li>displays graph with recent data<\/li>\n<li>sorts data according to the users (logged in, guests) and dates<\/li>\n<li>highlights the term if it has no results<\/li>\n<li>shows basic overview on the Dashboard<\/li>\n<li>extends default search engine with post types, meta data, taxonomies, meta data<\/li>\n<li>orders search results by relevance<\/li>\n<li>settings are customizable<\/li>\n<\/ul>\n<h3>Links<\/h3>\n<ul>\n<li><a href=\"https:\/\/www.wpsearchtools.com\/\" rel=\"nofollow ugc\">Website<\/a><\/li>\n<li><a href=\"https:\/\/github.com\/inovative-sk\/search-tools\" rel=\"nofollow ugc\">GitHub repository<\/a><\/li>\n<\/ul>\n",
+        "reviews": ""
+    },
+    "short_description": "Provides tools to boost the search experience. Extends search with post types, meta data, taxonomies, authors and collects statistics.",
+    "description": "<p>WP Search Tools is a collection of useful improvements to the site search functionality.<\/p>\n<p>Do you know what people search for on your website, actually? WordPress core doesn\u2019t<br \/>\nstore any statistical data, but the WP Search Tools plugin shows detailed insights about the history of searched terms. The Insights is a great analytics tool which tells you what users really look for. No personal data is saved.<\/p>\n<p>Free version of the plugin extends the default search engine. It allows searching in post types, taxonomies, authors and meta data. The results are ordered by relevance not post date. All these parts of the WordPress are not included in the basic search. You can customize the settings by yourself to fit your needs.<\/p>\n<h4>Key Features<\/h4>\n<ul>\n<li>collects search terms what people look for<\/li>\n<li>displays graph with recent data<\/li>\n<li>sorts data according to the users (logged in, guests) and dates<\/li>\n<li>highlights the term if it has no results<\/li>\n<li>shows basic overview on the Dashboard<\/li>\n<li>extends default search engine with post types, meta data, taxonomies, meta data<\/li>\n<li>orders search results by relevance<\/li>\n<li>settings are customizable<\/li>\n<\/ul>\n<h3>Links<\/h3>\n<ul>\n<li><a href=\"https:\/\/www.wpsearchtools.com\/\" rel=\"nofollow ugc\">Website<\/a><\/li>\n<li><a href=\"https:\/\/github.com\/inovative-sk\/search-tools\" rel=\"nofollow ugc\">GitHub repository<\/a><\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/search-tools.1.0.0.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "advanced-search": "advanced search",
+        "search": "search",
+        "search-insights": "search insights",
+        "search-statistics": "search statistics"
+    },
+    "stable_tag": "1.0.0",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/search-tools.1.0.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/search-tools.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "default": "https:\/\/s.w.org\/plugins\/geopattern-icon\/search-tools.svg"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [
+        {
+            "filename": "blueprint.json",
+            "url": "https:\/\/wordpress.org\/plugins\/wp-json\/plugins\/v1\/plugin\/search-tools\/blueprint.json?rev=3069520"
+        }
+    ],
+    "preview_link": "",
+    "language_packs": []
+}

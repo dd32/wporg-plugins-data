@@ -1,0 +1,150 @@
+{
+    "name": "WP Maintenance",
+    "slug": "wp-maintenance",
+    "version": "6.1.9.2",
+    "author": "<a href=\"https:\/\/madeby.restezconnectes.fr\">Florent Maillefaud<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/florent73\/",
+    "contributors": {
+        "florent73": {
+            "profile": "https:\/\/profiles.wordpress.org\/florent73\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/33ac1884fd6323036126812ab3630b96?s=96&d=monsterid&r=g",
+            "display_name": "Florent Maillefaud"
+        }
+    },
+    "requires": "3.0",
+    "tested": "6.5.2",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 96,
+    "ratings": {
+        "5": 80,
+        "4": 3,
+        "3": 2,
+        "2": 2,
+        "1": 2
+    },
+    "num_ratings": 89,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/wp-maintenance\/",
+    "support_threads": 1,
+    "support_threads_resolved": 0,
+    "active_installs": 50000,
+    "downloaded": 970062,
+    "last_updated": "2024-04-04 9:56pm GMT",
+    "added": "2013-02-13",
+    "homepage": "https:\/\/fr.wordpress.org\/plugins\/wp-maintenance\/",
+    "sections": {
+        "description": "<p>The WP Maintenance plugin allows you to put your website on the waiting time for you to do maintenance or launch your website. Personalize this page, pictures and countdown with:<\/p>\n<h3>Features<\/h3>\n<ul>\n<li>Choice texts colors and fonts<\/li>\n<li>Upload logo picture<\/li>\n<li>Upload background picture or pattern<\/li>\n<li>Countdown<\/li>\n<li>Custom Code Header for Analytics ready<\/li>\n<li>Social Networks ready<\/li>\n<li>Customize CSS<\/li>\n<li>Insert for shorcode (Newletter or Contact form)<\/li>\n<li>Enable &#8220;503 Service temporarily unavailable&#8221;<\/li>\n<li>Choose access by Roles and Capabilities<\/li>\n<li>Choose access by ID Pages<\/li>\n<li>Choose access by IP addresses<\/li>\n<\/ul>\n<p>wp-maintenance.pot file available<\/p>\n",
+        "installation": "<ol>\n<li>Upload the full directory into your &#8216;\/wp-content\/plugins&#8217; directory<\/li>\n<li>Activate the plugin at the plugin administration page<\/li>\n<\/ol>\n<p>You will find &#8216;WP Maintenance&#8217; menu in your WordPress admin panel<\/p>\n",
+        "faq": "\n<dt id='wp%20maintenance%20needs%20your%20support'>\nWP Maintenance Needs Your Support\n<\/h4>\n<p>\n<p>It is hard to continue development and support for this free plugin without contributions from users like you. If you enjoy using WP Maintenance and find it useful, please consider <a href=\"https:\/\/www.paypal.me\/RestezConnectes\/25\" rel=\"nofollow ugc\">making a donation<\/a>. Your donation will help encourage and support the plugin&#8217;s continued development and better user support.<\/p>\n<\/p>\n<dt id='i%20have%20activated%20plugin%20and%20don%E2%80%99t%20see%20any%20changes%2C%20looks%20like%20plugin%20is%20not%20working.'>\nI have activated plugin and don\u2019t see any changes, looks like plugin is not working.\n<\/h4>\n<p>\n<p>This is normal because you are logged in as an administrator. Try a different browser or use the preview link. If you have registered as a wordpress user, you see the site in normal mode.<\/p>\n<\/p>\n<dt id='i%20have%20disabled%20plugin%20but%20i%20don%E2%80%99t%20see%20any%20changes%2C%20i%20have%20always%20the%20maintenance%20page%2C%20looks%20like%20plugin%20is%20not%20working.'>\nI have disabled plugin but I don\u2019t see any changes, I have always the maintenance page, looks like plugin is not working.\n<\/h4>\n<p>\n<p>You have a cache plugin ? Try to purge it and try again.<\/p>\n<\/p>\n<dt id='where%20can%20i%20find%20out%20the%20login%20page%20to%20get%20to%20the%20site%3F'>\nWhere can I find out the login page to get to the site?\n<\/h4>\n<p>\n<p>You can use your administrator access or create new user in wordpress dashboard<br \/>\nhttps:\/\/yousite.com\/wp-admin\/<\/p>\n<\/p>\n<dt id='can%20i%20change%20the%20plugin%20code%3F'>\nCan I change the plugin code?\n<\/h4>\n<p>\n<p>Yes. Thank you for submitting your changes to update the plugin.<\/p>\n<\/p>\n<dt id='translations'>\nTranslations\n<\/h4>\n<p>\n<p>You can translate WP Maintenance on <a href=\"https:\/\/translate.wordpress.org\/projects\/wp-plugins\/wp-maintenance\" rel=\"nofollow ugc\"><strong>translate.wordpress.org<\/strong><\/a>.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>6.1.9.2<\/h4>\n<ul>\n<li>Fixed bug Google Fonts<\/li>\n<\/ul>\n<h4>6.1.9.1<\/h4>\n<ul>\n<li>Fixed bug Roles and Capabilities<\/li>\n<\/ul>\n<h4>6.1.9<\/h4>\n<ul>\n<li>Fixed security issue<\/li>\n<\/ul>\n<h4>6.1.8<\/h4>\n<ul>\n<li>Bug fixed for Disable REST API if not logged and maintenance no actived<\/li>\n<\/ul>\n<h4>6.1.7<\/h4>\n<ul>\n<li>Adding for disabled for display admin bar option<\/li>\n<li>Disable REST API if not logged<\/li>\n<\/ul>\n<h4>6.1.6<\/h4>\n<ul>\n<li>Optimized function for Google Fonts in stylesheet<\/li>\n<\/ul>\n<h4>6.1.5<\/h4>\n<ul>\n<li>Reintroducing IP address option. Tested and sanitize IP addresses<\/li>\n<li>ID pages option. Tested ID pages if exist and sanitize it <\/li>\n<\/ul>\n<h4>6.1.4<\/h4>\n<ul>\n<li>Remove IP address option for security<\/li>\n<\/ul>\n<h4>6.1.3<\/h4>\n<ul>\n<li>Bug checkbox fixed<\/li>\n<li>Bug Social Networks<\/li>\n<\/ul>\n<h4>6.1.2<\/h4>\n<ul>\n<li>Adding remove Google Fonts option<\/li>\n<\/ul>\n<h4>6.1.1<\/h4>\n<ul>\n<li>Bug Header Code fixed<\/li>\n<\/ul>\n<h4>6.1.0<\/h4>\n<ul>\n<li>Bug User Role autorized fixed<\/li>\n<li>Change Ip Addresses settings<\/li>\n<\/ul>\n<h4>6.0.9<\/h4>\n<ul>\n<li>Bug IP autorized fixed<\/li>\n<\/ul>\n<h4>6.0.8<\/h4>\n<ul>\n<li>Several security patches brought<\/li>\n<li>WARNING : somes parameters will be reinitilized, please check all<\/li>\n<\/ul>\n<h4>6.0.7<\/h4>\n<ul>\n<li>Remove Slider option<\/li>\n<li>Several security patches brought<\/li>\n<\/ul>\n<h4>6.0.6<\/h4>\n<ul>\n<li>Cross-Site Scripting (XSS) vulnerability fixed<\/li>\n<li>Bug fixed Social Icons<\/li>\n<li>Bugs minors resolved<\/li>\n<\/ul>\n<h4>6.0.5<\/h4>\n<ul>\n<li>Changing theme<\/li>\n<li>Using native CodeMirror<\/li>\n<\/ul>\n<h4>6.0.4<\/h4>\n<ul>\n<li>Adding Width and Height for image<\/li>\n<\/ul>\n<h4>6.0.3<\/h4>\n<ul>\n<li>Bug fixed Error Notice<\/li>\n<li>Bugs minors resolved<\/li>\n<\/ul>\n<h4>6.0.2<\/h4>\n<ul>\n<li>Bug fixed IP authorized<\/li>\n<\/ul>\n<h4>6.0.1<\/h4>\n<ul>\n<li>Bug fixed Code Analytics<\/li>\n<\/ul>\n<h4>6.0.0<\/h4>\n<ul>\n<li>New design<\/li>\n<li>This version is a major version and somes settings are changed. Check your settings after update.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/wp-maintenance\/assets\/screenshot-1.png?rev=2661063\"><img src=\"https:\/\/ps.w.org\/wp-maintenance\/assets\/screenshot-1.png?rev=2661063\" alt=\"General view\"><\/a><p>General view<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wp-maintenance\/assets\/screenshot-2.png?rev=2449063\"><img src=\"https:\/\/ps.w.org\/wp-maintenance\/assets\/screenshot-2.png?rev=2449063\" alt=\"View by visitors to your site\"><\/a><p>View by visitors to your site<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wp-maintenance\/assets\/screenshot-3.png?rev=2661063\"><img src=\"https:\/\/ps.w.org\/wp-maintenance\/assets\/screenshot-3.png?rev=2661063\" alt=\"Colors and fonts settings\"><\/a><p>Colors and fonts settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wp-maintenance\/assets\/screenshot-4.png?rev=2661063\"><img src=\"https:\/\/ps.w.org\/wp-maintenance\/assets\/screenshot-4.png?rev=2661063\" alt=\"Upload a personal header, background and slides picture\"><\/a><p>Upload a personal header, background and slides picture<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wp-maintenance\/assets\/screenshot-5.png?rev=2661063\"><img src=\"https:\/\/ps.w.org\/wp-maintenance\/assets\/screenshot-5.png?rev=2661063\" alt=\"Countdown settings\"><\/a><p>Countdown settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wp-maintenance\/assets\/screenshot-6.png?rev=2661063\"><img src=\"https:\/\/ps.w.org\/wp-maintenance\/assets\/screenshot-6.png?rev=2661063\" alt=\"CSS settings\"><\/a><p>CSS settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wp-maintenance\/assets\/screenshot-7.png?rev=2661063\"><img src=\"https:\/\/ps.w.org\/wp-maintenance\/assets\/screenshot-7.png?rev=2661063\" alt=\"Others settings\"><\/a><p>Others settings<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Super<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/sonetzen\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/bb4d04054cb0aa1602883e0d22a1d94f?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/bb4d04054cb0aa1602883e0d22a1d94f?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/sonetzen\/\" class=\"reviewer-name\">sonetzen<\/a> on <span class=\"review-date\">March 22, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">C'est parfait, et simple \u00e0 utiliser pour ses premiers pas avec Wordpress<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Parfait !<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/otis33470\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/5506abd2560ed534983314a43d23f45e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/5506abd2560ed534983314a43d23f45e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/otis33470\/\" class=\"reviewer-name\">otis33470<\/a> on <span class=\"review-date\">February 27, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Merci d'avoir remis la reconnaissance par IP, c'est vraiment un plus<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Perfect in every way!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/rjacob999\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/3507c383bf8b16d62b995ab2697e97fb?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/3507c383bf8b16d62b995ab2697e97fb?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/rjacob999\/\" class=\"reviewer-name\">rjacob999<\/a> on <span class=\"review-date\">November 11, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Amazing and this is how plugins should be; OVER DELIVERS!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Thanks a million :)<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Works Great and Customizable<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/danieldayton33\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/a354503da252d4693048a71ae1f90add?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/a354503da252d4693048a71ae1f90add?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/danieldayton33\/\" class=\"reviewer-name\">danieldayton33<\/a> on <span class=\"review-date\">August 3, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Been trying to found a good and free solution. This one exceed my expecations.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Amazing<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/partakaw\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/5a641b97e1811712c28fef9dd22ffb62?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/5a641b97e1811712c28fef9dd22ffb62?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/partakaw\/\" class=\"reviewer-name\">marios88 <small>(partakaw)<\/small><\/a> on <span class=\"review-date\">July 26, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Awesome, just works<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Best Maintenance Plugin. Simple complete and Beautiful<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/blue_life\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/dab8eed82d454954dfbe483821ef310e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/dab8eed82d454954dfbe483821ef310e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/blue_life\/\" class=\"reviewer-name\"> <small>(BLUE_LIFE)<\/small><\/a> on <span class=\"review-date\">July 21, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Perfect, simple, complete and beautiful.<br \/>Thank you !<br \/>Merci aux Dev's !<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/hairbox\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/3e7d6cea05e2a8b797ddf53eead7b0e5?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/3e7d6cea05e2a8b797ddf53eead7b0e5?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/hairbox\/\" class=\"reviewer-name\">Martin Zhekov <small>(hairbox)<\/small><\/a> on <span class=\"review-date\">July 7, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>&lt;font _mstmutation=\"1\"&gt;&lt;\/font&gt;&lt;font _mstmutation=\"1\" _msttexthash=\"11434111\" _msthash=\"391\"&gt;\u041d\u0438\u0449\u043e \u0434\u0440\u0443\u0433\u043e \u043d\u0435 \u0435 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e, \u0430\u043a\u043e \u0438\u043c\u0430\u0442\u0435 \u0442\u043e\u0432\u0430!&lt;\/font&gt;<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Best maintenance plugin ever!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/lucille85\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/8b20fa3a153e1c3c20890175ceed9920?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/8b20fa3a153e1c3c20890175ceed9920?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/lucille85\/\" class=\"reviewer-name\">Lucille85<\/a> on <span class=\"review-date\">June 22, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Thanks a lot for sharing this great and highly customizable plugin. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Wp Maintenance<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/bubumick69\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/04d6059d33a7509b876702db688e84f2?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/04d6059d33a7509b876702db688e84f2?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/bubumick69\/\" class=\"reviewer-name\">bubumick69<\/a> on <span class=\"review-date\">May 11, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Au top!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Tr\u00e8s utile !<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/frdpx\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b31cab12be4460c067e1e8a4a6074138?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b31cab12be4460c067e1e8a4a6074138?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/frdpx\/\" class=\"reviewer-name\">frdpx<\/a> on <span class=\"review-date\">May 10, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Plug in facile \u00e0 mettre en place, avec un rendu optimal <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Create and customize your maintenance page",
+    "description": "<p>The WP Maintenance plugin allows you to put your website on the waiting time for you to do maintenance or launch your website. Personalize this page, pictures and countdown with:<\/p>\n<h3>Features<\/h3>\n<ul>\n<li>Choice texts colors and fonts<\/li>\n<li>Upload logo picture<\/li>\n<li>Upload background picture or pattern<\/li>\n<li>Countdown<\/li>\n<li>Custom Code Header for Analytics ready<\/li>\n<li>Social Networks ready<\/li>\n<li>Customize CSS<\/li>\n<li>Insert for shorcode (Newletter or Contact form)<\/li>\n<li>Enable &#8220;503 Service temporarily unavailable&#8221;<\/li>\n<li>Choose access by Roles and Capabilities<\/li>\n<li>Choose access by ID Pages<\/li>\n<li>Choose access by IP addresses<\/li>\n<\/ul>\n<p>wp-maintenance.pot file available<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.1.9.2.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/wp-maintenance\/assets\/screenshot-1.png?rev=2661063",
+            "caption": "General view"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/wp-maintenance\/assets\/screenshot-2.png?rev=2449063",
+            "caption": "View by visitors to your site"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/wp-maintenance\/assets\/screenshot-3.png?rev=2661063",
+            "caption": "Colors and fonts settings"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/wp-maintenance\/assets\/screenshot-4.png?rev=2661063",
+            "caption": "Upload a personal header, background and slides picture"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/wp-maintenance\/assets\/screenshot-5.png?rev=2661063",
+            "caption": "Countdown settings"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/wp-maintenance\/assets\/screenshot-6.png?rev=2661063",
+            "caption": "CSS settings"
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/wp-maintenance\/assets\/screenshot-7.png?rev=2661063",
+            "caption": "Others settings"
+        }
+    },
+    "tags": {
+        "coming-soon": "coming soon",
+        "construction": "construction",
+        "launch": "launch",
+        "maintenance": "maintenance"
+    },
+    "stable_tag": "6.1.9.2",
+    "versions": {
+        "6.0.1": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.0.1.zip",
+        "6.0.2": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.0.2.zip",
+        "6.0.3": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.0.3.zip",
+        "6.0.4": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.0.4.zip",
+        "6.0.5": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.0.5.zip",
+        "6.0.6": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.0.6.zip",
+        "6.0.7": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.0.7.zip",
+        "6.0.8": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.0.8.zip",
+        "6.0.9": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.0.9.zip",
+        "6.1.0": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.1.0.zip",
+        "6.1.1": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.1.1.zip",
+        "6.1.2": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.1.2.zip",
+        "6.1.3": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.1.3.zip",
+        "6.1.4": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.1.4.zip",
+        "6.1.5": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.1.5.zip",
+        "6.1.6": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.1.6.zip",
+        "6.1.7": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.1.7.zip",
+        "6.1.8": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.1.8.zip",
+        "6.1.9": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.1.9.zip",
+        "6.1.9.1": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.1.9.1.zip",
+        "6.1.9.2": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.6.1.9.2.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/wp-maintenance.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/paypal.me\/restezconnectes\/20\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/wp-maintenance\/assets\/banner-772x250.png?rev=2661063",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/wp-maintenance\/assets\/icon-128x128.png?rev=2194706",
+        "2x": "https:\/\/ps.w.org\/wp-maintenance\/assets\/icon-256x256.png?rev=2194706"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 96,
+    "blueprints": [
+        {
+            "filename": "blueprint.json",
+            "url": "https:\/\/wordpress.org\/plugins\/wp-json\/plugins\/v1\/plugin\/wp-maintenance\/blueprint.json?rev=3069921"
+        }
+    ],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "wp-maintenance",
+            "language": "fr_FR",
+            "version": "6.1.9.2",
+            "updated": "2023-11-20 17:08:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wp-maintenance\/6.1.9.2\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wp-maintenance",
+            "language": "ru_RU",
+            "version": "6.1.9.2",
+            "updated": "2021-11-07 17:48:06",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wp-maintenance\/6.1.9.2\/ru_RU.zip"
+        }
+    ]
+}

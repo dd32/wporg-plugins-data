@@ -1,0 +1,189 @@
+{
+    "name": "Advanced Classic Editor",
+    "slug": "best-editor",
+    "version": "3.1.3",
+    "author": "<a href=\"https:\/\/dedidata.com\">DediData<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/dedidata\/",
+    "contributors": {
+        "dedidata": {
+            "profile": "https:\/\/profiles.wordpress.org\/dedidata\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/f69a56c77882b62840c5f2a40cd1b087?s=96&d=monsterid&r=g",
+            "display_name": "DediData"
+        },
+        "parsmizban": {
+            "profile": "https:\/\/profiles.wordpress.org\/parsmizban\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/f9456e0a85245eddae6ead8ff0fd73ec?s=96&d=monsterid&r=g",
+            "display_name": "ParsMizban"
+        },
+        "farhad0": {
+            "profile": "https:\/\/profiles.wordpress.org\/farhad0\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/0ebc32f2dc5921020c3b62738f4fa058?s=96&d=monsterid&r=g",
+            "display_name": "Farhad Sakhaei"
+        }
+    },
+    "requires": "6.0",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 86,
+    "ratings": {
+        "5": 6,
+        "4": 0,
+        "3": 1,
+        "2": 0,
+        "1": 1
+    },
+    "num_ratings": 8,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/best-editor\/",
+    "support_threads": 1,
+    "support_threads_resolved": 1,
+    "active_installs": 1000,
+    "downloaded": 26116,
+    "last_updated": "2024-03-23 8:10am GMT",
+    "added": "2017-09-02",
+    "homepage": "https:\/\/dedidata.com",
+    "sections": {
+        "description": "<p><strong>WordPress + TinyMCE + Font Awesome + Bootstrap<\/strong><br \/>\nThis plugin extends the buttons on the Visual Editor toolbar.<\/p>\n<p>It includes 20 plugins for WordPress Editor (TinyMCE)<\/p>\n<ul>\n<li>Insert Many Icons from Font Awesome Set easily, Change their Size or Border!<\/li>\n<li>Support HTML Templates (We will add many pre-designed templates soon!)<\/li>\n<li>Insert Table of Contents based on headings<\/li>\n<li>Insert sample of codes, and colorize them<\/li>\n<li>Insert emoticons<\/li>\n<li>Change Text Colors and Back Colors<\/li>\n<li>Great Context Menu<\/li>\n<li>Print, Paste as Text, Find and Replace, Insert Media, Special Characters, Horizontal Line, Read More Tag, Page Break Tag, Anchor, DateTime<\/li>\n<li>Support for creating and editing tables.<\/li>\n<li>Search and Replace in the editor.<\/li>\n<li>Show Blocks, Show Invisible Characters<\/li>\n<li>Insert predefined styles and Clear Formatting<\/li>\n<li>More options when inserting lists.<\/li>\n<li>Ability to set Font Family and Font Sizes.<\/li>\n<li>Full Screen and Preview Options<\/li>\n<li>And many others.<\/li>\n<\/ul>\n<p>Validated by:<br \/>\nhttps:\/\/wpreadme.com\/<br \/>\nhttps:\/\/wordpress.org\/plugins\/developers\/readme-validator<\/p>\n",
+        "installation": "<h3>Minimum Requirements<\/h3>\n<ul>\n<li>WordPress 6.0 or greater<\/li>\n<li>PHP 7.0 or greater is required (PHP 8.0 or greater is recommended)<\/li>\n<li>MySQL 5.6 or greater, OR MariaDB version 10.1 or greater, is required.<\/li>\n<\/ul>\n<h3>You can install this plugin in two ways:<\/h3>\n<h4>Automatic installation (Install from within WordPress)<\/h4>\n<p>Automatic installation is the easiest option, WordPress will handles the file transfer, and you won\u2019t need to leave your web browser.<\/p>\n<ol>\n<li>Log in to your WordPress dashboard<\/li>\n<li>Navigate to the Plugins menu within your dashboard<\/li>\n<li>click \u201cAdd New.\u201d<\/li>\n<li>In the search field type the name of this plugin and then click \u201cSearch Plugins.\u201d<\/li>\n<li>Once you\u2019ve found us,  you can view details about it such as the point release, rating, and description.<\/li>\n<li>Most importantly of course, you can install it by! Click \u201cInstall Now,\u201d and WordPress will take it from there.<\/li>\n<li>Activate the plugin from your Plugins page<\/li>\n<\/ol>\n<h4>Manual installation<\/h4>\n<p>Manual installation method requires downloading the this plugin and uploading it to your web server via your favorite FTP application. The WordPress codex contains <a href=\"https:\/\/wordpress.org\/support\/article\/managing-plugins\/#manual-plugin-installation\" rel=\"ugc\">instructions on how to do this here<\/a>.<\/p>\n<ol>\n<li>Download the plugin ZIP file and extract it<\/li>\n<li>Upload the extracted folder to the \/wp-content\/plugins\/ directory<\/li>\n<li>Activate the plugin through the \u2018Plugins\u2019 menu in WordPress<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='no%20styles%20are%20imported%20in%20the%20formats%20sub-menu%20%21'>\nNo styles are imported in the Formats sub-menu !\n<\/h4>\n<p>\n<p>These styles are imported from your current theme editor-style.css file. However some themes do not have this functionality.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>3.1.0<\/h4>\n<ul>\n<li>Bootstrap and FontAwesome Update<\/li>\n<\/ul>\n<h4>3.0.0<\/h4>\n<ul>\n<li>Whole plugin rewritten<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>First Release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/best-editor\/assets\/screenshot-1.jpg?rev=1723576\"><img src=\"https:\/\/ps.w.org\/best-editor\/assets\/screenshot-1.jpg?rev=1723576\" alt=\"WordPress Editor after installing this plugin\"><\/a><p>WordPress Editor after installing this plugin<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/best-editor\/assets\/screenshot-2.JPG?rev=1723576\"><img src=\"https:\/\/ps.w.org\/best-editor\/assets\/screenshot-2.JPG?rev=1723576\" alt=\"Insert Font Awesome Icons Menu\"><\/a><p>Insert Font Awesome Icons Menu<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/best-editor\/assets\/screenshot-3.JPG?rev=1723576\"><img src=\"https:\/\/ps.w.org\/best-editor\/assets\/screenshot-3.JPG?rev=1723576\" alt=\"Insert Font Awesome Icons\"><\/a><p>Insert Font Awesome Icons<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/best-editor\/assets\/screenshot-4.JPG?rev=1723576\"><img src=\"https:\/\/ps.w.org\/best-editor\/assets\/screenshot-4.JPG?rev=1723576\" alt=\"Insert Font Awesome Icons (Different Groups)\"><\/a><p>Insert Font Awesome Icons (Different Groups)<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/best-editor\/assets\/screenshot-5.JPG?rev=1723576\"><img src=\"https:\/\/ps.w.org\/best-editor\/assets\/screenshot-5.JPG?rev=1723576\" alt=\"Insert Font Awesome Icons (Different Sizes)\"><\/a><p>Insert Font Awesome Icons (Different Sizes)<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/best-editor\/assets\/screenshot-6.jpg?rev=1723576\"><img src=\"https:\/\/ps.w.org\/best-editor\/assets\/screenshot-6.jpg?rev=1723576\" alt=\"Insert Table of Contents\"><\/a><p>Insert Table of Contents<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/best-editor\/assets\/screenshot-7.jpg?rev=1723576\"><img src=\"https:\/\/ps.w.org\/best-editor\/assets\/screenshot-7.jpg?rev=1723576\" alt=\"Insert Code Sample\"><\/a><p>Insert Code Sample<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/best-editor\/assets\/screenshot-8.jpg?rev=1723576\"><img src=\"https:\/\/ps.w.org\/best-editor\/assets\/screenshot-8.jpg?rev=1723576\" alt=\"PHP Code Sample\"><\/a><p>PHP Code Sample<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/best-editor\/assets\/screenshot-9.jpg?rev=1723576\"><img src=\"https:\/\/ps.w.org\/best-editor\/assets\/screenshot-9.jpg?rev=1723576\" alt=\"Insert Table\"><\/a><p>Insert Table<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/best-editor\/assets\/screenshot-10.jpg?rev=1723576\"><img src=\"https:\/\/ps.w.org\/best-editor\/assets\/screenshot-10.jpg?rev=1723576\" alt=\"Show Blocks\"><\/a><p>Show Blocks<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Best TinyMCE addon<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/audioscavenger\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/6aaef04419458c1a6f40115380cf2605?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/6aaef04419458c1a6f40115380cf2605?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/audioscavenger\/\" class=\"reviewer-name\">audioscavenger<\/a> on <span class=\"review-date\">March 23, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This plugin has only 1 competitor: \"Advanced editor tools\" by <em>Automattic<\/em>. I mention it because I tested both. Atomattic's only adds the table and top menu capabilities, while <strong>Advanced Classic Editor<\/strong> also add icons, buttons, alerts, and other bootstrap related stuff to make your life easier.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Also I just reported an error with font-awesome, which analyzed by plugin author, fixed and released within hours by plugin author = KUDOS to him!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Thanks to this plugin, I could get rid of three others which only added bootstrap shortcodes and tables. I cannot thank this author enough. This is real good and brings TinyMCE back to life again.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">It surely can be expanded with more bootstrap stuff like other premium plugins, but that's the cost of free stuff and I'm willing to keep it that way.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Eddig ez a legjobb<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/rnorbert83\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/3a718ce68e02cfdc9ec7b82ababac3bc?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/3a718ce68e02cfdc9ec7b82ababac3bc?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/rnorbert83\/\" class=\"reviewer-name\">rnorbert83<\/a> on <span class=\"review-date\">December 1, 2019<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Eddig t\u00f6bbet is kipr\u00f3b\u00e1ltam, de most ez a legjobb! K\u00f6sz\u00f6n\u00f6m!<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">The best ever<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jrvg033\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/47c4f714bb3a88ead832fa57b7bf0160?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/47c4f714bb3a88ead832fa57b7bf0160?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jrvg033\/\" class=\"reviewer-name\">Jesus Ruben Velazquez Gutierrez <small>(jrvg033)<\/small><\/a> on <span class=\"review-date\">July 18, 2018<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">The best plugin I found for the visual editor. Thank you<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">It works fine, but it only appears in post post editor<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"3 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"3\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/maliaga\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/75006a8019fd65ab6ffbe17a0ee35b66?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/75006a8019fd65ab6ffbe17a0ee35b66?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/maliaga\/\" class=\"reviewer-name\">maliaga<\/a> on <span class=\"review-date\">April 4, 2018<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">It seems to work fine, but for woocommerce the editor does not appear when creating a product, some way to integrate it?\nIt would be good to improve it or in any case how to integrate it with simple code to other editing spaces.\nregards<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u0412\u0435\u043b\u0438\u043a\u043e\u043b\u0435\u043f\u043d\u044b\u0439 \u043f\u043b\u0430\u0433\u0438\u043d!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/01bit\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b4db8e9acf90b519760ebcff9de29205?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b4db8e9acf90b519760ebcff9de29205?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/01bit\/\" class=\"reviewer-name\">Evgeny <small>(01bit)<\/small><\/a> on <span class=\"review-date\">February 11, 2018<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">\u041e\u0447\u0435\u043d\u044c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u043f\u043b\u0430\u0433\u0438\u043d. \u0412\u0441\u0435\u043c \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u044e.<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Clearn Source<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mostafas1990\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e3631726d155eac3e02f76ce86675b5e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e3631726d155eac3e02f76ce86675b5e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mostafas1990\/\" class=\"reviewer-name\">Mostafa Soufi <small>(mostafa.s1990)<\/small><\/a> on <span class=\"review-date\">November 18, 2017<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">This plugin has the clean codes and has the best practice of doing the process.<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Nice plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/krzysztofm\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/663c0f883b5d2df7f0f2ec5346ba458d?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/663c0f883b5d2df7f0f2ec5346ba458d?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/krzysztofm\/\" class=\"reviewer-name\">krzysztofm<\/a> on <span class=\"review-date\">September 4, 2017<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><strong>Nice plugin<\/strong> all is working fine<\/div>\n<\/div>\n"
+    },
+    "short_description": "Advanced Classic Editor - Your powerful WordPress editor, Insert many Icons, Insert Table of contents, etc.",
+    "description": "<p><strong>WordPress + TinyMCE + Font Awesome + Bootstrap<\/strong><br \/>\nThis plugin extends the buttons on the Visual Editor toolbar.<\/p>\n<p>It includes 20 plugins for WordPress Editor (TinyMCE)<\/p>\n<ul>\n<li>Insert Many Icons from Font Awesome Set easily, Change their Size or Border!<\/li>\n<li>Support HTML Templates (We will add many pre-designed templates soon!)<\/li>\n<li>Insert Table of Contents based on headings<\/li>\n<li>Insert sample of codes, and colorize them<\/li>\n<li>Insert emoticons<\/li>\n<li>Change Text Colors and Back Colors<\/li>\n<li>Great Context Menu<\/li>\n<li>Print, Paste as Text, Find and Replace, Insert Media, Special Characters, Horizontal Line, Read More Tag, Page Break Tag, Anchor, DateTime<\/li>\n<li>Support for creating and editing tables.<\/li>\n<li>Search and Replace in the editor.<\/li>\n<li>Show Blocks, Show Invisible Characters<\/li>\n<li>Insert predefined styles and Clear Formatting<\/li>\n<li>More options when inserting lists.<\/li>\n<li>Ability to set Font Family and Font Sizes.<\/li>\n<li>Full Screen and Preview Options<\/li>\n<li>And many others.<\/li>\n<\/ul>\n<p>Validated by:<br \/>\nhttps:\/\/wpreadme.com\/<br \/>\nhttps:\/\/wordpress.org\/plugins\/developers\/readme-validator<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/best-editor.3.1.3.zip",
+    "upgrade_notice": {
+        "": "<p>Automatic updates should work smoothly, but we still recommend you back up your site.<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/best-editor\/assets\/screenshot-1.jpg?rev=1723576",
+            "caption": "WordPress Editor after installing this plugin"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/best-editor\/assets\/screenshot-2.JPG?rev=1723576",
+            "caption": "Insert Font Awesome Icons Menu"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/best-editor\/assets\/screenshot-3.JPG?rev=1723576",
+            "caption": "Insert Font Awesome Icons"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/best-editor\/assets\/screenshot-4.JPG?rev=1723576",
+            "caption": "Insert Font Awesome Icons (Different Groups)"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/best-editor\/assets\/screenshot-5.JPG?rev=1723576",
+            "caption": "Insert Font Awesome Icons (Different Sizes)"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/best-editor\/assets\/screenshot-6.jpg?rev=1723576",
+            "caption": "Insert Table of Contents"
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/best-editor\/assets\/screenshot-7.jpg?rev=1723576",
+            "caption": "Insert Code Sample"
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/best-editor\/assets\/screenshot-8.jpg?rev=1723576",
+            "caption": "PHP Code Sample"
+        },
+        "9": {
+            "src": "https:\/\/ps.w.org\/best-editor\/assets\/screenshot-9.jpg?rev=1723576",
+            "caption": "Insert Table"
+        },
+        "10": {
+            "src": "https:\/\/ps.w.org\/best-editor\/assets\/screenshot-10.jpg?rev=1723576",
+            "caption": "Show Blocks"
+        }
+    },
+    "tags": {
+        "bootstrap": "bootstrap",
+        "editor": "editor",
+        "fontawesome": "FontAwesome",
+        "wordpress-editor": "Wordpress Editor",
+        "wysiwyg": "wysiwyg"
+    },
+    "stable_tag": "3.1.3",
+    "versions": {
+        "3.0.0": "https:\/\/downloads.wordpress.org\/plugin\/best-editor.3.0.0.zip",
+        "3.1.2": "https:\/\/downloads.wordpress.org\/plugin\/best-editor.3.1.2.zip",
+        "3.1.3": "https:\/\/downloads.wordpress.org\/plugin\/best-editor.3.1.3.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/best-editor.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/dedidata.com",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/best-editor\/assets\/banner-772x250.png?rev=1760761",
+        "high": "https:\/\/ps.w.org\/best-editor\/assets\/banner-1544x500.png?rev=1760761"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/best-editor\/assets\/icon-128x128.png?rev=1760716",
+        "2x": "https:\/\/ps.w.org\/best-editor\/assets\/icon-256x256.png?rev=1760716"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 86,
+    "blueprints": [
+        {
+            "filename": "blueprint.json",
+            "url": "https:\/\/wordpress.org\/plugins\/wp-json\/plugins\/v1\/plugin\/best-editor\/blueprint.json?rev=3057264"
+        }
+    ],
+    "preview_link": "https:\/\/wordpress.org\/plugins\/best-editor\/?preview=1",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "best-editor",
+            "language": "en_GB",
+            "version": "3.1.3",
+            "updated": "2024-03-23 08:46:31",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/best-editor\/3.1.3\/en_GB.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "best-editor",
+            "language": "en_ZA",
+            "version": "3.1.3",
+            "updated": "2024-03-10 14:40:42",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/best-editor\/3.1.3\/en_ZA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "best-editor",
+            "language": "en_NZ",
+            "version": "3.1.3",
+            "updated": "2018-08-05 21:30:56",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/best-editor\/3.1.3\/en_NZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "best-editor",
+            "language": "en_CA",
+            "version": "3.1.3",
+            "updated": "2018-08-05 21:30:55",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/best-editor\/3.1.3\/en_CA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "best-editor",
+            "language": "en_AU",
+            "version": "3.1.3",
+            "updated": "2018-08-05 21:30:54",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/best-editor\/3.1.3\/en_AU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "best-editor",
+            "language": "fa_IR",
+            "version": "3.1.3",
+            "updated": "2024-03-13 10:33:32",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/best-editor\/3.1.3\/fa_IR.zip"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "name": "Pages with category and tag",
+    "slug": "pages-with-category-and-tag",
+    "version": "0.9.0",
+    "author": "<a href=\"https:\/\/back2nature.jp\/\">YAHMAN<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/back2nature\/",
+    "contributors": {
+        "back2nature": {
+            "profile": "https:\/\/profiles.wordpress.org\/back2nature\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2f51d14b7c2f42fc2ca64cd37dbf2ed4?s=96&d=monsterid&r=g",
+            "display_name": "YAHMAN"
+        }
+    },
+    "requires": "3.0",
+    "tested": "6.5.2",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 94,
+    "ratings": {
+        "5": 17,
+        "4": 0,
+        "3": 1,
+        "2": 1,
+        "1": 0
+    },
+    "num_ratings": 19,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/pages-with-category-and-tag\/",
+    "support_threads": 4,
+    "support_threads_resolved": 0,
+    "active_installs": 30000,
+    "downloaded": 68187,
+    "last_updated": "2024-03-20 6:50am GMT",
+    "added": "2018-06-17",
+    "homepage": "https:\/\/dev.back2nature.jp\/en\/pages-with-category-and-tag\/",
+    "sections": {
+        "description": "<p>Add Categories and Tags to Pages.<\/p>\n",
+        "installation": "<ol>\n<li>Upload <code>pages-with-category-and-tag<\/code> folder into your <code>\/wp-content\/plugins\/<\/code> directory<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress<\/li>\n<li>Add Categories and Tags to your page<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='will%20the%20url%20change%20if%20i%20set%20a%20category%20for%20a%20page%3F'>\nWill the URL change if I set a category for a page?\n<\/h4>\n<p>\n<p>No, it doesn&#8217;t change.<\/p>\n<\/p>\n<dt id='i%20have%20set%20a%20category%2C%20but%20it%20is%20not%20displayed%20on%20the%20page.'>\nI have set a category, but it is not displayed on the page.\n<\/h4>\n<p>\n<p>This plugin does not have any display functions. It will not be displayed if your theme is not compatible.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>0.9.0<\/h4>\n<ul>\n<li>Released: June 16, 2018<\/li>\n<li>New release.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/pages-with-category-and-tag\/assets\/screenshot-1.png?rev=1895498\"><img src=\"https:\/\/ps.w.org\/pages-with-category-and-tag\/assets\/screenshot-1.png?rev=1895498\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/pages-with-category-and-tag\/assets\/screenshot-2.png?rev=2616154\"><img src=\"https:\/\/ps.w.org\/pages-with-category-and-tag\/assets\/screenshot-2.png?rev=2616154\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Magic !<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/alt77x\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/87221e29d1a5c4a07822e1fe510de4a6?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/87221e29d1a5c4a07822e1fe510de4a6?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/alt77x\/\" class=\"reviewer-name\">alt77x<\/a> on <span class=\"review-date\">April 1, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Great Plugin works well, Thanks..<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Issue with shared nature of the plug-in<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"3 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"3\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/fusion01\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d47e141e5439ecae0a77a80043ad0cf7?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d47e141e5439ecae0a77a80043ad0cf7?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/fusion01\/\" class=\"reviewer-name\">fusion01<\/a> on <span class=\"review-date\">March 30, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Hello. I see all tags and categories are being SHARED between posts and pages. This I do not want. For example I'd like to show a tag cloud relating to PAGES only. Yet it will show obviously all tags relating to both. I add a tag to a page and it's duplicated for the standard post type too. Could there not be as setting whereby one can choose for them to be completely seperate?<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Add &quot;Without category&quot;<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/claudiu-t\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/be986a5d9d559bce390b02738214e861?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/be986a5d9d559bce390b02738214e861?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/claudiu-t\/\" class=\"reviewer-name\">Claudiu T.<\/a> on <span class=\"review-date\">March 27, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Hello,<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Thank you for providing this plugin. It has proven to be quite useful for me.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I have a proposal and a request at the same time: Could you consider adding an option to the filter for pages without a category?<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Thank you!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">It works !<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/anonymized-22002234\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/fa8ee631f25e6183e3f8758b28bfab76?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/fa8ee631f25e6183e3f8758b28bfab76?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/anonymized-22002234\/\" class=\"reviewer-name\">Anonymous User 22002234 <small>(anonymized_22002234)<\/small><\/a> on <span class=\"review-date\">March 7, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I love it, it works. Easy to install and use. It does exactly what it was intended for. Thank you !!!!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Not in URL<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"2 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"2\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jmeyer2485\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/533689a1453b44efa74a7d7ac530519b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/533689a1453b44efa74a7d7ac530519b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jmeyer2485\/\" class=\"reviewer-name\">CypressWebs <small>(jmeyer2485)<\/small><\/a> on <span class=\"review-date\">October 9, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Does not add the category to the permalink URL like in posts<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Flawlessly<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jpptr\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/43376932b048edc6aadb5f400989a56e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/43376932b048edc6aadb5f400989a56e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jpptr\/\" class=\"reviewer-name\">jpptr<\/a> on <span class=\"review-date\">July 22, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I had the pleasure of installing Pages with Categories and Tags and seeing it doing exactly what it's supposed to do, flawlessly.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Also, I submitted a question and received a quick response from the author.  It has made me feel valued as a user.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Five stars, no doubts! \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Does what is does well<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jrnmrs\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/2c78f42b6a186c5c4cff7b78dc7bce72?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/2c78f42b6a186c5c4cff7b78dc7bce72?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jrnmrs\/\" class=\"reviewer-name\">Jeroen <small>(jrnmrs)<\/small><\/a> on <span class=\"review-date\">March 2, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>This plugin doesn't do much, but it does it well. It makes it possible for me to add categories to pages and use them. I have not found any functionality yet, in core or plugins, that doesn't work with the categories for pages from this plugin as it does with normal categories for posts.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Simple, and VERY Effective! Seriously.<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/8flixs\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/de2631ee373bca04bca1e28d08539c2c?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/de2631ee373bca04bca1e28d08539c2c?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/8flixs\/\" class=\"reviewer-name\">8flixs<\/a> on <span class=\"review-date\">December 6, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Well, I was skeptical at first, even after reading all the positive reviews. But like others have said, \"simple, effective.\" It does exactly what I want it to do. Thank you, YAHMAN, for making this available. (I only wish I'd known about it 12 hours ago) ;-) <\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great Plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/tyealia\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/5b01f5332e506e323531e6a43cda71ee?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/5b01f5332e506e323531e6a43cda71ee?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/tyealia\/\" class=\"reviewer-name\">tyealia<\/a> on <span class=\"review-date\">October 18, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Does exactly as advertized!<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">EXCELLENT - Amazing!!!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jjnw\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/7f69d47ae20a464059aa0230d49f11d5?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/7f69d47ae20a464059aa0230d49f11d5?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jjnw\/\" class=\"reviewer-name\">JJNW<\/a> on <span class=\"review-date\">May 4, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">This is exactly what I wanted - and it worked flawless, and it works even in Pages listed \"Quick Edit\"! Thank you!!!!!!!<\/div>\n<\/div>\n"
+    },
+    "short_description": "Add Categories and Tags to Pages.",
+    "description": "<p>Add Categories and Tags to Pages.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/pages-with-category-and-tag.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/pages-with-category-and-tag\/assets\/screenshot-1.png?rev=1895498",
+            "caption": ""
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/pages-with-category-and-tag\/assets\/screenshot-2.png?rev=2616154",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "add": "add",
+        "category": "category",
+        "page": "page",
+        "tag": "tag"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/dev.back2nature.jp\/en\/donations\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/pages-with-category-and-tag\/assets\/banner-772x250.png?rev=1895492",
+        "high": "https:\/\/ps.w.org\/pages-with-category-and-tag\/assets\/banner-1544x500.png?rev=1895492"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/pages-with-category-and-tag\/assets\/icon.svg?rev=1895492",
+        "svg": "https:\/\/ps.w.org\/pages-with-category-and-tag\/assets\/icon.svg?rev=1895492"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 94,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "pages-with-category-and-tag",
+            "language": "cs_CZ",
+            "version": "0.9.0",
+            "updated": "2022-05-19 13:29:35",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pages-with-category-and-tag\/0.9.0\/cs_CZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pages-with-category-and-tag",
+            "language": "ja",
+            "version": "0.9.0",
+            "updated": "2019-01-09 08:36:05",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pages-with-category-and-tag\/0.9.0\/ja.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pages-with-category-and-tag",
+            "language": "nl_NL",
+            "version": "0.9.0",
+            "updated": "2022-02-04 09:37:42",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pages-with-category-and-tag\/0.9.0\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pages-with-category-and-tag",
+            "language": "nl_BE",
+            "version": "0.9.0",
+            "updated": "2022-02-04 09:34:51",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pages-with-category-and-tag\/0.9.0\/nl_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pages-with-category-and-tag",
+            "language": "nl_NL_formal",
+            "version": "0.9.0",
+            "updated": "2022-02-04 09:38:32",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pages-with-category-and-tag\/0.9.0\/nl_NL_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "pages-with-category-and-tag",
+            "language": "sv_SE",
+            "version": "0.9.0",
+            "updated": "2021-12-31 19:49:11",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/pages-with-category-and-tag\/0.9.0\/sv_SE.zip"
+        }
+    ]
+}

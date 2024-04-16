@@ -1,0 +1,83 @@
+{
+    "name": "Honeypot Anti Spam for Forminator Forms",
+    "slug": "honeypot-for-forminator-form",
+    "version": "0.2.1",
+    "author": "<a href=\"https:\/\/kgmservizi.com\">KGM Servizi<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/kgmservizi\/",
+    "contributors": {
+        "kgmservizi": {
+            "profile": "https:\/\/profiles.wordpress.org\/kgmservizi\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/e0f45f75aaff26b4f49d342112d43c13?s=96&d=monsterid&r=g",
+            "display_name": "kgmservizi"
+        }
+    },
+    "requires": "5.2",
+    "tested": "6.4.4",
+    "requires_php": "5.6.20",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/honeypot-for-forminator-form\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 200,
+    "downloaded": 1009,
+    "last_updated": "2024-02-26 11:17am GMT",
+    "added": "2023-04-25",
+    "homepage": "",
+    "sections": {
+        "description": "<p><strong>Don&#8217;t work? Open ticket, we answer in max 48h.<\/strong><\/p>\n<p><strong>In order to function correctly, the user&#8217;s browser must have Javascript enabled!<\/strong><\/p>\n<p>I&#8217;m try a new solution for a better honeypot for Forminator Contact Form, Payment Form &amp; Custom Form Builder. Spam protection, anti-spam for Forminator Forms.<\/p>\n<p>You only have to activate the plugin to make it work on all forms.<br \/>\nPlugin add a new field <strong>(with js)<\/strong> on your forms and check if it exists or it is valorized.<\/p>\n<p>To change the name of the honeypot input you will find a settings page under the WordPress tools menu.<\/p>\n",
+        "installation": "<ol>\n<li>Upload the plugin files to the &#8216;\/wp-content\/plugins\/&#8217; directory, or install the plugin through the WordPress add plugins page directly.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; page in WordPress.<\/li>\n<li>Clean cache.<\/li>\n<li>You can found settings for randomize honeypot field name under tools.<\/li>\n<\/ol>\n",
+        "changelog": "<h4>0.2.1<\/h4>\n<ul>\n<li>Bugfix and readme update 6.4 compatibility<\/li>\n<\/ul>\n<h4>0.2<\/h4>\n<ul>\n<li>Protection log<\/li>\n<\/ul>\n<h4>0.1<\/h4>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Made a huge difference so far!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/chocotaco\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/ad973a77c51afa20163f990a09f0cda4?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/ad973a77c51afa20163f990a09f0cda4?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/chocotaco\/\" class=\"reviewer-name\">chocotaco<\/a> on <span class=\"review-date\">February 12, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Even with both the built-in Honeypot and ReCaptcha enabled, I was getting a ton of spam in one of my Forminator Forms. It almost seemed like I started getting <em>more<\/em> spam after I turned the built-in Honeypot on.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">It's been 24 hours now with this plugin and I haven't gotten a single spam email. Normal submissions are still getting through, and site speed hasn't been affected at all.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Thanks so much to the dev for turning this into a plugin!!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "I&#039;m try a new solution for a better honeypot for Forminator Contact Form, Payment Form &amp; Custom Form Builder. Spam protection for Forminator  &hellip;",
+    "description": "<p><strong>Don&#8217;t work? Open ticket, we answer in max 48h.<\/strong><\/p>\n<p><strong>In order to function correctly, the user&#8217;s browser must have Javascript enabled!<\/strong><\/p>\n<p>I&#8217;m try a new solution for a better honeypot for Forminator Contact Form, Payment Form &amp; Custom Form Builder. Spam protection, anti-spam for Forminator Forms.<\/p>\n<p>You only have to activate the plugin to make it work on all forms.<br \/>\nPlugin add a new field <strong>(with js)<\/strong> on your forms and check if it exists or it is valorized.<\/p>\n<p>To change the name of the honeypot input you will find a settings page under the WordPress tools menu.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/honeypot-for-forminator-form.0.2.1.zip",
+    "upgrade_notice": {
+        "0.2.1": "<p>Bugfix and readme update 6.4 compatibility.<\/p>",
+        "0.2": "<p>Protection log.<\/p>",
+        "0.1": "<p>Initial release.<\/p>"
+    },
+    "screenshots": [],
+    "tags": {
+        "antispam": "antispam",
+        "forminator": "forminator",
+        "honeypot": "honeypot",
+        "spam": "spam"
+    },
+    "stable_tag": "0.2.1",
+    "versions": {
+        "0.1": "https:\/\/downloads.wordpress.org\/plugin\/honeypot-for-forminator-form.0.1.zip",
+        "0.2": "https:\/\/downloads.wordpress.org\/plugin\/honeypot-for-forminator-form.0.2.zip",
+        "0.2.1": "https:\/\/downloads.wordpress.org\/plugin\/honeypot-for-forminator-form.0.2.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/honeypot-for-forminator-form.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/kgmservizi.com",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/honeypot-for-forminator-form\/assets\/banner-772x250.png?rev=2903767",
+        "high": "https:\/\/ps.w.org\/honeypot-for-forminator-form\/assets\/banner-1544x500.png?rev=2903767"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/honeypot-for-forminator-form\/assets\/icon-128x128.png?rev=2903767",
+        "2x": "https:\/\/ps.w.org\/honeypot-for-forminator-form\/assets\/icon-256x256.png?rev=2903767"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

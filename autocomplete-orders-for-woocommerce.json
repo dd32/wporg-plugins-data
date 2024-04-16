@@ -1,0 +1,85 @@
+{
+    "name": "Autocomplete Orders for WooCommerce",
+    "slug": "autocomplete-orders-for-woocommerce",
+    "version": "1.0.0",
+    "author": "<a href=\"https:\/\/urldev.com\/\">UrlDev<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/urldev\/",
+    "contributors": {
+        "urldev": {
+            "profile": "https:\/\/profiles.wordpress.org\/urldev\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3fa0dadc97ac26c58eaee80900e03ea4?s=96&d=monsterid&r=g",
+            "display_name": "UrlDev"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.5.2",
+    "requires_php": "5.6",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/autocomplete-orders-for-woocommerce\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 23,
+    "last_updated": "2024-04-14 9:10am GMT",
+    "added": "2024-04-14",
+    "homepage": "https:\/\/urldev.com\/plugins\/autocomplete-orders-for-woocommerce\/",
+    "sections": {
+        "description": "<p>The Autocomplete Orders for WooCommerce plugin will change the wc order status to be completed automatically upon various payment conditions. Autocomplete Orders for WooCommerce plugin is compatible with all major payment gateways including WooCommerce payment, PayPal, 2Checkout, SagePay, Stripe and many more.<\/p>\n<h3>\u2728 Features of Autocomplete Orders for WooCommerce<\/h3>\n<ul>\n<li>All orders of any products: Orders status will be changed as \u201cCompleted\u201d upon successful payment.<\/li>\n<li>All orders of any products: Orders status will be changed as \u201cCompleted\u201d depends on BANK TRANSFER, CHECK, CASH ON DELIVERY &amp; Others payment processor.<\/li>\n<li>Paid orders of virtual products only: orders containing \u201cVirtual\u201d products only will be completed upon successful payment.<\/li>\n<li>Paid orders of downloadable products only: orders containing \u201cDownloadable\u201d products only will be completed upon successful payment.<\/li>\n<\/ul>\n",
+        "installation": "<ol>\n<li>Upload the plugin files to the <code>\/wp-content\/plugins\/autocomplete-orders-for-woocommerce<\/code> directory, or install the plugin through the WordPress plugins screen directly.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; screen in WordPress<\/li>\n<li>Navigate to WooCommerce &gt; Settings &gt; General &gt; General options &gt; Autocomplete Orders section in your Dashboard<\/li>\n<li>Chose the preferable option from the dropdown list how you want your orders to be autocompleted.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='is%20the%20plugin%20change%20the%20order%20status%20depends%20on%20the%20payment%20gateway%3F'>\nIs the plugin change the order status depends on the payment gateway?\n<\/h4>\n<p>\n<p>Yes! The plugin Autocomplete Orders for WooCommerce will update the order status upon various payment gateway.<\/p>\n<\/p>\n<dt id='is%20the%20plugin%20add%20order%20note%20for%20order%20status%20change%3F'>\nIs the plugin add order note for order status change?\n<\/h4>\n<p>\n<p>Yes! It will create an order note if any customer order status is updated by the Autocomplete Orders for WooCommerce plugin.<\/p>\n<\/p>\n<dt id='minimum%20requirements'>\nMinimum requirements\n<\/h4>\n<p>\n<ul>\n<li>WordPress 5.0 or greater<\/li>\n<li>WooCommerce 5.0 or greater<\/li>\n<li>PHP version 5.6 or greater<\/li>\n<li>MySQL version 5.6 or greater<\/li>\n<li>MariaDB version 10 or later<\/li>\n<\/ul>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.0 (02 March 2024)<\/h4>\n<ul>\n<li>Initial Release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/autocomplete-orders-for-woocommerce\/assets\/screenshot-1.png?rev=3070167\"><img src=\"https:\/\/ps.w.org\/autocomplete-orders-for-woocommerce\/assets\/screenshot-1.png?rev=3070167\" alt=\"Settings Page\"><\/a><p>Settings Page<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Change the WooCommerce order status to be completed automatically upon various payment conditions.",
+    "description": "<p>The Autocomplete Orders for WooCommerce plugin will change the wc order status to be completed automatically upon various payment conditions. Autocomplete Orders for WooCommerce plugin is compatible with all major payment gateways including WooCommerce payment, PayPal, 2Checkout, SagePay, Stripe and many more.<\/p>\n<h3>\u2728 Features of Autocomplete Orders for WooCommerce<\/h3>\n<ul>\n<li>All orders of any products: Orders status will be changed as \u201cCompleted\u201d upon successful payment.<\/li>\n<li>All orders of any products: Orders status will be changed as \u201cCompleted\u201d depends on BANK TRANSFER, CHECK, CASH ON DELIVERY &amp; Others payment processor.<\/li>\n<li>Paid orders of virtual products only: orders containing \u201cVirtual\u201d products only will be completed upon successful payment.<\/li>\n<li>Paid orders of downloadable products only: orders containing \u201cDownloadable\u201d products only will be completed upon successful payment.<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/autocomplete-orders-for-woocommerce.1.0.0.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/autocomplete-orders-for-woocommerce\/assets\/screenshot-1.png?rev=3070167",
+            "caption": "Settings Page"
+        }
+    },
+    "tags": {
+        "autocomplete-orders-for-woocommerce": "autocomplete orders for woocommerce",
+        "autocomplete-orders-upon-cash-on-delivery": "autocomplete orders upon cash on delivery",
+        "autocomplete-orders": "autocomplete-orders",
+        "change-woocommerce-order-status": "change woocommerce order status",
+        "update-woocommerce-order-status-upon-payment-complete": "update woocommerce order status upon payment complete"
+    },
+    "stable_tag": "1.0.0",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/autocomplete-orders-for-woocommerce.1.0.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/autocomplete-orders-for-woocommerce.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/autocomplete-orders-for-woocommerce\/assets\/banner-772x250.png?rev=3070167",
+        "high": "https:\/\/ps.w.org\/autocomplete-orders-for-woocommerce\/assets\/banner-1544x500.png?rev=3070167"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/autocomplete-orders-for-woocommerce\/assets\/icon-128x128.png?rev=3070167",
+        "2x": "https:\/\/ps.w.org\/autocomplete-orders-for-woocommerce\/assets\/icon-256x256.png?rev=3070167"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

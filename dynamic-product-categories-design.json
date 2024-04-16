@@ -1,0 +1,105 @@
+{
+    "name": "Dynamic Product Categories Design",
+    "slug": "dynamic-product-categories-design",
+    "version": "1.1.0",
+    "author": "<a href=\"https:\/\/dynamicweblab.com\">Dynamic Web Lab<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/maidulcu\/",
+    "contributors": {
+        "maidulcu": {
+            "profile": "https:\/\/profiles.wordpress.org\/maidulcu\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/1725674b18085799cc643a6ebc0e5050?s=96&d=monsterid&r=g",
+            "display_name": "Maidul"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/dynamic-product-categories-design\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 100,
+    "downloaded": 1655,
+    "last_updated": "2024-03-18 5:12am GMT",
+    "added": "2022-12-13",
+    "homepage": "",
+    "sections": {
+        "description": "<p>\ud83d\udc49 <a href=\"https:\/\/dynamicweblab.com\/demo\/plugins\/dynamic-product-category-design\/\" rel=\"nofollow ugc\">Live Demo<\/a><\/p>\n<p>Dynamic product categories design is a woocommerce plugin extension to design shop categories section in a nice slider and grid layout.<\/p>\n<p>Dynamic Product Category Design plugin provides you the opportunity of showing woocommerce product categories in a grid layout and slider. You can design your website product categories in a modern-looking and descriptive slider that show details of your category.<\/p>\n<p>You can show your product categories with thumbnail, child category, description, shop now button. The plugin has simple and easy to use shortcode generator interface with many handy options which will help you to customize and manage WooCommerce Categories and its content easily without coding.<\/p>\n<h4>\ud83d\udc49 Shortcode:<\/h4>\n<p>Display Woocommerce product categories in a grid view or carousel view<\/p>\n<pre>[dpcd_category_design id='XX]<\/pre>\n<h4>\ud83d\udc49 Elementor Widget:<\/h4>\n<p>You can use Elementor widget to control the layout and design.<\/p>\n<h4>\ud83d\udc49 Top Features<\/h4>\n<ul>\n<li>Beautiful Product Categories Carousel<\/li>\n<li>Beautiful Grid Layout<\/li>\n<li>ADA Support for Accessibility<\/li>\n<li>Responsive Slider<\/li>\n<li>Show Category Name and Image<\/li>\n<li>Create unlimited category sliders<\/li>\n<li>Display specific categories in the slider<\/li>\n<li>Display category content:<\/li>\n<li>Category name<\/li>\n<li>Category thumbnail<\/li>\n<li>Category counter<\/li>\n<li>Description<\/li>\n<li>Shop now button<\/li>\n<li>6+ Slider Controls:<\/li>\n<li>AutoPlay<\/li>\n<li>Show and hide navigation<\/li>\n<li>Auto height<\/li>\n<li>Multisite supported<\/li>\n<li>Multilingual ready<\/li>\n<li>Compatible with popular WooCommerce themes and plugins<\/li>\n<li>Frequently updated and secured codebase<\/li>\n<li>All modern browsers supported<\/li>\n<li>SEO friendly and fully optimized<\/li>\n<li>LightWeight<\/li>\n<li>Fast Loading<\/li>\n<li>And many more options<\/li>\n<\/ul>\n<p>\ud83d\udc49 Send a <a href=\"https:\/\/dynamicweblab.com\/submit-a-request\/\" rel=\"nofollow ugc\">Support Request<\/a><\/p>\n",
+        "installation": "<p>Install From WordPress Dashboard<\/p>\n<ul>\n<li>Login to your admin panel<\/li>\n<li>Navigate to Plugins -&gt; Add New<\/li>\n<li>Search Dynamic Product Categories Design<\/li>\n<li>Click install and activate respectively.<\/li>\n<\/ul>\n<h4>Minimum Requirements<\/h4>\n<ul>\n<li>PHP 7.3 or greater is recommended<\/li>\n<li>MySQL 5.6 or greater is recommended<\/li>\n<\/ul>\n<p>You can install the Dynamic Product Category Design from your WordPress Dashboard or manually upload it through FTP.<\/p>\n<h4>OPTION 1: Install the Plugin from WordPress Dashboard<\/h4>\n<ol>\n<li>Navigate to Plugins -&gt; Add New.<\/li>\n<li>Search for &#8216;Dynamic Product Category Design&#8217; and click on the Install button to install the plugin.<\/li>\n<li>Activate the plugin in the Plugins menu.<\/li>\n<\/ol>\n<h4>OPTION 2: Manually Upload Plugin Files<\/h4>\n<ol>\n<li>Download the plugin file from the plugin page: dynamic-product-category-design.zip.<\/li>\n<li>Upload the &#8216;dynamic-product-category-design.zip&#8217; file to your &#8216;\/wp-content\/plugins&#8217; directory.<\/li>\n<li>Unzip the file dynamic-product-category-design.zip (do not rename the folder).<\/li>\n<\/ol>\n",
+        "changelog": "<h4>1.1.0<\/h4>\n<ul>\n<li>Added new design and settings for category design<\/li>\n<li>Elementor widget<\/li>\n<li>Add WooCommerce plugin missing Notice<\/li>\n<li>Style Design admin screen<\/li>\n<li>Added few custom hooks<\/li>\n<\/ul>\n<h4>1.0.6<\/h4>\n<ul>\n<li>Check WP Latest version compability<\/li>\n<\/ul>\n<h4>1.0.5<\/h4>\n<ul>\n<li>Update css<\/li>\n<\/ul>\n<h4>1.0.4<\/h4>\n<ul>\n<li>Update css<\/li>\n<\/ul>\n<h4>1.0.3<\/h4>\n<ul>\n<li>Update css<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>Update css<\/li>\n<li>Added more control for slider layout<\/li>\n<li>Optimize jquery code<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Fix few design issue.<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Initial release.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/dynamic-product-categories-design\/assets\/screenshot-1.png?rev=3053079\"><img src=\"https:\/\/ps.w.org\/dynamic-product-categories-design\/assets\/screenshot-1.png?rev=3053079\" alt=\"Category carousel design\"><\/a><p>Category carousel design<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/dynamic-product-categories-design\/assets\/screenshot-2.png?rev=3053079\"><img src=\"https:\/\/ps.w.org\/dynamic-product-categories-design\/assets\/screenshot-2.png?rev=3053079\" alt=\"Category grid design\"><\/a><p>Category grid design<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/dynamic-product-categories-design\/assets\/screenshot-3.png?rev=3053079\"><img src=\"https:\/\/ps.w.org\/dynamic-product-categories-design\/assets\/screenshot-3.png?rev=3053079\" alt=\"Add a new category design\"><\/a><p>Add a new category design<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/dynamic-product-categories-design\/assets\/screenshot-4.png?rev=3053079\"><img src=\"https:\/\/ps.w.org\/dynamic-product-categories-design\/assets\/screenshot-4.png?rev=3053079\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Very helpful plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/sojun360\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/4c9c8acc7a3329576812392ddd2ee9c3?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/4c9c8acc7a3329576812392ddd2ee9c3?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/sojun360\/\" class=\"reviewer-name\">sojun360<\/a> on <span class=\"review-date\">March 23, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>This is very helpful plugin with 0 bugs. It reduce my development time. Hope this plugin will add more features in future <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Dynamic product categories design is a woocommerce plugin extension to design shop categories section in a nice slider and grid layout.",
+    "description": "<p>\ud83d\udc49 <a href=\"https:\/\/dynamicweblab.com\/demo\/plugins\/dynamic-product-category-design\/\" rel=\"nofollow ugc\">Live Demo<\/a><\/p>\n<p>Dynamic product categories design is a woocommerce plugin extension to design shop categories section in a nice slider and grid layout.<\/p>\n<p>Dynamic Product Category Design plugin provides you the opportunity of showing woocommerce product categories in a grid layout and slider. You can design your website product categories in a modern-looking and descriptive slider that show details of your category.<\/p>\n<p>You can show your product categories with thumbnail, child category, description, shop now button. The plugin has simple and easy to use shortcode generator interface with many handy options which will help you to customize and manage WooCommerce Categories and its content easily without coding.<\/p>\n<h4>\ud83d\udc49 Shortcode:<\/h4>\n<p>Display Woocommerce product categories in a grid view or carousel view<\/p>\n<pre>[dpcd_category_design id='XX]<\/pre>\n<h4>\ud83d\udc49 Elementor Widget:<\/h4>\n<p>You can use Elementor widget to control the layout and design.<\/p>\n<h4>\ud83d\udc49 Top Features<\/h4>\n<ul>\n<li>Beautiful Product Categories Carousel<\/li>\n<li>Beautiful Grid Layout<\/li>\n<li>ADA Support for Accessibility<\/li>\n<li>Responsive Slider<\/li>\n<li>Show Category Name and Image<\/li>\n<li>Create unlimited category sliders<\/li>\n<li>Display specific categories in the slider<\/li>\n<li>Display category content:<\/li>\n<li>Category name<\/li>\n<li>Category thumbnail<\/li>\n<li>Category counter<\/li>\n<li>Description<\/li>\n<li>Shop now button<\/li>\n<li>6+ Slider Controls:<\/li>\n<li>AutoPlay<\/li>\n<li>Show and hide navigation<\/li>\n<li>Auto height<\/li>\n<li>Multisite supported<\/li>\n<li>Multilingual ready<\/li>\n<li>Compatible with popular WooCommerce themes and plugins<\/li>\n<li>Frequently updated and secured codebase<\/li>\n<li>All modern browsers supported<\/li>\n<li>SEO friendly and fully optimized<\/li>\n<li>LightWeight<\/li>\n<li>Fast Loading<\/li>\n<li>And many more options<\/li>\n<\/ul>\n<p>\ud83d\udc49 Send a <a href=\"https:\/\/dynamicweblab.com\/submit-a-request\/\" rel=\"nofollow ugc\">Support Request<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/dynamic-product-categories-design.1.1.0.zip",
+    "upgrade_notice": {
+        "Initial Upload": ""
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/dynamic-product-categories-design\/assets\/screenshot-1.png?rev=3053079",
+            "caption": "Category carousel design"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/dynamic-product-categories-design\/assets\/screenshot-2.png?rev=3053079",
+            "caption": "Category grid design"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/dynamic-product-categories-design\/assets\/screenshot-3.png?rev=3053079",
+            "caption": "Add a new category design"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/dynamic-product-categories-design\/assets\/screenshot-4.png?rev=3053079",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "product-category": "product category",
+        "woocommerce-category": "WooCommerce category",
+        "woocommerce-category-showcase": "WooCommerce Category Showcase",
+        "woocommerce-category-slider": "WooCommerce category slider",
+        "woocommerce-product-category": "WooCommerce product category"
+    },
+    "stable_tag": "1.1.0",
+    "versions": {
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/dynamic-product-categories-design.1.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/dynamic-product-categories-design.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/dynamic-product-categories-design.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/dynamic-product-categories-design.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/dynamic-product-categories-design.1.0.4.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/dynamic-product-categories-design.1.0.5.zip",
+        "1.0.6": "https:\/\/downloads.wordpress.org\/plugin\/dynamic-product-categories-design.1.0.6.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/dynamic-product-categories-design.1.1.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/dynamic-product-categories-design.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/dynamicweblab.com\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/dynamic-product-categories-design\/assets\/banner-772x250.png?rev=3049657",
+        "high": "https:\/\/ps.w.org\/dynamic-product-categories-design\/assets\/banner-1544x500.png?rev=3049643"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/dynamic-product-categories-design\/assets\/icon-256x256.png?rev=3055760",
+        "2x": "https:\/\/ps.w.org\/dynamic-product-categories-design\/assets\/icon-256x256.png?rev=3055760"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

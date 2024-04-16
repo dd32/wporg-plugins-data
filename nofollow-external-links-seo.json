@@ -1,0 +1,87 @@
+{
+    "name": "Nofollow External Links (SEO)",
+    "slug": "nofollow-external-links-seo",
+    "version": "2.0.0",
+    "author": "<a href=\"https:\/\/viitorcloud.com\/\">Mitali, Viitorcloud<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/viitorcloudvc\/",
+    "contributors": {
+        "mitalideva": {
+            "profile": "https:\/\/profiles.wordpress.org\/mitalideva\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/f98517f718540df73fc2bd5760c61b2d?s=96&d=monsterid&r=g",
+            "display_name": "Mitali Deva Rajpurohit"
+        },
+        "viitorcloudvc": {
+            "profile": "https:\/\/profiles.wordpress.org\/viitorcloudvc\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/8d79c9f101e9e579824e53e66e6fea1e?s=96&d=monsterid&r=g",
+            "display_name": "ViitorCloud Technologies Pvt Ltd"
+        }
+    },
+    "requires": "3.8",
+    "tested": "6.4.4",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 74,
+    "ratings": {
+        "5": 2,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 1
+    },
+    "num_ratings": 3,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/nofollow-external-links-seo\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 300,
+    "downloaded": 2672,
+    "last_updated": "2024-01-29 12:41pm GMT",
+    "added": "2019-01-30",
+    "homepage": "https:\/\/viitorcloud.com\/blog\/",
+    "sections": {
+        "description": "<p>It automatically set all external links to &#8220;nofollow&#8221; in website content.<\/p>\n<p>Seo friendly.<\/p>\n<p>Plugin Functionality:<\/p>\n<p>1) Activate it from backend and it will automatically add nofollow in external links used in content.<\/p>\n<p>2) No additional settings required.<\/p>\n<h4>Get Involved<\/h4>\n<p><a href=\"https:\/\/viitorcloud.com\/\" rel=\"nofollow ugc\">ViitorCloud<\/a> believes in an active community support so with such plugins we try to make life easy for developers &amp; of course customers. Don&#8217;t forget to subscribe our newsletter.<\/p>\n",
+        "installation": "<ol>\n<li>Upload plugin directory to the <code>\/wp-content\/plugins\/<\/code> directory<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress<\/li>\n<li>After activation, you can go through wordpress post\/page backend.<\/li>\n<\/ol>\n",
+        "changelog": "<p>1.0.0  * First public release.<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/nofollow-external-links-seo\/assets\/screenshot-1.png?rev=2021624\"><img src=\"https:\/\/ps.w.org\/nofollow-external-links-seo\/assets\/screenshot-1.png?rev=2021624\" alt=\"front page external link url in source\"><\/a><p>front page external link url in source<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Didn&#039;t work for me<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/deralict\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/dbcfce6127c6df2b063fba2d4687ab91?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/dbcfce6127c6df2b063fba2d4687ab91?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/deralict\/\" class=\"reviewer-name\">deralict<\/a> on <span class=\"review-date\">February 29, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Had absolutely no effect.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">just good,thanx<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/tpooya\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/72ff6b2e76f1277c9aa7f7d71aa92a22?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/72ff6b2e76f1277c9aa7f7d71aa92a22?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/tpooya\/\" class=\"reviewer-name\">vahid yousefi <small>(tpooya)<\/small><\/a> on <span class=\"review-date\">February 27, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">easy to use<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">It does what it says<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/kev431k\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/49bc545e15dfcb64c0c48ee9970bd580?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/49bc545e15dfcb64c0c48ee9970bd580?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/kev431k\/\" class=\"reviewer-name\">kev431k<\/a> on <span class=\"review-date\">February 15, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">It's a simple plugin that does what it says. Very helpful.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "It automatically set all external links to &quot;nofollow&quot; in website content.",
+    "description": "<p>It automatically set all external links to &#8220;nofollow&#8221; in website content.<\/p>\n<p>Seo friendly.<\/p>\n<p>Plugin Functionality:<\/p>\n<p>1) Activate it from backend and it will automatically add nofollow in external links used in content.<\/p>\n<p>2) No additional settings required.<\/p>\n<h4>Get Involved<\/h4>\n<p><a href=\"https:\/\/viitorcloud.com\/\" rel=\"nofollow ugc\">ViitorCloud<\/a> believes in an active community support so with such plugins we try to make life easy for developers &amp; of course customers. Don&#8217;t forget to subscribe our newsletter.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/nofollow-external-links-seo.zip",
+    "upgrade_notice": {
+        "": "<p>1.0.0 Added plugin support<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/nofollow-external-links-seo\/assets\/screenshot-1.png?rev=2021624",
+            "caption": "front page external link url in source"
+        }
+    },
+    "tags": {
+        "customlink": "customlink",
+        "external": "external",
+        "link": "link",
+        "no-indexing": "no-indexing",
+        "nofollow": "nofollow"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "http:\/\/www.viitorcloud.com",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/nofollow-external-links-seo\/assets\/banner-772x250.png?rev=2021666",
+        "high": false
+    },
+    "icons": {
+        "default": "https:\/\/s.w.org\/plugins\/geopattern-icon\/nofollow-external-links-seo_8ba79c.svg"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 74,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

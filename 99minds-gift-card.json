@@ -1,0 +1,92 @@
+{
+    "name": "99minds Giftcard",
+    "slug": "99minds-gift-card",
+    "version": "1.0.2",
+    "author": "<a href=\"https:\/\/99minds.io\/\">99minds<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/99mindskeys\/",
+    "contributors": {
+        "99mindskeys": {
+            "profile": "https:\/\/profiles.wordpress.org\/99mindskeys\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/f491790c8b473162b07b67aebaead99e?s=96&d=monsterid&r=g",
+            "display_name": "99minds Giftcard and Loyalty"
+        }
+    },
+    "requires": false,
+    "tested": "6.4.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/99minds-gift-card\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 60,
+    "last_updated": "2024-03-15 6:25am GMT",
+    "added": "2024-03-14",
+    "homepage": "https:\/\/support.99minds.io\/portal\/en\/home",
+    "sections": {
+        "description": "<p>99minds Giftcard is the simplest way to sell giftcards on your wordpress store. It\u2019s very simple for you to install, and it\u2019s a seamless experience for your customers.<br \/>\n99minds provides a very simple and automated installation process, which say goodbye to api keys.<\/p>\n<p>This plugin enables you to access your 99minds account in your wordpress admin, if you have WooCommerce plugin active in your setup this plugin will allow to purchase and redeem your gift cards.<br \/>\nThis provides you the easy way to communicate with your existing account at 99minds (https:\/\/99minds.io\/).<\/p>\n<p>Compatible with WooCommerce 3.0 and higher.<\/p>\n<p>Currently we are supporting English (US) language only, let us know if you have requirement. You can contact us here: https:\/\/support.99minds.io\/portal\/en\/home<\/p>\n<p>Suitable for single currency store.<\/p>\n<h4>External Service Integration &#8211; 99minds<\/h4>\n<p><strong>Overview<\/strong><br \/>\nThis WooCommerce plugin is developed by the team at 99minds, enabling merchants to seamlessly integrate gift card purchase and redemption functionalities into their stores. The plugin leverages the capabilities of 99minds, our own gift card processing platform, to provide a robust and user-friendly gift card solution.<\/p>\n<p><strong>About 99minds<\/strong><br \/>\n99minds is a comprehensive gift card processing service designed to facilitate the issuance, management, and redemption of gift cards within WooCommerce stores. As the developers of both the plugin and 99minds, we ensure a seamless integration that enhances the eCommerce experience.<\/p>\n<p><strong>Service Integration<\/strong><br \/>\nThe plugin requires an active account with 99minds, which merchants can set up easily. This integration allows for:<br \/>\n1. Adding gift cards to the WooCommerce cart.<br \/>\n2. Real-time balance checks for gift cards.<br \/>\n3. Secure processing of gift card transactions.<br \/>\nThe documentation of the APIs is available at <a href=\"https:\/\/docs.99minds.io\/\" rel=\"nofollow ugc\">here<\/a>.<\/p>\n<p><strong>Data Processing and User Privacy<\/strong><br \/>\nAs the developers of both the plugin and the 99minds platform, we prioritize user privacy and data security:<br \/>\n&#8211; No personal user data is collected or processed without explicit consent.<br \/>\n&#8211; The plugin&#8217;s communication with 99minds is strictly confined to gift card transaction processing.<br \/>\n&#8211; We adhere to the highest standards of data protection and privacy laws.<\/p>\n<p><strong>Transparency and Compliance<\/strong><br \/>\nWe are committed to transparency and compliance with all relevant regulations:<br \/>\n&#8211; All API calls and data processing activities are detailed and serve only the specified functionalities of the plugin.<br \/>\n&#8211; The plugin does not include any user tracking or data collection features that operate without user consent.<\/p>\n<p><strong>Getting Started<\/strong><br \/>\nTo use this plugin, merchants need to register for a 99minds account. This account facilitates all gift card transactions and ensures secure and efficient processing.<\/p>\n<p>When a merchant selects the &#8216;Activate plugin&#8217; option, they are automatically redirected to the 99minds portal. Here, they have the choice to either sign up for a new account or log in to an existing one.<\/p>\n<p>For detailed information on setting up and managing your 99minds account, and to understand our privacy practices, please visit <a href=\"https:\/\/www.99minds.io\/\" rel=\"nofollow ugc\">99minds<\/a>.<\/p>\n",
+        "installation": "<p>Install 99minds plugin from WordPress plugin store. Otherwise, you can take zip file of plugin and upload it to wordpress setup with add new plugin section, this will need FTP details for secured server.<br \/>\nActivate plugin which will redirect you to 99minds registration page.<br \/>\nAfter clicking on create account or sign in your store will go through automatic integration with 99minds which will allow your store to sell and redeem giftcards.<br \/>\nDrop our shortcode [minds] into a page somewhere to get giftcard section.<br \/>\nEnjoy gift card sales!<\/p>\n",
+        "changelog": "<h4>1.0.2<\/h4>\n<p>Changes in giftcard add to cart flow<\/p>\n<h4>1.0.1<\/h4>\n<p>Minor information update<\/p>\n<h4>1.0.0<\/h4>\n<p>Sync with 99minds account<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/99minds-gift-card\/assets\/screenshot-1.jpg?rev=3051047\"><img src=\"https:\/\/ps.w.org\/99minds-gift-card\/assets\/screenshot-1.jpg?rev=3051047\" alt=\"dashboard\"><\/a><p>dashboard<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/99minds-gift-card\/assets\/screenshot-2.jpg?rev=3051047\"><img src=\"https:\/\/ps.w.org\/99minds-gift-card\/assets\/screenshot-2.jpg?rev=3051047\" alt=\"Purchase gift card\"><\/a><p>Purchase gift card<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/99minds-gift-card\/assets\/screenshot-3.jpg?rev=3051047\"><img src=\"https:\/\/ps.w.org\/99minds-gift-card\/assets\/screenshot-3.jpg?rev=3051047\" alt=\"Check balance of gift card\"><\/a><p>Check balance of gift card<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/99minds-gift-card\/assets\/screenshot-4.jpg?rev=3051047\"><img src=\"https:\/\/ps.w.org\/99minds-gift-card\/assets\/screenshot-4.jpg?rev=3051047\" alt=\"Redeem gitcard\"><\/a><p>Redeem gitcard<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "99minds Giftcard is the simplest way to sell giftcards on your wordpress store. It\u2019s very simple for you to install, and it\u2019s a seamless experience fo &hellip;",
+    "description": "<p>99minds Giftcard is the simplest way to sell giftcards on your wordpress store. It\u2019s very simple for you to install, and it\u2019s a seamless experience for your customers.<br \/>\n99minds provides a very simple and automated installation process, which say goodbye to api keys.<\/p>\n<p>This plugin enables you to access your 99minds account in your wordpress admin, if you have WooCommerce plugin active in your setup this plugin will allow to purchase and redeem your gift cards.<br \/>\nThis provides you the easy way to communicate with your existing account at 99minds (https:\/\/99minds.io\/).<\/p>\n<p>Compatible with WooCommerce 3.0 and higher.<\/p>\n<p>Currently we are supporting English (US) language only, let us know if you have requirement. You can contact us here: https:\/\/support.99minds.io\/portal\/en\/home<\/p>\n<p>Suitable for single currency store.<\/p>\n<h4>External Service Integration &#8211; 99minds<\/h4>\n<p><strong>Overview<\/strong><br \/>\nThis WooCommerce plugin is developed by the team at 99minds, enabling merchants to seamlessly integrate gift card purchase and redemption functionalities into their stores. The plugin leverages the capabilities of 99minds, our own gift card processing platform, to provide a robust and user-friendly gift card solution.<\/p>\n<p><strong>About 99minds<\/strong><br \/>\n99minds is a comprehensive gift card processing service designed to facilitate the issuance, management, and redemption of gift cards within WooCommerce stores. As the developers of both the plugin and 99minds, we ensure a seamless integration that enhances the eCommerce experience.<\/p>\n<p><strong>Service Integration<\/strong><br \/>\nThe plugin requires an active account with 99minds, which merchants can set up easily. This integration allows for:<br \/>\n1. Adding gift cards to the WooCommerce cart.<br \/>\n2. Real-time balance checks for gift cards.<br \/>\n3. Secure processing of gift card transactions.<br \/>\nThe documentation of the APIs is available at <a href=\"https:\/\/docs.99minds.io\/\" rel=\"nofollow ugc\">here<\/a>.<\/p>\n<p><strong>Data Processing and User Privacy<\/strong><br \/>\nAs the developers of both the plugin and the 99minds platform, we prioritize user privacy and data security:<br \/>\n&#8211; No personal user data is collected or processed without explicit consent.<br \/>\n&#8211; The plugin&#8217;s communication with 99minds is strictly confined to gift card transaction processing.<br \/>\n&#8211; We adhere to the highest standards of data protection and privacy laws.<\/p>\n<p><strong>Transparency and Compliance<\/strong><br \/>\nWe are committed to transparency and compliance with all relevant regulations:<br \/>\n&#8211; All API calls and data processing activities are detailed and serve only the specified functionalities of the plugin.<br \/>\n&#8211; The plugin does not include any user tracking or data collection features that operate without user consent.<\/p>\n<p><strong>Getting Started<\/strong><br \/>\nTo use this plugin, merchants need to register for a 99minds account. This account facilitates all gift card transactions and ensures secure and efficient processing.<\/p>\n<p>When a merchant selects the &#8216;Activate plugin&#8217; option, they are automatically redirected to the 99minds portal. Here, they have the choice to either sign up for a new account or log in to an existing one.<\/p>\n<p>For detailed information on setting up and managing your 99minds account, and to understand our privacy practices, please visit <a href=\"https:\/\/www.99minds.io\/\" rel=\"nofollow ugc\">99minds<\/a>.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/99minds-gift-card.zip",
+    "upgrade_notice": {
+        "": "<p>Please update to latest version to get bug free expirience<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/99minds-gift-card\/assets\/screenshot-1.jpg?rev=3051047",
+            "caption": "dashboard"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/99minds-gift-card\/assets\/screenshot-2.jpg?rev=3051047",
+            "caption": "Purchase gift card"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/99minds-gift-card\/assets\/screenshot-3.jpg?rev=3051047",
+            "caption": "Check balance of gift card"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/99minds-gift-card\/assets\/screenshot-4.jpg?rev=3051047",
+            "caption": "Redeem gitcard"
+        }
+    },
+    "tags": {
+        "99minds": "99minds",
+        "gift": "gift",
+        "gift-certificates": "gift certificates",
+        "gift-vouchers": "gift vouchers",
+        "giftcards": "giftcards"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/99minds-gift-card\/assets\/icon-128x128.png?rev=3062110",
+        "2x": "https:\/\/ps.w.org\/99minds-gift-card\/assets\/icon-256x256.png?rev=3062110"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

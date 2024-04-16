@@ -1,0 +1,77 @@
+{
+    "name": "Bulk Mail Sender",
+    "slug": "bulk-mail-sender",
+    "version": "1.0.2",
+    "author": "<a href=\"https:\/\/insixus.com\">Insixus<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/dipakraval\/",
+    "contributors": {
+        "dipakraval": {
+            "profile": "https:\/\/profiles.wordpress.org\/dipakraval\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/e221581f173baa1a958711a9175e6a84?s=96&d=monsterid&r=g",
+            "display_name": "Insixus"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/bulk-mail-sender\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 45,
+    "last_updated": "2024-04-09 8:20am GMT",
+    "added": "2024-04-09",
+    "homepage": "https:\/\/insixus.com\/",
+    "sections": {
+        "description": "<p><strong>Bulk Mail Sender<\/strong><br \/>\nBulk Mail Sender is use to send mail to the all user<\/p>\n<h4>Features:<\/h4>\n<ol>\n<li>Send mail to multiple users.<\/li>\n<li>Manage users<\/li>\n<li>Analytics of sent mails<\/li>\n<li>Column Changeable<\/li>\n<\/ol>\n<p><strong>Services<\/strong><br \/>\nNeed help from our Experts for Setup or Customization?<br \/>\n<a href=\"https:\/\/insixus.com\" rel=\"nofollow ugc\">Contact Us<\/a><\/p>\n",
+        "changelog": "<p>= 1.0.2 &#8211; 22\/01\/2022<br \/>\n* Developed This Plugin<\/p>\n",
+        "reviews": ""
+    },
+    "short_description": "Bulk Mail Sender is use to send newsletter or other mails to the users",
+    "description": "<p><strong>Bulk Mail Sender<\/strong><br \/>\nBulk Mail Sender is use to send mail to the all user<\/p>\n<h4>Features:<\/h4>\n<ol>\n<li>Send mail to multiple users.<\/li>\n<li>Manage users<\/li>\n<li>Analytics of sent mails<\/li>\n<li>Column Changeable<\/li>\n<\/ol>\n<p><strong>Services<\/strong><br \/>\nNeed help from our Experts for Setup or Customization?<br \/>\n<a href=\"https:\/\/insixus.com\" rel=\"nofollow ugc\">Contact Us<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/bulk-mail-sender.1.0.2.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "mail": "mail",
+        "mails": "mails",
+        "news": "news",
+        "newsletter": "newsletter",
+        "sendmail": "sendmail"
+    },
+    "stable_tag": "1.0.2",
+    "versions": {
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/bulk-mail-sender.1.0.2.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/bulk-mail-sender.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/bulk-mail-sender\/assets\/banner-772x250.png?rev=3068228",
+        "high": "https:\/\/ps.w.org\/bulk-mail-sender\/assets\/banner-1544x500.png?rev=3068228"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/bulk-mail-sender\/assets\/icon-256x256.gif?rev=3068216",
+        "2x": "https:\/\/ps.w.org\/bulk-mail-sender\/assets\/icon-256x256.gif?rev=3068216"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

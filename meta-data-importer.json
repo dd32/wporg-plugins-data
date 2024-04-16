@@ -1,0 +1,89 @@
+{
+    "name": "Meta Data Importer",
+    "slug": "meta-data-importer",
+    "version": "1.2.1",
+    "author": "Matthew Sudekum",
+    "author_profile": "https:\/\/profiles.wordpress.org\/matthewsudekum\/",
+    "contributors": {
+        "matthewsudekum": {
+            "profile": "https:\/\/profiles.wordpress.org\/matthewsudekum\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/e2cfc0b99de25b9b802eda02be0a1bb1?s=96&d=monsterid&r=g",
+            "display_name": "matthewsudekum"
+        }
+    },
+    "requires": "6.0",
+    "tested": "6.4.4",
+    "requires_php": "5.6.39",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/meta-data-importer\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 801,
+    "last_updated": "2023-12-06 3:39am GMT",
+    "added": "2022-11-09",
+    "homepage": "",
+    "sections": {
+        "description": "<p>This plugin allows you to upload meta data from a CSV file to your Yoast settings for all your pages\/posts. This is NOT an official Yoast plugin\/addon.<\/p>\n",
+        "changelog": "<h4>1.2.1<\/h4>\n<p>*Bug fix to allow punctuation in Keyphrase, Title, and Description<\/p>\n<h4>1.2.0<\/h4>\n<p>*Bug fixes and compatibility check.<br \/>\n*Added support for changing Yoast social media appearance.<br \/>\n*Switched plugin access to be housed under Tools and added &#8216;Use Tool&#8217; option in plugins list<br \/>\n*Changed order of csv header requirements to match Yoast exported csv header<\/p>\n<h4>1.1.0<\/h4>\n<p>*Bug fixes and compatibility check.<\/p>\n<h4>1.0.0<\/h4>\n<p>*Release!<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/meta-data-importer\/assets\/screenshot-1.png?rev=2898959\"><img src=\"https:\/\/ps.w.org\/meta-data-importer\/assets\/screenshot-1.png?rev=2898959\" alt=\"This is a screenshot of the plugin page right after clicking it in the sidebar of the admin screen.\"><\/a><p>This is a screenshot of the plugin page right after clicking it in the sidebar of the admin screen.<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Works Great!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/doppl3r\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/3beb7d462b6f56fa7a55a94afc9dca42?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/3beb7d462b6f56fa7a55a94afc9dca42?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/doppl3r\/\" class=\"reviewer-name\">doppl3r<\/a> on <span class=\"review-date\">March 5, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I installed this plugin for our SEO team, and they said the import worked great (over 100 pages with correct meta data). Thank you for developing this plugin!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Seamlessly integrates csv data into Yoast meta data.",
+    "description": "<p>This plugin allows you to upload meta data from a CSV file to your Yoast settings for all your pages\/posts. This is NOT an official Yoast plugin\/addon.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/meta-data-importer.1.2.1.zip",
+    "upgrade_notice": {
+        "1.1.0": "<p>Bug fixes and compatibility check.<\/p>",
+        "1.0.0": "<p>Release!<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/meta-data-importer\/assets\/screenshot-1.png?rev=2898959",
+            "caption": "This is a screenshot of the plugin page right after clicking it in the sidebar of the admin screen."
+        }
+    },
+    "tags": {
+        "csv": "csv",
+        "importer": "importer",
+        "meta": "meta",
+        "seo": "seo",
+        "yoast": "Yoast"
+    },
+    "stable_tag": "1.2.1",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/meta-data-importer.1.0.0.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/meta-data-importer.1.1.0.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/meta-data-importer.1.2.0.zip",
+        "1.2.1": "https:\/\/downloads.wordpress.org\/plugin\/meta-data-importer.1.2.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/meta-data-importer.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/meta-data-importer\/assets\/banner-772x250.jpg?rev=2814759",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/meta-data-importer\/assets\/icon.svg?rev=2898959",
+        "svg": "https:\/\/ps.w.org\/meta-data-importer\/assets\/icon.svg?rev=2898959"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

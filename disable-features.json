@@ -1,0 +1,80 @@
+{
+    "name": "Disable Features",
+    "slug": "disable-features",
+    "version": "1.0",
+    "author": "<a href=\"https:\/\/www.premtiwari.in\">Prem Tiwari<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/freewebmentor\/",
+    "contributors": {
+        "freewebmentor": {
+            "profile": "https:\/\/profiles.wordpress.org\/freewebmentor\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3490487754fcfc25258e90537fad43c5?s=96&d=monsterid&r=g",
+            "display_name": "Prem Tiwari"
+        }
+    },
+    "requires": "5.2",
+    "tested": "6.4.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/disable-features\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 241,
+    "last_updated": "2024-03-21 10:42am GMT",
+    "added": "2024-02-19",
+    "homepage": "https:\/\/wordpress.org\/plugins\/disable-features\/",
+    "sections": {
+        "description": "<p>It will disable all unnecessary WordPress features and speed up your website in an elegant way. This plugin is  Super simple, Clean, Secure code, and Lightweight. We have also focused on flexibility, performance, and security to ensures that it will work with other WordPress plugins.<\/p>\n<p>By using this All-in-One plugin you can simply disable feature that you do not want to use with one click.<\/p>\n<h3>Disable the following features:<\/h3>\n<ul>\n<li>Disable XML-RPC<\/li>\n<li>Hide \u2018Screen Options\u2019 Tab<\/li>\n<li>Hide WordPress Version Number<\/li>\n<li>Disable Blocks Widget<\/li>\n<li>Disable WordPress Admin Bar<\/li>\n<li>Disable Dashboard Welcome Panel<\/li>\n<li>Disable comments page in menu<\/li>\n<li>Disable Admin Footer<\/li>\n<\/ul>\n",
+        "installation": "<p>Login to your WordPress Admin panel and search &#8220;Disable Features&#8221; in &#8220;Plugins &gt; Add New&#8221; screen. You can install this plugin by using the following steps also:<\/p>\n<ol>\n<li>Download the plugin via WordPress.org<\/li>\n<li>Upload the ZIP file through the &#8216;Plugins &gt; Add New &gt; Upload&#8217; screen in your WordPress dashboard<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress<\/li>\n<\/ol>\n<p>Once activated go to:<\/p>\n<ol>\n<li>Settings &gt; Disable Features page<\/li>\n<li>In Options page disable the feature that you do not want to use.<\/li>\n<li>Once all done, click on Save Changes button to disable the features.<\/li>\n<\/ol>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/disable-features\/assets\/screenshot-1.png?rev=3037748\"><img src=\"https:\/\/ps.w.org\/disable-features\/assets\/screenshot-1.png?rev=3037748\" alt=\"screenshot-1.png\"><\/a><p>screenshot-1.png<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Nice Plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/dextorlobo\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/c2f5733adfebd07229625777aa310e9b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/c2f5733adfebd07229625777aa310e9b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/dextorlobo\/\" class=\"reviewer-name\">Arun Sharma <small>(dextorlobo)<\/small><\/a> on <span class=\"review-date\">February 22, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This very nice plugin which helps you to disable core WP features.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "It will disable all unnecessary WordPress features and speed up your website in an elegant way.",
+    "description": "<p>It will disable all unnecessary WordPress features and speed up your website in an elegant way. This plugin is  Super simple, Clean, Secure code, and Lightweight. We have also focused on flexibility, performance, and security to ensures that it will work with other WordPress plugins.<\/p>\n<p>By using this All-in-One plugin you can simply disable feature that you do not want to use with one click.<\/p>\n<h3>Disable the following features:<\/h3>\n<ul>\n<li>Disable XML-RPC<\/li>\n<li>Hide \u2018Screen Options\u2019 Tab<\/li>\n<li>Hide WordPress Version Number<\/li>\n<li>Disable Blocks Widget<\/li>\n<li>Disable WordPress Admin Bar<\/li>\n<li>Disable Dashboard Welcome Panel<\/li>\n<li>Disable comments page in menu<\/li>\n<li>Disable Admin Footer<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/disable-features.1.0.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/disable-features\/assets\/screenshot-1.png?rev=3037748",
+            "caption": "screenshot-1.png"
+        }
+    },
+    "tags": {
+        "bloat": "bloat",
+        "disable": "disable",
+        "remove": "remove"
+    },
+    "stable_tag": "1.0",
+    "versions": {
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/disable-features.1.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/disable-features.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/disable-features\/assets\/banner-772x250.png?rev=3038273",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/disable-features\/assets\/icon-128x128.png?rev=3038271"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

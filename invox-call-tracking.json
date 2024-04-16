@@ -1,0 +1,68 @@
+{
+    "name": "INVOX Call Tracking",
+    "slug": "invox-call-tracking",
+    "version": "1.0",
+    "author": "invox",
+    "author_profile": "https:\/\/profiles.wordpress.org\/invox\/",
+    "contributors": {
+        "invox": {
+            "profile": "https:\/\/profiles.wordpress.org\/invox\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/57b9cbde0d86e2f633c68d88cea0200b?s=96&d=monsterid&r=g",
+            "display_name": "invox"
+        }
+    },
+    "requires": false,
+    "tested": "6.4.4",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/invox-call-tracking\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 10,
+    "downloaded": 77,
+    "last_updated": "2023-12-30 12:10pm GMT",
+    "added": "2023-12-30",
+    "homepage": "",
+    "sections": {
+        "description": "<p>The Invox Tracking Plugin allows you to easily add the Invox Tracking JavaScript tag to your WordPress website. This tag helps you track user interactions and gather analytics data.<\/p>\n<p>For more information about INVOX, visit our <a href=\"https:\/\/invox.eu\" rel=\"nofollow ugc\">plugin homepage<\/a>.<\/p>\n<h3>Configuration<\/h3>\n<p>To configure the plugin, go to &#8216;Settings&#8217; &gt; &#8216;INVOX Call Tracking&#8217; in the WordPress admin panel. Enter your custom CID and Version (v) values and save the settings.<\/p>\n<h3>Usage<\/h3>\n<p>Once configured, the INVOX Call Tracking JavaScript tag will be automatically added to your website.<\/p>\n<h3>Support<\/h3>\n<p>For support or questions, please contact us at <a href=\"mailto:&#x63;o&#110;&#x74;a&#099;&#x74;&#064;&#105;&#x6e;&#118;&#111;&#x78;&#046;&#101;&#x75;\" rel=\"nofollow ugc\">contact@invox.eu<\/a>.<\/p>\n",
+        "installation": "<ol>\n<li>Upload the <code>invox-call-tracking<\/code> directory to the <code>\/wp-content\/plugins\/<\/code> directory.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress.<\/li>\n<li>Configure the plugin settings in the WordPress admin panel.<\/li>\n<\/ol>\n",
+        "changelog": "<h4>1.0<\/h4>\n<ul>\n<li>Initial release.<\/li>\n<\/ul>\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great call tracking solution<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mihainasaudean\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/c3ae984b79eae2aecdb526f8807ac941?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/c3ae984b79eae2aecdb526f8807ac941?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mihainasaudean\/\" class=\"reviewer-name\">mihainasaudean<\/a> on <span class=\"review-date\">February 9, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Invox call tracking is an essential software for our marketing agency, and the Wordpress plugin makes it so easy to set up the technology on the Wordpress websites.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "The Invox Tracking Plugin allows you to easily add the Invox Tracking JavaScript tag to your WordPress website. This tag helps you track user interact &hellip;",
+    "description": "<p>The Invox Tracking Plugin allows you to easily add the Invox Tracking JavaScript tag to your WordPress website. This tag helps you track user interactions and gather analytics data.<\/p>\n<p>For more information about INVOX, visit our <a href=\"https:\/\/invox.eu\" rel=\"nofollow ugc\">plugin homepage<\/a>.<\/p>\n<h3>Configuration<\/h3>\n<p>To configure the plugin, go to &#8216;Settings&#8217; &gt; &#8216;INVOX Call Tracking&#8217; in the WordPress admin panel. Enter your custom CID and Version (v) values and save the settings.<\/p>\n<h3>Usage<\/h3>\n<p>Once configured, the INVOX Call Tracking JavaScript tag will be automatically added to your website.<\/p>\n<h3>Support<\/h3>\n<p>For support or questions, please contact us at <a href=\"mailto:&#x63;o&#110;&#x74;a&#099;&#x74;&#064;&#105;&#x6e;&#118;&#111;&#x78;&#046;&#101;&#x75;\" rel=\"nofollow ugc\">contact@invox.eu<\/a>.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/invox-call-tracking.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "analytics": "analytics",
+        "call-tracking": "call tracking"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "default": "https:\/\/s.w.org\/plugins\/geopattern-icon\/invox-call-tracking.svg"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

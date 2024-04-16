@@ -1,0 +1,92 @@
+{
+    "name": "Featured Video for WooCommerce",
+    "slug": "featured-video-for-woocommerce",
+    "version": "2.1",
+    "author": "<a href=\"https:\/\/foadadeli.ir\">Foad Adeli<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/foadadeli\/",
+    "contributors": {
+        "foadadeli": {
+            "profile": "https:\/\/profiles.wordpress.org\/foadadeli\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3073655275fe013fe5d81a1e2b608f29?s=96&d=monsterid&r=g",
+            "display_name": "Foad Adeli"
+        }
+    },
+    "requires": "4.0",
+    "tested": "6.5.2",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/featured-video-for-woocommerce\/",
+    "support_threads": 1,
+    "support_threads_resolved": 1,
+    "active_installs": 10,
+    "downloaded": 417,
+    "last_updated": "2024-03-31 9:45am GMT",
+    "added": "2024-01-19",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Bring your products to life with video! This easy-to-use WordPress plugin allows you to add a featured video to any product in your WooCommerce online store.<\/p>\n<p>With just a few clicks, you can add featured videos from <strong>YouTube<\/strong>, <strong>Vimeo<\/strong>, or your own <strong>local videos<\/strong> on the product page! Display eye-catching product videos to engage customers and boost conversions.<\/p>\n<p>See the difference video can make for your WooCommerce store! Install the Featured Video for WooCommerce plugin right now.<\/p>\n<h4>Key Features<\/h4>\n<ul>\n<li>Easily upload and embed a video on WooCommerce single products page<\/li>\n<li>Supports videos from multiple sources such as: <strong>Self-Hosted<\/strong>, <strong>YouTube<\/strong> and <strong>Vimeo<\/strong><\/li>\n<li>Supports popular video formats like <strong>MP4<\/strong>, and <strong>WebM<\/strong><\/li>\n<li><strong>Advanced video player<\/strong> with a whole lot of features!<\/li>\n<li>Works seamlessly with variety of WooCommerce product types<\/li>\n<li>Fully compatible with all standard WooCommerce themes!<\/li>\n<\/ul>\n<h3>How to Use This Plugin?<\/h3>\n<ol>\n<li>Install and activate the plugin.<\/li>\n<li>Go to <strong>Dashboard Menu &gt; Products &gt; All Products<\/strong>.<\/li>\n<li>Find the product you want add video to, and click edit.<\/li>\n<li>On the <strong>Product data<\/strong> section, a new <strong>Featured Video<\/strong> tab has been added so you could select your video.<\/li>\n<li>Select the video you want, and enjoy!<\/li>\n<\/ol>\n",
+        "installation": "<p>Upload the plugin files to the \/wp-content\/plugins\/featured-video-for-woocommerce directory, or install the plugin through the WordPress plugins screen directly.<br \/>\nActivate the plugin through the &#8216;Plugins&#8217; screen in WordPress.<br \/>\nA new <strong>Featured Video<\/strong> tab will be added on the product edit screen.<br \/>\nBegin adding product videos and enjoy!<\/p>\n",
+        "faq": "\n<dt id='can%20i%20add%20videos%20from%20youtube%20or%20vimeo%3F'>\nCan I add videos from YouTube or Vimeo?\n<\/h4>\n<p>\n<p>Yes! You can add product videos from YouTube, Vimeo, or upload your own video files. The plugin supports videos from multiple sources.<\/p>\n<\/p>\n<dt id='what%20if%20i%20have%20compatibility%20issues%20or%20questions%3F'>\nWhat if I have compatibility issues or questions?\n<\/h4>\n<p>\n<p>Although this plugin is fully compatible with all standard WooCommerce themes, please don&#8217;t hesitate to contact me if you&#8217;re facing any problem! I&#8217;m available to help troubleshoot any compatibility issue and answer questions you may have. Just send me an email: <a href=\"mailto:&#105;&#x6e;&#x66;&#111;&#x40;&#102;&#x6f;&#x61;&#100;&#x61;&#100;&#x65;&#x6c;&#105;&#x2e;&#105;&#x72;\" rel=\"nofollow ugc\">&#105;&#x6e;&#x66;&#111;&#x40;&#102;&#x6f;&#x61;&#100;&#x61;&#100;&#x65;&#x6c;&#105;&#x2e;&#105;&#x72;<\/a><\/p>\n<\/p>\n<dt id='want%20to%20hire%20me%3F'>\nWant to hire me?\n<\/h4>\n<p>\n<p>If you&#8217;re interested in working together, just send me an email: <a href=\"mailto:&#105;&#x6e;&#x66;&#111;&#x40;&#102;&#x6f;&#x61;&#100;&#x61;&#100;&#x65;&#x6c;&#105;&#x2e;&#105;&#x72;\" rel=\"nofollow ugc\">&#105;&#x6e;&#x66;&#111;&#x40;&#102;&#x6f;&#x61;&#100;&#x61;&#100;&#x65;&#x6c;&#105;&#x2e;&#105;&#x72;<\/a><\/p>\n<\/p>\n\n",
+        "changelog": "<h4>2.1<\/h4>\n<p>Added settings page for plugin.<\/p>\n<h4>2.0<\/h4>\n<p>Now you can add videos from YouTube and Vimeo!<\/p>\n<h4>1.0<\/h4>\n<p>First release<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/featured-video-for-woocommerce\/assets\/screenshot-1.png?rev=3024042\"><img src=\"https:\/\/ps.w.org\/featured-video-for-woocommerce\/assets\/screenshot-1.png?rev=3024042\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/featured-video-for-woocommerce\/assets\/screenshot-2.png?rev=3024042\"><img src=\"https:\/\/ps.w.org\/featured-video-for-woocommerce\/assets\/screenshot-2.png?rev=3024042\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">best plugin it will work all themes<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/xolodevelopers\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/672cb861b06438e2e2547adb1d93aac4?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/672cb861b06438e2e2547adb1d93aac4?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/xolodevelopers\/\" class=\"reviewer-name\">Rishikesh Singh <small>(xolodevelopers)<\/small><\/a> on <span class=\"review-date\">March 30, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\"><strong>Good Work!<\/strong><\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Easily add featured videos to your WooCommerce products to increase engagement and conversions.",
+    "description": "<p>Bring your products to life with video! This easy-to-use WordPress plugin allows you to add a featured video to any product in your WooCommerce online store.<\/p>\n<p>With just a few clicks, you can add featured videos from <strong>YouTube<\/strong>, <strong>Vimeo<\/strong>, or your own <strong>local videos<\/strong> on the product page! Display eye-catching product videos to engage customers and boost conversions.<\/p>\n<p>See the difference video can make for your WooCommerce store! Install the Featured Video for WooCommerce plugin right now.<\/p>\n<h4>Key Features<\/h4>\n<ul>\n<li>Easily upload and embed a video on WooCommerce single products page<\/li>\n<li>Supports videos from multiple sources such as: <strong>Self-Hosted<\/strong>, <strong>YouTube<\/strong> and <strong>Vimeo<\/strong><\/li>\n<li>Supports popular video formats like <strong>MP4<\/strong>, and <strong>WebM<\/strong><\/li>\n<li><strong>Advanced video player<\/strong> with a whole lot of features!<\/li>\n<li>Works seamlessly with variety of WooCommerce product types<\/li>\n<li>Fully compatible with all standard WooCommerce themes!<\/li>\n<\/ul>\n<h3>How to Use This Plugin?<\/h3>\n<ol>\n<li>Install and activate the plugin.<\/li>\n<li>Go to <strong>Dashboard Menu &gt; Products &gt; All Products<\/strong>.<\/li>\n<li>Find the product you want add video to, and click edit.<\/li>\n<li>On the <strong>Product data<\/strong> section, a new <strong>Featured Video<\/strong> tab has been added so you could select your video.<\/li>\n<li>Select the video you want, and enjoy!<\/li>\n<\/ol>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/featured-video-for-woocommerce.2.1.0.zip",
+    "upgrade_notice": {
+        "1.0": "<p>First version of the plugin - get started with adding product videos today!<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/featured-video-for-woocommerce\/assets\/screenshot-1.png?rev=3024042",
+            "caption": ""
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/featured-video-for-woocommerce\/assets\/screenshot-2.png?rev=3024042",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "shop": "shop",
+        "video": "video",
+        "wc": "wc",
+        "woocommerce": "woocommerce",
+        "youtube": "youtube"
+    },
+    "stable_tag": "2.1.0",
+    "versions": {
+        "2.0.0": "https:\/\/downloads.wordpress.org\/plugin\/featured-video-for-woocommerce.2.0.0.zip",
+        "2.1.0": "https:\/\/downloads.wordpress.org\/plugin\/featured-video-for-woocommerce.2.1.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/featured-video-for-woocommerce.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/foadadeli.ir",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/featured-video-for-woocommerce\/assets\/banner-772x250.png?rev=3024042",
+        "high": "https:\/\/ps.w.org\/featured-video-for-woocommerce\/assets\/banner-1544x500.png?rev=3024042"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/featured-video-for-woocommerce\/assets\/icon.svg?rev=3024769",
+        "svg": "https:\/\/ps.w.org\/featured-video-for-woocommerce\/assets\/icon.svg?rev=3024769"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

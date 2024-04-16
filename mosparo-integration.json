@@ -1,0 +1,146 @@
+{
+    "name": "mosparo Integration",
+    "slug": "mosparo-integration",
+    "version": "1.9",
+    "author": "<a href=\"https:\/\/mosparo.io\/\">mosparo<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/mosparo\/",
+    "contributors": {
+        "mosparo": {
+            "profile": "https:\/\/profiles.wordpress.org\/mosparo\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/0f38423df4e0f126148147d2358b6883?s=96&d=monsterid&r=g",
+            "display_name": "mosparo"
+        }
+    },
+    "requires": "5.4",
+    "tested": "6.4.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 3,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 3,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/mosparo-integration\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 100,
+    "downloaded": 1367,
+    "last_updated": "2024-03-29 1:16pm GMT",
+    "added": "2022-10-16",
+    "homepage": "https:\/\/mosparo.io\/integrations\/wordpress\/",
+    "sections": {
+        "description": "<p>If you want to protect your forms in WordPress with mosparo, this plugin will help you with this task. The mosparo Integration plugin can add the mosparo box to the WordPress comment and account forms (login, lost password and register) or the forms from the plugins Contact Form 7, Elementor Form, Everest Forms, Formidable, Gravity Forms, Ninja Forms, or WPForms. The Comments module is compatible with the WooCommerce reviews (mosparo Integration v1.8+).<\/p>\n<p>To use this plugin, you need an installation of mosparo so that the plugin can communicate with mosparo. Please find all information regarding mosparo on the website <a href=\"https:\/\/mosparo.io\" rel=\"nofollow ugc\">mosparo.io<\/a>.<\/p>\n<p>You can use different projects for the different modules. This is required, for example, if you want to use mosparo for the account forms. There you want to enable the lockout security setting in mosparo. But this security setting may not be active for standard contact forms, so you must use two mosparo connections to two individual projects in mosparo.<\/p>\n",
+        "installation": "<h4>Automatic installation<\/h4>\n<ol>\n<li>Go to the Plugins Menu in WordPress<\/li>\n<li>Search for \u201cmosparo Integration\u201d<\/li>\n<li>Click \u201cInstall\u201d<\/li>\n<\/ol>\n<h4>Manual download<\/h4>\n<ol>\n<li>Download the plugin from the plugin site on wordpress.org<\/li>\n<li>Extract the ZIP file<\/li>\n<li>Upload the &#8220;mosparo-integration&#8221; folder to the \/wp-content\/plugins\/ directory<\/li>\n<li>Activate the plugin through the &#8220;Plugins&#8221; menu in WordPress<\/li>\n<\/ol>\n<p>After installing and activating the plugin, please go to &#8220;Settings&#8221; &gt; &#8220;mosparo Integration&#8221; and add a connection to your mosparo installation. See the Configuration section for more information.<\/p>\n<h4>Configuration<\/h4>\n<p>You can find all mosparo settings under &#8220;Settings&#8221; &gt; &#8220;mosparo Integration&#8221; in the WordPress administration. Add at least one connection and enable the modules you want to use mosparo with. You can find all the information you need for the connection in the project settings in your mosparo project.<\/p>\n<h4>Define the connection in `wp-config.php`<\/h4>\n<p>If you want to define the mosparo connection in the WordPress configuration file (<code>wp-config.php<\/code>), follow the following steps:<\/p>\n<ol>\n<li>Open the <code>wp-config.php<\/code> file in an editor.<\/li>\n<li>Find the following line:<\/li>\n<\/ol>\n<pre><code>\/* That's all, stop editing! Happy publishing. *\/\n<\/code><\/pre>\n<ol>\n<li>Add the following lines <strong>before<\/strong> the found line. Replace the placeholders (for example, <code>&lt;Project-UUID&gt;<\/code>) with the connection settings provided by your mosparo project.<\/li>\n<\/ol>\n<pre><code>define('WP_MOSPARO_HOST', '&lt;URL-of-your-mosparo-installation&gt;'); \/\/ Starting with https:\/\/\ndefine('WP_MOSPARO_UUID', '&lt;Project-UUID&gt;');\ndefine('WP_MOSPARO_PUBLIC_KEY', '&lt;Project-Public-Key&gt;');\ndefine('WP_MOSPARO_PRIVATE_KEY', '&lt;Project-Private-Key&gt;');\ndefine('WP_MOSPARO_VERIFY_SSL', true); \/\/ Should be true but if you do not have a valid certificate, change this to false\n<\/code><\/pre>\n<ol>\n<li>Open the WordPress Administration and go to the mosparo Integration settings.<\/li>\n<li>Enable the modules you want to use.<\/li>\n<\/ol>\n<p>It&#8217;s possible to add only one connection in the <code>wp-config.php<\/code> file, which will be the default connection for all modules. You can add additional connections in the WordPress administration, which then overrides the connection from the <code>wp-config.php<\/code> file.<\/p>\n<h4>Configure network-wide connection<\/h4>\n<p>If you have a WordPress multisite network, you can enable the mosparo Integration plugin network-wide and configure the enabled modules and the available connections in the network settings.<\/p>\n<p>Go to &#8220;Settings&#8221; &gt; &#8220;mosparo Integration&#8221; in the network administration, add connections, and enable modules.<\/p>\n<p><strong>Important:<\/strong> A website can always add additional connections and enable additional modules.<\/p>\n<h4>Default connection priority<\/h4>\n<p>The origin of a connection will select the connection for a module:<\/p>\n<ol>\n<li>The <code>wp-config.php<\/code> file connection is always the default connection.<\/li>\n<li><em>(Multisite only)<\/em> If a connection is defined for a module in the network settings, the connection from the network settings will be used.<\/li>\n<li>If a connection is defined for a module in the website settings, the connection from the website settings will be used.<\/li>\n<\/ol>\n",
+        "changelog": "<h4>1.9<\/h4>\n<p><em>Release Date: 29th March 2024<\/em><\/p>\n<ul>\n<li>[Change] Replaced the jQuery code with Vanilla JS<\/li>\n<li>[Bugfix] Fixed the issue with the verification in Ninja Forms<\/li>\n<li>[Bugfix] Fixed the invisible mode in Ninja Forms<\/li>\n<\/ul>\n<h4>1.8.1<\/h4>\n<p><em>Release Date: 27th February 2024<\/em><\/p>\n<ul>\n<li>[Bugfix] Wrong version number generated an issue with the WordPress release management<\/li>\n<\/ul>\n<h4>1.8<\/h4>\n<p><em>Release Date: 27th February 2024<\/em><\/p>\n<ul>\n<li>[Enhancement] Added the option configure the mosparo connection in the wp-config.php file<\/li>\n<li>[Enhancement] Added the compatibility of the plugin with the WordPress Multisite. Configure connections and enable modules in the network administration.<\/li>\n<li>[Bugfix] Fixed the compatibility with the WooCommerce reviews<\/li>\n<\/ul>\n<h4>1.7<\/h4>\n<p><em>Release Date: 5th November 2023<\/em><\/p>\n<ul>\n<li>[Enhancement] The use of the plugin has been simplified by adding a how-to-use text and a link to the settings page.<\/li>\n<\/ul>\n<h4>1.6<\/h4>\n<p><em>Release Date: 21st October 2023<\/em><\/p>\n<ul>\n<li>[Fix] Adjusted the dependencies so the plugin will not have a problem with other plugins that use Guzzle or other dependencies.<\/li>\n<li>[Fix] Contact Form 7: Fixed an issue with select fields that have no options or use a data provider like Listo<\/li>\n<\/ul>\n<h4>1.5<\/h4>\n<p><em>Release Date: 25th July 2023<\/em><\/p>\n<ul>\n<li>[Enhancement] Prepare the modules for the invisible mode of mosparo, which will be available with mosparo v1.0<\/li>\n<li>[Fix] Hide the label for the mosparo field in the Everest Forms and Formidable plugins<\/li>\n<\/ul>\n<h4>1.4.1<\/h4>\n<p><em>Release Date: 4th May 2023<\/em><\/p>\n<ul>\n<li>[Fix] Fixed the not-working CSS URL cache cronjob<\/li>\n<li>[Fix] Updated the dependencies to the latest versions<\/li>\n<\/ul>\n<h4>1.4<\/h4>\n<p><em>Release Date: 27th April 2023<\/em><\/p>\n<ul>\n<li>[Enhancement] Added a module form Elementor Form<\/li>\n<li>[Fix] Fixed the header of the mosparo settings page in the admin interface when Elementor is active<\/li>\n<\/ul>\n<h4>1.3<\/h4>\n<p><em>Release Date: 15th April 2023<\/em><\/p>\n<ul>\n<li>[Enhancement] Optimized the protection with the verifiable fields check in all modules (except comments and account)<\/li>\n<li>[Fix] Fixed the repeater field in the Formidable forms<\/li>\n<li>[Fix] Fixed the repeater field in the NinjaForms forms<\/li>\n<\/ul>\n<h4>1.2<\/h4>\n<p><em>Release Date: 12th April 2023<\/em><\/p>\n<ul>\n<li>[Fix] Check for the mosparo field in the form before executing the validation (Modules: Contact Form 7, Formidable, NinjaForms, and WPForms)<\/li>\n<\/ul>\n<h4>1.1<\/h4>\n<p><em>Release Date: 14th March 2023<\/em><\/p>\n<ul>\n<li>[Enhancement] Added the modules for Everest Forms, Formidable, Gravity Forms, and the WordPress account forms.<\/li>\n<li>[Enhancement] Added the ability to configure multiple connections to different mosparo projects<\/li>\n<\/ul>\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Congratulation<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/css31\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/5ac37e3c597b9032c1c85a9e37992546?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/5ac37e3c597b9032c1c85a9e37992546?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/css31\/\" class=\"reviewer-name\">Cyrille Sanson <small>(css31)<\/small><\/a> on <span class=\"review-date\">February 1, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Hi,<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Very good work. I'm starting to test it. It looks very promising.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Best<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">mosparo<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mbtechno\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/a3afc0a0ff6a7e0e900e77237180464f?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/a3afc0a0ff6a7e0e900e77237180464f?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mbtechno\/\" class=\"reviewer-name\">mbtechno<\/a> on <span class=\"review-date\">April 27, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Best in class plugin i found! Much better than recaptcha. Wordpress.org should think about replacing their recaptcha. (Is from my perspective old school and outdated) :-)<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Customizable, fast, reliable<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/pbrambi\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/4f95cc94ac582619300aec781932a84c?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/4f95cc94ac582619300aec781932a84c?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/pbrambi\/\" class=\"reviewer-name\">Petr Branberger <small>(pbrambi)<\/small><\/a> on <span class=\"review-date\">March 8, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>I have been looking for ages for a good reCaptcha alternative - here it is. Absolutely love it! <br \/><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>So much, I am in the progress of finish the Czech translation of the plugin and app. Hope you integrate it soon! :)<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "The plugin adds the functionality to use mosparo in WordPress forms or forms from Contact Form 7, Everest Form, and other plugins.",
+    "description": "<p>If you want to protect your forms in WordPress with mosparo, this plugin will help you with this task. The mosparo Integration plugin can add the mosparo box to the WordPress comment and account forms (login, lost password and register) or the forms from the plugins Contact Form 7, Elementor Form, Everest Forms, Formidable, Gravity Forms, Ninja Forms, or WPForms. The Comments module is compatible with the WooCommerce reviews (mosparo Integration v1.8+).<\/p>\n<p>To use this plugin, you need an installation of mosparo so that the plugin can communicate with mosparo. Please find all information regarding mosparo on the website <a href=\"https:\/\/mosparo.io\" rel=\"nofollow ugc\">mosparo.io<\/a>.<\/p>\n<p>You can use different projects for the different modules. This is required, for example, if you want to use mosparo for the account forms. There you want to enable the lockout security setting in mosparo. But this security setting may not be active for standard contact forms, so you must use two mosparo connections to two individual projects in mosparo.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/mosparo-integration.1.9.zip",
+    "upgrade_notice": {
+        "1.5": "<p><strong>Everest Forms<\/strong>\nBecause of a missing event in the Everest Forms plugin, the invisible mode of mosparo can only work in the normal submission mode, not in the AJAX submission mode. We&#039;re waiting for an additional event in the Everest Forms plugin, which makes the mosparo plugin compatible again.<\/p>"
+    },
+    "screenshots": [],
+    "tags": {
+        "api-client": "api client",
+        "forms": "forms",
+        "integration": "integration",
+        "mosparo": "mosparo",
+        "spam-protection": "spam protection"
+    },
+    "stable_tag": "1.9",
+    "versions": {
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/mosparo-integration.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/mosparo-integration.1.0.2.zip",
+        "1.1": "https:\/\/downloads.wordpress.org\/plugin\/mosparo-integration.1.1.zip",
+        "1.2": "https:\/\/downloads.wordpress.org\/plugin\/mosparo-integration.1.2.zip",
+        "1.3": "https:\/\/downloads.wordpress.org\/plugin\/mosparo-integration.1.3.zip",
+        "1.4": "https:\/\/downloads.wordpress.org\/plugin\/mosparo-integration.1.4.zip",
+        "1.4.1": "https:\/\/downloads.wordpress.org\/plugin\/mosparo-integration.1.4.1.zip",
+        "1.5": "https:\/\/downloads.wordpress.org\/plugin\/mosparo-integration.1.5.zip",
+        "1.6": "https:\/\/downloads.wordpress.org\/plugin\/mosparo-integration.1.6.zip",
+        "1.7": "https:\/\/downloads.wordpress.org\/plugin\/mosparo-integration.1.7.zip",
+        "1.8": "https:\/\/downloads.wordpress.org\/plugin\/mosparo-integration.1.8.zip",
+        "1.8.1": "https:\/\/downloads.wordpress.org\/plugin\/mosparo-integration.1.8.1.zip",
+        "1.9": "https:\/\/downloads.wordpress.org\/plugin\/mosparo-integration.1.9.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/mosparo-integration.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/mosparo-integration\/assets\/banner-772x250.jpg?rev=2905267",
+        "high": "https:\/\/ps.w.org\/mosparo-integration\/assets\/banner-1544x500.jpg?rev=2905267"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/mosparo-integration\/assets\/icon-256x256.png?rev=2799617",
+        "2x": "https:\/\/ps.w.org\/mosparo-integration\/assets\/icon-256x256.png?rev=2799617"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [
+        {
+            "filename": "blueprint.json",
+            "url": "https:\/\/wordpress.org\/plugins\/wp-json\/plugins\/v1\/plugin\/mosparo-integration\/blueprint.json?rev=3061169"
+        }
+    ],
+    "preview_link": "https:\/\/wordpress.org\/plugins\/mosparo-integration\/?preview=1",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "mosparo-integration",
+            "language": "cs_CZ",
+            "version": "1.9",
+            "updated": "2023-11-12 13:48:33",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/mosparo-integration\/1.9\/cs_CZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "mosparo-integration",
+            "language": "de_CH_informal",
+            "version": "1.9",
+            "updated": "2024-03-04 18:38:30",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/mosparo-integration\/1.9\/de_CH_informal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "mosparo-integration",
+            "language": "de_CH",
+            "version": "1.9",
+            "updated": "2024-03-04 18:37:22",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/mosparo-integration\/1.9\/de_CH.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "mosparo-integration",
+            "language": "de_DE_formal",
+            "version": "1.9",
+            "updated": "2024-03-04 18:36:01",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/mosparo-integration\/1.9\/de_DE_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "mosparo-integration",
+            "language": "de_DE",
+            "version": "1.9",
+            "updated": "2024-03-04 18:34:43",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/mosparo-integration\/1.9\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "mosparo-integration",
+            "language": "fr_FR",
+            "version": "1.9",
+            "updated": "2024-04-09 14:13:40",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/mosparo-integration\/1.9\/fr_FR.zip"
+        }
+    ]
+}

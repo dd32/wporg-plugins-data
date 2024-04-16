@@ -1,0 +1,80 @@
+{
+    "name": "OpenAI Tools for WordPress &amp; WooCommerce",
+    "slug": "openai-tools-for-wp-wc",
+    "version": "1.6.8",
+    "author": "<a href=\"https:\/\/woocat.app\">WooCat<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/mtoolstec\/",
+    "contributors": {
+        "mtoolstec": {
+            "profile": "https:\/\/profiles.wordpress.org\/mtoolstec\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/1aa8faf2ea2ecc0afb62b38190f8e5a4?s=96&d=monsterid&r=g",
+            "display_name": "Wilson"
+        }
+    },
+    "requires": "6.1.1",
+    "tested": "6.4.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/openai-tools-for-wp-wc\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 90,
+    "downloaded": 1135,
+    "last_updated": "2024-03-31 9:21am GMT",
+    "added": "2023-03-11",
+    "homepage": "https:\/\/woocat.app",
+    "sections": {
+        "description": "<p>The plugin brings you efficient work to prompt your store. With OpenAI and Groq AI, you can generate product reviews, post comments, and short descriptions. The plugin also supports bulk Yoast Meta Title and Description generation.<\/p>\n",
+        "installation": "<p>Upload the OpenAI Tools Plugin to your site. Add the OpenAI Token from your personal account.<\/p>\n",
+        "faq": "<p>Where to find the OpenAI API Key?<br \/>\nIt can be found on your OpenAI account page.<\/p>\n<p>How to generate product reviews?<br \/>\nSet the review count, start date, end date, average ratings, topics, and language. Click submit to generate reviews with OpenAI.<\/p>\n<p>How to generate post comments?<br \/>\nSet the comment count, start date, end date, topics, and language. Click submit to generate comments with OpenAI.<\/p>\n<p>How to generate short descriptions?<br \/>\nThe plugin generate the product short description depending on the prpduct title and prompt and the AI model you choose.<\/p>\n",
+        "changelog": "<ol>\n<li>Support Groq API, OpenAI with custom domain.<\/li>\n<li>AI Reviewer &amp; AI Commenter<\/li>\n<li>AI Short Description generator<\/li>\n<li>Bulk Yoast Meta Title and Description generator<\/li>\n<\/ol>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/openai-tools-for-wp-wc\/assets\/screenshot-1.png?rev=2878236\"><img src=\"https:\/\/ps.w.org\/openai-tools-for-wp-wc\/assets\/screenshot-1.png?rev=2878236\" alt=\"Comments and Reviews Generator for posts and products.\"><\/a><p>Comments and Reviews Generator for posts and products.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/openai-tools-for-wp-wc\/assets\/screenshot-2.png?rev=3056473\"><img src=\"https:\/\/ps.w.org\/openai-tools-for-wp-wc\/assets\/screenshot-2.png?rev=3056473\" alt=\"Product Short Description Generator.\"><\/a><p>Product Short Description Generator.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/openai-tools-for-wp-wc\/assets\/screenshot-3.png?rev=3056473\"><img src=\"https:\/\/ps.w.org\/openai-tools-for-wp-wc\/assets\/screenshot-3.png?rev=3056473\" alt=\"Bulk Yoast Meta Title and Description Generator.\"><\/a><p>Bulk Yoast Meta Title and Description Generator.<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Based on OpenAI, improve your blog and store smartly.",
+    "description": "<p>The plugin brings you efficient work to prompt your store. With OpenAI and Groq AI, you can generate product reviews, post comments, and short descriptions. The plugin also supports bulk Yoast Meta Title and Description generation.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/openai-tools-for-wp-wc.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/openai-tools-for-wp-wc\/assets\/screenshot-1.png?rev=2878236",
+            "caption": "Comments and Reviews Generator for posts and products."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/openai-tools-for-wp-wc\/assets\/screenshot-2.png?rev=3056473",
+            "caption": "Product Short Description Generator."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/openai-tools-for-wp-wc\/assets\/screenshot-3.png?rev=3056473",
+            "caption": "Bulk Yoast Meta Title and Description Generator."
+        }
+    },
+    "tags": [],
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/openai-tools-for-wp-wc\/assets\/icon-128x128.png?rev=2878231"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

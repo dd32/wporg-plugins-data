@@ -1,0 +1,80 @@
+{
+    "name": "Animation Addons for Elementor",
+    "slug": "animation-addons-for-elementor",
+    "version": "1.0.0",
+    "author": "<a href=\"https:\/\/wealcoder.com\/\/\">wealcoder<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/wealcoder\/",
+    "contributors": {
+        "wealcoder": {
+            "profile": "https:\/\/profiles.wordpress.org\/wealcoder\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/b1b161278fa8610bcfc5a81bdd9b56ba?s=96&d=monsterid&r=g",
+            "display_name": "Wealcoder"
+        },
+        "nazmulhasanaail": {
+            "profile": "https:\/\/profiles.wordpress.org\/nazmulhasanaail\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/588c084d90b85fddfa20e6147f5307b2?s=96&d=monsterid&r=g",
+            "display_name": "nazmulhasanaail"
+        }
+    },
+    "requires": "6.0",
+    "tested": "6.4.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/animation-addons-for-elementor\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 200,
+    "downloaded": 303,
+    "last_updated": "2024-04-16 4:37am GMT",
+    "added": "2024-04-04",
+    "homepage": "https:\/\/wealcoder.com\/\/",
+    "sections": {
+        "description": "<p>THE #1 WEB ANIMATION BUILDER FOR WORDPRESS AND ELEMENTOR USERS<\/p>\n<p>Introducing &#8220;Animation Addons for Elementor&#8221; an advanced WordPress plugin meticulously crafted to enhance your web design endeavors. This sophisticated Elementor addon places a primary emphasis on animation capabilities, seamlessly integrating with the robust GSAP animations for a refined user experience. With an expansive repertoire of 35 elements, our plugin empowers you to effortlessly create visually striking websites, setting a new standard for design excellence.<\/p>\n<p>Explore the perfect combination of Elementor Addons and advanced animations. Pay close attention to detail as you design visually appealing websites with our plugin, making sure each part looks great. Boost your online presence with the innovation and simplicity of our GSAP animation for WordPress. Embrace the future of web design by smoothly adding Elementor Addons and the latest animations, raising the bar for professionalism and creativity.<\/p>\n<h3>KEY FEATURES<\/h3>\n<ul>\n<li>25+ Elementor Widgets<\/li>\n<li>Custom CSS<\/li>\n<li>One Page Scroll<\/li>\n<li>Multi Widgets Area<\/li>\n<li>Completely Customizable<\/li>\n<li>Cross-Browser Compatible<\/li>\n<li>Fully Responsive<\/li>\n<li>Build with Elementor<\/li>\n<\/ul>\n<h3>ADDONS LIST<\/h3>\n<p>We have designed more than 35 of the most useful widgets to enhance your Elementor Page Building experience and allow you to climb the top of your design capabilities.<br \/>\n1. [Post] Showcase your blog posts in multiple unique styles<br \/>\n2. [Animated Tittle] Animate your title as you want, fade, animate by character, animate with word, animate with line, text reveal and more<br \/>\n3. [Animated Text] Animate your text as you want, fade, animate by character, animate with word, animate with line, text reveal and more<br \/>\n4. [Image Box] present any image with unique animation with 5 different Style<br \/>\n5. [Image Box Slider] present any image with unique slider with 5 different Style<br \/>\n6. [Image] show your image as you wish<br \/>\n7. [Image Gallery] Make a gallery with multiple styles and animation<br \/>\n8. [Brand Slider] Show your client, or brand slider with multiple styles(text\/image)<br \/>\n9. [Text Hover Image] Text Hover show image<br \/>\n10. [Counter] Counter number<br \/>\n11. [Icon Box] show your icon box with multiple styles<br \/>\n12. [Testimonial] Show your client feedback with unique 11 styles<br \/>\n13. [Testimonial 2] It includes advance 3 styles<br \/>\n14. [Testimonial 3] It includes advance 1 styles<br \/>\n15. [Button] Next generation buttons with seven styles<br \/>\n16. [Image Compare] compare your images<br \/>\n17. [Progressbar] Three uniq styles<br \/>\n18. [social Icons] multiple social icons<br \/>\n19. [Team] Showcase your team in style and build credibility effortlessly<br \/>\n20. [One Page Nav] Simplify navigation with &#8216;One Page Nav&#8217; for smooth scrolling<br \/>\n21. [Timeline] Easily create timelines for your website, making it more interesting and engaging. Perfect for sharing your journey or events with multiple styles<br \/>\n22. [Contact form 7] Show contact form whereever you want<br \/>\n23. [Tabs] Simplify navigation and make your website more user-friendly<br \/>\n24. [Services Tab] Effortlessly showcase your services with Service Tab  with multiple styles<br \/>\n25. [Floating Elements]: Effortlessly add captivating animations like floating, moving, zooming in\/out, and rounding. Bring your content to life with dynamic design.<br \/>\n26. [Event Slider]: Dynamic event showcasing made easy with Event Slider Addons.<br \/>\n27. [Content slider]: Enhance content visibility with Content Slider Elementor Addons. Create captivating sliders to showcase your information seamlessly.<br \/>\n28. [Countdown] Build anticipation with Countdown Addons. Easily incorporate countdowns to create excitement for events or promotions.<br \/>\n29. [typewriter] Add a touch of elegance with Typewriter Addons. Effortlessly create a dynamic and engaging typing effect to captivate your audience.<\/p>\n<h3>\u00bb DOCUMENTATION AND SUPPORT<\/h3>\n<ul>\n<li>\ud83d\udcde <a href=\"http:\/\/crowdyflow.tisky.com\/\" rel=\"nofollow ugc\">Contact Our Support<\/a><\/li>\n<li>\ud83d\ude4b\ud83c\udffc\u200d\u2642\ufe0f <a href=\"https:\/\/www.facebook.com\/wealcoder\" rel=\"nofollow ugc\">Join Our Facebook Community<\/a><\/li>\n<li>\ud83d\udcdc <a href=\"http:\/\/crowdyflow.tisky.com\/\" rel=\"nofollow ugc\">Check Documentation<\/a><\/li>\n<\/ul>\n",
+        "faq": "\n<dt id='can%20i%20use%20the%20plugin%20without%20elementor%20page%20builder%3F'>\nCan I use the plugin without Elementor Page Builder?\n<\/h4>\n<p>\n<p>No. You cannot use without Elementor since it&#8217;s an addon for Elementor.<\/p>\n<\/p>\n<dt id='does%20it%20work%20with%20any%20theme%3F'>\nDoes it work with any theme?\n<\/h4>\n<p>\n<p>Absolutely! It will work with any theme where Elementor works.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.0 \u2013 01\/04\/2024<\/h4>\n<p>Initial release<\/p>\n<ul>\n<li>We used lots of third-party JS Plugins. Like:<\/li>\n<\/ul>\n<ol>\n<li>beforeafter JS<\/li>\n<li>progressbar JS<\/li>\n<li>typed JS<\/li>\n<\/ol>\n",
+        "reviews": ""
+    },
+    "short_description": "&#039;Animation Addons for Elementor&#039; WordPress Plugin comes with 25+ elements, pixel perfect design, GSAP Animation builder and more",
+    "description": "<p>THE #1 WEB ANIMATION BUILDER FOR WORDPRESS AND ELEMENTOR USERS<\/p>\n<p>Introducing &#8220;Animation Addons for Elementor&#8221; an advanced WordPress plugin meticulously crafted to enhance your web design endeavors. This sophisticated Elementor addon places a primary emphasis on animation capabilities, seamlessly integrating with the robust GSAP animations for a refined user experience. With an expansive repertoire of 35 elements, our plugin empowers you to effortlessly create visually striking websites, setting a new standard for design excellence.<\/p>\n<p>Explore the perfect combination of Elementor Addons and advanced animations. Pay close attention to detail as you design visually appealing websites with our plugin, making sure each part looks great. Boost your online presence with the innovation and simplicity of our GSAP animation for WordPress. Embrace the future of web design by smoothly adding Elementor Addons and the latest animations, raising the bar for professionalism and creativity.<\/p>\n<h3>KEY FEATURES<\/h3>\n<ul>\n<li>25+ Elementor Widgets<\/li>\n<li>Custom CSS<\/li>\n<li>One Page Scroll<\/li>\n<li>Multi Widgets Area<\/li>\n<li>Completely Customizable<\/li>\n<li>Cross-Browser Compatible<\/li>\n<li>Fully Responsive<\/li>\n<li>Build with Elementor<\/li>\n<\/ul>\n<h3>ADDONS LIST<\/h3>\n<p>We have designed more than 35 of the most useful widgets to enhance your Elementor Page Building experience and allow you to climb the top of your design capabilities.<br \/>\n1. [Post] Showcase your blog posts in multiple unique styles<br \/>\n2. [Animated Tittle] Animate your title as you want, fade, animate by character, animate with word, animate with line, text reveal and more<br \/>\n3. [Animated Text] Animate your text as you want, fade, animate by character, animate with word, animate with line, text reveal and more<br \/>\n4. [Image Box] present any image with unique animation with 5 different Style<br \/>\n5. [Image Box Slider] present any image with unique slider with 5 different Style<br \/>\n6. [Image] show your image as you wish<br \/>\n7. [Image Gallery] Make a gallery with multiple styles and animation<br \/>\n8. [Brand Slider] Show your client, or brand slider with multiple styles(text\/image)<br \/>\n9. [Text Hover Image] Text Hover show image<br \/>\n10. [Counter] Counter number<br \/>\n11. [Icon Box] show your icon box with multiple styles<br \/>\n12. [Testimonial] Show your client feedback with unique 11 styles<br \/>\n13. [Testimonial 2] It includes advance 3 styles<br \/>\n14. [Testimonial 3] It includes advance 1 styles<br \/>\n15. [Button] Next generation buttons with seven styles<br \/>\n16. [Image Compare] compare your images<br \/>\n17. [Progressbar] Three uniq styles<br \/>\n18. [social Icons] multiple social icons<br \/>\n19. [Team] Showcase your team in style and build credibility effortlessly<br \/>\n20. [One Page Nav] Simplify navigation with &#8216;One Page Nav&#8217; for smooth scrolling<br \/>\n21. [Timeline] Easily create timelines for your website, making it more interesting and engaging. Perfect for sharing your journey or events with multiple styles<br \/>\n22. [Contact form 7] Show contact form whereever you want<br \/>\n23. [Tabs] Simplify navigation and make your website more user-friendly<br \/>\n24. [Services Tab] Effortlessly showcase your services with Service Tab  with multiple styles<br \/>\n25. [Floating Elements]: Effortlessly add captivating animations like floating, moving, zooming in\/out, and rounding. Bring your content to life with dynamic design.<br \/>\n26. [Event Slider]: Dynamic event showcasing made easy with Event Slider Addons.<br \/>\n27. [Content slider]: Enhance content visibility with Content Slider Elementor Addons. Create captivating sliders to showcase your information seamlessly.<br \/>\n28. [Countdown] Build anticipation with Countdown Addons. Easily incorporate countdowns to create excitement for events or promotions.<br \/>\n29. [typewriter] Add a touch of elegance with Typewriter Addons. Effortlessly create a dynamic and engaging typing effect to captivate your audience.<\/p>\n<h3>\u00bb DOCUMENTATION AND SUPPORT<\/h3>\n<ul>\n<li>\ud83d\udcde <a href=\"http:\/\/crowdyflow.tisky.com\/\" rel=\"nofollow ugc\">Contact Our Support<\/a><\/li>\n<li>\ud83d\ude4b\ud83c\udffc\u200d\u2642\ufe0f <a href=\"https:\/\/www.facebook.com\/wealcoder\" rel=\"nofollow ugc\">Join Our Facebook Community<\/a><\/li>\n<li>\ud83d\udcdc <a href=\"http:\/\/crowdyflow.tisky.com\/\" rel=\"nofollow ugc\">Check Documentation<\/a><\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/animation-addons-for-elementor.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "animation": "animation",
+        "elementor": "elementor",
+        "elementor-addon": "elementor addon",
+        "elementor-widget": "elementor widget",
+        "gsap-animation": "GSAP Animation"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/wealcoder.com\/donate",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/animation-addons-for-elementor\/assets\/banner-772x250.png?rev=3064290",
+        "high": "https:\/\/ps.w.org\/animation-addons-for-elementor\/assets\/banner-1544x500.png?rev=3064290"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/animation-addons-for-elementor\/assets\/icon-128x128.png?rev=3064290",
+        "2x": "https:\/\/ps.w.org\/animation-addons-for-elementor\/assets\/icon-256x256.png?rev=3064290"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

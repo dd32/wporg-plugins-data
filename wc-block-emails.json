@@ -1,0 +1,84 @@
+{
+    "name": "Block Emails for WooCommerce Checkout",
+    "slug": "wc-block-emails",
+    "version": "1.0.2",
+    "author": "<a href=\"https:\/\/conschneider.de\">Con Schneider<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/conschneider\/",
+    "contributors": {
+        "conschneider": {
+            "profile": "https:\/\/profiles.wordpress.org\/conschneider\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/5547c81c574fd7e9aa5741623d8bdb1d?s=96&d=monsterid&r=g",
+            "display_name": "con"
+        }
+    },
+    "requires": "5.2",
+    "tested": "6.4.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 4,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 4,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/wc-block-emails\/",
+    "support_threads": 2,
+    "support_threads_resolved": 1,
+    "active_installs": 200,
+    "downloaded": 559,
+    "last_updated": "2024-03-14 2:34pm GMT",
+    "added": "2023-12-12",
+    "homepage": "https:\/\/wordpress.org\/plugins\/wc-block-emails",
+    "sections": {
+        "description": "<p>The Block Emails for WooCommerce plugin allows you to block specific email addresses during the WooCommerce checkout process. It&#8217;s simple and easy to use. Just enter the email addresses you want to block and the plugin will prevent those emails from being used during checkout. You can also customize the error message that is displayed when a blocked email is used.<\/p>\n",
+        "installation": "<ol>\n<li>Upload the plugin files to the <code>\/wp-content\/plugins\/wc-block-emails<\/code> directory, or install the plugin through the WordPress plugins screen directly.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; screen in WordPress.<\/li>\n<li>Use the WooCommerce-&gt;Settings-&gt;Block Emails screen to configure the plugin.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='what%20does%20this%20plugin%20do%3F'>\nWhat does this plugin do?\n<\/h4>\n<p>\n<p>This plugin allows you to block specific email addresses during the WooCommerce checkout process.<\/p>\n<\/p>\n<dt id='how%20do%20i%20use%20the%20plugin%3F'>\nHow do I use the plugin?\n<\/h4>\n<p>\n<p>After installing and activating the plugin, go to WooCommerce-&gt;Block Emails and enter the email addresses you want to block.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.2<\/h4>\n<ul>\n<li>Declare HPOS compatibility.<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>You can now enter TLDs (top-level domains) to block all email addresses from that domain. Example: .org will block all email addresses ending in .org.<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Initial release.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/wc-block-emails\/assets\/screenshot-1.png?rev=3012811\"><img src=\"https:\/\/ps.w.org\/wc-block-emails\/assets\/screenshot-1.png?rev=3012811\" alt=\"The settings page where you can enter the email addresses to block.\"><\/a><p>The settings page where you can enter the email addresses to block.<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">COPY AND PASTE YOUR LIST OF EMAILS TO BLOCK ! Easy and great ! Thank you !<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/clitopwebsite\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/17aa24a3f92087e1312d161295edeade?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/17aa24a3f92087e1312d161295edeade?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/clitopwebsite\/\" class=\"reviewer-name\">clitopwebsite<\/a> on <span class=\"review-date\">March 20, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">COPY AND PASTE YOUR LIST OF EMAILS TO BLOCK ! Easy and great ! Thank you !<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">HPOS support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/anze\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/a44b66a1132f99c341ac73a4cd7335fb?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/a44b66a1132f99c341ac73a4cd7335fb?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/anze\/\" class=\"reviewer-name\">anze<\/a> on <span class=\"review-date\">March 13, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Great plugin! Does what it says. But I was wondering if you could update it to support WooCommerce's HPOS. I want to enable it, but it says that your plugin isn't compatible with it.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great plugin !<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/fullganic\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e7cf07d6fe3bc74152b5c26836ea832c?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e7cf07d6fe3bc74152b5c26836ea832c?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/fullganic\/\" class=\"reviewer-name\">fullganic<\/a> on <span class=\"review-date\">December 28, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This plugin is an absolute game-changer! It very helpful to prevent receiving orders from specific domain and whole TDLs, Also the developer's kindness in crafting such a valuable tool is commendable. Thank you for this excellent solution!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Perfect Lightweight Plugin to Block Unwanted Users<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/bhalstrom\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/2f0366842fecc34d54d09bd6a9c1f6df?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/2f0366842fecc34d54d09bd6a9c1f6df?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/bhalstrom\/\" class=\"reviewer-name\">bhalstrom<\/a> on <span class=\"review-date\">December 18, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">If you're running a WooCommerce store, having a quick and easy way to block known fraudulent email domains or specific users from checking out is essential. It is lightweight, user-friendly, and does the job perfectly. This plugin has already saved our store from countless fraudulent orders. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><strong>How does it work?<\/strong><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Simply enter in specific email addresses, or entire domains that you wish to block from placing orders on your store. If the block criteria is met when they try to place the order, a customizable message will appear at the top of the page and the order will not proceed. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">This plugin is now essential to all of our WooCommerce stores.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "A WooCommerce plugin to block specific email addresses during checkout.",
+    "description": "<p>The Block Emails for WooCommerce plugin allows you to block specific email addresses during the WooCommerce checkout process. It&#8217;s simple and easy to use. Just enter the email addresses you want to block and the plugin will prevent those emails from being used during checkout. You can also customize the error message that is displayed when a blocked email is used.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wc-block-emails.zip",
+    "upgrade_notice": {
+        "1.0.2": "<ul>\n<li>HPOS compatibility.<\/li>\n<\/ul>",
+        "1.0.1": "<ul>\n<li>TLDs are now supported.<\/li>\n<\/ul>",
+        "1.0.0": "<ul>\n<li>Initial release.<\/li>\n<\/ul>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/wc-block-emails\/assets\/screenshot-1.png?rev=3012811",
+            "caption": "The settings page where you can enter the email addresses to block."
+        }
+    },
+    "tags": {
+        "block": "block",
+        "emails": "emails",
+        "woocommerce": "woocommerce"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/conschneider.de\/donate",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/wc-block-emails\/assets\/banner-772x250.png?rev=3008903",
+        "high": "https:\/\/ps.w.org\/wc-block-emails\/assets\/banner-1544x500.png?rev=3008903"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/wc-block-emails\/assets\/icon-256x256.png?rev=3008903",
+        "2x": "https:\/\/ps.w.org\/wc-block-emails\/assets\/icon-256x256.png?rev=3008903"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

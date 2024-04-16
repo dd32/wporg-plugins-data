@@ -1,0 +1,121 @@
+{
+    "name": "WizEvolve Min Max Quantities",
+    "slug": "wizevolve-min-max-quantities",
+    "version": "1.3.1",
+    "author": "<a href=\"https:\/\/www.wizevolve.com\/\">WizEvolve<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/wizevolve\/",
+    "contributors": {
+        "wizevolve": {
+            "profile": "https:\/\/profiles.wordpress.org\/wizevolve\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/ae62f08351f62b69d8662324a59ce336?s=96&d=monsterid&r=g",
+            "display_name": "wizevolve"
+        }
+    },
+    "requires": "5.6",
+    "tested": "6.4.4",
+    "requires_php": "8.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/wizevolve-min-max-quantities\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 56,
+    "last_updated": "2024-01-30 9:46pm GMT",
+    "added": "2024-01-30",
+    "homepage": "",
+    "sections": {
+        "description": "<p><strong>WizEvolve Min Max Quantity Extension<\/strong> enhances your WooCommerce store by allowing you to set minimum and maximum quantity rules for your products. It\u2019s designed for store owners who need a reliable and efficient way to manage product quantities, ensuring customers purchase within the defined limits. With features ranging from flexible quantity rules to checkout validation, this extension simplifies and streamlines the purchasing process for both store owners and customers.<\/p>\n<p>Unlock the full potential of WizEvolve with the Pro version, offering advanced features like cart restrictions, quantity selector limitations, and instant user feedback, ensuring an optimized and user-friendly shopping experience.<\/p>\n<p><a href=\"https:\/\/checkout.freemius.com\/mode\/dialog\/plugin\/13335\/plan\/22341\/\" rel=\"nofollow ugc\">Upgrade to Pro<\/a> for advanced features and enhanced control over your WooCommerce store&#8217;s purchasing limits.<\/p>\n<h4>Free Features<\/h4>\n<ul>\n<li><strong>Flexible Quantity Rules<\/strong>: Easily set minimum and maximum order quantities for each product to streamline purchases and manage inventory effectively.<\/li>\n<li><strong>Variable Product Support<\/strong>: Apply distinct min\/max settings for each product variation, ensuring tailored shopping experiences for a diverse range of products.<\/li>\n<li><strong>Checkout Validation<\/strong>: Prevent customers from proceeding to checkout if the cart&#8217;s content doesn&#8217;t adhere to the set min\/max rules, ensuring a smooth and error-free transaction.<\/li>\n<\/ul>\n<h4>Pro Features<\/h4>\n<ul>\n<li><strong>Cart Restrictions<\/strong>: Control the overall min and max product count in the shopping cart, ensuring each purchase aligns with your business rules and inventory management.<\/li>\n<li><strong>Quantity Selector Limitations<\/strong>: Refine the product quantity selectors on detail and cart pages, preventing customers from selecting below the minimum or above the maximum limits.<\/li>\n<li><strong>Limit Based on Stock<\/strong>: Synchronize the quantity selector with real-time stock levels, ensuring customers can only select up to the available stock, especially when backorders are not allowed.<\/li>\n<li><strong>Global Product Rules<\/strong>: Implement universal min\/max quantity rules that act as fallback settings for all products in the store, ensuring consistency and control.<\/li>\n<li><strong>Instant User Feedback<\/strong>: Provide real-time on-page notices to inform customers about potential backorders or quantity restrictions, enhancing communication and transparency.<\/li>\n<\/ul>\n<p>Enhance your WooCommerce store\u2019s functionality, and offer your customers a seamless, intuitive shopping experience with the WizEvolve Min Max Quantity Extension. Get the Pro version now and take full control over your store\u2019s quantity management.<\/p>\n",
+        "installation": "<ol>\n<li>Upload the plugin files to the <code>\/wp-content\/plugins\/wizevolve-min-max-quantities<\/code> directory, or install the plugin through the WordPress plugins screen directly.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; screen in WordPress.<\/li>\n<li>Use the WizEvolve-&gt;Min Max Quantities screen to configure the plugin.<\/li>\n<\/ol>\n",
+        "changelog": "<h4>1.3.1<\/h4>\n<ul>\n<li>Added color option compatibility<\/li>\n<li>Changed code quality<\/li>\n<\/ul>\n<h4>1.3.0<\/h4>\n<ul>\n<li>Update Freemius version 2.6.2<\/li>\n<li>Changed code quality<\/li>\n<\/ul>\n<h4>1.2.0<\/h4>\n<ul>\n<li>Added free version<\/li>\n<\/ul>\n<h4>1.1.2<\/h4>\n<ul>\n<li>Fixed Options class to work with other plugins<\/li>\n<\/ul>\n<h4>1.1.1<\/h4>\n<ul>\n<li>Fixed bug where variations did not recognize backorder status correctly<\/li>\n<\/ul>\n<h4>1.1.0<\/h4>\n<ul>\n<li>Added stock based maximum quantity selector<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Initial release.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-1.jpg?rev=3029113\"><img src=\"https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-1.jpg?rev=3029113\" alt=\"FLEXIBLE QUANTITY RULES\"><\/a><p>FLEXIBLE QUANTITY RULES<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-2.jpg?rev=3029113\"><img src=\"https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-2.jpg?rev=3029113\" alt=\"VARIABLE PRODUCT SUPPORT\"><\/a><p>VARIABLE PRODUCT SUPPORT<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-3.jpg?rev=3029113\"><img src=\"https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-3.jpg?rev=3029113\" alt=\"CHECKOUT VALIDATION\"><\/a><p>CHECKOUT VALIDATION<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-4.jpg?rev=3029113\"><img src=\"https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-4.jpg?rev=3029113\" alt=\"STREAMLINED ADMIN INTERFACE\"><\/a><p>STREAMLINED ADMIN INTERFACE<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-5.jpg?rev=3029113\"><img src=\"https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-5.jpg?rev=3029113\" alt=\"[PRO] CART RESTRICTIONS\"><\/a><p>[PRO] CART RESTRICTIONS<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-6.jpg?rev=3029113\"><img src=\"https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-6.jpg?rev=3029113\" alt=\"[PRO] QUANTITY SELECTOR LIMITATIONS\"><\/a><p>[PRO] QUANTITY SELECTOR LIMITATIONS<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-7.jpg?rev=3029113\"><img src=\"https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-7.jpg?rev=3029113\" alt=\"[PRO] LIMIT BASED ON STOCK\"><\/a><p>[PRO] LIMIT BASED ON STOCK<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-8.jpg?rev=3029113\"><img src=\"https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-8.jpg?rev=3029113\" alt=\"[PRO] GLOBAL PRODUCT RULES\"><\/a><p>[PRO] GLOBAL PRODUCT RULES<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great simple plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mondicriatus\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/7e260c7314249cb32ca08a7caf759c6f?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/7e260c7314249cb32ca08a7caf759c6f?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mondicriatus\/\" class=\"reviewer-name\">mondicriatus<\/a> on <span class=\"review-date\">February 1, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Easy to work with, does what it needs to do.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Set minimum and maximum order quantities for your WooCommerce store products.",
+    "description": "<p><strong>WizEvolve Min Max Quantity Extension<\/strong> enhances your WooCommerce store by allowing you to set minimum and maximum quantity rules for your products. It\u2019s designed for store owners who need a reliable and efficient way to manage product quantities, ensuring customers purchase within the defined limits. With features ranging from flexible quantity rules to checkout validation, this extension simplifies and streamlines the purchasing process for both store owners and customers.<\/p>\n<p>Unlock the full potential of WizEvolve with the Pro version, offering advanced features like cart restrictions, quantity selector limitations, and instant user feedback, ensuring an optimized and user-friendly shopping experience.<\/p>\n<p><a href=\"https:\/\/checkout.freemius.com\/mode\/dialog\/plugin\/13335\/plan\/22341\/\" rel=\"nofollow ugc\">Upgrade to Pro<\/a> for advanced features and enhanced control over your WooCommerce store&#8217;s purchasing limits.<\/p>\n<h4>Free Features<\/h4>\n<ul>\n<li><strong>Flexible Quantity Rules<\/strong>: Easily set minimum and maximum order quantities for each product to streamline purchases and manage inventory effectively.<\/li>\n<li><strong>Variable Product Support<\/strong>: Apply distinct min\/max settings for each product variation, ensuring tailored shopping experiences for a diverse range of products.<\/li>\n<li><strong>Checkout Validation<\/strong>: Prevent customers from proceeding to checkout if the cart&#8217;s content doesn&#8217;t adhere to the set min\/max rules, ensuring a smooth and error-free transaction.<\/li>\n<\/ul>\n<h4>Pro Features<\/h4>\n<ul>\n<li><strong>Cart Restrictions<\/strong>: Control the overall min and max product count in the shopping cart, ensuring each purchase aligns with your business rules and inventory management.<\/li>\n<li><strong>Quantity Selector Limitations<\/strong>: Refine the product quantity selectors on detail and cart pages, preventing customers from selecting below the minimum or above the maximum limits.<\/li>\n<li><strong>Limit Based on Stock<\/strong>: Synchronize the quantity selector with real-time stock levels, ensuring customers can only select up to the available stock, especially when backorders are not allowed.<\/li>\n<li><strong>Global Product Rules<\/strong>: Implement universal min\/max quantity rules that act as fallback settings for all products in the store, ensuring consistency and control.<\/li>\n<li><strong>Instant User Feedback<\/strong>: Provide real-time on-page notices to inform customers about potential backorders or quantity restrictions, enhancing communication and transparency.<\/li>\n<\/ul>\n<p>Enhance your WooCommerce store\u2019s functionality, and offer your customers a seamless, intuitive shopping experience with the WizEvolve Min Max Quantity Extension. Get the Pro version now and take full control over your store\u2019s quantity management.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wizevolve-min-max-quantities.1.3.1.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-1.jpg?rev=3029113",
+            "caption": "FLEXIBLE QUANTITY RULES"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-2.jpg?rev=3029113",
+            "caption": "VARIABLE PRODUCT SUPPORT"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-3.jpg?rev=3029113",
+            "caption": "CHECKOUT VALIDATION"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-4.jpg?rev=3029113",
+            "caption": "STREAMLINED ADMIN INTERFACE"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-5.jpg?rev=3029113",
+            "caption": "[PRO] CART RESTRICTIONS"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-6.jpg?rev=3029113",
+            "caption": "[PRO] QUANTITY SELECTOR LIMITATIONS"
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-7.jpg?rev=3029113",
+            "caption": "[PRO] LIMIT BASED ON STOCK"
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/screenshot-8.jpg?rev=3029113",
+            "caption": "[PRO] GLOBAL PRODUCT RULES"
+        }
+    },
+    "tags": {
+        "max": "max",
+        "min": "min",
+        "min-max-quantities": "min max quantities",
+        "quantities": "quantities",
+        "woocommerce": "woocommerce"
+    },
+    "stable_tag": "1.3.1",
+    "versions": {
+        "1.3.1": "https:\/\/downloads.wordpress.org\/plugin\/wizevolve-min-max-quantities.1.3.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/wizevolve-min-max-quantities.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/banner-772x250.jpg?rev=3029113",
+        "high": "https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/banner-1544x500.jpg?rev=3029113"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/icon-256x256.png?rev=3029113",
+        "2x": "https:\/\/ps.w.org\/wizevolve-min-max-quantities\/assets\/icon-256x256.png?rev=3029113"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "wizevolve-min-max-quantities",
+            "language": "nl_NL",
+            "version": "1.3.1",
+            "updated": "2024-01-30 21:44:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wizevolve-min-max-quantities\/1.3.1\/nl_NL.zip"
+        }
+    ]
+}

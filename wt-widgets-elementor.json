@@ -1,0 +1,116 @@
+{
+    "name": "WT Widgets for Elementor",
+    "slug": "wt-widgets-elementor",
+    "version": "1.0.0",
+    "author": "<a href=\"https:\/\/wptravel.io\/\">WP Travel<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/wptravel\/",
+    "contributors": {
+        "wptravel": {
+            "profile": "https:\/\/profiles.wordpress.org\/wptravel\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2450d0119c94b0ec8bdd2aeb164742a5?s=96&d=monsterid&r=g",
+            "display_name": "WP Travel"
+        }
+    },
+    "requires": "6.0",
+    "tested": "6.4.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/wt-widgets-elementor\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 50,
+    "downloaded": 213,
+    "last_updated": "2024-01-19 3:45am GMT",
+    "added": "2024-01-09",
+    "homepage": "",
+    "sections": {
+        "description": "<p><a href=\"https:\/\/wptravel.io\/wt-elementor-widgets\/\" rel=\"nofollow ugc\">WT Widgets for Elementor<\/a> is a powerful too that precisely merges WP Travel Plugin&#8217;s capabilities into Elementor, offering a wide widget selection for tailored design templates. These widgets cover trip search, types, sliders by various criteria, activities, and more. This integration empowers developers and travel agencies to create visually appealing and dynamic travel websites effortlessly.<\/p>\n<p>For setting up your site using the WP Travel plugin and extensions please refer to <a href=\"https:\/\/wptravel.io\/docs-category\/wt-widgets-for-elementor\/\" rel=\"nofollow ugc\">Documentation page<\/a><\/p>\n<h3>\ud83c\udf1fAvailable Elementor Widgets<\/h3>\n<ul>\n<li><strong>Trips By Types:<\/strong> Display the trip based on Trip Types, Trip Destination, Activity, and Featured Trips.<\/li>\n<li><strong>Trips Search:<\/strong>  Display the search filter in either a horizontal or vertical layout, and search options like Trip Type, Destination, and Keyword.<\/li>\n<li><strong>Featured Trips:<\/strong> Display the list of featured trips.<\/li>\n<li><strong>Hero Slider:<\/strong>  Display trip slider depending upon trips, Trip Types, Trip Destination, Activity, and Featured Trips.<\/li>\n<li><strong>Icon Holder:<\/strong>  Display the required icon on your site.<\/li>\n<li><strong>Trip Category Carousel:<\/strong> Display a category carousel for Trip Types, Trip Destinations, and Activities.<\/li>\n<li><strong>Google Maps:<\/strong> Display a map location added for the trip.<\/li>\n<li><strong>Trip Tabs:<\/strong> Display tabs added through global or individual trip tab settings for the trip.<\/li>\n<li><strong>Single Trip Meta:<\/strong> Display the meta value added to trips like Trip Types, Trip Destination, Trip Activity, Group Size, Review count, and Trip Duration\/Date.<\/li>\n<li><strong>Trip Code &amp; keyword:<\/strong> Display the Trip Code and Keyword added to the trip.<\/li>\n<li><strong>Trip Rating:<\/strong> Display the rating star view provided by the reviewer.<\/li>\n<li><strong>Related Trips:<\/strong> Display the related trip to a trip you have added.<\/li>\n<li><strong>Trips Facts:<\/strong> Display trip facts\/information about trips.<\/li>\n<li><strong>Trips FAQ:<\/strong> Display the Frequently Asked Questions related to the trip.<\/li>\n<li><strong>Book Button:<\/strong> Display the Book Now Button for processing the booking.<\/li>\n<li><strong>Trip Overview:<\/strong> Display the overview content added to the trip.<\/li>\n<li><strong>Trip Outline:<\/strong> Display the itinerary route for the trip.<\/li>\n<li><strong>Trip Include:<\/strong> Display the added included items from the trip.<\/li>\n<li><strong>Trip Exclude:<\/strong> Display the added excluded items from the trip.<\/li>\n<\/ul>\n<h3>REQUIRED PLUGINS<\/h3>\n<ul>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/wp-travel\/\" rel=\"ugc\">WP Travel<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/elementor\/\" rel=\"ugc\">Elementor Website Builder \u2013 More than Just a Page Builder<\/a><\/li>\n<\/ul>\n<h3>\u23f0Customization and Flexibility<\/h3>\n<p>WT Widgets for Elementor stands as an immensely flexible and fully customizable plugin, granting developers a plethora of design options for crafting unique travel websites. With numerous hooks and filters, developers wield precise control over tailoring the plugin to their specific requirements. This plugin offers a rich set of features that enhance its adaptability, making it effortless for developers to create impressive designs. Seamlessly integrating with WP Travel, it provides an intuitive interface for personalized designs. Whether you&#8217;re an experienced developer or a novice, WT Widgets for Elementor streamlines the process of crafting travel websites, making it an excellent choice for visually appealing and functional sites using WP Travel.&#8221;<\/p>\n<h3>\ud83d\udc81\u200d\u2642\ufe0fDedicated Support and Documentation<\/h3>\n<p>Our team of cheerful engineers is eager to assist you. Feel free to inquire in the support forum, or you can reach out to us <a href=\"https:\/\/wptravel.io\/contact\/\" rel=\"nofollow ugc\">directly for assistance<\/a><\/p>\n",
+        "installation": "<h4>Using The WordPress Dashboard<\/h4>\n<ul>\n<li>Navigate to the &#8216;Add New&#8217; in the plugins dashboard<\/li>\n<li>Search for &#8220;WT Widgets for Elementor&#8221;<\/li>\n<li>Click Install Now<\/li>\n<li>Activate the plugin on the Plugin dashboard<\/li>\n<\/ul>\n<h4>Uploading in WordPress Dashboard<\/h4>\n<ul>\n<li>Download WT Widgets for Elementor zip file<\/li>\n<li>Navigate to the &#8216;Add New&#8217; in the plugins dashboard<\/li>\n<li>Navigate to the &#8216;Upload&#8217; area<\/li>\n<li>Select wt-widgets-elementor.zip from your computer<\/li>\n<li>Click &#8216;Install Now&#8217;<\/li>\n<li>Activate the plugin in the Plugin dashboard<\/li>\n<\/ul>\n<h4>Using FTP<\/h4>\n<ul>\n<li>Download WT Widgets for Elementor zip file<\/li>\n<li>Extract the zip file of WT Widgets for Elementor into your computer directory<\/li>\n<li>Upload the WT Widgets for Elementor directory to the \/wp-content\/plugins\/ directory<\/li>\n<li>Activate the plugin in the Plugin dashboard<\/li>\n<\/ul>\n",
+        "faq": "\n<dt id='where%20can%20i%20find%20wt%20widgets%20for%20elementor%20and%20user%20guides%3F'>\nWhere can I find WT Widgets for Elementor and user guides?\n<\/h4>\n<p>\n<p>For setting up your site using the WP Travel plugin and extensions please refer to <a href=\"https:\/\/wptravel.io\/docs-category\/wt-widgets-for-elementor\/\" rel=\"nofollow ugc\">Documentation page<\/a><\/p>\n<\/p>\n<dt id='where%20can%20i%20get%20support%3F'>\nWhere can I get support?\n<\/h4>\n<p>\n<p>If you have any queries regarding the plugin then you can ask for help on <a href=\"https:\/\/wptravel.io\/contact\/\" rel=\"nofollow ugc\">Support page<\/a><\/p>\n<\/p>\n<dt id='there%20is%20something%20cool%20you%20could%20add...'>\nThere is something cool you could add&#8230;\n<\/h4>\n<p>\n<p>Nice, make a post on the <a href=\"https:\/\/wordpress.org\/support\/plugin\/wt-widgets-elementor\" title=\"WT Widgets Elementor Support\" rel=\"ugc\">Support Forum<\/a> and let us know. We are always looking for ways to improve our plugins.<\/p>\n<\/p>\n<dt id='can%20i%20use%20this%20plugin%20without%20wp%20travel%3F'>\nCan I use this plugin without WP Travel?\n<\/h4>\n<p>\n<p>No, you cannot use the WT Widgets for Elementor without WP Travel as this plugin is designed to work with WP Travel and requires the core plugin to be installed and activated.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.0.<\/h4>\n<ul>\n<li><strong>Initial Release<\/strong><\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-1.png?rev=3023800\"><img src=\"https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-1.png?rev=3023800\" alt=\"Trips by Type\"><\/a><p>Trips by Type<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-2.png?rev=3023800\"><img src=\"https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-2.png?rev=3023800\" alt=\"Trips by Type Widget Controls\"><\/a><p>Trips by Type Widget Controls<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-3.png?rev=3023800\"><img src=\"https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-3.png?rev=3023800\" alt=\"Trip Search\"><\/a><p>Trip Search<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-4.png?rev=3023800\"><img src=\"https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-4.png?rev=3023800\" alt=\"Trip Search Widget Controls\"><\/a><p>Trip Search Widget Controls<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-5.png?rev=3023800\"><img src=\"https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-5.png?rev=3023800\" alt=\"Hero Slider\"><\/a><p>Hero Slider<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-6.png?rev=3023800\"><img src=\"https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-6.png?rev=3023800\" alt=\"Hero Slider Widget Controls\"><\/a><p>Hero Slider Widget Controls<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-7.png?rev=3023800\"><img src=\"https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-7.png?rev=3023800\" alt=\"Trip FAQ\"><\/a><p>Trip FAQ<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-8.png?rev=3023800\"><img src=\"https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-8.png?rev=3023800\" alt=\"Trip FAQ Widget Controls\"><\/a><p>Trip FAQ Widget Controls<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-9.png?rev=3023800\"><img src=\"https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-9.png?rev=3023800\" alt=\"Frontend View\"><\/a><p>Frontend View<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "WT Widgets for Elementor seamlessly integrates with the WP Travel, offering a robust solution for displaying dynamic travel content on WordPress websi &hellip;",
+    "description": "<p><a href=\"https:\/\/wptravel.io\/wt-elementor-widgets\/\" rel=\"nofollow ugc\">WT Widgets for Elementor<\/a> is a powerful too that precisely merges WP Travel Plugin&#8217;s capabilities into Elementor, offering a wide widget selection for tailored design templates. These widgets cover trip search, types, sliders by various criteria, activities, and more. This integration empowers developers and travel agencies to create visually appealing and dynamic travel websites effortlessly.<\/p>\n<p>For setting up your site using the WP Travel plugin and extensions please refer to <a href=\"https:\/\/wptravel.io\/docs-category\/wt-widgets-for-elementor\/\" rel=\"nofollow ugc\">Documentation page<\/a><\/p>\n<h3>\ud83c\udf1fAvailable Elementor Widgets<\/h3>\n<ul>\n<li><strong>Trips By Types:<\/strong> Display the trip based on Trip Types, Trip Destination, Activity, and Featured Trips.<\/li>\n<li><strong>Trips Search:<\/strong>  Display the search filter in either a horizontal or vertical layout, and search options like Trip Type, Destination, and Keyword.<\/li>\n<li><strong>Featured Trips:<\/strong> Display the list of featured trips.<\/li>\n<li><strong>Hero Slider:<\/strong>  Display trip slider depending upon trips, Trip Types, Trip Destination, Activity, and Featured Trips.<\/li>\n<li><strong>Icon Holder:<\/strong>  Display the required icon on your site.<\/li>\n<li><strong>Trip Category Carousel:<\/strong> Display a category carousel for Trip Types, Trip Destinations, and Activities.<\/li>\n<li><strong>Google Maps:<\/strong> Display a map location added for the trip.<\/li>\n<li><strong>Trip Tabs:<\/strong> Display tabs added through global or individual trip tab settings for the trip.<\/li>\n<li><strong>Single Trip Meta:<\/strong> Display the meta value added to trips like Trip Types, Trip Destination, Trip Activity, Group Size, Review count, and Trip Duration\/Date.<\/li>\n<li><strong>Trip Code &amp; keyword:<\/strong> Display the Trip Code and Keyword added to the trip.<\/li>\n<li><strong>Trip Rating:<\/strong> Display the rating star view provided by the reviewer.<\/li>\n<li><strong>Related Trips:<\/strong> Display the related trip to a trip you have added.<\/li>\n<li><strong>Trips Facts:<\/strong> Display trip facts\/information about trips.<\/li>\n<li><strong>Trips FAQ:<\/strong> Display the Frequently Asked Questions related to the trip.<\/li>\n<li><strong>Book Button:<\/strong> Display the Book Now Button for processing the booking.<\/li>\n<li><strong>Trip Overview:<\/strong> Display the overview content added to the trip.<\/li>\n<li><strong>Trip Outline:<\/strong> Display the itinerary route for the trip.<\/li>\n<li><strong>Trip Include:<\/strong> Display the added included items from the trip.<\/li>\n<li><strong>Trip Exclude:<\/strong> Display the added excluded items from the trip.<\/li>\n<\/ul>\n<h3>REQUIRED PLUGINS<\/h3>\n<ul>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/wp-travel\/\" rel=\"ugc\">WP Travel<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/elementor\/\" rel=\"ugc\">Elementor Website Builder \u2013 More than Just a Page Builder<\/a><\/li>\n<\/ul>\n<h3>\u23f0Customization and Flexibility<\/h3>\n<p>WT Widgets for Elementor stands as an immensely flexible and fully customizable plugin, granting developers a plethora of design options for crafting unique travel websites. With numerous hooks and filters, developers wield precise control over tailoring the plugin to their specific requirements. This plugin offers a rich set of features that enhance its adaptability, making it effortless for developers to create impressive designs. Seamlessly integrating with WP Travel, it provides an intuitive interface for personalized designs. Whether you&#8217;re an experienced developer or a novice, WT Widgets for Elementor streamlines the process of crafting travel websites, making it an excellent choice for visually appealing and functional sites using WP Travel.&#8221;<\/p>\n<h3>\ud83d\udc81\u200d\u2642\ufe0fDedicated Support and Documentation<\/h3>\n<p>Our team of cheerful engineers is eager to assist you. Feel free to inquire in the support forum, or you can reach out to us <a href=\"https:\/\/wptravel.io\/contact\/\" rel=\"nofollow ugc\">directly for assistance<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wt-widgets-elementor.zip",
+    "upgrade_notice": {
+        "": "<p>Before updating the plugin please check <a href=\"#developers\">&quot;our latest release notes&quot;<\/a>.<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-1.png?rev=3023800",
+            "caption": "Trips by Type"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-2.png?rev=3023800",
+            "caption": "Trips by Type Widget Controls"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-3.png?rev=3023800",
+            "caption": "Trip Search"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-4.png?rev=3023800",
+            "caption": "Trip Search Widget Controls"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-5.png?rev=3023800",
+            "caption": "Hero Slider"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-6.png?rev=3023800",
+            "caption": "Hero Slider Widget Controls"
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-7.png?rev=3023800",
+            "caption": "Trip FAQ"
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-8.png?rev=3023800",
+            "caption": "Trip FAQ Widget Controls"
+        },
+        "9": {
+            "src": "https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/screenshot-9.png?rev=3023800",
+            "caption": "Frontend View"
+        }
+    },
+    "tags": {
+        "elementor-widget": "elementor widget",
+        "tour-booking": "tour booking",
+        "travel-widgets": "Travel Widgets",
+        "trip-widgets": "Trip Widgets",
+        "widgets": "widgets"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "http:\/\/wptravel.io\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/banner-772x250.png?rev=3023800",
+        "high": "https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/banner-1544x500.png?rev=3023800"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/icon-128x128.png?rev=3023800",
+        "2x": "https:\/\/ps.w.org\/wt-widgets-elementor\/assets\/icon-256x256.png?rev=3023800"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

@@ -1,0 +1,178 @@
+{
+    "name": "BBSpoiler",
+    "slug": "bbspoiler",
+    "version": "2.02",
+    "author": "<a href=\"https:\/\/profiles.wordpress.org\/flector#content-plugins\">Flector<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/flector\/",
+    "contributors": {
+        "flector": {
+            "profile": "https:\/\/profiles.wordpress.org\/flector\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/394c2eaec6b8f5c0d93e640265d21e58?s=96&d=monsterid&r=g",
+            "display_name": "Flector"
+        }
+    },
+    "requires": "3.9",
+    "tested": "6.5.2",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 94,
+    "ratings": {
+        "5": 27,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 2
+    },
+    "num_ratings": 29,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/bbspoiler\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 5000,
+    "downloaded": 43799,
+    "last_updated": "2024-04-14 7:39pm GMT",
+    "added": "2014-08-21",
+    "homepage": "https:\/\/wordpress.org\/plugins\/bbspoiler\/",
+    "sections": {
+        "description": "<p>You can use this plugin to hide part of the text of a post in a nicely-formatted container that will becomes unhidden when clicked on. The plugin can be useful for creating FAQ pages, hiding large pictures, and things like that.<\/p>\n<p>The plugin creates its own &#8220;Spoiler&#8221; button in the visual editor, but you can also add spoilers directly using tags. For example:<\/p>\n<pre><code>[spoiler title='Title']Spoiler content[\/spoiler]\n<\/code><\/pre>\n<p>or<\/p>\n<pre><code>[spoiler title='Title' collapse_link='no']Spoiler content[\/spoiler]\n<\/code><\/pre>\n<p>If you liked my plugin, please <strong>rate<\/strong> it.<\/p>\n",
+        "installation": "<ol>\n<li>Upload <strong>bbspoiler<\/strong> folder to the <strong>\/wp-content\/plugins\/<\/strong> directory.<\/li>\n<li>Activate the plugin through the <strong>Plugins<\/strong> menu in WordPress.<\/li>\n<li>That&#8217;s all.<\/li>\n<\/ol>\n<p>You can find the &#8220;Spoiler&#8221; plugin button in the visual editor.<\/p>\n",
+        "faq": "\n<dt id='how%20do%20i%20indent%20paragraphs%20in%20spoiler%20text%3F'>\nHow do I indent paragraphs in spoiler text?\n<\/h4>\n<p>\n<p>This spoiler code gives you three paragraphs of text:<\/p>\n<pre><code>[spoiler title='Title' collapse_link='true']First Paragraph\n\nSecond Paragraph\n\nThird Paragraph[\/spoiler]\n<\/code><\/pre>\n<\/p>\n<dt id='can%20i%20use%20spoilers%20within%20spoilers%3F'>\nCan I use spoilers within spoilers?\n<\/h4>\n<p>\n<p>Yes, but only up to two levels. Use the number 2 in the shortcode.<br \/>\nThe code should look like this:<\/p>\n<pre><code>[spoiler title='Parent']\n\n[spoiler2 title='Child 1']text[\/spoiler2]\n[spoiler2 title='Child 2']text[\/spoiler2]\n\n[\/spoiler]\n<\/code><\/pre>\n<\/p>\n<dt id='does%20the%20plugin%20support%20localization%3F'>\nDoes the plugin support localization?\n<\/h4>\n<p>\n<p>Yes, please use <a href=\"https:\/\/translate.wordpress.org\/projects\/wp-plugins\/bbspoiler\" rel=\"nofollow ugc\">translate.wordpress.org<\/a>.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>2.02<\/h4>\n<ul>\n<li>js vulnerability fixed.<\/li>\n<\/ul>\n<h4>2.01<\/h4>\n<ul>\n<li>fixed &#8220;ReferenceError&#8221; bug.<\/li>\n<li>removed the bundled languages in favour of language packs from translate.wordpress.org<\/li>\n<\/ul>\n<h4>2.00<\/h4>\n<ul>\n<li>added 10 different color styles<\/li>\n<\/ul>\n<h4>1.01<\/h4>\n<ul>\n<li>added support for bbPress<\/li>\n<\/ul>\n<h4>1.00<\/h4>\n<ul>\n<li>first version<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/bbspoiler\/assets\/screenshot-1.gif?rev=1988582\"><img src=\"https:\/\/ps.w.org\/bbspoiler\/assets\/screenshot-1.gif?rev=1988582\" alt=\"&quot;Spoiler&quot; button and plugin dialog window.\"><\/a><p>\"Spoiler\" button and plugin dialog window.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/bbspoiler\/assets\/screenshot-2.gif?rev=1988582\"><img src=\"https:\/\/ps.w.org\/bbspoiler\/assets\/screenshot-2.gif?rev=1988582\" alt=\"Sample spoiler.\"><\/a><p>Sample spoiler.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/bbspoiler\/assets\/screenshot-3.gif?rev=1988582\"><img src=\"https:\/\/ps.w.org\/bbspoiler\/assets\/screenshot-3.gif?rev=1988582\" alt=\"Sample spoiler with pictures.\"><\/a><p>Sample spoiler with pictures.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/bbspoiler\/assets\/screenshot-4.gif?rev=1988582\"><img src=\"https:\/\/ps.w.org\/bbspoiler\/assets\/screenshot-4.gif?rev=1988582\" alt=\"Second-level spoilers within a primary spoiler.\"><\/a><p>Second-level spoilers within a primary spoiler.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/bbspoiler\/assets\/screenshot-5.gif?rev=1988582\"><img src=\"https:\/\/ps.w.org\/bbspoiler\/assets\/screenshot-5.gif?rev=1988582\" alt=\"Spoiler in bbPress topic.\"><\/a><p>Spoiler in bbPress topic.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/bbspoiler\/assets\/screenshot-6.gif?rev=1988582\"><img src=\"https:\/\/ps.w.org\/bbspoiler\/assets\/screenshot-6.gif?rev=1988582\" alt=\"All color styles.\"><\/a><p>All color styles.<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">need a updates<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/anderswihlgaard\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/75976091a6a758b97d24c1c1c1c692f2?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/75976091a6a758b97d24c1c1c1c692f2?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/anderswihlgaard\/\" class=\"reviewer-name\">anderswihlgaard<\/a> on <span class=\"review-date\">May 2, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>It was a problematic weak point found in BBSpoiler Plugin to 2.01 on WordPress (WordPress Plugin). Which affects an unknown function of the Shortcode Handler component. Manipulation of an unknown input leads to a vulnerability class cross site scripting weak point.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>The weak point is published on 20\/04\/2023 (not defined). The advisory is available for download at wordfence dot com. This vulnerability is treated as CVE-2023-23873. There are no technical details still an exploit known.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>There is no known information on measures. The use of an alternative product is useful.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u0412\u0441\u0451 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/kotden\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/33d6cfcdc2b314ade22a2aefaa00a15f?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/33d6cfcdc2b314ade22a2aefaa00a15f?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/kotden\/\" class=\"reviewer-name\">kotden<\/a> on <span class=\"review-date\">April 27, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>\u0432\u0441\u0435 \u043e\u0442\u043b\u0438\u0447\u043d\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442! \u041f\u0440\u043e\u0432\u0435\u0440\u044f\u043b \u043d\u0430  \u0432\u0435\u0440\u0441\u0438\u0438 6.2<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u041e\u0442\u043b\u0438\u0447\u043d\u044b\u0439 \u043f\u043b\u0430\u0433\u0438\u043d!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/velozavr\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b8b59738c5e3108d14f1aa03e6e460d4?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b8b59738c5e3108d14f1aa03e6e460d4?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/velozavr\/\" class=\"reviewer-name\">velozavr<\/a> on <span class=\"review-date\">August 12, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">\u042d\u0442\u043e\u0442 \u043f\u043b\u0430\u0433\u0438\u043d \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e \u0432 \u0441\u0432\u043e\u0435\u043c \u043f\u0440\u043e\u0435\u043a\u0442\u0435.\n\u0414\u043b\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e\u0433\u043e \u043f\u043b\u0430\u0433\u0438\u043d\u0430 \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b \u043e\u0447\u0435\u043d\u044c \u0445\u043e\u0440\u043e\u0448\u0438\u0439.\n\u041f\u043e\u043b\u044c\u0437\u0443\u044e\u0441\u044c \u043f\u043e\u043a\u0430 \u0442\u043e\u043b\u044c\u043a\u043e \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435\u043c \u043f\u0440\u043e\u0441\u0442\u0435\u0439\u0448\u0438\u0445 \u0441\u043f\u043e\u0439\u043b\u0435\u0440\u043e\u0432 \u043e\u0434\u043d\u043e\u0433\u043e \u0446\u0432\u0435\u0442\u0430.\n\u0411\u043e\u043b\u044c\u0448\u043e\u0435 \u0441\u043f\u0430\u0441\u0438\u0431\u043e \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0430\u043c!\n\nI use this plugin in my project.\nFor a free plugin, the functionality is very good.\nSo far, I use only the creation of the simplest spoilers of the same color.\nMany thanks to the developers!<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u041e\u0442\u043b\u0438\u0447\u043d\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/eugeniotf\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/466b006bf172e13642ffe3ef42a4c6dd?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/466b006bf172e13642ffe3ef42a4c6dd?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/eugeniotf\/\" class=\"reviewer-name\">eugeniotf<\/a> on <span class=\"review-date\">June 17, 2020<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">\u0421\u043f\u0430\u0441\u0438\u0431\u043e<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u041f\u0440\u043e\u0441\u0442\u043e \u0438 \u043d\u0438\u0447\u0435\u0433\u043e \u043b\u0438\u0448\u043d\u0435\u0433\u043e<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/fbit\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/647a7b9fd5a7dda3c40e9e3cb53cc45d?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/647a7b9fd5a7dda3c40e9e3cb53cc45d?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/fbit\/\" class=\"reviewer-name\">FBit<\/a> on <span class=\"review-date\">May 6, 2020<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">\u041f\u0440\u043e\u0441\u0442\u043e\u0439 \u043b\u0435\u0433\u043a\u0438\u0439 \u043f\u043b\u0430\u0433\u0438\u043d \u0431\u0435\u0437 \u043b\u0438\u0448\u043d\u0438\u0445 \u043d\u0430\u0432\u043e\u0440\u043e\u0442\u043e\u0432<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u041e\u0442\u043b\u0438\u0447\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/liar84\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f5d106604af5474513f73ee913af667b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f5d106604af5474513f73ee913af667b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/liar84\/\" class=\"reviewer-name\">liar84<\/a> on <span class=\"review-date\">April 22, 2020<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">\u0425\u043e\u0440\u043e\u0448\u0438\u0439 \u043f\u043b\u0430\u0433\u0438\u043d. \u0411\u044b\u043b\u043e \u0432\u043e\u043e\u0431\u0449\u0435 \u0441\u0443\u043f\u0435\u0440 \u0435\u0441\u043b\u0438 \u0431\u044b \u0431\u044b\u043b\u0430 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043d\u0430\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0442\u044c \u0434\u043b\u044f \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u044f \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0439 woocommerce \u0431\u0435\u0437 \u0448\u043e\u0440\u0442\u043a\u043e\u0434\u0430. \u0422.\u0435. \u043a \u043f\u0440\u0438\u043c\u0435\u0440\u0443 - \u0432\u044b\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u043c \u0432 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430\u0445 \"\u0441\u043a\u0440\u044b\u0442\u044c \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 \u043f\u043e\u0434 \u0441\u043f\u043e\u0439\u043b\u0435\u0440\", \u0438 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0432\u044b\u0432\u043e\u0434\u0438\u0442\u044c \u0447\u0430\u0441\u0442\u044c \u0442\u0435\u043a\u0441\u0442\u0430, \u0430 \u043e\u0441\u0442\u0430\u043b\u044c\u043d\u043e\u043c \u0441\u043a\u0440\u044b\u0442\u044c \u043f\u043e\u0434 \u0441\u043f\u043e\u0439\u043b\u0435\u0440.<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u041d\u0435\u0442 \u0441\u0430\u043c\u043e\u0439 \u043a\u043d\u043e\u043f\u043a\u0438 \u0434\u043b\u044f \u0432\u044b\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043f\u043e\u043b\u0435\u0440\u0430<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/urgen12\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/6844bab1fecf6965b241198223f72dff?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/6844bab1fecf6965b241198223f72dff?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/urgen12\/\" class=\"reviewer-name\">\u042e\u0440\u0438\u0439 <small>(urgen12)<\/small><\/a> on <span class=\"review-date\">March 15, 2020<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">\u041f\u043e\u0441\u043b\u0435 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438 \u043f\u043b\u0430\u0433\u0438\u043d\u0430, \u043d\u0435 \u0432\u0438\u0436\u0443 \u0435\u0433\u043e \u0432 \u0441\u043f\u043e\u043b\u0435\u0440\u0430\u0445, \u0447\u0442\u043e \u043d\u0435 \u0442\u0430\u043a \u0434\u0435\u043b\u0430\u044e \u0438\u043b\u0438 \u0433\u0434\u0435 \u0435\u0433\u043e \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u0442\u044c ? \u0442\u0435\u043c\u0430 \u043d\u0430 \u0444\u043e\u0440\u0443\u043c\u0435 Neve<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u043d\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0441 PHP 7.1<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/maikll123\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e523b72ee974b286f142904aea0bb603?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e523b72ee974b286f142904aea0bb603?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/maikll123\/\" class=\"reviewer-name\">maikll123<\/a> on <span class=\"review-date\">February 19, 2019<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">\u0420\u0435\u0431\u044f\u0442 \u043d\u0435 \u0437\u043d\u0430\u044e \u043f\u043e\u0447\u0435\u043c\u0443, \u043d\u043e \u0443 \u043c\u0435\u043d\u044f \u043f\u043e\u0441\u043b\u0435 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043e\u043d \u043f\u0435\u0440\u0435\u0441\u0442\u0430\u043b \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c. \u041f\u0435\u0440\u0435\u0433\u0440\u0443\u0436\u0430\u044e \u0438\u0437 \u0430\u0434\u043c\u0438\u043d\u043a\u0438 \u0432\u0441\u0435 \u0442\u043e\u0436\u0435 \u0441\u0430\u043c\u043e\u0435<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u041f\u0440\u043e\u0441\u0442\u043e \u0438 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u043e<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/catloki\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b0688428f684cbd45d0f15bf2a5b4cdc?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b0688428f684cbd45d0f15bf2a5b4cdc?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/catloki\/\" class=\"reviewer-name\">\u0422\u043e\u043d\u0438 \u041a <small>(catloki)<\/small><\/a> on <span class=\"review-date\">February 8, 2019<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">\u041d\u0430\u0441\u0442\u043e\u043b\u044c\u043a\u043e \u043f\u0440\u043e\u0441\u0442 \u0438 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u0435\u043d \u0432 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0438, \u0447\u0442\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e \u0435\u0433\u043e \u0434\u0430\u0436\u0435 \u0432 \u0433\u0443\u0442\u0435\u043d\u0431\u0435\u0440\u0433\u0435.\n\n\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044f \".sp-wrap-default\" - \u043b\u0435\u0433\u043a\u043e \u043f\u043e\u0434\u043e\u0433\u043d\u0430\u043b \u0434\u0435\u0444\u043e\u043b\u0442\u043d\u044b\u0439 \u0441\u0442\u0438\u043b\u044c \u0441\u043f\u043e\u0439\u043b\u0435\u0440\u0430 \u043f\u043e\u0434 \u0434\u0438\u0437\u0430\u0439\u043d \u0441\u0432\u043e\u0435\u0433\u043e \u0441\u0430\u0439\u0442\u0430.<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Since 4 days this plugin does not work.<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/myscherzo\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/658868804bae6304217a4715f858f1b8?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/658868804bae6304217a4715f858f1b8?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/myscherzo\/\" class=\"reviewer-name\">myscherzo<\/a> on <span class=\"review-date\">January 20, 2019<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Since 4 days this plugin does not work.<\/div>\n<\/div>\n"
+    },
+    "short_description": "This plugin allows you to hide text under the tags [spoiler]your text[\/spoiler].",
+    "description": "<p>You can use this plugin to hide part of the text of a post in a nicely-formatted container that will becomes unhidden when clicked on. The plugin can be useful for creating FAQ pages, hiding large pictures, and things like that.<\/p>\n<p>The plugin creates its own &#8220;Spoiler&#8221; button in the visual editor, but you can also add spoilers directly using tags. For example:<\/p>\n<pre><code>[spoiler title='Title']Spoiler content[\/spoiler]\n<\/code><\/pre>\n<p>or<\/p>\n<pre><code>[spoiler title='Title' collapse_link='no']Spoiler content[\/spoiler]\n<\/code><\/pre>\n<p>If you liked my plugin, please <strong>rate<\/strong> it.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/bbspoiler.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/bbspoiler\/assets\/screenshot-1.gif?rev=1988582",
+            "caption": "\"Spoiler\" button and plugin dialog window."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/bbspoiler\/assets\/screenshot-2.gif?rev=1988582",
+            "caption": "Sample spoiler."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/bbspoiler\/assets\/screenshot-3.gif?rev=1988582",
+            "caption": "Sample spoiler with pictures."
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/bbspoiler\/assets\/screenshot-4.gif?rev=1988582",
+            "caption": "Second-level spoilers within a primary spoiler."
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/bbspoiler\/assets\/screenshot-5.gif?rev=1988582",
+            "caption": "Spoiler in bbPress topic."
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/bbspoiler\/assets\/screenshot-6.gif?rev=1988582",
+            "caption": "All color styles."
+        }
+    },
+    "tags": {
+        "box": "Box",
+        "boxes": "boxes",
+        "collapse": "collapse",
+        "expand": "expand",
+        "hide": "hide"
+    },
+    "stable_tag": "trunk",
+    "versions": {
+        "2.01": "https:\/\/downloads.wordpress.org\/plugin\/bbspoiler.2.01.zip",
+        "2.02": "https:\/\/downloads.wordpress.org\/plugin\/bbspoiler.2.02.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "http:\/\/goo.gl\/CcxWYg",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/bbspoiler\/assets\/banner-772x250.png?rev=1178432",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/bbspoiler\/assets\/icon-128x128.png?rev=1178432",
+        "2x": "https:\/\/ps.w.org\/bbspoiler\/assets\/icon-256x256.png?rev=1178432"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 94,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "bbspoiler",
+            "language": "de_DE",
+            "version": "2.01",
+            "updated": "2023-01-15 00:01:24",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/bbspoiler\/2.01\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "bbspoiler",
+            "language": "de_DE_formal",
+            "version": "2.01",
+            "updated": "2023-01-15 00:01:37",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/bbspoiler\/2.01\/de_DE_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "bbspoiler",
+            "language": "es_VE",
+            "version": "2.01",
+            "updated": "2020-02-27 03:09:00",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/bbspoiler\/2.01\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "bbspoiler",
+            "language": "es_MX",
+            "version": "2.01",
+            "updated": "2020-02-27 17:29:08",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/bbspoiler\/2.01\/es_MX.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "bbspoiler",
+            "language": "es_ES",
+            "version": "2.01",
+            "updated": "2020-04-12 12:49:56",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/bbspoiler\/2.01\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "bbspoiler",
+            "language": "it_IT",
+            "version": "2.01",
+            "updated": "2019-01-07 22:39:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/bbspoiler\/2.01\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "bbspoiler",
+            "language": "ru_RU",
+            "version": "2.01",
+            "updated": "2019-05-03 14:30:51",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/bbspoiler\/2.01\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "bbspoiler",
+            "language": "sv_SE",
+            "version": "2.01",
+            "updated": "2021-08-19 17:57:30",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/bbspoiler\/2.01\/sv_SE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "bbspoiler",
+            "language": "uk",
+            "version": "2.01",
+            "updated": "2019-05-03 14:32:15",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/bbspoiler\/2.01\/uk.zip"
+        }
+    ]
+}

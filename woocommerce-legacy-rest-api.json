@@ -1,0 +1,86 @@
+{
+    "name": "WooCommerce Legacy REST API",
+    "slug": "woocommerce-legacy-rest-api",
+    "version": "1.0.1",
+    "author": "<a href=\"https:\/\/woocommerce.com\">WooCommerce<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/konamiman\/",
+    "contributors": {
+        "automattic": {
+            "profile": "https:\/\/profiles.wordpress.org\/automattic\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/687b3bf96c41800814e3b93766444283?s=96&d=monsterid&r=g",
+            "display_name": "Automattic"
+        },
+        "konamiman": {
+            "profile": "https:\/\/profiles.wordpress.org\/konamiman\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/6f89064cf77f281c903ade9911b347b5?s=96&d=monsterid&r=g",
+            "display_name": "konamiman"
+        }
+    },
+    "requires": "6.2",
+    "tested": "6.3.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/woocommerce-legacy-rest-api\/",
+    "support_threads": 6,
+    "support_threads_resolved": 1,
+    "active_installs": 10000,
+    "downloaded": 34422,
+    "last_updated": "2024-01-16 8:09am GMT",
+    "added": "2024-01-16",
+    "homepage": "https:\/\/github.com\/woocommerce\/woocommerce-legacy-rest-api",
+    "sections": {
+        "description": "<p><a href=\"https:\/\/developer.woocommerce.com\/2023\/10\/03\/the-legacy-rest-api-will-move-to-a-dedicated-extension-in-woocommerce-9-0\/\" rel=\"nofollow ugc\">The Legacy REST API will no longer part of WooCommerce as of version 9.0<\/a>. This plugin restores the full functionality of the removed Legacy REST API code in WooCommerce 9.0 and later versions.<\/p>\n<p>For all intents and purposes, having this plugin installed and active in WooCommerce 9.0 and newer versions is equivalent to enabling the Legacy REST API in WooCommerce 8.9 and older versions (via WooCommerce &#8211; Settings &#8211; Advanced &#8211; Legacy API). All the endpoints work the same way, and existing user keys also continue working.<\/p>\n<p>On the other hand, installing this plugin together with WooCommerce 8.9 or an older version is safe: the plugin detects that the Legacy REST API is still part of WooCommerce and doesn&#8217;t initialize itself as to not interfere with the built-in code.<\/p>\n<p>Please note that <strong>the Legacy REST API is not compatible with <a href=\"https:\/\/woocommerce.com\/document\/high-performance-order-storage\/\" rel=\"nofollow ugc\">High-Performance Order Storage<\/a><\/strong>. Upgrading the code that relies on the Legacy REST API to use the current WooCommerce REST API instead is highly recommended.<\/p>\n",
+        "installation": "<p>Simply install and activate the plugin. In WooCommerce 8.9 and earlier nothing will change. Starting with WooCommerce 9.0 having the plugin installed will provide the full functionality of the Legacy REST API.<\/p>\n<p>Note that since the Legacy REST API is not compatible with HPOS, once the plugin is active you will see a &#8220;WooCommerce has detected that some of your active plugins are incompatible with currently enabled WooCommerce features&#8221; notice in your WordPress admin area.<\/p>\n",
+        "changelog": "<h4>1.0.0 2023-11-01<\/h4>\n<p>First version, replicates the WooCommerce Legacy REST API v3.1.0 present in WooCommerce 8.3.<\/p>\n<h4>1.0.1 2024-01-08<\/h4>\n<ul>\n<li>Replace the text domain for human-readable strings from &#8216;woocommerce&#8217; to &#8216;woocommerce-legacy-rest-api&#8217;.<\/li>\n<li>Add sanitization for data received via query string arguments and the $_SERVER array.<\/li>\n<\/ul>\n",
+        "reviews": ""
+    },
+    "short_description": "The WooCommerce Legacy REST API, which is now part of WooCommerce itself but will be removed in WooCommerce 9.0.",
+    "description": "<p><a href=\"https:\/\/developer.woocommerce.com\/2023\/10\/03\/the-legacy-rest-api-will-move-to-a-dedicated-extension-in-woocommerce-9-0\/\" rel=\"nofollow ugc\">The Legacy REST API will no longer part of WooCommerce as of version 9.0<\/a>. This plugin restores the full functionality of the removed Legacy REST API code in WooCommerce 9.0 and later versions.<\/p>\n<p>For all intents and purposes, having this plugin installed and active in WooCommerce 9.0 and newer versions is equivalent to enabling the Legacy REST API in WooCommerce 8.9 and older versions (via WooCommerce &#8211; Settings &#8211; Advanced &#8211; Legacy API). All the endpoints work the same way, and existing user keys also continue working.<\/p>\n<p>On the other hand, installing this plugin together with WooCommerce 8.9 or an older version is safe: the plugin detects that the Legacy REST API is still part of WooCommerce and doesn&#8217;t initialize itself as to not interfere with the built-in code.<\/p>\n<p>Please note that <strong>the Legacy REST API is not compatible with <a href=\"https:\/\/woocommerce.com\/document\/high-performance-order-storage\/\" rel=\"nofollow ugc\">High-Performance Order Storage<\/a><\/strong>. Upgrading the code that relies on the Legacy REST API to use the current WooCommerce REST API instead is highly recommended.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-legacy-rest-api.1.0.1.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "rest-api": "rest-api",
+        "woo": "woo",
+        "woocommerce": "woocommerce"
+    },
+    "stable_tag": "1.0.1",
+    "versions": {
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-legacy-rest-api.1.0.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-legacy-rest-api.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/woocommerce-legacy-rest-api\/assets\/icon-128x128.png?rev=3022235"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "woocommerce-legacy-rest-api",
+            "language": "da_DK",
+            "version": "1.0.1",
+            "updated": "2024-03-20 12:35:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woocommerce-legacy-rest-api\/1.0.1\/da_DK.zip"
+        }
+    ]
+}

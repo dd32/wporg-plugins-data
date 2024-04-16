@@ -1,0 +1,223 @@
+{
+    "name": "Bonus for Woo",
+    "slug": "bonus-for-woo",
+    "version": "6.2.2",
+    "author": "<a href=\"https:\/\/computy.ru\">computy<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/calliko\/",
+    "contributors": {
+        "calliko": {
+            "profile": "https:\/\/profiles.wordpress.org\/calliko\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/079e929b437b7512bb3979d395e7ed58?s=96&d=monsterid&r=g",
+            "display_name": "calliko"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.5.2",
+    "requires_php": "7.4",
+    "requires_plugins": [
+        "woocommerce"
+    ],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 18,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 18,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/bonus-for-woo\/",
+    "support_threads": 2,
+    "support_threads_resolved": 1,
+    "active_installs": 200,
+    "downloaded": 13180,
+    "last_updated": "2024-04-09 5:08pm GMT",
+    "added": "2020-11-17",
+    "homepage": "https:\/\/computy.ru\/blog\/bonus-for-woo-wordpress",
+    "sections": {
+        "description": "<p>This plugin is designed to create a bonus system with cashback.<br \/>\nThe cashback percentage is calculated based on the users&#8217; status in the form of bonus points.<br \/>\nEach user status has a corresponding cashback percentage.<br \/>\nThe users&#8217; status depends on the total amount of the users orders.<br \/>\nCashback is accumulated in the client&#8217;s virtual wallet.<\/p>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/6u4mHdHVhkE?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n<h3>Free plugin features<\/h3>\n<ul>\n<li>Points for product reviews.<\/li>\n<li>Integer and decimal points<\/li>\n<li>Hide the ability to spend points for discounted items.<\/li>\n<li>Show the history of bonus points.<\/li>\n<li>Email notifications.<\/li>\n<li>Export and import points.<\/li>\n<li>Shortcodes.<\/li>\n<\/ul>\n<h3>Additional settings for the PRO version<\/h3>\n<ul>\n<li>Points on your birthday.<\/li>\n<li>Daily points for the first login.<\/li>\n<li>Points for registration.<\/li>\n<li>Exclude categories of products that cannot be purchased with cashback points.<\/li>\n<li>Exclude payment method.<\/li>\n<li>Exclude items that cannot be purchased with Cashback Points.<\/li>\n<li>Minimum order amount to redeem points.<\/li>\n<li>Withdrawal of bonus points for inactivity.<\/li>\n<li>Referral system.<\/li>\n<li>Coupons.<\/li>\n<\/ul>\n<h3>Testing<\/h3>\n<p>You can test the plugin on <a href=\"https:\/\/demo.tastewp.com\/bonus-for-woo\" rel=\"nofollow ugc\"><strong>this page<\/strong><\/a><\/p>\n<h3>SUPPORT<\/h3>\n<p>If you need support or have questions, please write to our <a href=\"https:\/\/wordpress.org\/support\/plugin\/bonus-for-woo\/\" rel=\"ugc\"><strong>support<\/strong><\/a> or <a href=\"https:\/\/computy.ru\/blog\/bonus-for-woo-wordpress\/#reply-title\" rel=\"nofollow ugc\"><strong>blog<\/strong><\/a>.<\/p>\n",
+        "installation": "<ol>\n<li>Upload dir <code>bonus-for-woo-computy<\/code> to the <code>\/wp-content\/plugins\/<\/code> directory<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='when%20are%20points%20awarded%3F'>\nWhen are points awarded?\n<\/h4>\n<p>\n<p>When the administrator marks the order as &#8220;Completed&#8221;<\/p>\n<\/p>\n<dt id='why%20are%20points%20not%20awarded%20immediately%20after%20the%20order%20is%20paid%3F'>\nWhy are points not awarded immediately after the order is paid?\n<\/h4>\n<p>\n<p>This is done on purpose to exclude the case when the client has spent the earned<br \/>\npoints, but decided to return the last product. In this case, the bonus balance goes negative.<\/p>\n<\/p>\n<dt id='when%20are%20points%20deducted%3F'>\nWhen are points deducted?\n<\/h4>\n<p>\n<p>When the customer confirms the order in checkout.<\/p>\n<\/p>\n<dt id='possible%20cashback%20is%20not%20displayed%20in%20the%20shopping%20cart%20and%20checkout.'>\nPossible cashback is not displayed in the shopping cart and checkout.\n<\/h4>\n<p>\n<p>You are most likely logged in with an administrator account. Administrators are not involved<br \/>\nin the loyalty system.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>6.2.2 &#8211; 2024-04-09<\/h4>\n<ul>\n<li>Updated translations for the write-off block in the cart.<\/li>\n<li>Updated translations to include information about the remaining amount to transfer to another status.<\/li>\n<li>Fixed a fatal error when placing an order.<\/li>\n<li>Code optimization<\/li>\n<\/ul>\n<h4>6.2.1 &#8211; 2024-04-04<\/h4>\n<ul>\n<li>An error in displaying the amount of customer orders for the old version of the order storage has been fixed.<\/li>\n<li>The total amount of orders in the user editor is displayed.<\/li>\n<\/ul>\n<h4>6.2.0 &#8211; 2024-04-03<\/h4>\n<ul>\n<li>Woocommerce 8.7.0 compatible<\/li>\n<li>Add logs<\/li>\n<li>Security and legacy code fixes.<\/li>\n<li>Global code optimization<\/li>\n<li>Added a warning when using the coupon limit.<\/li>\n<\/ul>\n<h4>6.1.1 &#8211; 2024-03-25<\/h4>\n<ul>\n<li>The default value of registration points has been corrected.<\/li>\n<li>Fixed a bug where referral users were not added.<\/li>\n<\/ul>\n<h4>6.1.0 &#8211; 2024-03-04<\/h4>\n<ul>\n<li>Changed the twitter icon to X.<\/li>\n<li>Code refactoring.<\/li>\n<li>Fixed the ability to assign bonuses to excluded roles.<\/li>\n<li>Disabled the accrual of daily points on the day of registration.<\/li>\n<\/ul>\n<h4>6.0.0 &#8211; 2024-03-04<\/h4>\n<ul>\n<li>Fixed Fatal error: Uncaught TypeError<\/li>\n<li>Added a restriction on the use of coupons to receive bonus points.<\/li>\n<li>Code refactoring.<\/li>\n<li>We changed the history of points accrual in reverse order.<\/li>\n<li>Changing the plugin directory structure. Speed optimization.<\/li>\n<li>Fixed checking plugin settings fields before saving.<\/li>\n<li>Improved the appearance of the client account.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-1.png?rev=2750968\"><img src=\"https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-1.png?rev=2750968\" alt=\"Options in adminpanel\"><\/a><p>Options in adminpanel<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-2.png?rev=3045270\"><img src=\"https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-2.png?rev=3045270\" alt=\"View plugin on userpage\"><\/a><p>View plugin on userpage<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-3.png?rev=3009738\"><img src=\"https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-3.png?rev=3009738\" alt=\"View the number of points received on the product page.\"><\/a><p>View the number of points received on the product page.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-4.png?rev=2750968\"><img src=\"https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-4.png?rev=2750968\" alt=\"Calculation by points in the basket and checkout.\"><\/a><p>Calculation by points in the basket and checkout.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-5.png?rev=2750968\"><img src=\"https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-5.png?rev=2750968\" alt=\"History of accrual of points in the client&#039;s account\"><\/a><p>History of accrual of points in the client's account<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-6.png?rev=3009738\"><img src=\"https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-6.png?rev=3009738\" alt=\"User edit page.\"><\/a><p>User edit page.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-7.png?rev=2750968\"><img src=\"https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-7.png?rev=2750968\" alt=\"E-mail notification settings page.\"><\/a><p>E-mail notification settings page.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-8.png?rev=2750968\"><img src=\"https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-8.png?rev=2750968\" alt=\"Coupon management page.\"><\/a><p>Coupon management page.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-9.png?rev=2751843\"><img src=\"https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-9.png?rev=2751843\" alt=\"Statistics page\"><\/a><p>Statistics page<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u041e\u0442\u043b\u0438\u0447\u043d\u043e<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/ihenoch\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/5ad6b91726104065bc3ca680aca750c6?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/5ad6b91726104065bc3ca680aca750c6?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/ihenoch\/\" class=\"reviewer-name\">HENOCH <small>(ihenoch)<\/small><\/a> on <span class=\"review-date\">April 5, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">\u041e\u0442\u043b\u0438\u0447\u043d\u044b\u0439 \u043f\u043b\u0430\u0433\u0438\u043d!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u041b\u0443\u0447\u0448\u0438\u0439 \u043f\u043b\u0430\u0433\u0438\u043d \u0431\u043e\u043d\u0443\u0441\u043e\u0432 \u0434\u043b\u044f Woo<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/nafanacom\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/73e1b909a1c3f864f0c915c224cd8fa3?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/73e1b909a1c3f864f0c915c224cd8fa3?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/nafanacom\/\" class=\"reviewer-name\">nafanacom<\/a> on <span class=\"review-date\">February 28, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">\u041f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u044b\u0439 \u043f\u043b\u0430\u0433\u0438\u043d, \u043e\u0442\u043b\u0438\u0447\u043d\u044b\u0439 \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excellent plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/hector7\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/06aecd29446f5e52c250be98b71fdece?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/06aecd29446f5e52c250be98b71fdece?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/hector7\/\" class=\"reviewer-name\">hector7<\/a> on <span class=\"review-date\">February 11, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Apr\u00e8s avoir essay\u00e9 plusieurs plugins, celui-ci s'est av\u00e9r\u00e9 \u00eatre le plus simple et le plus efficace. Du moins pour mon besoin qui \u00e9tait de cr\u00e9er un syst\u00e8me de points utilisables sous forme de coupon.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great plugin!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/radyd\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/41617f1ba1eb2e5efdb593b398a98d8a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/41617f1ba1eb2e5efdb593b398a98d8a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/radyd\/\" class=\"reviewer-name\"> <small>(RadyD)<\/small><\/a> on <span class=\"review-date\">December 5, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">The best cash back plugin. With ton of options and customisation.\nVery fast support! thanx o lot!<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Good and was surprised with its compatibility with Dokan<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/debbydee\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/8b9fc6003cad754dabc7654416f33c3e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/8b9fc6003cad754dabc7654416f33c3e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/debbydee\/\" class=\"reviewer-name\">debbydee<\/a> on <span class=\"review-date\">October 29, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">A great plugin I must say. For the fact that not all cashback, points, and rewards plugins are compatible with Dokan, I must say I was surprised that Bonus for Woo was the only plugin that worked. \n\nI just want to add one suggestion to make the plugin more flexible. \n\nTo add the ability to deduct Bonus. This will make it easy to revert mistakes that might have been made during a manual allocation.\n\nI hope this update can add more flexibility to the plugin and enable Dokan users to consider using this plugin.<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u041e\u0442\u043b\u0438\u0447\u043d\u044b\u0439 \u043f\u043b\u0430\u0433\u0438\u043d \u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u043d\u0430 \u0432\u044b\u0441\u043e\u0442\u0435!!!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/7447051yunnvo\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/30b2abea321887e9632333a347713e38?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/30b2abea321887e9632333a347713e38?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/7447051yunnvo\/\" class=\"reviewer-name\">7447051yunnvo<\/a> on <span class=\"review-date\">September 15, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">\u0410\u0431\u0441\u043e\u043b\u044e\u0442\u043d\u043e\u0439 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e \u043d\u0430\u0442\u043a\u043d\u0443\u043b\u0441\u044f \u043d\u0430 \u0434\u0430\u043d\u043d\u044b\u0439 \u043f\u043b\u0430\u0433\u0438\u043d)). \u0412\u043e\u043e\u0431\u0449\u0435 \u043d\u0438\u0447\u0435\u0433\u043e \u043d\u0435 \u043e\u0436\u0438\u0434\u0430\u043b, \u0442\u0435\u043c \u0431\u043e\u043b\u0435\u0435 \u043e\u0442 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e\u0439 \u0432\u0435\u0440\u0441\u0438\u0438. \u0418 \u043e\u043d \u043c\u0435\u043d\u044f \u043f\u0440\u0438\u044f\u0442\u043d\u043e \u0443\u0434\u0438\u0432\u0438\u043b. \u0412 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e\u0439 \u0432\u0435\u0440\u0441\u0438\u0438 \u0435\u0441\u0442\u044c \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u044b\u0439 \u043d\u0430\u0431\u043e\u0440 \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0442\u0430, \u043d\u0443\u0436\u043d\u043e \u0431\u043e\u043b\u044c\u0448\u0435 \u0444\u0443\u043d\u043a\u0446\u0438\u0439, \u0435\u0441\u0442\u044c Pro \u0432\u0435\u0440\u0441\u0438\u044f. \u0418 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u043e\u0442\u043b\u0438\u0447\u043d\u0430\u044f, \u043e\u0442\u0432\u0435\u0447\u0430\u044e\u0442 \u043c\u043e\u043b\u043d\u0438\u0435\u043d\u043e\u0441\u043d\u043e)). \u0412 \u043e\u0431\u0449\u0435\u043c, \u0435\u0441\u043b\u0438 \u043d\u0443\u0436\u0435\u043d \u041a\u0435\u0448\u0431\u044d\u043a, \u043e\u0434\u043d\u043e\u0437\u043d\u0430\u0447\u043d\u043e \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u044e! <\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u041b\u0443\u0447\u0448\u0438\u0439 \u043f\u043b\u0430\u0433\u0438\u043d \u0431\u043e\u043d\u0443\u0441\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/dmitry25kw\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/05c5fe5fb23ddba5347fd1b11155f162?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/05c5fe5fb23ddba5347fd1b11155f162?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/dmitry25kw\/\" class=\"reviewer-name\">Dimitry <small>(dmitry25kw)<\/small><\/a> on <span class=\"review-date\">July 23, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">\u041f\u0435\u0440\u0435\u043f\u0440\u043e\u0431\u043e\u0432\u0430\u043b 7 \u043f\u043e\u0434\u043e\u0431\u043d\u044b\u0445 \u043f\u043b\u0430\u0433\u0438\u043d\u043e\u0432 \u0438 \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b\u0441\u044f \u043d\u0430 \u043d\u0435\u043c. \u0417\u0434\u0435\u0441\u044c \u0435\u0441\u0442\u044c \u0432\u0441\u0435 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0435 \u0434\u043b\u044f \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u0431\u043e\u043d\u0443\u0441\u043d\u043e\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b. \u0410\u043d\u0430\u043b\u043e\u0433\u043e\u0432 \u043d\u0430 \u0434\u0430\u043d\u043d\u044b\u0439 \u043c\u043e\u043c\u0435\u043d\u0442 \u043f\u0440\u043e\u0441\u0442\u043e \u043d\u0435\u0442. \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u041c\u043e\u043b\u043e\u0434\u0435\u0446!<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excellent!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/2x2is5\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f134cb3cb51d8df5127ee4e2aeb6f780?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f134cb3cb51d8df5127ee4e2aeb6f780?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/2x2is5\/\" class=\"reviewer-name\">2x3 <small>(2x2is5)<\/small><\/a> on <span class=\"review-date\">July 23, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">The best one<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Awesome plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/dmitrylitvinov\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/6e9a960952089f88aa1396c9a90e2161?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/6e9a960952089f88aa1396c9a90e2161?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/dmitrylitvinov\/\" class=\"reviewer-name\">Dmitry Litvinov <small>(dmitrylitvinov)<\/small><\/a> on <span class=\"review-date\">June 24, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Awesome plugin to boost your sales. Thanks to dev! Will see now what he has else here!<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u041e\u0447\u0435\u043d\u044c \u0443\u0434\u043e\u0431\u043d\u044b\u0439 \u0438 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u043b\u0430\u0433\u0438\u043d<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/blvckavenger\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/162a26780aaabafbfd28a2adc84a19b3?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/162a26780aaabafbfd28a2adc84a19b3?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/blvckavenger\/\" class=\"reviewer-name\">blvckavenger<\/a> on <span class=\"review-date\">May 26, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">\u0425\u043e\u0442\u0435\u043b \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0441\u0438\u0441\u0442\u0435\u043c\u0443 \u0431\u043e\u043d\u0443\u0441\u043e\u0432, \u043f\u0435\u0440\u0435\u0440\u044b\u043b \u0432\u0435\u0441\u044c \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0438 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e \u043d\u0430\u0442\u043a\u043d\u0443\u043b\u0441\u044f \u043d\u0430 \u044d\u0442\u043e\u0442 \u043f\u043b\u0430\u0433\u0438\u043d. \u041e\u0447\u0435\u043d\u044c \u0443\u0434\u043e\u0431\u043d\u044b\u0439, \u043d\u0438\u0447\u0435\u0433\u043e \u043b\u0438\u0448\u043d\u0435\u0433\u043e, \u0434\u043e\u0432\u043e\u043b\u044c\u043d\u043e-\u0442\u0430\u043a\u0438 \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u043d\u043e\u0439 \u043f\u043b\u0430\u0433\u0438\u043d. \u041f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 10\/10. \u041f\u043e \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u0443 \u0443\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0435\u0442. \u0414\u0430\u0436\u0435 \u0432 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e\u0439 \u0432\u0435\u0440\u0441\u0438\u0438 \u0438\u043c\u0435\u0435\u0442\u0441\u044f \u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e \u0433\u043e\u0442\u043e\u0432\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u043d\u0430\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f \u043a\u0435\u0448\u0431\u0435\u043a\u0430. \u0410\u043d\u0430\u043b\u043e\u0433\u043e\u0432 \u044d\u0442\u043e\u0433\u043e \u043f\u043b\u0430\u0433\u0438\u043d\u0430 \u043d\u0435 \u0438\u043c\u0435\u0435\u0442\u0441\u044f<\/div>\n<\/div>\n"
+    },
+    "short_description": "This plugin is designed to create a bonus system with cashback.",
+    "description": "<p>This plugin is designed to create a bonus system with cashback.<br \/>\nThe cashback percentage is calculated based on the users&#8217; status in the form of bonus points.<br \/>\nEach user status has a corresponding cashback percentage.<br \/>\nThe users&#8217; status depends on the total amount of the users orders.<br \/>\nCashback is accumulated in the client&#8217;s virtual wallet.<\/p>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/6u4mHdHVhkE?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n<h3>Free plugin features<\/h3>\n<ul>\n<li>Points for product reviews.<\/li>\n<li>Integer and decimal points<\/li>\n<li>Hide the ability to spend points for discounted items.<\/li>\n<li>Show the history of bonus points.<\/li>\n<li>Email notifications.<\/li>\n<li>Export and import points.<\/li>\n<li>Shortcodes.<\/li>\n<\/ul>\n<h3>Additional settings for the PRO version<\/h3>\n<ul>\n<li>Points on your birthday.<\/li>\n<li>Daily points for the first login.<\/li>\n<li>Points for registration.<\/li>\n<li>Exclude categories of products that cannot be purchased with cashback points.<\/li>\n<li>Exclude payment method.<\/li>\n<li>Exclude items that cannot be purchased with Cashback Points.<\/li>\n<li>Minimum order amount to redeem points.<\/li>\n<li>Withdrawal of bonus points for inactivity.<\/li>\n<li>Referral system.<\/li>\n<li>Coupons.<\/li>\n<\/ul>\n<h3>Testing<\/h3>\n<p>You can test the plugin on <a href=\"https:\/\/demo.tastewp.com\/bonus-for-woo\" rel=\"nofollow ugc\"><strong>this page<\/strong><\/a><\/p>\n<h3>SUPPORT<\/h3>\n<p>If you need support or have questions, please write to our <a href=\"https:\/\/wordpress.org\/support\/plugin\/bonus-for-woo\/\" rel=\"ugc\"><strong>support<\/strong><\/a> or <a href=\"https:\/\/computy.ru\/blog\/bonus-for-woo-wordpress\/#reply-title\" rel=\"nofollow ugc\"><strong>blog<\/strong><\/a>.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.zip",
+    "upgrade_notice": {
+        "6.1.0": "<ul>\n<li>Bug fixes and code optimization.<\/li>\n<\/ul>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-1.png?rev=2750968",
+            "caption": "Options in adminpanel"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-2.png?rev=3045270",
+            "caption": "View plugin on userpage"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-3.png?rev=3009738",
+            "caption": "View the number of points received on the product page."
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-4.png?rev=2750968",
+            "caption": "Calculation by points in the basket and checkout."
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-5.png?rev=2750968",
+            "caption": "History of accrual of points in the client's account"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-6.png?rev=3009738",
+            "caption": "User edit page."
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-7.png?rev=2750968",
+            "caption": "E-mail notification settings page."
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-8.png?rev=2750968",
+            "caption": "Coupon management page."
+        },
+        "9": {
+            "src": "https:\/\/ps.w.org\/bonus-for-woo\/assets\/screenshot-9.png?rev=2751843",
+            "caption": "Statistics page"
+        }
+    },
+    "tags": {
+        "cashback": "cashback",
+        "loyalty": "Loyalty",
+        "points": "points",
+        "referral": "referral",
+        "reward": "reward"
+    },
+    "stable_tag": "trunk",
+    "versions": {
+        "release-1.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-1.0.zip",
+        "release-1.1": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-1.1.zip",
+        "release-1.2": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-1.2.zip",
+        "release-1.3": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-1.3.zip",
+        "release-1.4": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-1.4.zip",
+        "release-1.5": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-1.5.zip",
+        "release-1.5.1": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-1.5.1.zip",
+        "release-1.5.2": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-1.5.2.zip",
+        "release-1.5.3": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-1.5.3.zip",
+        "release-1.5.4": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-1.5.4.zip",
+        "release-1.6.8": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-1.6.8.zip",
+        "release-1.7.9": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-1.7.9.zip",
+        "release-1.8.2": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-1.8.2.zip",
+        "release-1.9.5": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-1.9.5.zip",
+        "release-2.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-2.0.zip",
+        "release-2.1.3": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-2.1.3.zip",
+        "release-2.2.2": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-2.2.2.zip",
+        "release-2.3.5": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-2.3.5.zip",
+        "release-2.4.3": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-2.4.3.zip",
+        "release-2.5.9": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-2.5.9.zip",
+        "release-2.6.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-2.6.0.zip",
+        "release-2.7.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-2.7.0.zip",
+        "release-2.8.2": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-2.8.2.zip",
+        "release-2.9.4": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-2.9.4.zip",
+        "release-3.0.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-3.0.0.zip",
+        "release-3.1.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-3.1.0.zip",
+        "release-3.2.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-3.2.0.zip",
+        "release-3.3.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-3.3.0.zip",
+        "release-3.4.3": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-3.4.3.zip",
+        "release-4.0.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-4.0.0.zip",
+        "release-4.1.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-4.1.0.zip",
+        "release-4.2.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-4.2.0.zip",
+        "release-4.3.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-4.3.0.zip",
+        "release-4.4.1": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-4.4.1.zip",
+        "release-4.5.3": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-4.5.3.zip",
+        "release-4.6.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-4.6.0.zip",
+        "release-4.7.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-4.7.0.zip",
+        "release-4.8.1": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-4.8.1.zip",
+        "release-5.0.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.0.0.zip",
+        "release-5.0.1": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.0.1.zip",
+        "release-5.1.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.1.0.zip",
+        "release-5.1.1": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.1.1.zip",
+        "release-5.1.2": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.1.2.zip",
+        "release-5.2.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.2.0.zip",
+        "release-5.2.1": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.2.1.zip",
+        "release-5.2.2": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.2.2.zip",
+        "release-5.2.3": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.2.3.zip",
+        "release-5.3.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.3.0.zip",
+        "release-5.3.1": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.3.1.zip",
+        "release-5.3.2": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.3.2.zip",
+        "release-5.3.3": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.3.3.zip",
+        "release-5.3.4": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.3.4.zip",
+        "release-5.4.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.4.0.zip",
+        "release-5.4.1": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.4.1.zip",
+        "release-5.4.2": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.4.2.zip",
+        "release-5.4.3": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.4.3.zip",
+        "release-5.5.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.5.0.zip",
+        "release-5.5.1": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.5.1.zip",
+        "release-5.6.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.6.0.zip",
+        "release-5.6.1": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.6.1.zip",
+        "release-5.7.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.7.0.zip",
+        "release-5.7.1": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.7.1.zip",
+        "release-5.8.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.8.0.zip",
+        "release-5.8.1": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.8.1.zip",
+        "release-5.8.2": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.8.2.zip",
+        "release-5.8.3": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.8.3.zip",
+        "release-5.8.4": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.8.4.zip",
+        "release-5.8.5": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.8.5.zip",
+        "release-5.8.6": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.8.6.zip",
+        "release-5.8.7": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.8.7.zip",
+        "release-5.8.8": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.8.8.zip",
+        "release-5.9.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.9.0.zip",
+        "release-5.9.1": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.9.1.zip",
+        "release-5.9.2": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.9.2.zip",
+        "release-5.9.3": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-5.9.3.zip",
+        "release-6.0.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-6.0.0.zip",
+        "release-6.0.1": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-6.0.1.zip",
+        "release-6.1.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-6.1.0.zip",
+        "release-6.1.1": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-6.1.1.zip",
+        "release-6.2.0": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-6.2.0.zip",
+        "release-6.2.1": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-6.2.1.zip",
+        "release-6.2.2": "https:\/\/downloads.wordpress.org\/plugin\/bonus-for-woo.release-6.2.2.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/sobe.ru\/na\/kompyuti_na_podderzhku_plagina_computy_for_plugin_support",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/bonus-for-woo\/assets\/banner-772x250.png?rev=2750968",
+        "high": "https:\/\/ps.w.org\/bonus-for-woo\/assets\/banner-1544x500.png?rev=2750968"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/bonus-for-woo\/assets\/icon.svg?rev=2750968",
+        "svg": "https:\/\/ps.w.org\/bonus-for-woo\/assets\/icon.svg?rev=2750968"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [
+        {
+            "filename": "blueprint.json",
+            "url": "https:\/\/wordpress.org\/plugins\/wp-json\/plugins\/v1\/plugin\/bonus-for-woo\/blueprint.json?rev=3067814"
+        }
+    ],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "bonus-for-woo",
+            "language": "ru_RU",
+            "version": "6.2.2",
+            "updated": "2024-04-09 18:02:17",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/bonus-for-woo\/6.2.2\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "bonus-for-woo",
+            "language": "uk",
+            "version": "6.2.2",
+            "updated": "2024-04-09 17:40:04",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/bonus-for-woo\/6.2.2\/uk.zip"
+        }
+    ]
+}

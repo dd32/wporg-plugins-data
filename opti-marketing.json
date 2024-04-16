@@ -1,0 +1,115 @@
+{
+    "name": "Opti Marketing",
+    "slug": "opti-marketing",
+    "version": "2.0.9",
+    "author": "<a href=\"https:\/\/www.opti.marketing\/\">Opti Marketing<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/optimarketing\/",
+    "contributors": {
+        "optimarketing": {
+            "profile": "https:\/\/profiles.wordpress.org\/optimarketing\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/e6d21e0bd95e2bc3f73df30faa6f2b85?s=96&d=monsterid&r=g",
+            "display_name": "OPTI MARKETING"
+        }
+    },
+    "requires": "6.2.2",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/opti-marketing\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 60,
+    "downloaded": 1275,
+    "last_updated": "2024-03-05 2:11am GMT",
+    "added": "2022-05-17",
+    "homepage": "https:\/\/www.opti.marketing\/wordpress-plugin-plataforma-opti-marketing\/",
+    "sections": {
+        "description": "<h3>WordPress Plugin Opti Marketing<\/h3>\n<p>O plugin Opti Marketing \u00e9 uma poderosa ferramenta de otimiza\u00e7\u00e3o para mecanismos de<br \/>\nbusca (SEO) projetada para elevar o desempenho do seu blog WordPress, melhorando sua<br \/>\nvisibilidade online.<\/p>\n<p>Inspirado por plugins como o Yoast, a Opti se destaca ao oferecer gratuitamente uma<br \/>\nabordagem inovadora e funcionalidades avan\u00e7adas para impulsionar a presen\u00e7a do seu blog<br \/>\nnos resultados de pesquisa. Dentre elas, destaca-se:<\/p>\n<ul>\n<li>Monitoramento de posi\u00e7\u00e3o das suas palavras-chave, atualizado diariamente.<\/li>\n<li>An\u00e1lise de SEO avan\u00e7ada, incluindo tamb\u00e9m gram\u00e1tica, ortografia, uso da v\u00edrgula, etc.<br \/>\nEditor de texto integrado ao WordPress.<\/li>\n<li>Corre\u00e7\u00f5es autom\u00e1ticas geradas por intelig\u00eancia artificial (IA).<\/li>\n<li>[Em breve] Relat\u00f3rio gerenciais de performance, com a rela\u00e7\u00e3o entre posi\u00e7\u00e3o, nota de<br \/>\nSEO e tr\u00e1fego das suas palavras-chave.<\/li>\n<li>Suporte humanizado em portugu\u00eas.<br \/>\nD\u00favidas sobre o plugin? Entre em contato e comece a alavancar seus resultados com SEO agora.<\/li>\n<\/ul>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/pcT4ru897jE?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n",
+        "installation": "<ol>\n<li>A instala\u00e7\u00e3o do plugin pode ser feita atrav\u00e9s da p\u00e1gina do plugin do seu WordPress, basta ir no campo e buscar por \u201cOpti Marketing\u201d ou \u201cOpti\u201d, selecionar o plugin e clicar em instalar e ativar.<\/li>\n<li>Tamb\u00e9m \u00e9 poss\u00edvel instalar pela loja WordPress neste link: <a href=\"https:\/\/www.hospedagemdewordpress.com.br\/plugins\/opti-marketing\/\" rel=\"nofollow ugc\">https:\/\/www.hospedagemdewordpress.com.br\/plugins\/opti-marketing\/<\/a> .<\/li>\n<li>Ambas instala\u00e7\u00f5es devem ser realizadas dentro da sua conta WordPress.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='para%20que%20serve%20o%20plugin%20da%20opti%3F'>\nPara que serve o plugin da Opti?\n<\/h4>\n<p>\n<ul>\n<li>Para gerenciar grandes blogs em WordPress com an\u00e1lises de SEO, legibilidade e  monitoramento de posi\u00e7\u00f5es na SERP.  * Para redigir e otimizar conte\u00fados \u2013 manual ou automaticamente com intelig\u00eancia artificial \u2013 no nosso editor integrado ao WordPress, acompanhar os artigos do seu blog com hist\u00f3rico de posi\u00e7\u00f5es na SERP, possibilidade de integra\u00e7\u00e3o com Google Analytics, an\u00e1lise de SEO e legibilidade.  * Para otimizar seus artigos em cria\u00e7\u00e3o ou j\u00e1 publicados, com an\u00e1lises de SEO, legibilidade e acompanhar a evolu\u00e7\u00e3o dos seus artigos atrav\u00e9s da p\u00e1gina do plugin Opti com dashboard com os resultados mais relevantes do seu blog.<\/li>\n<\/ul>\n<\/p>\n<dt id='quais%20as%20funcionalidades%20do%20plugin%20opti%20marketing%3F'>\nQuais as funcionalidades do plugin Opti Marketing?\n<\/h4>\n<p>\n<p>Temos v\u00e1rias funcionalidades na Opti que s\u00e3o: * Editor de texto integrado ao WordPress;   * P\u00e1gina do plugin com dashboard dos artigos selecionados sobre movimentos na SERP, posicionamento de artigos e tr\u00e1fego;   * Vis\u00e3o geral do blog, contendo posi\u00e7\u00f5es m\u00e9dias, visibilidade m\u00e9dia e tr\u00e1fego dos seus artigos;   * Integra\u00e7\u00e3o com Google Analytics para acompanhamento de tr\u00e1fego;   * An\u00e1lises em tempo real de SEO e legibilidade na cria\u00e7\u00e3o ou edi\u00e7\u00e3o de artigos j\u00e1 publicados;   * Ranking de palavras-chave, com hist\u00f3rico e vis\u00e3o gr\u00e1fica de posi\u00e7\u00f5es dos artigos na SERP e hist\u00f3rico e vis\u00e3o gr\u00e1fica do tr\u00e1fego integrado com seu Google Analytics.<\/p>\n<\/p>\n<dt id='onde%20fica%20localizado%20as%20fun%C3%A7%C3%B5es%20do%20plugin%20opti%20marketing%3F'>\nOnde fica localizado as fun\u00e7\u00f5es do plugin Opti Marketing?\n<\/h4>\n<p>\n<ul>\n<li>Em \u201cposts\u201d ao entrar no seu artigo ou criar um novo post ou rascunho. Na lateral direita voc\u00ea ter\u00e1 as an\u00e1lises de SEO, legibilidade e seus crit\u00e9rios textuais. Ap\u00f3s inserir o seu texto basta salvar ou atualizar seu rascunho que os crit\u00e9rios de legibilidade e SEO ser\u00e3o automaticamente feitos e retornados em acertos e erros, ao selecionar o crit\u00e9rio ele evidenciar\u00e1 no texto as oportunidades, basta realizar a corre\u00e7\u00e3o e atualizar seu  artigo.  * Ainda em posts, abaixo do texto do seu artigo voc\u00ea ter\u00e1 as an\u00e1lises que compreendem elementos importantes do seu conte\u00fado. O primeiro passo \u00e9 essencial para qualquer artigo, voc\u00ea dever\u00e1 clicar em palavra-chave e inserir a keyword do seu artigo, alguns campos em slug, link permanente, ser\u00e3o preenchidos automaticamente. Ser\u00e1 necess\u00e1rio inserir a meta descri\u00e7\u00e3o do seu artigo e tamb\u00e9m o alt imagem, al\u00e9m de informa\u00e7\u00f5es adicionais quando necess\u00e1rio. Abaixo de cada uma das telas ter\u00e1 os<br \/>\ncrit\u00e9rios avaliados e seus acertos e oportunidades. * Na p\u00e1gina do plugin Opti Marketing voc\u00ea ter\u00e1 os resultados do seu blog dos artigos selecionados. O primeiro passo \u00e9 selecionar os artigos que voc\u00ea deseja acompanhar, autorizar a integra\u00e7\u00e3o com o Google Analytics e clicar em come\u00e7ar a usar (este passo \u00e9<br \/>\nrealizado uma \u00fanica vez). A partir da\u00ed ser\u00e1 constru\u00eddo um dashboard com os seus resultados facilitando seu dia-a-dia no acompanhamento e tomada de decis\u00e3o.<\/li>\n<\/ul>\n<\/p>\n<dt id='quais%20os%20planos%20do%20plugin%20opti%20marketing%3F'>\nQuais os planos do plugin Opti Marketing?\n<\/h4>\n<p>\n<p>Atualmente o plugin free \u00e9 totalmente gratuito.<\/p>\n<\/p>\n<dt id='existe%20fideliza%C3%A7%C3%A3o%20ou%20multa%20por%20cancelamento%3F'>\nExiste fideliza\u00e7\u00e3o ou multa por cancelamento?\n<\/h4>\n<p>\n<p>N\u00e3o, ap\u00f3s instalar o plugin Opti voc\u00ea pode desativar ou excluir do WordPress a qualquer momento.<\/p>\n<\/p>\n<dt id='posso%20ter%20v%C3%A1rios%20usu%C3%A1rios%20com%20logins%20de%20acesso%20diferentes%3F'>\nPosso ter v\u00e1rios usu\u00e1rios com logins de acesso diferentes?\n<\/h4>\n<p>\n<p>Sim, basta o usu\u00e1rio administrador instalar o plugin no WordPress que todos os usu\u00e1rios desta conta ter\u00e3o acesso as funcionalidades do plugin Opti.<\/p>\n<\/p>\n<dt id='%C3%89%20opcional%20integrar%20minha%20conta%20do%20google%20analytics%3F'>\n\u00c9 opcional integrar minha conta do Google Analytics?\n<\/h4>\n<p>\n<p>Sim, \u00e9 opcional. Mas a integra\u00e7\u00e3o do Google Analytics no plugin Opti vai ampliar sua gest\u00e3o sobre suas posi\u00e7\u00f5es x tr\u00e1fego lhe proporcionando uma vis\u00e3o gerencial para tomadas de decis\u00e3o mais assertivas.<\/p>\n<\/p>\n<dt id='teremos%20uma%20vers%C3%A3o%20completa%20de%20todos%20os%20artigos%20atrav%C3%A9s%20do%20plugin%20da%20opti%3F'>\nTeremos uma vers\u00e3o completa de todos os artigos atrav\u00e9s do plugin da Opti?\n<\/h4>\n<p>\n<p>Sim, em breve ter\u00e1 a vers\u00e3o premium do plugin Opti lhe proporcionando uma vis\u00e3o integral de todos seus artigos e seus respectivos indicadores e resultados.<\/p>\n<\/p>\n\n",
+        "changelog": "<ul>\n<li>\n<p>2.0.9: 2024-02Fev-23 =<\/p>\n<ul>\n<li>Corre\u00e7\u00e3o: An\u00e1lise autom\u00e1tica ao abrir post<\/li>\n<\/ul>\n<\/li>\n<li>\n<p>2.0.8: 2024-02Fev-14 =<\/p>\n<ul>\n<li>Corre\u00e7\u00e3o: Notifica\u00e7\u00e3o de vers\u00e3o<\/li>\n<li>Corre\u00e7\u00e3o: Importa\u00e7\u00e3o artigos escolidos<\/li>\n<li>Melhoria: Coleta de resultados da an\u00e1lise de Legibilidade<\/li>\n<\/ul>\n<\/li>\n<li>\n<p>2.0.7: 2024-01Jan-30 =<\/p>\n<ul>\n<li>Melhoria: An\u00e1lise de SEO avan\u00e7ada em POSTS ( 32 crit\u00e9rios )<\/li>\n<li>Melhoria: An\u00e1lise de Legibilidade em POSTS ( 9 crit\u00e9rios )<\/li>\n<li>Melhoria: Dicas de otimiza\u00e7\u00e3o em POSTS <\/li>\n<li>Melhoria: Dashboard de indicadores de tr\u00e1fego e ranqueamento dos artigos publicados<\/li>\n<li>Melhoria: Integra\u00e7\u00e3o com Google Analytics<\/li>\n<\/ul>\n<\/li>\n<li>\n<p>1.0.0: 2022-05Maio-16 =<\/p>\n<ul>\n<li>Vers\u00e3o inicial do plugin Opti Marketing<\/li>\n<\/ul>\n<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-1.png?rev=3029739\"><img src=\"https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-1.png?rev=3029739\" alt=\"Este \u00e9 o painel onde \u00e9 poss\u00edvel escolher os artigos para serem monitorados\"><\/a><p>Este \u00e9 o painel onde \u00e9 poss\u00edvel escolher os artigos para serem monitorados<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-2.png?rev=3029739\"><img src=\"https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-2.png?rev=3029739\" alt=\"Painel para escolher os artigos para serem monitorados: Artigos escolhidos\"><\/a><p>Painel para escolher os artigos para serem monitorados: Artigos escolhidos<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-3.png?rev=3029739\"><img src=\"https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-3.png?rev=3029739\" alt=\"Painel com ranqueamento dos artigos selecionados: Carregando informa\u00e7\u00f5es\"><\/a><p>Painel com ranqueamento dos artigos selecionados: Carregando informa\u00e7\u00f5es<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-4.png?rev=3029739\"><img src=\"https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-4.png?rev=3029739\" alt=\"Painel com ranqueamento dos artigos selecionados: Dashboard - Artigos sem palavras-chaves\"><\/a><p>Painel com ranqueamento dos artigos selecionados: Dashboard - Artigos sem palavras-chaves<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-5.png?rev=3029739\"><img src=\"https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-5.png?rev=3029739\" alt=\"Painel com ranqueamento dos artigos selecionados: Dashboard - Adicionar palavra-chave\"><\/a><p>Painel com ranqueamento dos artigos selecionados: Dashboard - Adicionar palavra-chave<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-6.png?rev=3029739\"><img src=\"https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-6.png?rev=3029739\" alt=\"Painel com dados de ranqueamento dos artigos selecionados: Dashboard - Artigos com palavras-chaves\"><\/a><p>Painel com dados de ranqueamento dos artigos selecionados: Dashboard - Artigos com palavras-chaves<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-7.png?rev=3029739\"><img src=\"https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-7.png?rev=3029739\" alt=\"Painel onde ser\u00e3o exibidos os crit\u00e9rios de an\u00e1lise de legibilidade de cada post : Legibilidade\"><\/a><p>Painel onde ser\u00e3o exibidos os crit\u00e9rios de an\u00e1lise de legibilidade de cada post : Legibilidade<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-8.png?rev=3029739\"><img src=\"https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-8.png?rev=3029739\" alt=\"Painel onde ser\u00e3o exibidos os crit\u00e9rios de an\u00e1lise de SEO de cada post : SEO\"><\/a><p>Painel onde ser\u00e3o exibidos os crit\u00e9rios de an\u00e1lise de SEO de cada post : SEO<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "A Opti quer te levar para o topo do google com an\u00e1lises de Legibilidade e SEO, com\nmonitoramento de SERP, e Tr\u00e1fego dos artigos do seu Blog.",
+    "description": "<h3>WordPress Plugin Opti Marketing<\/h3>\n<p>O plugin Opti Marketing \u00e9 uma poderosa ferramenta de otimiza\u00e7\u00e3o para mecanismos de<br \/>\nbusca (SEO) projetada para elevar o desempenho do seu blog WordPress, melhorando sua<br \/>\nvisibilidade online.<\/p>\n<p>Inspirado por plugins como o Yoast, a Opti se destaca ao oferecer gratuitamente uma<br \/>\nabordagem inovadora e funcionalidades avan\u00e7adas para impulsionar a presen\u00e7a do seu blog<br \/>\nnos resultados de pesquisa. Dentre elas, destaca-se:<\/p>\n<ul>\n<li>Monitoramento de posi\u00e7\u00e3o das suas palavras-chave, atualizado diariamente.<\/li>\n<li>An\u00e1lise de SEO avan\u00e7ada, incluindo tamb\u00e9m gram\u00e1tica, ortografia, uso da v\u00edrgula, etc.<br \/>\nEditor de texto integrado ao WordPress.<\/li>\n<li>Corre\u00e7\u00f5es autom\u00e1ticas geradas por intelig\u00eancia artificial (IA).<\/li>\n<li>[Em breve] Relat\u00f3rio gerenciais de performance, com a rela\u00e7\u00e3o entre posi\u00e7\u00e3o, nota de<br \/>\nSEO e tr\u00e1fego das suas palavras-chave.<\/li>\n<li>Suporte humanizado em portugu\u00eas.<br \/>\nD\u00favidas sobre o plugin? Entre em contato e comece a alavancar seus resultados com SEO agora.<\/li>\n<\/ul>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/pcT4ru897jE?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/opti-marketing.2.0.9.zip",
+    "upgrade_notice": {
+        "": "<ul>\n<li>2.0.0: Novas funcionalidades do plugin Opti Marketing<\/li>\n<\/ul>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-1.png?rev=3029739",
+            "caption": "Este \u00e9 o painel onde \u00e9 poss\u00edvel escolher os artigos para serem monitorados"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-2.png?rev=3029739",
+            "caption": "Painel para escolher os artigos para serem monitorados: Artigos escolhidos"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-3.png?rev=3029739",
+            "caption": "Painel com ranqueamento dos artigos selecionados: Carregando informa\u00e7\u00f5es"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-4.png?rev=3029739",
+            "caption": "Painel com ranqueamento dos artigos selecionados: Dashboard - Artigos sem palavras-chaves"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-5.png?rev=3029739",
+            "caption": "Painel com ranqueamento dos artigos selecionados: Dashboard - Adicionar palavra-chave"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-6.png?rev=3029739",
+            "caption": "Painel com dados de ranqueamento dos artigos selecionados: Dashboard - Artigos com palavras-chaves"
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-7.png?rev=3029739",
+            "caption": "Painel onde ser\u00e3o exibidos os crit\u00e9rios de an\u00e1lise de legibilidade de cada post : Legibilidade"
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/opti-marketing\/assets\/screenshot-8.png?rev=3029739",
+            "caption": "Painel onde ser\u00e3o exibidos os crit\u00e9rios de an\u00e1lise de SEO de cada post : SEO"
+        }
+    },
+    "tags": {
+        "seo-metadados-yoast-optimarketing-opti-marketing-semrush-google-analytics": "seo metadados yoast optimarketing opti marketing semrush google analytics"
+    },
+    "stable_tag": "2.0.9",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/opti-marketing.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/opti-marketing.1.0.1.zip",
+        "2.0.7": "https:\/\/downloads.wordpress.org\/plugin\/opti-marketing.2.0.7.zip",
+        "2.0.8": "https:\/\/downloads.wordpress.org\/plugin\/opti-marketing.2.0.8.zip",
+        "2.0.9": "https:\/\/downloads.wordpress.org\/plugin\/opti-marketing.2.0.9.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/opti-marketing.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/www.opti.marketing\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/opti-marketing\/assets\/banner-772x250.png?rev=2725655",
+        "high": "https:\/\/ps.w.org\/opti-marketing\/assets\/banner-1544x500.png?rev=2725655"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/opti-marketing\/assets\/icon-128x128.png?rev=2725655",
+        "2x": "https:\/\/ps.w.org\/opti-marketing\/assets\/icon-256x256.png?rev=2725655"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

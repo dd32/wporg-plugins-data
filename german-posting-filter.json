@@ -1,0 +1,89 @@
+{
+    "name": "German Posting Filter Plugin",
+    "slug": "german-posting-filter",
+    "version": "3.0",
+    "author": "Dr. Dominic Lindner",
+    "author_profile": "https:\/\/profiles.wordpress.org\/domifry\/",
+    "contributors": {
+        "domifry": {
+            "profile": "https:\/\/profiles.wordpress.org\/domifry\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/b0f39e739e836a889d2222ca9b55e512?s=96&d=monsterid&r=g",
+            "display_name": "Domifry"
+        }
+    },
+    "requires": "6.0",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/german-posting-filter\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 165,
+    "last_updated": "2024-01-28 3:51pm GMT",
+    "added": "2024-01-18",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Mit diesem Plugin k\u00f6nnen Sie gewisse Blogbeitr\u00e4ge f\u00fcr ausgew\u00e4hlte deutschsprachige L\u00e4nder ausblenden.<\/p>\n<h3>Warum dieses Plugin nutzen?<\/h3>\n<p><em>Note: english version bellow. Plugin is available in german and english.<\/em><\/p>\n<p>M\u00f6chten Sie mehr Kontrolle \u00fcber die Sichtbarkeit Ihrer WordPress-Beitr\u00e4ge in der deutschsprachigen DACH-Region haben? Oftmals gibt es Inhalte, die Sie posten m\u00f6chten, aber in deutschsprachigen L\u00e4ndern nicht erlaubt sind. Dies betrifft sensible Themen wie Finanzen und Pharma. Das German Posting Filter Plugin erm\u00f6glicht es Ihnen, trotzdem \u00fcber diese Themen zu bloggen, w\u00e4hrend Sie die Sichtbarkeit in der DACH-Region steuern.<\/p>\n<h3>Hauptfunktionen<\/h3>\n<ul>\n<li>\n<p>&#8221;&#8217;Selektive Beitragskontrolle:&#8221;&#8217; W\u00e4hlen Sie bestimmte Artikel aus und beschr\u00e4nken Sie den Zugriff f\u00fcr Benutzende aus der deutschsprachigen DACH-Region. Sch\u00fctzen Sie sensible Inhalte, die in Deutschland m\u00f6glicherweise verboten sind, in anderen L\u00e4ndern jedoch akzeptabel sind.<\/p>\n<\/li>\n<li>\n<p>&#8221;&#8217;L\u00e4nderausschluss:&#8221;&#8217; Passen Sie Ihren Ausschluss von Inhalten an, indem Sie aus verschiedenen deutschsprachigen L\u00e4ndern ausw\u00e4hlen. Legen Sie einen Standardtext und ein Bild fest, das f\u00fcr Benutzende aus diesen L\u00e4ndern angezeigt wird.<\/p>\n<\/li>\n<\/ul>\n<h3>Anwendungshinweise<\/h3>\n<ol>\n<li>\n<p>&#8221;&#8217;Herunterladen und Installieren:&#8221;&#8217; Laden Sie das Plugin herunter und installieren Sie es \u00fcber Ihr WordPress-Dashboard. Aktivieren Sie das Plugin nach der Installation.<\/p>\n<\/li>\n<li>\n<p>&#8221;&#8217;Einstellungen konfigurieren:&#8221;&#8217; Navigieren Sie zum WordPress-Admin-Bereich, klicken Sie auf &#8220;Einstellungen&#8221; &gt; &#8220;German Posting&#8221; und geben Sie Ihren API-Schl\u00fcssel von IPinfo.io ein. Haben Sie noch keinen API-Schl\u00fcssel? Kein Problem! Befolgen Sie die Richtlinien im Plugin f\u00fcr weitere Anweisungen. Es ist kostenlos (Stand Oktober 2023).<\/p>\n<\/li>\n<li>\n<p>&#8221;&#8217;Anpassung des Filterinhalts:&#8221;&#8217; Geben Sie den gew\u00fcnschten Filterinhalt im Textfeld ein, w\u00e4hlen Sie ein Bild aus oder verwenden Sie das Standardbild.<\/p>\n<\/li>\n<li>\n<p>&#8221;&#8217;Aktivierung der Kontrolle:&#8221;&#8217; Setzen Sie das H\u00e4kchen bei der Option &#8220;German Posting Filter&#8221; in den Artikel-Einstellungen, um den Filter f\u00fcr die ausgew\u00e4hlten Beitr\u00e4ge zu aktivieren.<\/p>\n<\/li>\n<\/ol>\n<h3>Wichtiger Hinweis<\/h3>\n<ul>\n<li>Bitte beachten Sie, dass dieses Plugin bis zu 50.000 API-Aufrufe pro Monat unterst\u00fctzt.<\/li>\n<\/ul>\n<h3>Lizenz<\/h3>\n<p>GNU General Public License v2<\/p>\n<p>Bereit, mehr Kontrolle \u00fcber Ihre WordPress-Inhalte zu haben? Laden Sie das German Posting Filter Plugin jetzt herunter und aktivieren Sie es!<\/p>\n<h3>English Version<\/h3>\n<h3>Introduction to the German Posting Filter Plugin<\/h3>\n<p>Do you want more control over the visibility of your WordPress posts in the German-speaking DACH region? The German Posting Filter Plugin is here to provide you with precise control and customization of your content.<\/p>\n<h3>Why Use This Plugin?<\/h3>\n<p>Often, there are contents you want to post but are not allowed in German-speaking countries. This includes sensitive topics like finance and pharmaceuticals. The German Posting Filter Plugin allows you to blog about these topics while controlling visibility in the DACH region.<\/p>\n<h3>Key Features<\/h3>\n<ul>\n<li>\n<p>&#8221;&#8217;Selective Post Control:&#8221;&#8217; Choose specific articles and restrict access for users from the German-speaking DACH region. Protect sensitive content that may be prohibited in Germany but acceptable in other countries.<\/p>\n<\/li>\n<li>\n<p>&#8221;&#8217;Country Exclusion:&#8221;&#8217; Customize your content exclusion by selecting from various German-speaking countries. Set a default text and image to be displayed for users from these countries.<\/p>\n<\/li>\n<\/ul>\n<h3>Application Notes<\/h3>\n<ol>\n<li>\n<p>&#8221;&#8217;Download and Install:&#8221;&#8217; Download the plugin and install it via your WordPress dashboard. Activate the plugin after installation.<\/p>\n<\/li>\n<li>\n<p>&#8221;&#8217;Configure Settings:&#8221;&#8217; Navigate to the WordPress admin area, click on &#8220;Settings&#8221; &gt; &#8220;German Posting,&#8221; and enter your API key from IPinfo.io. Don&#8217;t have an API key yet? No problem! Follow the guidelines in the plugin for further instructions. It&#8217;s free (as of October 2023).<\/p>\n<\/li>\n<li>\n<p>&#8221;&#8217;Customize Filter Content:&#8221;&#8217; Enter the desired filter content in the text field, choose an image, or use the default image.<\/p>\n<\/li>\n<li>\n<p>&#8221;&#8217;Activate Control:&#8221;&#8217; Check the option &#8220;German Posting Filter&#8221; in the article settings to activate the filter for the selected posts.<\/p>\n<\/li>\n<\/ol>\n<h3>Important Note<\/h3>\n<ul>\n<li>Please note that this plugin supports up to 50,000 API calls per month.<\/li>\n<\/ul>\n<h3>License<\/h3>\n<p>GNU General Public License v2<\/p>\n<p>Ready to have more control over your WordPress content? Download and activate the German Posting Filter Plugin now!<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/german-posting-filter\/assets\/screenshot-1.png?rev=3026388\"><img src=\"https:\/\/ps.w.org\/german-posting-filter\/assets\/screenshot-1.png?rev=3026388\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/german-posting-filter\/assets\/screenshot-2.png?rev=3026388\"><img src=\"https:\/\/ps.w.org\/german-posting-filter\/assets\/screenshot-2.png?rev=3026388\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/german-posting-filter\/assets\/screenshot-3.png?rev=3026388\"><img src=\"https:\/\/ps.w.org\/german-posting-filter\/assets\/screenshot-3.png?rev=3026388\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/german-posting-filter\/assets\/screenshot-4.png?rev=3027519\"><img src=\"https:\/\/ps.w.org\/german-posting-filter\/assets\/screenshot-4.png?rev=3027519\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Mit diesem Plugin k\u00f6nnen Sie gewisse Blogbeitr\u00e4ge f\u00fcr ausgew\u00e4hlte deutschsprachige L\u00e4nder ausblenden.",
+    "description": "<p>Mit diesem Plugin k\u00f6nnen Sie gewisse Blogbeitr\u00e4ge f\u00fcr ausgew\u00e4hlte deutschsprachige L\u00e4nder ausblenden.<\/p>\n<h3>Warum dieses Plugin nutzen?<\/h3>\n<p><em>Note: english version bellow. Plugin is available in german and english.<\/em><\/p>\n<p>M\u00f6chten Sie mehr Kontrolle \u00fcber die Sichtbarkeit Ihrer WordPress-Beitr\u00e4ge in der deutschsprachigen DACH-Region haben? Oftmals gibt es Inhalte, die Sie posten m\u00f6chten, aber in deutschsprachigen L\u00e4ndern nicht erlaubt sind. Dies betrifft sensible Themen wie Finanzen und Pharma. Das German Posting Filter Plugin erm\u00f6glicht es Ihnen, trotzdem \u00fcber diese Themen zu bloggen, w\u00e4hrend Sie die Sichtbarkeit in der DACH-Region steuern.<\/p>\n<h3>Hauptfunktionen<\/h3>\n<ul>\n<li>\n<p>&#8221;&#8217;Selektive Beitragskontrolle:&#8221;&#8217; W\u00e4hlen Sie bestimmte Artikel aus und beschr\u00e4nken Sie den Zugriff f\u00fcr Benutzende aus der deutschsprachigen DACH-Region. Sch\u00fctzen Sie sensible Inhalte, die in Deutschland m\u00f6glicherweise verboten sind, in anderen L\u00e4ndern jedoch akzeptabel sind.<\/p>\n<\/li>\n<li>\n<p>&#8221;&#8217;L\u00e4nderausschluss:&#8221;&#8217; Passen Sie Ihren Ausschluss von Inhalten an, indem Sie aus verschiedenen deutschsprachigen L\u00e4ndern ausw\u00e4hlen. Legen Sie einen Standardtext und ein Bild fest, das f\u00fcr Benutzende aus diesen L\u00e4ndern angezeigt wird.<\/p>\n<\/li>\n<\/ul>\n<h3>Anwendungshinweise<\/h3>\n<ol>\n<li>\n<p>&#8221;&#8217;Herunterladen und Installieren:&#8221;&#8217; Laden Sie das Plugin herunter und installieren Sie es \u00fcber Ihr WordPress-Dashboard. Aktivieren Sie das Plugin nach der Installation.<\/p>\n<\/li>\n<li>\n<p>&#8221;&#8217;Einstellungen konfigurieren:&#8221;&#8217; Navigieren Sie zum WordPress-Admin-Bereich, klicken Sie auf &#8220;Einstellungen&#8221; &gt; &#8220;German Posting&#8221; und geben Sie Ihren API-Schl\u00fcssel von IPinfo.io ein. Haben Sie noch keinen API-Schl\u00fcssel? Kein Problem! Befolgen Sie die Richtlinien im Plugin f\u00fcr weitere Anweisungen. Es ist kostenlos (Stand Oktober 2023).<\/p>\n<\/li>\n<li>\n<p>&#8221;&#8217;Anpassung des Filterinhalts:&#8221;&#8217; Geben Sie den gew\u00fcnschten Filterinhalt im Textfeld ein, w\u00e4hlen Sie ein Bild aus oder verwenden Sie das Standardbild.<\/p>\n<\/li>\n<li>\n<p>&#8221;&#8217;Aktivierung der Kontrolle:&#8221;&#8217; Setzen Sie das H\u00e4kchen bei der Option &#8220;German Posting Filter&#8221; in den Artikel-Einstellungen, um den Filter f\u00fcr die ausgew\u00e4hlten Beitr\u00e4ge zu aktivieren.<\/p>\n<\/li>\n<\/ol>\n<h3>Wichtiger Hinweis<\/h3>\n<ul>\n<li>Bitte beachten Sie, dass dieses Plugin bis zu 50.000 API-Aufrufe pro Monat unterst\u00fctzt.<\/li>\n<\/ul>\n<h3>Lizenz<\/h3>\n<p>GNU General Public License v2<\/p>\n<p>Bereit, mehr Kontrolle \u00fcber Ihre WordPress-Inhalte zu haben? Laden Sie das German Posting Filter Plugin jetzt herunter und aktivieren Sie es!<\/p>\n<h3>English Version<\/h3>\n<h3>Introduction to the German Posting Filter Plugin<\/h3>\n<p>Do you want more control over the visibility of your WordPress posts in the German-speaking DACH region? The German Posting Filter Plugin is here to provide you with precise control and customization of your content.<\/p>\n<h3>Why Use This Plugin?<\/h3>\n<p>Often, there are contents you want to post but are not allowed in German-speaking countries. This includes sensitive topics like finance and pharmaceuticals. The German Posting Filter Plugin allows you to blog about these topics while controlling visibility in the DACH region.<\/p>\n<h3>Key Features<\/h3>\n<ul>\n<li>\n<p>&#8221;&#8217;Selective Post Control:&#8221;&#8217; Choose specific articles and restrict access for users from the German-speaking DACH region. Protect sensitive content that may be prohibited in Germany but acceptable in other countries.<\/p>\n<\/li>\n<li>\n<p>&#8221;&#8217;Country Exclusion:&#8221;&#8217; Customize your content exclusion by selecting from various German-speaking countries. Set a default text and image to be displayed for users from these countries.<\/p>\n<\/li>\n<\/ul>\n<h3>Application Notes<\/h3>\n<ol>\n<li>\n<p>&#8221;&#8217;Download and Install:&#8221;&#8217; Download the plugin and install it via your WordPress dashboard. Activate the plugin after installation.<\/p>\n<\/li>\n<li>\n<p>&#8221;&#8217;Configure Settings:&#8221;&#8217; Navigate to the WordPress admin area, click on &#8220;Settings&#8221; &gt; &#8220;German Posting,&#8221; and enter your API key from IPinfo.io. Don&#8217;t have an API key yet? No problem! Follow the guidelines in the plugin for further instructions. It&#8217;s free (as of October 2023).<\/p>\n<\/li>\n<li>\n<p>&#8221;&#8217;Customize Filter Content:&#8221;&#8217; Enter the desired filter content in the text field, choose an image, or use the default image.<\/p>\n<\/li>\n<li>\n<p>&#8221;&#8217;Activate Control:&#8221;&#8217; Check the option &#8220;German Posting Filter&#8221; in the article settings to activate the filter for the selected posts.<\/p>\n<\/li>\n<\/ol>\n<h3>Important Note<\/h3>\n<ul>\n<li>Please note that this plugin supports up to 50,000 API calls per month.<\/li>\n<\/ul>\n<h3>License<\/h3>\n<p>GNU General Public License v2<\/p>\n<p>Ready to have more control over your WordPress content? Download and activate the German Posting Filter Plugin now!<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/german-posting-filter.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/german-posting-filter\/assets\/screenshot-1.png?rev=3026388",
+            "caption": ""
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/german-posting-filter\/assets\/screenshot-2.png?rev=3026388",
+            "caption": ""
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/german-posting-filter\/assets\/screenshot-3.png?rev=3026388",
+            "caption": ""
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/german-posting-filter\/assets\/screenshot-4.png?rev=3027519",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "filter": "filter",
+        "german": "German",
+        "posting": "posting"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/www.paypal.com\/paypalme\/dominiclindner",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/german-posting-filter\/assets\/banner-772x250.png?rev=3026388",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/german-posting-filter\/assets\/icon-256x256.png?rev=3026388",
+        "2x": "https:\/\/ps.w.org\/german-posting-filter\/assets\/icon-256x256.png?rev=3026388"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

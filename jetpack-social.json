@@ -1,0 +1,332 @@
+{
+    "name": "Jetpack Social",
+    "slug": "jetpack-social",
+    "version": "4.2.0",
+    "author": "<a href=\"https:\/\/jetpack.com\/social\/\">Automattic - Jetpack Social team<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/automattic\/",
+    "contributors": {
+        "automattic": {
+            "profile": "https:\/\/profiles.wordpress.org\/automattic\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/687b3bf96c41800814e3b93766444283?s=96&d=monsterid&r=g",
+            "display_name": "Automattic"
+        },
+        "pabline": {
+            "profile": "https:\/\/profiles.wordpress.org\/pabline\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/d46107462e2bd535886ccb965b8ad977?s=96&d=monsterid&r=g",
+            "display_name": "Paul Bunkham (a11n)"
+        },
+        "siddarthan": {
+            "profile": "https:\/\/profiles.wordpress.org\/siddarthan\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/7328e0a2938e42a48fe7ed6a82010025?s=96&d=monsterid&r=g",
+            "display_name": "siddarthan"
+        },
+        "gmjuhasz": {
+            "profile": "https:\/\/profiles.wordpress.org\/gmjuhasz\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/d5635d0f798f2f6c996fc0b7029ba181?s=96&d=monsterid&r=g",
+            "display_name": "Gergely J"
+        },
+        "manzoorwanijk": {
+            "profile": "https:\/\/profiles.wordpress.org\/manzoorwanijk\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/ff0fc68d4d69124a38b4aed217a74ff5?s=96&d=monsterid&r=g",
+            "display_name": "Manzoor Wani (a11n)"
+        },
+        "danielpost": {
+            "profile": "https:\/\/profiles.wordpress.org\/danielpost\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/298f03c1951dba29a1a9b07ee20275e6?s=96&d=monsterid&r=g",
+            "display_name": "Daniel Post"
+        }
+    },
+    "requires": "6.3",
+    "tested": "6.5.2",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 56,
+    "ratings": {
+        "5": 16,
+        "4": 0,
+        "3": 3,
+        "2": 1,
+        "1": 19
+    },
+    "num_ratings": 39,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/jetpack-social\/",
+    "support_threads": 19,
+    "support_threads_resolved": 15,
+    "active_installs": 20000,
+    "downloaded": 382468,
+    "last_updated": "2024-04-11 12:30pm GMT",
+    "added": "2022-05-31",
+    "homepage": "https:\/\/wordpress.org\/plugins\/jetpack-social",
+    "sections": {
+        "description": "<h3>Write once, publish everywhere.<\/h3>\n<p><em>Share up to 30 times per month for free with Jetpack Social, and upgrade to share as many times as you want!<\/em><\/p>\n<p><strong>Grow your following by sharing your content with Jetpack Social!<\/strong><\/p>\n<p>It\u2019s important to publish on both your website &amp; social media in order to reach your whole audience. If you only publish on social media, you\u2019re missing up to 60% of adults on a daily basis. Jetpack Social makes it easy to automatically share your site\u2019s posts on popular social media channels such as Facebook and Tumblr. Increase your audience by engaging your site&#8217;s viewers &amp; your social followers.<\/p>\n<p><strong>Manage all channels from a single hub to save time<\/strong><\/p>\n<p>Don\u2019t have the time to keep up with social media? Jetpack Social pushes your site\u2019s posts and products to all your social media channels in one place, with just a few clicks.<\/p>\n<p><strong>Set it and forget it!<\/strong><\/p>\n<p>Jetpack Social has scheduling tools that allow you to set your posts to publish at the time and day that works for your plan. Schedule your posts in advance so you\u2019re not chained to your desk and publish at the time of day your fans are most engaged on social media.<\/p>\n<p><strong>Social Image Generator<\/strong><\/p>\n<p>With the Jetpack Social Advanced plan, you can have engaging imagery created automatically using the Social Image Generator feature. You can overlay custom text onto your images and choose from a variety of styles to increase engagement on your social posts. Most importantly, you\u2019ll save time by doing it all within the WordPress editor.<\/p>\n<p><strong>Organic Content Sharing<\/strong><\/p>\n<p>Boost your social media engagement with Jetpack Social&#8217;s Organic Content Sharing feature. Research indicates that manually published posts receive 50% more interaction compared to shared links. Our feature allows you to select custom images, videos, and text to share your blog posts as native social media content, enhancing engagement and saving you time. This feature is available with the Jetpack Social Advanced plan only.<\/p>\n",
+        "installation": "<h3>Installation<\/h3>\n<p>The first option is to install Jetpack Social from within your WP Admin.<\/p>\n<ol>\n<li>To begin, click on the Plugins link in the left hand sidebar, then click Add New.<\/li>\n<li>Search for Jetpack Social. The latest version will be in the search results. Click the Install Now button.<\/li>\n<li>Next, click the Activate button. After activating, you can navigate to &#8220;Jetpack \u2192 Social&#8221; in your admin area.<\/li>\n<\/ol>\n<h3>Manual Alternatives<\/h3>\n<p>Alternatively, install Jetpack Social via the plugin directory, or upload the files manually to your server and follow the on-screen instructions.<\/p>\n<h3>With \ud83d\udc9a by Jetpack<\/h3>\n<p>This is just the start!<\/p>\n<p>We are working hard to bring more features and improvements to Jetpack Social. Let us know your thoughts and ideas!<\/p>\n",
+        "faq": "\n<dt id='how%20do%20i%20connect%20to%20social%20networks%3F'>\nHow do I connect to social networks?\n<\/h4>\n<p>\n<p>From your site\u2019s WP Admin:<\/p>\n<ol>\n<li>Navigate to Jetpack \u2192 Social.<\/li>\n<li>Click on the Manage Connections button.<\/li>\n<li>Click Connect next to the social network you want to connect to.<\/li>\n<li>Log in to that social network site and authorize the connection.<\/li>\n<\/ol>\n<p>You can connect to any of the following networks:<\/p>\n<ul>\n<li>Facebook Pages<\/li>\n<li>Tumblr<\/li>\n<li>LinkedIn<\/li>\n<li>Mastodon<\/li>\n<li>Instagram Business<\/li>\n<\/ul>\n<p>After you add a new connection, you have the option to make the connection \u2018global\u2019, meaning it can also be used by any other user on your site who has the ability to publish posts.<\/p>\n<p>To make the connection available to all users, check the box labeled &#8220;Connection available to all administrators, editors, and authors&#8221;.<\/p>\n<\/p>\n<dt id='to%20which%20social%20media%20platforms%20can%20i%20post%20using%20jetpack%20social%3F'>\nTo which social media platforms can I post using Jetpack Social?\n<\/h4>\n<p>\n<p>You can post to Facebook, Instagram Business, Tumblr, Mastodon and Linkedin. We are working hard to increase our social share integrations.<\/p>\n<\/p>\n<dt id='how%20do%20i%20share%20a%20post%20on%20social%20media%20using%20jetpack%20social%3F'>\nHow do I share a post on social media using Jetpack Social?\n<\/h4>\n<p>\n<p>To configure the Publicize options when writing a new post, click the green Jetpack icon at top right of the edit sidebar.<\/p>\n<p>You\u2019ll then see the Publicize options under the <strong>Share this post<\/strong> section, where you can toggle social media connections, connect new services, and write a custom message to be used when your post is shared.<\/p>\n<\/p>\n<dt id='how%20do%20i%20add%20a%20custom%20excerpt%20to%20my%20social%20posts%3F'>\nHow do I add a custom excerpt to my social posts?\n<\/h4>\n<p>\n<p>The easiest way is to use the Custom Message option in the publishing options box prior to publishing your post.<\/p>\n<\/p>\n\n",
+        "changelog": "<h3>4.2.0 &#8211; 2024-04-11<\/h3>\n<h4>Added<\/h4>\n<ul>\n<li>Added functions to display share urls<\/li>\n<li>Added options and UI for link formatting<\/li>\n<li>Added support for comments on Social Notes<\/li>\n<li>Packages: add version tracking for identity-crisis package.<\/li>\n<li>Trigger red bubble notification when bad install is detected<\/li>\n<\/ul>\n<h4>Changed<\/h4>\n<ul>\n<li>Allow multiple paragraphs for Social Notes<\/li>\n<li>Only show custom media picker for normal posts<\/li>\n<li>Only show installation errors on plugins page<\/li>\n<li>Removed the featured image block from the template<\/li>\n<li>Simplified social network selection for post sharing<\/li>\n<li>Updated package dependencies. [#36309] [#36325] [#36585] [#36760] [#36761] [#36775]<\/li>\n<li>Update to the most recent version of Color Studio, 2.6.0.<\/li>\n<li>Update to the most recent version of the @automattic\/calypso-color-schemes package.<\/li>\n<\/ul>\n<h4>Fixed<\/h4>\n<ul>\n<li>Fixed typos<\/li>\n<li>Prevent enqueuing of admin styles on the frontend<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/jetpack-social\/assets\/screenshot-1.png?rev=2938788\"><img src=\"https:\/\/ps.w.org\/jetpack-social\/assets\/screenshot-1.png?rev=2938788\" alt=\"Activate the plugin and get access to your social media connections.\"><\/a><p>Activate the plugin and get access to your social media connections.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/jetpack-social\/assets\/screenshot-2.png?rev=2938788\"><img src=\"https:\/\/ps.w.org\/jetpack-social\/assets\/screenshot-2.png?rev=2938788\" alt=\"Connect your social media accounts.\"><\/a><p>Connect your social media accounts.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/jetpack-social\/assets\/screenshot-3.png?rev=2972672\"><img src=\"https:\/\/ps.w.org\/jetpack-social\/assets\/screenshot-3.png?rev=2972672\" alt=\"Manage and publish to your social accounts via the Editor.\"><\/a><p>Manage and publish to your social accounts via the Editor.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/jetpack-social\/assets\/screenshot-4.png?rev=2734971\"><img src=\"https:\/\/ps.w.org\/jetpack-social\/assets\/screenshot-4.png?rev=2734971\" alt=\"Manage your Jetpack Social and other Jetpack plugins from My Jetpack.\"><\/a><p>Manage your Jetpack Social and other Jetpack plugins from My Jetpack.<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Social Notes is one of the best additions to Jetpack!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/dhansondesigns\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/1eb2b05beab4f7e59cf07fdbacb0aeab?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/1eb2b05beab4f7e59cf07fdbacb0aeab?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/dhansondesigns\/\" class=\"reviewer-name\">Derek Hanson <small>(dhansondesigns)<\/small><\/a> on <span class=\"review-date\">April 10, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I am loving the Jetpack Social Notes update! It could use some features like tags and comments, but overall I really like this addition to my blog. Social Notes make it easy for me to post quick thoughts without investing in full post writing, and having the posts auto publish to my LinkedIn profile have actually boosted engagement and traffic. I recommend trying Jetpack Social Notes.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">excellent support team<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/weboughtthefarm\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/9728e7bfd7d1796d5c72a9d62e5bf680?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/9728e7bfd7d1796d5c72a9d62e5bf680?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/weboughtthefarm\/\" class=\"reviewer-name\">weboughtthefarm<\/a> on <span class=\"review-date\">April 4, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">excellent support in getting my Jetpack system up and running<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/ilaria12\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/1f199a6aca338478135fb4ce7622e8a0?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/1f199a6aca338478135fb4ce7622e8a0?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/ilaria12\/\" class=\"reviewer-name\">ilaria12<\/a> on <span class=\"review-date\">March 3, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">It works and I love that jetpack gives the possibility to create a community over time.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Too bad the missed chance - XML-RPC<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/roicecz\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/08cd905e2a5485b2788e553772604a19?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/08cd905e2a5485b2788e553772604a19?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/roicecz\/\" class=\"reviewer-name\">roicecz<\/a> on <span class=\"review-date\">February 20, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">So I thought I'd give Jepack a social chance and at least appreciate that they finally provide individual functions independently from the juggernaut Jetpack. Unfortunately, Jetpack social sticks to the woefully outdated XML-RPC and simply doesn't work without it. So again it didn't disappoint and nothing changes. Maybe that will change over time with one star reviews.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Gotta Have Twitter for a Paid Service<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/darrenslaughter\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e2b90881737fc1e7b5c356d8f59c1a9d?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e2b90881737fc1e7b5c356d8f59c1a9d?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/darrenslaughter\/\" class=\"reviewer-name\">darrenslaughter<\/a> on <span class=\"review-date\">February 19, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Gotta Have Twitter for a Paid Service<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/agizzie\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/95df6daec6dd1ade20c132a28749ae84?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/95df6daec6dd1ade20c132a28749ae84?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/agizzie\/\" class=\"reviewer-name\">agizzie<\/a> on <span class=\"review-date\">December 11, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Fairly easy to set up and automate your posts within Wordpress and soc med sites.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I had an issue where I was using EA duplicate to duplicate some postsm but the custom message was being duplicated too. Working with Paul from the support on the plugins forum, we discovered the issue and solved it.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">WAY OVER PRICED - ditching WP.<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/hipshot0710\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/3c361ad1d8c9cfd489263f715da8f1b4?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/3c361ad1d8c9cfd489263f715da8f1b4?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/hipshot0710\/\" class=\"reviewer-name\">hipshot0710<\/a> on <span class=\"review-date\">December 8, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">the fee for value is broken. I can re post with a link to the handful of sites I use. ITs not worth the ridiculous cost. When will Jetpack look at TOTAL COST of ownership for their model? <br \/>If I used all teh tools I wanted or needed for a site that is not for profit zero revenue site its crazy. EVEN if I was generating revenue your cost would be the single highest cost for the site. <br \/>Which is why I have gone to substack I no longer use wordpress or your expensive junk<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Does not function<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/itarendus\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b66b1fa5424bf6f545ec103796bec8c1?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b66b1fa5424bf6f545ec103796bec8c1?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/itarendus\/\" class=\"reviewer-name\">itarendus<\/a> on <span class=\"review-date\">July 30, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">\"Unable to share the Post\" is all i get when attempting although accounts FB, IG are properly connected. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">30 free shares? Really?<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/bviadmin\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/0ab9255f138c124c01e945e4a4898e69?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/0ab9255f138c124c01e945e4a4898e69?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/bviadmin\/\" class=\"reviewer-name\">bviadmin<\/a> on <span class=\"review-date\">July 27, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">30 free shares a month? Or more than 100 \u20ac per year for sharing posts to facebook? It's a joke and now it's enough! Jetpack has been disconnected at our Wordpress-blog.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">No funciona<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/entumas\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/40cddeb2855b5160b159af142cf793de?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/40cddeb2855b5160b159af142cf793de?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/entumas\/\" class=\"reviewer-name\">entumas<\/a> on <span class=\"review-date\">June 13, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Plugin configurado con los permisos a Linkedin y Facebook otorgados, pero no se comparten los posts.<br \/>Una decepci\u00f3n.<br \/><\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Write once, publish everywhere. Reach your target audience by sharing your content with Jetpack Social!",
+    "description": "<h3>Write once, publish everywhere.<\/h3>\n<p><em>Share up to 30 times per month for free with Jetpack Social, and upgrade to share as many times as you want!<\/em><\/p>\n<p><strong>Grow your following by sharing your content with Jetpack Social!<\/strong><\/p>\n<p>It\u2019s important to publish on both your website &amp; social media in order to reach your whole audience. If you only publish on social media, you\u2019re missing up to 60% of adults on a daily basis. Jetpack Social makes it easy to automatically share your site\u2019s posts on popular social media channels such as Facebook and Tumblr. Increase your audience by engaging your site&#8217;s viewers &amp; your social followers.<\/p>\n<p><strong>Manage all channels from a single hub to save time<\/strong><\/p>\n<p>Don\u2019t have the time to keep up with social media? Jetpack Social pushes your site\u2019s posts and products to all your social media channels in one place, with just a few clicks.<\/p>\n<p><strong>Set it and forget it!<\/strong><\/p>\n<p>Jetpack Social has scheduling tools that allow you to set your posts to publish at the time and day that works for your plan. Schedule your posts in advance so you\u2019re not chained to your desk and publish at the time of day your fans are most engaged on social media.<\/p>\n<p><strong>Social Image Generator<\/strong><\/p>\n<p>With the Jetpack Social Advanced plan, you can have engaging imagery created automatically using the Social Image Generator feature. You can overlay custom text onto your images and choose from a variety of styles to increase engagement on your social posts. Most importantly, you\u2019ll save time by doing it all within the WordPress editor.<\/p>\n<p><strong>Organic Content Sharing<\/strong><\/p>\n<p>Boost your social media engagement with Jetpack Social&#8217;s Organic Content Sharing feature. Research indicates that manually published posts receive 50% more interaction compared to shared links. Our feature allows you to select custom images, videos, and text to share your blog posts as native social media content, enhancing engagement and saving you time. This feature is available with the Jetpack Social Advanced plan only.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.4.2.0.zip",
+    "upgrade_notice": {
+        "3.0.0": "<p>Required for compatibility with Jetpack 12.9 and later.<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/jetpack-social\/assets\/screenshot-1.png?rev=2938788",
+            "caption": "Activate the plugin and get access to your social media connections."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/jetpack-social\/assets\/screenshot-2.png?rev=2938788",
+            "caption": "Connect your social media accounts."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/jetpack-social\/assets\/screenshot-3.png?rev=2972672",
+            "caption": "Manage and publish to your social accounts via the Editor."
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/jetpack-social\/assets\/screenshot-4.png?rev=2734971",
+            "caption": "Manage your Jetpack Social and other Jetpack plugins from My Jetpack."
+        }
+    },
+    "tags": {
+        "publicize": "publicize",
+        "social-marketing": "Social Marketing",
+        "social-media": "social media",
+        "social-media-manager": "social media manager",
+        "social-networking": "social networking"
+    },
+    "stable_tag": "4.2.0",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.1.0.0.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.1.1.0.zip",
+        "1.10.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.1.10.0.zip",
+        "1.11.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.1.11.0.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.1.2.0.zip",
+        "1.3.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.1.3.0.zip",
+        "1.4.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.1.4.0.zip",
+        "1.4.1": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.1.4.1.zip",
+        "1.4.2": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.1.4.2.zip",
+        "1.5.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.1.5.0.zip",
+        "1.5.1": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.1.5.1.zip",
+        "1.6.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.1.6.0.zip",
+        "1.7.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.1.7.0.zip",
+        "1.8.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.1.8.0.zip",
+        "1.9.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.1.9.0.zip",
+        "1.9.1": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.1.9.1.zip",
+        "2.0.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.2.0.0.zip",
+        "2.1.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.2.1.0.zip",
+        "2.2.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.2.2.0.zip",
+        "2.3.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.2.3.0.zip",
+        "3.0.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.3.0.0.zip",
+        "4.0.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.4.0.0.zip",
+        "4.1.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.4.1.0.zip",
+        "4.2.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.4.2.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-social.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/jetpack-social\/assets\/banner-772x250.png?rev=2778707",
+        "high": "https:\/\/ps.w.org\/jetpack-social\/assets\/banner-1544x500.png?rev=2778707"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/jetpack-social\/assets\/icon.svg?rev=2822276",
+        "svg": "https:\/\/ps.w.org\/jetpack-social\/assets\/icon.svg?rev=2822276"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": "6",
+    "author_block_rating": 93.68421052631601,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "ar",
+            "version": "4.2.0",
+            "updated": "2024-02-28 13:53:05",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/ar.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "cy",
+            "version": "4.2.0",
+            "updated": "2024-02-28 11:00:26",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/cy.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "de_DE",
+            "version": "4.2.0",
+            "updated": "2024-02-28 13:55:53",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "es_ES",
+            "version": "4.2.0",
+            "updated": "2024-03-07 16:50:41",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "fr_FR",
+            "version": "4.2.0",
+            "updated": "2024-02-28 13:51:13",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "gl_ES",
+            "version": "4.2.0",
+            "updated": "2024-03-07 17:43:11",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/gl_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "he_IL",
+            "version": "4.2.0",
+            "updated": "2024-02-28 13:51:38",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/he_IL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "id_ID",
+            "version": "4.2.0",
+            "updated": "2024-02-28 13:54:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/id_ID.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "it_IT",
+            "version": "4.2.0",
+            "updated": "2024-02-28 13:53:31",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "ja",
+            "version": "4.2.0",
+            "updated": "2024-02-28 13:50:25",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/ja.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "ko_KR",
+            "version": "4.2.0",
+            "updated": "2024-02-28 13:54:51",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/ko_KR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "nb_NO",
+            "version": "4.2.0",
+            "updated": "2024-04-11 23:45:37",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/nb_NO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "nl_NL",
+            "version": "4.2.0",
+            "updated": "2024-03-07 16:49:10",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "nl_BE",
+            "version": "4.2.0",
+            "updated": "2024-03-07 16:49:11",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/nl_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "pt_BR",
+            "version": "4.2.0",
+            "updated": "2024-02-28 13:52:16",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/pt_BR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "ro_RO",
+            "version": "4.2.0",
+            "updated": "2024-04-11 15:24:54",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/ro_RO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "ru_RU",
+            "version": "4.2.0",
+            "updated": "2023-12-06 15:02:09",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "sq",
+            "version": "4.2.0",
+            "updated": "2024-03-08 14:08:32",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/sq.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "sv_SE",
+            "version": "4.2.0",
+            "updated": "2024-03-07 16:55:04",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/sv_SE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "tr_TR",
+            "version": "4.2.0",
+            "updated": "2024-02-28 13:52:41",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/tr_TR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "uk",
+            "version": "4.2.0",
+            "updated": "2024-04-11 06:25:49",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/uk.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "zh_CN",
+            "version": "4.2.0",
+            "updated": "2024-02-28 13:53:55",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/zh_CN.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-social",
+            "language": "zh_TW",
+            "version": "4.2.0",
+            "updated": "2024-02-28 13:50:50",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-social\/4.2.0\/zh_TW.zip"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "name": "Simple Googlebot Visit",
+    "slug": "simple-googlebot-visit",
+    "version": "1.2.5",
+    "author": "<a href=\"https:\/\/codents.net\">Codents<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/codents\/",
+    "contributors": {
+        "codents": {
+            "profile": "https:\/\/profiles.wordpress.org\/codents\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/1ed29650ba28a2b8cdc2a469ff30e14b?s=96&d=monsterid&r=g",
+            "display_name": "codents"
+        },
+        "alejandrodiegoo": {
+            "profile": "https:\/\/profiles.wordpress.org\/alejandrodiegoo\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/f133eb0f1878bc17af91552aee7de460?s=96&d=monsterid&r=g",
+            "display_name": "alejandrodiegoo"
+        }
+    },
+    "requires": "3.0.1",
+    "tested": "6.0.8",
+    "requires_php": "5.5",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 94,
+    "ratings": {
+        "5": 14,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 1
+    },
+    "num_ratings": 15,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/simple-googlebot-visit\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 1000,
+    "downloaded": 12033,
+    "last_updated": "2024-02-02 9:47pm GMT",
+    "added": "2020-05-09",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Simple Googlebot Visit is a plugin that lets you know at all times the last time that the googlebot visited any of your content. This is important because it is in charge of indexing all your pages and showing them in the search results of Google.<\/p>\n<p>Thanks to Simple Googlebot Visit you have this valuable information integrated into your WordPress administration panel, without having to integrate tools such as Search Console.<\/p>\n",
+        "installation": "<ol>\n<li>Install Simple Googlebot Visit either via the WordPress.org plugin repository or by uploading the files to your server.<\/li>\n<li>Activate Simple Googlebot Visit.<\/li>\n<li>Navigate to the Simple Googlebot Visit tab (inside setting) and define in which tables you want the Simple Googlebot Visit column to appear.<\/li>\n<li>Navigate to the management pages where the column of Simple Googlebot Visit is activated and check the last googlebot visit.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='who%20should%20use%20simple%20googlebot%20visit%3F'>\nWho should use Simple Googlebot Visit?\n<\/h4>\n<p>\n<p>Simple Googlebot Visit is perfect for business owners, bloggers, designers, developers, photographers, and basically everyone else. If you care about SEO, Simple Googlebot Visit is one more tool for your fight.<\/p>\n<\/p>\n<dt id='how%20is%20the%20data%20collected%3F'>\nHow is the data collected?\n<\/h4>\n<p>\n<p>Simple Googlebot Visit does not consume any third party services. The data is collected on each googlebot visit. For this reason it&#8217;s possible that you will not see any visit reflected until after a few hours.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.2.5<\/h4>\n<ul>\n<li>Applied wordpress reviewers suggestions to avoid vulnerabilities.<\/li>\n<\/ul>\n<h4>1.2.4<\/h4>\n<ul>\n<li>Added compatibility with WordPress 6.0.1.<\/li>\n<\/ul>\n<h4>1.2.3<\/h4>\n<ul>\n<li>Added compatibility with WordPress 5.9.<\/li>\n<\/ul>\n<h4>1.2.2<\/h4>\n<ul>\n<li>Fixed bug with version 8 of PHP.<\/li>\n<\/ul>\n<h4>1.2.1<\/h4>\n<ul>\n<li>Added compatibility with WordPress 5.7.2.<\/li>\n<\/ul>\n<h4>1.2.0<\/h4>\n<ul>\n<li>Added support for custom post types.<\/li>\n<\/ul>\n<h4>1.1.0<\/h4>\n<ul>\n<li>Added support for woocommerce products.<\/li>\n<li>Added translations for spanish (Spain).<\/li>\n<li>Updated database table structure to add terms in future updates.<\/li>\n<li>Fixed post type error.<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Initial release.<\/li>\n<\/ul>\n<p><a href=\"https:\/\/plugins.svn.wordpress.org\/simple-googlebot-visit\/trunk\/changelog.txt\" rel=\"nofollow ugc\">See changelog for all versions<\/a>.<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/simple-googlebot-visit\/assets\/screenshot-1.png?rev=2355118\"><img src=\"https:\/\/ps.w.org\/simple-googlebot-visit\/assets\/screenshot-1.png?rev=2355118\" alt=\"Settings form.\"><\/a><p>Settings form.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/simple-googlebot-visit\/assets\/screenshot-2.png?rev=2355118\"><img src=\"https:\/\/ps.w.org\/simple-googlebot-visit\/assets\/screenshot-2.png?rev=2355118\" alt=\"Last visits view.\"><\/a><p>Last visits view.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/simple-googlebot-visit\/assets\/screenshot-3.png?rev=2355118\"><img src=\"https:\/\/ps.w.org\/simple-googlebot-visit\/assets\/screenshot-3.png?rev=2355118\" alt=\"Simple Googlebot Visit column.\"><\/a><p>Simple Googlebot Visit column.<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excellent!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/laserstore\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/08580cd22e317aab76c6652709233c96?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/08580cd22e317aab76c6652709233c96?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/laserstore\/\" class=\"reviewer-name\">laserstore<\/a> on <span class=\"review-date\">February 3, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Thanks for this plugin. It's an excellent job!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Perfecto<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/martingarcia001\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/5d28bddbf40461190726e76520aba1d6?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/5d28bddbf40461190726e76520aba1d6?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/martingarcia001\/\" class=\"reviewer-name\">martingarcia001<\/a> on <span class=\"review-date\">March 12, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Buen plugin para saber cuando te visita el bot de google por \u00faltima vez.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Very good plugin and useful<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/zepolo\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d21548a94e73bbf60e2f70557dcb5f9e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d21548a94e73bbf60e2f70557dcb5f9e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/zepolo\/\" class=\"reviewer-name\">zepolo<\/a> on <span class=\"review-date\">February 4, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Show us what pages Google has visited on our websites by date and time (for every page and post and on plugin admin)<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Doesnt work<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/hippypink\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e9432c5ed3a0a5239487abdafff086eb?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e9432c5ed3a0a5239487abdafff086eb?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/hippypink\/\" class=\"reviewer-name\">john smith <small>(hippypink)<\/small><\/a> on <span class=\"review-date\">September 20, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">I compared the reports with actual log files. They do not match up at all, checking for several days. I do not know why. <\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u00datil para SEO<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jorgecasttt\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/2762d726bb70c60ff4d5b2e909904735?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/2762d726bb70c60ff4d5b2e909904735?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jorgecasttt\/\" class=\"reviewer-name\">jorgecasttt<\/a> on <span class=\"review-date\">February 22, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Est\u00e1 genial saber cu\u00e1ndo se han indexado mis p\u00e1ginas.<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Remove the guesswork !<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/totallyminimad\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f68578de3bd9a28001cc3003cf80131b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f68578de3bd9a28001cc3003cf80131b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/totallyminimad\/\" class=\"reviewer-name\">totallyminimad<\/a> on <span class=\"review-date\">July 24, 2021<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Quickly and easily tells you what pages Google has visited on your site by date and time. Great tool for the SEO toolkit!<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Usefull!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mauri01\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/01b0006ea4148dbf8b7210a46f2eb298?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/01b0006ea4148dbf8b7210a46f2eb298?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mauri01\/\" class=\"reviewer-name\">mauri01<\/a> on <span class=\"review-date\">March 25, 2021<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">No need to wait for google search console or doing site:xxx.com request on google.\nOr even dig in server log files.\nThanks!<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Simple and useful<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/yeca\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/8db3b254398e85469a4ad26aa2e8b459?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/8db3b254398e85469a4ad26aa2e8b459?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/yeca\/\" class=\"reviewer-name\">yeca<\/a> on <span class=\"review-date\">February 1, 2021<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Easy to use and to setup, it's useful to follow Google bots<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Muy \u00fatil para seguir la indexaci\u00f3n de tus p\u00e1ginas<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/alejandrodiegoo\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f133eb0f1878bc17af91552aee7de460?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f133eb0f1878bc17af91552aee7de460?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/alejandrodiegoo\/\" class=\"reviewer-name\">alejandrodiegoo<\/a> on <span class=\"review-date\">January 31, 2021<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Desarroll\u00e9 este plugin para saber cuando googlebot pasaba por mis urls. Me gustar\u00eda seguir mejor\u00e1ndolo. As\u00ed que cualquier sugerencia es bienvenida.<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Buen plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/antbravo\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/df5b66890ef1d1eec7b09c9b0028e31c?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/df5b66890ef1d1eec7b09c9b0028e31c?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/antbravo\/\" class=\"reviewer-name\">antbravo<\/a> on <span class=\"review-date\">November 3, 2020<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Cumple lo que promete.<\/div>\n<\/div>\n"
+    },
+    "short_description": "Plugin to view the last visit of googlebot to your pages, entries and woocommerce products.",
+    "description": "<p>Simple Googlebot Visit is a plugin that lets you know at all times the last time that the googlebot visited any of your content. This is important because it is in charge of indexing all your pages and showing them in the search results of Google.<\/p>\n<p>Thanks to Simple Googlebot Visit you have this valuable information integrated into your WordPress administration panel, without having to integrate tools such as Search Console.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/simple-googlebot-visit.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/simple-googlebot-visit\/assets\/screenshot-1.png?rev=2355118",
+            "caption": "Settings form."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/simple-googlebot-visit\/assets\/screenshot-2.png?rev=2355118",
+            "caption": "Last visits view."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/simple-googlebot-visit\/assets\/screenshot-3.png?rev=2355118",
+            "caption": "Simple Googlebot Visit column."
+        }
+    },
+    "tags": {
+        "google": "google",
+        "googlebot": "googlebot",
+        "indexation": "indexation",
+        "pages": "pages",
+        "seo": "seo"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/codents.net",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/simple-googlebot-visit\/assets\/banner-772x250.png?rev=2307112",
+        "high": "https:\/\/ps.w.org\/simple-googlebot-visit\/assets\/banner-1544x500.png?rev=2355118"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/simple-googlebot-visit\/assets\/icon-128x128.png?rev=2307067",
+        "2x": "https:\/\/ps.w.org\/simple-googlebot-visit\/assets\/icon-256x256.png?rev=2307067"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 94,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "simple-googlebot-visit",
+            "language": "es_CO",
+            "version": "1.2.5",
+            "updated": "2024-03-06 00:40:07",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/simple-googlebot-visit\/1.2.5\/es_CO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "simple-googlebot-visit",
+            "language": "es_EC",
+            "version": "1.2.5",
+            "updated": "2021-01-31 09:00:03",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/simple-googlebot-visit\/1.2.5\/es_EC.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "simple-googlebot-visit",
+            "language": "es_ES",
+            "version": "1.2.5",
+            "updated": "2021-01-31 08:57:48",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/simple-googlebot-visit\/1.2.5\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "simple-googlebot-visit",
+            "language": "es_VE",
+            "version": "1.2.5",
+            "updated": "2021-01-31 08:58:14",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/simple-googlebot-visit\/1.2.5\/es_VE.zip"
+        }
+    ]
+}

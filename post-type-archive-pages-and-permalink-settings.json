@@ -1,0 +1,83 @@
+{
+    "name": "Post Type and Taxonomy Archive Pages",
+    "slug": "post-type-archive-pages-and-permalink-settings",
+    "version": "1.0",
+    "author": "<a href=\"https:\/\/pixelsaft.wtf\">Timo Hubois<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/timohubois\/",
+    "contributors": {
+        "timohubois": {
+            "profile": "https:\/\/profiles.wordpress.org\/timohubois\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/fd11f11b05f598ee7ce211f525d4601a?s=96&d=monsterid&r=g",
+            "display_name": "Timo"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.4.4",
+    "requires_php": "8.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/post-type-archive-pages-and-permalink-settings\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 160,
+    "last_updated": "2024-03-04 7:14pm GMT",
+    "added": "2024-03-04",
+    "homepage": "https:\/\/github.com\/timohubois\/post-type-and-taxonomy-archive-pages\/",
+    "sections": {
+        "description": "<p>Post Type and Taxonomy Archive Pages enables to select a page that should interact as archive for custom post types. It also enables to change the slug for custom post type single pages or custom taxonomies.<\/p>\n<p>The Plugin extends the native <strong>Reading<\/strong> and <strong>Permalinks<\/strong> settings pages:<\/p>\n<ul>\n<li>Settings &gt; <strong>Reading<\/strong> &gt; Adds a section to select a page which should interact as archive for a custom post type.<\/li>\n<li>Settings &gt; <strong>Permalinks<\/strong> &gt; Adds a section to change the slug for custom post types and custom taxonomies.<\/li>\n<\/ul>\n<h3>Want to contribute?<\/h3>\n<p>Check out the Plugin <a href=\"https:\/\/github.com\/timohubois\/archive-pages-and-permalink-settings-for-post-types-and-taxonomies\/\" rel=\"nofollow ugc\">GitHub Repository<\/a>.<\/p>\n",
+        "installation": "<h4>INSTALL WITHIN WORDPRESS<\/h4>\n<p>(recommended)<\/p>\n<ol>\n<li>Open <strong>Plugins &gt; Add new<\/strong><\/li>\n<li>Search for <strong>Post Type and Taxonomy Archive Pages<\/strong><\/li>\n<li>Click <strong>install and activate<\/strong> the plugin<\/li>\n<\/ol>\n<h4>INSTALL MANUALLY THROUGH FTP<\/h4>\n<ol>\n<li>Download the plugin on the WordPress plugin page<\/li>\n<li>Upload the \u2018archive-pages-and-permalink-settings-for-post-types-and-taxonomies\u2019 folder to the \/wp-content\/plugins\/ directory<\/li>\n<li>Activate the plugin through the \u2018Plugins\u2019 menu in WordPress<\/li>\n<\/ol>\n",
+        "changelog": "<h4>1.0<\/h4>\n<ul>\n<li>Initial Release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/post-type-archive-pages-and-permalink-settings\/assets\/screenshot-1.png?rev=3044980\"><img src=\"https:\/\/ps.w.org\/post-type-archive-pages-and-permalink-settings\/assets\/screenshot-1.png?rev=3044980\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/post-type-archive-pages-and-permalink-settings\/assets\/screenshot-2.png?rev=3044980\"><img src=\"https:\/\/ps.w.org\/post-type-archive-pages-and-permalink-settings\/assets\/screenshot-2.png?rev=3044980\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Set the archive for your custom post types to display it on a specific page and control the permalinks of custom post type single pages and custom tax &hellip;",
+    "description": "<p>Post Type and Taxonomy Archive Pages enables to select a page that should interact as archive for custom post types. It also enables to change the slug for custom post type single pages or custom taxonomies.<\/p>\n<p>The Plugin extends the native <strong>Reading<\/strong> and <strong>Permalinks<\/strong> settings pages:<\/p>\n<ul>\n<li>Settings &gt; <strong>Reading<\/strong> &gt; Adds a section to select a page which should interact as archive for a custom post type.<\/li>\n<li>Settings &gt; <strong>Permalinks<\/strong> &gt; Adds a section to change the slug for custom post types and custom taxonomies.<\/li>\n<\/ul>\n<h3>Want to contribute?<\/h3>\n<p>Check out the Plugin <a href=\"https:\/\/github.com\/timohubois\/archive-pages-and-permalink-settings-for-post-types-and-taxonomies\/\" rel=\"nofollow ugc\">GitHub Repository<\/a>.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/post-type-archive-pages-and-permalink-settings.1.0.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/post-type-archive-pages-and-permalink-settings\/assets\/screenshot-1.png?rev=3044980",
+            "caption": ""
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/post-type-archive-pages-and-permalink-settings\/assets\/screenshot-2.png?rev=3044980",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "archives": "archives",
+        "custom-post-types": "custom post types",
+        "custom-taxonomy": "custom taxonomy",
+        "permalink": "permalink"
+    },
+    "stable_tag": "1.0",
+    "versions": {
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/post-type-archive-pages-and-permalink-settings.1.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/post-type-archive-pages-and-permalink-settings.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "default": "https:\/\/s.w.org\/plugins\/geopattern-icon\/post-type-archive-pages-and-permalink-settings.svg"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

@@ -1,0 +1,279 @@
+{
+    "name": "Advanced Columns Block: Layout builder",
+    "slug": "advanced-columns-block",
+    "version": "1.0.20",
+    "author": "<a href=\"https:\/\/justevolve.it\">Evolve<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/evolvesnc\/",
+    "contributors": {
+        "evolvesnc": {
+            "profile": "https:\/\/profiles.wordpress.org\/evolvesnc\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3f2c1d4146379e1a656da1f12d39c06d?s=96&d=monsterid&r=g",
+            "display_name": "Evolve"
+        },
+        "andg": {
+            "profile": "https:\/\/profiles.wordpress.org\/andg\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3aa5db6e855cf78f99f170390fb90ffc?s=96&d=monsterid&r=g",
+            "display_name": "Andrea Gandino"
+        },
+        "simo_m": {
+            "profile": "https:\/\/profiles.wordpress.org\/simo_m\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/022a1449d14edfdba3f532d99525fc43?s=96&d=monsterid&r=g",
+            "display_name": "Simone Maranzana"
+        }
+    },
+    "requires": "6.0",
+    "tested": "6.5.2",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/advanced-columns-block\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 10,
+    "downloaded": 1104,
+    "last_updated": "2024-04-15 1:59pm GMT",
+    "added": "2024-01-23",
+    "homepage": "https:\/\/advancedcolumns.com",
+    "sections": {
+        "description": "<p>The professional plugin for responsive layout management in WordPress.<\/p>\n<p>Built on the CSS grid foundation, the Advanced Columns plugin is the most powerful and flexible layout builder block for WordPress.<\/p>\n<p><a href=\"https:\/\/advancedcolumns.com\/\" rel=\"nofollow ugc\">Official website<\/a> | <a href=\"https:\/\/advancedcolumns.com\/docs\/\" rel=\"nofollow ugc\">Browse the documentation<\/a><\/p>\n<h3>The best plugin for Designers<\/h3>\n<p>The Advanced Columns block for WordPress offers designers an intuitive drag-and-drop interface, customizable media queries, and exceptional flexibility.<\/p>\n<p>It simplifies the creation of beautiful, responsive layouts, allowing you to concentrate on the creative aspect of design rather than getting bogged down by technicalities.<\/p>\n<h3>Easy to use drag &amp; drop interface<\/h3>\n<p>Our user-friendly drag-and-drop interface simplifies the layout generation by providing a consistent grid structure ensuring dimension predictability.<\/p>\n<p>With just a few clicks, you can easily create complex column systems, eliminating the need for custom CSS. This streamlines the design process, saving you time and eliminating guesswork.<\/p>\n<h3>Quick presets for instant layout changes<\/h3>\n<p>We&#8217;ve created quick presets as a tool to streamline extensive layout adjustments. With just one click on a standard layout preset, you can simultaneously modify the size and position of multiple columns in bulk.<\/p>\n<p>This becomes especially valuable when you&#8217;re editing a specific breakpoint, significantly reducing editing time.<\/p>\n<h3>Comprehensive columns appearance controls<\/h3>\n<p>Columns are designer to offer extensive customization options, aiming to minimize the necessity of creating custom CSS for your projects. You can customize the background by adding images, videos (soon), or colors, and apply overlays in the form of solid colors or gradients, and everything can be adjusted at each breakpoint to suit your requirements.<\/p>\n<h3>Precise control of the dimensions<\/h3>\n<p>Each dimension field accommodates multiple unit values, and we&#8217;ve included specific fields for directional dimensions like padding and margin. You can either adjust all axes together or edit individual directions.<\/p>\n<p>Pro version users can also enable WordPress spacing values from the theme.json file.<\/p>\n<h3>Breakpoints for precise editing<\/h3>\n<p>The plugin&#8217;s customizable responsive breakpoint system empowers you to fine-tune every element of your layout, whether it&#8217;s altering padding or repositioning columns within the grid layout.<\/p>\n<p>With Advanced Columns, effective layout management becomes effortless, as it enables the creation of sophisticated and professional layouts without the need for custom CSS coding.<\/p>\n<h3>Plugin standard features<\/h3>\n<ul>\n<li><strong>Drag &amp; drop interface<\/strong> \u2013 Edit your content directly in the Block Editor.<\/li>\n<li><strong>Media Queries support<\/strong> \u2013 Perfectly define the breakpoints of your project.<\/li>\n<li><strong>Customizable columns and rows<\/strong> \u2013 Create grids exactly the way you want.<\/li>\n<li><strong>Background image support<\/strong> \u2013 The perfect decoration for your content.<\/li>\n<li><strong>Solid color or gradient overlay<\/strong> \u2013 Fine tune the appearance of your backgrounds.<\/li>\n<li><strong>Quick presets<\/strong> \u2013 Apply commonly-used layouts with just a click.<\/li>\n<li><strong>Precise spacing controls<\/strong> \u2013 Control every detail.<\/li>\n<li><strong>Single columns z-index control<\/strong> \u2013 Place content on top of everything else.<\/li>\n<\/ul>\n<h3>For Developers by Developers<\/h3>\n<p>Developers are in our hearts. We thoughtfully crafted our plugin with a focus on solid principles, ensuring a professional and enjoyable experience for developers. Advanced Columns is extensible, secure and optimized: from the development point of view, this plugin has got your back.<\/p>\n<p><a href=\"https:\/\/advancedcolumns.com\/docs\/\" rel=\"nofollow ugc\">Browse the documentation<\/a><\/p>\n<h3>Perfectly defined breakpoints<\/h3>\n<p>By adopting the CSS syntax for Media Queries, you&#8217;re free to define and manage your breakpoints however you like, and not be limited to the concept of the viewport width.<\/p>\n<p>With this approach, you&#8217;ll be able to add vertical Media Queries as well, or play around with Preference Queries, and even modify a block visual representation depending on a light\/dark mode.<\/p>\n<p>Excited? So are we! And to think that we are planning to bring Container Queries to the table in a future update\u2026<\/p>\n<h3>Extensible, future-proof and optimized<\/h3>\n<p>As developers, we like having control. That&#8217;s why, through various hooks and filters, Advanced Columns provides you with all the tools you need to extend the plugin as you please.<\/p>\n<p>We prioritize flexibility, and Advanced Columns, with its robust data structure, is a versatile solution that simplifies idea implementation. You know what else we like? Speed! All these goodies are backed up by an optimized platform that has performance at its core.<\/p>\n<h3>Dynamically generated backgrounds markup<\/h3>\n<p>Both images and videos can be set as backgrounds for our columns blocks. But what about the behavior of a background image? Should it be applied as a CSS background, or should it be an actual image tag, for SEO and crawling purposes?<\/p>\n<p>Well, in Advanced Columns you have both options, so the only thing left to do will be to pick the perfect one!<\/p>\n<h3>Built on the foundations of CSS Grid<\/h3>\n<p>Advanced Columns runs on CSS Grid. With such a powerful foundation, there are no limits to what you can build.<\/p>\n<p>Since column blocks templates are dynamically rendered, styles are dynamically processed too, and are inlined in page only when you actually need them: this way, your pages will perform better in speed tests, and put you in control of their output.<\/p>\n<h3>The solution for the next generation of themes<\/h3>\n<p>Advanced Columns integrates seamlessly with Block Themes: this means that you&#8217;ll be able to modify your theme&#8217;s theme.json file and instantly see those changes reflected on our blocks&#8217; controls. Take borders, spacing values, or even colors for example: Advanced Columns will work as one with your theme!<\/p>\n<h3>Where to start<\/h3>\n<ul>\n<li><a href=\"https:\/\/advancedcolumns.com\/docs\/getting-started\/\" rel=\"nofollow ugc\">Create your first layout<\/a><\/li>\n<li><a href=\"https:\/\/advancedcolumns.com\/docs\/columns\/\" rel=\"nofollow ugc\">Columns functionality<\/a><\/li>\n<li><a href=\"https:\/\/advancedcolumns.com\/docs\/column\/\" rel=\"nofollow ugc\">Single column functionality<\/a><\/li>\n<li><a href=\"https:\/\/advancedcolumns.com\/docs\/theme-supports\/\" rel=\"nofollow ugc\">Theme supports<\/a><\/li>\n<li><a href=\"https:\/\/advancedcolumns.com\/docs\/settings\/media-queries\/\" rel=\"nofollow ugc\">Media queries configuration<\/a><\/li>\n<\/ul>\n<h3>Liked Advanced Columns?<\/h3>\n<p>Follow us on <a href=\"https:\/\/twitter.com\/advancedcolumns\" rel=\"nofollow ugc\">Twitter<\/a><br \/>\nVisit the <a href=\"https:\/\/advancedcolumns.com\" rel=\"nofollow ugc\">official website<\/a><\/p>\n",
+        "installation": "<ol>\n<li>Upload the plugin files to the <code>\/wp-content\/plugins\/advanced-columns-block<\/code> directory, or install the plugin through the WordPress plugins screen directly.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; screen in WordPress<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='does%20it%20work%20on%20any%20theme%3F'>\nDoes it work on any theme?\n<\/h4>\n<p>\n<p>Advanced Columns is a plugin designed for the new WordPress Block Editor and can work with any theme that supports it.<\/p>\n<\/p>\n<dt id='what%20features%20will%20be%20added%20in%20the%20future%3F'>\nWhat features will be added in the future?\n<\/h4>\n<p>\n<p>We have a lot of things planned already, and some other ideas that we&#8217;d like to add to the plugin. Some of these are already outlined in the &#8220;Pro features&#8221; section of the <a href=\"https:\/\/advancedcolumns.com\" rel=\"nofollow ugc\">advancedcolumns.com<\/a> website, and a more detailed roadmap will be released soon.<\/p>\n<\/p>\n<dt id='when%20will%20the%20pro%20version%20be%20released%3F'>\nWhen will the Pro version be released?\n<\/h4>\n<p>\n<p>We haven&#8217;t planned a release date yet, but if you&#8217;d like to be notified as soon as we are ready to announce the Pro version, you should subscribe using the form on <a href=\"https:\/\/advancedcolumns.com\" rel=\"nofollow ugc\">advancedcolumns.com<\/a> website.<\/p>\n<\/p>\n<dt id='does%20it%20work%20in%20the%20wordpress%20site%20editor%3F'>\nDoes it work in the WordPress Site Editor?\n<\/h4>\n<p>\n<p>Yes, we have designed the plugin with the Site Editor in mind, since it is where we think it could be most useful.<\/p>\n<\/p>\n<dt id='how%20does%20support%20work%3F'>\nHow does support work?\n<\/h4>\n<p>\n<p>Support on the plugin page on WordPress.org is completely voluntary. Feel free to post bug reports, or questions about the plugin functionality.<\/p>\n<\/p>\n\n",
+        "changelog": "<p>To read the changelog for the latest Advanced Columns release, please navigate to the <a href=\"https:\/\/advancedcolumns.com\/changelog\/\" rel=\"nofollow ugc\">changelog page<\/a>.<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/advanced-columns-block\/assets\/screenshot-1.png?rev=3025667\"><img src=\"https:\/\/ps.w.org\/advanced-columns-block\/assets\/screenshot-1.png?rev=3025667\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/advanced-columns-block\/assets\/screenshot-2.png?rev=3025667\"><img src=\"https:\/\/ps.w.org\/advanced-columns-block\/assets\/screenshot-2.png?rev=3025667\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "The professional plugin for responsive layout management in WordPress.",
+    "description": "<p>The professional plugin for responsive layout management in WordPress.<\/p>\n<p>Built on the CSS grid foundation, the Advanced Columns plugin is the most powerful and flexible layout builder block for WordPress.<\/p>\n<p><a href=\"https:\/\/advancedcolumns.com\/\" rel=\"nofollow ugc\">Official website<\/a> | <a href=\"https:\/\/advancedcolumns.com\/docs\/\" rel=\"nofollow ugc\">Browse the documentation<\/a><\/p>\n<h3>The best plugin for Designers<\/h3>\n<p>The Advanced Columns block for WordPress offers designers an intuitive drag-and-drop interface, customizable media queries, and exceptional flexibility.<\/p>\n<p>It simplifies the creation of beautiful, responsive layouts, allowing you to concentrate on the creative aspect of design rather than getting bogged down by technicalities.<\/p>\n<h3>Easy to use drag &amp; drop interface<\/h3>\n<p>Our user-friendly drag-and-drop interface simplifies the layout generation by providing a consistent grid structure ensuring dimension predictability.<\/p>\n<p>With just a few clicks, you can easily create complex column systems, eliminating the need for custom CSS. This streamlines the design process, saving you time and eliminating guesswork.<\/p>\n<h3>Quick presets for instant layout changes<\/h3>\n<p>We&#8217;ve created quick presets as a tool to streamline extensive layout adjustments. With just one click on a standard layout preset, you can simultaneously modify the size and position of multiple columns in bulk.<\/p>\n<p>This becomes especially valuable when you&#8217;re editing a specific breakpoint, significantly reducing editing time.<\/p>\n<h3>Comprehensive columns appearance controls<\/h3>\n<p>Columns are designer to offer extensive customization options, aiming to minimize the necessity of creating custom CSS for your projects. You can customize the background by adding images, videos (soon), or colors, and apply overlays in the form of solid colors or gradients, and everything can be adjusted at each breakpoint to suit your requirements.<\/p>\n<h3>Precise control of the dimensions<\/h3>\n<p>Each dimension field accommodates multiple unit values, and we&#8217;ve included specific fields for directional dimensions like padding and margin. You can either adjust all axes together or edit individual directions.<\/p>\n<p>Pro version users can also enable WordPress spacing values from the theme.json file.<\/p>\n<h3>Breakpoints for precise editing<\/h3>\n<p>The plugin&#8217;s customizable responsive breakpoint system empowers you to fine-tune every element of your layout, whether it&#8217;s altering padding or repositioning columns within the grid layout.<\/p>\n<p>With Advanced Columns, effective layout management becomes effortless, as it enables the creation of sophisticated and professional layouts without the need for custom CSS coding.<\/p>\n<h3>Plugin standard features<\/h3>\n<ul>\n<li><strong>Drag &amp; drop interface<\/strong> \u2013 Edit your content directly in the Block Editor.<\/li>\n<li><strong>Media Queries support<\/strong> \u2013 Perfectly define the breakpoints of your project.<\/li>\n<li><strong>Customizable columns and rows<\/strong> \u2013 Create grids exactly the way you want.<\/li>\n<li><strong>Background image support<\/strong> \u2013 The perfect decoration for your content.<\/li>\n<li><strong>Solid color or gradient overlay<\/strong> \u2013 Fine tune the appearance of your backgrounds.<\/li>\n<li><strong>Quick presets<\/strong> \u2013 Apply commonly-used layouts with just a click.<\/li>\n<li><strong>Precise spacing controls<\/strong> \u2013 Control every detail.<\/li>\n<li><strong>Single columns z-index control<\/strong> \u2013 Place content on top of everything else.<\/li>\n<\/ul>\n<h3>For Developers by Developers<\/h3>\n<p>Developers are in our hearts. We thoughtfully crafted our plugin with a focus on solid principles, ensuring a professional and enjoyable experience for developers. Advanced Columns is extensible, secure and optimized: from the development point of view, this plugin has got your back.<\/p>\n<p><a href=\"https:\/\/advancedcolumns.com\/docs\/\" rel=\"nofollow ugc\">Browse the documentation<\/a><\/p>\n<h3>Perfectly defined breakpoints<\/h3>\n<p>By adopting the CSS syntax for Media Queries, you&#8217;re free to define and manage your breakpoints however you like, and not be limited to the concept of the viewport width.<\/p>\n<p>With this approach, you&#8217;ll be able to add vertical Media Queries as well, or play around with Preference Queries, and even modify a block visual representation depending on a light\/dark mode.<\/p>\n<p>Excited? So are we! And to think that we are planning to bring Container Queries to the table in a future update\u2026<\/p>\n<h3>Extensible, future-proof and optimized<\/h3>\n<p>As developers, we like having control. That&#8217;s why, through various hooks and filters, Advanced Columns provides you with all the tools you need to extend the plugin as you please.<\/p>\n<p>We prioritize flexibility, and Advanced Columns, with its robust data structure, is a versatile solution that simplifies idea implementation. You know what else we like? Speed! All these goodies are backed up by an optimized platform that has performance at its core.<\/p>\n<h3>Dynamically generated backgrounds markup<\/h3>\n<p>Both images and videos can be set as backgrounds for our columns blocks. But what about the behavior of a background image? Should it be applied as a CSS background, or should it be an actual image tag, for SEO and crawling purposes?<\/p>\n<p>Well, in Advanced Columns you have both options, so the only thing left to do will be to pick the perfect one!<\/p>\n<h3>Built on the foundations of CSS Grid<\/h3>\n<p>Advanced Columns runs on CSS Grid. With such a powerful foundation, there are no limits to what you can build.<\/p>\n<p>Since column blocks templates are dynamically rendered, styles are dynamically processed too, and are inlined in page only when you actually need them: this way, your pages will perform better in speed tests, and put you in control of their output.<\/p>\n<h3>The solution for the next generation of themes<\/h3>\n<p>Advanced Columns integrates seamlessly with Block Themes: this means that you&#8217;ll be able to modify your theme&#8217;s theme.json file and instantly see those changes reflected on our blocks&#8217; controls. Take borders, spacing values, or even colors for example: Advanced Columns will work as one with your theme!<\/p>\n<h3>Where to start<\/h3>\n<ul>\n<li><a href=\"https:\/\/advancedcolumns.com\/docs\/getting-started\/\" rel=\"nofollow ugc\">Create your first layout<\/a><\/li>\n<li><a href=\"https:\/\/advancedcolumns.com\/docs\/columns\/\" rel=\"nofollow ugc\">Columns functionality<\/a><\/li>\n<li><a href=\"https:\/\/advancedcolumns.com\/docs\/column\/\" rel=\"nofollow ugc\">Single column functionality<\/a><\/li>\n<li><a href=\"https:\/\/advancedcolumns.com\/docs\/theme-supports\/\" rel=\"nofollow ugc\">Theme supports<\/a><\/li>\n<li><a href=\"https:\/\/advancedcolumns.com\/docs\/settings\/media-queries\/\" rel=\"nofollow ugc\">Media queries configuration<\/a><\/li>\n<\/ul>\n<h3>Liked Advanced Columns?<\/h3>\n<p>Follow us on <a href=\"https:\/\/twitter.com\/advancedcolumns\" rel=\"nofollow ugc\">Twitter<\/a><br \/>\nVisit the <a href=\"https:\/\/advancedcolumns.com\" rel=\"nofollow ugc\">official website<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/advanced-columns-block.1.0.20.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/advanced-columns-block\/assets\/screenshot-1.png?rev=3025667",
+            "caption": ""
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/advanced-columns-block\/assets\/screenshot-2.png?rev=3025667",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "block": "block",
+        "columns": "columns",
+        "layout": "layout",
+        "page-builder": "page builder",
+        "site-editor": "site editor"
+    },
+    "stable_tag": "1.0.20",
+    "versions": {
+        "1.0.10": "https:\/\/downloads.wordpress.org\/plugin\/advanced-columns-block.1.0.10.zip",
+        "1.0.11": "https:\/\/downloads.wordpress.org\/plugin\/advanced-columns-block.1.0.11.zip",
+        "1.0.12": "https:\/\/downloads.wordpress.org\/plugin\/advanced-columns-block.1.0.12.zip",
+        "1.0.13": "https:\/\/downloads.wordpress.org\/plugin\/advanced-columns-block.1.0.13.zip",
+        "1.0.14": "https:\/\/downloads.wordpress.org\/plugin\/advanced-columns-block.1.0.14.zip",
+        "1.0.15": "https:\/\/downloads.wordpress.org\/plugin\/advanced-columns-block.1.0.15.zip",
+        "1.0.16": "https:\/\/downloads.wordpress.org\/plugin\/advanced-columns-block.1.0.16.zip",
+        "1.0.17": "https:\/\/downloads.wordpress.org\/plugin\/advanced-columns-block.1.0.17.zip",
+        "1.0.18": "https:\/\/downloads.wordpress.org\/plugin\/advanced-columns-block.1.0.18.zip",
+        "1.0.19": "https:\/\/downloads.wordpress.org\/plugin\/advanced-columns-block.1.0.19.zip",
+        "1.0.20": "https:\/\/downloads.wordpress.org\/plugin\/advanced-columns-block.1.0.20.zip",
+        "1.0.7": "https:\/\/downloads.wordpress.org\/plugin\/advanced-columns-block.1.0.7.zip",
+        "1.0.8": "https:\/\/downloads.wordpress.org\/plugin\/advanced-columns-block.1.0.8.zip",
+        "1.0.9": "https:\/\/downloads.wordpress.org\/plugin\/advanced-columns-block.1.0.9.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/advanced-columns-block.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/advanced-columns-block\/assets\/banner-772x250.png?rev=3025667",
+        "high": "https:\/\/ps.w.org\/advanced-columns-block\/assets\/banner-1544x500.png?rev=3025667"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/advanced-columns-block\/assets\/icon-128x128.gif?rev=3025667",
+        "2x": "https:\/\/ps.w.org\/advanced-columns-block\/assets\/icon-256x256.gif?rev=3025667"
+    },
+    "blocks": {
+        "advanced-columns\/columns": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 2,
+            "name": "advanced-columns\/columns",
+            "version": "1.0.20",
+            "title": "Advanced Columns",
+            "category": "design",
+            "description": "Display content in multiple columns.",
+            "keywords": [
+                "grid",
+                "layout",
+                "columns"
+            ],
+            "attributes": {
+                "templateLock": {
+                    "type": [
+                        "string",
+                        "boolean"
+                    ],
+                    "enum": [
+                        "all",
+                        "insert",
+                        "contentOnly",
+                        false
+                    ]
+                }
+            },
+            "providesContext": {
+                "columns\/columns": "columns",
+                "columns\/grid": "grid",
+                "columns\/gridMode": "gridMode"
+            },
+            "supports": {
+                "html": false,
+                "anchor": true,
+                "align": [
+                    "wide",
+                    "full"
+                ],
+                "color": {
+                    "gradients": true,
+                    "link": true,
+                    "heading": true,
+                    "button": true,
+                    "__experimentalDefaultControls": {
+                        "background": true,
+                        "text": true
+                    }
+                },
+                "__experimentalBorder": {
+                    "color": true,
+                    "radius": true,
+                    "style": true,
+                    "width": true,
+                    "__experimentalDefaultControls": {
+                        "color": true,
+                        "radius": true,
+                        "style": true,
+                        "width": true
+                    }
+                },
+                "position": {
+                    "sticky": true
+                },
+                "typography": {
+                    "fontSize": true,
+                    "lineHeight": true,
+                    "__experimentalFontFamily": true,
+                    "__experimentalFontWeight": true,
+                    "__experimentalFontStyle": true,
+                    "__experimentalTextTransform": true,
+                    "__experimentalTextDecoration": true,
+                    "__experimentalLetterSpacing": true,
+                    "__experimentalDefaultControls": {
+                        "fontSize": true
+                    }
+                }
+            },
+            "textdomain": "advanced-columns",
+            "editorScript": "file:.\/build\/index.js",
+            "editorStyle": "file:.\/build\/index.css",
+            "style": "file:.\/build\/style-index.css",
+            "viewScript": [
+                "file:.\/build\/view.js",
+                "advanced-columns-script"
+            ]
+        },
+        "advanced-columns\/column": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 2,
+            "name": "advanced-columns\/column",
+            "version": "1.0.20",
+            "title": "Advanced Columns - Column",
+            "parent": [
+                "advanced-columns\/columns"
+            ],
+            "category": "design",
+            "description": "A single content area.",
+            "attributes": {
+                "templateLock": {
+                    "type": [
+                        "string",
+                        "boolean"
+                    ],
+                    "enum": [
+                        "all",
+                        "insert",
+                        "contentOnly",
+                        false
+                    ]
+                }
+            },
+            "supports": {
+                "anchor": true,
+                "html": false,
+                "reusable": false,
+                "spacing": {
+                    "blockGap": true
+                },
+                "color": {
+                    "gradients": true,
+                    "link": true,
+                    "heading": true,
+                    "button": true,
+                    "__experimentalDefaultControls": {
+                        "background": true,
+                        "text": true
+                    }
+                },
+                "__experimentalBorder": {
+                    "color": true,
+                    "radius": true,
+                    "style": true,
+                    "width": true,
+                    "__experimentalDefaultControls": {
+                        "color": true,
+                        "radius": true,
+                        "style": true,
+                        "width": true
+                    }
+                },
+                "typography": {
+                    "fontSize": true,
+                    "lineHeight": true,
+                    "__experimentalFontFamily": true,
+                    "__experimentalFontWeight": true,
+                    "__experimentalFontStyle": true,
+                    "__experimentalTextTransform": true,
+                    "__experimentalTextDecoration": true,
+                    "__experimentalLetterSpacing": true,
+                    "__experimentalDefaultControls": {
+                        "fontSize": true
+                    }
+                },
+                "layout": true
+            },
+            "usesContext": [
+                "columns\/columns",
+                "columns\/grid",
+                "columns\/gridMode"
+            ],
+            "textdomain": "advanced-columns",
+            "editorScript": "file:.\/build\/index.js",
+            "editorStyle": "file:.\/build\/index.css",
+            "style": "file:.\/build\/style-index.css"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

@@ -1,0 +1,232 @@
+{
+    "name": "AcyMailing &#8211; An Ultimate Newsletter Plugin and Marketing Automation Solution for WordPress",
+    "slug": "acymailing",
+    "version": "9.5.0",
+    "author": "<a href=\"https:\/\/www.acymailing.com\">AcyMailing Newsletter Team<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/acyba\/",
+    "contributors": {
+        "acyba": {
+            "profile": "https:\/\/profiles.wordpress.org\/acyba\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/fea73348f0535bf202fef9f1d6c62e9f?s=96&d=monsterid&r=g",
+            "display_name": "AcyMailing Newsletter Team"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.4.4",
+    "requires_php": "7.2",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 96,
+    "ratings": {
+        "5": 146,
+        "4": 2,
+        "3": 0,
+        "2": 2,
+        "1": 4
+    },
+    "num_ratings": 154,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/acymailing\/",
+    "support_threads": 3,
+    "support_threads_resolved": 2,
+    "active_installs": 7000,
+    "downloaded": 98190,
+    "last_updated": "2024-04-09 9:30am GMT",
+    "added": "2018-11-23",
+    "homepage": "",
+    "sections": {
+        "description": "<h4>\ud83d\udc8c UNLEASH THE POWER OF EMAIL MARKETING AUTOMATION:<\/h4>\n<ul>\n<li>Effortlessly create attention-grabbing newsletters with our intuitive drag-and-drop editor &#8211; no HTML skills required.<\/li>\n<li>Automate your newsletter formation process using pre-saved zones.<\/li>\n<li>Seamlessly include your WordPress articles in your newsletters.<\/li>\n<li>Personalize your newsletters with user data such as name, email, or custom fields.<\/li>\n<li>Implement social media share options for Twitter, Facebook, and LinkedIn to expand your reach.<\/li>\n<li>Experience mobile-responsive default templates with previews for desktop and mobile versions.<\/li>\n<\/ul>\n<h4>\ud83d\udcca TAKE YOUR EMAIL MARKETING TO THE NEXT LEVEL:<\/h4>\n<ul>\n<li>Conduct automated mass actions on users, including sending birthday newsletters, welcome greetings, and more.<\/li>\n<li>Plan follow-up newsletter sequences based on user interaction to nurture and engage your audience.<\/li>\n<li>Effortlessly schedule your newsletters for timely delivery.<\/li>\n<li>Receive timely reminders to recover abandoned WooCommerce shopping carts.<\/li>\n<li>Create and duplicate marketing automation workflows with ease.<\/li>\n<li>Handle bounce emails efficiently for improved deliverability.<\/li>\n<\/ul>\n<h4>\ud83d\udce5 ENHANCE DELIVERABILITY AND ENSURE GDPR COMPLIANCE:<\/h4>\n<ul>\n<li>Effectively dispatch emails in real-time using our queue system.<\/li>\n<li>Utilize transporting guides to optimize newsletter deliverability.<\/li>\n<li>Track reliable statistics to gain insights into your newsletter performance.<\/li>\n<\/ul>\n<h4>\ud83d\udc64 EFFICIENT CONTACT LIST MANAGEMENT WITH GDPR COMPLIANCE:<\/h4>\n<ul>\n<li>Effortlessly manage your subscribers with AcyMailing.<\/li>\n<li>Import users seamlessly from any platform or source.<\/li>\n<li>Utilize efficient filter options to target specific user segments.<\/li>\n<li>Automatically subscribe users during registration for streamlined list management.<\/li>\n<li>Handle false email addresses and integrate strong captchas for enhanced data security.<\/li>\n<\/ul>\n<h4>\u2935\ufe0f EXPLORING MORE WITH ACYMAILING:<\/h4>\n<ul>\n<li>Enjoy various integrations available: <a href=\"https:\/\/wordpress.org\/plugins\/acymailing-integration-for-business-directory\/\" rel=\"ugc\">Business Directory<\/a>, <a href=\"https:\/\/wordpress.org\/plugins\/acymailing-integration-for-contact-form-7\/\" rel=\"ugc\">Contact Form 7<\/a>, <a href=\"https:\/\/wordpress.org\/plugins\/acymailing-integration-for-easy-digital-downloads\/\" rel=\"ugc\">Easy Digital Downloads<\/a>, <a href=\"https:\/\/wordpress.org\/plugins\/acymailing-integration-for-gravity-forms\/\" rel=\"ugc\">Gravity Forms<\/a>, Zapier, Make.com, <a href=\"https:\/\/wordpress.org\/plugins\/acymailing-integration-for-woocommerce\/\" rel=\"ugc\">WooCommerce<\/a>, <a href=\"https:\/\/wordpress.org\/plugins\/acymailing-integration-for-the-events-calendar\/\" rel=\"ugc\">The Events Calendar<\/a>, etc&#8230;<\/li>\n<li>Experience the power of AcyMailing with <a href=\"https:\/\/demo.acymailing.com\/?utm_source=wp_org&amp;utm_campaign=test_acymailing&amp;utm_medium=description_link\" rel=\"nofollow ugc\">our demo site<\/a>.<\/li>\n<li>Leverage diverse external sending services &#8211; <a href=\"https:\/\/www.acymailing.com\/our-own-sending-service\/\" rel=\"nofollow ugc\">AcyMailing Sending Service<\/a>, <a href=\"https:\/\/docs.acymailing.com\/external-sending-method\/sendinblue\" rel=\"nofollow ugc\">Brevo\/Sendinblue<\/a>, <a href=\"https:\/\/docs.acymailing.com\/external-sending-method\/mailgun\" rel=\"nofollow ugc\">Mailgun<\/a>, <a href=\"https:\/\/docs.acymailing.com\/external-sending-method\/sendgrid\" rel=\"nofollow ugc\">SendGrid<\/a>, <a href=\"https:\/\/docs.acymailing.com\/external-sending-method\/amazon-ses\" rel=\"nofollow ugc\">Amazon SES<\/a>, SMTP and more.<\/li>\n<\/ul>\n<p>\ud83d\udd0eStay tuned to know every update on our plugins. Follow us on <a href=\"https:\/\/www.linkedin.com\/company\/acymailing\/\" rel=\"nofollow ugc\">LinkedIn<\/a>, <a href=\"https:\/\/twitter.com\/acymailingoff\" rel=\"nofollow ugc\">Twitter<\/a>, <a href=\"https:\/\/www.facebook.com\/AcyMailing\/\" rel=\"nofollow ugc\">Facebook<\/a>, or our <a href=\"https:\/\/www.acymailing.com\" rel=\"nofollow ugc\">website<\/a>.<\/p>\n",
+        "installation": "<p>There are 3 ways to install this plugin:<\/p>\n<h4>1. The WordPress store search<\/h4>\n<ol>\n<li>In the admin part of your site, navigate to the menu Plugins =&gt; Add New<\/li>\n<li>Search for <code>AcyMailing<\/code><\/li>\n<li>Find it, install it, activate it<\/li>\n<\/ol>\n<h4>2. Manually, via the interface<\/h4>\n<ol>\n<li>Download the installation ZIP at the top of this page by clicking the &#8220;Download&#8221; button<\/li>\n<li>On the admin part of your site, navigate to the menu Plugins =&gt; Add New<\/li>\n<li>Click on &#8220;Upload Plugin&#8221; at the top of the page<\/li>\n<li>Select the ZIP file you downloaded then click the &#8220;Install Now&#8221; button<\/li>\n<li>Once installed, activate the plugin<\/li>\n<\/ol>\n<h4>3. Manually, via FTP<\/h4>\n<ol>\n<li>Download the installation ZIP at the top of this page by clicking the &#8220;Download&#8221; button<\/li>\n<li>Unzip it<\/li>\n<li>Upload the &#8220;acymailing&#8221; folder previously contained in the ZIP file via FTP on your site, under the folder wp-content\/plugins\/<\/li>\n<li>Enable the plugin on the admin part of your site<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='how%20to%20contact%20us%3F'>\nHow to contact us?\n<\/h4>\n<p>\n<p>Feel free to do it via this form: <a href=\"https:\/\/www.acymailing.com\/contact\/\" rel=\"nofollow ugc\">https:\/\/www.acymailing.com\/contact\/<\/a><\/p>\n<\/p>\n<dt id='where%20can%20i%20find%20a%20documentation%3F'>\nWhere can I find a documentation?\n<\/h4>\n<p>\n<p>On any page of the AcyMailing plugin, you can click the &#8220;Documentation&#8221; button at the top-right of the screen.<br \/>\nIf you don&#8217;t find the information you&#8217;re looking for, you can find the complete documentation here: <a href=\"https:\/\/docs.acymailing.com\/\" rel=\"nofollow ugc\">https:\/\/docs.acymailing.com\/<\/a><\/p>\n<\/p>\n<dt id='how%20will%20acymailing%20help%20me%20doing%20marketing%20automation%3F'>\nHow will AcyMailing help me doing Marketing Automation?\n<\/h4>\n<p>\n<p>With AcyMailing you can automate a lot of tedious tasks to focus on what&#8217;s really important.<br \/>\nOur spam-checker tells you what you need to change in your server configuration, you can instantly insert content from other plugins like products from WooCommerce or events from The events calendar, etc&#8230;<br \/>\nYou can automate the sending of your newsletters based on user actions, or set a campaign to be automatically generated every X days\/weeks\/months including your last X posts.<\/p>\n<\/p>\n<dt id='if%20i%20update%20or%20upgrade%20acymailing%2C%20will%20i%20lose%20my%20data%3F'>\nIf I update or upgrade AcyMailing, will I lose my data?\n<\/h4>\n<p>\n<p>No, you can safely update or upgrade AcyMailing, you won&#8217;t lose data.<br \/>\nYour configuration, existing subscribers, templates, newsletters, marketing automation workflows&#8230; will be kept intact.<\/p>\n<\/p>\n<dt id='how%20does%20acymailing%20send%20emails%3F'>\nHow does AcyMailing send emails?\n<\/h4>\n<p>\n<p>You can select your own favorite sending methods.<br \/>\nAcyMailing is integrated with Sendgrid, Mailgun, Amazon SES, Sendinblue and many more services.<br \/>\nYou can even send emails from your own server or another SMTP service of your choice.<\/p>\n<\/p>\n<dt id='what%20is%20acymailing%20sending%20service%3F'>\nWhat is AcyMailing Sending Service?\n<\/h4>\n<p>\n<p>An all in one solution, simple, cheaper and made for you that allows you to completely handle the email sending process.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>9.5.0 &#8211; April 9, 2024<\/h4>\n<ul>\n<li>The new integration with make.com is now available publicly. Easily automate your tasks and create your own workflows with hundreds of apps!<\/li>\n<li>\n<p>You can now add a subscription optin checkbox in the new Gutenberg checkout block form of WooCommerce.<\/p>\n<\/li>\n<li>\n<p>The campaigns created from a mailbox action that forwards emails to a list are now separated from the classic campaigns.<\/p>\n<\/li>\n<li>The MailGun integration via API now uses the Reply-To email address specified in the AcyMailing configuration.<\/li>\n<li>The user fields inserted in emails are now formatted. For example date fields show the month name, phone fields show the country code, etc&#8230;<\/li>\n<li>The bounce details have been improved when you export the statistics full data.<\/li>\n<li>\n<p>Guest purchases are now supported by the action target Purchased a Product for WooCommerce automation.<\/p>\n<\/li>\n<li>\n<p>We optimized the way the plugin is loaded by reducing the number of queries and the size of the data loaded.<\/p>\n<\/li>\n<\/ul>\n<p><a href=\"https:\/\/www.acymailing.com\/change-log\" rel=\"nofollow ugc\">See the whole changelog here.<\/a><\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/acymailing\/assets\/screenshot-1.gif?rev=2912466\"><img src=\"https:\/\/ps.w.org\/acymailing\/assets\/screenshot-1.gif?rev=2912466\" alt=\"Drag &amp; Drop editor\"><\/a><p>Drag &amp; Drop editor<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/acymailing\/assets\/screenshot-2.gif?rev=2912466\"><img src=\"https:\/\/ps.w.org\/acymailing\/assets\/screenshot-2.gif?rev=2912466\" alt=\"AcyMailing dashboard\"><\/a><p>AcyMailing dashboard<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/acymailing\/assets\/screenshot-3.gif?rev=2912466\"><img src=\"https:\/\/ps.w.org\/acymailing\/assets\/screenshot-3.gif?rev=2912466\" alt=\"Subscriber page\"><\/a><p>Subscriber page<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/acymailing\/assets\/screenshot-4.gif?rev=2912466\"><img src=\"https:\/\/ps.w.org\/acymailing\/assets\/screenshot-4.gif?rev=2912466\" alt=\"Automations\"><\/a><p>Automations<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great but no Woo Block Checkout support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"4 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"4\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/kiikiikii\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/08820f58af19315ecb7797f636f34003?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/08820f58af19315ecb7797f636f34003?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/kiikiikii\/\" class=\"reviewer-name\">kiikiikii<\/a> on <span class=\"review-date\">March 20, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Love everything about this plugin, except the fact that it doesn't support a sub checkbox for the more recent Woocommerce Block checkout experience. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Been on the hunt for a plugin that does and won't cost an arm and a leg. Have to keep searching.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">High deliverability<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/dusterdoo\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/8d0892da130ecbb262f82eb01a3a5a45?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/8d0892da130ecbb262f82eb01a3a5a45?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/dusterdoo\/\" class=\"reviewer-name\">dusterdoo<\/a> on <span class=\"review-date\">March 17, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Always  - for me - scores a 10 on MailTester. Well thought out interface. Great design features, and love that it works with Wordpress. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">suport is nearly useless<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/perrineco\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/11cca65b3ccf149ebf86f17e0462e6ef?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/11cca65b3ccf149ebf86f17e0462e6ef?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/perrineco\/\" class=\"reviewer-name\">perrineco<\/a> on <span class=\"review-date\">March 13, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Support never understands <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">I use it for years<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/csamnana\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/3f493efda64f70622df7a312ec07f275?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/3f493efda64f70622df7a312ec07f275?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/csamnana\/\" class=\"reviewer-name\">csamnana<\/a> on <span class=\"review-date\">February 2, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Very simple and useful plugin, I use the free veraion for years now and I like it.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excellent e-mail solution<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/srdjanroje\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/7d3e89427e9e0979b482c0598e76cbb4?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/7d3e89427e9e0979b482c0598e76cbb4?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/srdjanroje\/\" class=\"reviewer-name\">srdjanroje<\/a> on <span class=\"review-date\">July 4, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>I don't understand WordPress users' fascination with MailPoet - in my opinion, AcyMailing is cheaper, faster, simpler, more flexible, and gives you total control over your user's data. Highly recommended<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">I have finished the Korean translation for AcyMailing.<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/modelaid\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/a02b3ccf6ed62ef09cca18a415ed869b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/a02b3ccf6ed62ef09cca18a415ed869b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/modelaid\/\" class=\"reviewer-name\">modelaid<\/a> on <span class=\"review-date\">May 19, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>I just want to say thank you for developing such a good plugin.<br \/>And I hope it will be translated into more languages so that many WordPress users can use it conveniently.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>AcyMailing \ud55c\uad6d\uc5b4 \ubc88\uc5ed\uc744 \ubaa8\ub450 \ub9c8\ucce4\uc2b5\ub2c8\ub2e4.<br \/>\uc88b\uc740 \ud50c\ub7ec\uadf8\uc778\uc744 \uac1c\ubc1c\ud574 \uc8fc\uc5b4\uc11c \uace0\ub9d9\ub2e4\ub294 \uc778\uc0ac\ub97c \uc804\ud558\uace0 \uc2f6\uc2b5\ub2c8\ub2e4.<br \/>\uadf8\ub9ac\uace0 \ubcf4\ub2e4 \ub9ce\uc740 \uc5b8\uc5b4\ub85c \ubc88\uc5ed\ub418\uc5b4 \ub9ce\uc740 \uc6cc\ub4dc\ud504\ub808\uc2a4 \uc0ac\uc6a9\uc790\ub4e4\uc774 \ud3b8\ub9ac\ud558\uac8c \uc0ac\uc6a9\ud560 \uc218 \uc788\uae30\ub97c \ubc14\ub78d\ub2c8\ub2e4.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Super plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/herve30900\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/c2fb7b8640d12f4e1bc1163f195397eb?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/c2fb7b8640d12f4e1bc1163f195397eb?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/herve30900\/\" class=\"reviewer-name\">herve30900<\/a> on <span class=\"review-date\">March 14, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>\u00c0 conseiller vivement !!!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Exactly what I was looking for<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/blafoley\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/61ecae04c0a0d3dff920d11bde84df9e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/61ecae04c0a0d3dff920d11bde84df9e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/blafoley\/\" class=\"reviewer-name\">Brent <small>(blafoley)<\/small><\/a> on <span class=\"review-date\">February 22, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>I was in need of a strong email editor that would work with my sending service for a reasonable price. I found that in AcyMailing!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Fantastic tool<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/teamdavis\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/bf08a3fabc82b8fe45dc90ec50e0b42a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/bf08a3fabc82b8fe45dc90ec50e0b42a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/teamdavis\/\" class=\"reviewer-name\">teamdavis<\/a> on <span class=\"review-date\">February 21, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>This is a fantastic tool for any website where you want subscribers to your newsletter, easy to use<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Love to see Acymailing in Wordpress<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/wowiwe\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e6508b0aeaf1d47ba2dcf27a7915e2b1?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e6508b0aeaf1d47ba2dcf27a7915e2b1?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/wowiwe\/\" class=\"reviewer-name\">wowiwe<\/a> on <span class=\"review-date\">February 3, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>I have been using it since Joomla days and still use it there, it is great to see it now in Wordpress too. Brilliant<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Boost audience engagement &amp; lead generation with AcyMailing, an all-in-one newsletter automation tool for your marketing success.",
+    "description": "<h4>\ud83d\udc8c UNLEASH THE POWER OF EMAIL MARKETING AUTOMATION:<\/h4>\n<ul>\n<li>Effortlessly create attention-grabbing newsletters with our intuitive drag-and-drop editor &#8211; no HTML skills required.<\/li>\n<li>Automate your newsletter formation process using pre-saved zones.<\/li>\n<li>Seamlessly include your WordPress articles in your newsletters.<\/li>\n<li>Personalize your newsletters with user data such as name, email, or custom fields.<\/li>\n<li>Implement social media share options for Twitter, Facebook, and LinkedIn to expand your reach.<\/li>\n<li>Experience mobile-responsive default templates with previews for desktop and mobile versions.<\/li>\n<\/ul>\n<h4>\ud83d\udcca TAKE YOUR EMAIL MARKETING TO THE NEXT LEVEL:<\/h4>\n<ul>\n<li>Conduct automated mass actions on users, including sending birthday newsletters, welcome greetings, and more.<\/li>\n<li>Plan follow-up newsletter sequences based on user interaction to nurture and engage your audience.<\/li>\n<li>Effortlessly schedule your newsletters for timely delivery.<\/li>\n<li>Receive timely reminders to recover abandoned WooCommerce shopping carts.<\/li>\n<li>Create and duplicate marketing automation workflows with ease.<\/li>\n<li>Handle bounce emails efficiently for improved deliverability.<\/li>\n<\/ul>\n<h4>\ud83d\udce5 ENHANCE DELIVERABILITY AND ENSURE GDPR COMPLIANCE:<\/h4>\n<ul>\n<li>Effectively dispatch emails in real-time using our queue system.<\/li>\n<li>Utilize transporting guides to optimize newsletter deliverability.<\/li>\n<li>Track reliable statistics to gain insights into your newsletter performance.<\/li>\n<\/ul>\n<h4>\ud83d\udc64 EFFICIENT CONTACT LIST MANAGEMENT WITH GDPR COMPLIANCE:<\/h4>\n<ul>\n<li>Effortlessly manage your subscribers with AcyMailing.<\/li>\n<li>Import users seamlessly from any platform or source.<\/li>\n<li>Utilize efficient filter options to target specific user segments.<\/li>\n<li>Automatically subscribe users during registration for streamlined list management.<\/li>\n<li>Handle false email addresses and integrate strong captchas for enhanced data security.<\/li>\n<\/ul>\n<h4>\u2935\ufe0f EXPLORING MORE WITH ACYMAILING:<\/h4>\n<ul>\n<li>Enjoy various integrations available: <a href=\"https:\/\/wordpress.org\/plugins\/acymailing-integration-for-business-directory\/\" rel=\"ugc\">Business Directory<\/a>, <a href=\"https:\/\/wordpress.org\/plugins\/acymailing-integration-for-contact-form-7\/\" rel=\"ugc\">Contact Form 7<\/a>, <a href=\"https:\/\/wordpress.org\/plugins\/acymailing-integration-for-easy-digital-downloads\/\" rel=\"ugc\">Easy Digital Downloads<\/a>, <a href=\"https:\/\/wordpress.org\/plugins\/acymailing-integration-for-gravity-forms\/\" rel=\"ugc\">Gravity Forms<\/a>, Zapier, Make.com, <a href=\"https:\/\/wordpress.org\/plugins\/acymailing-integration-for-woocommerce\/\" rel=\"ugc\">WooCommerce<\/a>, <a href=\"https:\/\/wordpress.org\/plugins\/acymailing-integration-for-the-events-calendar\/\" rel=\"ugc\">The Events Calendar<\/a>, etc&#8230;<\/li>\n<li>Experience the power of AcyMailing with <a href=\"https:\/\/demo.acymailing.com\/?utm_source=wp_org&amp;utm_campaign=test_acymailing&amp;utm_medium=description_link\" rel=\"nofollow ugc\">our demo site<\/a>.<\/li>\n<li>Leverage diverse external sending services &#8211; <a href=\"https:\/\/www.acymailing.com\/our-own-sending-service\/\" rel=\"nofollow ugc\">AcyMailing Sending Service<\/a>, <a href=\"https:\/\/docs.acymailing.com\/external-sending-method\/sendinblue\" rel=\"nofollow ugc\">Brevo\/Sendinblue<\/a>, <a href=\"https:\/\/docs.acymailing.com\/external-sending-method\/mailgun\" rel=\"nofollow ugc\">Mailgun<\/a>, <a href=\"https:\/\/docs.acymailing.com\/external-sending-method\/sendgrid\" rel=\"nofollow ugc\">SendGrid<\/a>, <a href=\"https:\/\/docs.acymailing.com\/external-sending-method\/amazon-ses\" rel=\"nofollow ugc\">Amazon SES<\/a>, SMTP and more.<\/li>\n<\/ul>\n<p>\ud83d\udd0eStay tuned to know every update on our plugins. Follow us on <a href=\"https:\/\/www.linkedin.com\/company\/acymailing\/\" rel=\"nofollow ugc\">LinkedIn<\/a>, <a href=\"https:\/\/twitter.com\/acymailingoff\" rel=\"nofollow ugc\">Twitter<\/a>, <a href=\"https:\/\/www.facebook.com\/AcyMailing\/\" rel=\"nofollow ugc\">Facebook<\/a>, or our <a href=\"https:\/\/www.acymailing.com\" rel=\"nofollow ugc\">website<\/a>.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.9.5.0.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/acymailing\/assets\/screenshot-1.gif?rev=2912466",
+            "caption": "Drag &amp; Drop editor"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/acymailing\/assets\/screenshot-2.gif?rev=2912466",
+            "caption": "AcyMailing dashboard"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/acymailing\/assets\/screenshot-3.gif?rev=2912466",
+            "caption": "Subscriber page"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/acymailing\/assets\/screenshot-4.gif?rev=2912466",
+            "caption": "Automations"
+        }
+    },
+    "tags": {
+        "automation": "automation",
+        "contact-list": "Contact List",
+        "drag-and-drop": "drag-and-drop",
+        "email-marketing": "Email Marketing",
+        "newsletter": "newsletter"
+    },
+    "stable_tag": "9.5.0",
+    "versions": {
+        "8.0.0": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.0.0.zip",
+        "8.1.0": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.1.0.zip",
+        "8.1.1": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.1.1.zip",
+        "8.1.2": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.1.2.zip",
+        "8.2.0": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.2.0.zip",
+        "8.3.0": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.3.0.zip",
+        "8.4.0": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.4.0.zip",
+        "8.4.1": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.4.1.zip",
+        "8.4.2": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.4.2.zip",
+        "8.4.3": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.4.3.zip",
+        "8.4.4": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.4.4.zip",
+        "8.4.5": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.4.5.zip",
+        "8.4.6": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.4.6.zip",
+        "8.5.0": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.5.0.zip",
+        "8.6.0": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.6.0.zip",
+        "8.6.1": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.6.1.zip",
+        "8.6.2": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.6.2.zip",
+        "8.6.3": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.6.3.zip",
+        "8.7.0": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.7.0.zip",
+        "8.7.1": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.7.1.zip",
+        "8.7.2": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.7.2.zip",
+        "8.7.3": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.7.3.zip",
+        "8.7.4": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.7.4.zip",
+        "8.8.0": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.8.8.0.zip",
+        "9.0.0": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.9.0.0.zip",
+        "9.0.1": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.9.0.1.zip",
+        "9.0.2": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.9.0.2.zip",
+        "9.1.0": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.9.1.0.zip",
+        "9.2.0": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.9.2.0.zip",
+        "9.3.0": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.9.3.0.zip",
+        "9.3.1": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.9.3.1.zip",
+        "9.4.0": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.9.4.0.zip",
+        "9.4.1": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.9.4.1.zip",
+        "9.5.0": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.9.5.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/acymailing.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/acymailing\/assets\/banner-772x250.png?rev=2912468",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/acymailing\/assets\/icon-128x128.png?rev=2912466",
+        "2x": "https:\/\/ps.w.org\/acymailing\/assets\/icon-256x256.png?rev=2912466"
+    },
+    "blocks": {
+        "acymailing\/subscription-form": {
+            "name": "acymailing\/subscription-form",
+            "title": "AcyMailing - An Ultimate Newsletter Plugin and Marketing Automation Solution for WordPress"
+        },
+        "acymailing\/profile": {
+            "name": "acymailing\/profile",
+            "title": "AcyMailing - An Ultimate Newsletter Plugin and Marketing Automation Solution for WordPress"
+        },
+        "acymailing\/archive": {
+            "name": "acymailing\/archive",
+            "title": "AcyMailing - An Ultimate Newsletter Plugin and Marketing Automation Solution for WordPress"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 96,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "acymailing",
+            "language": "de_DE_formal",
+            "version": "9.5.0",
+            "updated": "2024-04-13 17:09:34",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/acymailing\/9.5.0\/de_DE_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "acymailing",
+            "language": "de_DE",
+            "version": "9.5.0",
+            "updated": "2024-02-28 13:57:51",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/acymailing\/9.5.0\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "acymailing",
+            "language": "el",
+            "version": "9.5.0",
+            "updated": "2023-01-23 11:24:19",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/acymailing\/9.5.0\/el.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "acymailing",
+            "language": "es_ES",
+            "version": "9.5.0",
+            "updated": "2024-04-12 18:54:30",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/acymailing\/9.5.0\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "acymailing",
+            "language": "fr_FR",
+            "version": "9.5.0",
+            "updated": "2024-03-19 12:16:43",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/acymailing\/9.5.0\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "acymailing",
+            "language": "ko_KR",
+            "version": "9.5.0",
+            "updated": "2024-04-11 07:01:06",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/acymailing\/9.5.0\/ko_KR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "acymailing",
+            "language": "lt_LT",
+            "version": "9.5.0",
+            "updated": "2023-11-08 13:52:34",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/acymailing\/9.5.0\/lt_LT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "acymailing",
+            "language": "nb_NO",
+            "version": "9.5.0",
+            "updated": "2020-09-22 19:59:32",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/acymailing\/9.5.0\/nb_NO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "acymailing",
+            "language": "nl_NL",
+            "version": "9.5.0",
+            "updated": "2024-04-12 16:42:48",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/acymailing\/9.5.0\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "acymailing",
+            "language": "ru_RU",
+            "version": "9.5.0",
+            "updated": "2023-09-11 09:17:01",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/acymailing\/9.5.0\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "acymailing",
+            "language": "uk",
+            "version": "9.5.0",
+            "updated": "2024-04-12 10:02:46",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/acymailing\/9.5.0\/uk.zip"
+        }
+    ]
+}

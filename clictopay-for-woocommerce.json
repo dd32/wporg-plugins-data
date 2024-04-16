@@ -1,0 +1,90 @@
+{
+    "name": "ClicToPay for WooCommerce",
+    "slug": "clictopay-for-woocommerce",
+    "version": "1.0.0",
+    "author": "<a href=\"https:\/\/dalinovate.com\">Dalinovate<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/dalinovate2024\/",
+    "contributors": {
+        "dalinovate2024": {
+            "profile": "https:\/\/profiles.wordpress.org\/dalinovate2024\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/65f8c4d52d65de1d8fef39f45b898462?s=96&d=monsterid&r=g",
+            "display_name": "Dalinovate"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.5.2",
+    "requires_php": "4.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/clictopay-for-woocommerce\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 10,
+    "downloaded": 179,
+    "last_updated": "2024-04-13 11:59am GMT",
+    "added": "2024-02-25",
+    "homepage": "",
+    "sections": {
+        "description": "<p>WooCommerce SMT ClicToPay is a simple and powerful plugin that enables your WooCommerce store to accept online payments via the SPS ClictoPay SMT payment gateway. This seamless integration allows your customers to make secure credit card payments directly on your store.<\/p>\n",
+        "installation": "<ol>\n<li>Upload <code>woocommerce-smt-clictopay<\/code> to the <code>\/wp-content\/plugins\/<\/code> directory.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress.<\/li>\n<li>Go to WooCommerce &gt; Settings &gt; Payments tab to configure the plugin options.<\/li>\n<li>Select &#8216;ClicToPay SMT&#8217; to configure the settings. If you do not see &#8216;ClicToPay SMT&#8217; in the list at the top of the screen, make sure you have activated the plugin through the &#8216;Plugins&#8217; menu in WordPress.<\/li>\n<li>Enter your ClicToPay API credentials and adjust any settings to fit your needs.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='does%20this%20plugin%20support%20recurring%20payments%3F'>\nDoes this plugin support recurring payments?\n<\/h4>\n<p>\n<p>Currently, the WooCommerce SMT ClicToPay plugin does not support recurring payments.<\/p>\n<\/p>\n<dt id='is%20ssl%20required%20to%20use%20this%20plugin%3F'>\nIs SSL required to use this plugin?\n<\/h4>\n<p>\n<p>Yes, an SSL certificate must be installed on your site to use WooCommerce SMT ClicToPay.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.0<\/h4>\n<ul>\n<li>Initial release.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/clictopay-for-woocommerce\/assets\/screenshot-1.JPG?rev=3040922\"><img src=\"https:\/\/ps.w.org\/clictopay-for-woocommerce\/assets\/screenshot-1.JPG?rev=3040922\" alt=\"The main Payment Methods page of WooCommerce.\"><\/a><p>The main Payment Methods page of WooCommerce.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/clictopay-for-woocommerce\/assets\/screenshot-2.JPG?rev=3040922\"><img src=\"https:\/\/ps.w.org\/clictopay-for-woocommerce\/assets\/screenshot-2.JPG?rev=3040922\" alt=\"The main settings page of the plugin.\"><\/a><p>The main settings page of the plugin.<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Works perfectly for our websites<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/ishinx\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/c5354944236da0fd6159017ad2309bcd?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/c5354944236da0fd6159017ad2309bcd?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/ishinx\/\" class=\"reviewer-name\">ishinx<\/a> on <span class=\"review-date\">April 13, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">We use this plugin for our customers from Tunisia for car rental websites and it works perfectly<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "This plugin allows you to accept online payments by SPS Clictopay SMT in WooComerce.",
+    "description": "<p>WooCommerce SMT ClicToPay is a simple and powerful plugin that enables your WooCommerce store to accept online payments via the SPS ClictoPay SMT payment gateway. This seamless integration allows your customers to make secure credit card payments directly on your store.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/clictopay-for-woocommerce.1.0.0.zip",
+    "upgrade_notice": {
+        "1.0.0": "<p>First Release<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/clictopay-for-woocommerce\/assets\/screenshot-1.JPG?rev=3040922",
+            "caption": "The main Payment Methods page of WooCommerce."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/clictopay-for-woocommerce\/assets\/screenshot-2.JPG?rev=3040922",
+            "caption": "The main settings page of the plugin."
+        }
+    },
+    "tags": {
+        "clictopay": "clictopay",
+        "credit-card-payment": "credit card payment",
+        "payment-gateway": "payment gateway",
+        "woocommerce": "woocommerce"
+    },
+    "stable_tag": "1.0.0",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/clictopay-for-woocommerce.1.0.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/clictopay-for-woocommerce.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/clictopay-for-woocommerce\/assets\/banner-772x250.JPG?rev=3040922",
+        "high": "https:\/\/ps.w.org\/clictopay-for-woocommerce\/assets\/banner-1544x500.JPG?rev=3040922"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/clictopay-for-woocommerce\/assets\/icon-128x128.png?rev=3040922",
+        "2x": "https:\/\/ps.w.org\/clictopay-for-woocommerce\/assets\/icon-256x256.png?rev=3040922"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

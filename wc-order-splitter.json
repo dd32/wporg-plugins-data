@@ -1,0 +1,84 @@
+{
+    "name": "WooCommerce Order Splitter",
+    "slug": "wc-order-splitter",
+    "version": "1.0.1",
+    "author": "<a href=\"https:\/\/yoohw.co\">Yo Ohw<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/yoohw\/",
+    "contributors": {
+        "yoohw": {
+            "profile": "https:\/\/profiles.wordpress.org\/yoohw\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2ddc7c9890b068ddb078d5e3bd0cda82?s=96&d=monsterid&r=g",
+            "display_name": "Yo Ohw"
+        }
+    },
+    "requires": "5.2",
+    "tested": "6.3.4",
+    "requires_php": "7.2",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/wc-order-splitter\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 112,
+    "last_updated": "2024-03-09 1:54am GMT",
+    "added": "2024-03-03",
+    "homepage": "https:\/\/yoohw.co\/plugins\/wc-order-splitter",
+    "sections": {
+        "description": "<p>The WooCommerce Order Splitter plugin allows you to split an order into multiple orders within the WooCommerce admin panel. This is particularly useful for managing large orders that need to be divided for processing.<\/p>\n<h3>Features<\/h3>\n<ul>\n<li>Adds a &#8220;Split Order&#8221; button to the WooCommerce order edit page.<\/li>\n<li>Allows splitting of order items into a new order with specified quantities.<\/li>\n<li>Adjusts quantities in the original order based on the split.<\/li>\n<li>Hides the &#8220;Split Order&#8221; button for orders that are either cancelled or completed.<\/li>\n<li>Ensures accurate cost calculations for the new split order.<\/li>\n<\/ul>\n<h3>Usage<\/h3>\n<ol>\n<li><strong>Open Order<\/strong>: Navigate to the WooCommerce order edit page for any order that you wish to split.<\/li>\n<li><strong>Split Order<\/strong>: Click on the &#8220;Split Order&#8221; button. If the order is not cancelled or completed, a new section will appear allowing you to specify quantities for the split.<\/li>\n<li><strong>Specify Quantities<\/strong>: Enter the quantities for each item that you want to move to the new order.<\/li>\n<li><strong>Create New Order<\/strong>: Click the &#8220;Split It&#8221; button. The plugin will create a new order with the specified items and adjust the quantities in the original order.<\/li>\n<\/ol>\n<h3>Notes<\/h3>\n<ul>\n<li>The &#8220;Split Order&#8221; button is not displayed for orders with &#8216;cancelled&#8217; or &#8216;completed&#8217; status.<\/li>\n<li>The plugin is compatible with WooCommerce 8.1, WordPress 6.3, and PHP 7.4+.<\/li>\n<li>This plugin does not handle stock management for the split items. Ensure to adjust stock levels manually if required.<\/li>\n<\/ul>\n<h3>Support<\/h3>\n<p>For support, please contact dev@yoohw.co.<\/p>\n<h3>License<\/h3>\n<p>This plugin is licensed under the GPL v2 or later.<\/p>\n<h3>Author<\/h3>\n<p>Yo Ohw \/\/ Visit us: https:\/\/yoohw.co<\/p>\n",
+        "installation": "<ol>\n<li><strong>Upload Plugin<\/strong>: Upload the <code>wc-order-splitter<\/code> folder to the <code>\/wp-content\/plugins\/<\/code> directory.<\/li>\n<li><strong>Activate Plugin<\/strong>: Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress.<\/li>\n<li><strong>Prerequisites<\/strong>: Ensure that WooCommerce is installed and activated.<\/li>\n<\/ol>\n",
+        "changelog": "<h3>1.0.1<\/h3>\n<ul>\n<li>A serious error fixed.<\/li>\n<\/ul>\n<h3>1.0<\/h3>\n<ul>\n<li>First released.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/wc-order-splitter\/assets\/screenshot-1.png?rev=3044223\"><img src=\"https:\/\/ps.w.org\/wc-order-splitter\/assets\/screenshot-1.png?rev=3044223\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "The WooCommerce Order Splitter plugin allows you to split an order into multiple orders within the WooCommerce admin panel.",
+    "description": "<p>The WooCommerce Order Splitter plugin allows you to split an order into multiple orders within the WooCommerce admin panel. This is particularly useful for managing large orders that need to be divided for processing.<\/p>\n<h3>Features<\/h3>\n<ul>\n<li>Adds a &#8220;Split Order&#8221; button to the WooCommerce order edit page.<\/li>\n<li>Allows splitting of order items into a new order with specified quantities.<\/li>\n<li>Adjusts quantities in the original order based on the split.<\/li>\n<li>Hides the &#8220;Split Order&#8221; button for orders that are either cancelled or completed.<\/li>\n<li>Ensures accurate cost calculations for the new split order.<\/li>\n<\/ul>\n<h3>Usage<\/h3>\n<ol>\n<li><strong>Open Order<\/strong>: Navigate to the WooCommerce order edit page for any order that you wish to split.<\/li>\n<li><strong>Split Order<\/strong>: Click on the &#8220;Split Order&#8221; button. If the order is not cancelled or completed, a new section will appear allowing you to specify quantities for the split.<\/li>\n<li><strong>Specify Quantities<\/strong>: Enter the quantities for each item that you want to move to the new order.<\/li>\n<li><strong>Create New Order<\/strong>: Click the &#8220;Split It&#8221; button. The plugin will create a new order with the specified items and adjust the quantities in the original order.<\/li>\n<\/ol>\n<h3>Notes<\/h3>\n<ul>\n<li>The &#8220;Split Order&#8221; button is not displayed for orders with &#8216;cancelled&#8217; or &#8216;completed&#8217; status.<\/li>\n<li>The plugin is compatible with WooCommerce 8.1, WordPress 6.3, and PHP 7.4+.<\/li>\n<li>This plugin does not handle stock management for the split items. Ensure to adjust stock levels manually if required.<\/li>\n<\/ul>\n<h3>Support<\/h3>\n<p>For support, please contact dev@yoohw.co.<\/p>\n<h3>License<\/h3>\n<p>This plugin is licensed under the GPL v2 or later.<\/p>\n<h3>Author<\/h3>\n<p>Yo Ohw \/\/ Visit us: https:\/\/yoohw.co<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wc-order-splitter.1.0.1.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/wc-order-splitter\/assets\/screenshot-1.png?rev=3044223",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "order-splitter": "order splitter",
+        "separate-order": "separate order",
+        "split-order": "Split Order",
+        "woocommerce-order-splitter": "woocommerce order splitter"
+    },
+    "stable_tag": "1.0.1",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/wc-order-splitter.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/wc-order-splitter.1.0.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/wc-order-splitter.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/wc-order-splitter\/assets\/banner-772x250.png?rev=3044223",
+        "high": "https:\/\/ps.w.org\/wc-order-splitter\/assets\/banner-1544x500.png?rev=3044223"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/wc-order-splitter\/assets\/icon.svg?rev=3044223",
+        "svg": "https:\/\/ps.w.org\/wc-order-splitter\/assets\/icon.svg?rev=3044223"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

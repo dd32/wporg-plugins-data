@@ -1,0 +1,80 @@
+{
+    "name": "HelloAsso Payments for WooCommerce",
+    "slug": "helloasso-payments-for-woocommerce",
+    "version": "1.0.0",
+    "author": "<a href=\"https:\/\/helloasso.com\">HelloAsso<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/helloasso\/",
+    "contributors": {
+        "helloasso": {
+            "profile": "https:\/\/profiles.wordpress.org\/helloasso\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/4adadfcaceb15bd7140cad5f1c9955ff?s=96&d=monsterid&r=g",
+            "display_name": "HelloAsso"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.4.4",
+    "requires_php": "7.2.34",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/helloasso-payments-for-woocommerce\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 45,
+    "last_updated": "2024-04-04 1:20pm GMT",
+    "added": "2024-04-02",
+    "homepage": "",
+    "sections": {
+        "description": "<p>L\u2019extension <strong>HelloAsso Payments for WooCommerce<\/strong> vous permet d\u2019ajouter HelloAsso comme moyen de paiement sur votre boutique WooCommerce.<br \/>\nUne fois votre compte HelloAsso li\u00e9, vos paiements seront r\u00e9alis\u00e9s gratuitement (sans frais et sans commission pour votre association) par HelloAsso via le module <a href=\"https:\/\/www.helloasso.com\/outils\/checkout\" rel=\"nofollow ugc\">HelloAsso Checkout<\/a><br \/>\nTous les paiements r\u00e9alis\u00e9s via votre boutique WooCommerce apparaitront dans votre compte HelloAsso comme des paiements r\u00e9alis\u00e9s via le Checkout avec le num\u00e9ro de commande WooCommerce.<\/p>\n<p>Vous pouvez cr\u00e9er un compte de test sur <a href=\"https:\/\/www.helloasso-sandbox.com\" rel=\"nofollow ugc\">notre environnement de test<\/a> afin de tester des paiements sur votre boutique.<\/p>\n<p>L\u2019extension <strong>HelloAsso Payments for WooCommerce<\/strong> utilise l&#8217;API externe d&#8217;HelloAsso pour effectuer les paiements et la connexion de votre association.<br \/>\nEn utilisant ce plugin, vous acceptez les <a href=\"https:\/\/www.helloasso.com\/cgu-associations\/2023-10\" rel=\"nofollow ugc\">conditions g\u00e9n\u00e9rales d&#8217;utilisation<\/a> et \u00e0 la <a href=\"https:\/\/www.helloasso.com\/confidentialite\" rel=\"nofollow ugc\">politique de confidentialit\u00e9<\/a> de HelloAsso.<\/p>\n<h4>HelloAsso<\/h4>\n<p>HelloAsso, est la solution gratuite des associations pour collecter des paiements et dons en ligne.<\/p>\n<p>Plus de 300 000 associations fran\u00e7aises font confiance \u00e0 HelloAsso pour gagner du temps et financer leurs projets avec plusieurs outils pour :<br \/>\n* Financer de nouveaux projets avec le <strong>crowdfunding<\/strong><br \/>\n* Organiser des \u00e9v\u00e9nements et g\u00e9rer des comp\u00e9titions avec la <strong>billetterie<\/strong><br \/>\n* G\u00e9rer les cotisations avec <strong>l\u2019adh\u00e9sion<\/strong><br \/>\n* R\u00e9colter des dons avec le formulaire de <strong>don en ligne<\/strong><br \/>\n* Augmenter les ressources financi\u00e8res avec la <strong>boutique en ligne<\/strong><br \/>\n* Et plus encore avec les int\u00e9grations vers des solutions de comptabilit\u00e9, CRM, recherche de<br \/>\nb\u00e9n\u00e9voles, etc.<\/p>\n<p>HelloAsso, c\u2019est une \u00e9quipe de plus de 180 personnes au service de plus de 300 000 associations.<\/p>\n<p>HelloAsso aide les associations \u00e0 collecter des paiements en ligne et propose ses services gratuitement.<br \/>\nHelloAsso prend \u00e0 sa charge tous les frais de transaction pour que vous puissiez b\u00e9n\u00e9ficier de la totalit\u00e9 des sommes vers\u00e9es par vos publics, <strong>sans frais<\/strong>. Les contributions volontaires laiss\u00e9es par ces derniers sont notre unique source de revenus.<\/p>\n<p>Support HelloAsso : Une \u00e9quipe d\u00e9di\u00e9e de 15 personnes est disponible par t\u00e9l\u00e9phone (05 64 88 02 34) et par email \u00e0 contact@helloasso.org<\/p>\n<p>&#8211;<\/p>\n<h3>Video<\/h3>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/Bjaqc_Yun8g?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n",
+        "installation": "<ol>\n<li>T\u00e9l\u00e9chargez le plugin sur votre WordPress<\/li>\n<li>Activez dans la partie &#8216;Extensions&#8217; du back-office WordPress<\/li>\n<li>Cr\u00e9ez-vous un compte sur helloasso.com ou liez votre compte existant.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='qu%27est-ce%20que%20helloasso%20%3F'>\nQu&#8217;est-ce que HelloAsso ?\n<\/h4>\n<p>\n<p><a href=\"https:\/\/www.helloasso.com\" rel=\"nofollow ugc\">HelloAsso<\/a> est une solution gratuite qui permet \u00e0 toutes les associations fran\u00e7aises de recevoir des paiements sur internet, sans frais ni commission. Plus de 80 000 associations en France font confiance \u00e0 HelloAsso pour financer leurs activit\u00e9s et gagner du temps.<\/p>\n<\/p>\n<dt id='est-ce%20que%20helloasso%20est%20vraiment%20gratuit%20%3F'>\nEst-ce que HelloAsso est vraiment gratuit ?\n<\/h4>\n<p>\n<p>Oui ! <a href=\"https:\/\/www.helloasso.com\/comment-ca-marche\" rel=\"nofollow ugc\">HelloAsso ne pr\u00e9l\u00e8ve aucun frais ni aucune commission<\/a> sur les paiements qui sont effectu\u00e9s par vos contributeurs. Il n&#8217;y a aucune limite d&#8217;utilisation, que ce soit en nombre de formulaires ou bien en montant collect\u00e9. Souhaitant faire profiter de notre solution \u00e0 toutes les associations, nous avons choisi un mod\u00e8le alternatif bas\u00e9 sur la contribution volontaire des internautes. Lorsqu&#8217;un internaute effectue un paiement \u00e0 votre association (par exemple en achetant une place pour votre prochain \u00e9v\u00e9nement), il a la possibilit\u00e9 de laisser une contribution volontaire facultatif \u00e0 HelloAsso. Cette contribution volontaire est libre, c&#8217;est \u00e0 dire que l&#8217;internaute peut choisir le montant de la contribution volontaire qu&#8217;il souhaite donner, ou bien de ne pas laisser de contribution volontaire.<\/p>\n<p><a href=\"https:\/\/www.helloasso.com\/comment-ca-marche\" rel=\"nofollow ugc\">En savoir plus sur le model \u00e9conomique d&#8217;HelloAsso.<\/a><\/p>\n<\/p>\n<dt id='qui%20peut%20utiliser%20helloasso%20%3F'>\nQui peut utiliser HelloAsso ?\n<\/h4>\n<p>\n<p>Seules les associations fran\u00e7aises d\u00e9clar\u00e9es et qui poss\u00e8dent un compte bancaire au nom de l&#8217;association peuvent utiliser HelloAsso. Si vous \u00eates une entreprise ou un particulier, vous ne pouvez pas collecter de l&#8217;argent via HelloAsso. En revanche vous pouvez \u00e9videmment contribuer \u00e0 des projets associatifs !<\/p>\n<\/p>\n<dt id='comment%20utiliser%20l%27extension%20helloasso%20%3F'>\nComment utiliser l&#8217;extension HelloAsso ?\n<\/h4>\n<p>\n<p>Ce plugin vous permet de s\u00e9lectionner HelloAsso comme moyen de paiement pour votre boutique. Ainsi, vous b\u00e9n\u00e9ficiez des avantages de la boutique tout en r\u00e9coltant 100% des montants des paiements (sans frais, sans commission).<\/p>\n<\/p>\n<dt id='j%27ai%20un%20probl%C3%A8me%20ou%20une%20question%2C%20comment%20contacter%20le%20support%20%3F'>\nJ&#8217;ai un probl\u00e8me ou une question, comment contacter le support ?\n<\/h4>\n<p>\n<p>Notre \u00e9quipe Accompagnement est disponible par email (contact@helloasso.org) et par t\u00e9l\u00e9phone du lundi au vendredi au 05 64 88 02 34.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0<\/h4>\n<ul>\n<li>D\u00e9ploiement du plugin<\/li>\n<\/ul>\n",
+        "reviews": ""
+    },
+    "short_description": "L\u2019extension HelloAsso Payments for WooCommerce, votre solution de paiement gratuite pour\nvotre boutique.",
+    "description": "<p>L\u2019extension <strong>HelloAsso Payments for WooCommerce<\/strong> vous permet d\u2019ajouter HelloAsso comme moyen de paiement sur votre boutique WooCommerce.<br \/>\nUne fois votre compte HelloAsso li\u00e9, vos paiements seront r\u00e9alis\u00e9s gratuitement (sans frais et sans commission pour votre association) par HelloAsso via le module <a href=\"https:\/\/www.helloasso.com\/outils\/checkout\" rel=\"nofollow ugc\">HelloAsso Checkout<\/a><br \/>\nTous les paiements r\u00e9alis\u00e9s via votre boutique WooCommerce apparaitront dans votre compte HelloAsso comme des paiements r\u00e9alis\u00e9s via le Checkout avec le num\u00e9ro de commande WooCommerce.<\/p>\n<p>Vous pouvez cr\u00e9er un compte de test sur <a href=\"https:\/\/www.helloasso-sandbox.com\" rel=\"nofollow ugc\">notre environnement de test<\/a> afin de tester des paiements sur votre boutique.<\/p>\n<p>L\u2019extension <strong>HelloAsso Payments for WooCommerce<\/strong> utilise l&#8217;API externe d&#8217;HelloAsso pour effectuer les paiements et la connexion de votre association.<br \/>\nEn utilisant ce plugin, vous acceptez les <a href=\"https:\/\/www.helloasso.com\/cgu-associations\/2023-10\" rel=\"nofollow ugc\">conditions g\u00e9n\u00e9rales d&#8217;utilisation<\/a> et \u00e0 la <a href=\"https:\/\/www.helloasso.com\/confidentialite\" rel=\"nofollow ugc\">politique de confidentialit\u00e9<\/a> de HelloAsso.<\/p>\n<h4>HelloAsso<\/h4>\n<p>HelloAsso, est la solution gratuite des associations pour collecter des paiements et dons en ligne.<\/p>\n<p>Plus de 300 000 associations fran\u00e7aises font confiance \u00e0 HelloAsso pour gagner du temps et financer leurs projets avec plusieurs outils pour :<br \/>\n* Financer de nouveaux projets avec le <strong>crowdfunding<\/strong><br \/>\n* Organiser des \u00e9v\u00e9nements et g\u00e9rer des comp\u00e9titions avec la <strong>billetterie<\/strong><br \/>\n* G\u00e9rer les cotisations avec <strong>l\u2019adh\u00e9sion<\/strong><br \/>\n* R\u00e9colter des dons avec le formulaire de <strong>don en ligne<\/strong><br \/>\n* Augmenter les ressources financi\u00e8res avec la <strong>boutique en ligne<\/strong><br \/>\n* Et plus encore avec les int\u00e9grations vers des solutions de comptabilit\u00e9, CRM, recherche de<br \/>\nb\u00e9n\u00e9voles, etc.<\/p>\n<p>HelloAsso, c\u2019est une \u00e9quipe de plus de 180 personnes au service de plus de 300 000 associations.<\/p>\n<p>HelloAsso aide les associations \u00e0 collecter des paiements en ligne et propose ses services gratuitement.<br \/>\nHelloAsso prend \u00e0 sa charge tous les frais de transaction pour que vous puissiez b\u00e9n\u00e9ficier de la totalit\u00e9 des sommes vers\u00e9es par vos publics, <strong>sans frais<\/strong>. Les contributions volontaires laiss\u00e9es par ces derniers sont notre unique source de revenus.<\/p>\n<p>Support HelloAsso : Une \u00e9quipe d\u00e9di\u00e9e de 15 personnes est disponible par t\u00e9l\u00e9phone (05 64 88 02 34) et par email \u00e0 contact@helloasso.org<\/p>\n<p>&#8211;<\/p>\n<h3>Video<\/h3>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/Bjaqc_Yun8g?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/helloasso-payments-for-woocommerce.zip",
+    "upgrade_notice": {
+        "1.0": "<ul>\n<li>Non applicable<\/li>\n<\/ul>"
+    },
+    "screenshots": [],
+    "tags": {
+        "association": "association",
+        "billetterie": "billetterie",
+        "don": "don",
+        "helloasso": "helloasso",
+        "payment": "payment"
+    },
+    "stable_tag": "trunk",
+    "versions": {
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/helloasso-payments-for-woocommerce.1.0.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/helloasso.com",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/helloasso-payments-for-woocommerce\/assets\/banner-772x250.jpg?rev=3062467",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/helloasso-payments-for-woocommerce\/assets\/icon.svg?rev=3062452",
+        "svg": "https:\/\/ps.w.org\/helloasso-payments-for-woocommerce\/assets\/icon.svg?rev=3062452"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

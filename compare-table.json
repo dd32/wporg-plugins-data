@@ -1,0 +1,106 @@
+{
+    "name": "Compare table",
+    "slug": "compare-table",
+    "version": "1.1.0",
+    "author": "<a href=\"https:\/\/wp-developer.eu\">Joeri van Veen<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/ruigehond\/",
+    "contributors": {
+        "ruigehond": {
+            "profile": "https:\/\/profiles.wordpress.org\/ruigehond\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/602fe5b1f9dd51e6d3f938e3b5dbd2f5?s=96&d=monsterid&r=g",
+            "display_name": "Joeri van Veen"
+        }
+    },
+    "requires": "6.0",
+    "tested": "6.5.2",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 60,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 1,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/compare-table\/",
+    "support_threads": 1,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 165,
+    "last_updated": "2024-03-31 3:27pm GMT",
+    "added": "2024-02-17",
+    "homepage": "https:\/\/github.com\/joerivanveen\/compare-table",
+    "sections": {
+        "description": "<p>Your visitors can easily compare services, products or anything else with the tables you create with this compare-table plugin.<\/p>\n<p>In your dashboard create as many tables as you want. Each table has <em>subjects<\/em> (the entities that are being compared) and <em>fields<\/em> (the properties the entities can be compared on).<\/p>\n<p>You can order the subjects and fields in any way you want. You can also add a description to each field, which will be shown when a visitor hovers over the field name.<\/p>\n<p>Set the initial view of each table (how many columns, which subjects) which the visitor can change with select lists.<\/p>\n<p>Everything is nicely formatted by default, albeit a bit bland. You can easily override the css with your own, should you want to.<\/p>\n<p>The table works fine with touch devices as well. On mobile devices the width is automatically restricted to two columns.<\/p>\n<p>Show a compare-table anywhere by using the shortcode <code>[compare-table]<\/code> (which will show the first table).<br \/>\nTo show a specific table that is not the first one, you can provide its id (the <code>type_id<\/code> in the querystring) or title, like so:<br \/>\n&#8211; <code>[compare-table type=1]<\/code> the id must be the type_id in the querystring when you edit this table<br \/>\n&#8211; <code>[compare-table type=\"my table\"]<\/code> this must be the exact title you gave your table<\/p>\n<p>Note: providing the id is slightly faster.<\/p>\n<p>The plugin adds 4 tables to your database. For each compare-table there are two highly optimized queries executed.<\/p>\n<p>Enjoy the plugin! Let me know if you have any questions.<\/p>\n",
+        "installation": "<p>Install the plugin by clicking \u2018Install now\u2019 below, or the \u2018Download\u2019 button, and put the <code>compare-table<\/code> folder in your <code>plugins<\/code> folder. Don\u2019t forget to activate it.<\/p>\n",
+        "changelog": "<p>1.1.0: restore wp delete links<\/p>\n<p>1.0.17: release<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/compare-table\/assets\/screenshot-1.png?rev=3037065\"><img src=\"https:\/\/ps.w.org\/compare-table\/assets\/screenshot-1.png?rev=3037065\" alt=\"&lt;p&gt;Compare table for a visitor.&lt;\/p&gt;\"><\/a><p><p>Compare table for a visitor.<\/p><\/p><\/li><li><a href=\"https:\/\/ps.w.org\/compare-table\/assets\/screenshot-2.png?rev=3037065\"><img src=\"https:\/\/ps.w.org\/compare-table\/assets\/screenshot-2.png?rev=3037065\" alt=\"&lt;p&gt;Compare table settings with Subject(s) and Field(s).&lt;\/p&gt;\"><\/a><p><p>Compare table settings with Subject(s) and Field(s).<\/p><\/p><\/li><li><a href=\"https:\/\/ps.w.org\/compare-table\/assets\/screenshot-3.png?rev=3037065\"><img src=\"https:\/\/ps.w.org\/compare-table\/assets\/screenshot-3.png?rev=3037065\" alt=\"&lt;p&gt;Provide values for a Subject (or a Field).&lt;\/p&gt;\"><\/a><p><p>Provide values for a Subject (or a Field).<\/p><\/p><\/li><li><a href=\"https:\/\/ps.w.org\/compare-table\/assets\/screenshot-4.png?rev=3037065\"><img src=\"https:\/\/ps.w.org\/compare-table\/assets\/screenshot-4.png?rev=3037065\" alt=\"&lt;p&gt;General settings.&lt;\/p&gt;\"><\/a><p><p>General settings.<\/p><\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Damp, but good!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"3 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"3\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/lotfreeman\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/12620ad7d2eaff7d28335611a1d6cad5?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/12620ad7d2eaff7d28335611a1d6cad5?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/lotfreeman\/\" class=\"reviewer-name\">lotfreeman<\/a> on <span class=\"review-date\">March 1, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Needs some work, but the idea is great. We will use it. We wish the author to develop the idea!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">My rating is three stars so far<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Creates a table where a visitor can compare services or items or anything really, that you provide from the admin interface.",
+    "description": "<p>Your visitors can easily compare services, products or anything else with the tables you create with this compare-table plugin.<\/p>\n<p>In your dashboard create as many tables as you want. Each table has <em>subjects<\/em> (the entities that are being compared) and <em>fields<\/em> (the properties the entities can be compared on).<\/p>\n<p>You can order the subjects and fields in any way you want. You can also add a description to each field, which will be shown when a visitor hovers over the field name.<\/p>\n<p>Set the initial view of each table (how many columns, which subjects) which the visitor can change with select lists.<\/p>\n<p>Everything is nicely formatted by default, albeit a bit bland. You can easily override the css with your own, should you want to.<\/p>\n<p>The table works fine with touch devices as well. On mobile devices the width is automatically restricted to two columns.<\/p>\n<p>Show a compare-table anywhere by using the shortcode <code>[compare-table]<\/code> (which will show the first table).<br \/>\nTo show a specific table that is not the first one, you can provide its id (the <code>type_id<\/code> in the querystring) or title, like so:<br \/>\n&#8211; <code>[compare-table type=1]<\/code> the id must be the type_id in the querystring when you edit this table<br \/>\n&#8211; <code>[compare-table type=\"my table\"]<\/code> this must be the exact title you gave your table<\/p>\n<p>Note: providing the id is slightly faster.<\/p>\n<p>The plugin adds 4 tables to your database. For each compare-table there are two highly optimized queries executed.<\/p>\n<p>Enjoy the plugin! Let me know if you have any questions.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/compare-table.1.1.0.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/compare-table\/assets\/screenshot-1.png?rev=3037065",
+            "caption": "<p>Compare table for a visitor.<\/p>"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/compare-table\/assets\/screenshot-2.png?rev=3037065",
+            "caption": "<p>Compare table settings with Subject(s) and Field(s).<\/p>"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/compare-table\/assets\/screenshot-3.png?rev=3037065",
+            "caption": "<p>Provide values for a Subject (or a Field).<\/p>"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/compare-table\/assets\/screenshot-4.png?rev=3037065",
+            "caption": "<p>General settings.<\/p>"
+        }
+    },
+    "tags": {
+        "compare": "compare",
+        "interactive": "interactive",
+        "items": "items",
+        "services": "services",
+        "table": "table"
+    },
+    "stable_tag": "1.1.0",
+    "versions": {
+        "1.0.17": "https:\/\/downloads.wordpress.org\/plugin\/compare-table.1.0.17.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/compare-table.1.1.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/compare-table.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/www.paypal.com\/cgi-bin\/webscr?cmd=_donations&business=hallo@ruigehond.nl&lc=US&item_name=Compare+table&no_note=0&cn=&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/compare-table\/assets\/banner-772x250.png?rev=3037065",
+        "high": "https:\/\/ps.w.org\/compare-table\/assets\/banner-1544x500.png?rev=3037065"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/compare-table\/assets\/icon-128x128.png?rev=3037065",
+        "2x": "https:\/\/ps.w.org\/compare-table\/assets\/icon-256x256.png?rev=3037065"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 60,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "compare-table",
+            "language": "nl_NL",
+            "version": "1.1.0",
+            "updated": "2024-02-17 08:43:33",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/compare-table\/1.1.0\/nl_NL.zip"
+        }
+    ]
+}

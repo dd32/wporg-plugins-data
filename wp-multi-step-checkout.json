@@ -1,0 +1,231 @@
+{
+    "name": "Multi-Step Checkout for WooCommerce",
+    "slug": "wp-multi-step-checkout",
+    "version": "2.27",
+    "author": "<a href=\"https:\/\/www.silkypress.com\">SilkyPress<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/diana_burduja\/",
+    "contributors": {
+        "diana_burduja": {
+            "profile": "https:\/\/profiles.wordpress.org\/diana_burduja\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/ef6f9b1dd4efd332104b6727b0cfc24a?s=96&d=monsterid&r=g",
+            "display_name": "Diana Burduja"
+        }
+    },
+    "requires": "3.0.1",
+    "tested": "6.5.2",
+    "requires_php": "5.2.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 90,
+    "ratings": {
+        "5": 39,
+        "4": 2,
+        "3": 1,
+        "2": 4,
+        "1": 2
+    },
+    "num_ratings": 48,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/wp-multi-step-checkout\/",
+    "support_threads": 3,
+    "support_threads_resolved": 2,
+    "active_installs": 10000,
+    "downloaded": 361008,
+    "last_updated": "2024-02-12 10:42am GMT",
+    "added": "2017-11-02",
+    "homepage": "https:\/\/wordpress.org\/plugins\/wp-multi-step-checkout\/",
+    "sections": {
+        "description": "<p>Create a better user experience by splitting the checkout process in several steps. This will also improve your conversion rate.<\/p>\n<p>The plugin was made with the use of the WooCommerce standard templates. This ensure that it should work with most the themes out there. Nevertheless, if you find that something isn&#8217;t properly working, let us know in the Support forum.<\/p>\n<h4>Features<\/h4>\n<ul>\n<li>Sleak design<\/li>\n<li>Mobile friendly<\/li>\n<li>Responsive layout<\/li>\n<li>Adjust the main color to your theme<\/li>\n<li>Inherit the form and buttons design from your theme<\/li>\n<li>Keyboard navigation<\/li>\n<\/ul>\n<h4>Available translations<\/h4>\n<ul>\n<li>German<\/li>\n<li>French<\/li>\n<\/ul>\n<p>Tags: multistep checkout, multi-step-checkout, woocommerce, checkout, shop checkout, checkout steps, checkout wizard, checkout style, checkout page<\/p>\n",
+        "installation": "<ul>\n<li>From the WP admin panel, click &#8220;Plugins&#8221; -&gt; &#8220;Add new&#8221;.<\/li>\n<li>In the browser input box, type &#8220;Multi-Step Checkout for WooCommerce&#8221;.<\/li>\n<li>Select the &#8220;Multi-Step Checkout for WooCommerce&#8221; plugin and click &#8220;Install&#8221;.<\/li>\n<li>Activate the plugin.<\/li>\n<\/ul>\n<p>OR&#8230;<\/p>\n<ul>\n<li>Download the plugin from this page.<\/li>\n<li>Save the .zip file to a location on your computer.<\/li>\n<li>Open the WP admin panel, and click &#8220;Plugins&#8221; -&gt; &#8220;Add new&#8221;.<\/li>\n<li>Click &#8220;upload&#8221;.. then browse to the .zip file downloaded from this page.<\/li>\n<li>Click &#8220;Install&#8221;.. and then &#8220;Activate plugin&#8221;.<\/li>\n<\/ul>\n<p>OR&#8230;<\/p>\n<ul>\n<li>Download the plugin from this page.<\/li>\n<li>Extract the .zip file to a location on your computer.<\/li>\n<li>Use either FTP or your hosts cPanel to gain access to your website file directories.<\/li>\n<li>Browse to the <code>wp-content\/plugins<\/code> directory.<\/li>\n<li>Upload the extracted <code>wp-multi-step-checkout<\/code> folder to this directory location.<\/li>\n<li>Open the WP admin panel.. click the &#8220;Plugins&#8221; page.. and click &#8220;Activate&#8221; under the newly added &#8220;Multi-Step Checkout for WooCommerce&#8221; plugin.<\/li>\n<\/ul>\n",
+        "faq": "\n<dt id='why%20is%20the%20login%20form%20missing%20on%20the%20checkout%20page%3F'>\nWhy is the login form missing on the checkout page?\n<\/h4>\n<p>\n<p>Make sure to enable the <code>Display returning customer login reminder on the \"Checkout\" page<\/code> option on the <code>WP Admin -&gt; WooCommerce -&gt; Settings -&gt; Accounts<\/code> page<\/p>\n<\/p>\n<dt id='is%20the%20plugin%20gdpr%20compatible%3F'>\nIs the plugin GDPR compatible?\n<\/h4>\n<p>\n<p>The plugin doesn&#8217;t add any cookies and it doesn&#8217;t modify\/add\/delete any of the form fields. It simply reorganizes the checkout form into steps.<\/p>\n<\/p>\n<dt id='my%20checkout%20page%20still%20isn%27t%20multi-step%2C%20though%20the%20plugin%20is%20activated'>\nMy checkout page still isn&#8217;t multi-step, though the plugin is activated\n<\/h4>\n<p>\n<p>Make sure to purge the cache from any of the caching plugins, or of reverse proxy services (for example CloudFlare) you&#8217;re using.<\/p>\n<p>Another possible cause could be that the checkout page isn&#8217;t using the default [woocommerce_checkout] shortcode. For example, the Elementor Pro checkout element replaces the default [woocommerce_checkout] shortcode with its HTML counterpart. Go to the &#8220;WP Admin -&gt; Pages&#8221; page, open the checkout page for editing and make sure the [woocommerce_checkout] is present there.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>2.27 2024-02-11<\/h4>\n<ul>\n<li>Compatibility with the Huntor theme<\/li>\n<li>Fix: the steps don&#8217;t scroll up to the top on the Flatsome theme<\/li>\n<\/ul>\n<h4>2.26 2023-10-16<\/h4>\n<ul>\n<li>Fix: open the Login step when clicking the &#8220;Please log in&#8221; link in the &#8220;Account already registered&#8221; message<\/li>\n<li>Feature: option to place the input fields from the Delivery &amp; Pickup Time Date plugin in a separate step<\/li>\n<\/ul>\n<h4>2.25 2023-06-24<\/h4>\n<ul>\n<li>Compatibility with the Mollie Payments plugin<\/li>\n<\/ul>\n<h4>2.24 2023-05-19<\/h4>\n<ul>\n<li>Fix: missing &#8220;next\/previous&#8221; button with the Elementor Pro checkout widget<\/li>\n<li>Fix: the Payment section was missing on the Blocksy theme, when the payment is in a separate step<\/li>\n<li>Fix: use the &#8220;default&#8221; checkout layout type from the Astra Addon Pro plugin <\/li>\n<li>Compatibility with the WooCommerce &#8220;Custom Order Tables&#8221; feature<\/li>\n<\/ul>\n<h4>2.23 2023-02-03<\/h4>\n<ul>\n<li>Fix: add the &#8220;woocommerce_checkout_before_order_review&#8221; action hook<\/li>\n<li>Compatibility with the Fastland theme.<\/li>\n<\/ul>\n<p><a href=\"https:\/\/plugins.svn.wordpress.org\/wp-multi-step-checkout\/trunk\/changelog.txt\" rel=\"nofollow ugc\">See changelog for all versions<\/a>.<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/screenshot-1.png?rev=1770914\"><img src=\"https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/screenshot-1.png?rev=1770914\" alt=\"Login form\"><\/a><p>Login form<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/screenshot-2.png?rev=1770914\"><img src=\"https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/screenshot-2.png?rev=1770914\" alt=\"Billing\"><\/a><p>Billing<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/screenshot-3.png?rev=1770914\"><img src=\"https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/screenshot-3.png?rev=1770914\" alt=\"Review Order\"><\/a><p>Review Order<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/screenshot-4.png?rev=1770914\"><img src=\"https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/screenshot-4.png?rev=1770914\" alt=\"Choose Payment\"><\/a><p>Choose Payment<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/screenshot-5.png?rev=2455398\"><img src=\"https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/screenshot-5.png?rev=2455398\" alt=\"Settings page\"><\/a><p>Settings page<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/screenshot-6.png?rev=1771841\"><img src=\"https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/screenshot-6.png?rev=1771841\" alt=\"On mobile devices\"><\/a><p>On mobile devices<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Nice but...<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"2 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"2\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/ninostar78\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/0eabc35b93497fac962f28a4f4305b34?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/0eabc35b93497fac962f28a4f4305b34?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/ninostar78\/\" class=\"reviewer-name\">ninostar78<\/a> on <span class=\"review-date\">June 20, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>It's nice plugin, but it's made in such way you need to buy PRO version, if you want to be useful (for example: new customers can't register from checkout or errors aren't validated in each step, but on last page). Otherwise it's okay plugin... <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Perfect, It Works very well.<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/delaitec\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/2804fc50fce35646c4240aaccaff54df?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/2804fc50fce35646c4240aaccaff54df?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/delaitec\/\" class=\"reviewer-name\">delaitec<\/a> on <span class=\"review-date\">June 8, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>WOW, This plugin is perfect.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>It works very well, I recommend it to everyone.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Plugin parfait<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/hector7\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/06aecd29446f5e52c250be98b71fdece?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/06aecd29446f5e52c250be98b71fdece?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/hector7\/\" class=\"reviewer-name\">hector7<\/a> on <span class=\"review-date\">March 28, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Merci pour ce travail.<br \/>Ce plugin est parfait, m\u00eame dans sa version gratuite ; il rend la version de base de Woocommerce bien plus esth\u00e9tique et permet un meilleur affichage des containers.<br \/>Bravo !<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">thanks for this great plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mohamedzaky\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/30c949c719c79ba031bf8f2eccd29314?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/30c949c719c79ba031bf8f2eccd29314?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mohamedzaky\/\" class=\"reviewer-name\">mohamedzaky<\/a> on <span class=\"review-date\">August 12, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">thanks for this great plugin<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">I am loving it!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/umairdevelopers\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d860aa955d4ec06fbcda88d75c3b03cc?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d860aa955d4ec06fbcda88d75c3b03cc?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/umairdevelopers\/\" class=\"reviewer-name\">umairdevelopers<\/a> on <span class=\"review-date\">April 2, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">This is the best and best plugin I have ever had, and I am using it since 2021, I just want to add a request kindly just change the text of \"Shipping\" to \"Shipping Method\" with bold and 23px letters and also same with \"Payment\" to \"Payment Method\". <\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/vickydam\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/fe02ff4795499cfe66f96cdd3a4c9224?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/fe02ff4795499cfe66f96cdd3a4c9224?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/vickydam\/\" class=\"reviewer-name\">vickydam<\/a> on <span class=\"review-date\">March 15, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Functional and beautiful plugin<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Does not work with &quot;Germanized&quot; plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/baumkuchen\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/95afd7657130886440eb272c54304ab3?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/95afd7657130886440eb272c54304ab3?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/baumkuchen\/\" class=\"reviewer-name\">baumkuchen<\/a> on <span class=\"review-date\">September 25, 2021<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">functionality of the free version is good and looks good. but if i activate the plugin Germanized the Multi-Step Checkout for WooCommerce will not work anymore.<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">It works very well<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"4 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"4\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/robertorefresh\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/8b843a500f77cc29dfa5b586e0a866a3?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/8b843a500f77cc29dfa5b586e0a866a3?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/robertorefresh\/\" class=\"reviewer-name\">robertorefresh<\/a> on <span class=\"review-date\">September 22, 2021<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Thans a lot guys.<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">work fine for me<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/dimafirst\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/fb4da48d242d2e26000a87cd0ba600d1?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/fb4da48d242d2e26000a87cd0ba600d1?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/dimafirst\/\" class=\"reviewer-name\">Dima First <small>(dimafirst)<\/small><\/a> on <span class=\"review-date\">September 10, 2021<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">cool<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">:)<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/krasipeace\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/8edfac89f13534f9f326843317c12ff0?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/8edfac89f13534f9f326843317c12ff0?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/krasipeace\/\" class=\"reviewer-name\">krasipeace<\/a> on <span class=\"review-date\">August 25, 2021<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">:)<\/div>\n<\/div>\n"
+    },
+    "short_description": "Change your WooCommerce checkout page with a multi-step checkout page. This will let your customers have a faster and easier checkout process, therefo &hellip;",
+    "description": "<p>Create a better user experience by splitting the checkout process in several steps. This will also improve your conversion rate.<\/p>\n<p>The plugin was made with the use of the WooCommerce standard templates. This ensure that it should work with most the themes out there. Nevertheless, if you find that something isn&#8217;t properly working, let us know in the Support forum.<\/p>\n<h4>Features<\/h4>\n<ul>\n<li>Sleak design<\/li>\n<li>Mobile friendly<\/li>\n<li>Responsive layout<\/li>\n<li>Adjust the main color to your theme<\/li>\n<li>Inherit the form and buttons design from your theme<\/li>\n<li>Keyboard navigation<\/li>\n<\/ul>\n<h4>Available translations<\/h4>\n<ul>\n<li>German<\/li>\n<li>French<\/li>\n<\/ul>\n<p>Tags: multistep checkout, multi-step-checkout, woocommerce, checkout, shop checkout, checkout steps, checkout wizard, checkout style, checkout page<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.27.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/screenshot-1.png?rev=1770914",
+            "caption": "Login form"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/screenshot-2.png?rev=1770914",
+            "caption": "Billing"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/screenshot-3.png?rev=1770914",
+            "caption": "Review Order"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/screenshot-4.png?rev=1770914",
+            "caption": "Choose Payment"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/screenshot-5.png?rev=2455398",
+            "caption": "Settings page"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/screenshot-6.png?rev=1771841",
+            "caption": "On mobile devices"
+        }
+    },
+    "tags": {
+        "checkout": "checkout",
+        "multi-step-checkout": "multi-step checkout",
+        "multistep-checkout": "multistep checkout",
+        "shop-checkout": "shop checkout",
+        "woocommerce": "woocommerce"
+    },
+    "stable_tag": "2.27",
+    "versions": {
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.0.zip",
+        "1.1": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.1.zip",
+        "1.10": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.10.zip",
+        "1.11": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.11.zip",
+        "1.12": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.12.zip",
+        "1.13": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.13.zip",
+        "1.14": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.14.zip",
+        "1.15": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.15.zip",
+        "1.16": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.16.zip",
+        "1.16.1": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.16.1.zip",
+        "1.16.2": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.16.2.zip",
+        "1.17": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.17.zip",
+        "1.18": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.18.zip",
+        "1.19": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.19.zip",
+        "1.2": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.2.zip",
+        "1.20": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.20.zip",
+        "1.3": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.3.zip",
+        "1.4": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.4.zip",
+        "1.5": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.5.zip",
+        "1.6": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.6.zip",
+        "1.7": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.7.zip",
+        "1.8": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.8.zip",
+        "1.9": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.1.9.zip",
+        "2.0": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.0.zip",
+        "2.1": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.1.zip",
+        "2.10": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.10.zip",
+        "2.11": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.11.zip",
+        "2.12": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.12.zip",
+        "2.13": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.13.zip",
+        "2.14": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.14.zip",
+        "2.15": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.15.zip",
+        "2.17": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.17.zip",
+        "2.18": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.18.zip",
+        "2.19": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.19.zip",
+        "2.2": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.2.zip",
+        "2.20": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.20.zip",
+        "2.21": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.21.zip",
+        "2.21.1": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.21.1.zip",
+        "2.22": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.22.zip",
+        "2.23": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.23.zip",
+        "2.24": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.24.zip",
+        "2.24.1": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.24.1.zip",
+        "2.25": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.25.zip",
+        "2.26": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.26.zip",
+        "2.27": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.27.zip",
+        "2.3": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.3.zip",
+        "2.4": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.4.zip",
+        "2.5": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.5.zip",
+        "2.5.1": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.5.1.zip",
+        "2.6": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.6.zip",
+        "2.7": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.7.zip",
+        "2.8": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.8.zip",
+        "2.9": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.9.zip",
+        "2.9.1": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.2.9.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/wp-multi-step-checkout.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/banner-772x250.png?rev=2455398",
+        "high": "https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/banner-1544x500.png?rev=2455398"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/icon.svg?rev=1783907",
+        "svg": "https:\/\/ps.w.org\/wp-multi-step-checkout\/assets\/icon.svg?rev=1783907"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 90,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "wp-multi-step-checkout",
+            "language": "cs_CZ",
+            "version": "2.27",
+            "updated": "2018-10-26 13:24:37",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wp-multi-step-checkout\/2.27\/cs_CZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wp-multi-step-checkout",
+            "language": "es_VE",
+            "version": "2.27",
+            "updated": "2021-04-13 18:57:42",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wp-multi-step-checkout\/2.27\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wp-multi-step-checkout",
+            "language": "es_ES",
+            "version": "2.27",
+            "updated": "2021-04-14 12:44:08",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wp-multi-step-checkout\/2.27\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wp-multi-step-checkout",
+            "language": "es_MX",
+            "version": "2.27",
+            "updated": "2021-04-13 19:13:49",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wp-multi-step-checkout\/2.27\/es_MX.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wp-multi-step-checkout",
+            "language": "es_CO",
+            "version": "2.27",
+            "updated": "2021-04-13 18:58:06",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wp-multi-step-checkout\/2.27\/es_CO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wp-multi-step-checkout",
+            "language": "it_IT",
+            "version": "2.27",
+            "updated": "2021-06-13 17:46:06",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wp-multi-step-checkout\/2.27\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wp-multi-step-checkout",
+            "language": "ru_RU",
+            "version": "2.27",
+            "updated": "2021-11-11 08:46:36",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wp-multi-step-checkout\/2.27\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wp-multi-step-checkout",
+            "language": "sk_SK",
+            "version": "2.27",
+            "updated": "2021-02-27 17:54:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wp-multi-step-checkout\/2.27\/sk_SK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wp-multi-step-checkout",
+            "language": "uk",
+            "version": "2.27",
+            "updated": "2022-08-31 13:00:06",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wp-multi-step-checkout\/2.27\/uk.zip"
+        }
+    ]
+}

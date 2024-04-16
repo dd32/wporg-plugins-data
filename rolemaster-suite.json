@@ -1,0 +1,75 @@
+{
+    "name": "RoleMaster Suite",
+    "slug": "rolemaster-suite",
+    "version": "1.0.0",
+    "author": "<a href=\"https:\/\/jeweltheme.com\">Jewel Theme<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/litonice13\/",
+    "contributors": {
+        "litonice13": {
+            "profile": "https:\/\/profiles.wordpress.org\/litonice13\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/29a2c0dde1762f1970dedb9cddd2e3e8?s=96&d=monsterid&r=g",
+            "display_name": "Liton Arefin"
+        },
+        "jwthemeltd": {
+            "profile": "https:\/\/profiles.wordpress.org\/jwthemeltd\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/a939441b955ce209205ef54f35c5ad9f?s=96&d=monsterid&r=g",
+            "display_name": "Jewel Theme"
+        }
+    },
+    "requires": "4.0",
+    "tested": "6.4.4",
+    "requires_php": "5.6",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/rolemaster-suite\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 23,
+    "last_updated": "2024-02-25 5:55am GMT",
+    "added": "2024-02-25",
+    "homepage": "https:\/\/jeweltheme.com\/rolemaster-suite",
+    "sections": {
+        "description": "<p>Hide Admin Bar by User Roles for &#8216;subscriber&#8217; and &#8216;contributor&#8217;<\/p>\n<h3>Features<\/h3>\n",
+        "installation": "<ol>\n<li>Upload the <code>rolemaster-suite<\/code> folder to the <code>\/wp-content\/plugins\/<\/code> directory or install the plugin through the WordPress plugins screen directly.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; screen in WordPress.<\/li>\n<\/ol>\n",
+        "changelog": "<h4>1.0.0<\/h4>\n<ul>\n<li>Initial release.<\/li>\n<\/ul>\n",
+        "reviews": ""
+    },
+    "short_description": "User Roles &amp; Capability Plugin",
+    "description": "<p>Hide Admin Bar by User Roles for &#8216;subscriber&#8217; and &#8216;contributor&#8217;<\/p>\n<h3>Features<\/h3>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/rolemaster-suite.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "capability": "capability",
+        "roles": "roles",
+        "roles-editor": "roles editor",
+        "user-roles": "user roles"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/www.buymeacoffee.com\/jeweltheme",
+    "banners": [],
+    "icons": {
+        "default": "https:\/\/s.w.org\/plugins\/geopattern-icon\/rolemaster-suite.svg"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

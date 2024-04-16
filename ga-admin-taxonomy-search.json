@@ -1,0 +1,89 @@
+{
+    "name": "GA Admin Taxonomy Search",
+    "slug": "ga-admin-taxonomy-search",
+    "version": "0.0.3",
+    "author": "<a href=\"https:\/\/grigorasatryan.com\/\">Grigor Asatyran<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/goqflash\/",
+    "contributors": {
+        "goqflash": {
+            "profile": "https:\/\/profiles.wordpress.org\/goqflash\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/7d8ae058bfe6e9a5849a30f82bcc214d?s=96&d=monsterid&r=g",
+            "display_name": "Grigor Asatryan"
+        }
+    },
+    "requires": "3.6",
+    "tested": "6.4.4",
+    "requires_php": "5.2",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/ga-admin-taxonomy-search\/",
+    "support_threads": 1,
+    "support_threads_resolved": 0,
+    "active_installs": 100,
+    "downloaded": 1319,
+    "last_updated": "2023-12-06 2:57pm GMT",
+    "added": "2020-04-27",
+    "homepage": "https:\/\/grigorasatryan.com\/plugins\/ga-admin-tax-search",
+    "sections": {
+        "description": "<p>GA Admin Taxonomy Search is a WordPress plugin for searching\/filtering items in the category\/term meta box.<\/p>\n<p>It works for every category and custom taxonomy and is compatible with Gutenberg.<\/p>\n<p>That&#8217;s exactly what GA Admin Taxonomy Search helps you to do.<\/p>\n<h4>Search in Categories<\/h4>\n<p>Firstly, you should see a new field above your category\/term checboxes (in meta box)<\/p>\n<p>Now type the first letters of a category\/term in the search bar that you want to search and you&#8217;ll immediately see the filtered results (no need to submit).<\/p>\n<p>The search process works real-time, less than a second.<\/p>\n<h3>Notes<\/h3>\n",
+        "installation": "<p>Let&#8217;s see how to install the plugin.<\/p>\n<ol>\n<li>Upload the &#8220;ga-admin-taxonomy-search&#8221; directory to your &#8220;\/wp-content\/plugins\/&#8221; directory<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress<\/li>\n<li>Now you can use the search functionality in every taxonomy meta box. It&#8217;s available for both Classic and Gutenberg editors.<\/li>\n<\/ol>\n",
+        "changelog": "<h4>0.0.3<\/h4>\n<p>Release date: 2023-12-06<\/p>\n<h4>Bugfixes<\/h4>\n<ul>\n<li>Fixes a bug where Classic editor screen, but Gutenberg blocks are available too<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/ga-admin-taxonomy-search\/assets\/screenshot-1.jpg?rev=2292821\"><img src=\"https:\/\/ps.w.org\/ga-admin-taxonomy-search\/assets\/screenshot-1.jpg?rev=2292821\" alt=\"GA Admin Taxonomy Search\"><\/a><p>GA Admin Taxonomy Search<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/ga-admin-taxonomy-search\/assets\/screenshot-2.jpg?rev=2292821\"><img src=\"https:\/\/ps.w.org\/ga-admin-taxonomy-search\/assets\/screenshot-2.jpg?rev=2292821\" alt=\"Clasic mode\"><\/a><p>Clasic mode<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Just what I was look for!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/gtamborero\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/3883d21610511df727c7e69bdc1c0cba?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/3883d21610511df727c7e69bdc1c0cba?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/gtamborero\/\" class=\"reviewer-name\">gtamborero<\/a> on <span class=\"review-date\">January 30, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Does the job, no extra code. Perfect!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Make it easy to search\/filter items in your admin categories meta box.",
+    "description": "<p>GA Admin Taxonomy Search is a WordPress plugin for searching\/filtering items in the category\/term meta box.<\/p>\n<p>It works for every category and custom taxonomy and is compatible with Gutenberg.<\/p>\n<p>That&#8217;s exactly what GA Admin Taxonomy Search helps you to do.<\/p>\n<h4>Search in Categories<\/h4>\n<p>Firstly, you should see a new field above your category\/term checboxes (in meta box)<\/p>\n<p>Now type the first letters of a category\/term in the search bar that you want to search and you&#8217;ll immediately see the filtered results (no need to submit).<\/p>\n<p>The search process works real-time, less than a second.<\/p>\n<h3>Notes<\/h3>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/ga-admin-taxonomy-search.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/ga-admin-taxonomy-search\/assets\/screenshot-1.jpg?rev=2292821",
+            "caption": "GA Admin Taxonomy Search"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/ga-admin-taxonomy-search\/assets\/screenshot-2.jpg?rev=2292821",
+            "caption": "Clasic mode"
+        }
+    },
+    "tags": {
+        "admin-taxonomy-search": "admin taxonomy search",
+        "category": "category",
+        "category-search": "category search",
+        "filter": "filter",
+        "taxonomy-search": "taxonomy search"
+    },
+    "stable_tag": "trunk",
+    "versions": {
+        "0.0.1": "https:\/\/downloads.wordpress.org\/plugin\/ga-admin-taxonomy-search.0.0.1.zip",
+        "0.0.2": "https:\/\/downloads.wordpress.org\/plugin\/ga-admin-taxonomy-search.0.0.2.zip",
+        "0.0.3": "https:\/\/downloads.wordpress.org\/plugin\/ga-admin-taxonomy-search.0.0.3.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/ga-admin-taxonomy-search\/assets\/banner-772x250.png?rev=2292821",
+        "high": "https:\/\/ps.w.org\/ga-admin-taxonomy-search\/assets\/banner-1544x500.png?rev=2293685"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/ga-admin-taxonomy-search\/assets\/icon-128x128.png?rev=2292845",
+        "2x": "https:\/\/ps.w.org\/ga-admin-taxonomy-search\/assets\/icon-256x256.png?rev=2292845"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

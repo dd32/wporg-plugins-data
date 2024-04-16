@@ -1,0 +1,70 @@
+{
+    "name": "eServeCloud Chat",
+    "slug": "eservecloud-ai-chat-bot",
+    "version": "1.0.0",
+    "author": "<a href=\"https:\/\/profiles.wordpress.org\/eservecloud\/\">Team eServeCloud<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/eservecloud\/",
+    "contributors": {
+        "eservecloud": {
+            "profile": "https:\/\/profiles.wordpress.org\/eservecloud\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/a5aee983f194b04b276122b3b5fddc3f?s=96&d=monsterid&r=g",
+            "display_name": "eservecloud"
+        }
+    },
+    "requires": "4.5",
+    "tested": "6.4.4",
+    "requires_php": "7.1",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/eservecloud-ai-chat-bot\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 34,
+    "last_updated": "2024-02-21 2:47am GMT",
+    "added": "2024-02-21",
+    "homepage": "https:\/\/www.eservecloud.com\/",
+    "sections": {
+        "description": "<p>With the eServeCloud (official) plugin, you can now:<\/p>\n<p>-Quickly integrate the help widget into your WordPress site or blog<br \/>\n-convert chat or form submission on your WordPress site into eServeCloud tickets<br \/>\n-allow users on WordPress to seamlessly login to your support portal easily<\/p>\n",
+        "installation": "<p>1) Download the latest version of the \u2018eServeCloud (official)\u2019 plugin from the WordPress plugin directory.<br \/>\n2) Extract the zip and upload the \u201ceServeCloud-chat-support\u201d directory to your \/wp-content\/plugins directory.<br \/>\n3) Go to the \u2018Plugins\u2019 page in your admin section and activate the plugin.<br \/>\n4) You now have a new admin menu \u2018eServeCloud\u2019 in your WordPress admin menu bar. Click on it and configure the settings.<br \/>\n5) To view Privacy Policy of eServeCloud please visit https:\/\/www.eservecloud.com\/terms-of-service\/<\/p>\n",
+        "faq": "<p>1) Do I need coding skill to use this plugin ?<br \/>\nNo, Just install plugin anded add code that is from your eserve cloud dashboRD<\/p>\n",
+        "changelog": "<h4>1.0.0<\/h4>\n<ul>\n<li>Initial Release.<\/li>\n<\/ul>\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Effortless Customer Engagement<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/ketanumretiya030\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b905663f35ea87e93e5b437b85f59185?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b905663f35ea87e93e5b437b85f59185?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/ketanumretiya030\/\" class=\"reviewer-name\">Ketan Umretiya <small>(ketanumretiya030)<\/small><\/a> on <span class=\"review-date\">February 21, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">eServeCloud Chat is a live chat software designed to help businesses communicate with their customers in real-time. It offers features such as chat routing, canned responses, chat history, and visitor tracking. Here's a brief review based on common criteria:<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:list {\"ordered\":true} -->\n<ol><!-- wp:list-item -->\n<li><strong>Ease of Use<\/strong>: eServeCloud Chat is typically user-friendly, with a simple interface for both agents and customers. Setting up the chat widget on your website is usually straightforward.<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Features<\/strong>: It offers essential features like chat routing, canned responses, and chat history. However, it may lack some advanced features compared to other chat software.<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Integration<\/strong>: It can integrate with popular WordPress systems and other tools, making it convenient for businesses to manage customer interactions.<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Pricing<\/strong>: Pricing for eServeCloud Chat can vary depending on the features and number of users you need. It typically offers a range of plans to accommodate different business sizes.<\/li>\n<!-- \/wp:list-item --><\/ol>\n<!-- \/wp:list -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Overall, eServeCloud Chat can be a good choice for businesses looking for a simple and effective live chat solution.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "With the eServeCloud (official) plugin, you can now:",
+    "description": "<p>With the eServeCloud (official) plugin, you can now:<\/p>\n<p>-Quickly integrate the help widget into your WordPress site or blog<br \/>\n-convert chat or form submission on your WordPress site into eServeCloud tickets<br \/>\n-allow users on WordPress to seamlessly login to your support portal easily<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/eservecloud-ai-chat-bot.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "chat": "chat",
+        "eservecloud-chat": "eservecloud-chat"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/eservecloud-ai-chat-bot\/assets\/icon-256x256.png?rev=3038865",
+        "2x": "https:\/\/ps.w.org\/eservecloud-ai-chat-bot\/assets\/icon-256x256.png?rev=3038865"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

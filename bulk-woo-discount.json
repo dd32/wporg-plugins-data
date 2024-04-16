@@ -1,0 +1,90 @@
+{
+    "name": "Bulk Woo Discount",
+    "slug": "bulk-woo-discount",
+    "version": "1.0.0",
+    "author": "<a href=\"https:\/\/profiles.wordpress.org\/nikitasolanki1812\/\">Nikita Solanki<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/nikitasolanki1812\/",
+    "contributors": {
+        "nikitasolanki1812": {
+            "profile": "https:\/\/profiles.wordpress.org\/nikitasolanki1812\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/a2fccc102c6d946967bb9d5342cf78ce?s=96&d=monsterid&r=g",
+            "display_name": "Nikita Solanki"
+        }
+    },
+    "requires": "5.2",
+    "tested": "6.3.4",
+    "requires_php": "7.2",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/bulk-woo-discount\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 68,
+    "last_updated": "2024-02-17 2:17pm GMT",
+    "added": "2024-02-15",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Enhance your WooCommerce store with the Bulk Discount for WooCommerce plugin. This powerful extension allows you to effortlessly implement bulk discount pricing strategies, encouraging customers to buy more and save more. Set up tiered pricing, volume-based discounts, or special promotions for specific products. With easy configuration options and a seamless integration into the WooCommerce platform, this plugin is the perfect solution for driving sales and maximizing customer satisfaction.<\/p>\n<h3>Key Features<\/h3>\n<p>Set percentage or fixed amount discounts based on the quantity purchased.<br \/>\nApply bulk discounts globally or to specific products.<br \/>\n<a href=\"mailto:&#110;&#105;&#107;&#105;&#116;&#097;&#115;&#111;l&#x61;&#x6e;&#x6b;&#x69;&#x31;&#x38;&#x31;&#x32;&#064;&#103;&#109;&#097;&#105;&#108;&#046;co&#x6d;\" rel=\"nofollow ugc\">Feature requests<\/a><\/p>\n",
+        "installation": "<ol>\n<li>Upload the <code>bulk-woo-discount<\/code> directory to the <code>\/wp-content\/plugins\/<\/code> directory.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress.<\/li>\n<li>Configure the plugin settings under WooCommerce &gt; Woocommerce Products discount.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='does%20this%20plugin%20work%20with%20the%20free%20version%20of%20woocommerce%3F'>\nDoes this plugin work with the free version of WooCommerce?\n<\/h4>\n<p>\n<p>Yes, Bulk Woo Discount is designed to work seamlessly with the free version of WooCommerce.<\/p>\n<\/p>\n<dt id='how%20do%20i%20configure%20bulk%20discounts%20for%20my%20products%3F'>\nHow do I configure bulk discounts for my products?\n<\/h4>\n<p>\n<p>After activating the plugin, navigate to WooCommerce &gt; Woocommerce Products discount in your WordPress admin.<br \/>\nNow, head to the &#8220;All Products&#8221; page in WooCommerce.<br \/>\nSelect the products to which you want to apply the bulk discount. You can do this by using the checkboxes next to each product<br \/>\nAt the top of the product list, locate the &#8220;Bulk Actions&#8221; dropdown.<br \/>\nChoose &#8220;Apply Product discount&#8221; from the dropdown menu.<br \/>\nAfter selecting &#8220;Apply Product discount,&#8221; click the &#8220;Apply&#8221; button to activate the bulk discount for the selected products.<br \/>\nThat&#8217;s it! You&#8217;ve successfully configured and applied bulk discounts to your WooCommerce products using the Bulk Woo Discount plugin. Monitor your store to ensure that the discounts are applied as expected during the checkout process.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0<\/h4>\n<ul>\n<li>Initial release.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/bulk-woo-discount\/assets\/screenshot-1.png?rev=3036517\"><img src=\"https:\/\/ps.w.org\/bulk-woo-discount\/assets\/screenshot-1.png?rev=3036517\" alt=\"&lt;a href=&quot;screenshot-1.png&quot;&gt;Screenshot 1: Plugin settings page&lt;\/a&gt;\"><\/a><p><a href=\"screenshot-1.png\">Screenshot 1: Plugin settings page<\/a><\/p><\/li><li><a href=\"https:\/\/ps.w.org\/bulk-woo-discount\/assets\/screenshot-2.png?rev=3036517\"><img src=\"https:\/\/ps.w.org\/bulk-woo-discount\/assets\/screenshot-2.png?rev=3036517\" alt=\"&lt;a href=&quot;screenshot-2.png&quot;&gt;Screenshot 2: Bulk discount configuration&lt;\/a&gt;\"><\/a><p><a href=\"screenshot-2.png\">Screenshot 2: Bulk discount configuration<\/a><\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Enhance your WooCommerce store with the Bulk Discount for WooCommerce plugin. This powerful extension allows you to effortlessly implement bulk discou &hellip;",
+    "description": "<p>Enhance your WooCommerce store with the Bulk Discount for WooCommerce plugin. This powerful extension allows you to effortlessly implement bulk discount pricing strategies, encouraging customers to buy more and save more. Set up tiered pricing, volume-based discounts, or special promotions for specific products. With easy configuration options and a seamless integration into the WooCommerce platform, this plugin is the perfect solution for driving sales and maximizing customer satisfaction.<\/p>\n<h3>Key Features<\/h3>\n<p>Set percentage or fixed amount discounts based on the quantity purchased.<br \/>\nApply bulk discounts globally or to specific products.<br \/>\n<a href=\"mailto:&#110;&#105;&#107;&#105;&#116;&#097;&#115;&#111;l&#x61;&#x6e;&#x6b;&#x69;&#x31;&#x38;&#x31;&#x32;&#064;&#103;&#109;&#097;&#105;&#108;&#046;co&#x6d;\" rel=\"nofollow ugc\">Feature requests<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/bulk-woo-discount.zip",
+    "upgrade_notice": {
+        "1.0": "<p>Initial release of Bulk Woo Discount.<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/bulk-woo-discount\/assets\/screenshot-1.png?rev=3036517",
+            "caption": "<a href=\"screenshot-1.png\">Screenshot 1: Plugin settings page<\/a>"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/bulk-woo-discount\/assets\/screenshot-2.png?rev=3036517",
+            "caption": "<a href=\"screenshot-2.png\">Screenshot 2: Bulk discount configuration<\/a>"
+        }
+    },
+    "tags": {
+        "bulk-of-discount": "bulk of discount",
+        "discount": "discount",
+        "e-commerce": "e-commerce",
+        "woocommerce": "woocommerce",
+        "woocommerce-discount-percentage": "woocommerce discount percentage"
+    },
+    "stable_tag": "trunk",
+    "versions": {
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/bulk-woo-discount.1.0.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/bulk-woo-discount\/assets\/banner-772x250.jpg?rev=3036517",
+        "high": "https:\/\/ps.w.org\/bulk-woo-discount\/assets\/banner-1544x500.jpg?rev=3036517"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/bulk-woo-discount\/assets\/icon-128x128.png?rev=3036517",
+        "2x": "https:\/\/ps.w.org\/bulk-woo-discount\/assets\/icon-256x256.png?rev=3036517"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

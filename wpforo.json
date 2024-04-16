@@ -1,0 +1,354 @@
+{
+    "name": "wpForo Forum",
+    "slug": "wpforo",
+    "version": "2.3.3",
+    "author": "<a href=\"https:\/\/gvectors.com\/\">gVectors Team<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/tomdever\/",
+    "contributors": {
+        "gvectors-team": {
+            "profile": "https:\/\/profiles.wordpress.org\/gvectors-team\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/ef9012e6787b3e7a592b2ed6bb7ca6f3?s=96&d=monsterid&r=g",
+            "display_name": "gVectors Team"
+        }
+    },
+    "requires": "5.1",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 94,
+    "ratings": {
+        "5": 326,
+        "4": 14,
+        "3": 7,
+        "2": 3,
+        "1": 15
+    },
+    "num_ratings": 365,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/wpforo\/",
+    "support_threads": 16,
+    "support_threads_resolved": 10,
+    "active_installs": 20000,
+    "downloaded": 1256618,
+    "last_updated": "2024-03-10 8:08pm GMT",
+    "added": "2016-06-26",
+    "homepage": "https:\/\/wpforo.com",
+    "sections": {
+        "description": "<p>wpForo Forums is the best WordPress forum plugin. Full-fledged yet easy and light forum solution for your WordPress website. Comes with modern and responsive forum layouts and styles. This WordPress forum plugin brings everything you need to run an efficient and professional community. Powerful and beautiful forum with unique features. The best alternative to bbPress forum plugin.<\/p>\n<h4>5 Minute Forum Installation!<\/h4>\n<pre><code>1. Activate plugin and find forums on \/community\/ page, (\/community-2\/ if \/community\/ is used),\n2. Manage Forum Page, Title, etc in Dashboard &gt; wpForo &gt; Board &gt; Edit Board admin page,\n3. Manage Forums in Dashboard &gt; wpForo &gt; Forums admin page,\n4. Manage Forum Menu in Dashboard &gt; Appearance &gt; Menu admin page,\n5. Manage Forum Widgets in Dashboard &gt; Appearance &gt; Widgets admin page,\n6. Manage Forum Colors in Dashboard &gt; wpForo &gt; Settings &gt; Colors &amp; Styles admin page, you can choose forum color styles.\n<\/code><\/pre>\n<p>Support Forum and Demo: <a href=\"https:\/\/wpforo.com\/community\/\" rel=\"nofollow ugc\">https:\/\/wpforo.com\/community\/<\/a><br \/>\nForum Documentation: <a href=\"https:\/\/wpforo.com\/docs\/\" rel=\"nofollow ugc\">https:\/\/wpforo.com\/docs\/<\/a><br \/>\nGDPR Compliance: <a href=\"https:\/\/wpforo.com\/gdpr\/\" rel=\"nofollow ugc\">https:\/\/wpforo.com\/gdpr\/<\/a><\/p>\n<h4>Multi-layout WordPress Forum Plugin<\/h4>\n<ol>\n<li><a href=\"https:\/\/wpforo.com\/docs\/wpforo-v2\/categories-and-forums\/forum-layouts\/extended-layout\/\" rel=\"nofollow ugc\"><strong>Extended Forum Layout<\/strong><\/a><\/li>\n<li><a href=\"https:\/\/wpforo.com\/docs\/wpforo-v2\/categories-and-forums\/forum-layouts\/simplified-layout\/\" rel=\"nofollow ugc\"><strong>Simplified Forum Layout<\/strong><\/a><\/li>\n<li><a href=\"https:\/\/wpforo.com\/docs\/wpforo-v2\/categories-and-forums\/forum-layouts\/qa-layout\/\" rel=\"nofollow ugc\"><strong>Question and Answer Forum Layout<\/strong><\/a><\/li>\n<li><a href=\"https:\/\/wpforo.com\/docs\/wpforo-v2\/categories-and-forums\/forum-layouts\/threaded-layout\/\" rel=\"nofollow ugc\"><strong>Threaded Forum Layout<\/strong><\/a><\/li>\n<\/ol>\n<h4>Migrate to wpForo<\/h4>\n<p>Free Migration Tool Go2wpForo: <a href=\"https:\/\/wpforo.com\/docs\/wpforo-v2\/migrate-to-wpforo\/\" rel=\"nofollow ugc\">https:\/\/wpforo.com\/docs\/wpforo-v2\/migrate-to-wpforo\/<\/a><\/p>\n<pre><code>- Migrate bbPress forum to wpForo\n- Migrate Asgaros forum to wpForo\n- Migrate SimplePress forum to wpForo\n- Migrate phpBB forum to wpForo\n- Migrate SMF forum to wpForo\n- Migrate Joomla Kunena forum to wpForo\n- Migrate MyBB forum to wpForo\n<\/code><\/pre>\n<h4>Forum Integration<\/h4>\n<p>wpForo forum plugin is well integrated with many Profile Builder and Paid Membership plugins, such as <strong>BuddyPress<\/strong>, <strong>Ultimate Members<\/strong>, <strong>WooCommerce Membership<\/strong>, <strong>MemberPress<\/strong>, <strong>Groups<\/strong> and <strong>SureMembers<\/strong> plugins.<\/p>\n<h4>Forum Translation<\/h4>\n<p>wpForo is a WordPress forum plugin with all possibilities of plugin translation. We&#8217;d really appreciate if you could help <a href=\"https:\/\/translate.wordpress.org\/projects\/wp-plugins\/wpforo\/\" rel=\"nofollow ugc\">translating wpForo forum plugin to your language here<\/a>.<\/p>\n<h4>FORUM FEATURES<\/h4>\n<ul>\n<li>Multi-board: Allows to have multiple separate forum pages<\/li>\n<li>Multi-language: Allows to forums with different languages<\/li>\n<li>Multi-layout: Four modern forum layouts (Q&amp;A, Threaded&#8230;)<\/li>\n<li>Designed for small and extremely large forums\/communities.<\/li>\n<li>Migrate from other forums using <a href=\"https:\/\/wpforo.com\/community\/migrate-to-wpforo-from-other-forum-plugins\/migrate-to-wpforo-go2wpforo-tool\/\" rel=\"nofollow ugc\">Go2wpForo<\/a> tool.<\/li>\n<li>Four different forum layouts and designs.<\/li>\n<li>Six set of forum color styles including dark style.<\/li>\n<li>Super responsive forum on all kind of devices.<\/li>\n<li>Live user notification system<\/li>\n<li>Built-in forum SEO functions.<\/li>\n<li>Built-in forum Sitemap and Search Engine ping.<\/li>\n<li>Built-in forum Cache System.<\/li>\n<li>Built-in forum Antispam and Akismet integration.<\/li>\n<li>Advanced forum user profile system.<\/li>\n<li>Forum Member Rating and Badges.<\/li>\n<li>Built-in forum\/topic subscription.<\/li>\n<li>Drag and Drop forum management system.<\/li>\n<li>Topic and Post front-end moderation.<\/li>\n<li>Forum topics and posts Read \/ Unread logging.<\/li>\n<li>Topic Tags and Tags Widget.<\/li>\n<li>Forum styles with different colors.<\/li>\n<li>Built-in, powerful forum Usergroup system.<\/li>\n<li>Forum Access sets per Usergroup per Forum.<\/li>\n<li>Forum Phrase System for quick translation.<\/li>\n<li>WordPress .MO\/.PO translation files.<\/li>\n<li>Tools and options for GDPR Compliance<\/li>\n<li>Social Network Share Buttons<\/li>\n<li>BuddyPress Integration<\/li>\n<li>Ultimate Member Integration<\/li>\n<\/ul>\n<h4>Need more forum features?<\/h4>\n<p>Find wpForo forum plugin addons on <a href=\"https:\/\/gvectors.com\/product-category\/wpforo\/\" rel=\"nofollow ugc\">gVectors Team website&#8230;<\/a><\/p>\n",
+        "installation": "<ol>\n<li>Install wpForo Forum plugin in Dashboard &gt; Plugins admin page. Then activate it.<\/li>\n<li>If you have more than 100 users wpForo forum plugin prompts you synchronize users.<\/li>\n<li>Manage Forums in Dashboard &gt; wpForo &gt; Forums admin page,<\/li>\n<li>Manage Forum Menu in Dashboard &gt; Appearance &gt; Menu admin page,<\/li>\n<li>Manage Forum Colors in Dashboard &gt; Forums &gt; Settings &gt; Styles admin page, you can choose forum color styles.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='forum%20page%20-%20how%20to%20change%20forum%20page%3F'>\nForum Page &#8211; How to change forum page?\n<\/h4>\n<p>\n<p><strong>Forum Page<\/strong> &#8211; wpForo creates a forum page with <code>\/community\/<\/code> slug. Forum URL can be changed in Dashboard &gt; wpForo &gt; Boards &gt; Edit Board and change the slug. Make sure you use WordPress permalinks. wpForo forums don&#8217;t work with default <code>?p=1<\/code> URL structure. Forum page only contains [wpforo] forum shortcode.<\/p>\n<\/p>\n<dt id='forum%20menu%20-%20how%20to%20manage%20forum%20menu%3F'>\nForum Menu &#8211; How to manage forum menu?\n<\/h4>\n<p>\n<p><strong>Forum Menu<\/strong> &#8211; wpForo forum menu is a regular WordPress menu. In Dashboard &gt; Appearance &gt; Menu admin page wpForo forum creates new navigation menu (forum top menu bar) called &#8220;wpForo Navigation (wpForo Menu)&#8221;. Forum menu is attached to wpForo Menu location.<\/p>\n<\/p>\n<dt id='forum%20sidebar%20-%20does%20forum%20has%20sidebar%20and%20widgets%3F'>\nForum Sidebar &#8211; Does forum has sidebar and widgets?\n<\/h4>\n<p>\n<p><strong>Forum Sidebar and Widgets<\/strong> &#8211; wpForo forum comes with own right (RTL left) sidebar and widgets (Recent Forum Topics, Recent Forum Posts, Forum Search, Forum Online Users).<\/p>\n<\/p>\n<dt id='forum%20layouts%20-%20what%20is%20forum%20layout%3F'>\nForum Layouts &#8211; What is forum layout?\n<\/h4>\n<p>\n<p><strong>Forum Layouts<\/strong> &#8211; wpForo Forums has Forum Layouts and allows to create hybrid forums. wpForo theme has built in multi-layout system. Each forum section (category with forums and subForums) can be displayed with different forum layout.<\/p>\n<\/p>\n<dt id='forum%20manager%20-%20how%20to%20add%20%2F%20edit%2F%20delete%20forums%3F'>\nForum Manager &#8211; How to add \/ edit\/ delete forums?\n<\/h4>\n<p>\n<p><strong>Forum Manager<\/strong> &#8211; You can add new category, forum or subForum in Dashboard &gt; Forums &gt; Forums admin page. The Forum add \/ Forum edit \/ Forum Delete \/ Forum Hierarchy can be managed on the same admin page.<\/p>\n<\/p>\n<dt id='forum%20shortcodes%20-%20what%20shortcodes%20are%20available%3F'>\nForum Shortcodes &#8211; What shortcodes are available?\n<\/h4>\n<p>\n<p><strong>Forum Shortcodes<\/strong> &#8211; Started from version 1.0.0 you can use wpForo shortcodes.<\/p>\n<\/p>\n<dt id='forum%20styles%20-%20how%20to%20change%20forum%20colors%3F'>\nForum Styles &#8211; How to change forum colors?\n<\/h4>\n<p>\n<p><strong>Forum Styles<\/strong> &#8211; Please navigate to Dashboard &gt; wpForo &gt; Settings &gt; Colors &amp; Styles admin page. Here you can find wpForo forum front-end colors and styles. You can choose forum colors: default (blue), red, green, orange, grey, dark. You can select forum color set or customize each color manually.<\/p>\n<\/p>\n<dt id='forum%20member%20-%20how%20to%20manage%20forum%20members%3F'>\nForum Member &#8211; How to manage forum members?\n<\/h4>\n<p>\n<p><strong>Forum Member<\/strong> &#8211; Forum Members are the same WordPress users. wpForo forums is fully integrated with WordPress. It comes with own Forum Login and Forum Registration page. Users get an advanced Forum Profile. You can manage all members in Dashboard &gt; Forums &gt; Members admin page.<\/p>\n<\/p>\n<dt id='forum%20reputation%20-%20what%20is%20forum%20member%20reputation%20and%20badges%3F'>\nForum Reputation &#8211; What is forum member reputation and badges?\n<\/h4>\n<p>\n<p><strong>Forum Member Badges and Reputation<\/strong> &#8211; wpForo forum has a simple yet powerful user reputation system. Currently it based on number of forum posts.<\/p>\n<\/p>\n<dt id='forum%20accesses%20-%20how%20to%20allow%2Frestrict%20users%20to%20certain%20forums%3F'>\nForum Accesses &#8211; How to allow\/restrict users to certain forums?\n<\/h4>\n<p>\n<p><strong>Forum Access and Permissions<\/strong> &#8211; Forum Accesses are different sets of forum permissions (CAN&#8217;s) designed to help forum admins control (allow\/restrict) Users&#8217; actions in each forum.<\/p>\n<\/p>\n<dt id='forum%20usergroups%20-%20what%20is%20forum%20users%27%20usergroup%3F'>\nForum Usergroups &#8211; What is forum users&#8217; Usergroup?\n<\/h4>\n<p>\n<p><strong>Forum Usergroups and Permissions<\/strong> &#8211; In order to have an extended forum user permission system with full control over all forum user actions, wpForo comes with own Forum Usergroup system.<\/p>\n<\/p>\n<dt id='forum%20translation%20-%20how%20to%20translate%20this%20forum%3F'>\nForum Translation &#8211; How to translate this forum?\n<\/h4>\n<p>\n<p><strong>Forum Translation<\/strong> &#8211; wpForo forum can be translated using PO\/MO files or you can do a quick translation using wpForo Forum Phrase system in Dashboard &gt; wpForo &gt; Phrases admin page.<\/p>\n<\/p>\n<dt id='forum%20gdpr%20compliance%20-%20tools%20and%20options%20to%20comply%20to%20gdpr'>\nForum GDPR Compliance &#8211; Tools and options to comply to GDPR\n<\/h4>\n<p>\n<p><strong>Forum GDPR Compliance<\/strong> &#8211; wpForo has almost all forum specific tools and functions to comply your forum to GDPR. Please navigate to wpForo &gt; Settings &gt; Privacy &amp; Rules admin page and go through all instructions and options.<\/p>\n<\/p>\n\n",
+        "changelog": "<p>IMPORTANT NOTES for UPDATE<\/p>\n<ul>\n<li>After the update, please delete all caches and purge CDN if you have<\/li>\n<li>After the update, please flush Redis Object Cache if you have this cache enabled<\/li>\n<\/ul>\n<h4>wpForo Forum 2.3.0 &#8211; 2.3.3 | 10.03.2024<\/h4>\n<p><a href=\"https:\/\/wpforo.com\/community\/wpforo-announcements\/wpforo-2-3-is-released\/\" rel=\"nofollow ugc\">wpForo Forum v2.3 Release Summary<\/a><\/p>\n<ul>\n<li>Version 2.3.3<\/li>\n<li>Changed: File naming logic of profile cover images<\/li>\n<li>Changed: Ordering of forums and sub-forums in Threaded Layout<\/li>\n<li>Changed: Using post&#8217;s short URL for <code>[post_link]<\/code> shortcode in email templates<\/li>\n<li>Fixed Bug: Performance issue with large number of members<\/li>\n<li>Fixed Bug: Permission issue with subscriptions and email notifications<\/li>\n<li>&#8212;&#8212;&#8212;<\/li>\n<li>Version 2.3.2<\/li>\n<li>Fixed Bug: Compatibility issue with some page builders<\/li>\n<li>Fixed Bug: Dynamic Usergroup and User Role synchronization issues<\/li>\n<li>Fixed Bug: Member search ordering issue (used by User Mentioning addon)<\/li>\n<li>Fixed Bug: Custom values for max and minimum number of characters in the user password<\/li>\n<li>&#8212;&#8212;&#8212;<\/li>\n<li>Version 2.3.1<\/li>\n<li>Fixed Bug: Member search issue when use profile title<\/li>\n<li>Fixed Bug: Usergroup and User Role synchronization issues<\/li>\n<li>Fixed Bug: Editor focusing issue when using stickers and emojis<\/li>\n<li>Fixed Bug: Permission issue for Authors to use Cross Posting addon<\/li>\n<li>Fixed Bug: CSS Issue with the red circle notification on the admin bar<\/li>\n<li>New Addon: <a href=\"https:\/\/gvectors.com\/product\/wpforo-groups-membership\/\" rel=\"nofollow ugc\">wpForo &#8211; Groups Plugin Integration<\/a><\/li>\n<li>&#8212;&#8212;&#8212;<\/li>\n<li>Version 2.3.0<\/li>\n<li>Added: Option to change wpForo sidebar location (left or right)<\/li>\n<li>Added: Red circle notification on the forum menu when there are unapproved posts<\/li>\n<li>Added: Extended the max rating level to 14, use <code>wpforo_max_rating_levels<\/code> hook\n<ul>\n<li>PHP code snippet example:<\/li>\n<li><code>add_filter('wpforo_max_rating_levels', function($count){return 14;});<\/code><\/li>\n<\/ul>\n<\/li>\n<li>Improved: Topic search and suggestion when creating a new topic<\/li>\n<li>Fixed Bug: Last login is incorrectly displaying current time in Dashboard &gt; Members<\/li>\n<li>Fixed Bug: Database Error: Syntax error, unexpected &#8216;@&#8217;, when search words contain @<\/li>\n<li>Fixed Bug: Database Error on duplication key in <code>_wpforo_visits<\/code> table<\/li>\n<li>Fixed Bug: PHP Error: Trying to access array on null in \/profile-subscriptions.php on line 18<\/li>\n<\/ul>\n<h4>wpForo Forum 2.2.0 &#8211; 2.2.10 | 03.01.2024<\/h4>\n<p><a href=\"https:\/\/wpforo.com\/community\/wpforo-announcements\/wpforo-2-2-is-released\/\" rel=\"nofollow ugc\">wpForo Forum v2.2 Release Summary<\/a><\/p>\n<ul>\n<li>Version 2.2.10<\/li>\n<li>Added: New hooks requested by many developers<\/li>\n<li>Fixed Bug: Improved the <code>init_current_object()<\/code> function to avoid PHP errors<\/li>\n<li>Fixed Bug: Fix <code>wpforo_urlencode()<\/code> to lowcase URLs carefully<\/li>\n<li>New Addon: <a href=\"https:\/\/gvectors.com\/product\/wpforo_mentioning\/\" rel=\"nofollow ugc\">wpForo &#8211; User Mentioning<\/a><\/li>\n<li>Addon Update: <a href=\"https:\/\/gvectors.com\/product\/wpforo_mentioning\/\" rel=\"nofollow ugc\">wpForo &#8211; User Custom Field<\/a> &#8211; Added <code>[wpforo-members]<\/code> shortcode with user fields filters and sorting parameters<\/li>\n<li>&#8212;&#8212;&#8212;<\/li>\n<li>Version 2.2.9<\/li>\n<li>Added: Topic type classes to wrapper divs for better styling<\/li>\n<li>Added: Classes to all dates in topics and posts<\/li>\n<li>Fixed Bug: Vulnerable to Cross Site Request Forgery (CSRF)<\/li>\n<li>Fixed Bug: PHP Fatal error when BuddyPress or Ultimate Member is deactivated<\/li>\n<li>Fixed Bug: Emoji encoding issue to be saved in utf8mb4 database tables<\/li>\n<li>Fixed Bug: rel=&#8221;noindex,nofollow&#8221; to JS popup login and registration links<\/li>\n<li>&#8212;&#8212;&#8212;<\/li>\n<li>Version 2.2.8<\/li>\n<li>Added: Display subforums&#8217; topics with the parent forum topics<\/li>\n<li>Added: Can post and can listen to voice posting permissions<\/li>\n<li>Fixed Bug: Fixed some font awesome icons<\/li>\n<li>Fixed Bug: PHP Fatal Errors<\/li>\n<li>Fixed Bug: Problems with options cache<\/li>\n<li>New Addon: <a href=\"https:\/\/gvectors.com\/product\/wpforo-voice-posting\/\" rel=\"nofollow ugc\">wpForo &#8211; Voice Posting<\/a><\/li>\n<li>&#8212;&#8212;&#8212;<\/li>\n<li>Version 2.2.7<\/li>\n<li>Improved: Forum search supports exact phrase search and boolean search:\n<ul>\n<li>For example: &#8220;search phrase&#8221; for exact phrase search<\/li>\n<li>For example: +search +phrase for boolean search (&#8220;+&#8221; means AND;<\/li>\n<li>For example: -&#8220;search phrase&#8221; for boolean search (&#8220;-&#8221; means NOT)<\/li>\n<li>For example: search* for wildcard search<\/li>\n<\/ul>\n<\/li>\n<li>Added: rel=&#8221;nofollow&#8221; to share buttons and links<\/li>\n<li>Updated: Font Awesome to 6.5.1<\/li>\n<li>Updated: Replaced twitter share buttons to X, with icons and colors<\/li>\n<li>Hooks: Added hooks to display user fields on posts and member list using <a href=\"https:\/\/gvectors.com\/product\/wpforo-user-custom-fields\/\" rel=\"nofollow ugc\">wpForo User Custom Fields addon<\/a><\/li>\n<li>&#8212;&#8212;&#8212;<\/li>\n<li>Version 2.2.6<\/li>\n<li>Added: Detecting the timezone from the user&#8217;s browser if it&#8217;s not set in the account settings<\/li>\n<li>Fixed Bug: Vulnerable to Cross Site Request Forgery (CSRF)<\/li>\n<li>&#8212;&#8212;&#8212;<\/li>\n<li>Version 2.2.5<\/li>\n<li>Compatibility: Adopted with old 7.x PHP version to avoid PHP errors<\/li>\n<li>Fixed Bug: Last post information on forum list<\/li>\n<li>Fixed Bug: Forum participants avatars<\/li>\n<li>Fixed Bug: Vulnerability to Content Injection<\/li>\n<li>Fixed Bug: Vulnerable to Cross Site Request Forgery (CSRF)<\/li>\n<li>Fixed Bug: PHP error \/ Syntax error, unexpected &#8216;|&#8217;, expected variable (T_VARIABLE))<\/li>\n<li>Fixed Bug: PHP error \/ Typed property wpforo\\classes\\Cache::$dir must not be accessed before initialization<\/li>\n<li>Fixed Bug: PHP error \/ Argument #2 ($haystack) must be of type array, null given in includes\/hooks.php:1528<\/li>\n<li>Fixed Bug: PHP error \/ Trying to access array offset on value of type null in themes\/2022\/layouts\/2\/post.php<\/li>\n<li>Fixed Bug: Fatal error on user login and registration<\/li>\n<li>&#8212;&#8212;&#8212;<\/li>\n<li>Version 2.2.4<\/li>\n<li>Compatibility: WordPress 6.4<\/li>\n<li>Added: Hook to control enabled activity types for BuddyPress integration<\/li>\n<li>Added: Better performance of Simplified forum layout<\/li>\n<li>Changed: Twitter to X, icons and labels<\/li>\n<li>Fixed Bug: XSS vulnerability issue<\/li>\n<li>Fixed Bug: User registration vulnerability<\/li>\n<li>Fixed Bug: Validating uploaded avatar files<\/li>\n<li>Fixed Bug: No way to select empty value for dropdown field<\/li>\n<li>Fixed Bug: Fatal error: array_merge() argument #2 must be of type array, null given in wpforo\/classes\/Activity.php:217<\/li>\n<li>&#8212;&#8212;&#8212;<\/li>\n<li>Version 2.2.3<\/li>\n<li>Added: New hooks for activity editing and deleting methods<\/li>\n<li>Added: Suggesting correct page for setting forum as the home page<\/li>\n<li>Fixed Bug: Statistic issue on forum list of the Simplified Layout<\/li>\n<li>Fixed Bug: Remove auto-generation of log files<\/li>\n<li>Fixed Bug: 404 error when accessing URLs with postid in numeric permalink structure<\/li>\n<li>New Addon: <a href=\"https:\/\/gvectors.com\/product\/wpforo-paid-membership-pro\/\" rel=\"nofollow ugc\">wpForo \u2013 Paid Memberships Pro Integration<\/a><\/li>\n<li>&#8212;&#8212;&#8212;<\/li>\n<li>Version 2.2.2<\/li>\n<li>Added: Increase max length of avatar URL field<\/li>\n<li>Added: Synchronize user roles and usergroups when roles are updated<\/li>\n<li>Fixed Bug: Issue with adding new forum access in non-latin languages<\/li>\n<li>Fixed Bug: Secondary usergroups syncing issue with multiple user roles<\/li>\n<li>New Addon: <a href=\"https:\/\/gvectors.com\/product\/wpforo-memberpress\/\" rel=\"nofollow ugc\">wpForo &#8211; MemberPress Integration<\/a><\/li>\n<li>New Addon: <a href=\"https:\/\/gvectors.com\/product\/wpforo-suremembers\/\" rel=\"nofollow ugc\">wpForo &#8211; SureMembers Integration<\/a><\/li>\n<li>&#8212;&#8212;&#8212;<\/li>\n<li>Version 2.2.1<\/li>\n<li>Fixed Bug: PHP Error with Blog-Forum Cross Posting addon<\/li>\n<li>Fixed Bug: Forum board pageid shows &#8220;not found&#8221; message for Forum Admin<\/li>\n<li>Fixed Bug: Permission issue with editing of forum cover image<\/li>\n<li>&#8212;&#8212;&#8212;<\/li>\n<li>Version 2.2.0<\/li>\n<li>Compatibility: WordPress 6.3<\/li>\n<li>Added: Button to copy a forum with all settings and permissions in dashboard<\/li>\n<li>Added: Filter hook to change wpForo forum cache directory <code>wpforo_cache_dir<\/code><\/li>\n<li>Added: New email shortcodes <code>[user_group_name]<\/code>, <code>[user_secondary_group_names]<\/code><\/li>\n<li>Added: Improved forum canonical URL generation and filtering unnecessary parts<\/li>\n<li>Added: Flexible forum tag separator, hook to change <code>wpforo_tag_separator<\/code><\/li>\n<li>Added: Shortcode for activity, account, and other forum profile pages\n<ul>\n<li>For example <code>[wpforo item=\"activity\" id=\"1\"]<\/code>, the <code>id<\/code> is a user ID<\/li>\n<\/ul>\n<\/li>\n<li>Fixed Bug: PHP Fatal error when disable following and subscriptions modules<\/li>\n<li>Fixed Bug: Issue with arabic comma in topic tags<\/li>\n<li>Fixed Bug: RTL issues with some font-awesome forum icons<\/li>\n<li>Fixed Bug: RTL issues with forum tags<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-1.png?rev=2765907\"><img src=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-1.png?rev=2765907\" alt=\"Simplified Forum Layout (Thread and Forums)\"><\/a><p>Simplified Forum Layout (Thread and Forums)<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-2.png?rev=2765907\"><img src=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-2.png?rev=2765907\" alt=\"Threaded Forum Layout (Thread and Forums)\"><\/a><p>Threaded Forum Layout (Thread and Forums)<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-3.png?rev=2765907\"><img src=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-3.png?rev=2765907\" alt=\"Threaded Forum Layout \/ Described\"><\/a><p>Threaded Forum Layout \/ Described<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-4.png?rev=2765907\"><img src=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-4.png?rev=2765907\" alt=\"Question &amp; Answer Forum Layout (Question Thread and Forums)\"><\/a><p>Question &amp; Answer Forum Layout (Question Thread and Forums)<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-5.png?rev=2765907\"><img src=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-5.png?rev=2765907\" alt=\"Question &amp; Answer Forum Layout \/ Forums \/ Described\"><\/a><p>Question &amp; Answer Forum Layout \/ Forums \/ Described<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-6.png?rev=2765907\"><img src=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-6.png?rev=2765907\" alt=\"Question &amp; Answer Forum Layout \/ Question Thread \/ Described\"><\/a><p>Question &amp; Answer Forum Layout \/ Question Thread \/ Described<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-7.png?rev=2765907\"><img src=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-7.png?rev=2765907\" alt=\"Extended Forum Layout (Thread and Forums)\"><\/a><p>Extended Forum Layout (Thread and Forums)<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-8.png?rev=2765907\"><img src=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-8.png?rev=2765907\" alt=\"Member Profile Page with Tabs\"><\/a><p>Member Profile Page with Tabs<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-9.png?rev=2765907\"><img src=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-9.png?rev=2765907\" alt=\"Forum Members Directory\"><\/a><p>Forum Members Directory<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-10.png?rev=2765907\"><img src=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-10.png?rev=2765907\" alt=\"Dashboard Settings Boxes and Single Setting Page\"><\/a><p>Dashboard Settings Boxes and Single Setting Page<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-11.png?rev=2765907\"><img src=\"https:\/\/ps.w.org\/wpforo\/assets\/screenshot-11.png?rev=2765907\" alt=\"Drag and drop forum management, easy to set parent-child forum hierarchy\"><\/a><p>Drag and drop forum management, easy to set parent-child forum hierarchy<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Support Great! Help, great! Plugin, great!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/imagencosmeticos\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/515cb94b1cb880b432a3ce81a993ee03?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/515cb94b1cb880b432a3ce81a993ee03?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/imagencosmeticos\/\" class=\"reviewer-name\">imagencosmeticos<\/a> on <span class=\"review-date\">January 29, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I had some issues with an updated of the plugin, but support did help me step by step.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Arrogant support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jezkerw\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b28948253d41cbc8fceb9b3344e21b71?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b28948253d41cbc8fceb9b3344e21b71?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jezkerw\/\" class=\"reviewer-name\">jezkerw<\/a> on <span class=\"review-date\">December 23, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I've used Wpforo for a few years now and bought many of their addons. Unfortunately, there are often issues with the software, especially following updates. They often mess things up with the code and refuse to listen to members when they bring it up. It's only after more members start complaining that they do something.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Support is very arrogant. Even if you report known issues, they just blatantly refuse to look deeper into it. They will just shrug you off like \"no one else has reported it and we don't see the issue\". <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">The forum software is ok, but it's bloated and the design is a bit strange. The refuse to make it look more like traditional forums (phpbb, Invisionboard) which is just strange to me. You might as well just install one of those forums on a subdomain and then connect the logins between forum and website.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">But yeah, the support is what I find to be the worst. Far too arrogant.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excellent Forum Plugin But....<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mikurux\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f2f0f2eec961a92bdde7988ecd332d91?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f2f0f2eec961a92bdde7988ecd332d91?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mikurux\/\" class=\"reviewer-name\">MikuruX<\/a> on <span class=\"review-date\">December 18, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Being new to Wordpress, I find this plugin to be very easy to use and install, appealing on the eyes on a basic level but the only gripe I have with it is that it doesn't have some sort of reactive theme where if a site is placed in dark mode, the forum section on the site will change to a dark mode also.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Not much of a big gripe but still a jarring one from an aesthetic point of view.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excelente plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/formaciongrafica\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d6230f8e343b200beac1502696f66b97?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d6230f8e343b200beac1502696f66b97?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/formaciongrafica\/\" class=\"reviewer-name\">Pl\u00e1cido Luna <small>(formaciongrafica)<\/small><\/a> on <span class=\"review-date\">November 28, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Completo, flexible, tiene una excelente presentaci\u00f3n y genera una muy buena experiencia de usuario.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Complete, flexible, has an excellent presentation and generates a very good user experience.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Absolutely Phenomenal Forum Software!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/vanessalaw\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/809bfc829032c8bf62eebfaf476f4987?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/809bfc829032c8bf62eebfaf476f4987?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/vanessalaw\/\" class=\"reviewer-name\">vanessalaw<\/a> on <span class=\"review-date\">November 13, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">We just finished upgrading our community of 42,000 members and almost 400,000 posts from bbPress and GD bbPress Toolbox over to WPForo.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">While the configuration, profile syncing and migration can be a bit tricky, the end result is nothing short of spectacular.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">The experience is more modern, faster and mobile friendly compared with bbPress. The configurability on types of forums (threaded, vs QA, etc) gives a lot of flexibility, and the widgets load fast and look good.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">It solves the biggest problem anyone who has used bbPress on a large forum has - threaded posts don't paginate so you end up with huge pages that take forever to load. Loading time for these pages went down from minutes on bbPress to seconds on WPForo.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">The default styles they offer look good, and there's enough flexibility to cover the basic customizations needed. Some more advanced customizations need you to add to php (such as showing most recent replies first under a topic), but I've been able to find answers for how to accomplish most of what we needed.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">The only thing I'd say is lacking is the responsiveness of support. The free plugin is supported by a community forum, which is generally fine. And the paid addons have their own dedicated support which is fast. What is lacking is support for folks who have paid for all the addons but need support on the base features. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">In the grand scheme of things, this is a relatively minor drawback and doesn't stop me from wholeheartedly recommending wpForo to anyone looking to setup a forum.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Review<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/3dshards\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f4f806d866733e8ee12e3f8256be634f?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f4f806d866733e8ee12e3f8256be634f?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/3dshards\/\" class=\"reviewer-name\">3dshards<\/a> on <span class=\"review-date\">November 13, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">PRO: <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Very professional looking and knowing-all forum. You can set everything. Looks pretty. Have several paid add-ons that make your life more bright.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Super Patient support team!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">CON:<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Installing is slow (because of the massive build), for the exact settings maybe you will need professional help. Seems easy, but what is merit, same is a flaw, too many things have to be set. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excellent plugin with great team behind<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mustafamohsen\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/6fe441d9a5bf30adb62ed7ac4c4b6eee?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/6fe441d9a5bf30adb62ed7ac4c4b6eee?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mustafamohsen\/\" class=\"reviewer-name\">mustafamohsen<\/a> on <span class=\"review-date\">August 14, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Spot on UI, extensive functionality, great support, and all for free! What else can someone seek?<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">I have finished the Korean translation for wpForo Forum<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/modelaid\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/a02b3ccf6ed62ef09cca18a415ed869b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/a02b3ccf6ed62ef09cca18a415ed869b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/modelaid\/\" class=\"reviewer-name\">modelaid<\/a> on <span class=\"review-date\">May 26, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>I have finished the Korean translation.<br \/>I just want to say thank you for developing such a good plugin.<br \/>And I hope it will be translated into more languages so that many WordPress users can use it conveniently.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>wpForo Forum \ud55c\uad6d\uc5b4 \ubc88\uc5ed\uc744 \ubaa8\ub450 \ub9c8\ucce4\uc2b5\ub2c8\ub2e4.<br \/>\uc88b\uc740 \ud50c\ub7ec\uadf8\uc778\uc744 \uac1c\ubc1c\ud574 \uc8fc\uc5b4\uc11c \uace0\ub9d9\ub2e4\ub294 \uc778\uc0ac\ub97c \uc804\ud558\uace0 \uc2f6\uc2b5\ub2c8\ub2e4.<br \/>\uadf8\ub9ac\uace0 \ubcf4\ub2e4 \ub9ce\uc740 \uc5b8\uc5b4\ub85c \ubc88\uc5ed\ub418\uc5b4 \ub9ce\uc740 \uc6cc\ub4dc\ud504\ub808\uc2a4 \uc0ac\uc6a9\uc790\ub4e4\uc774 \ud3b8\ub9ac\ud558\uac8c \uc0ac\uc6a9\ud560 \uc218 \uc788\uae30\ub97c \ubc14\ub78d\ub2c8\ub2e4.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">nice plugin, I using it<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/sermaton\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d2c280b504ef388079852058c0c800cc?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d2c280b504ef388079852058c0c800cc?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/sermaton\/\" class=\"reviewer-name\">sermaton<\/a> on <span class=\"review-date\">March 27, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Very good plugin. I was able to integrate my foro board with wordpress and it was not hard task. Problem only with mysql use, but it problem with any forum software.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great Plugin and Support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/hollywoodpi\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/852f77eec2172c1fe9a31ae35a07e3c7?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/852f77eec2172c1fe9a31ae35a07e3c7?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/hollywoodpi\/\" class=\"reviewer-name\">hollywoodpi<\/a> on <span class=\"review-date\">March 14, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>So many plugin vendors do not provide solid support and actually find ways all together not to provide it.  Once they have your money, they could care less.  It's happened far too many times!<br \/><br \/>So, it's refreshing to purchase a plugin by people who not only make a great product with amazing documentation, but the also support it 100%.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>I had an issue after migrating my site to another host and couldn't find a fix, so I posted my issue in their forums and within 24 hours I received a concise and accurate response from an Admin who knew exactly how I should go about fixing it.   One try and it was back to perfect.<br \/><br \/>Thank you Chris and the team of wpforo, you guys set the standard of a quality product and support.  Much appreciated.<br \/><br \/>I wish you guys made more plugins.  LOL<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Number one WordPress forum plugin. Full-fledged forum solution with modern and responsive forum design. Community builder WordPress forum plugin.",
+    "description": "<p>wpForo Forums is the best WordPress forum plugin. Full-fledged yet easy and light forum solution for your WordPress website. Comes with modern and responsive forum layouts and styles. This WordPress forum plugin brings everything you need to run an efficient and professional community. Powerful and beautiful forum with unique features. The best alternative to bbPress forum plugin.<\/p>\n<h4>5 Minute Forum Installation!<\/h4>\n<pre><code>1. Activate plugin and find forums on \/community\/ page, (\/community-2\/ if \/community\/ is used),\n2. Manage Forum Page, Title, etc in Dashboard &gt; wpForo &gt; Board &gt; Edit Board admin page,\n3. Manage Forums in Dashboard &gt; wpForo &gt; Forums admin page,\n4. Manage Forum Menu in Dashboard &gt; Appearance &gt; Menu admin page,\n5. Manage Forum Widgets in Dashboard &gt; Appearance &gt; Widgets admin page,\n6. Manage Forum Colors in Dashboard &gt; wpForo &gt; Settings &gt; Colors &amp; Styles admin page, you can choose forum color styles.\n<\/code><\/pre>\n<p>Support Forum and Demo: <a href=\"https:\/\/wpforo.com\/community\/\" rel=\"nofollow ugc\">https:\/\/wpforo.com\/community\/<\/a><br \/>\nForum Documentation: <a href=\"https:\/\/wpforo.com\/docs\/\" rel=\"nofollow ugc\">https:\/\/wpforo.com\/docs\/<\/a><br \/>\nGDPR Compliance: <a href=\"https:\/\/wpforo.com\/gdpr\/\" rel=\"nofollow ugc\">https:\/\/wpforo.com\/gdpr\/<\/a><\/p>\n<h4>Multi-layout WordPress Forum Plugin<\/h4>\n<ol>\n<li><a href=\"https:\/\/wpforo.com\/docs\/wpforo-v2\/categories-and-forums\/forum-layouts\/extended-layout\/\" rel=\"nofollow ugc\"><strong>Extended Forum Layout<\/strong><\/a><\/li>\n<li><a href=\"https:\/\/wpforo.com\/docs\/wpforo-v2\/categories-and-forums\/forum-layouts\/simplified-layout\/\" rel=\"nofollow ugc\"><strong>Simplified Forum Layout<\/strong><\/a><\/li>\n<li><a href=\"https:\/\/wpforo.com\/docs\/wpforo-v2\/categories-and-forums\/forum-layouts\/qa-layout\/\" rel=\"nofollow ugc\"><strong>Question and Answer Forum Layout<\/strong><\/a><\/li>\n<li><a href=\"https:\/\/wpforo.com\/docs\/wpforo-v2\/categories-and-forums\/forum-layouts\/threaded-layout\/\" rel=\"nofollow ugc\"><strong>Threaded Forum Layout<\/strong><\/a><\/li>\n<\/ol>\n<h4>Migrate to wpForo<\/h4>\n<p>Free Migration Tool Go2wpForo: <a href=\"https:\/\/wpforo.com\/docs\/wpforo-v2\/migrate-to-wpforo\/\" rel=\"nofollow ugc\">https:\/\/wpforo.com\/docs\/wpforo-v2\/migrate-to-wpforo\/<\/a><\/p>\n<pre><code>- Migrate bbPress forum to wpForo\n- Migrate Asgaros forum to wpForo\n- Migrate SimplePress forum to wpForo\n- Migrate phpBB forum to wpForo\n- Migrate SMF forum to wpForo\n- Migrate Joomla Kunena forum to wpForo\n- Migrate MyBB forum to wpForo\n<\/code><\/pre>\n<h4>Forum Integration<\/h4>\n<p>wpForo forum plugin is well integrated with many Profile Builder and Paid Membership plugins, such as <strong>BuddyPress<\/strong>, <strong>Ultimate Members<\/strong>, <strong>WooCommerce Membership<\/strong>, <strong>MemberPress<\/strong>, <strong>Groups<\/strong> and <strong>SureMembers<\/strong> plugins.<\/p>\n<h4>Forum Translation<\/h4>\n<p>wpForo is a WordPress forum plugin with all possibilities of plugin translation. We&#8217;d really appreciate if you could help <a href=\"https:\/\/translate.wordpress.org\/projects\/wp-plugins\/wpforo\/\" rel=\"nofollow ugc\">translating wpForo forum plugin to your language here<\/a>.<\/p>\n<h4>FORUM FEATURES<\/h4>\n<ul>\n<li>Multi-board: Allows to have multiple separate forum pages<\/li>\n<li>Multi-language: Allows to forums with different languages<\/li>\n<li>Multi-layout: Four modern forum layouts (Q&amp;A, Threaded&#8230;)<\/li>\n<li>Designed for small and extremely large forums\/communities.<\/li>\n<li>Migrate from other forums using <a href=\"https:\/\/wpforo.com\/community\/migrate-to-wpforo-from-other-forum-plugins\/migrate-to-wpforo-go2wpforo-tool\/\" rel=\"nofollow ugc\">Go2wpForo<\/a> tool.<\/li>\n<li>Four different forum layouts and designs.<\/li>\n<li>Six set of forum color styles including dark style.<\/li>\n<li>Super responsive forum on all kind of devices.<\/li>\n<li>Live user notification system<\/li>\n<li>Built-in forum SEO functions.<\/li>\n<li>Built-in forum Sitemap and Search Engine ping.<\/li>\n<li>Built-in forum Cache System.<\/li>\n<li>Built-in forum Antispam and Akismet integration.<\/li>\n<li>Advanced forum user profile system.<\/li>\n<li>Forum Member Rating and Badges.<\/li>\n<li>Built-in forum\/topic subscription.<\/li>\n<li>Drag and Drop forum management system.<\/li>\n<li>Topic and Post front-end moderation.<\/li>\n<li>Forum topics and posts Read \/ Unread logging.<\/li>\n<li>Topic Tags and Tags Widget.<\/li>\n<li>Forum styles with different colors.<\/li>\n<li>Built-in, powerful forum Usergroup system.<\/li>\n<li>Forum Access sets per Usergroup per Forum.<\/li>\n<li>Forum Phrase System for quick translation.<\/li>\n<li>WordPress .MO\/.PO translation files.<\/li>\n<li>Tools and options for GDPR Compliance<\/li>\n<li>Social Network Share Buttons<\/li>\n<li>BuddyPress Integration<\/li>\n<li>Ultimate Member Integration<\/li>\n<\/ul>\n<h4>Need more forum features?<\/h4>\n<p>Find wpForo forum plugin addons on <a href=\"https:\/\/gvectors.com\/product-category\/wpforo\/\" rel=\"nofollow ugc\">gVectors Team website&#8230;<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.3.3.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/wpforo\/assets\/screenshot-1.png?rev=2765907",
+            "caption": "Simplified Forum Layout (Thread and Forums)"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/wpforo\/assets\/screenshot-2.png?rev=2765907",
+            "caption": "Threaded Forum Layout (Thread and Forums)"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/wpforo\/assets\/screenshot-3.png?rev=2765907",
+            "caption": "Threaded Forum Layout \/ Described"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/wpforo\/assets\/screenshot-4.png?rev=2765907",
+            "caption": "Question &amp; Answer Forum Layout (Question Thread and Forums)"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/wpforo\/assets\/screenshot-5.png?rev=2765907",
+            "caption": "Question &amp; Answer Forum Layout \/ Forums \/ Described"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/wpforo\/assets\/screenshot-6.png?rev=2765907",
+            "caption": "Question &amp; Answer Forum Layout \/ Question Thread \/ Described"
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/wpforo\/assets\/screenshot-7.png?rev=2765907",
+            "caption": "Extended Forum Layout (Thread and Forums)"
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/wpforo\/assets\/screenshot-8.png?rev=2765907",
+            "caption": "Member Profile Page with Tabs"
+        },
+        "9": {
+            "src": "https:\/\/ps.w.org\/wpforo\/assets\/screenshot-9.png?rev=2765907",
+            "caption": "Forum Members Directory"
+        },
+        "10": {
+            "src": "https:\/\/ps.w.org\/wpforo\/assets\/screenshot-10.png?rev=2765907",
+            "caption": "Dashboard Settings Boxes and Single Setting Page"
+        },
+        "11": {
+            "src": "https:\/\/ps.w.org\/wpforo\/assets\/screenshot-11.png?rev=2765907",
+            "caption": "Drag and drop forum management, easy to set parent-child forum hierarchy"
+        }
+    },
+    "tags": {
+        "bbpress": "bbPress",
+        "community": "community",
+        "forum": "forum",
+        "forum-plugin": "forum plugin",
+        "forums": "forums"
+    },
+    "stable_tag": "2.3.3",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.0.2.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.1.0.zip",
+        "1.1.1": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.1.1.zip",
+        "1.1.2": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.1.2.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.2.0.zip",
+        "1.3.0": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.3.0.zip",
+        "1.3.1": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.3.1.zip",
+        "1.4.0": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.4.0.zip",
+        "1.4.1": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.4.1.zip",
+        "1.4.10": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.4.10.zip",
+        "1.4.11": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.4.11.zip",
+        "1.4.12": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.4.12.zip",
+        "1.4.13": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.4.13.zip",
+        "1.4.2": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.4.2.zip",
+        "1.4.3": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.4.3.zip",
+        "1.4.4": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.4.4.zip",
+        "1.4.4.1": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.4.4.1.zip",
+        "1.4.5": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.4.5.zip",
+        "1.4.6": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.4.6.zip",
+        "1.4.7": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.4.7.zip",
+        "1.4.8": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.4.8.zip",
+        "1.4.9": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.4.9.zip",
+        "1.5.0": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.5.0.zip",
+        "1.5.1": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.5.1.zip",
+        "1.5.2": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.5.2.zip",
+        "1.5.3": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.5.3.zip",
+        "1.5.4": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.5.4.zip",
+        "1.5.5": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.5.5.zip",
+        "1.6.0": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.6.0.zip",
+        "1.6.1": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.6.1.zip",
+        "1.6.2": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.6.2.zip",
+        "1.6.3": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.6.3.zip",
+        "1.6.4": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.6.4.zip",
+        "1.6.5": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.6.5.zip",
+        "1.7.0": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.7.0.zip",
+        "1.7.1": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.7.1.zip",
+        "1.7.2": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.7.2.zip",
+        "1.7.3": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.7.3.zip",
+        "1.7.4": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.7.4.zip",
+        "1.7.5": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.7.5.zip",
+        "1.7.6": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.7.6.zip",
+        "1.7.7": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.7.7.zip",
+        "1.8.0": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.8.0.zip",
+        "1.8.1": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.8.1.zip",
+        "1.8.2": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.8.2.zip",
+        "1.8.3": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.8.3.zip",
+        "1.8.4": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.8.4.zip",
+        "1.9.0": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.9.0.zip",
+        "1.9.1": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.9.1.zip",
+        "1.9.2": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.9.2.zip",
+        "1.9.3": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.9.3.zip",
+        "1.9.4": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.9.4.zip",
+        "1.9.5": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.9.5.zip",
+        "1.9.6": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.9.6.zip",
+        "1.9.7": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.9.7.zip",
+        "1.9.8": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.9.8.zip",
+        "1.9.9": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.9.9.zip",
+        "1.9.9.1": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.9.9.1.zip",
+        "1.9.9.2": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.1.9.9.2.zip",
+        "2.0.1": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.0.1.zip",
+        "2.0.2": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.0.2.zip",
+        "2.0.3": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.0.3.zip",
+        "2.0.4": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.0.4.zip",
+        "2.0.5": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.0.5.zip",
+        "2.0.6": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.0.6.zip",
+        "2.0.7": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.0.7.zip",
+        "2.0.8": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.0.8.zip",
+        "2.0.9": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.0.9.zip",
+        "2.1.0": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.1.0.zip",
+        "2.1.1": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.1.1.zip",
+        "2.1.2": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.1.2.zip",
+        "2.1.3": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.1.3.zip",
+        "2.1.4": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.1.4.zip",
+        "2.1.5": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.1.5.zip",
+        "2.1.6": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.1.6.zip",
+        "2.1.7": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.1.7.zip",
+        "2.1.8": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.1.8.zip",
+        "2.1.9": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.1.9.zip",
+        "2.2.0": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.2.0.zip",
+        "2.2.1": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.2.1.zip",
+        "2.2.10": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.2.10.zip",
+        "2.2.2": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.2.2.zip",
+        "2.2.3": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.2.3.zip",
+        "2.2.4": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.2.4.zip",
+        "2.2.5": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.2.5.zip",
+        "2.2.6": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.2.6.zip",
+        "2.2.7": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.2.7.zip",
+        "2.2.8": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.2.8.zip",
+        "2.2.9": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.2.9.zip",
+        "2.3.0": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.3.0.zip",
+        "2.3.1": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.3.1.zip",
+        "2.3.2": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.3.2.zip",
+        "2.3.3": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.2.3.3.zip",
+        "beta-1": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.beta-1.zip",
+        "beta-2": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.beta-2.zip",
+        "beta-3": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.beta-3.zip",
+        "beta-4": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.beta-4.zip",
+        "beta-5": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.beta-5.zip",
+        "beta-6": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.beta-6.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/wpforo.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/wpforo\/assets\/banner-772x250.png?rev=1743533",
+        "high": "https:\/\/ps.w.org\/wpforo\/assets\/banner-1544x500.png?rev=1743533"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/wpforo\/assets\/icon-128x128.png?rev=1443649",
+        "2x": "https:\/\/ps.w.org\/wpforo\/assets\/icon-256x256.png?rev=2121644"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 94,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "wpforo",
+            "language": "ca",
+            "version": "2.3.3",
+            "updated": "2024-01-08 16:31:56",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wpforo\/2.3.3\/ca.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wpforo",
+            "language": "cs_CZ",
+            "version": "2.3.3",
+            "updated": "2023-09-21 08:12:08",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wpforo\/2.3.3\/cs_CZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wpforo",
+            "language": "es_ES",
+            "version": "2.3.3",
+            "updated": "2023-01-12 15:51:57",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wpforo\/2.3.3\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wpforo",
+            "language": "fa_IR",
+            "version": "2.3.3",
+            "updated": "2021-09-19 09:21:04",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wpforo\/2.3.3\/fa_IR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wpforo",
+            "language": "fr_FR",
+            "version": "2.3.3",
+            "updated": "2023-05-20 08:39:05",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wpforo\/2.3.3\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wpforo",
+            "language": "ja",
+            "version": "2.3.3",
+            "updated": "2024-04-11 03:37:51",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wpforo\/2.3.3\/ja.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wpforo",
+            "language": "ko_KR",
+            "version": "2.3.3",
+            "updated": "2024-04-09 06:11:32",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wpforo\/2.3.3\/ko_KR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wpforo",
+            "language": "lt_LT",
+            "version": "2.3.3",
+            "updated": "2019-07-28 18:29:31",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wpforo\/2.3.3\/lt_LT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wpforo",
+            "language": "nl_NL",
+            "version": "2.3.3",
+            "updated": "2024-03-10 21:55:35",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wpforo\/2.3.3\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wpforo",
+            "language": "nl_BE",
+            "version": "2.3.3",
+            "updated": "2024-03-11 06:45:40",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wpforo\/2.3.3\/nl_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wpforo",
+            "language": "pt_BR",
+            "version": "2.3.3",
+            "updated": "2023-01-20 13:04:05",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wpforo\/2.3.3\/pt_BR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wpforo",
+            "language": "ru_RU",
+            "version": "2.3.3",
+            "updated": "2024-02-26 08:03:31",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wpforo\/2.3.3\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wpforo",
+            "language": "sk_SK",
+            "version": "2.3.3",
+            "updated": "2024-03-17 10:16:34",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wpforo\/2.3.3\/sk_SK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wpforo",
+            "language": "th",
+            "version": "2.3.3",
+            "updated": "2021-07-08 14:51:29",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wpforo\/2.3.3\/th.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wpforo",
+            "language": "tr_TR",
+            "version": "2.3.3",
+            "updated": "2022-03-10 07:05:47",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wpforo\/2.3.3\/tr_TR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wpforo",
+            "language": "zh_CN",
+            "version": "2.3.3",
+            "updated": "2018-06-09 11:41:16",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wpforo\/2.3.3\/zh_CN.zip"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "name": "Call Now and Chat Buttons",
+    "slug": "call-now-and-chat-buttons",
+    "version": "1.0.0",
+    "author": "<a href=\"https:\/\/dalinovate.com\/\">Dalinovate<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/dalinovate2024\/",
+    "contributors": {
+        "dalinovate2024": {
+            "profile": "https:\/\/profiles.wordpress.org\/dalinovate2024\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/65f8c4d52d65de1d8fef39f45b898462?s=96&d=monsterid&r=g",
+            "display_name": "Dalinovate"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.5.2",
+    "requires_php": "4.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/call-now-and-chat-buttons\/",
+    "support_threads": 1,
+    "support_threads_resolved": 0,
+    "active_installs": 20,
+    "downloaded": 372,
+    "last_updated": "2024-04-13 11:58am GMT",
+    "added": "2024-01-21",
+    "homepage": "",
+    "sections": {
+        "description": "<p>With the &#8220;Call Now and Chat Button&#8221; plugin, give your website visitors an effortless way to reach out to you. Perfect for businesses, e-commerce stores, bloggers, and any website where customer communication is key.<\/p>\n<p><strong>Features<\/strong>:<\/p>\n<ul>\n<li>Instant &#8220;Call Now&#8221; button for immediate phone calls.<\/li>\n<li>Direct &#8220;Chat&#8221; button for quick chats.<\/li>\n<li>Seamless integration with any WordPress theme.<\/li>\n<li>User-friendly settings for easy customization.<\/li>\n<\/ul>\n<h3>Local Resources<\/h3>\n<p>This plugin includes local copies of necessary resources to ensure reliability and performance:<\/p>\n<p>Bootstrap Icons: The Bootstrap Icons CSS and font files are hosted within the plugin directory. This ensures that the plugin is self-contained and not dependent on external sources for critical functionalities. The icons enhance the visual appeal and user experience of the &#8220;Call Now&#8221; and &#8220;Chat&#8221; buttons.<\/p>\n",
+        "installation": "<ol>\n<li>Upload the <code>call-now-and-chat-buttons<\/code> folder to the <code>\/wp-content\/plugins\/<\/code> directory.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress.<\/li>\n<li>Configure the plugin settings as desired.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='is%20this%20plugin%20mobile-responsive%3F'>\nIs this plugin mobile-responsive?\n<\/h4>\n<p>\n<p>Yes, the &#8220;Call Now&#8221; and &#8220;Chat&#8221; buttons are designed to work on both desktop and mobile devices.<\/p>\n<\/p>\n<dt id='can%20i%20customize%20the%20appearance%20of%20the%20buttons%3F'>\nCan I customize the appearance of the buttons?\n<\/h4>\n<p>\n<p>Yes, you can customize the buttons&#8217; appearance from the plugin settings.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.0<\/h4>\n<ul>\n<li>Initial release.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/call-now-and-chat-buttons\/assets\/screenshot-1.JPG?rev=3024804\"><img src=\"https:\/\/ps.w.org\/call-now-and-chat-buttons\/assets\/screenshot-1.JPG?rev=3024804\" alt=\"The main settings page of the plugin.\"><\/a><p>The main settings page of the plugin.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/call-now-and-chat-buttons\/assets\/screenshot-2.JPG?rev=3024804\"><img src=\"https:\/\/ps.w.org\/call-now-and-chat-buttons\/assets\/screenshot-2.JPG?rev=3024804\" alt=\"The &#039;Call Now and Chat Buttons&#039; as displayed on a webpage.\"><\/a><p>The 'Call Now and Chat Buttons' as displayed on a webpage.<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Very easy to use &amp; very effective!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/flixmaxwell\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/32926bddb7cd56ee7cd1fe1a80cc69df?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/32926bddb7cd56ee7cd1fe1a80cc69df?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/flixmaxwell\/\" class=\"reviewer-name\">flixmaxwell<\/a> on <span class=\"review-date\">January 22, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This was probably the easiest plugin I have ever used! Needed to add a way for users to call us or start chat over Whatsapp directly when using mobile devices, that is exactly what this plugin does. Some nice customization options as well! GREAT PLUGIN thank you!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Add instant &quot;Call Now&quot; and &quot;Chat&quot; buttons to your website, allowing visitors to seamlessly contact you with a single click.",
+    "description": "<p>With the &#8220;Call Now and Chat Button&#8221; plugin, give your website visitors an effortless way to reach out to you. Perfect for businesses, e-commerce stores, bloggers, and any website where customer communication is key.<\/p>\n<p><strong>Features<\/strong>:<\/p>\n<ul>\n<li>Instant &#8220;Call Now&#8221; button for immediate phone calls.<\/li>\n<li>Direct &#8220;Chat&#8221; button for quick chats.<\/li>\n<li>Seamless integration with any WordPress theme.<\/li>\n<li>User-friendly settings for easy customization.<\/li>\n<\/ul>\n<h3>Local Resources<\/h3>\n<p>This plugin includes local copies of necessary resources to ensure reliability and performance:<\/p>\n<p>Bootstrap Icons: The Bootstrap Icons CSS and font files are hosted within the plugin directory. This ensures that the plugin is self-contained and not dependent on external sources for critical functionalities. The icons enhance the visual appeal and user experience of the &#8220;Call Now&#8221; and &#8220;Chat&#8221; buttons.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/call-now-and-chat-buttons.1.0.0.zip",
+    "upgrade_notice": {
+        "1.0.0": "<ul>\n<li>Initial release.<\/li>\n<\/ul>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/call-now-and-chat-buttons\/assets\/screenshot-1.JPG?rev=3024804",
+            "caption": "The main settings page of the plugin."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/call-now-and-chat-buttons\/assets\/screenshot-2.JPG?rev=3024804",
+            "caption": "The 'Call Now and Chat Buttons' as displayed on a webpage."
+        }
+    },
+    "tags": {
+        "button": "button",
+        "call-button": "call button",
+        "call-now": "call now",
+        "chat-button": "chat button",
+        "contact": "contact"
+    },
+    "stable_tag": "1.0.0",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/call-now-and-chat-buttons.1.0.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/call-now-and-chat-buttons.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/dalinovate.com",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/call-now-and-chat-buttons\/assets\/banner-772x250.JPG?rev=3024809",
+        "high": "https:\/\/ps.w.org\/call-now-and-chat-buttons\/assets\/banner-1544x500.JPG?rev=3024809"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/call-now-and-chat-buttons\/assets\/icon-128x128.png?rev=3024804",
+        "2x": "https:\/\/ps.w.org\/call-now-and-chat-buttons\/assets\/icon-256x256.png?rev=3024804"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

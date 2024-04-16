@@ -1,0 +1,345 @@
+{
+    "name": "Fonts Plugin | Google Fonts Typography",
+    "slug": "olympus-google-fonts",
+    "version": "3.6.1",
+    "author": "<a href=\"https:\/\/fontsplugin.com\/?utm_source=wporg&utm_medium=readme&utm_campaign=description\">Fonts Plugin<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/fontsplugin\/",
+    "contributors": {
+        "dannycooper": {
+            "profile": "https:\/\/profiles.wordpress.org\/dannycooper\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2260398601fbc394af0089ad47721b58?s=96&d=monsterid&r=g",
+            "display_name": "DannyCooper"
+        },
+        "googlefonts": {
+            "profile": "https:\/\/profiles.wordpress.org\/googlefonts\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/39e4c1fdb17947815fb5d980c0aaa805?s=96&d=monsterid&r=g",
+            "display_name": "googlefonts"
+        },
+        "fontsplugin": {
+            "profile": "https:\/\/profiles.wordpress.org\/fontsplugin\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/d505600d6427df276fe1f9be4d2292f7?s=96&d=monsterid&r=g",
+            "display_name": "fontsplugin"
+        }
+    },
+    "requires": "4.0",
+    "tested": "6.5.2",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1041,
+        "4": 19,
+        "3": 4,
+        "2": 1,
+        "1": 5
+    },
+    "num_ratings": 1070,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/olympus-google-fonts\/",
+    "support_threads": 3,
+    "support_threads_resolved": 3,
+    "active_installs": 200000,
+    "downloaded": 6973965,
+    "last_updated": "2024-04-06 4:26pm GMT",
+    "added": "2017-10-16",
+    "homepage": "https:\/\/wordpress.org\/plugins\/olympus-google-fonts\/",
+    "sections": {
+        "description": "<p>The <a href=\"https:\/\/fontsplugin.com\/?utm_source=wporg&amp;utm_medium=readme&amp;utm_campaign=intro\" rel=\"nofollow ugc\">Google Fonts<\/a> library currently contains 1455 unique fonts. This plugin allows you to easily use any of them on your WordPress website.<\/p>\n<p>You&#8217;re not stuck with one font for the entire website, you can easily choose one font for headings and another for your content.<\/p>\n<p>It&#8217;s hard to know which font will look good on your website, that&#8217;s why we&#8217;ve included a live preview feature. That means you can test each font and see a live preview of how it will look with your content instantly.<\/p>\n<p>Once you&#8217;ve found a combination you love, you can press save and make the changes publicly visible.<\/p>\n<p>The full Google Fonts library can be found here &#8211; <a href=\"https:\/\/fonts.google.com\" rel=\"nofollow ugc\">Google Fonts<\/a><\/p>\n<h4>Plugin Features<\/h4>\n<ul>\n<li><strong>Live Customizer Preview:<\/strong> Choose and preview fonts in real time using the WordPress Customizer.<\/li>\n<li><strong>Over 1000+ Google Fonts<\/strong> to choose from.<\/li>\n<li><strong>Adobe Fonts (Typekit)<\/strong> integration.<\/li>\n<li>Works with any WordPress Theme. No coding required.<\/li>\n<li>Easy One-Click Updates.<\/li>\n<li>WooCommerce support.<\/li>\n<li>Translation Ready.<\/li>\n<li>SSL and HTTPS compatible.<\/li>\n<li>Efficient Font Loading using a single request.<\/li>\n<li><strong>SEO-Friendly<\/strong> (Search Engine Optimization).<\/li>\n<li>Tested with <strong>PHP7<\/strong> and <strong>PHP8<\/strong>..<\/li>\n<li>Selective Font Loading.<\/li>\n<li>Preconnect Resource Hints.<\/li>\n<li>Host Google Fonts Locally.<\/li>\n<li>Upload Custom Fonts.<\/li>\n<li>Font Size, Weight, Color and Line Height Typography Settings.<\/li>\n<\/ul>\n<blockquote>\n<p>Note: some features are Premium. Which means you need to upgrade to unlock those features. You can upgrade here: <a href=\"https:\/\/fontsplugin.com\/pro-upgrade\/?utm_source=wporg&amp;utm_medium=readme&amp;utm_campaign=upsell\" rel=\"nofollow ugc\">Fonts Plugin Pro<\/a><\/p>\n<\/blockquote>\n<p><a href=\"https:\/\/fontsplugin.com\/free-vs-pro\/\" rel=\"nofollow ugc\">A comparison of free and pro features.<\/a><\/p>\n<h4>Plugin Compatibility<\/h4>\n<p>Fonts Plugin will work with all WordPress themes and has been specifically tested with the following:<\/p>\n<ul>\n<li>All StudioPress and Genesis Themes<\/li>\n<li>Twenty Seventeen<\/li>\n<li>Twenty Nineteen<\/li>\n<li>Twenty Twenty<\/li>\n<li>ThemeGrill<\/li>\n<li>LyraThemes<\/li>\n<li>ThemeIsle<\/li>\n<\/ul>\n<h3>Further Reading<\/h3>\n<p>For more info on Fonts Plugin, check out the following:<\/p>\n<ul>\n<li><a href=\"https:\/\/docs.fontsplugin.com\/?utm_source=wporg&amp;utm_medium=readme&amp;utm_campaign=docs\" rel=\"nofollow ugc\">Documentation<\/a><\/li>\n<li><a href=\"https:\/\/fontsplugin.com\/font-combinations\/?utm_source=wporg&amp;utm_medium=readme&amp;utm_campaign=docs\" rel=\"nofollow ugc\">Font Combinations<\/a><\/li>\n<li><a href=\"https:\/\/fontsplugin.com\/google-fonts-checker\/?utm_source=wporg&amp;utm_medium=readme&amp;utm_campaign=docs\" rel=\"nofollow ugc\">Google Fonts Checker<\/a><\/li>\n<li><a href=\"https:\/\/fontsplugin.com\/wordpress-google-fonts\/?utm_source=wporg&amp;utm_medium=readme&amp;utm_campaign=docs\" rel=\"nofollow ugc\">How to Use Google Fonts in WordPress<\/a><\/li>\n<li><a href=\"https:\/\/docs.fontsplugin.com\/integrations\/beaver-builder\/?utm_source=wporg&amp;utm_medium=readme&amp;utm_campaign=docs\" rel=\"nofollow ugc\">Google Fonts in Beaver Builder<\/a><\/li>\n<li><a href=\"https:\/\/docs.fontsplugin.com\/integrations\/elementor\/?utm_source=wporg&amp;utm_medium=readme&amp;utm_campaign=docs\" rel=\"nofollow ugc\">Google Fonts in Elementor<\/a><\/li>\n<li><a href=\"https:\/\/docs.fontsplugin.com\/integrations\/wpbakery\/?utm_source=wporg&amp;utm_medium=readme&amp;utm_campaign=docs\" rel=\"nofollow ugc\">Google Fonts in WPBakery<\/a><\/li>\n<\/ul>\n<h4>Bugs<\/h4>\n<p>If you find an issue with Fonts Plugin, let us know <a href=\"https:\/\/wordpress.org\/support\/plugin\/olympus-google-fonts#new-post\" rel=\"ugc\">here<\/a>!<\/p>\n<h4>Fonts Plugin Gutenberg Block<\/h4>\n<p>Add some flair to your content with our new Gutenberg block.<\/p>\n<ul>\n<li>1000+ Google Fonts available in the editor.<\/li>\n<li>Font size, variant and line-height settings.<\/li>\n<li>Text-align: left, right or center.<\/li>\n<li>Adobe Fonts (Typekit) support.<\/li>\n<\/ul>\n<h4>Contributions<\/h4>\n<p>Anyone is welcome to contribute to Fonts Plugin.<\/p>\n<p>There are various ways you can contribute:<\/p>\n<ol>\n<li>Raise an <a href=\"https:\/\/wordpress.org\/support\/plugin\/olympus-google-fonts#new-post\" rel=\"ugc\">Issue<\/a><\/li>\n<li>Translate the Fonts Plugin into <a href=\"https:\/\/translate.wordpress.org\/projects\/wp-plugins\/olympus-google-fonts\/\" rel=\"nofollow ugc\">different languages<\/a><\/li>\n<li>Provide feedback and suggestions on <a href=\"https:\/\/wordpress.org\/support\/plugin\/olympus-google-fonts#new-post\" rel=\"ugc\">enhancements<\/a><\/li>\n<\/ol>\n",
+        "installation": "<p>Upload Fonts Plugin, activate it, and you&#8217;re done!<\/p>\n<p>Navigate to wp-admin -&gt; Appearance -&gt; Customize and you will see a new tab named &#8216;Fonts Plugin&#8217;<\/p>\n",
+        "faq": "\n<dt id='will%20my%20theme%20work%20with%20fonts%20plugin%3F'>\nWill my theme work with Fonts Plugin?\n<\/h4>\n<p>\n<p>We are 99.99% certain it will, if it doesn&#8217;t then please create a <a href=\"https:\/\/wordpress.org\/support\/plugin\/olympus-google-fonts#new-post\" rel=\"ugc\">support ticket<\/a>.<\/p>\n<\/p>\n\n",
+        "changelog": "<p><a href=\"https:\/\/raw.githubusercontent.com\/dannycooper\/olympus-google-fonts\/master\/changelog.txt\" rel=\"nofollow ugc\">See changelog.txt for the complete Fonts Plugin changelog.<\/a><\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/olympus-google-fonts\/assets\/screenshot-1.gif?rev=2812012\"><img src=\"https:\/\/ps.w.org\/olympus-google-fonts\/assets\/screenshot-1.gif?rev=2812012\" alt=\"Instant Live Preview - Google Fonts for WordPress\"><\/a><p>Instant Live Preview - Google Fonts for WordPress<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/olympus-google-fonts\/assets\/screenshot-2.png?rev=2812012\"><img src=\"https:\/\/ps.w.org\/olympus-google-fonts\/assets\/screenshot-2.png?rev=2812012\" alt=\"Customizer Settings Search - Google Fonts for WordPress\"><\/a><p>Customizer Settings Search - Google Fonts for WordPress<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/olympus-google-fonts\/assets\/screenshot-3.png?rev=2812012\"><img src=\"https:\/\/ps.w.org\/olympus-google-fonts\/assets\/screenshot-3.png?rev=2812012\" alt=\"Customizer Settings Font Weight and Style Typography Settings\"><\/a><p>Customizer Settings Font Weight and Style Typography Settings<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Does the job.<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mmk175\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/aae1cb1dec31d26f62966979ab777019?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/aae1cb1dec31d26f62966979ab777019?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mmk175\/\" class=\"reviewer-name\">mmk175<\/a> on <span class=\"review-date\">April 15, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Does the job. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Efficient &amp; Easy<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/miloidea\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/8d3a3885136fdcff4662d5c9e7152437?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/8d3a3885136fdcff4662d5c9e7152437?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/miloidea\/\" class=\"reviewer-name\">miloidea<\/a> on <span class=\"review-date\">April 13, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">It works great, I haven't had any problems, totally plug &amp; play<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Good Plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/oliverlehmann\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/c1419c9125c94cbb4627bf4d2b7f2560?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/c1419c9125c94cbb4627bf4d2b7f2560?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/oliverlehmann\/\" class=\"reviewer-name\">oliverlehmann<\/a> on <span class=\"review-date\">April 9, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Great solution for a good-looking website.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Wonderful support team!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/christinadelarosa\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/c0aaa468191dfcffe22ab3841a7c8cd5?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/c0aaa468191dfcffe22ab3841a7c8cd5?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/christinadelarosa\/\" class=\"reviewer-name\">christinadelarosa<\/a> on <span class=\"review-date\">April 9, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I had some issues getting the plugin to do its job due to some custom CSS that I had overlooked. The manual and the support team were very, very helpful and of course, helped me resolve the issue. I most certainly recommend this plugin!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excelente herrramnienta orte para los desarrolladores<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/olavoferreiro\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/4226d2367330e9ba677538e43556aa7f?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/4226d2367330e9ba677538e43556aa7f?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/olavoferreiro\/\" class=\"reviewer-name\">olavoferreiro<\/a> on <span class=\"review-date\">April 9, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\"><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Excelente herrramnienta orte para los desarrolladores<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excellent plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/fungody123\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/bf5c01aa1817bd2a52ded4dff3ce674f?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/bf5c01aa1817bd2a52ded4dff3ce674f?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/fungody123\/\" class=\"reviewer-name\">Naovy G <small>(fungody123)<\/small><\/a> on <span class=\"review-date\">March 29, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Free version is very useful already!!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">GREAT SOLUTION<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/strategicsan4444\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/7c344fb901e7bd29a0f57d83e9979240?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/7c344fb901e7bd29a0f57d83e9979240?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/strategicsan4444\/\" class=\"reviewer-name\">strategicsan4444<\/a> on <span class=\"review-date\">March 24, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Solves finding fonts. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Eccellente<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/esseemme\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/17f841fd4a2fc09bbf32d1e35ebd2be6?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/17f841fd4a2fc09bbf32d1e35ebd2be6?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/esseemme\/\" class=\"reviewer-name\">esseemme<\/a> on <span class=\"review-date\">March 24, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Molto utile e facile da usare<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">top!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/ljubamarcolin\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b676aca5ec7e6b98a02336a185aa4cd3?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b676aca5ec7e6b98a02336a185aa4cd3?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/ljubamarcolin\/\" class=\"reviewer-name\">ljubamarcolin<\/a> on <span class=\"review-date\">March 16, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">saved my life!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excellent<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/josephcaraccio\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b7637bbffcb10a52a5d88c5f09519076?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b7637bbffcb10a52a5d88c5f09519076?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/josephcaraccio\/\" class=\"reviewer-name\">Joe <small>(josephcaraccio)<\/small><\/a> on <span class=\"review-date\">March 14, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Excellent plug-in that does what it says it will do.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "The easiest to use Google Fonts Plugin. No coding required. Optimized for Speed. 1000+ font choices.",
+    "description": "<p>The <a href=\"https:\/\/fontsplugin.com\/?utm_source=wporg&amp;utm_medium=readme&amp;utm_campaign=intro\" rel=\"nofollow ugc\">Google Fonts<\/a> library currently contains 1455 unique fonts. This plugin allows you to easily use any of them on your WordPress website.<\/p>\n<p>You&#8217;re not stuck with one font for the entire website, you can easily choose one font for headings and another for your content.<\/p>\n<p>It&#8217;s hard to know which font will look good on your website, that&#8217;s why we&#8217;ve included a live preview feature. That means you can test each font and see a live preview of how it will look with your content instantly.<\/p>\n<p>Once you&#8217;ve found a combination you love, you can press save and make the changes publicly visible.<\/p>\n<p>The full Google Fonts library can be found here &#8211; <a href=\"https:\/\/fonts.google.com\" rel=\"nofollow ugc\">Google Fonts<\/a><\/p>\n<h4>Plugin Features<\/h4>\n<ul>\n<li><strong>Live Customizer Preview:<\/strong> Choose and preview fonts in real time using the WordPress Customizer.<\/li>\n<li><strong>Over 1000+ Google Fonts<\/strong> to choose from.<\/li>\n<li><strong>Adobe Fonts (Typekit)<\/strong> integration.<\/li>\n<li>Works with any WordPress Theme. No coding required.<\/li>\n<li>Easy One-Click Updates.<\/li>\n<li>WooCommerce support.<\/li>\n<li>Translation Ready.<\/li>\n<li>SSL and HTTPS compatible.<\/li>\n<li>Efficient Font Loading using a single request.<\/li>\n<li><strong>SEO-Friendly<\/strong> (Search Engine Optimization).<\/li>\n<li>Tested with <strong>PHP7<\/strong> and <strong>PHP8<\/strong>..<\/li>\n<li>Selective Font Loading.<\/li>\n<li>Preconnect Resource Hints.<\/li>\n<li>Host Google Fonts Locally.<\/li>\n<li>Upload Custom Fonts.<\/li>\n<li>Font Size, Weight, Color and Line Height Typography Settings.<\/li>\n<\/ul>\n<blockquote>\n<p>Note: some features are Premium. Which means you need to upgrade to unlock those features. You can upgrade here: <a href=\"https:\/\/fontsplugin.com\/pro-upgrade\/?utm_source=wporg&amp;utm_medium=readme&amp;utm_campaign=upsell\" rel=\"nofollow ugc\">Fonts Plugin Pro<\/a><\/p>\n<\/blockquote>\n<p><a href=\"https:\/\/fontsplugin.com\/free-vs-pro\/\" rel=\"nofollow ugc\">A comparison of free and pro features.<\/a><\/p>\n<h4>Plugin Compatibility<\/h4>\n<p>Fonts Plugin will work with all WordPress themes and has been specifically tested with the following:<\/p>\n<ul>\n<li>All StudioPress and Genesis Themes<\/li>\n<li>Twenty Seventeen<\/li>\n<li>Twenty Nineteen<\/li>\n<li>Twenty Twenty<\/li>\n<li>ThemeGrill<\/li>\n<li>LyraThemes<\/li>\n<li>ThemeIsle<\/li>\n<\/ul>\n<h3>Further Reading<\/h3>\n<p>For more info on Fonts Plugin, check out the following:<\/p>\n<ul>\n<li><a href=\"https:\/\/docs.fontsplugin.com\/?utm_source=wporg&amp;utm_medium=readme&amp;utm_campaign=docs\" rel=\"nofollow ugc\">Documentation<\/a><\/li>\n<li><a href=\"https:\/\/fontsplugin.com\/font-combinations\/?utm_source=wporg&amp;utm_medium=readme&amp;utm_campaign=docs\" rel=\"nofollow ugc\">Font Combinations<\/a><\/li>\n<li><a href=\"https:\/\/fontsplugin.com\/google-fonts-checker\/?utm_source=wporg&amp;utm_medium=readme&amp;utm_campaign=docs\" rel=\"nofollow ugc\">Google Fonts Checker<\/a><\/li>\n<li><a href=\"https:\/\/fontsplugin.com\/wordpress-google-fonts\/?utm_source=wporg&amp;utm_medium=readme&amp;utm_campaign=docs\" rel=\"nofollow ugc\">How to Use Google Fonts in WordPress<\/a><\/li>\n<li><a href=\"https:\/\/docs.fontsplugin.com\/integrations\/beaver-builder\/?utm_source=wporg&amp;utm_medium=readme&amp;utm_campaign=docs\" rel=\"nofollow ugc\">Google Fonts in Beaver Builder<\/a><\/li>\n<li><a href=\"https:\/\/docs.fontsplugin.com\/integrations\/elementor\/?utm_source=wporg&amp;utm_medium=readme&amp;utm_campaign=docs\" rel=\"nofollow ugc\">Google Fonts in Elementor<\/a><\/li>\n<li><a href=\"https:\/\/docs.fontsplugin.com\/integrations\/wpbakery\/?utm_source=wporg&amp;utm_medium=readme&amp;utm_campaign=docs\" rel=\"nofollow ugc\">Google Fonts in WPBakery<\/a><\/li>\n<\/ul>\n<h4>Bugs<\/h4>\n<p>If you find an issue with Fonts Plugin, let us know <a href=\"https:\/\/wordpress.org\/support\/plugin\/olympus-google-fonts#new-post\" rel=\"ugc\">here<\/a>!<\/p>\n<h4>Fonts Plugin Gutenberg Block<\/h4>\n<p>Add some flair to your content with our new Gutenberg block.<\/p>\n<ul>\n<li>1000+ Google Fonts available in the editor.<\/li>\n<li>Font size, variant and line-height settings.<\/li>\n<li>Text-align: left, right or center.<\/li>\n<li>Adobe Fonts (Typekit) support.<\/li>\n<\/ul>\n<h4>Contributions<\/h4>\n<p>Anyone is welcome to contribute to Fonts Plugin.<\/p>\n<p>There are various ways you can contribute:<\/p>\n<ol>\n<li>Raise an <a href=\"https:\/\/wordpress.org\/support\/plugin\/olympus-google-fonts#new-post\" rel=\"ugc\">Issue<\/a><\/li>\n<li>Translate the Fonts Plugin into <a href=\"https:\/\/translate.wordpress.org\/projects\/wp-plugins\/olympus-google-fonts\/\" rel=\"nofollow ugc\">different languages<\/a><\/li>\n<li>Provide feedback and suggestions on <a href=\"https:\/\/wordpress.org\/support\/plugin\/olympus-google-fonts#new-post\" rel=\"ugc\">enhancements<\/a><\/li>\n<\/ol>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.6.1.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/olympus-google-fonts\/assets\/screenshot-1.gif?rev=2812012",
+            "caption": "Instant Live Preview - Google Fonts for WordPress"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/olympus-google-fonts\/assets\/screenshot-2.png?rev=2812012",
+            "caption": "Customizer Settings Search - Google Fonts for WordPress"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/olympus-google-fonts\/assets\/screenshot-3.png?rev=2812012",
+            "caption": "Customizer Settings Font Weight and Style Typography Settings"
+        }
+    },
+    "tags": {
+        "elementor": "elementor",
+        "fonts": "fonts",
+        "google": "google",
+        "google-fonts": "google fonts",
+        "typekit": "typekit"
+    },
+    "stable_tag": "3.6.1",
+    "versions": {
+        "3.0.0": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.0.0.zip",
+        "3.0.1": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.0.1.zip",
+        "3.0.11": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.0.11.zip",
+        "3.0.12": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.0.12.zip",
+        "3.0.13": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.0.13.zip",
+        "3.0.14": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.0.14.zip",
+        "3.0.15": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.0.15.zip",
+        "3.0.16": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.0.16.zip",
+        "3.0.17": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.0.17.zip",
+        "3.0.18": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.0.18.zip",
+        "3.0.19": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.0.19.zip",
+        "3.0.2": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.0.2.zip",
+        "3.0.20": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.0.20.zip",
+        "3.0.23": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.0.23.zip",
+        "3.0.3": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.0.3.zip",
+        "3.0.4": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.0.4.zip",
+        "3.0.5": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.0.5.zip",
+        "3.0.6": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.0.6.zip",
+        "3.0.7": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.0.7.zip",
+        "3.0.8": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.0.8.zip",
+        "3.0.9": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.0.9.zip",
+        "3.1.1": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.1.1.zip",
+        "3.1.2": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.1.2.zip",
+        "3.2.0": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.2.0.zip",
+        "3.2.1": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.2.1.zip",
+        "3.2.3": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.2.3.zip",
+        "3.2.4": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.2.4.zip",
+        "3.2.5": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.2.5.zip",
+        "3.2.6": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.2.6.zip",
+        "3.3.0": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.3.0.zip",
+        "3.3.1": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.3.1.zip",
+        "3.3.2": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.3.2.zip",
+        "3.3.3": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.3.3.zip",
+        "3.3.4": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.3.4.zip",
+        "3.3.5-fix": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.3.5-fix.zip",
+        "3.3.6": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.3.6.zip",
+        "3.3.7": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.3.7.zip",
+        "3.3.7-compat": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.3.7-compat.zip",
+        "3.3.8-fix": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.3.8-fix.zip",
+        "3.4.0": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.4.0.zip",
+        "3.4.1": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.4.1.zip",
+        "3.4.2": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.4.2.zip",
+        "3.4.3": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.4.3.zip",
+        "3.4.4": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.4.4.zip",
+        "3.4.5": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.4.5.zip",
+        "3.4.6": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.4.6.zip",
+        "3.4.7": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.4.7.zip",
+        "3.4.8": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.4.8.zip",
+        "3.4.9": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.4.9.zip",
+        "3.5.0": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.5.0.zip",
+        "3.5.1": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.5.1.zip",
+        "3.6.0": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.6.0.zip",
+        "3.6.1": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.3.6.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/olympus-google-fonts.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/fontsplugin.com\/#pricing",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/olympus-google-fonts\/assets\/banner-772x250.jpg?rev=2812012",
+        "high": "https:\/\/ps.w.org\/olympus-google-fonts\/assets\/banner-1544x500.jpg?rev=2812012"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/olympus-google-fonts\/assets\/icon-128x128.jpg?rev=2812012",
+        "2x": "https:\/\/ps.w.org\/olympus-google-fonts\/assets\/icon-256x256.jpg?rev=2812012"
+    },
+    "blocks": {
+        "olympus-google-fonts\/google-fonts": {
+            "name": "olympus-google-fonts\/google-fonts",
+            "title": "Google Fonts"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "de_DE",
+            "version": "3.6.0",
+            "updated": "2022-07-11 08:02:59",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "en_GB",
+            "version": "3.6.0",
+            "updated": "2022-01-18 15:45:59",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/en_GB.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "es_ES",
+            "version": "3.6.0",
+            "updated": "2024-03-15 13:29:48",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "es_VE",
+            "version": "3.6.0",
+            "updated": "2022-02-12 04:33:14",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "es_MX",
+            "version": "3.6.0",
+            "updated": "2021-10-29 13:08:36",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/es_MX.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "es_EC",
+            "version": "3.6.0",
+            "updated": "2022-02-12 04:34:35",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/es_EC.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "es_CO",
+            "version": "3.6.0",
+            "updated": "2022-02-12 04:34:08",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/es_CO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "fa_IR",
+            "version": "3.6.0",
+            "updated": "2020-01-09 15:27:22",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/fa_IR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "it_IT",
+            "version": "3.6.0",
+            "updated": "2022-03-11 18:54:52",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "ja",
+            "version": "3.6.0",
+            "updated": "2023-05-21 01:17:22",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/ja.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "ko_KR",
+            "version": "3.6.0",
+            "updated": "2023-06-23 00:44:16",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/ko_KR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "ckb",
+            "version": "3.6.0",
+            "updated": "2020-01-10 11:47:13",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/ckb.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "nl_BE",
+            "version": "3.6.0",
+            "updated": "2023-05-17 14:12:48",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/nl_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "nl_NL_formal",
+            "version": "3.6.0",
+            "updated": "2024-03-13 20:30:11",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/nl_NL_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "nl_NL",
+            "version": "3.6.0",
+            "updated": "2024-03-14 19:29:54",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "pl_PL",
+            "version": "3.6.0",
+            "updated": "2023-07-21 05:47:09",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/pl_PL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "ru_RU",
+            "version": "3.6.0",
+            "updated": "2023-09-08 19:09:48",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "si_LK",
+            "version": "3.6.0",
+            "updated": "2019-02-18 17:33:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/si_LK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "sq",
+            "version": "3.6.0",
+            "updated": "2023-02-15 09:43:04",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/sq.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "sv_SE",
+            "version": "3.6.0",
+            "updated": "2023-01-31 17:54:17",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/sv_SE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "tr_TR",
+            "version": "3.6.0",
+            "updated": "2019-02-08 12:56:00",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/tr_TR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "zh_CN",
+            "version": "3.6.0",
+            "updated": "2020-07-16 11:02:08",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/zh_CN.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "olympus-google-fonts",
+            "language": "zh_TW",
+            "version": "3.6.0",
+            "updated": "2024-03-14 19:21:06",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/olympus-google-fonts\/3.6.0\/zh_TW.zip"
+        }
+    ]
+}

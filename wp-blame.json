@@ -1,0 +1,108 @@
+{
+    "name": "WP Blame",
+    "slug": "wp-blame",
+    "version": "2.1.5",
+    "author": "<a href=\"https:\/\/wpcorner.co\/author\/patrick-l\/\">Patrick Lumumba<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/lumiblog\/",
+    "contributors": {
+        "lumiblog": {
+            "profile": "https:\/\/profiles.wordpress.org\/lumiblog\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/f5bee397738a30c6fd24a75b80d09679?s=96&d=monsterid&r=g",
+            "display_name": "Patrick Lumumba"
+        },
+        "wpcornerke": {
+            "profile": "https:\/\/profiles.wordpress.org\/wpcornerke\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2c7ad578191c09146386b326476859c9?s=96&d=monsterid&r=g",
+            "display_name": "WP Corner"
+        }
+    },
+    "requires": "4.0",
+    "tested": "6.5.2",
+    "requires_php": "5.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/wp-blame\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 1230,
+    "last_updated": "2024-03-28 2:30pm GMT",
+    "added": "2017-06-16",
+    "homepage": "https:\/\/github.com\/wpcorner\/wp-blame",
+    "sections": {
+        "description": "<h4>About<\/h4>\n<p>WP Blame lets you keep a record of everything that has happened on your website by logging the actions of your users in a simple but useful table of data.<\/p>\n<h4>Developers<\/h4>\n<p>There are currently no hooks available for this plugin as of yet, however whilst it is discouraged, you can log actions using the <code>WPB_Log_Hooks::save_new_log<\/code> function.<\/p>\n",
+        "installation": "<ol>\n<li>Download, unzip and upload the package to your plugins directory.<\/li>\n<li>Log into the dashboard and activate within the plugins page.<\/li>\n<li>Review your website logs under Tools &gt; Logs.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='what%20kind%20of%20things%20will%20be%20logged%3F'>\nWhat kind of things will be logged?\n<\/h4>\n<p>\n<p>Almost anything that can be logged, is logged. This includes but is not limited to posts, terms, media and users as well as general options.<\/p>\n<\/p>\n<dt id='can%20i%20log%20a%20custom%20action%20by%20another%20plugin%3F'>\nCan I log a custom action by another plugin?\n<\/h4>\n<p>\n<p>You can, but it&#8217;s not advised as the Log API has not bee fully developed yet and may not work very well with other plugins. <code>WPB_Log_Hooks<\/code> is the class that handles logging.<\/p>\n<\/p>\n<dt id='can%20i%20only%20log%20particular%20users%3F'>\nCan I only log particular users?\n<\/h4>\n<p>\n<p>You can add usernames to a whitelist of people who&#8217;s actions should not be logged on the website.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>2.1.5<\/h4>\n<ul>\n<li>Updated plugin author information <\/li>\n<\/ul>\n<h4>2.1.4<\/h4>\n<ul>\n<li>Updated author information <\/li>\n<\/ul>\n<h4>2.1.3<\/h4>\n<ul>\n<li>Updated author information &#8211; Removed Daniel James danieltj<\/li>\n<\/ul>\n<h4>2.1.2<\/h4>\n<ul>\n<li>Updated for new developer to maintain.<\/li>\n<\/ul>\n<h4>2.1.1<\/h4>\n<ul>\n<li>Updated the plugin translations to be in en_US by default.<\/li>\n<li>Fixed a bug relating to terms being shown in the log table.<\/li>\n<li>Minor improvements to some translation strings.<\/li>\n<li>Minor updates to the plugin readme.txt file.<\/li>\n<\/ul>\n<h4>2.1<\/h4>\n<ul>\n<li>Fixed a bug where the per page option wasn&#8217;t added on install.<\/li>\n<li>Fixed a bug with the item column being blank after deletion.<\/li>\n<li>Fixed an untranslated string for the logs per page option.<\/li>\n<li>Minor improvements to a variety of core functions.<\/li>\n<\/ul>\n<h4>2.0<\/h4>\n<ul>\n<li>Major rewrite of the entire plugin code.<\/li>\n<li>Changed the license from GNU GPL v2 to v3.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/wp-blame\/assets\/screenshot-1.png?rev=1802729\"><img src=\"https:\/\/ps.w.org\/wp-blame\/assets\/screenshot-1.png?rev=1802729\" alt=\"An example of the logs table.\"><\/a><p>An example of the logs table.<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Keep a record of the activity on your website.",
+    "description": "<h4>About<\/h4>\n<p>WP Blame lets you keep a record of everything that has happened on your website by logging the actions of your users in a simple but useful table of data.<\/p>\n<h4>Developers<\/h4>\n<p>There are currently no hooks available for this plugin as of yet, however whilst it is discouraged, you can log actions using the <code>WPB_Log_Hooks::save_new_log<\/code> function.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wp-blame.2.1.5.zip",
+    "upgrade_notice": {
+        "2.1.5": "<ul>\n<li>Minor fix.<\/li>\n<\/ul>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/wp-blame\/assets\/screenshot-1.png?rev=1802729",
+            "caption": "An example of the logs table."
+        }
+    },
+    "tags": {
+        "audit": "audit",
+        "history": "history",
+        "logs": "logs",
+        "security": "security"
+    },
+    "stable_tag": "2.1.5",
+    "versions": {
+        "2.1.5": "https:\/\/downloads.wordpress.org\/plugin\/wp-blame.2.1.5.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/wp-blame.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/wpcorner.co\/donate",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/wp-blame\/assets\/banner-772x250.png?rev=3060598",
+        "high": "https:\/\/ps.w.org\/wp-blame\/assets\/banner-1544x500.png?rev=3060598"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/wp-blame\/assets\/icon-128x128.png?rev=3060598",
+        "2x": "https:\/\/ps.w.org\/wp-blame\/assets\/icon-256x256.png?rev=3060598"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "wp-blame",
+            "language": "en_GB",
+            "version": "2.1.5",
+            "updated": "2018-02-07 08:32:28",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wp-blame\/2.1.5\/en_GB.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wp-blame",
+            "language": "en_CA",
+            "version": "2.1.5",
+            "updated": "2018-02-06 18:40:49",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wp-blame\/2.1.5\/en_CA.zip"
+        }
+    ]
+}

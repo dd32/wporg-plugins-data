@@ -1,0 +1,66 @@
+{
+    "name": "Upkepr Maintainance",
+    "slug": "upkepr-maintenance",
+    "version": "1.0.0",
+    "author": "<a href=\"https:\/\/webgarh.com\/\">WebGarh Solutions<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/webgarh\/",
+    "contributors": {
+        "webgarh": {
+            "profile": "https:\/\/profiles.wordpress.org\/webgarh\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/bf14972ccde055e212aca5a718d13746?s=96&d=monsterid&r=g",
+            "display_name": "WebGarh Solutions"
+        }
+    },
+    "requires": "4.9",
+    "tested": "6.4.4",
+    "requires_php": "5.6",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/upkepr-maintenance\/",
+    "support_threads": 1,
+    "support_threads_resolved": 0,
+    "active_installs": 30,
+    "downloaded": 49,
+    "last_updated": "2024-04-04 8:26am GMT",
+    "added": "2024-04-04",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Upkepr Maintainance plugin is providing information about wordpress site health. It will show the information of core wordpress, plugins and themes.<br \/>\nIt has 5 apis.<\/p>\n<h3>Note: Validation key is auto generate on wordpress site on Activtion of the plugin. This validation key and domain name (base domain where wordpress installed ) is used for authentication.<\/h3>\n<ol>\n<li>\n<p>{domainname}\/wp-json\/upkepr-isKeyValid\/key \/* to check if key is valide *\/<br \/>\nheader<br \/>\ni. content type: json<br \/>\nii. &#8220;Upkeprvalidationkey&#8221;: {vaidation key}<br \/>\niii. &#8220;Upkeprvalidationdomain&#8221;: {base domainname}<\/p>\n<\/li>\n<li>\n<p>{domainname}\/wp-json\/upkepr-is_keydomainusername_valid\/data \/* to check if key, domain and username is valide *\/<br \/>\nheader<br \/>\ni. content type: json<br \/>\nii. &#8220;Upkeprvalidationkey&#8221;: {vaidation key}<br \/>\niii. &#8220;Upkeprvalidationdomain&#8221;: {base domainname}<br \/>\nbody<br \/>\ni. &#8220;username&#8221;: {Username or Email of the user}<\/p>\n<\/li>\n<li>\n<p>{domainname}\/wp-json\/upkepr-wpinfo\/wpinfo \/* to get wp infomation data *\/<br \/>\nheader<br \/>\ni. content type: json<br \/>\nii. &#8220;Upkeprvalidationkey&#8221;: {vaidation key}<br \/>\niii. &#8220;Upkeprvalidationdomain&#8221;: {base domainname}<br \/>\nbody<br \/>\ni. &#8220;username&#8221;: {Username or Email of the user}<\/p>\n<\/li>\n<li>\n<p>{domainname}\/wp-json\/upkepr-gettoken\/byusername  \/* to get token *\/<br \/>\nheader<br \/>\ni. content type: json<br \/>\nii. &#8220;Upkeprvalidationkey&#8221;: {vaidation key}<br \/>\niii. &#8220;Upkeprvalidationdomain&#8221;: {base domainname}<br \/>\nbody<br \/>\ni. &#8220;username&#8221;: {Username or Email of the user}<\/p>\n<\/li>\n<li>\n<p>{domainname}\/wp-json\/upkepr-getloginurl\/byusername \/* to get login url *\/<br \/>\nheader<br \/>\ni. content type: json<br \/>\nii. &#8220;Upkeprvalidationkey&#8221;: {vaidation key}<br \/>\niii. &#8220;Upkeprvalidationdomain&#8221;: {base domainname}<br \/>\niv. Authorization token: {bearer token}<br \/>\nbody<br \/>\ni. &#8220;username&#8221;: {Username or Email of the user}<\/p>\n<\/li>\n<\/ol>\n",
+        "reviews": ""
+    },
+    "short_description": "The best WordPress plugin to get inforation about wordpress core, plugins and themes by rest apis",
+    "description": "<p>Upkepr Maintainance plugin is providing information about wordpress site health. It will show the information of core wordpress, plugins and themes.<br \/>\nIt has 5 apis.<\/p>\n<h3>Note: Validation key is auto generate on wordpress site on Activtion of the plugin. This validation key and domain name (base domain where wordpress installed ) is used for authentication.<\/h3>\n<ol>\n<li>\n<p>{domainname}\/wp-json\/upkepr-isKeyValid\/key \/* to check if key is valide *\/<br \/>\nheader<br \/>\ni. content type: json<br \/>\nii. &#8220;Upkeprvalidationkey&#8221;: {vaidation key}<br \/>\niii. &#8220;Upkeprvalidationdomain&#8221;: {base domainname}<\/p>\n<\/li>\n<li>\n<p>{domainname}\/wp-json\/upkepr-is_keydomainusername_valid\/data \/* to check if key, domain and username is valide *\/<br \/>\nheader<br \/>\ni. content type: json<br \/>\nii. &#8220;Upkeprvalidationkey&#8221;: {vaidation key}<br \/>\niii. &#8220;Upkeprvalidationdomain&#8221;: {base domainname}<br \/>\nbody<br \/>\ni. &#8220;username&#8221;: {Username or Email of the user}<\/p>\n<\/li>\n<li>\n<p>{domainname}\/wp-json\/upkepr-wpinfo\/wpinfo \/* to get wp infomation data *\/<br \/>\nheader<br \/>\ni. content type: json<br \/>\nii. &#8220;Upkeprvalidationkey&#8221;: {vaidation key}<br \/>\niii. &#8220;Upkeprvalidationdomain&#8221;: {base domainname}<br \/>\nbody<br \/>\ni. &#8220;username&#8221;: {Username or Email of the user}<\/p>\n<\/li>\n<li>\n<p>{domainname}\/wp-json\/upkepr-gettoken\/byusername  \/* to get token *\/<br \/>\nheader<br \/>\ni. content type: json<br \/>\nii. &#8220;Upkeprvalidationkey&#8221;: {vaidation key}<br \/>\niii. &#8220;Upkeprvalidationdomain&#8221;: {base domainname}<br \/>\nbody<br \/>\ni. &#8220;username&#8221;: {Username or Email of the user}<\/p>\n<\/li>\n<li>\n<p>{domainname}\/wp-json\/upkepr-getloginurl\/byusername \/* to get login url *\/<br \/>\nheader<br \/>\ni. content type: json<br \/>\nii. &#8220;Upkeprvalidationkey&#8221;: {vaidation key}<br \/>\niii. &#8220;Upkeprvalidationdomain&#8221;: {base domainname}<br \/>\niv. Authorization token: {bearer token}<br \/>\nbody<br \/>\ni. &#8220;username&#8221;: {Username or Email of the user}<\/p>\n<\/li>\n<\/ol>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/upkepr-maintenance.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "wordpress-information": "wordpress information",
+        "wordpress-maintenance": "wordpress maintenance"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "default": "https:\/\/s.w.org\/plugins\/geopattern-icon\/upkepr-maintenance.svg"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

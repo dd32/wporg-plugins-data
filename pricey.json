@@ -1,0 +1,104 @@
+{
+    "name": "Pricey",
+    "slug": "pricey",
+    "version": "1.0.4",
+    "author": "<a href=\"https:\/\/www.pricey.jp\/about\">wilico<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/wilico\/",
+    "contributors": {
+        "wilico": {
+            "profile": "https:\/\/profiles.wordpress.org\/wilico\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/398442d699d4707895138f3ca0b24b14?s=96&d=monsterid&r=g",
+            "display_name": "wilico"
+        }
+    },
+    "requires": "6.2",
+    "tested": "6.4.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/pricey\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 286,
+    "last_updated": "2024-03-09 9:52am GMT",
+    "added": "2024-01-28",
+    "homepage": "https:\/\/pricey.jp\/",
+    "sections": {
+        "description": "<p>Pricey\u306f\u3001WordPress\u7528\u306e\u9769\u65b0\u7684\u306a\u30a2\u30d5\u30a3\u30ea\u30a8\u30a4\u30c8\u30ea\u30f3\u30af\u633f\u5165\u30d7\u30e9\u30b0\u30a4\u30f3\u3067\u3001Amazon\uff08\u30a2\u30de\u30be\u30f3\uff09\u3001\u697d\u5929\u3001Yahoo!\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u306e\u30a2\u30d5\u30a3\u30ea\u30a8\u30a4\u30c8\u30ea\u30f3\u30af\u3092\u6295\u7a3f\u672c\u6587\u306b\u7c21\u5358\u306b\u633f\u5165\u3067\u304d\u308b\u3060\u3051\u3067\u306a\u304f\u3001\u30c7\u30b6\u30a4\u30f3\u306e\u77e5\u8b58\u304c\u306a\u3044\u30e6\u30fc\u30b6\u30fc\u3067\u3082\u9b45\u529b\u7684\u306a\u30b3\u30f3\u30dd\u30fc\u30cd\u30f3\u30c8\u3092\u81ea\u52d5\u751f\u6210\u3057\u3001\u30b5\u30a4\u30c8\u306e\u898b\u305f\u76ee\u3092\u5411\u4e0a\u3055\u305b\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002<\/p>\n<p>Pricey\u306e\u7279\u5fb4\u306f\u3001\u30a2\u30d5\u30a3\u30ea\u30a8\u30a4\u30c8\u30ea\u30f3\u30af\u306e\u52b9\u7387\u7684\u306a\u7ba1\u7406\u3068\u81ea\u52d5\u4fa1\u683c\u6bd4\u8f03\u6a5f\u80fd\u306b\u52a0\u3048\u3001\u65b0\u305f\u306b\u5546\u54c1\u306e\u4fa1\u683c\u63a8\u79fb\u3092\u81ea\u52d5\u8868\u793a\u3059\u308b\u6a5f\u80fd\u304c\u8ffd\u52a0\u3055\u308c\u307e\u3057\u305f\u3002<br \/>\n\u3053\u306e\u6a5f\u80fd\u306b\u3088\u308a\u3001\u30b3\u30f3\u30dd\u30fc\u30cd\u30f3\u30c8\u4f5c\u6210\u6642\u306b\u3001\u81ea\u52d5\u7684\u306b\u305d\u306e\u5546\u54c1\u306e\u4fa1\u683c\u5909\u52d5\u306e\u5c65\u6b74\u3092\u8868\u793a\u3057\u3001\u30b5\u30a4\u30c8\u8a2a\u554f\u8005\u306b\u4fa1\u683c\u306e\u52d5\u304d\u3092\u4e00\u76ee\u3067\u78ba\u8a8d\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u308a\u307e\u3059\u3002\u3053\u308c\u306f\u3001\u8cfc\u5165\u3092\u691c\u8a0e\u3057\u3066\u3044\u308b\u30e6\u30fc\u30b6\u30fc\u306b\u3068\u3063\u3066\u975e\u5e38\u306b\u8cb4\u91cd\u306a\u60c5\u5831\u3092\u63d0\u4f9b\u3057\u3001\u8cfc\u5165\u6c7a\u5b9a\u3092\u52a9\u3051\u307e\u3059\u3002<\/p>\n<p>\u3053\u306e\u30d7\u30e9\u30b0\u30a4\u30f3\u306f\u3001\u7279\u306b\u30a2\u30d5\u30a3\u30ea\u30a8\u30a4\u30c8\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u3092\u884c\u3063\u3066\u3044\u308b\u30d6\u30ed\u30ac\u30fc\u3084\u30aa\u30f3\u30e9\u30a4\u30f3\u30b7\u30e7\u30c3\u30d7\u306e\u30aa\u30fc\u30ca\u30fc\u306b\u3068\u3063\u3066\u3001\u30b5\u30a4\u30c8\u8a2a\u554f\u8005\u306b\u6700\u9069\u306a\u4fa1\u683c\u30aa\u30d7\u30b7\u30e7\u30f3\u3092\u63d0\u4f9b\u3057\u3001\u30a2\u30d5\u30a3\u30ea\u30a8\u30a4\u30c8\u53ce\u76ca\u3092\u6700\u5927\u5316\u3059\u308b\u3053\u3068\u304c\u53ef\u80fd\u306b\u306a\u308a\u307e\u3059\u3002<\/p>\n<p>https:\/\/pricey.jp\/<\/p>\n<p>\u30d7\u30e9\u30b0\u30a4\u30f3\u306e\u975e\u5727\u7e2e\u7248\u30bd\u30fc\u30b9\u30b3\u30fc\u30c9\uff1ahttps:\/\/pricey-affiliate-wordpress-plugin-review.s3.ap-northeast-1.amazonaws.com\/wp.zip<\/p>\n<h3>3RD PARTY RESOURCES<\/h3>\n<h4>Amazon\u30a2\u30bd\u30b7\u30a8\u30a4\u30c8<\/h4>\n<p>WebSite: https:\/\/affiliate.amazon.co.jp\/<br \/>\nTerms: https:\/\/affiliate.amazon.co.jp\/help\/operating\/agreement\/<\/p>\n<h4>\u697d\u5929\u30a2\u30d5\u30a3\u30ea\u30a8\u30a4\u30c8<\/h4>\n<p>WebSite: https:\/\/affiliate.rakuten.co.jp\/<br \/>\nTerms: https:\/\/affiliate.rakuten.co.jp\/guideline\/<\/p>\n<h4>\u30d0\u30ea\u30e5\u30fc\u30b3\u30de\u30fc\u30b9\u30a2\u30d5\u30a3\u30ea\u30a8\u30a4\u30c8<\/h4>\n<p>WebSite: https:\/\/www.valuecommerce.ne.jp\/<br \/>\nTerms: https:\/\/www.valuecommerce.ne.jp\/st_affiliate\/terms.html<\/p>\n<h4>\u3082\u3057\u3082\u30a2\u30d5\u30a3\u30ea\u30a8\u30a4\u30c8<\/h4>\n<p>WebSite: https:\/\/af.moshimo.com\/<br \/>\nTerms: https:\/\/af.moshimo.com\/af\/www\/terms\/shop<\/p>\n<h4>Pricey API<\/h4>\n<p>WebSite: https:\/\/pricey.jp\/<br \/>\nAPI: https:\/\/xoon0odxf3.execute-api.ap-northeast-1.amazonaws.com\/v1<br \/>\nTerms: https:\/\/www.pricey.jp\/utility-pages\/ios-userpolicy | https:\/\/www.pricey.jp\/utility-pages\/android-userpolicy<\/p>\n",
+        "installation": "<ol>\n<li>From the WP admin panel, click \u201cPlugins\u201d -&gt; \u201cAdd new\u201d.<\/li>\n<li>In the browser input box, type \u201cMy Custom Style Css Manager\u201d.<\/li>\n<li>Select the \u201cMy Custom Style Css Manager\u201d plugin and click \u201cInstall\u201d.<\/li>\n<li>Activate the plugin.<\/li>\n<\/ol>\n<p>OR\u2026<\/p>\n<ol>\n<li>Download the plugin from this page.<\/li>\n<li>Save the .zip file to a location on your computer.<\/li>\n<li>Open the WP admin panel, and click \u201cPlugins\u201d -&gt; \u201cAdd new\u201d.<\/li>\n<li>Click \u201cupload\u201d.. then browse to the .zip file downloaded from this page.<\/li>\n<li>Click \u201cInstall\u201d.. and then \u201cActivate plugin\u201d.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%83%BC%E3%81%A7%E3%82%82%E4%BD%BF%E3%81%88%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F'>\n\u30af\u30e9\u30b7\u30c3\u30af\u30a8\u30c7\u30a3\u30bf\u30fc\u3067\u3082\u4f7f\u3048\u307e\u3059\u304b\uff1f\n<\/h4>\n<p>\n<p>\u767b\u9332\u6e08\u307f\u306e\u5546\u54c1\u3092\u30b7\u30e7\u30fc\u30c8\u30b3\u30fc\u30c9\u3067\u547c\u3073\u51fa\u3059\u3053\u3068\u306f\u53ef\u80fd\u3067\u3059\u3002<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.3<\/h4>\n<ul>\n<li>\u5546\u54c1\u5225\u306b\u30bb\u30fc\u30eb\u3092\u8a2d\u5b9a\u3067\u304d\u308b\u6a5f\u80fd\u3092\u8ffd\u52a0\u3057\u307e\u3057\u305f<\/li>\n<li>yahoo\u304c\u691c\u7d22\u5143\u306e\u969b\u306b\u30bf\u30a4\u30c8\u30eb\u3084\u753b\u50cf\u306e\u30ea\u30f3\u30af\u5148\u304c\u7570\u306a\u308b\u4e0d\u5177\u5408\u3092\u4fee\u6b63\u3057\u307e\u3057\u305f<\/li>\n<\/ul>\n",
+        "reviews": ""
+    },
+    "short_description": "\u8ab0\u3067\u3082\u7c21\u5358\u306b\u6295\u7a3f\u672c\u6587\u3067Amazon, \u697d\u5929, Yahoo!\u306e\u30a2\u30d5\u30a3\u30ea\u30a8\u30a4\u30c8\u30ea\u30f3\u30af\u3092\u633f\u5165\u3067\u304d\u307e\u3059\u3002\u30c7\u30b6\u30a4\u30f3\u4e0d\u8981\u3067\u3001\u304b\u308f\u3044\u3044\u30b3\u30f3\u30dd\u30fc\u30cd\u30f3\u30c8\u3092\u81ea\u52d5\u751f\u6210\u3002\u30a2\u30d5\u30a3\u30ea\u30a8\u30a4\u30c8\u30ea\u30f3\u30af\u306e\u7ba1\u7406\u3082\u3053\u308c\u4e00\u3064\u3067\u5b8c\u7d50\u3002",
+    "description": "<p>Pricey\u306f\u3001WordPress\u7528\u306e\u9769\u65b0\u7684\u306a\u30a2\u30d5\u30a3\u30ea\u30a8\u30a4\u30c8\u30ea\u30f3\u30af\u633f\u5165\u30d7\u30e9\u30b0\u30a4\u30f3\u3067\u3001Amazon\uff08\u30a2\u30de\u30be\u30f3\uff09\u3001\u697d\u5929\u3001Yahoo!\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u306e\u30a2\u30d5\u30a3\u30ea\u30a8\u30a4\u30c8\u30ea\u30f3\u30af\u3092\u6295\u7a3f\u672c\u6587\u306b\u7c21\u5358\u306b\u633f\u5165\u3067\u304d\u308b\u3060\u3051\u3067\u306a\u304f\u3001\u30c7\u30b6\u30a4\u30f3\u306e\u77e5\u8b58\u304c\u306a\u3044\u30e6\u30fc\u30b6\u30fc\u3067\u3082\u9b45\u529b\u7684\u306a\u30b3\u30f3\u30dd\u30fc\u30cd\u30f3\u30c8\u3092\u81ea\u52d5\u751f\u6210\u3057\u3001\u30b5\u30a4\u30c8\u306e\u898b\u305f\u76ee\u3092\u5411\u4e0a\u3055\u305b\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002<\/p>\n<p>Pricey\u306e\u7279\u5fb4\u306f\u3001\u30a2\u30d5\u30a3\u30ea\u30a8\u30a4\u30c8\u30ea\u30f3\u30af\u306e\u52b9\u7387\u7684\u306a\u7ba1\u7406\u3068\u81ea\u52d5\u4fa1\u683c\u6bd4\u8f03\u6a5f\u80fd\u306b\u52a0\u3048\u3001\u65b0\u305f\u306b\u5546\u54c1\u306e\u4fa1\u683c\u63a8\u79fb\u3092\u81ea\u52d5\u8868\u793a\u3059\u308b\u6a5f\u80fd\u304c\u8ffd\u52a0\u3055\u308c\u307e\u3057\u305f\u3002<br \/>\n\u3053\u306e\u6a5f\u80fd\u306b\u3088\u308a\u3001\u30b3\u30f3\u30dd\u30fc\u30cd\u30f3\u30c8\u4f5c\u6210\u6642\u306b\u3001\u81ea\u52d5\u7684\u306b\u305d\u306e\u5546\u54c1\u306e\u4fa1\u683c\u5909\u52d5\u306e\u5c65\u6b74\u3092\u8868\u793a\u3057\u3001\u30b5\u30a4\u30c8\u8a2a\u554f\u8005\u306b\u4fa1\u683c\u306e\u52d5\u304d\u3092\u4e00\u76ee\u3067\u78ba\u8a8d\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u308a\u307e\u3059\u3002\u3053\u308c\u306f\u3001\u8cfc\u5165\u3092\u691c\u8a0e\u3057\u3066\u3044\u308b\u30e6\u30fc\u30b6\u30fc\u306b\u3068\u3063\u3066\u975e\u5e38\u306b\u8cb4\u91cd\u306a\u60c5\u5831\u3092\u63d0\u4f9b\u3057\u3001\u8cfc\u5165\u6c7a\u5b9a\u3092\u52a9\u3051\u307e\u3059\u3002<\/p>\n<p>\u3053\u306e\u30d7\u30e9\u30b0\u30a4\u30f3\u306f\u3001\u7279\u306b\u30a2\u30d5\u30a3\u30ea\u30a8\u30a4\u30c8\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u3092\u884c\u3063\u3066\u3044\u308b\u30d6\u30ed\u30ac\u30fc\u3084\u30aa\u30f3\u30e9\u30a4\u30f3\u30b7\u30e7\u30c3\u30d7\u306e\u30aa\u30fc\u30ca\u30fc\u306b\u3068\u3063\u3066\u3001\u30b5\u30a4\u30c8\u8a2a\u554f\u8005\u306b\u6700\u9069\u306a\u4fa1\u683c\u30aa\u30d7\u30b7\u30e7\u30f3\u3092\u63d0\u4f9b\u3057\u3001\u30a2\u30d5\u30a3\u30ea\u30a8\u30a4\u30c8\u53ce\u76ca\u3092\u6700\u5927\u5316\u3059\u308b\u3053\u3068\u304c\u53ef\u80fd\u306b\u306a\u308a\u307e\u3059\u3002<\/p>\n<p>https:\/\/pricey.jp\/<\/p>\n<p>\u30d7\u30e9\u30b0\u30a4\u30f3\u306e\u975e\u5727\u7e2e\u7248\u30bd\u30fc\u30b9\u30b3\u30fc\u30c9\uff1ahttps:\/\/pricey-affiliate-wordpress-plugin-review.s3.ap-northeast-1.amazonaws.com\/wp.zip<\/p>\n<h3>3RD PARTY RESOURCES<\/h3>\n<h4>Amazon\u30a2\u30bd\u30b7\u30a8\u30a4\u30c8<\/h4>\n<p>WebSite: https:\/\/affiliate.amazon.co.jp\/<br \/>\nTerms: https:\/\/affiliate.amazon.co.jp\/help\/operating\/agreement\/<\/p>\n<h4>\u697d\u5929\u30a2\u30d5\u30a3\u30ea\u30a8\u30a4\u30c8<\/h4>\n<p>WebSite: https:\/\/affiliate.rakuten.co.jp\/<br \/>\nTerms: https:\/\/affiliate.rakuten.co.jp\/guideline\/<\/p>\n<h4>\u30d0\u30ea\u30e5\u30fc\u30b3\u30de\u30fc\u30b9\u30a2\u30d5\u30a3\u30ea\u30a8\u30a4\u30c8<\/h4>\n<p>WebSite: https:\/\/www.valuecommerce.ne.jp\/<br \/>\nTerms: https:\/\/www.valuecommerce.ne.jp\/st_affiliate\/terms.html<\/p>\n<h4>\u3082\u3057\u3082\u30a2\u30d5\u30a3\u30ea\u30a8\u30a4\u30c8<\/h4>\n<p>WebSite: https:\/\/af.moshimo.com\/<br \/>\nTerms: https:\/\/af.moshimo.com\/af\/www\/terms\/shop<\/p>\n<h4>Pricey API<\/h4>\n<p>WebSite: https:\/\/pricey.jp\/<br \/>\nAPI: https:\/\/xoon0odxf3.execute-api.ap-northeast-1.amazonaws.com\/v1<br \/>\nTerms: https:\/\/www.pricey.jp\/utility-pages\/ios-userpolicy | https:\/\/www.pricey.jp\/utility-pages\/android-userpolicy<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/pricey.zip",
+    "upgrade_notice": {
+        "1.0.3": "<ul>\n<li>Pricey\u306eWordPress\u30d7\u30e9\u30b0\u30a4\u30f3\u304c\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u307e\u3057\u305f<\/li>\n<\/ul>"
+    },
+    "screenshots": [],
+    "tags": {
+        "affiliate": "affiliate",
+        "block": "block"
+    },
+    "stable_tag": "trunk",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/pricey.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/pricey.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/pricey.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/pricey.1.0.3.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/pricey.jp\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/pricey\/assets\/banner-772x250.jpg?rev=3027976",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/pricey\/assets\/icon-128x128.png?rev=3027729",
+        "2x": "https:\/\/ps.w.org\/pricey\/assets\/icon-256x256.png?rev=3027729"
+    },
+    "blocks": {
+        "create-block\/pricey": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "create-block\/pricey",
+            "version": "0.1.0",
+            "title": "pricey",
+            "category": "design",
+            "keywords": [
+                "linkbox"
+            ],
+            "icon": "smiley",
+            "description": "pricey",
+            "attributes": {
+                "wpProductVariantGroupId": {
+                    "type": "integer",
+                    "default": 0
+                }
+            },
+            "textdomain": "pricey",
+            "editorScript": "file:.\/js\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/block.css"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

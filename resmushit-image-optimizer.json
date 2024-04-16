@@ -1,0 +1,254 @@
+{
+    "name": "reSmush.it : The original free image compressor and optimizer plugin",
+    "slug": "resmushit-image-optimizer",
+    "version": "1.0.2",
+    "author": "<a href=\"https:\/\/resmush.it\">reSmush.it<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/shortpixel\/",
+    "contributors": {
+        "shortpixel": {
+            "profile": "https:\/\/profiles.wordpress.org\/shortpixel\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/9df4035bf4bd3ea16204c41f026ac94e?s=96&d=monsterid&r=g",
+            "display_name": "ShortPixel"
+        },
+        "resmushit": {
+            "profile": "https:\/\/profiles.wordpress.org\/resmushit\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/5055245061688c9bcd0f63b93edae247?s=96&d=monsterid&r=g",
+            "display_name": "reSmush.it"
+        }
+    },
+    "requires": "4.0.0",
+    "tested": "6.5.2",
+    "requires_php": "5.6",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 86,
+    "ratings": {
+        "5": 103,
+        "4": 3,
+        "3": 7,
+        "2": 2,
+        "1": 19
+    },
+    "num_ratings": 134,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/resmushit-image-optimizer\/",
+    "support_threads": 2,
+    "support_threads_resolved": 2,
+    "active_installs": 100000,
+    "downloaded": 2995131,
+    "last_updated": "2024-03-29 9:26am GMT",
+    "added": "2016-07-01",
+    "homepage": "https:\/\/wordpress.org\/plugins\/resmushit-image-optimizer\/",
+    "sections": {
+        "description": "<p>The reSmush.it Image Optimizer is a <strong>free WordPress image compressor and optimizer<\/strong> plugin which allows you to smush your website&#8217;s images so that they load faster.<br \/>\nThe plugin is <strong>super easy to use<\/strong> (just 2 clicks!), supports JPG, PNG and GIF image formats and can be used to bulk optimize current (past) images and automatically optimize all new images.<br \/>\nYou can also adjust the optimization levels and exclude certain images.<br \/>\nSince its launch more than 9 years ago, <a href=\"https:\/\/resmush.it\" rel=\"nofollow ugc\">reSmush.it<\/a> has become the preferred choice for WordPress image optimization as it allows you to smush the images for free.<br \/>\nreSmush.it image optimization service works on <a href=\"https:\/\/resmush.it\/tools\/\" rel=\"nofollow ugc\">various CMS platforms<\/a> (WordPress, Drupal, Joomla, Magento, Prestashop, etc.) and is used by <strong>more than 400,000 websites<\/strong> worldwide.<br \/>\nreSmush.it has earned the reputation of being the best free, fast and easy image optimization plugin out there \ud83d\ude42<\/p>\n<p><strong>Features:<\/strong><br \/>\n&#8211; Free bulk image compressor<br \/>\n&#8211; Automatic image optimization on upload<br \/>\n&#8211; Keep or remove EXIF data<br \/>\n&#8211; Image quality selector<br \/>\n&#8211; Exclude images from optimization<br \/>\n&#8211; Powerful and free image optimizer API<br \/>\n&#8211; Customizable settings for image quality<br \/>\n&#8211; Automatic image optimization with CRON<br \/>\n&#8211; Backup and restore original images<br \/>\n&#8211; Image statistics<br \/>\n&#8211; File logging for developers<\/p>\n",
+        "installation": "<ol>\n<li>Upload <code>resmushit-image-optimizer<\/code> to the <code>\/wp-content\/plugins\/<\/code> directory.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress.<\/li>\n<li>All your new pictures will be automatically optimized !<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='how%20does%20resmush.it%20image%20optimizer%20compare%20to%20other%20image%20optimization%20plugins%20%28e.g.%20smush%2C%20imagify%2C%20tinypng%2C%20kraken%2C%20ewww%2C%20optimole%29%3F'>\nHow does reSmush.it Image Optimizer compare to other image optimization plugins (e.g. Smush, Imagify, TinyPNG, Kraken, EWWW, Optimole)?\n<\/h4>\n<p>\n<p>reSmush.it Image Optimizer offers advanced image optimization and provides many of the premium features you&#8217;ll find in competing services for free.<br \/>\nPlus, we&#8217;ve earned a reputation for being the best free, fast and easy image optimization plugin out there:-)<\/p>\n<\/p>\n<dt id='how%20great%20is%20resmush.it%3F'>\nHow great is reSmush.it?\n<\/h4>\n<p>\n<p>Since we have optimized more than 25,000,000,000 images, we have acquired new skills. Our service is still in development to bring you new useful features.<\/p>\n<\/p>\n<dt id='what%20about%20webp%20and%20next-generation%20image%20formats%3F'>\nWhat about WebP and next-generation image formats?\n<\/h4>\n<p>\n<p>We are working on a new offer to give you the best of these new features. Please be patient, it will be coming soon \ud83d\ude42<\/p>\n<\/p>\n<dt id='is%20there%20a%20function%20%22optimize%20on%20upload%22%3F'>\nIs there a function &#8220;Optimize on upload&#8221;?\n<\/h4>\n<p>\n<p>Absolutely, this function is activated for all newly added images and can be deactivated if desired.<\/p>\n<\/p>\n<dt id='is%20there%20a%20cron%20function%3F'>\nIs there a CRON function?\n<\/h4>\n<p>\n<p>Yes, you can optimize your images with cronjobs for large (and also for small) media libraries.<\/p>\n<\/p>\n<dt id='can%20i%20choose%20an%20optimization%20level%3F'>\nCan I choose an optimization level?\n<\/h4>\n<p>\n<p>Yes, by default the optimization level is set to 82. However, you can further optimize your images by reducing the optimization level.<\/p>\n<\/p>\n<dt id='can%20i%20return%20to%20my%20original%20images%3F'>\nCan I return to my original images?\n<\/h4>\n<p>\n<p>Yes, by excluding\/reverting an image, you will have your original image available again.<\/p>\n<\/p>\n<dt id='is%20it%20possible%20to%20exclude%20some%20images%20from%20the%20optimizer%3F'>\nIs it possible to exclude some images from the optimizer?\n<\/h4>\n<p>\n<p>Yes, since version 0.1.2, you can easily exclude an image from the optimizer.<\/p>\n<\/p>\n<dt id='am%20i%20at%20risk%20of%20losing%20my%20existing%20images%3F'>\nAm I at risk of losing my existing images?\n<\/h4>\n<p>\n<p>No! reSmush.it Image Optimizer creates a copy of the original images and performs optimizations only on the copies.<\/p>\n<\/p>\n<dt id='is%20it%20free%3F'>\nIs it free?\n<\/h4>\n<p>\n<p>Yes ! Absolutely free, the only restriction is that the images must not be larger than 5 MB.<\/p>\n<\/p>\n<dt id='where%20do%20i%20report%20security%20bugs%20found%20in%20this%20plugin%3F'>\nWhere do I report security bugs found in this plugin?\n<\/h4>\n<p>\n<p>Please report security bugs found in the source code of the reSmush.it Image Optimizer plugin through the <a href=\"https:\/\/patchstack.com\/database\/vdp\/resmushit-image-optimizer\" rel=\"nofollow ugc\">Patchstack Vulnerability Disclosure Program<\/a>. The Patchstack team will assist you with verification, CVE assignment, and notify the developers of this plugin.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.2<\/h4>\n<p>Release date March 29, 2024<br \/>\n* Fix: The new image size after compressing\/restoring the image is now saved correctly in WordPress;<br \/>\n* Tweak: Updated the settings page and added more support links and a &#8220;Rate Us&#8221; button;<\/p>\n<h4>1.0.1<\/h4>\n<p>Release date March 12, 2024<br \/>\n* Fix: A PHP Notice was displayed in the logs for certain settings;<br \/>\n* Tweak: Updated the settings page and added a &#8220;Support Us&#8221; button.<\/p>\n<h4>1.0.0<\/h4>\n<p>Release date February 22, 2024<br \/>\n* New: The plugin settings have been moved to the &#8220;Settings&#8221; menu and the layout has been updated;<br \/>\n* New: Added a Restore button next to each item in the Media Library;<br \/>\n* New: An improved logging mechanism has been added;<br \/>\n* New: The columns of the Media Library have been restructured and the layout and texts have been updated;<br \/>\n* New: A dedicated reSmush.it box has been added on the image edit screen, with all the plugin actions;<br \/>\n* Compat: The plugin is compatible and tested with PHP versions up to 8.3;<br \/>\n* Fix: The exclude function can now be used directly in the list view of the Media Library;<br \/>\n* Fix: The bulk restore function has been improved and should now work better;<br \/>\n* Fix: The wording of the plugin has been updated and the JS messages have been converted to translatable strings;<br \/>\n* Fix: The languages folder has been removed so that the plugin can be translated via the <a href=\"https:\/\/translate.wordpress.org\/projects\/wp-plugins\/resmushit-image\n-optimizer\/\">Translate WordPress project<\/a>;<br \/>\n* Fix: The JS part has been updated to fix the deprecated jQuery JSON parser;<br \/>\n* Fix: The jQuery events are now associated with the &#8220;click&#8221; action instead of &#8220;mouseup&#8221;;<br \/>\n* Fix: The plugin actions of files that cannot be processed (PDF, SVG, etc.) have been removed;<\/p>\n<h4>0.4.14<\/h4>\n<ul>\n<li>Fix Optimize button in listing<\/li>\n<\/ul>\n<h4>0.4.13<\/h4>\n<ul>\n<li>Patreon new message<\/li>\n<\/ul>\n<h4>0.4.12<\/h4>\n<ul>\n<li>Patreon display message \ud83d\ude41<\/li>\n<\/ul>\n<h4>0.4.11<\/h4>\n<ul>\n<li>Missing image<\/li>\n<\/ul>\n<h4>0.4.10<\/h4>\n<ul>\n<li>Partnership with Shortpixel<\/li>\n<li>fix crash bug when uploading non Image document in library (while log enabled)<\/li>\n<\/ul>\n<h4>0.4.9<\/h4>\n<ul>\n<li>Compatibility with WP 6.1.0<\/li>\n<li>Compatible with PHP 8.1.X<\/li>\n<li>Fixed issue on Undefined array key &#8220;file&#8221; in &#8230;\/resmushit.php on line 114<\/li>\n<\/ul>\n<h4>0.4.8<\/h4>\n<ul>\n<li>Incorrect library imported (fix <code>PHP Fatal error: Uncaught Error: Undefined constant \u201cSECURE_AUTH_COOKIE\u201d in \/wp-includes\/pluggable.php:923<\/code>)<\/li>\n<\/ul>\n<h4>0.4.7<\/h4>\n<ul>\n<li>Security fixes : CSRF protection for Ajax Calls<\/li>\n<\/ul>\n<h4>0.4.6<\/h4>\n<ul>\n<li>Security fixes : protection in a WP&#8217;s way<\/li>\n<\/ul>\n<h4>0.4.5<\/h4>\n<ul>\n<li>Security fixes : prevent XSS breachs<\/li>\n<\/ul>\n<h4>0.4.4<\/h4>\n<ul>\n<li>Avoid SSL verifications if certificate of remote endpoints fails.<\/li>\n<li>Security fixes : escape POST, and admin user check for AJAX requests<\/li>\n<\/ul>\n<h4>0.4.3<\/h4>\n<ul>\n<li>Compatibility with WP 6.0.1<\/li>\n<li>Security fix issues (https:\/\/www.pluginvulnerabilities.com\/2022\/02\/01\/wordpress-plugin-security-review-resmush-it-image-optimizer\/)\n<ul>\n<li>force int to ID in some SQL requests<\/li>\n<li>check that user is connected as admin\/contributor for AJAX actions<\/li>\n<li>Message to indicate that there&#8217;s no collection of data in contacting remote feed service<\/li>\n<\/ul>\n<\/li>\n<\/ul>\n<h4>0.4.2<\/h4>\n<ul>\n<li>Compatibility with PHP8+WP 5.8.2<\/li>\n<\/ul>\n<h4>0.4.1<\/h4>\n<ul>\n<li>Official support of WP-CLI<\/li>\n<li>Fix cron context optimization<\/li>\n<\/ul>\n<h4>0.4.0<\/h4>\n<ul>\n<li>New option to restore all original pictures<\/li>\n<\/ul>\n<h4>0.3.12<\/h4>\n<ul>\n<li>Fix : Default value assignment<\/li>\n<li>Test on WP 5.7.1<\/li>\n<\/ul>\n<h4>0.3.11<\/h4>\n<ul>\n<li>Fix : Optimize button not working when creating a new post<\/li>\n<li>Fix : Default value of variables incorrectly initialized<\/li>\n<li>Test on WP 5.5.1<\/li>\n<\/ul>\n<h4>0.3.10<\/h4>\n<ul>\n<li>hotfix : deprecated function used<\/li>\n<\/ul>\n<h4>0.3.9<\/h4>\n<ul>\n<li>Fix : OWASP &amp; Security fix<\/li>\n<\/ul>\n<h4>0.3.8<\/h4>\n<ul>\n<li>Fix : Fix warning in variable not set (metadata)<\/li>\n<li>Fix : Add an extension uppercase check<\/li>\n<\/ul>\n<h4>0.3.7<\/h4>\n<ul>\n<li>Fix : CSS+JS load on every admin page, now restricted to reSmush.it pages &amp; medias<\/li>\n<li>Fix : Links verification format for admin menu<\/li>\n<\/ul>\n<h4>0.3.6<\/h4>\n<ul>\n<li>Fix : cron multiple run issue.<\/li>\n<\/ul>\n<h4>0.3.5<\/h4>\n<ul>\n<li>New header image, new WP description for plugin page.<\/li>\n<\/ul>\n<h4>0.3.4<\/h4>\n<ul>\n<li>Issue in version number<\/li>\n<\/ul>\n<h4>0.3.3<\/h4>\n<ul>\n<li>Fix double cron launch. Timeout added<\/li>\n<li>Fix &#8220;Reduce by 0 (0 saved)&#8221; message if statistics are disabled<\/li>\n<li>Return error if attachment file not found on disk<\/li>\n<\/ul>\n<h4>0.3.2<\/h4>\n<ul>\n<li>Fix variable check (generate notice)<\/li>\n<\/ul>\n<h4>0.3.1<\/h4>\n<ul>\n<li>Fix log write (permission issue)<\/li>\n<li>Fix &#8220;Reduce by 0 (0 saved)&#8221; error. Optimize single attachment while &#8220;Optimize on upload&#8221; is disabled<\/li>\n<\/ul>\n<h4>0.3.0<\/h4>\n<ul>\n<li>Add Backup deletion option<\/li>\n<li>Add script to delete old backups<\/li>\n<li>Changed JS inclusion<\/li>\n<\/ul>\n<h4>0.2.5<\/h4>\n<ul>\n<li>Add Preserve Exif Feature<\/li>\n<\/ul>\n<h4>0.2.4<\/h4>\n<ul>\n<li>Fix issue on SQL request for table prefix different from &#8216;wp_&#8217;<\/li>\n<\/ul>\n<h4>0.2.3<\/h4>\n<ul>\n<li>Version number issue<\/li>\n<\/ul>\n<h4>0.2.2<\/h4>\n<ul>\n<li>Fix settings automatically reinitialized.<\/li>\n<\/ul>\n<h4>0.2.1<\/h4>\n<ul>\n<li>Complete French translation<\/li>\n<li>Plugin translation fix<\/li>\n<\/ul>\n<h4>0.2.0<\/h4>\n<ul>\n<li>Add CRON feature<\/li>\n<li>Code refactoring<\/li>\n<li>Fix issue for big Media library, with a limitation while fetching attachments<\/li>\n<li>Fix log path issues<\/li>\n<\/ul>\n<h4>0.1.23<\/h4>\n<ul>\n<li>Add Settings link to Plugin page<\/li>\n<li>Limit reSmush.it options to image attachments only<\/li>\n<li>Fix <code>RESMUSHIT_QLTY is not defined<\/code><\/li>\n<\/ul>\n<h4>0.1.22<\/h4>\n<ul>\n<li>Fix on attachment metadata incorrectly returned (will fix issues with other media libraries)<\/li>\n<\/ul>\n<h4>0.1.21<\/h4>\n<ul>\n<li>WordPress 5.0 compatibility<\/li>\n<\/ul>\n<h4>0.1.20<\/h4>\n<ul>\n<li>Fix PHP errors with PHP 7.2<\/li>\n<li>Code refacto<\/li>\n<\/ul>\n<h4>0.1.19<\/h4>\n<ul>\n<li>Fix JS on &#8220;Optimize&#8221; button for a single picture<\/li>\n<li>Provide a new &#8220;Force Optimization&#8221; for a single picture<\/li>\n<\/ul>\n<h4>0.1.18<\/h4>\n<ul>\n<li>Avoid <code>filesize () : stat failed<\/code> errors if a picture file is missing<\/li>\n<li>Log check file permissions<\/li>\n<li>Check extensions on upload (avoid using reSmush.it API if it&#8217;s not a picture)<\/li>\n<li>Increase API Timeout for big pictures (10 secs)<\/li>\n<\/ul>\n<h4>0.1.17<\/h4>\n<ul>\n<li>Fix bug (non-working optimization) on bulk upload when &#8220;Optimize on upload&#8221; isn&#8217;t selected<\/li>\n<li>New header banner for 4 billionth images optimized<\/li>\n<\/ul>\n<h4>0.1.16<\/h4>\n<ul>\n<li>Add correction for allow_url_fopen support<\/li>\n<li>News feed loaded from a SSL URL<\/li>\n<\/ul>\n<h4>0.1.15<\/h4>\n<ul>\n<li>Log rotate if file too big<\/li>\n<\/ul>\n<h4>0.1.14<\/h4>\n<ul>\n<li>Tested up to WordPress 4.9.5<\/li>\n<li>New contributor (resmushit)<\/li>\n<li>Translation completion<\/li>\n<\/ul>\n<h4>0.1.13<\/h4>\n<ul>\n<li>Tested up to WordPress 4.9.1<\/li>\n<li>New header banner for 3 billionth images optimized \ud83d\ude42<\/li>\n<\/ul>\n<h4>0.1.12<\/h4>\n<ul>\n<li>Tested up to WordPress 4.8.1<\/li>\n<\/ul>\n<h4>0.1.11<\/h4>\n<ul>\n<li>New header banner for 2 billionth images optimized \ud83d\ude42<\/li>\n<\/ul>\n<h4>0.1.10<\/h4>\n<ul>\n<li>Slovak translation fix<\/li>\n<\/ul>\n<h4>0.1.9<\/h4>\n<ul>\n<li>Slovak translation fix<\/li>\n<\/ul>\n<h4>0.1.8<\/h4>\n<ul>\n<li>Italian translation added (thanks to Cristian R.)<\/li>\n<li>Description minor correction<\/li>\n<\/ul>\n<h4>0.1.7<\/h4>\n<ul>\n<li>Slovak translation added (thanks to Martin S.)<\/li>\n<\/ul>\n<h4>0.1.6<\/h4>\n<ul>\n<li>Bug fix when images uploaded &gt; 5MB<\/li>\n<li>List of files above 5MB<\/li>\n<li>Translation minor corrections<\/li>\n<\/ul>\n<h4>0.1.5<\/h4>\n<ul>\n<li>Error management if webservice not reachable<\/li>\n<li>Filesize limitation increased from 2MB to 5MB<\/li>\n<\/ul>\n<h4>0.1.4<\/h4>\n<ul>\n<li>CSS Fixes<\/li>\n<\/ul>\n<h4>0.1.3<\/h4>\n<ul>\n<li>Translation correction<\/li>\n<li>News feed images correction<\/li>\n<\/ul>\n<h4>0.1.2<\/h4>\n<ul>\n<li>Delete also original file when deleting an attachment<\/li>\n<li>Exclusion of an attachment of the reSmush.it optimization (checkboxes)<\/li>\n<li>Adding french translation<\/li>\n<li>Code optimizations<\/li>\n<li>4.6.x check<\/li>\n<li>Minor bugs corrections<\/li>\n<\/ul>\n<h4>0.1.1<\/h4>\n<ul>\n<li>Optimize on upload<\/li>\n<li>Statistics<\/li>\n<li>Log services<\/li>\n<li>Interface rebuild<\/li>\n<li>News feed from feed.resmush.it<\/li>\n<\/ul>\n<h4>0.1.0<\/h4>\n<ul>\n<li>plugin base<\/li>\n<li>bulk optimizer<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/resmushit-image-optimizer\/assets\/Screenshot-1.png?rev=3049668\"><img src=\"https:\/\/ps.w.org\/resmushit-image-optimizer\/assets\/Screenshot-1.png?rev=3049668\" alt=\"The simple interface\"><\/a><p>The simple interface<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/resmushit-image-optimizer\/assets\/Screenshot-2.png?rev=3049668\"><img src=\"https:\/\/ps.w.org\/resmushit-image-optimizer\/assets\/Screenshot-2.png?rev=3049668\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/resmushit-image-optimizer\/assets\/Screenshot-3.png?rev=3049668\"><img src=\"https:\/\/ps.w.org\/resmushit-image-optimizer\/assets\/Screenshot-3.png?rev=3049668\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/shterev007\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/a6c9b8ad5fda05a1bc53704828d490b7?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/a6c9b8ad5fda05a1bc53704828d490b7?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/shterev007\/\" class=\"reviewer-name\">shterev007<\/a> on <span class=\"review-date\">April 2, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Works like a charm and its free??!! What is the catch here! :-) Thank you for the great work!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Firewall issues<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/hickeyjml\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/884ec3416d389da6dd3f5750d37f4c9a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/884ec3416d389da6dd3f5750d37f4c9a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/hickeyjml\/\" class=\"reviewer-name\">hickeyjml<\/a> on <span class=\"review-date\">March 14, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Sorry to bother you,there is a problem that bothers me. I want to use this plugin to compress images on my website, but my server's firewall blocked this operation. So I want to know the server IP address used by the compression process interface, then I can add to the whitelist. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Thank u so mush! <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Best wishes<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great little plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/simorgan4545\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/57de29b474003c0bf74b97189bbb2869?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/57de29b474003c0bf74b97189bbb2869?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/simorgan4545\/\" class=\"reviewer-name\">simorgan4545<\/a> on <span class=\"review-date\">March 13, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Easy to install, easy to use and worked great.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Works perfect for me<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/dedushka\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/622a1538f8cc014b1fca0d1eec6d4992?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/622a1538f8cc014b1fca0d1eec6d4992?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/dedushka\/\" class=\"reviewer-name\">t <small>(dedushka)<\/small><\/a> on <span class=\"review-date\">September 20, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Works perfect for me<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Thank you! Very Nice!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/codenear\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/1e23f6856a586ef0c99f2a8aee579df9?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/1e23f6856a586ef0c99f2a8aee579df9?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/codenear\/\" class=\"reviewer-name\">Serhii <small>(codenear)<\/small><\/a> on <span class=\"review-date\">July 27, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Very nice plugin for optimization!<br \/>I propose to make support for converting images to <strong>WebP <\/strong>format.<br \/>It would also be nice to increase the speed of image processing.<br \/>Thank you!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">I am very happy with this fantastic plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/debe13\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/1b3397cbd2a4f0eb895971fe5bea8bab?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/1b3397cbd2a4f0eb895971fe5bea8bab?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/debe13\/\" class=\"reviewer-name\">cd <small>(debe13)<\/small><\/a> on <span class=\"review-date\">December 19, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>This is a must have plugin i have installed on my websites. Thanks for such a great free tool! I will recommend this as one of the best image free optimizer. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Best image optimizer<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/testthat\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/68fa749c97c023068f621e773bc694c4?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/68fa749c97c023068f621e773bc694c4?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/testthat\/\" class=\"reviewer-name\">testthat<\/a> on <span class=\"review-date\">November 25, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">One of the best plugins i used so far<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Only problems<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/chrisplaneta\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/6149ef74773a75d0ceb503719314ea1e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/6149ef74773a75d0ceb503719314ea1e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/chrisplaneta\/\" class=\"reviewer-name\">chrisplaneta<\/a> on <span class=\"review-date\">August 29, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Unfortunately I had a lot of problems with resmush.it. Even running it on a fairly new and clean website with few other plugins. \n\n1. Resmush.it constantly had problems connecting to a server.\n\n2. When I tried uploading an image I sometimes had to wait for minutes before smushed it. I don't know whether it had anything to do with the server connection issue.\n\n3. When I tried to recreate all images it broke the site after which I had to install the site from a backup. The fact that there is an admin notice saying to backup the whole site before doing that only means that this is a common issue.\n\nAll in all I had very bad experience with the plugin and I don't recommend it to anyone.<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Free but...<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/teacdan\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/8dad892a711cbdcc30fbdf381e2eb0bd?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/8dad892a711cbdcc30fbdf381e2eb0bd?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/teacdan\/\" class=\"reviewer-name\">teacdan<\/a> on <span class=\"review-date\">July 23, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">It is free but I would recommend using a different one.\nImpossible to restore images\nNo support\nNo documentation on how to restore.\nWould look somewhere else<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Sadly seems to have been abandoned<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"3 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"3\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/graham-smith\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/7b776902ff7924158c449a2393660ea4?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/7b776902ff7924158c449a2393660ea4?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/graham-smith\/\" class=\"reviewer-name\">The Old Man <small>(Graham Smith)<\/small><\/a> on <span class=\"review-date\">May 11, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">This was once a great plugin, but sadly it seems to have been abandoned. Hopefully that will change, but for now, no updates for over half a year and the support forum is littered with unanswered topics.\n\n<\/div>\n<\/div>\n"
+    },
+    "short_description": "reSmush.it is the FREE image compressor and optimizer plugin - use it to optimize your images and improve the SEO and performance of your website.",
+    "description": "<p>The reSmush.it Image Optimizer is a <strong>free WordPress image compressor and optimizer<\/strong> plugin which allows you to smush your website&#8217;s images so that they load faster.<br \/>\nThe plugin is <strong>super easy to use<\/strong> (just 2 clicks!), supports JPG, PNG and GIF image formats and can be used to bulk optimize current (past) images and automatically optimize all new images.<br \/>\nYou can also adjust the optimization levels and exclude certain images.<br \/>\nSince its launch more than 9 years ago, <a href=\"https:\/\/resmush.it\" rel=\"nofollow ugc\">reSmush.it<\/a> has become the preferred choice for WordPress image optimization as it allows you to smush the images for free.<br \/>\nreSmush.it image optimization service works on <a href=\"https:\/\/resmush.it\/tools\/\" rel=\"nofollow ugc\">various CMS platforms<\/a> (WordPress, Drupal, Joomla, Magento, Prestashop, etc.) and is used by <strong>more than 400,000 websites<\/strong> worldwide.<br \/>\nreSmush.it has earned the reputation of being the best free, fast and easy image optimization plugin out there \ud83d\ude42<\/p>\n<p><strong>Features:<\/strong><br \/>\n&#8211; Free bulk image compressor<br \/>\n&#8211; Automatic image optimization on upload<br \/>\n&#8211; Keep or remove EXIF data<br \/>\n&#8211; Image quality selector<br \/>\n&#8211; Exclude images from optimization<br \/>\n&#8211; Powerful and free image optimizer API<br \/>\n&#8211; Customizable settings for image quality<br \/>\n&#8211; Automatic image optimization with CRON<br \/>\n&#8211; Backup and restore original images<br \/>\n&#8211; Image statistics<br \/>\n&#8211; File logging for developers<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.1.0.2.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/resmushit-image-optimizer\/assets\/Screenshot-1.png?rev=3049668",
+            "caption": "The simple interface"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/resmushit-image-optimizer\/assets\/Screenshot-2.png?rev=3049668",
+            "caption": ""
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/resmushit-image-optimizer\/assets\/Screenshot-3.png?rev=3049668",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "free-image-optimization": "free image optimization",
+        "image": "image",
+        "image-optimization": "image optimization",
+        "optimizer": "optimizer",
+        "smush": "smush"
+    },
+    "stable_tag": "1.0.2",
+    "versions": {
+        "0.1.1": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.1.zip",
+        "0.1.10": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.10.zip",
+        "0.1.11": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.11.zip",
+        "0.1.12": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.12.zip",
+        "0.1.13": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.13.zip",
+        "0.1.14": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.14.zip",
+        "0.1.15": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.15.zip",
+        "0.1.16": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.16.zip",
+        "0.1.17": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.17.zip",
+        "0.1.18": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.18.zip",
+        "0.1.19": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.19.zip",
+        "0.1.2": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.2.zip",
+        "0.1.20": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.20.zip",
+        "0.1.21": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.21.zip",
+        "0.1.22": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.22.zip",
+        "0.1.23": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.23.zip",
+        "0.1.3": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.3.zip",
+        "0.1.4": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.4.zip",
+        "0.1.5": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.5.zip",
+        "0.1.6": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.6.zip",
+        "0.1.7": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.7.zip",
+        "0.1.8": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.8.zip",
+        "0.1.9": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.1.9.zip",
+        "0.2.0": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.2.0.zip",
+        "0.2.1": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.2.1.zip",
+        "0.2.2": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.2.2.zip",
+        "0.2.3": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.2.3.zip",
+        "0.2.4": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.2.4.zip",
+        "0.2.5": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.2.5.zip",
+        "0.3.0": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.3.0.zip",
+        "0.3.1": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.3.1.zip",
+        "0.3.10": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.3.10.zip",
+        "0.3.11": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.3.11.zip",
+        "0.3.12": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.3.12.zip",
+        "0.3.2": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.3.2.zip",
+        "0.3.3": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.3.3.zip",
+        "0.3.4": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.3.4.zip",
+        "0.3.5": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.3.5.zip",
+        "0.3.6": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.3.6.zip",
+        "0.3.7": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.3.7.zip",
+        "0.3.8": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.3.8.zip",
+        "0.3.9": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.3.9.zip",
+        "0.4.0": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.4.0.zip",
+        "0.4.1": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.4.1.zip",
+        "0.4.10": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.4.10.zip",
+        "0.4.11": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.4.11.zip",
+        "0.4.12": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.4.12.zip",
+        "0.4.13": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.4.13.zip",
+        "0.4.14": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.4.14.zip",
+        "0.4.2": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.4.2.zip",
+        "0.4.3": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.4.3.zip",
+        "0.4.4": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.4.4.zip",
+        "0.4.5": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.4.5.zip",
+        "0.4.6": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.4.6.zip",
+        "0.4.7": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.4.7.zip",
+        "0.4.8": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.4.8.zip",
+        "0.4.9": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.0.4.9.zip",
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.1.0.2.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/resmushit-image-optimizer.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/ko-fi.com\/resmushit",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/resmushit-image-optimizer\/assets\/banner-772x250.png?rev=3032215",
+        "high": "https:\/\/ps.w.org\/resmushit-image-optimizer\/assets\/banner-1544x500.png?rev=3032213"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/resmushit-image-optimizer\/assets\/icon-128x128.png?rev=3049668",
+        "2x": "https:\/\/ps.w.org\/resmushit-image-optimizer\/assets\/icon-256x256.png?rev=3049668"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 86,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "resmushit-image-optimizer",
+            "language": "de_DE",
+            "version": "1.0.2",
+            "updated": "2022-02-26 12:54:29",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/resmushit-image-optimizer\/1.0.2\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "resmushit-image-optimizer",
+            "language": "de_DE_formal",
+            "version": "1.0.2",
+            "updated": "2021-05-18 12:52:29",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/resmushit-image-optimizer\/1.0.2\/de_DE_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "resmushit-image-optimizer",
+            "language": "es_CO",
+            "version": "1.0.2",
+            "updated": "2023-08-26 11:16:00",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/resmushit-image-optimizer\/1.0.2\/es_CO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "resmushit-image-optimizer",
+            "language": "es_EC",
+            "version": "1.0.2",
+            "updated": "2021-10-03 08:40:42",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/resmushit-image-optimizer\/1.0.2\/es_EC.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "resmushit-image-optimizer",
+            "language": "es_ES",
+            "version": "1.0.2",
+            "updated": "2024-03-21 12:13:24",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/resmushit-image-optimizer\/1.0.2\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "resmushit-image-optimizer",
+            "language": "es_VE",
+            "version": "1.0.2",
+            "updated": "2023-08-26 11:15:49",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/resmushit-image-optimizer\/1.0.2\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "resmushit-image-optimizer",
+            "language": "fr_FR",
+            "version": "1.0.2",
+            "updated": "2023-04-30 10:44:21",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/resmushit-image-optimizer\/1.0.2\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "resmushit-image-optimizer",
+            "language": "nl_NL_formal",
+            "version": "1.0.2",
+            "updated": "2024-03-30 14:23:19",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/resmushit-image-optimizer\/1.0.2\/nl_NL_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "resmushit-image-optimizer",
+            "language": "nl_NL",
+            "version": "1.0.2",
+            "updated": "2024-03-29 18:39:36",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/resmushit-image-optimizer\/1.0.2\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "resmushit-image-optimizer",
+            "language": "pt_BR",
+            "version": "1.0.2",
+            "updated": "2020-04-09 00:06:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/resmushit-image-optimizer\/1.0.2\/pt_BR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "resmushit-image-optimizer",
+            "language": "ru_RU",
+            "version": "1.0.2",
+            "updated": "2022-11-21 13:59:49",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/resmushit-image-optimizer\/1.0.2\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "resmushit-image-optimizer",
+            "language": "zh_TW",
+            "version": "1.0.2",
+            "updated": "2023-06-29 23:31:59",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/resmushit-image-optimizer\/1.0.2\/zh_TW.zip"
+        }
+    ]
+}

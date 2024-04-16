@@ -1,0 +1,126 @@
+{
+    "name": "Foxtool All-in-One: Contact chat button, Custom login, Media optimize images",
+    "slug": "foxtool",
+    "version": "1.8.4",
+    "author": "Fox Theme",
+    "author_profile": "https:\/\/profiles.wordpress.org\/foxtheme\/",
+    "contributors": {
+        "foxtheme": {
+            "profile": "https:\/\/profiles.wordpress.org\/foxtheme\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3a4afa9974bbd9abe4c042b0eb40aeeb?s=96&d=monsterid&r=g",
+            "display_name": "Fox Theme"
+        }
+    },
+    "requires": false,
+    "tested": "6.5.2",
+    "requires_php": "5.8",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 86,
+    "ratings": {
+        "5": 5,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 1
+    },
+    "num_ratings": 6,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/foxtool\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 2000,
+    "downloaded": 3105,
+    "last_updated": "2024-04-15 5:54pm GMT",
+    "added": "2024-03-04",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Foxtool is a product developed based on the real needs of managing WordPress websites. After a period of development, Foxtool has become an indispensable plugin for website administrators.<\/p>\n<p>The plugin boasts notable features including:<\/p>\n<ul>\n<li>Website optimization<\/li>\n<li>Advanced security<\/li>\n<li>Management tools<\/li>\n<li>Customizable display<\/li>\n<li>Powerful media management<\/li>\n<li>Handy tools for Posts and Pages<\/li>\n<li>Mail application<\/li>\n<li>Woocommerce convenience<\/li>\n<li>User permissions<\/li>\n<li>Customizable WordPress login<\/li>\n<li>Integration with Google services<\/li>\n<li>Chat functionality<\/li>\n<li>Information management<\/li>\n<\/ul>\n<p>Additionally, there are many other useful features that help save time for users. All are optimized to ensure stable and fast performance for your WordPress website<\/p>\n<h3>From within WordPress<\/h3>\n<ol>\n<li>Visit &#8216;Plugins &gt; Add New&#8217;<\/li>\n<li>Search for &#8216;Foxtool&#8217;<\/li>\n<li>Activate &#8216;Foxtool&#8217; from your Plugins page.<\/li>\n<\/ol>\n<h3>Manually<\/h3>\n<ol>\n<li>Upload the &#8216;foxtool&#8217; folder to the &#8216;\/wp-content\/plugins\/&#8217; directory<\/li>\n<li>Activate the &#8216;Foxtool&#8217; plugin through the &#8216;Plugins&#8217; menu in WordPress<\/li>\n<li>Go to &#8220;after activation&#8221; below.<\/li>\n<\/ol>\n",
+        "faq": "<p>You&#8217;ll find answers to many of your questions on (https:\/\/foxtheme.com).<\/p>\n",
+        "changelog": "<h4>1.0.0<\/h4>\n<ul>\n<li>First release<\/li>\n<\/ul>\n<h4>1.3.7<\/h4>\n<ul>\n<li>Fix function addition bug<\/li>\n<\/ul>\n<h4>1.3.8<\/h4>\n<ul>\n<li>Fix function addition bug, Update updates features<\/li>\n<\/ul>\n<h4>1.4.0<\/h4>\n<ul>\n<li>Update<\/li>\n<\/ul>\n<h4>1.4.1<\/h4>\n<ul>\n<li>Update<\/li>\n<\/ul>\n<h4>1.4.2<\/h4>\n<ul>\n<li>Update<\/li>\n<\/ul>\n<h4>1.4.3<\/h4>\n<ul>\n<li>Update funtions debug<\/li>\n<\/ul>\n<h4>1.4.5<\/h4>\n<ul>\n<li>Update fix error funtions debug<\/li>\n<\/ul>\n<h4>1.4.6<\/h4>\n<ul>\n<li>Update fix error funtions debug<\/li>\n<\/ul>\n<h4>1.4.7<\/h4>\n<ul>\n<li>Update fix error funtions debug<\/li>\n<\/ul>\n<h4>1.4.8<\/h4>\n<ul>\n<li>Update functions<\/li>\n<\/ul>\n<h4>1.4.9<\/h4>\n<ul>\n<li>Update functions<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/foxtool\/assets\/screenshot-1.png?rev=3044784\"><img src=\"https:\/\/ps.w.org\/foxtool\/assets\/screenshot-1.png?rev=3044784\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/foxtool\/assets\/screenshot-2.png?rev=3044784\"><img src=\"https:\/\/ps.w.org\/foxtool\/assets\/screenshot-2.png?rev=3044784\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/foxtool\/assets\/screenshot-3.png?rev=3044784\"><img src=\"https:\/\/ps.w.org\/foxtool\/assets\/screenshot-3.png?rev=3044784\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/foxtool\/assets\/screenshot-4.png?rev=3044784\"><img src=\"https:\/\/ps.w.org\/foxtool\/assets\/screenshot-4.png?rev=3044784\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/foxtool\/assets\/screenshot-5.png?rev=3044784\"><img src=\"https:\/\/ps.w.org\/foxtool\/assets\/screenshot-5.png?rev=3044784\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/foxtool\/assets\/screenshot-6.png?rev=3044784\"><img src=\"https:\/\/ps.w.org\/foxtool\/assets\/screenshot-6.png?rev=3044784\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/foxtool\/assets\/screenshot-7.png?rev=3044784\"><img src=\"https:\/\/ps.w.org\/foxtool\/assets\/screenshot-7.png?rev=3044784\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/foxtool\/assets\/screenshot-8.png?rev=3044784\"><img src=\"https:\/\/ps.w.org\/foxtool\/assets\/screenshot-8.png?rev=3044784\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/foxtool\/assets\/screenshot-9.png?rev=3044784\"><img src=\"https:\/\/ps.w.org\/foxtool\/assets\/screenshot-9.png?rev=3044784\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/foxtool\/assets\/screenshot-10.png?rev=3044784\"><img src=\"https:\/\/ps.w.org\/foxtool\/assets\/screenshot-10.png?rev=3044784\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Plugin ch\u1ea5t l\u01b0\u1ee3ng<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/joneyquest\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/35551fc717a97400ef03c49bd8b32c60?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/35551fc717a97400ef03c49bd8b32c60?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/joneyquest\/\" class=\"reviewer-name\">joneyquest<\/a> on <span class=\"review-date\">April 2, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">\u0111\u00e3 x\u00e0i v\u00e0 th\u1ea5y r\u1ea5t okk<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Very Good<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/kimskv\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/95080b3e90c322c63b30954aede9b6c4?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/95080b3e90c322c63b30954aede9b6c4?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/kimskv\/\" class=\"reviewer-name\">kimskv<\/a> on <span class=\"review-date\">April 2, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Great plugin, easy to install, customization is number 1<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">amazing good job<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/buiduchanh99tb\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/19a7e8667d87dac60b2817ab3d47458c?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/19a7e8667d87dac60b2817ab3d47458c?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/buiduchanh99tb\/\" class=\"reviewer-name\">B\u00f9i \u0110\u1ee9c H\u1ea1nh <small>(buiduchanh99tb)<\/small><\/a> on <span class=\"review-date\">March 28, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">C\u00f3 l\u1ebd \u0111\u00e2y l\u00e0 m\u1ed9t trong nh\u1eefng plugin t\u00f4i s\u1ebd lu\u00f4n lu\u00f4n c\u00e0i m\u1ed7i khi kh\u1edfi \u0111\u1ed9ng 1 d\u1ef1 \u00e1n website Wordpress<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Very Good<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/dnssolution\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/6b1ab62d289f722d5f39397c3dc3c393?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/6b1ab62d289f722d5f39397c3dc3c393?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/dnssolution\/\" class=\"reviewer-name\">dnssolution<\/a> on <span class=\"review-date\">March 22, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Good Products<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Verygood<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/damvanthin8x\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/2d1ac8b53d463ff06760bb0d3381c0ce?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/2d1ac8b53d463ff06760bb0d3381c0ce?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/damvanthin8x\/\" class=\"reviewer-name\">damvanthin8x<\/a> on <span class=\"review-date\">March 21, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">S\u1eed d\u1ee5ng r\u1ea5t ok<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Sending Review<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/foxngao\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/135b9c12cd37702f653b7a7a67c6b7b8?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/135b9c12cd37702f653b7a7a67c6b7b8?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/foxngao\/\" class=\"reviewer-name\">foxngao<\/a> on <span class=\"review-date\">March 5, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Spam review <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Summarize the essential functions for managing a WordPress website",
+    "description": "<p>Foxtool is a product developed based on the real needs of managing WordPress websites. After a period of development, Foxtool has become an indispensable plugin for website administrators.<\/p>\n<p>The plugin boasts notable features including:<\/p>\n<ul>\n<li>Website optimization<\/li>\n<li>Advanced security<\/li>\n<li>Management tools<\/li>\n<li>Customizable display<\/li>\n<li>Powerful media management<\/li>\n<li>Handy tools for Posts and Pages<\/li>\n<li>Mail application<\/li>\n<li>Woocommerce convenience<\/li>\n<li>User permissions<\/li>\n<li>Customizable WordPress login<\/li>\n<li>Integration with Google services<\/li>\n<li>Chat functionality<\/li>\n<li>Information management<\/li>\n<\/ul>\n<p>Additionally, there are many other useful features that help save time for users. All are optimized to ensure stable and fast performance for your WordPress website<\/p>\n<h3>From within WordPress<\/h3>\n<ol>\n<li>Visit &#8216;Plugins &gt; Add New&#8217;<\/li>\n<li>Search for &#8216;Foxtool&#8217;<\/li>\n<li>Activate &#8216;Foxtool&#8217; from your Plugins page.<\/li>\n<\/ol>\n<h3>Manually<\/h3>\n<ol>\n<li>Upload the &#8216;foxtool&#8217; folder to the &#8216;\/wp-content\/plugins\/&#8217; directory<\/li>\n<li>Activate the &#8216;Foxtool&#8217; plugin through the &#8216;Plugins&#8217; menu in WordPress<\/li>\n<li>Go to &#8220;after activation&#8221; below.<\/li>\n<\/ol>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/foxtool.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/foxtool\/assets\/screenshot-1.png?rev=3044784",
+            "caption": ""
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/foxtool\/assets\/screenshot-2.png?rev=3044784",
+            "caption": ""
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/foxtool\/assets\/screenshot-3.png?rev=3044784",
+            "caption": ""
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/foxtool\/assets\/screenshot-4.png?rev=3044784",
+            "caption": ""
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/foxtool\/assets\/screenshot-5.png?rev=3044784",
+            "caption": ""
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/foxtool\/assets\/screenshot-6.png?rev=3044784",
+            "caption": ""
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/foxtool\/assets\/screenshot-7.png?rev=3044784",
+            "caption": ""
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/foxtool\/assets\/screenshot-8.png?rev=3044784",
+            "caption": ""
+        },
+        "9": {
+            "src": "https:\/\/ps.w.org\/foxtool\/assets\/screenshot-9.png?rev=3044784",
+            "caption": ""
+        },
+        "10": {
+            "src": "https:\/\/ps.w.org\/foxtool\/assets\/screenshot-10.png?rev=3044784",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "all-in-one": "all in one",
+        "code": "code",
+        "functions": "functions",
+        "mail": "mail",
+        "tool": "tool"
+    },
+    "stable_tag": "trunk",
+    "versions": {
+        "1.3.8": "https:\/\/downloads.wordpress.org\/plugin\/foxtool.1.3.8.zip",
+        "1.4.0": "https:\/\/downloads.wordpress.org\/plugin\/foxtool.1.4.0.zip",
+        "1.4.1": "https:\/\/downloads.wordpress.org\/plugin\/foxtool.1.4.1.zip",
+        "1.4.7": "https:\/\/downloads.wordpress.org\/plugin\/foxtool.1.4.7.zip",
+        "1.4.8": "https:\/\/downloads.wordpress.org\/plugin\/foxtool.1.4.8.zip",
+        "1.4.9": "https:\/\/downloads.wordpress.org\/plugin\/foxtool.1.4.9.zip",
+        "1.5.0": "https:\/\/downloads.wordpress.org\/plugin\/foxtool.1.5.0.zip",
+        "1.5.4": "https:\/\/downloads.wordpress.org\/plugin\/foxtool.1.5.4.zip",
+        "1.6.1": "https:\/\/downloads.wordpress.org\/plugin\/foxtool.1.6.1.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/paypal.me\/ihoan",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/foxtool\/assets\/banner-772\u00d7250.png?rev=3045581",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/foxtool\/assets\/icon-128x128.gif?rev=3045898"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 86,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

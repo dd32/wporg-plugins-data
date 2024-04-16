@@ -1,0 +1,586 @@
+{
+    "name": "Events Manager &#8211; Calendar, Bookings, Tickets, and more!",
+    "slug": "events-manager",
+    "version": "6.4.7.3",
+    "author": "<a href=\"https:\/\/pixelite.com\">Pixelite<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/netweblogic\/",
+    "contributors": {
+        "msykes": {
+            "profile": "https:\/\/profiles.wordpress.org\/msykes\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/039278a38357e02d5226297fd6d03c70?s=96&d=monsterid&r=g",
+            "display_name": "Marcus"
+        },
+        "pxlite": {
+            "profile": "https:\/\/profiles.wordpress.org\/pxlite\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/ca5f79b917e07f8dd9cdc42551caf046?s=96&d=monsterid&r=g",
+            "display_name": "Pixelite"
+        },
+        "nutsmuggler": {
+            "profile": "https:\/\/profiles.wordpress.org\/nutsmuggler\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/998fc1a3a71bb39aaa836ef12cf0265a?s=96&d=monsterid&r=g",
+            "display_name": "nutsmuggler"
+        },
+        "netweblogic": {
+            "profile": "https:\/\/profiles.wordpress.org\/netweblogic\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/32b1b817990a4fe40d4d1561517d095a?s=96&d=monsterid&r=g",
+            "display_name": "Marcus (aka @msykes)"
+        }
+    },
+    "requires": "5.2",
+    "tested": "6.5.2",
+    "requires_php": "5.3",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 84,
+    "ratings": {
+        "5": 359,
+        "4": 35,
+        "3": 21,
+        "2": 26,
+        "1": 55
+    },
+    "num_ratings": 496,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/events-manager\/",
+    "support_threads": 156,
+    "support_threads_resolved": 24,
+    "active_installs": 90000,
+    "downloaded": 4690313,
+    "last_updated": "2024-04-09 10:08pm GMT",
+    "added": "2008-08-06",
+    "homepage": "https:\/\/wp-events-plugin.com",
+    "sections": {
+        "description": "<p>Events Manager is a full-featured event calendar, bookings and registration management plugin for WordPress based on the principles of flexibility, reliability and powerful features!<\/p>\n<p>** Limited-Time Offer &#8211; Up to 30% our current price plans! <a href=\"https:\/\/wp-events-plugin.com\/pricing\/?utm_source=repo&amp;utm_medium=readme&amp;utm_campaign=promo2024-02\" rel=\"nofollow ugc\">Get Pro Now<\/a> **<\/p>\n<ul>\n<li><a href=\"https:\/\/eventsmanager.site\" rel=\"nofollow ugc\">Demo<\/a><\/li>\n<li><a href=\"http:\/\/wp-events-plugin.com\/documentation\/\" rel=\"nofollow ugc\">Documentation<\/a><\/li>\n<li><a href=\"http:\/\/wp-events-plugin.com\/tutorials\/\" rel=\"nofollow ugc\">Tutorials<\/a><\/li>\n<\/ul>\n<h4>Main Features<\/h4>\n<ul>\n<li>Beautiful calendars, search pages, lists, grids and booking forms to enhance your site events.<\/li>\n<li>Easy event registration (single day with start\/end times)<\/li>\n<li>Recurring and long (multi-day) event registration<\/li>\n<li>Bookings Management (including approval\/rejections, export CVS, and more!)<\/li>\n<li>Multiple Tickets<\/li>\n<li>Fully-featured graph and statistics including bar\/line\/pie with comparison and stacking<\/li>\n<li>MultiSite Event Support\n<ul>\n<li>Cross-Network Event Sharing &#8211; show your events and booking fromss on other subsites or main site<\/li>\n<li>Network-wide Global Booking Management<\/li>\n<li>BuddyPress and BuddyBoss Support<\/li>\n<li>Create modular (independent) event subsites or inter-networked events<\/li>\n<\/ul>\n<\/li>\n<li>Multiple Location Types\n<ul>\n<li>Physical Locations<\/li>\n<li>Online Events (URLs)<\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/events-manager-zoom\/\" rel=\"ugc\">Zoom Webinars\/Meetings Integration<\/a><\/li>\n<\/ul>\n<\/li>\n<li>BuddyPress &amp; BuddyBoss Support\n<ul>\n<li>Submit Events<\/li>\n<li>Group Events<\/li>\n<li>Personal Events<\/li>\n<li>Activity Stream<\/li>\n<li>more on the way<\/li>\n<\/ul>\n<\/li>\n<li>Guest\/Member Event submissions<\/li>\n<li>Assign event locations and view events by location<\/li>\n<li>Event categories<\/li>\n<li>Easily create custom event attributes (e.g. dress code)<\/li>\n<li>Google Maps <a href=\"https:\/\/wp-events-plugin.com\/documentation\/google-maps\/api-usage\/?utm_source=repo&amp;utm_medium=readme&amp;utm_campaign=gmaps-api\" rel=\"nofollow ugc\">(see our API usage recommendations)<\/a><\/li>\n<li>Advanced permissions &#8211; restrict user management of events and locations.<\/li>\n<li>Widgets for Events, Locations and Calendars<\/li>\n<li>Fine grained control of how every aspect of your events are shown on your site, easily modify templates from the settings pages and template files<\/li>\n<li>iCal Feed (single and all events)<\/li>\n<li>Add to Google Calendar buttons<\/li>\n<li>RSS Feeds<\/li>\n<li>Compatible with SEO plugins<\/li>\n<li>Timezone Support &#8211; create events in different timezones <\/li>\n<li>Plenty of template tags and shortcodes for use in your posts and pages<\/li>\n<li>Actively maintained and supported<\/li>\n<li>Lots of documentation and tutorials<\/li>\n<li>And much more!<\/li>\n<\/ul>\n<h4>Data Privacy and GDPR Compliance<\/h4>\n<p>We provide the tools to <a href=\"http:\/\/wp-events-plugin.com\/documentation\/data-privacy-gdpr-compliance\/\" rel=\"nofollow ugc\">help you be GDPR compliant<\/a>, including:<\/p>\n<ul>\n<li>export\/erasure of data via the WordPress Privacy Tools, including booking, event and location data<\/li>\n<li>consent checkboxes on our booking, event and location forms on the frontend<\/li>\n<li>settings to control what can be exported\/erased as well as where\/when to place consent requests<\/li>\n<li>sample text for your site privacy policy describing what Events Manager does with personal data<\/li>\n<\/ul>\n<h4>Premium Features<\/h4>\n<p>We have a premium <a href=\"http:\/\/eventsmanagerpro.com\/gopro\/\" rel=\"nofollow ugc\">Pro add-on for Events Manager<\/a> which not only demonstrates the flexibility of Events Manager, but also adds some important features including but not limited to:<\/p>\n<ul>\n<li>WooCommerce integration (<a href=\"https:\/\/wp-events-plugin.com\/woocommerce\/\" rel=\"nofollow ugc\">sold separately<\/a>)<\/li>\n<li>PayPal, Stripe, Authorize.net and Offline Payments<\/li>\n<li>Custom booking forms<\/li>\n<li>Individual Attendee custom forms<\/li>\n<li>Printable Invoices and Tickets<\/li>\n<li>Send PDF tickets\/invoices by email automatically<\/li>\n<li>Check In\/Out<\/li>\n<li>QR Scanning\n<ul>\n<li>Manage bookings on your phone<\/li>\n<li>Check In\/Out users<\/li>\n<\/ul>\n<\/li>\n<li>Waitlists<\/li>\n<li>Automation (NEW!) &#8211; ultimate flexibility in automation!\n<ul>\n<li>Triggers:<\/li>\n<li>X time before\/after events start<\/li>\n<li>When a booking status changes<\/li>\n<li>When a booking was booked x time ago<\/li>\n<li>Actions<\/li>\n<li>Send Webhook (Zapier, MS Automation and many other services)<\/li>\n<li>Send Email<\/li>\n<\/ul>\n<\/li>\n<li>Coupon Codes<\/li>\n<li>Custom booking email per event and gateway<\/li>\n<li>Faster support via private Pro forums<\/li>\n<\/ul>\n<p>For more information or to go pro, <a href=\"http:\/\/wp-events-plugin.com\/features\/\" rel=\"nofollow ugc\">visit our plugin website<\/a>.<\/p>\n<h4>Additional Plugin Integrations<\/h4>\n<p>Whilst there&#8217;s many third party integrations with our own plugin, here&#8217;s some we&#8217;ve integrated ourselves!<\/p>\n<ul>\n<li>Included in Events Manager (automatic integration)\n<ul>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/buddypress\/\" rel=\"ugc\">BuddyPress<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/wp-fullcalendar\/\" rel=\"ugc\">WP FullCalendar<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/thrive-automator\/\" rel=\"ugc\">Thrive Automator<\/a><\/li>\n<\/ul>\n<\/li>\n<li>Additional Add-Ons\n<ul>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/events-manager-zoom\/\" rel=\"ugc\">Zoom<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/events-manager-wpml\/\" rel=\"ugc\">WPML Multilingual Sites<\/a><\/li>\n<\/ul>\n<\/li>\n<\/ul>\n",
+        "installation": "<p>Events Manager works like any standard WordPress plugin, and requires little configuration to start managing events. If you get stuck, visit the our documentation and support forums.<\/p>\n<p>Whenever installing or upgrading any plugin, or even WordPress itself, it is always recommended you back up your database first!<\/p>\n<h4>Installing<\/h4>\n<ol>\n<li>If installing, go to Plugins &gt; Add New in the admin area, and search for events manager.<\/li>\n<li>Click install, once installed, activate and you&#8217;re done!<\/li>\n<\/ol>\n<p>Once installed, you can start adding events straight away, although you may want to visit the plugin site documentation and learn how to unleash the full power of Events Manager.<\/p>\n<h4>Upgrading<\/h4>\n<ol>\n<li>When upgrading, visit the plugins page in your admin area, scroll down to events manager and click upgrade.<\/li>\n<li>WordPress will help you upgrade automatically.<\/li>\n<\/ol>\n<h4>Upgrading from version 4 to 5<\/h4>\n<p>Please <a href=\"http:\/\/wp-events-plugin.com\/updating-to-v5\/\" rel=\"nofollow ugc\">read these instructions<\/a>.<\/p>\n",
+        "faq": "<p>See our <a href=\"http:\/\/wp-events-plugin.com\/documentation\/faq\/\" rel=\"nofollow ugc\">FAQ<\/a> page for helps with Events Manager &#8211; Calendar, Bookings, Tickets, and more!<\/p>\n",
+        "changelog": "<h4>6.4.7.3<\/h4>\n<ul>\n<li>fixed pagination issues in non-event lists where PAGE is double url-encoded<\/li>\n<li>fixed array to string conversion PHP warning in calendars<\/li>\n<li>changed default event templates to be in a page format rather than post<\/li>\n<\/ul>\n<h4>6.4.7.2<\/h4>\n<ul>\n<li>fixed buddypress menu issue introduced in 6.4.7 by re-adding commented-out line<\/li>\n<li>fixed advanced search options not showing up in some inline setting combinations<\/li>\n<li>fixed &#8216;hidden&#8217; feature in 6.4.7 for saved searches via cookies defaulting to enabled (can now be re-enabled in wp_options -&gt; dbem_search_form_cookies)<\/li>\n<li>updated 6.4.7 changelog with some missing changes<\/li>\n<li>added selectize options to em_options_select() function<\/li>\n<li>alpha feature &#8211; added phone field options to settings page if EM_PHONE_INTL_ENABLED is enabled (validation and more options on the way)<\/li>\n<li>moved welcome notice option to EM_Admin_Notices<\/li>\n<li>removed timthumb admin notice (outdated)<\/li>\n<li>fixed minor security vulnerability allowing multisite blog admins to dismiss Events Manager network admin welcome notice (reported by PatchStack)<\/li>\n<li>fixed medium security vulnerability allowing unauthorized users to modify booking statuses (reported by WordFence Security)<\/li>\n<li>fixed medium security vulnerability allowing stored XSS to be submitted when adding an event (reported by WordFence Security Team)<\/li>\n<\/ul>\n<h4>6.4.7.1<\/h4>\n<ul>\n<li>Fixed JS error preventing customizing columns in bookings admin table<\/li>\n<\/ul>\n<h4>6.4.7<\/h4>\n<ul>\n<li>Fixed PHP warning on my-bookings page.<\/li>\n<li>Fixed ticket selection dropdown not showing max spaces if <code>EM_Bookings::$disable_restrictions<\/code> is enabled (such as for manual bookings).<\/li>\n<li>Fixed export and view setting overlays not working for booking admins table front-end after filtering once or more.<\/li>\n<li>Fixed issues with category\/tag selection in Firefox.<\/li>\n<li>Added responsive options to the search form, allowing search form fields to stack on smaller screen sizes and also choose which main search options are hidden.<\/li>\n<li>Fixed localized times via #_EVENTDATES_LOCAL not working in AJAX calls such as searches or pagination<\/li>\n<li>Fixed cache PHP error in taxonomy objects if accessing a blank taxonomy<\/li>\n<li>Fixed 2 vulnerabilities, reported by PatchStack and WordFence<\/li>\n<li>added alternative dropdown view\/flow for multiple selections on search form options<\/li>\n<li>updated selectize.js to 0.15.2<\/li>\n<li>fixed JS error preventing admin booking column selection in 6.4.7<\/li>\n<li>fixed issues when clearing search criteria on search form<\/li>\n<li>added support for counting search criteria using custom fields in search form<\/li>\n<li>added multiple actions for search form templates<\/li>\n<li>fixed advanced trigger not showing in modal mode if hidden inline mode settings are set to hide trigger<\/li>\n<li>added escaping for cookie-set EM notices for security hardening<\/li>\n<li>added url escaping (security precaution) for pagination links<\/li>\n<li>made improvements to ical permalinks to account for more complex permalink structures (such as date-based),<\/li>\n<li>added em_ical_output_content_summary and em_ical_output_content_location filters<\/li>\n<\/ul>\n<h4>6.4.6.4<\/h4>\n<ul>\n<li>Fixed issues with multiple bookings and anonymous bookings that could rewrite the user name of the account making the booking with the latest user information.<\/li>\n<li>Fixed setting <code>is_available<\/code> to <code>EM_Ticket<\/code> not having any effect due to protected visibility, which can cause unpredictable behavior.<\/li>\n<li>Fixed form <code>.em-ajax-form<\/code> not outputting the correct notice box on success.<\/li>\n<li>Added JS for <code>em-cancel<\/code> button to include custom data into AJAX via the <code>data-<\/code> attribute.<\/li>\n<li>Added <code>em_my_bookings_booking_action_links<\/code> filter allowing for array insertion of action links for my booking page bookings.<\/li>\n<\/ul>\n<h4>6.4.6.3<\/h4>\n<ul>\n<li>Fixed telephone field auto-enabling and ignoring EM_PHONE_INTL_ENABLED constant introduced in 6.4.6<\/li>\n<\/ul>\n<h4>6.4.6.2<\/h4>\n<ul>\n<li>Fixed booking summary showing for free events despite setting set to no.<\/li>\n<li>Fixed edge cases where bookings do not get deleted properly due to unloaded ticket data.<\/li>\n<li>Fixed various PHP warnings.<\/li>\n<\/ul>\n<h4>6.4.6.1<\/h4>\n<ul>\n<li>Fixed array meta key retrieval and saving issues introduced in version 6.4.6.<\/li>\n<li>Fixed first-time installation PHP errors and errant update notices.<\/li>\n<li>Added <code>em_booking_form_js_fields_change_match<\/code> filter allowing for programmatic listening of custom field changes to update the booking form summary section.<\/li>\n<li>Fixed front-end display issues of bookings containing two ticket types.<\/li>\n<li>Fixed search form button not enabling after changing search params when advanced search is disabled.<\/li>\n<\/ul>\n<h4>6.4.6<\/h4>\n<ul>\n<li>fixed fatal error caused by use of Pro function in settings page when Pro isn&#8217;t activated, bug introduced in EM 6.4.5<\/li>\n<li>fixed XSS vulnerability, disclosure to be followed<\/li>\n<li>fixed minor security vulnerability allowing anauthorized logged-in users to dismiss EM admin notices<\/li>\n<li>fixed OAuth errors (such as with PayPa) due to implementations not requring a scope credential<\/li>\n<li>fixed PHP Warnings in event editor frontend,<\/li>\n<li>fixed EM Notices appearing twice on booking forms in backend for manual bookings in Pro,<\/li>\n<li>fixed datetime offset issue when migrating old EM versions without timezones<\/li>\n<li>fixed file loading issues in some server edge case environments by providing absolute include paths in events-manager.php<\/li>\n<li>fixed multiple PHP Deprecated dynamic variables warning for PHP 8.2 by adding a $fields_shortcuts static map for short variable names, as well as storing unknown &#8216;dynamic&#8217; variables into a dynamic_variables protected property array via __set() and __get() in EM_Object<\/li>\n<li>changed preference for $shortnames map of field shortcuts for $fields_shortcuts although still supported in EM_Object but preferable to use one static storage for performance improvements<\/li>\n<li>fixed issues with storage of booking and attendee\/spaces meta data<\/li>\n<li>developers should be aware that storage of array meta data going forwards takes the format of _key|subkey for associative or _key| for sequential arrays, if you stored array keys with an underscore, or subkeys with underscores, please review EM_Object::process_meta() and EM_Booking::process_meta() and the function comments for a better understanding of what to do, as a future update may involve an SQL migration script to migrate old meta fields into the new format<\/li>\n<li>added sorting option on event search forms &#8211; enabled by default on first install, disabled for existing sites updating,<\/li>\n<li>added international phone number picker &#8211; BETA &#8211; requires activation via define(&#8216;EM_PHONE_INTL_ENABLED&#8217;, true); in wp-config<\/li>\n<li>fixed PHP 8.2 warnings in tickets<\/li>\n<li>fixed ordering issues in attendee booking editor displays<\/li>\n<li>added ical output filters em_ical_output_content_description and em_ical_event_output_content<\/li>\n<\/ul>\n<h4>6.4.5<\/h4>\n<ul>\n<li>added RSVP functionality (re-confirming a booking)<\/li>\n<li>add uncancel option so users can undo a cancellation if spaces still available<\/li>\n<li>switched my bookings page action links to a button dropdown rather than loose links<\/li>\n<li>fixed class static binding issues with EM_OAuth libraries causing problems in Zoom-enabled bookings<\/li>\n<li>fixed tippy dropdown button width issues<\/li>\n<\/ul>\n<h4>6.4.4<\/h4>\n<ul>\n<li>fixed session wakeup issues for the EM_Booking object due to recent atomic tickets update,<\/li>\n<li>fixed EM_Tickets_Bookings and EM_Ticket_Booking possibly returning erroneous booking property<\/li>\n<li>added JS booking form helper functions em_booking_form_unhide_success, em_booking_form_enable_button, em_booking_form_disable_button,<\/li>\n<li>added backwards compatibility for booking ajax responses including the &#8216;result&#8217; property rather than the new &#8216;success&#8217; property<\/li>\n<li>fixed calendar navigation issues showing default calendar size according to responsive sizing even when using forced calendar_size=&#8221;large&#8221;<\/li>\n<li>fixed advanced filters button in calendar not working when search forms disabled in settings page<\/li>\n<li>moved advanced search trigger button html\/php into separate template<\/li>\n<li>fixed view of calendar changing to default events list format if default search forms disabled in settings<\/li>\n<li>fixed error messages when updating Events Manager<\/li>\n<li>moved default view setting to events formatting section, outside of search form options<\/li>\n<li>fixed booking forms not always auto-hiding after submission is complete,<\/li>\n<li>fixed scrolling overflow issues for skeleton loaders on booking form<\/li>\n<\/ul>\n<p>For changelog of 6.4.3 and lower, see the <a href=\"https:\/\/plugins.svn.wordpress.org\/events-manager\/tags\/6.4.3\/readme.txt\" rel=\"nofollow ugc\">earlier reamde.txt<\/a>.<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-1.png?rev=2760880\"><img src=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-1.png?rev=2760880\" alt=\"Innovative responsive calendar with rings to show eventful dates, colored by category, clickable to expand more event information.\"><\/a><p>Innovative responsive calendar with rings to show eventful dates, colored by category, clickable to expand more event information.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-2.png?rev=2760880\"><img src=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-2.png?rev=2760880\" alt=\"Completely customizable event widgets\/blocks and shortcodes.\"><\/a><p>Completely customizable event widgets\/blocks and shortcodes.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-3.png?rev=2760880\"><img src=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-3.png?rev=2760880\" alt=\"Beautiful event pages which can be completely customized via our settings page.\"><\/a><p>Beautiful event pages which can be completely customized via our settings page.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-4.png?rev=2760880\"><img src=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-4.png?rev=2760880\" alt=\"Share your events to popular calendar clients.\"><\/a><p>Share your events to popular calendar clients.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-5.png?rev=2760880\"><img src=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-5.png?rev=2760880\" alt=\"Display information about your location in widgets, blocks and shortcodes too.\"><\/a><p>Display information about your location in widgets, blocks and shortcodes too.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-6.png?rev=2844304\"><img src=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-6.png?rev=2844304\" alt=\"Full-featured statistics and insights into your ticket sales via multiple graph types, including comparison and stacking.\"><\/a><p>Full-featured statistics and insights into your ticket sales via multiple graph types, including comparison and stacking.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-7.png?rev=2844304\"><img src=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-7.png?rev=2844304\" alt=\"Easily skip to the future with our new calendar navigation and search filters.\"><\/a><p>Easily skip to the future with our new calendar navigation and search filters.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-8.png?rev=2844304\"><img src=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-8.png?rev=2844304\" alt=\"Easy-to-use search filters, whether on the phone or desktop.\"><\/a><p>Easy-to-use search filters, whether on the phone or desktop.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-9.png?rev=2844304\"><img src=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-9.png?rev=2844304\" alt=\"Search for events and locations within a search radius using Google geo searches.\"><\/a><p>Search for events and locations within a search radius using Google geo searches.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-10.png?rev=2844304\"><img src=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-10.png?rev=2844304\" alt=\"Intuitive search UI for your visitors.\"><\/a><p>Intuitive search UI for your visitors.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-11.png?rev=2844304\"><img src=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-11.png?rev=2844304\" alt=\"QUickly switch between search views.\"><\/a><p>QUickly switch between search views.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-12.png?rev=2844304\"><img src=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-12.png?rev=2844304\" alt=\"View your events on a Google Map, filter with searches.\"><\/a><p>View your events on a Google Map, filter with searches.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-13.png?rev=2844304\"><img src=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-13.png?rev=2844304\" alt=\"Multiple calendar styles, fully responsive according to the width of the calendar.\"><\/a><p>Multiple calendar styles, fully responsive according to the width of the calendar.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-14.png?rev=2844304\"><img src=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-14.png?rev=2844304\" alt=\"Responsivve way for mini-calendar to intuitively show dates with many events within a quick glance.\"><\/a><p>Responsivve way for mini-calendar to intuitively show dates with many events within a quick glance.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-15.png?rev=2844304\"><img src=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-15.png?rev=2844304\" alt=\"Responsive lists that adapt to the size of its containing content.\"><\/a><p>Responsive lists that adapt to the size of its containing content.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-16.png?rev=2844304\"><img src=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-16.png?rev=2844304\" alt=\"Clean forms for submitting and managing events, as well as booking events for users.\"><\/a><p>Clean forms for submitting and managing events, as well as booking events for users.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-17.png?rev=2844304\"><img src=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-17.png?rev=2844304\" alt=\"Dashboard graph widget for quick review of your event bookings with tons of meaningful data views.\"><\/a><p>Dashboard graph widget for quick review of your event bookings with tons of meaningful data views.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-18.png?rev=2849641\"><img src=\"https:\/\/ps.w.org\/events-manager\/assets\/screenshot-18.png?rev=2849641\" alt=\"Grid view for displaying your upcoming events at a glance\"><\/a><p>Grid view for displaying your upcoming events at a glance<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Versions 6.4 and later are full of bugs.<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/tcmorita\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/1a088a90352819479c7764f962676027?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/1a088a90352819479c7764f962676027?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/tcmorita\/\" class=\"reviewer-name\">tcmorita<\/a> on <span class=\"review-date\">April 2, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Versions 6.4 and later were full of bugs, which caused me a lot of trouble.<br \/>It's not just my unique situation.<br \/>Users post bug reports and questions and comments on the Pro Support Forum many times a day.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Maybe that's why the administrator is so busy, and it's hard to get a reply to me.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">If you tell them that you get an error code when paying with Paypal,<br \/>\"This issue is already been reported; however; as a workaround, you can send us a login and FTP access on this Link for us to temporarily patch EM.\"<br \/>-&gt; Why don't you modify the published \"Events Manager Pro - PayPal Gateway\"?<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I am currently suffering from the following bug.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>A bug where when updating the information of a customer on the waiting list, the customer's information is rewritten to the logged in user's information.<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Ticket consumption at the time of reservation is not normal, and the remaining number of tickets becomes a negative number.<\/li>\n<!-- \/wp:list-item --><\/ul>\n<!-- \/wp:list -->\n\n<!-- wp:paragraph -->\n<p class=\"\">-&gt;I was sent a page URL with code to solve the problem, but it was created two months ago.<br \/>Please fix the original plugin.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>If you set up a custom post, you will be redirected to a 404 page when making an offline reservation.<\/li>\n<!-- \/wp:list-item --><\/ul>\n<!-- \/wp:list -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Since \"Events Manager Pro\" is the main source of bugs, it is better to use only the free version.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I just want my money back.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Good features, poor user experience<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"3 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"3\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mattschofield\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/7ded65fdcbef36a47f2883c801a47e5e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/7ded65fdcbef36a47f2883c801a47e5e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mattschofield\/\" class=\"reviewer-name\">mattschofield<\/a> on <span class=\"review-date\">March 22, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">As an event manager, the feature set is impressively well-conceived. Regrettably, its downfall is a user experience reminiscent of 2011. The demo site itself displays these issues, indicating they are not due to the environment or operator, although experiences may vary. The visitor experience suffers from layout shifts caused by temporary duplication of elements, such as date pickers in searches and calendar views, and with toggles erratically finding their places on screen and... Oof. From an admin perspective, addressing the CSS issues ('!important' declarations?) and refining the appearance and performance of page and feature styles, it's a lot for 2024. I also fear the experience would be one of having to revisit and retouch the styling every time an update rolls out.  After a brief trial on a staging site, I'm moving on. While I would invest in these features, the clunky execution is unsuitable for a live site. But the features are so good that I'll definitely be back in the future to check if things have improved.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Best solution for events!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/martinmkh\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/1dcae0d6703a60884f5a0e6ec47c3b81?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/1dcae0d6703a60884f5a0e6ec47c3b81?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/martinmkh\/\" class=\"reviewer-name\">martinmkh<\/a> on <span class=\"review-date\">March 14, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Thanks a lot to the team for their efforts and support! I would totally recommend this plugin as it has various options and configurations, as well as the quick response from their support team.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great Event Manager<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mememememe\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/26e5044bd10b55c145bf98300ff62d6d?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/26e5044bd10b55c145bf98300ff62d6d?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mememememe\/\" class=\"reviewer-name\">mememememe<\/a> on <span class=\"review-date\">March 14, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I use it for years. I just went Pro. I should have done this earlier.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Much more options and more customizable.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">massive limitations and very limited pagebuilder support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/tommy83\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/be1d8ebdb27e01bb0ed100b5c72edcfd?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/be1d8ebdb27e01bb0ed100b5c72edcfd?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/tommy83\/\" class=\"reviewer-name\">tommy83<\/a> on <span class=\"review-date\">March 3, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">You need to work on code base if you wanna setup most simple needs, for example lightbox on image. Todo that you need to add custom snippet and for most evrything else you need to edit code base or adding more and more snippets. Also changing image size on event detail page will end in custom css. This plugin also does not hav any elementor widget.<br \/>If you wanna change a lot of and wanna have custom design, you need to work hours on hours in code base and writing tons of support tickets just to solve simple basics. And all this in 2024 and after so many active installations of this plugin.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">[SOLVED] Blocked by Wordfence<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/robinleysen\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/af306516a56ff2e398f26035b2dfbea1?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/af306516a56ff2e398f26035b2dfbea1?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/robinleysen\/\" class=\"reviewer-name\">robinleysen<\/a> on <span class=\"review-date\">March 1, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\"><strong>Solved<\/strong>: blocking was done from Wordfence from a site in a higher level Wordpress installation in a higher level folder. Added wordfecne to this subfolder installation as well, and did not have the problem anymore.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><s>Using v6.4.7 and whenever I want to change plugin settings, e.g. change the email sender's name and address, I get this error from Wordfence:<\/s><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><!-- wp:paragraph -->\n<p class=\"\">A potentially unsafe operation has been detected in your request to this site<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Your access to this service has been limited. (HTTP response code 403)<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">If you think you have been blocked in error, contact the owner of this site for assistance. Block Technical Data Block Reason: A potentially unsafe operation has been detected in your request to this site<\/p>\n<!-- \/wp:paragraph --><\/blockquote>\n<!-- \/wp:quote --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Gestione completa eventi<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/linux56\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/1ca04d51d82ad8368f18d54973dda7e3?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/1ca04d51d82ad8368f18d54973dda7e3?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/linux56\/\" class=\"reviewer-name\">linux56<\/a> on <span class=\"review-date\">February 29, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Ottima gestione eventi con molte funzionalit\u00e0<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Incident resolved<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/chuchy10\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/cb6361089fcde05ed51ed6b57f817326?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/cb6361089fcde05ed51ed6b57f817326?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/chuchy10\/\" class=\"reviewer-name\">chuchy10<\/a> on <span class=\"review-date\">February 28, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">In the file: plugins\\events-manager\\buddypress\\bp-em-core.php<br \/>Line: 60 remove comment and editing and maintenance works perfectly<br \/>\/\/quick link shortcut - may need to revisit this<br \/><strong>\/\/<\/strong>$bp-&gt;{$this-&gt;id}-&gt;link = trailingslashit($bp-&gt;loggedin_user-&gt;domain).BP_EM_SLUG.'\/';<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><strong>EventsManager Versi\u00f3n:<\/strong>\u00a06.4.7 - <strong>Buddypress Versi\u00f3n<\/strong>: 12.3.0 and <strong>BP Clasic Versi\u00f3n:<\/strong> 1.4.0 (for events to work in groups)<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Idealna wtyczka<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/zygzak\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/09032872c473e6a21cef6bfc874b894a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/09032872c473e6a21cef6bfc874b894a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/zygzak\/\" class=\"reviewer-name\">zygzak<\/a> on <span class=\"review-date\">February 25, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">&lt;font _mstmutation=\"1\" _msttexthash=\"6643\" _msthash=\"408\"&gt;Idealna wtyczk&lt;\/font&gt;a&lt;font _mstmutation=\"1\"&gt;&lt;\/font&gt;<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">A great plugin!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/technikelfe\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/79be82245cf18277accceba62d273003?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/79be82245cf18277accceba62d273003?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/technikelfe\/\" class=\"reviewer-name\">technikelfe<\/a> on <span class=\"review-date\">February 22, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The plugin is one of my favourite ones. You can customize it and I like the design.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Fully featured events calendar, booking registration (RSVP), recurring events, locations management, Google Maps",
+    "description": "<p>Events Manager is a full-featured event calendar, bookings and registration management plugin for WordPress based on the principles of flexibility, reliability and powerful features!<\/p>\n<p>** Limited-Time Offer &#8211; Up to 30% our current price plans! <a href=\"https:\/\/wp-events-plugin.com\/pricing\/?utm_source=repo&amp;utm_medium=readme&amp;utm_campaign=promo2024-02\" rel=\"nofollow ugc\">Get Pro Now<\/a> **<\/p>\n<ul>\n<li><a href=\"https:\/\/eventsmanager.site\" rel=\"nofollow ugc\">Demo<\/a><\/li>\n<li><a href=\"http:\/\/wp-events-plugin.com\/documentation\/\" rel=\"nofollow ugc\">Documentation<\/a><\/li>\n<li><a href=\"http:\/\/wp-events-plugin.com\/tutorials\/\" rel=\"nofollow ugc\">Tutorials<\/a><\/li>\n<\/ul>\n<h4>Main Features<\/h4>\n<ul>\n<li>Beautiful calendars, search pages, lists, grids and booking forms to enhance your site events.<\/li>\n<li>Easy event registration (single day with start\/end times)<\/li>\n<li>Recurring and long (multi-day) event registration<\/li>\n<li>Bookings Management (including approval\/rejections, export CVS, and more!)<\/li>\n<li>Multiple Tickets<\/li>\n<li>Fully-featured graph and statistics including bar\/line\/pie with comparison and stacking<\/li>\n<li>MultiSite Event Support\n<ul>\n<li>Cross-Network Event Sharing &#8211; show your events and booking fromss on other subsites or main site<\/li>\n<li>Network-wide Global Booking Management<\/li>\n<li>BuddyPress and BuddyBoss Support<\/li>\n<li>Create modular (independent) event subsites or inter-networked events<\/li>\n<\/ul>\n<\/li>\n<li>Multiple Location Types\n<ul>\n<li>Physical Locations<\/li>\n<li>Online Events (URLs)<\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/events-manager-zoom\/\" rel=\"ugc\">Zoom Webinars\/Meetings Integration<\/a><\/li>\n<\/ul>\n<\/li>\n<li>BuddyPress &amp; BuddyBoss Support\n<ul>\n<li>Submit Events<\/li>\n<li>Group Events<\/li>\n<li>Personal Events<\/li>\n<li>Activity Stream<\/li>\n<li>more on the way<\/li>\n<\/ul>\n<\/li>\n<li>Guest\/Member Event submissions<\/li>\n<li>Assign event locations and view events by location<\/li>\n<li>Event categories<\/li>\n<li>Easily create custom event attributes (e.g. dress code)<\/li>\n<li>Google Maps <a href=\"https:\/\/wp-events-plugin.com\/documentation\/google-maps\/api-usage\/?utm_source=repo&amp;utm_medium=readme&amp;utm_campaign=gmaps-api\" rel=\"nofollow ugc\">(see our API usage recommendations)<\/a><\/li>\n<li>Advanced permissions &#8211; restrict user management of events and locations.<\/li>\n<li>Widgets for Events, Locations and Calendars<\/li>\n<li>Fine grained control of how every aspect of your events are shown on your site, easily modify templates from the settings pages and template files<\/li>\n<li>iCal Feed (single and all events)<\/li>\n<li>Add to Google Calendar buttons<\/li>\n<li>RSS Feeds<\/li>\n<li>Compatible with SEO plugins<\/li>\n<li>Timezone Support &#8211; create events in different timezones <\/li>\n<li>Plenty of template tags and shortcodes for use in your posts and pages<\/li>\n<li>Actively maintained and supported<\/li>\n<li>Lots of documentation and tutorials<\/li>\n<li>And much more!<\/li>\n<\/ul>\n<h4>Data Privacy and GDPR Compliance<\/h4>\n<p>We provide the tools to <a href=\"http:\/\/wp-events-plugin.com\/documentation\/data-privacy-gdpr-compliance\/\" rel=\"nofollow ugc\">help you be GDPR compliant<\/a>, including:<\/p>\n<ul>\n<li>export\/erasure of data via the WordPress Privacy Tools, including booking, event and location data<\/li>\n<li>consent checkboxes on our booking, event and location forms on the frontend<\/li>\n<li>settings to control what can be exported\/erased as well as where\/when to place consent requests<\/li>\n<li>sample text for your site privacy policy describing what Events Manager does with personal data<\/li>\n<\/ul>\n<h4>Premium Features<\/h4>\n<p>We have a premium <a href=\"http:\/\/eventsmanagerpro.com\/gopro\/\" rel=\"nofollow ugc\">Pro add-on for Events Manager<\/a> which not only demonstrates the flexibility of Events Manager, but also adds some important features including but not limited to:<\/p>\n<ul>\n<li>WooCommerce integration (<a href=\"https:\/\/wp-events-plugin.com\/woocommerce\/\" rel=\"nofollow ugc\">sold separately<\/a>)<\/li>\n<li>PayPal, Stripe, Authorize.net and Offline Payments<\/li>\n<li>Custom booking forms<\/li>\n<li>Individual Attendee custom forms<\/li>\n<li>Printable Invoices and Tickets<\/li>\n<li>Send PDF tickets\/invoices by email automatically<\/li>\n<li>Check In\/Out<\/li>\n<li>QR Scanning\n<ul>\n<li>Manage bookings on your phone<\/li>\n<li>Check In\/Out users<\/li>\n<\/ul>\n<\/li>\n<li>Waitlists<\/li>\n<li>Automation (NEW!) &#8211; ultimate flexibility in automation!\n<ul>\n<li>Triggers:<\/li>\n<li>X time before\/after events start<\/li>\n<li>When a booking status changes<\/li>\n<li>When a booking was booked x time ago<\/li>\n<li>Actions<\/li>\n<li>Send Webhook (Zapier, MS Automation and many other services)<\/li>\n<li>Send Email<\/li>\n<\/ul>\n<\/li>\n<li>Coupon Codes<\/li>\n<li>Custom booking email per event and gateway<\/li>\n<li>Faster support via private Pro forums<\/li>\n<\/ul>\n<p>For more information or to go pro, <a href=\"http:\/\/wp-events-plugin.com\/features\/\" rel=\"nofollow ugc\">visit our plugin website<\/a>.<\/p>\n<h4>Additional Plugin Integrations<\/h4>\n<p>Whilst there&#8217;s many third party integrations with our own plugin, here&#8217;s some we&#8217;ve integrated ourselves!<\/p>\n<ul>\n<li>Included in Events Manager (automatic integration)\n<ul>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/buddypress\/\" rel=\"ugc\">BuddyPress<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/wp-fullcalendar\/\" rel=\"ugc\">WP FullCalendar<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/thrive-automator\/\" rel=\"ugc\">Thrive Automator<\/a><\/li>\n<\/ul>\n<\/li>\n<li>Additional Add-Ons\n<ul>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/events-manager-zoom\/\" rel=\"ugc\">Zoom<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/events-manager-wpml\/\" rel=\"ugc\">WPML Multilingual Sites<\/a><\/li>\n<\/ul>\n<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.4.7.3.zip",
+    "upgrade_notice": {
+        "": "<p>For those upgrading from version 4 to 5, please <a href=\"http:\/\/wp-events-plugin.com\/updating-to-v5\/\">read these instructions<\/a>.<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/events-manager\/assets\/screenshot-1.png?rev=2760880",
+            "caption": "Innovative responsive calendar with rings to show eventful dates, colored by category, clickable to expand more event information."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/events-manager\/assets\/screenshot-2.png?rev=2760880",
+            "caption": "Completely customizable event widgets\/blocks and shortcodes."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/events-manager\/assets\/screenshot-3.png?rev=2760880",
+            "caption": "Beautiful event pages which can be completely customized via our settings page."
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/events-manager\/assets\/screenshot-4.png?rev=2760880",
+            "caption": "Share your events to popular calendar clients."
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/events-manager\/assets\/screenshot-5.png?rev=2760880",
+            "caption": "Display information about your location in widgets, blocks and shortcodes too."
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/events-manager\/assets\/screenshot-6.png?rev=2844304",
+            "caption": "Full-featured statistics and insights into your ticket sales via multiple graph types, including comparison and stacking."
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/events-manager\/assets\/screenshot-7.png?rev=2844304",
+            "caption": "Easily skip to the future with our new calendar navigation and search filters."
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/events-manager\/assets\/screenshot-8.png?rev=2844304",
+            "caption": "Easy-to-use search filters, whether on the phone or desktop."
+        },
+        "9": {
+            "src": "https:\/\/ps.w.org\/events-manager\/assets\/screenshot-9.png?rev=2844304",
+            "caption": "Search for events and locations within a search radius using Google geo searches."
+        },
+        "10": {
+            "src": "https:\/\/ps.w.org\/events-manager\/assets\/screenshot-10.png?rev=2844304",
+            "caption": "Intuitive search UI for your visitors."
+        },
+        "11": {
+            "src": "https:\/\/ps.w.org\/events-manager\/assets\/screenshot-11.png?rev=2844304",
+            "caption": "QUickly switch between search views."
+        },
+        "12": {
+            "src": "https:\/\/ps.w.org\/events-manager\/assets\/screenshot-12.png?rev=2844304",
+            "caption": "View your events on a Google Map, filter with searches."
+        },
+        "13": {
+            "src": "https:\/\/ps.w.org\/events-manager\/assets\/screenshot-13.png?rev=2844304",
+            "caption": "Multiple calendar styles, fully responsive according to the width of the calendar."
+        },
+        "14": {
+            "src": "https:\/\/ps.w.org\/events-manager\/assets\/screenshot-14.png?rev=2844304",
+            "caption": "Responsivve way for mini-calendar to intuitively show dates with many events within a quick glance."
+        },
+        "15": {
+            "src": "https:\/\/ps.w.org\/events-manager\/assets\/screenshot-15.png?rev=2844304",
+            "caption": "Responsive lists that adapt to the size of its containing content."
+        },
+        "16": {
+            "src": "https:\/\/ps.w.org\/events-manager\/assets\/screenshot-16.png?rev=2844304",
+            "caption": "Clean forms for submitting and managing events, as well as booking events for users."
+        },
+        "17": {
+            "src": "https:\/\/ps.w.org\/events-manager\/assets\/screenshot-17.png?rev=2844304",
+            "caption": "Dashboard graph widget for quick review of your event bookings with tons of meaningful data views."
+        },
+        "18": {
+            "src": "https:\/\/ps.w.org\/events-manager\/assets\/screenshot-18.png?rev=2849641",
+            "caption": "Grid view for displaying your upcoming events at a glance"
+        }
+    },
+    "tags": {
+        "appointments": "appointments",
+        "bookings": "bookings",
+        "calendar": "calendar",
+        "events": "events",
+        "tickets": "tickets"
+    },
+    "stable_tag": "6.4.7.3",
+    "versions": {
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.1.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.1.0.1.zip",
+        "2.0b1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.2.0b1.zip",
+        "2.0b2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.2.0b2.zip",
+        "2.0b3": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.2.0b3.zip",
+        "2.0b4": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.2.0b4.zip",
+        "2.0rc1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.2.0rc1.zip",
+        "2.0rc2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.2.0rc2.zip",
+        "2.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.2.1.zip",
+        "2.2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.2.2.zip",
+        "2.2.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.2.2.1.zip",
+        "2.2.2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.2.2.2.zip",
+        "3.0": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.3.0.zip",
+        "3.0.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.3.0.1.zip",
+        "3.0.2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.3.0.2.zip",
+        "3.0.3": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.3.0.3.zip",
+        "3.0.4": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.3.0.4.zip",
+        "3.0.5": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.3.0.5.zip",
+        "3.0.6": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.3.0.6.zip",
+        "3.0.7": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.3.0.7.zip",
+        "3.0.8": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.3.0.8.zip",
+        "3.0.81": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.3.0.81.zip",
+        "3.0.9": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.3.0.9.zip",
+        "3.0.91": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.3.0.91.zip",
+        "3.0.92": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.3.0.92.zip",
+        "3.0.93": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.3.0.93.zip",
+        "3.0.94": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.3.0.94.zip",
+        "3.0.95": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.3.0.95.zip",
+        "3.0.96": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.3.0.96.zip",
+        "3.0.97": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.3.0.97.zip",
+        "3.0.98": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.3.0.98.zip",
+        "3.1.10": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.3.1.10.zip",
+        "3.1.11": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.3.1.11.zip",
+        "4.0": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.0.zip",
+        "4.0.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.0.1.zip",
+        "4.0.2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.0.2.zip",
+        "4.0.3": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.0.3.zip",
+        "4.0.4": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.0.4.zip",
+        "4.0.5": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.0.5.zip",
+        "4.0.6": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.0.6.zip",
+        "4.0.7": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.0.7.zip",
+        "4.0.8": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.0.8.zip",
+        "4.0.81": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.0.81.zip",
+        "4.0.82": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.0.82.zip",
+        "4.0.9": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.0.9.zip",
+        "4.0rc1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.0rc1.zip",
+        "4.0rc2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.0rc2.zip",
+        "4.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.1.zip",
+        "4.11": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.11.zip",
+        "4.12": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.12.zip",
+        "4.13": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.13.zip",
+        "4.14": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.14.zip",
+        "4.15": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.15.zip",
+        "4.16": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.16.zip",
+        "4.171": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.171.zip",
+        "4.18": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.18.zip",
+        "4.2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.2.zip",
+        "4.200": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.200.zip",
+        "4.211": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.211.zip",
+        "4.212": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.212.zip",
+        "4.213": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.213.zip",
+        "4.300": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.300.zip",
+        "4.301": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.301.zip",
+        "4.302": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.302.zip",
+        "4.304": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.304.zip",
+        "4.305": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.4.305.zip",
+        "5.0.3": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.0.3.zip",
+        "5.0.4": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.0.4.zip",
+        "5.0.41": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.0.41.zip",
+        "5.0.42": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.0.42.zip",
+        "5.0.51": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.0.51.zip",
+        "5.0b1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.0b1.zip",
+        "5.0b2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.0b2.zip",
+        "5.0b3": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.0b3.zip",
+        "5.0rc1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.0rc1.zip",
+        "5.1.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.1.1.zip",
+        "5.1.2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.1.2.zip",
+        "5.1.3": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.1.3.zip",
+        "5.1.4": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.1.4.zip",
+        "5.1.4.3": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.1.4.3.zip",
+        "5.1.5": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.1.5.zip",
+        "5.1.6": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.1.6.zip",
+        "5.1.7": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.1.7.zip",
+        "5.1.8": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.1.8.zip",
+        "5.1.8.5": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.1.8.5.zip",
+        "5.10": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.10.zip",
+        "5.11": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.11.zip",
+        "5.12": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.12.zip",
+        "5.12.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.12.1.zip",
+        "5.2.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.2.1.zip",
+        "5.2.2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.2.2.zip",
+        "5.2.4": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.2.4.zip",
+        "5.2.5": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.2.5.zip",
+        "5.2.6": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.2.6.zip",
+        "5.2.7": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.2.7.zip",
+        "5.2.8": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.2.8.zip",
+        "5.2.9": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.2.9.zip",
+        "5.3": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.3.zip",
+        "5.3.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.3.1.zip",
+        "5.3.2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.3.2.zip",
+        "5.3.2.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.3.2.1.zip",
+        "5.3.3": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.3.3.zip",
+        "5.3.4": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.3.4.zip",
+        "5.3.5": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.3.5.zip",
+        "5.3.6": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.3.6.zip",
+        "5.3.6.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.3.6.1.zip",
+        "5.3.7": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.3.7.zip",
+        "5.3.8": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.3.8.zip",
+        "5.3.9": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.3.9.zip",
+        "5.4": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.4.zip",
+        "5.4.1.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.4.1.1.zip",
+        "5.4.2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.4.2.zip",
+        "5.4.3": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.4.3.zip",
+        "5.4.4": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.4.4.zip",
+        "5.5": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.5.zip",
+        "5.5.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.5.1.zip",
+        "5.5.2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.5.2.zip",
+        "5.5.3.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.5.3.1.zip",
+        "5.5.4": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.5.4.zip",
+        "5.5.5": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.5.5.zip",
+        "5.5.6": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.5.6.zip",
+        "5.5.7.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.5.7.1.zip",
+        "5.6": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.6.zip",
+        "5.6.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.6.1.zip",
+        "5.6.2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.6.2.zip",
+        "5.6.3": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.6.3.zip",
+        "5.6.4": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.6.4.zip",
+        "5.6.5": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.6.5.zip",
+        "5.6.6": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.6.6.zip",
+        "5.6.6.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.6.6.1.zip",
+        "5.7": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.7.zip",
+        "5.7.2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.7.2.zip",
+        "5.7.3": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.7.3.zip",
+        "5.8.0.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.8.0.1.zip",
+        "5.8.1.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.8.1.1.zip",
+        "5.8.1.2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.8.1.2.zip",
+        "5.8.1.3": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.8.1.3.zip",
+        "5.9": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.9.zip",
+        "5.9.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.9.1.zip",
+        "5.9.10": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.9.10.zip",
+        "5.9.11": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.9.11.zip",
+        "5.9.11.3": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.9.11.3.zip",
+        "5.9.2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.9.2.zip",
+        "5.9.3": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.9.3.zip",
+        "5.9.4": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.9.4.zip",
+        "5.9.5": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.9.5.zip",
+        "5.9.6": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.9.6.zip",
+        "5.9.7": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.9.7.zip",
+        "5.9.7.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.9.7.1.zip",
+        "5.9.7.2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.9.7.2.zip",
+        "5.9.7.3": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.9.7.3.zip",
+        "5.9.8": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.9.8.zip",
+        "5.9.8.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.9.8.1.zip",
+        "5.9.9": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.5.9.9.zip",
+        "6.0": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.0.zip",
+        "6.0.0.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.0.0.1.zip",
+        "6.0.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.0.1.zip",
+        "6.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.1.zip",
+        "6.1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.1.0.1.zip",
+        "6.1.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.1.1.zip",
+        "6.1.2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.1.2.zip",
+        "6.1.2.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.1.2.1.zip",
+        "6.1.3": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.1.3.zip",
+        "6.1.4": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.1.4.zip",
+        "6.1.5": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.1.5.zip",
+        "6.1.6": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.1.6.zip",
+        "6.2.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.2.1.zip",
+        "6.3": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.3.zip",
+        "6.4": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.4.zip",
+        "6.4.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.4.1.zip",
+        "6.4.2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.4.2.zip",
+        "6.4.3": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.4.3.zip",
+        "6.4.4": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.4.4.zip",
+        "6.4.5": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.4.5.zip",
+        "6.4.5.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.4.5.1.zip",
+        "6.4.6": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.4.6.zip",
+        "6.4.6.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.4.6.1.zip",
+        "6.4.6.2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.4.6.2.zip",
+        "6.4.6.3": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.4.6.3.zip",
+        "6.4.6.4": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.4.6.4.zip",
+        "6.4.7": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.4.7.zip",
+        "6.4.7.1": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.4.7.1.zip",
+        "6.4.7.2": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.4.7.2.zip",
+        "6.4.7.3": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.6.4.7.3.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/events-manager.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/wp-events-plugin.com",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/events-manager\/assets\/banner-772x250.png?rev=1039078",
+        "high": "https:\/\/ps.w.org\/events-manager\/assets\/banner-1544x500.png?rev=1039078"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/events-manager\/assets\/icon-128x128.png?rev=1039078",
+        "2x": "https:\/\/ps.w.org\/events-manager\/assets\/icon-256x256.png?rev=1039078"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 84,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "ar",
+            "version": "6.4.7.3",
+            "updated": "2021-09-04 19:46:25",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/ar.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "cs_CZ",
+            "version": "6.4.7.3",
+            "updated": "2023-11-14 11:16:52",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/cs_CZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "da_DK",
+            "version": "6.4.7.3",
+            "updated": "2023-05-08 10:45:11",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/da_DK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "de_DE",
+            "version": "6.4.7.3",
+            "updated": "2024-04-01 12:20:38",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "de_DE_formal",
+            "version": "6.4.7.3",
+            "updated": "2024-04-01 12:18:00",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/de_DE_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "el",
+            "version": "6.4.7.3",
+            "updated": "2024-02-14 12:24:12",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/el.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "en_AU",
+            "version": "6.4.7.3",
+            "updated": "2021-03-07 23:20:14",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/en_AU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "en_NZ",
+            "version": "6.4.7.3",
+            "updated": "2021-03-07 23:21:26",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/en_NZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "en_CA",
+            "version": "6.4.7.3",
+            "updated": "2021-03-07 23:22:16",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/en_CA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "es_VE",
+            "version": "6.4.7.3",
+            "updated": "2022-12-16 13:20:33",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "es_ES",
+            "version": "6.4.7.3",
+            "updated": "2024-03-19 23:45:47",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "es_EC",
+            "version": "6.4.7.3",
+            "updated": "2021-08-20 06:43:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/es_EC.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "es_CO",
+            "version": "6.4.7.3",
+            "updated": "2021-10-04 00:54:13",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/es_CO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "fi",
+            "version": "6.4.7.3",
+            "updated": "2017-05-26 14:50:32",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/fi.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "fr_FR",
+            "version": "6.4.7.3",
+            "updated": "2024-03-28 14:57:14",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "gl_ES",
+            "version": "6.4.7.3",
+            "updated": "2024-03-19 23:44:40",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/gl_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "he_IL",
+            "version": "6.4.7.3",
+            "updated": "2016-10-27 14:21:01",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/he_IL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "hr",
+            "version": "6.4.7.3",
+            "updated": "2021-01-10 17:43:36",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/hr.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "it_IT",
+            "version": "6.4.7.3",
+            "updated": "2024-04-14 07:36:28",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "ja",
+            "version": "6.4.7.3",
+            "updated": "2024-01-12 14:06:31",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/ja.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "mn",
+            "version": "6.4.7.3",
+            "updated": "2024-03-19 23:45:15",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/mn.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "nb_NO",
+            "version": "6.4.7.3",
+            "updated": "2023-12-15 01:19:37",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/nb_NO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "nl_NL",
+            "version": "6.4.7.3",
+            "updated": "2024-03-19 23:44:22",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "nl_BE",
+            "version": "6.4.7.3",
+            "updated": "2024-03-19 23:44:23",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/nl_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "nl_NL_formal",
+            "version": "6.4.7.3",
+            "updated": "2024-03-19 23:44:25",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/nl_NL_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "pl_PL",
+            "version": "6.4.7.3",
+            "updated": "2023-08-10 22:42:30",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/pl_PL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "ru_RU",
+            "version": "6.4.7.3",
+            "updated": "2023-06-13 07:42:59",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "sl_SI",
+            "version": "6.4.7.3",
+            "updated": "2024-04-07 13:52:37",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/sl_SI.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "events-manager",
+            "language": "sv_SE",
+            "version": "6.4.7.3",
+            "updated": "2024-03-19 23:45:50",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/events-manager\/6.4.7.3\/sv_SE.zip"
+        }
+    ]
+}

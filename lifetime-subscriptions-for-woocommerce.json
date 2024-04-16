@@ -1,0 +1,90 @@
+{
+    "name": "Lifetime Subscriptions for WooCommerce",
+    "slug": "lifetime-subscriptions-for-woocommerce",
+    "version": "1.0.5",
+    "author": "<a href=\"https:\/\/quadlayers.com\">QuadLayers<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/quadlayers\/",
+    "contributors": {
+        "quadlayers": {
+            "profile": "https:\/\/profiles.wordpress.org\/quadlayers\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/fe3a5463e8c8806621f4bdfbc4e58dad?s=96&d=monsterid&r=g",
+            "display_name": "quadlayers"
+        }
+    },
+    "requires": false,
+    "tested": "6.4.4",
+    "requires_php": "5.6",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/lifetime-subscriptions-for-woocommerce\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 491,
+    "last_updated": "2024-03-30 10:41am GMT",
+    "added": "2023-12-09",
+    "homepage": "https:\/\/quadlayers.com\/",
+    "sections": {
+        "description": "<p>Introducing Lifetime Subscriptions for WooCommerce \u2013 the ultimate solution for adding a &#8220;Lifetime\/One-time Purchase&#8221; option to your WooCommerce Subscriptions. Seamlessly upgrade your WooCommerce store&#8217;s subscription offerings and provide more versatility to your customers.<\/p>\n<h3>Presentation<\/h3>\n<p><a href=\"https:\/\/quadlayers.com\/\/\" rel=\"nofollow ugc\">QuadLayers<\/a> | <a href=\"https:\/\/github.com\/quadlayers\/lifetime-subscriptions-for-woocommerce\/\" rel=\"nofollow ugc\">Contribute<\/a> | <a href=\"https:\/\/www.facebook.com\/groups\/quadlayers\/\" rel=\"nofollow ugc\">Community<\/a><\/p>\n<h3>Features<\/h3>\n<p>Tailored for WooCommerce: Built specifically for WooCommerce Subscriptions, guaranteeing perfect integration.<br \/>\nDynamic Subscription Text Customization: Modify the default &#8220;$99.99\/Lifetime&#8221; text to align with your brand&#8217;s voice.<\/p>\n<h3>How to Use<\/h3>\n<p>Smooth Activation: Post-installation, activate to unlock the much-desired &#8220;Lifetime&#8221; billing interval for subscriptions.<br \/>\nText Customization (Optional): For a personalized touch, go to WooCommerce -&gt; Settings -&gt; Subscriptions. Seek out the &#8220;Lifetime Option Text&#8221; segment for adjustments.<\/p>\n<h3>Installation Guide<\/h3>\n<p>Easily set up Lifetime Subscriptions for WooCommerce using these methods:<\/p>\n<p>Option 1: Direct WordPress Search<\/p>\n<p>Navigate to &#8220;Plugins &gt; Add New&#8221; within your WordPress dashboard.<br \/>\nSearch &#8220;Lifetime Subscriptions for WooCommerce&#8221;.<br \/>\nHit install and then activate.<br \/>\nOption 2: Manual Upload<\/p>\n<p>Download Lifetime Subscriptions for WooCommerce from WordPress.org.<br \/>\nIn your dashboard, go to &#8220;Plugins &gt; Add New &gt; Upload&#8221;.<br \/>\nSubmit the ZIP file for uploading.<br \/>\nComplete by activating the plugin from the &#8216;Plugins&#8217; menu.<br \/>\nEmpower your WooCommerce store with lifetime subscription capabilities. Elevate your sales and customer loyalty today!<\/p>\n",
+        "changelog": "<h4>1.0.5<\/h4>\n<ul>\n<li>WooCommerce compatibility<\/li>\n<\/ul>\n<h4>1.0.4<\/h4>\n<ul>\n<li>WooCommerce HPOS compatibility<\/li>\n<\/ul>\n<h4>1.0.3<\/h4>\n<ul>\n<li>WooCommerce compatibility<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>WooCommerce compatibility<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>WordPress compatibility<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>First release<\/li>\n<\/ul>\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Nice plugin, but not HPOS compatible<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/luquerias\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/bec2d748c448c7a36cf9a14a8f5cc1f0?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/bec2d748c448c7a36cf9a14a8f5cc1f0?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/luquerias\/\" class=\"reviewer-name\">Lucas <small>(Luquerias)<\/small><\/a> on <span class=\"review-date\">March 8, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">THe plugin is good, but has to be compatible with HPOS<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Lifetime Subscriptions for WooCommerce \u2013 the ultimate solution for adding a &quot;Lifetime\/One-time Purchase&quot; option to WooCommerce Subscriptions.",
+    "description": "<p>Introducing Lifetime Subscriptions for WooCommerce \u2013 the ultimate solution for adding a &#8220;Lifetime\/One-time Purchase&#8221; option to your WooCommerce Subscriptions. Seamlessly upgrade your WooCommerce store&#8217;s subscription offerings and provide more versatility to your customers.<\/p>\n<h3>Presentation<\/h3>\n<p><a href=\"https:\/\/quadlayers.com\/\/\" rel=\"nofollow ugc\">QuadLayers<\/a> | <a href=\"https:\/\/github.com\/quadlayers\/lifetime-subscriptions-for-woocommerce\/\" rel=\"nofollow ugc\">Contribute<\/a> | <a href=\"https:\/\/www.facebook.com\/groups\/quadlayers\/\" rel=\"nofollow ugc\">Community<\/a><\/p>\n<h3>Features<\/h3>\n<p>Tailored for WooCommerce: Built specifically for WooCommerce Subscriptions, guaranteeing perfect integration.<br \/>\nDynamic Subscription Text Customization: Modify the default &#8220;$99.99\/Lifetime&#8221; text to align with your brand&#8217;s voice.<\/p>\n<h3>How to Use<\/h3>\n<p>Smooth Activation: Post-installation, activate to unlock the much-desired &#8220;Lifetime&#8221; billing interval for subscriptions.<br \/>\nText Customization (Optional): For a personalized touch, go to WooCommerce -&gt; Settings -&gt; Subscriptions. Seek out the &#8220;Lifetime Option Text&#8221; segment for adjustments.<\/p>\n<h3>Installation Guide<\/h3>\n<p>Easily set up Lifetime Subscriptions for WooCommerce using these methods:<\/p>\n<p>Option 1: Direct WordPress Search<\/p>\n<p>Navigate to &#8220;Plugins &gt; Add New&#8221; within your WordPress dashboard.<br \/>\nSearch &#8220;Lifetime Subscriptions for WooCommerce&#8221;.<br \/>\nHit install and then activate.<br \/>\nOption 2: Manual Upload<\/p>\n<p>Download Lifetime Subscriptions for WooCommerce from WordPress.org.<br \/>\nIn your dashboard, go to &#8220;Plugins &gt; Add New &gt; Upload&#8221;.<br \/>\nSubmit the ZIP file for uploading.<br \/>\nComplete by activating the plugin from the &#8216;Plugins&#8217; menu.<br \/>\nEmpower your WooCommerce store with lifetime subscription capabilities. Elevate your sales and customer loyalty today!<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/lifetime-subscriptions-for-woocommerce.1.0.5.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "lifetime-subscriptions": "Lifetime Subscriptions",
+        "woocommerce": "woocommerce",
+        "woocommerce-subscriptions": "woocommerce subscriptions",
+        "woocommerce-subscriptions-lifetime": "WooCommerce Subscriptions Lifetime"
+    },
+    "stable_tag": "1.0.5",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/lifetime-subscriptions-for-woocommerce.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/lifetime-subscriptions-for-woocommerce.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/lifetime-subscriptions-for-woocommerce.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/lifetime-subscriptions-for-woocommerce.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/lifetime-subscriptions-for-woocommerce.1.0.4.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/lifetime-subscriptions-for-woocommerce.1.0.5.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/lifetime-subscriptions-for-woocommerce.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/quadlayers.com\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/lifetime-subscriptions-for-woocommerce\/assets\/banner-772x250.png?rev=3045142",
+        "high": "https:\/\/ps.w.org\/lifetime-subscriptions-for-woocommerce\/assets\/banner-1544x500.png?rev=3043508"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/lifetime-subscriptions-for-woocommerce\/assets\/icon-256x256.png?rev=3045142",
+        "2x": "https:\/\/ps.w.org\/lifetime-subscriptions-for-woocommerce\/assets\/icon-256x256.png?rev=3045142"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "lifetime-subscriptions-for-woocommerce",
+            "language": "fr_FR",
+            "version": "1.0.2",
+            "updated": "2024-02-15 14:26:15",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/lifetime-subscriptions-for-woocommerce\/1.0.2\/fr_FR.zip"
+        }
+    ]
+}

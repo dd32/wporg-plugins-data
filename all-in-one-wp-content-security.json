@@ -1,0 +1,91 @@
+{
+    "name": "All in one WP Content Protector",
+    "slug": "all-in-one-wp-content-security",
+    "version": "1.1",
+    "author": "<a href=\"https:\/\/maheshthorat.web.app\">Mahesh Thorat<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/maheshmthorat\/",
+    "contributors": {
+        "maheshmthorat": {
+            "profile": "https:\/\/profiles.wordpress.org\/maheshmthorat\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/13ac2a68e7fba0cc0751857eaac3e0bf?s=96&d=monsterid&r=g",
+            "display_name": "Mahesh Thorat"
+        }
+    },
+    "requires": "4.5",
+    "tested": "6.4.4",
+    "requires_php": "5.6",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/all-in-one-wp-content-security\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 10,
+    "downloaded": 1015,
+    "last_updated": "2024-02-21 1:07am GMT",
+    "added": "2022-04-21",
+    "homepage": "https:\/\/wordpress.org\/plugins\/all-in-one-wp-content-security\/",
+    "sections": {
+        "description": "<p>All in One WP Content Protector is the ultimate solution to safeguard your WordPress content from unauthorized copying and misuse. With its comprehensive features, you can effortlessly protect your valuable content and maintain its integrity.<\/p>\n<h3>Features:<\/h3>\n<ul>\n<li><strong>Block Elements Selection:<\/strong> Prevent users from selecting and copying text and other elements on your website.<\/li>\n<li><strong>Block Image Drag Drop:<\/strong> Disable image dragging and dropping to prevent image theft.<\/li>\n<li><strong>Block Right Click \/ Copy Paste:<\/strong> Restrict right-click actions and copying\/pasting content to deter unauthorized use.<\/li>\n<li><strong>Block Console \/ Inspect Element:<\/strong> Prevent users from accessing browser developer tools to view or modify your website&#8217;s code.<br \/>\nWith All in One WP Content Protector, you can rest assured that your content remains secure and protected against plagiarism and misuse.<\/li>\n<\/ul>\n",
+        "installation": "<h4>Using plugins page<\/h4>\n<ol>\n<li>Go to Plugins -&gt; Add New and search for All in one WP Content Protector.<\/li>\n<li>Activate the plugin through the \u00e2\u20ac\u02dcPlugins\u00e2\u20ac\u2122 screen in WordPress.<\/li>\n<li>Click the <code>All in one WP Content Protector<\/code> link located in main menu section to configure the plugin options<\/li>\n<\/ol>\n<h4>Using Manual File System<\/h4>\n<ol>\n<li>Upload <code>all-in-one-wp-content-security.zip<\/code> to the <code>\/wp-content\/plugins\/<\/code> directory<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress<\/li>\n<li>Click the <code>All in one WP Content Protector<\/code> link located in main menu section to configure the plugin options<\/li>\n<\/ol>\n",
+        "changelog": "<h4>1.1<\/h4>\n<ul>\n<li>Security Update<\/li>\n<\/ul>\n<h4>1.0<\/h4>\n<ul>\n<li>Tested with WordPress 6.4.3<\/li>\n<li>Minor Fixes<\/li>\n<\/ul>\n<h4>0.2<\/h4>\n<ul>\n<li>Tested with WordPress 6.0.2<\/li>\n<li>Tested with various themes and plugins.<\/li>\n<\/ul>\n<h4>0.1<\/h4>\n<ul>\n<li>Initial Public Release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/all-in-one-wp-content-security\/assets\/screenshot-1.png?rev=2712431\"><img src=\"https:\/\/ps.w.org\/all-in-one-wp-content-security\/assets\/screenshot-1.png?rev=2712431\" alt=\"A general view of the plugin &quot;options&quot; page.\"><\/a><p>A general view of the plugin \"options\" page.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/all-in-one-wp-content-security\/assets\/screenshot-2.png?rev=2712431\"><img src=\"https:\/\/ps.w.org\/all-in-one-wp-content-security\/assets\/screenshot-2.png?rev=2712431\" alt=\"Here you can actually see the console is blocked from being used.\"><\/a><p>Here you can actually see the console is blocked from being used.<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Plugin: Content Security Configurator. Blocks keyboard events, image dragging, and disables browser console &amp; inspect element for frontend visitors.",
+    "description": "<p>All in One WP Content Protector is the ultimate solution to safeguard your WordPress content from unauthorized copying and misuse. With its comprehensive features, you can effortlessly protect your valuable content and maintain its integrity.<\/p>\n<h3>Features:<\/h3>\n<ul>\n<li><strong>Block Elements Selection:<\/strong> Prevent users from selecting and copying text and other elements on your website.<\/li>\n<li><strong>Block Image Drag Drop:<\/strong> Disable image dragging and dropping to prevent image theft.<\/li>\n<li><strong>Block Right Click \/ Copy Paste:<\/strong> Restrict right-click actions and copying\/pasting content to deter unauthorized use.<\/li>\n<li><strong>Block Console \/ Inspect Element:<\/strong> Prevent users from accessing browser developer tools to view or modify your website&#8217;s code.<br \/>\nWith All in One WP Content Protector, you can rest assured that your content remains secure and protected against plagiarism and misuse.<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/all-in-one-wp-content-security.1.1.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/all-in-one-wp-content-security\/assets\/screenshot-1.png?rev=2712431",
+            "caption": "A general view of the plugin \"options\" page."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/all-in-one-wp-content-security\/assets\/screenshot-2.png?rev=2712431",
+            "caption": "Here you can actually see the console is blocked from being used."
+        }
+    },
+    "tags": {
+        "content-protection": "content-protection",
+        "copy-protection": "copy protection",
+        "element-selection-protection": "element selection protection",
+        "image-protection": "image protection",
+        "right-click-protection": "right-click protection"
+    },
+    "stable_tag": "1.1",
+    "versions": {
+        "0.1": "https:\/\/downloads.wordpress.org\/plugin\/all-in-one-wp-content-security.0.1.zip",
+        "0.2": "https:\/\/downloads.wordpress.org\/plugin\/all-in-one-wp-content-security.0.2.zip",
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/all-in-one-wp-content-security.1.0.zip",
+        "1.1": "https:\/\/downloads.wordpress.org\/plugin\/all-in-one-wp-content-security.1.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/all-in-one-wp-content-security.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/rzp.io\/l\/maheshmthorat",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/all-in-one-wp-content-security\/assets\/banner-772x250.png?rev=2712431",
+        "high": "https:\/\/ps.w.org\/all-in-one-wp-content-security\/assets\/banner-1544x500.png?rev=2712431"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/all-in-one-wp-content-security\/assets\/icon-128x128.png?rev=2712431",
+        "2x": "https:\/\/ps.w.org\/all-in-one-wp-content-security\/assets\/icon-256x256.png?rev=2712431"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

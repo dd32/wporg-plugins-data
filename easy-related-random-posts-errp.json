@@ -1,0 +1,81 @@
+{
+    "name": "Easy Related Random Posts",
+    "slug": "easy-related-random-posts-errp",
+    "version": "1.0",
+    "author": "<a href=\"https:\/\/profiles.wordpress.org\/mrboydwp\/\">Boyd Duang<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/mrboydwp\/",
+    "contributors": {
+        "mrboydwp": {
+            "profile": "https:\/\/profiles.wordpress.org\/mrboydwp\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/face3d91121a2a17e0d3095cbeccaadd?s=96&d=monsterid&r=g",
+            "display_name": "Boyd Duang"
+        }
+    },
+    "requires": "5.6",
+    "tested": "6.4.4",
+    "requires_php": "7.2",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/easy-related-random-posts-errp\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 55,
+    "last_updated": "2024-01-12 3:31pm GMT",
+    "added": "2024-01-12",
+    "homepage": "",
+    "sections": {
+        "description": "<p>The Easy Related Random Posts plugin is a versatile tool that allows you to display related or random posts on your WordPress website with just a few simple steps. Whether you want to keep your visitors engaged by showing related content or add an element of surprise with random posts, this plugin has you covered.<\/p>\n<h3>Development<\/h3>\n<p>For plugin development, bug reports, and feature requests, visit the <a href=\"https:\/\/github.com\/themrboyd\/easy-related-random-posts\" rel=\"nofollow ugc\">GitHub repository<\/a>.<\/p>\n<h3>License<\/h3>\n<p>This plugin is released under the <a href=\"https:\/\/www.gnu.org\/licenses\/gpl-2.0.html\" rel=\"nofollow ugc\">GNU General Public License, Version 2<\/a>.<\/p>\n",
+        "installation": "<ol>\n<li>Upload the plugin files to the <code>\/wp-content\/plugins\/easy-related-random-posts<\/code> directory or install it through the WordPress plugins screen directly.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; screen in WordPress.<\/li>\n<li>Navigate to the &#8220;Easy Related Random Posts&#8221; settings in your WordPress dashboard to configure the plugin.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='how%20do%20i%20display%20related%20or%20random%20posts%20on%20my%20website%3F'>\nHow do I display related or random posts on my website?\n<\/h4>\n<p>\n<p>You can use the <code>[errp_easy_related_random_posts]<\/code> shortcode to display related or random posts in your posts or pages. Simply add the shortcode to the content editor where you want the posts to appear.<\/p>\n<p>Example Shortcode:<br \/>\n[errp_easy_related_random_posts]<\/p>\n<\/p>\n<dt id='can%20i%20customize%20the%20appearance%20and%20behavior%20of%20the%20related%20or%20random%20posts%20section%3F'>\nCan I customize the appearance and behavior of the related or random posts section?\n<\/h4>\n<p>\n<p>Yes, you can customize the plugin settings in the &#8220;Easy Related Random Posts&#8221; settings page. You can set the headline text, post limit, display type (related or random posts), and even control the caching behavior.<\/p>\n<\/p>\n<dt id='what%20is%20the%20cache%20time%20option%2C%20and%20how%20does%20it%20work%3F'>\nWhat is the cache time option, and how does it work?\n<\/h4>\n<p>\n<p>The cache time option allows you to control how often the related or random posts are refreshed. You can set a cache time in seconds. A value of 0 disables caching, while any positive value specifies the duration of caching.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0<\/h4>\n<ul>\n<li>Initial release of the Easy Related Random Posts plugin.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/easy-related-random-posts-errp\/assets\/screenshot-1.png?rev=3021068\"><img src=\"https:\/\/ps.w.org\/easy-related-random-posts-errp\/assets\/screenshot-1.png?rev=3021068\" alt=\"&lt;a href=&quot;screenshot-1.png&quot;&gt;Screenshot 1: Plugin Settings&lt;\/a&gt;\n\n&lt;ul&gt;\n&lt;li&gt;This screenshot shows the settings page where you can configure the plugin.&lt;\/li&gt;&lt;\/ul&gt;\"><\/a><p><a href=\"screenshot-1.png\">Screenshot 1: Plugin Settings<\/a>\n\n<ul>\n<li>This screenshot shows the settings page where you can configure the plugin.<\/li><\/ul><\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "The Easy Related Random Posts plugin is a versatile tool that allows you to display related or random posts on your WordPress website with just a few  &hellip;",
+    "description": "<p>The Easy Related Random Posts plugin is a versatile tool that allows you to display related or random posts on your WordPress website with just a few simple steps. Whether you want to keep your visitors engaged by showing related content or add an element of surprise with random posts, this plugin has you covered.<\/p>\n<h3>Development<\/h3>\n<p>For plugin development, bug reports, and feature requests, visit the <a href=\"https:\/\/github.com\/themrboyd\/easy-related-random-posts\" rel=\"nofollow ugc\">GitHub repository<\/a>.<\/p>\n<h3>License<\/h3>\n<p>This plugin is released under the <a href=\"https:\/\/www.gnu.org\/licenses\/gpl-2.0.html\" rel=\"nofollow ugc\">GNU General Public License, Version 2<\/a>.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/easy-related-random-posts-errp.zip",
+    "upgrade_notice": {
+        "1.0": "<p>This is the initial release of the plugin.<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/easy-related-random-posts-errp\/assets\/screenshot-1.png?rev=3021068",
+            "caption": "<a href=\"screenshot-1.png\">Screenshot 1: Plugin Settings<\/a>\n\n<ul>\n<li>This screenshot shows the settings page where you can configure the plugin.<\/li><\/ul>"
+        }
+    },
+    "tags": {
+        "content": "content",
+        "random-posts": "Random Posts",
+        "recent-post": "recent post",
+        "related-posts": "related posts",
+        "similar-posts": "similar posts"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/ko-fi.com\/boyduang",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/easy-related-random-posts-errp\/assets\/icon-128x128.png?rev=3021068",
+        "2x": "https:\/\/ps.w.org\/easy-related-random-posts-errp\/assets\/icon-256x256.png?rev=3021068"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

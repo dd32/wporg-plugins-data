@@ -1,0 +1,83 @@
+{
+    "name": "AAA Option Optimizer",
+    "slug": "aaa-option-optimizer",
+    "version": "1.0",
+    "author": "<a href=\"https:\/\/joost.blog\/\">Joost de Valk<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/joostdevalk\/",
+    "contributors": {
+        "joostdevalk": {
+            "profile": "https:\/\/profiles.wordpress.org\/joostdevalk\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/7e0897cfeb791c3b254899d7d314b87f?s=96&d=monsterid&r=g",
+            "display_name": "Joost de Valk"
+        }
+    },
+    "requires": "6.2",
+    "tested": "6.5.2",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/aaa-option-optimizer\/",
+    "support_threads": 1,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 11,
+    "last_updated": "2024-04-15 8:21pm GMT",
+    "added": "2024-04-15",
+    "homepage": "https:\/\/joost.blog\/plugins\/aaa-option-optimizer\/",
+    "sections": {
+        "description": "<p>This plugin tracks which of the autoloaded options are used on a page, and stores that data at the end of page render. It keeps an array of options that it has seen as being used. On the admin page, it compares all the autoloaded options to the array of stored options, and shows the autoloaded options that have not been used as you were browsing the site. If you&#8217;ve been to every page on your site, or you&#8217;ve kept the plugin around for a week or so, this means that those options probably don&#8217;t need to be autoloaded.<\/p>\n<h3>How to use this plugin<\/h3>\n<p>Install this plugin, and go through your entire site. Best is to use it normally for a couple of days, or to visit every page on your site and in your admin manually. Then go to the plugin&#8217;s settings screen, and go through the unused options. You can either decide to remove an unused option (they might for instance be for plugins you no longer use), or to set it to not autoload. The latter action is much less destructive: it&#8217;ll still be there, but it just won&#8217;t be autoloaded.<\/p>\n",
+        "installation": "<ol>\n<li>Search for AAA Option Optimizer on the repository.<\/li>\n<li>Install the plugin.<\/li>\n<li>Wait a week or so. Or, if you&#8217;re in a hurry, click around on pages on your site, be sure to try and hit every page on your site and in your admin.<\/li>\n<li>Go to the plugin&#8217;s admin page and optimize your option usage.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='why%20the%20aaa%20prefix%20in%20the%20plugin%20name%3F'>\nWhy the AAA prefix in the plugin name?\n<\/h4>\n<p>\n<p>Because the plugin needs to measure options being loaded, it benefits from being loaded itself first. As WordPress loads plugins alphabetically,<br \/>\nstarting the name with AAA made sense.<\/p>\n<\/p>\n<dt id='do%20i%20need%20to%20take%20precautions%3F'>\nDo I need to take precautions?\n<\/h4>\n<p>\n<p>Yes!! Backup your database.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0<\/h4>\n<p>Initial release on GitHub and WordPress.org.<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/aaa-option-optimizer\/assets\/screenshot-1.png?rev=3071105\"><img src=\"https:\/\/ps.w.org\/aaa-option-optimizer\/assets\/screenshot-1.png?rev=3071105\" alt=\"Screenshot of the admin screen.\"><\/a><p>Screenshot of the admin screen.<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Plugin that tracks autoloaded options usage and allows the user to optimize them.",
+    "description": "<p>This plugin tracks which of the autoloaded options are used on a page, and stores that data at the end of page render. It keeps an array of options that it has seen as being used. On the admin page, it compares all the autoloaded options to the array of stored options, and shows the autoloaded options that have not been used as you were browsing the site. If you&#8217;ve been to every page on your site, or you&#8217;ve kept the plugin around for a week or so, this means that those options probably don&#8217;t need to be autoloaded.<\/p>\n<h3>How to use this plugin<\/h3>\n<p>Install this plugin, and go through your entire site. Best is to use it normally for a couple of days, or to visit every page on your site and in your admin manually. Then go to the plugin&#8217;s settings screen, and go through the unused options. You can either decide to remove an unused option (they might for instance be for plugins you no longer use), or to set it to not autoload. The latter action is much less destructive: it&#8217;ll still be there, but it just won&#8217;t be autoloaded.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/aaa-option-optimizer.1.0.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/aaa-option-optimizer\/assets\/screenshot-1.png?rev=3071105",
+            "caption": "Screenshot of the admin screen."
+        }
+    },
+    "tags": {
+        "cleanup": "cleanup",
+        "database": "database",
+        "options": "options"
+    },
+    "stable_tag": "1.0",
+    "versions": {
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/aaa-option-optimizer.1.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/aaa-option-optimizer.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/aaa-option-optimizer\/assets\/banner-772x250.jpg?rev=3071105",
+        "high": "https:\/\/ps.w.org\/aaa-option-optimizer\/assets\/banner-1544x500.jpg?rev=3071105"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/aaa-option-optimizer\/assets\/icon-128x128.png?rev=3071105",
+        "2x": "https:\/\/ps.w.org\/aaa-option-optimizer\/assets\/icon-256x256.png?rev=3071105"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

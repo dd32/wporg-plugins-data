@@ -1,0 +1,211 @@
+{
+    "name": "Hizzle Slideshows",
+    "slug": "hizzle-slideshows",
+    "version": "1.0.3",
+    "author": "<a href=\"https:\/\/hizzle.co\">Hizzle<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/hizzlewp\/",
+    "contributors": {
+        "picocodes": {
+            "profile": "https:\/\/profiles.wordpress.org\/picocodes\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2f2b886bd8490e9ef5571279c20ba904?s=96&d=monsterid&r=g",
+            "display_name": "Brian Mutende"
+        },
+        "mutendebrian": {
+            "profile": "https:\/\/profiles.wordpress.org\/mutendebrian\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/74d4041b9d7c1688bdacb65ef1f17e7a?s=96&d=monsterid&r=g",
+            "display_name": "mutendebrian"
+        },
+        "hizzlewp": {
+            "profile": "https:\/\/profiles.wordpress.org\/hizzlewp\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/7ca979282fb36c9b9fc78221e9890501?s=96&d=monsterid&r=g",
+            "display_name": "hizzlewp"
+        },
+        "lewisushindi": {
+            "profile": "https:\/\/profiles.wordpress.org\/lewisushindi\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/1bf17a1bff5660d4e9a7a873fe819518?s=96&d=monsterid&r=g",
+            "display_name": "Lewis Ushindi"
+        }
+    },
+    "requires": "6.0",
+    "tested": "6.5.2",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/hizzle-slideshows\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 888,
+    "last_updated": "2024-03-25 12:05pm GMT",
+    "added": "2023-06-13",
+    "homepage": "https:\/\/hizzle.co\/slideshows",
+    "sections": {
+        "description": "<p>Unleash the power of visual storytelling with <strong>Hizzle Slideshows<\/strong> \u2013 a lightweight plugin designed to elevate your content presentation to new heights.<\/p>\n<h3>Effortless Slide Creation<\/h3>\n<p>With Hizzle Slideshows, crafting engaging slideshows is as simple as a few clicks. Seamlessly integrated with the WordPress block editor, you can add slides to your posts or pages with ease.<\/p>\n<h3>Tailor to Your Needs<\/h3>\n<p>Whether you&#8217;re showcasing a product gallery, presenting a step-by-step tutorial, or adding an interactive element to your content, our plugin offers unparalleled flexibility. Customize each slide to perfectly match your vision.<\/p>\n<h3>Intuitive Interface<\/h3>\n<p>Our user-friendly interface makes adding content a breeze. Insert images, text, videos, or any other block effortlessly \u2013 no coding skills required.<\/p>\n<h3>Fully Responsive<\/h3>\n<p>Rest assured that your slideshows will look stunning on any device. Hizzle Slideshows are optimized for responsiveness, ensuring a seamless user experience across desktops, tablets, and smartphones.<\/p>\n<h3>Lightning-Fast Performance<\/h3>\n<p>We understand the importance of speed in today&#8217;s digital landscape. That&#8217;s why our plugin is optimized for performance, guaranteeing lightning-fast loading times and an immersive browsing experience for your audience.<\/p>\n<h3>Convert Anything into Stunning Slideshows<\/h3>\n<p><strong>Hizzle Slideshows<\/strong> empowers you to effortlessly create captivating slideshows for your WordPress website.<\/p>\n<h3>Need Help?<\/h3>\n<p>For support and assistance, visit our support forum on this page.<\/p>\n",
+        "installation": "<ol>\n<li>Go to your WordPress Dashboard.<\/li>\n<li>Navigate to Plugins -&gt; Add New.<\/li>\n<li>Search for <strong>Hizzle Slideshows<\/strong>.<\/li>\n<li>Click the &#8220;Install Now&#8221; button.<\/li>\n<li>Once installed, activate the plugin via the &#8220;Activate Plugin&#8221; link.<\/li>\n<\/ol>\n",
+        "changelog": "<h4>1.0.3<\/h4>\n<ul>\n<li>[ENHANCEMENT] Added 5+ filters for more customization.<\/li>\n<li>[NEW] Freemius integration!<\/li>\n<li>[FIX] Bug fixes and enhancements.<\/li>\n<li>[NEW] Added blueprint.json file for users&#8217; preview in WordPress.<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>[NEW] Added plugin menu for easier access.<\/li>\n<li>[NEW] Introduced a help submenu page for user guidance.<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Initial Release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/hizzle-slideshows\/assets\/screenshot-1.png?rev=2925040\"><img src=\"https:\/\/ps.w.org\/hizzle-slideshows\/assets\/screenshot-1.png?rev=2925040\" alt=\"Sample slideshow (front-end)\"><\/a><p>Sample slideshow (front-end)<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/hizzle-slideshows\/assets\/screenshot-2.png?rev=3058283\"><img src=\"https:\/\/ps.w.org\/hizzle-slideshows\/assets\/screenshot-2.png?rev=3058283\" alt=\"Add as many slides as you want\"><\/a><p>Add as many slides as you want<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Unleash the power of visual storytelling with Hizzle Slideshows \u2013 a lightweight plugin designed to elevate your content presentation to new heights.",
+    "description": "<p>Unleash the power of visual storytelling with <strong>Hizzle Slideshows<\/strong> \u2013 a lightweight plugin designed to elevate your content presentation to new heights.<\/p>\n<h3>Effortless Slide Creation<\/h3>\n<p>With Hizzle Slideshows, crafting engaging slideshows is as simple as a few clicks. Seamlessly integrated with the WordPress block editor, you can add slides to your posts or pages with ease.<\/p>\n<h3>Tailor to Your Needs<\/h3>\n<p>Whether you&#8217;re showcasing a product gallery, presenting a step-by-step tutorial, or adding an interactive element to your content, our plugin offers unparalleled flexibility. Customize each slide to perfectly match your vision.<\/p>\n<h3>Intuitive Interface<\/h3>\n<p>Our user-friendly interface makes adding content a breeze. Insert images, text, videos, or any other block effortlessly \u2013 no coding skills required.<\/p>\n<h3>Fully Responsive<\/h3>\n<p>Rest assured that your slideshows will look stunning on any device. Hizzle Slideshows are optimized for responsiveness, ensuring a seamless user experience across desktops, tablets, and smartphones.<\/p>\n<h3>Lightning-Fast Performance<\/h3>\n<p>We understand the importance of speed in today&#8217;s digital landscape. That&#8217;s why our plugin is optimized for performance, guaranteeing lightning-fast loading times and an immersive browsing experience for your audience.<\/p>\n<h3>Convert Anything into Stunning Slideshows<\/h3>\n<p><strong>Hizzle Slideshows<\/strong> empowers you to effortlessly create captivating slideshows for your WordPress website.<\/p>\n<h3>Need Help?<\/h3>\n<p>For support and assistance, visit our support forum on this page.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/hizzle-slideshows.1.0.3.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/hizzle-slideshows\/assets\/screenshot-1.png?rev=2925040",
+            "caption": "Sample slideshow (front-end)"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/hizzle-slideshows\/assets\/screenshot-2.png?rev=3058283",
+            "caption": "Add as many slides as you want"
+        }
+    },
+    "tags": {
+        "block": "block",
+        "gallery": "gallery",
+        "slider": "slider",
+        "slideshow": "slideshow",
+        "testimonials": "testimonials"
+    },
+    "stable_tag": "1.0.3",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/hizzle-slideshows.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/hizzle-slideshows.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/hizzle-slideshows.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/hizzle-slideshows.1.0.3.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/hizzle-slideshows.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/noptin.com\/products\/?utm_source=wp-repo&utm_medium=donate&utm_campaign=readme",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/hizzle-slideshows\/assets\/icon-256x256.png?rev=2925040",
+        "2x": "https:\/\/ps.w.org\/hizzle-slideshows\/assets\/icon-256x256.png?rev=2925040"
+    },
+    "blocks": {
+        "hizzle-slideshows\/slideshow": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 2,
+            "name": "hizzle-slideshows\/slideshow",
+            "title": "Slideshow",
+            "description": "Displays a slideshow of images, testimonials, or other content",
+            "category": "design",
+            "keywords": [
+                "slideshow",
+                "slide",
+                "testimonial",
+                "quote",
+                "gallery"
+            ],
+            "icon": "admin-page",
+            "version": "1.0.0",
+            "textdomain": "hizzle-slideshows",
+            "attributes": {
+                "slidesPerView": {
+                    "type": "number",
+                    "default": 1
+                },
+                "showArrows": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "pagination": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "autoplay": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "isVertical": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "type": {
+                    "type": "string",
+                    "default": "slide"
+                }
+            },
+            "supports": {
+                "anchor": true,
+                "align": true,
+                "ariaLabel": true,
+                "color": {
+                    "gradients": true,
+                    "link": true
+                },
+                "dimensions": {
+                    "minHeight": true
+                },
+                "spacing": {
+                    "margin": true
+                }
+            },
+            "editorScript": "file:.\/index.js",
+            "script": "file:.\/view.js",
+            "style": "file:.\/view.css"
+        },
+        "hizzle-slideshows\/slide": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 2,
+            "name": "hizzle-slideshows\/slide",
+            "title": "Slide",
+            "description": "Displays a single slide in a slideshow.",
+            "category": "design",
+            "keywords": [
+                "slideshow",
+                "slide",
+                "testimonial",
+                "quote",
+                "gallery"
+            ],
+            "icon": "media-default",
+            "parent": [
+                "hizzle-slideshows\/slideshow"
+            ],
+            "version": "1.0.0",
+            "textdomain": "hizzle-slideshows",
+            "attributes": {},
+            "supports": {
+                "anchor": true,
+                "align": false,
+                "alignWide": false,
+                "color": {
+                    "gradients": true,
+                    "link": true
+                },
+                "typography": {
+                    "fontSize": true,
+                    "lineHeight": true
+                },
+                "reusable": false,
+                "spacing": {
+                    "padding": true
+                }
+            },
+            "editorScript": "file:.\/index.js"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 0,
+    "blueprints": [
+        {
+            "filename": "blueprint.json",
+            "url": "https:\/\/wordpress.org\/plugins\/wp-json\/plugins\/v1\/plugin\/hizzle-slideshows\/blueprint.json?rev=3058283"
+        }
+    ],
+    "preview_link": "",
+    "language_packs": []
+}

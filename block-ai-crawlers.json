@@ -1,0 +1,76 @@
+{
+    "name": "Block AI Crawlers",
+    "slug": "block-ai-crawlers",
+    "version": "1.1.0",
+    "author": "<a href=\"https:\/\/www.bobmatyas.com\">Bob Matyas<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/lastsplash\/",
+    "contributors": {
+        "lastsplash": {
+            "profile": "https:\/\/profiles.wordpress.org\/lastsplash\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3e9a95ee050c05827953b7f36cb43702?s=96&d=monsterid&r=g",
+            "display_name": "lastsplash (a11n)"
+        }
+    },
+    "requires": "5.6",
+    "tested": "6.5.2",
+    "requires_php": "5.6",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/block-ai-crawlers\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 175,
+    "last_updated": "2024-04-14 9:42pm GMT",
+    "added": "2024-03-13",
+    "homepage": "",
+    "sections": {
+        "description": "<p>This plugin tells AI crawlers not to index your site.<\/p>\n<p>It uses <code>robots.txt<\/code> to tell the following crawlers not to index your site:<\/p>\n<ul>\n<li><strong>ChatGPT and GPTBot<\/strong> &#8211; Crawlers and web browser used by OpenAI<\/li>\n<li><strong>Google Extended<\/strong> &#8211; Crawler used for Google&#8217;s Gemini (formerly Google Bard) AI training<\/li>\n<li><strong>FacebookBot<\/strong> &#8211; Crawler used for Facebook&#8217;s AI training<\/li>\n<li><strong>CommonCrawl<\/strong> &#8211; Crawler that compiles datasets used to train AI models<\/li>\n<li><strong>Anthropic AI<\/strong> &#8211; Crawler used by Anthropic<\/li>\n<li><strong>Omgili<\/strong> &#8211; Crawler used by Omgili for AI training<\/li>\n<li><strong>Bytespider<\/strong> &#8211; Crawler used by TikTolk for AI training <\/li>\n<\/ul>\n<p>Additionally, the plugin adds the &#8220;noai, noimageai&#8221; directive to your site&#8217;s meta tags. These signals tell AI bots not to use your content as part of their data sets.<\/p>\n<p><em>Note:<\/em> While the plugin adds these markers, it is up to the crawlers themeselves to honor these requests.<\/p>\n",
+        "installation": "<ol>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='how%20does%20this%20work%3F'>\nHow does this work?\n<\/h4>\n<p>\n<p>The plugin adds directives to the <code>robots.txt<\/code> file to tell AI crawlers that they shouldn&#8217;t index your site. It also adds the <code>noai<\/code> meta tag to your site&#8217;s header to do the same.<\/p>\n<\/p>\n<dt id='what%20if%20i%20already%20have%20a%20%60robots.txt%60%20file%20on%20my%20web%20server%3F'>\nWhat if I already have a `robots.txt` file on my web server?\n<\/h4>\n<p>\n<p>If you have a physical <code>robots.txt<\/code> file on your web server, you won&#8217;t be able to activate this plugin. The plugin only works when using WordPress&#8217; built-in virtual <code>robots.txt<\/code>.<\/p>\n<\/p>\n<dt id='will%20this%20work%20with%20other%20plugins%20that%20modify%20the%20virtual%20%60robots.txt%60%3F'>\nWill this work with other plugins that modify the virtual `robots.txt`?\n<\/h4>\n<p>\n<p>It should in theory. It just appends the directives to the <code>robots.txt<\/code> file.<\/p>\n<\/p>\n<dt id='will%20this%20remove%20my%20site%20from%20existing%20data%20sets%3F'>\nWill this remove my site from existing data sets?\n<\/h4>\n<p>\n<p>Unfortunately, no. However, it does tell bots that your site shouldn&#8217;t be included in the future.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.2.0<\/h4>\n<ul>\n<li>Block Cohere crawler<\/li>\n<li>Block DiffBot crawler<\/li>\n<li>Block Anthropic AI crawler<\/li>\n<li>Indicate compatibility w\/WordPress 6.5.2<\/li>\n<\/ul>\n<h4>1.1.0<\/h4>\n<ul>\n<li>Blocks additional crawlers.<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<p>Initial Release.<\/p>\n",
+        "reviews": ""
+    },
+    "short_description": "Tell AI crawlers that they shouldn&#039;t access your site.",
+    "description": "<p>This plugin tells AI crawlers not to index your site.<\/p>\n<p>It uses <code>robots.txt<\/code> to tell the following crawlers not to index your site:<\/p>\n<ul>\n<li><strong>ChatGPT and GPTBot<\/strong> &#8211; Crawlers and web browser used by OpenAI<\/li>\n<li><strong>Google Extended<\/strong> &#8211; Crawler used for Google&#8217;s Gemini (formerly Google Bard) AI training<\/li>\n<li><strong>FacebookBot<\/strong> &#8211; Crawler used for Facebook&#8217;s AI training<\/li>\n<li><strong>CommonCrawl<\/strong> &#8211; Crawler that compiles datasets used to train AI models<\/li>\n<li><strong>Anthropic AI<\/strong> &#8211; Crawler used by Anthropic<\/li>\n<li><strong>Omgili<\/strong> &#8211; Crawler used by Omgili for AI training<\/li>\n<li><strong>Bytespider<\/strong> &#8211; Crawler used by TikTolk for AI training <\/li>\n<\/ul>\n<p>Additionally, the plugin adds the &#8220;noai, noimageai&#8221; directive to your site&#8217;s meta tags. These signals tell AI bots not to use your content as part of their data sets.<\/p>\n<p><em>Note:<\/em> While the plugin adds these markers, it is up to the crawlers themeselves to honor these requests.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/block-ai-crawlers.1.2.0.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "ai": "AI",
+        "chatgpt": "ChatGPT",
+        "crawlers": "crawlers",
+        "robots-txt": "robots.txt"
+    },
+    "stable_tag": "1.2.0",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/block-ai-crawlers.1.0.0.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/block-ai-crawlers.1.1.0.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/block-ai-crawlers.1.2.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/block-ai-crawlers.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "default": "https:\/\/s.w.org\/plugins\/geopattern-icon\/block-ai-crawlers.svg"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

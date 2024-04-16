@@ -1,0 +1,74 @@
+{
+    "name": "Plum: Spin Wheel &amp; Email Pop-up",
+    "slug": "qodeblock",
+    "version": "2.0",
+    "author": "Upqode",
+    "author_profile": "https:\/\/profiles.wordpress.org\/qodeblock\/",
+    "contributors": {
+        "upqode": {
+            "profile": "https:\/\/profiles.wordpress.org\/upqode\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/b5d486d5d0d9754b488dab7b6ecd683f?s=96&d=monsterid&r=g",
+            "display_name": "upqode"
+        }
+    },
+    "requires": "4.8",
+    "tested": "6.4.4",
+    "requires_php": "7.0.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/qodeblock\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 6000,
+    "downloaded": 89021,
+    "last_updated": "2023-12-26 1:26pm GMT",
+    "added": "2019-06-14",
+    "homepage": "https:\/\/plumpopup.com\/",
+    "sections": {
+        "description": "<p>We appreciate your interest in our Plum plugin, a thoughtfully crafted tool designed to empower users in effortlessly creating captivating popups without the need for coding. In just 5 minutes, users can generate various types of popups, including forms, promotional popups, discount popups, gamified popups, and popups designed to enhance email lists.<\/p>\n<ul>\n<li><a href=\"https:\/\/plumpopup.com\/solutions\/collect-form-submission\" rel=\"nofollow ugc\">Seamlessly Collect Form Submissions<\/a>:<br \/>\nEasily gather valuable customer data through interactive popups, simplifying lead generation. Customize form fields, set conditions for displaying each field, and create multi-step forms.<\/li>\n<li><a href=\"https:\/\/plumpopup.com\/solutions\/promote-products-offers\" rel=\"nofollow ugc\">Promote Products &amp; Offers<\/a>:<br \/>\nHighlight your latest products and enticing offers with eye-catching popups that capture attention and drive sales. Include links to specific products within your popup to stimulate purchases.<\/li>\n<li><a href=\"https:\/\/plumpopup.com\/solutions\/increase-sales-conversion\" rel=\"nofollow ugc\">Increase Sales Conversion<\/a>:<br \/>\nHarness the power of targeted popups to guide visitors through the buying journey, converting clicks into sales. Incorporate exit popups and trigger popups on specific pages for maximum impact.<\/li>\n<li><a href=\"https:\/\/plumpopup.com\/solutions\/turn-your-campaign-into-a-game\" rel=\"nofollow ugc\">Transform Campaigns with Spin the Wheel<\/a>:<br \/>\nInfuse excitement into your campaigns by incorporating a spin-the-wheel element. Keep users engaged and eager to participate for a chance to win exclusive offers. Customize the wheel&#8217;s color, discount, and section quantity.<\/li>\n<li><a href=\"https:\/\/plumpopup.com\/solutions\/grow-your-email-list\" rel=\"nofollow ugc\">Grow Your Email List<\/a>:<br \/>\nBuild a robust email subscriber base with attention-grabbing popups that entice visitors to sign up and stay informed. Collect customer emails and automate email campaigns for increased engagement.<\/li>\n<li><a href=\"https:\/\/plumpopup.com\/solutions\/increase-phone-calls\" rel=\"nofollow ugc\">Enable Callback Requests<\/a>:<br \/>\nProvide users with a convenient option to leave their phone number for a callback. This personalized approach boosts engagement and encourages direct interaction.<\/li>\n<li><a href=\"https:\/\/plumpopup.com\/solutions\/foster-social-sharing\" rel=\"nofollow ugc\">Foster Social Sharing<\/a>:<br \/>\nAmplify your online reach with social-sharing-enabled popups, allowing users to spread the word across their networks.<\/li>\n<li><a href=\"https:\/\/plumpopup.com\/solutions\/increase-user-engagement\" rel=\"nofollow ugc\">Enhance User Engagement<\/a>:<br \/>\nCaptivate your audience with visually appealing popups that provide value, information, or entertainment. We&#8217;re excited about the possibilities Plum offers and look forward to assisting you in creating engaging and effective popups for your website.<\/li>\n<li>Simplify Event Announcements(https:\/\/plumpopup.com\/solutions\/event-announcement):<br \/>\nSeamlessly communicate upcoming events and announcements using attention-commanding popups that ensure your message gets heard.<\/li>\n<\/ul>\n<p>Revolutionize the way you connect with your audience and achieve unprecedented results. Try our webflow app today and experience the transformation firsthand. Your journey to higher engagement, conversions, and success starts here.<\/p>\n<p>YOU CAN USE THE PLUM APP TO CREATE THE NEXT POPUPS:<\/p>\n<ul>\n<li><a href=\"https:\/\/plumpopup.com\/showcase\" rel=\"nofollow ugc\">Promote Product&amp;Offers<\/a><\/li>\n<li><a href=\"https:\/\/plumpopup.com\/showcase\" rel=\"nofollow ugc\">Gamified Popups<\/a><\/li>\n<li><a href=\"https:\/\/plumpopup.com\/showcase\" rel=\"nofollow ugc\">Show Up Announcement<\/a><\/li>\n<li><a href=\"https:\/\/plumpopup.com\/showcase\" rel=\"nofollow ugc\">Get More Phone Calls<\/a><\/li>\n<li><a href=\"https:\/\/plumpopup.com\/showcase\" rel=\"nofollow ugc\">Grow Email List<\/a><\/li>\n<li><a href=\"https:\/\/plumpopup.com\/showcase\" rel=\"nofollow ugc\">Increase Sales Conversion<\/a><\/li>\n<li><a href=\"https:\/\/plumpopup.com\/showcase\" rel=\"nofollow ugc\">Accept Cookies<\/a><\/li>\n<\/ul>\n<p>and many more<\/p>\n",
+        "installation": "<p>This plugin can be installed directly from your site.<\/p>\n<ol>\n<li>Log in and navigate to _Plugins &rarr; Add New.<\/li>\n<li>Type &#8220;Plum&#8221; into the Search and hit Enter.<\/li>\n<li>Locate the Plum plugin in the list of search results and click <strong>Install Now<\/strong>.<\/li>\n<li>Once installed, click the Activate link.<\/li>\n<li>You will be redirected to the Plum Getting Started page.<\/li>\n<\/ol>\n<p>It can also be installed manually.<\/p>\n<ol>\n<li>Download the Plum plugin from WordPress.org.<\/li>\n<li>Unzip the package and move to your plugins directory.<\/li>\n<li>Log into WordPress and navigate to the Plugins screen.<\/li>\n<li>Locate Plum in the list and click the <em>Activate<\/em> link.<\/li>\n<li>You will be redirected to the Plum Getting Started page.<\/li>\n<\/ol>\n",
+        "changelog": "<h4>1.0.2<\/h4>\n<ul>\n<li>WP 5.8.1 compatible.<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>WP 5.2.3 compatible.<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Initial release.<\/li>\n<\/ul>\n",
+        "reviews": ""
+    },
+    "short_description": "Plum plugin: Create captivating popups effortlessly in 5 mins! Collect form submissions, promote products, boost sales, and grow your email list.",
+    "description": "<p>We appreciate your interest in our Plum plugin, a thoughtfully crafted tool designed to empower users in effortlessly creating captivating popups without the need for coding. In just 5 minutes, users can generate various types of popups, including forms, promotional popups, discount popups, gamified popups, and popups designed to enhance email lists.<\/p>\n<ul>\n<li><a href=\"https:\/\/plumpopup.com\/solutions\/collect-form-submission\" rel=\"nofollow ugc\">Seamlessly Collect Form Submissions<\/a>:<br \/>\nEasily gather valuable customer data through interactive popups, simplifying lead generation. Customize form fields, set conditions for displaying each field, and create multi-step forms.<\/li>\n<li><a href=\"https:\/\/plumpopup.com\/solutions\/promote-products-offers\" rel=\"nofollow ugc\">Promote Products &amp; Offers<\/a>:<br \/>\nHighlight your latest products and enticing offers with eye-catching popups that capture attention and drive sales. Include links to specific products within your popup to stimulate purchases.<\/li>\n<li><a href=\"https:\/\/plumpopup.com\/solutions\/increase-sales-conversion\" rel=\"nofollow ugc\">Increase Sales Conversion<\/a>:<br \/>\nHarness the power of targeted popups to guide visitors through the buying journey, converting clicks into sales. Incorporate exit popups and trigger popups on specific pages for maximum impact.<\/li>\n<li><a href=\"https:\/\/plumpopup.com\/solutions\/turn-your-campaign-into-a-game\" rel=\"nofollow ugc\">Transform Campaigns with Spin the Wheel<\/a>:<br \/>\nInfuse excitement into your campaigns by incorporating a spin-the-wheel element. Keep users engaged and eager to participate for a chance to win exclusive offers. Customize the wheel&#8217;s color, discount, and section quantity.<\/li>\n<li><a href=\"https:\/\/plumpopup.com\/solutions\/grow-your-email-list\" rel=\"nofollow ugc\">Grow Your Email List<\/a>:<br \/>\nBuild a robust email subscriber base with attention-grabbing popups that entice visitors to sign up and stay informed. Collect customer emails and automate email campaigns for increased engagement.<\/li>\n<li><a href=\"https:\/\/plumpopup.com\/solutions\/increase-phone-calls\" rel=\"nofollow ugc\">Enable Callback Requests<\/a>:<br \/>\nProvide users with a convenient option to leave their phone number for a callback. This personalized approach boosts engagement and encourages direct interaction.<\/li>\n<li><a href=\"https:\/\/plumpopup.com\/solutions\/foster-social-sharing\" rel=\"nofollow ugc\">Foster Social Sharing<\/a>:<br \/>\nAmplify your online reach with social-sharing-enabled popups, allowing users to spread the word across their networks.<\/li>\n<li><a href=\"https:\/\/plumpopup.com\/solutions\/increase-user-engagement\" rel=\"nofollow ugc\">Enhance User Engagement<\/a>:<br \/>\nCaptivate your audience with visually appealing popups that provide value, information, or entertainment. We&#8217;re excited about the possibilities Plum offers and look forward to assisting you in creating engaging and effective popups for your website.<\/li>\n<li>Simplify Event Announcements(https:\/\/plumpopup.com\/solutions\/event-announcement):<br \/>\nSeamlessly communicate upcoming events and announcements using attention-commanding popups that ensure your message gets heard.<\/li>\n<\/ul>\n<p>Revolutionize the way you connect with your audience and achieve unprecedented results. Try our webflow app today and experience the transformation firsthand. Your journey to higher engagement, conversions, and success starts here.<\/p>\n<p>YOU CAN USE THE PLUM APP TO CREATE THE NEXT POPUPS:<\/p>\n<ul>\n<li><a href=\"https:\/\/plumpopup.com\/showcase\" rel=\"nofollow ugc\">Promote Product&amp;Offers<\/a><\/li>\n<li><a href=\"https:\/\/plumpopup.com\/showcase\" rel=\"nofollow ugc\">Gamified Popups<\/a><\/li>\n<li><a href=\"https:\/\/plumpopup.com\/showcase\" rel=\"nofollow ugc\">Show Up Announcement<\/a><\/li>\n<li><a href=\"https:\/\/plumpopup.com\/showcase\" rel=\"nofollow ugc\">Get More Phone Calls<\/a><\/li>\n<li><a href=\"https:\/\/plumpopup.com\/showcase\" rel=\"nofollow ugc\">Grow Email List<\/a><\/li>\n<li><a href=\"https:\/\/plumpopup.com\/showcase\" rel=\"nofollow ugc\">Increase Sales Conversion<\/a><\/li>\n<li><a href=\"https:\/\/plumpopup.com\/showcase\" rel=\"nofollow ugc\">Accept Cookies<\/a><\/li>\n<\/ul>\n<p>and many more<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/qodeblock.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "exit-intent": "exit-intent",
+        "pop-up": "pop up",
+        "popup": "popup",
+        "popups": "popups",
+        "spin-wheel": "Spin Wheel"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/qodeblock\/assets\/banner-772x250.png?rev=3014357",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/qodeblock\/assets\/icon-128x128.png?rev=3014355"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

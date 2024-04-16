@@ -1,0 +1,77 @@
+{
+    "name": "Smart Copyright Year (Lite) &#8211; Auto Current Year Updater Shortcode",
+    "slug": "smart-copyright-year",
+    "version": "1.0.1",
+    "author": "<a href=\"https:\/\/www.nisarul.com\">Nisarul<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/nisarul\/",
+    "contributors": {
+        "nisarul": {
+            "profile": "https:\/\/profiles.wordpress.org\/nisarul\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/35143f39ee2a9e08d223397c50303e32?s=96&d=monsterid&r=g",
+            "display_name": "Nisaurl Amin Naim"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.3.4",
+    "requires_php": "5.6",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/smart-copyright-year\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 30,
+    "downloaded": 167,
+    "last_updated": "2023-10-31 12:40pm GMT",
+    "added": "2023-10-30",
+    "homepage": "https:\/\/wordpress.org\/plugins\/smart-copyright-year",
+    "sections": {
+        "description": "<p>Introducing the &#8220;Smart Copyright Year&#8221; plugin \u2013 your shortcut to a sleek and professional website! Tired of manually updating your copyright year? Wave goodbye to outdated info! Our nifty plugin is here to save the day.<\/p>\n<p>Just put the <strong>[year]<\/strong> shortcode in your copyright line, and voil\u00e0! Watch your copyright year update like magic, keeping your site fresh and current. No more hassle, no more outdated dates \u2013 just effortless style.<\/p>\n<h4>How to use (Guide)<\/h4>\n<p>Write &#8220;<strong>[year]<\/strong>&#8221; in your copyright line of content<br \/>\n<strong>Example:<\/strong> Copyright \u00a9 [year] WordPress. All Rights Reserved.<\/p>\n<h4>What is shortcode?<\/h4>\n<p><strong>Read how WordPress shortcode work:<\/strong> <a href=\"https:\/\/codex.wordpress.org\/Shortcode\" title=\"WordPress Codex\" rel=\"nofollow ugc\">WordPress Codex<\/a><\/p>\n",
+        "installation": "<ol>\n<li>Put the plugin files in the &#8216;\/wp-content\/plugins\/&#8217; folder, or just install it right from the WordPress add plugins page.<\/li>\n<li>Make the plugin active on the &#8216;Plugins&#8217; page in WordPress.<\/li>\n<li>Place the shortcode [year] wherever you can use it in WordPress.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='how%20do%20i%20use%20this%20plugin%3F'>\nHow do I use this plugin?\n<\/h4>\n<p>\n<p>Add &#8220;[year]&#8221; shortcode where you want to show the current year.<\/p>\n<\/p>\n<dt id='what%20is%20shortcode%3F'>\nWhat is shortcode?\n<\/h4>\n<p>\n<p><strong>Read how WordPress shortcode work:<\/strong> <a href=\"https:\/\/codex.wordpress.org\/Shortcode\" title=\"WordPress Codex\" rel=\"nofollow ugc\">WordPress Codex<\/a><\/p>\n<\/p>\n\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Simplified Usage with Minimal Code Impact<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/shahbaj07\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b6167d935189ace5e6886eea0e4b4e3e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b6167d935189ace5e6886eea0e4b4e3e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/shahbaj07\/\" class=\"reviewer-name\">shahbaj07<\/a> on <span class=\"review-date\">January 8, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The special part of the Smart Copyright Year plugin is, just use [year] anywhere and it works. And I've reviewed the code, and it's super tiny, preventing any bloat\u00a0on\u00a0my\u00a0site.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Smart Copyright Year is a super lite plugin which provides [year] shortcode to auto-display current year in copyright info.",
+    "description": "<p>Introducing the &#8220;Smart Copyright Year&#8221; plugin \u2013 your shortcut to a sleek and professional website! Tired of manually updating your copyright year? Wave goodbye to outdated info! Our nifty plugin is here to save the day.<\/p>\n<p>Just put the <strong>[year]<\/strong> shortcode in your copyright line, and voil\u00e0! Watch your copyright year update like magic, keeping your site fresh and current. No more hassle, no more outdated dates \u2013 just effortless style.<\/p>\n<h4>How to use (Guide)<\/h4>\n<p>Write &#8220;<strong>[year]<\/strong>&#8221; in your copyright line of content<br \/>\n<strong>Example:<\/strong> Copyright \u00a9 [year] WordPress. All Rights Reserved.<\/p>\n<h4>What is shortcode?<\/h4>\n<p><strong>Read how WordPress shortcode work:<\/strong> <a href=\"https:\/\/codex.wordpress.org\/Shortcode\" title=\"WordPress Codex\" rel=\"nofollow ugc\">WordPress Codex<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/smart-copyright-year.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "auto-year-shortcode": "auto year shortcode",
+        "current-year": "current year",
+        "smart-year": "smart year",
+        "year": "year",
+        "year-shortcode": "year shortcode"
+    },
+    "stable_tag": "trunk",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/smart-copyright-year.1.0.0.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/nisarul.com",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/smart-copyright-year\/assets\/banner-772x250.png?rev=2986401",
+        "high": "https:\/\/ps.w.org\/smart-copyright-year\/assets\/banner-1544x500.png?rev=2986423"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/smart-copyright-year\/assets\/icon-128x128.gif?rev=2986401",
+        "2x": "https:\/\/ps.w.org\/smart-copyright-year\/assets\/icon-256x256.gif?rev=2986401"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

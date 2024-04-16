@@ -1,0 +1,77 @@
+{
+    "name": "Biometric Authentication",
+    "slug": "biometric-authentication",
+    "version": "0.3.6",
+    "author": "<a href=\"https:\/\/github.com\/ivankristianto\/\">Ivan Kristianto<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/ivankristianto\/",
+    "contributors": {
+        "ivankristianto": {
+            "profile": "https:\/\/profiles.wordpress.org\/ivankristianto\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/6685a72b801dc159a59ed45887f0e8b2?s=96&d=monsterid&r=g",
+            "display_name": "Ivan Kristianto"
+        }
+    },
+    "requires": "6.1",
+    "tested": "6.4.4",
+    "requires_php": "8.1",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/biometric-authentication\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 79,
+    "last_updated": "2024-04-05 4:25am GMT",
+    "added": "2024-04-04",
+    "homepage": "https:\/\/github.com\/ivankristianto\/wp-passkey\/",
+    "sections": {
+        "description": "<p>This plugin allows you to use biometric authentication to login to your WordPress site, the technology is called passkey.<br \/>\nYou can create your passkey from your profile screen. Once you have created your passkey, you can use it to login to your WordPress site.<br \/>\nYou can still use your username and password to login to your site as fallback.<\/p>\n<p>Passkeys are a safer and easier alternative to passwords. With passkeys, users can sign in to apps and websites with a biometric sensor (such as a fingerprint or facial recognition), PIN, or pattern, freeing them from having to remember and manage passwords.<\/p>\n<h3>GitHub Repository<\/h3>\n<p>You can find the source code of this plugin on <a href=\"https:\/\/github.com\/ivankristianto\/wp-passkey\/\" rel=\"nofollow ugc\">GitHub<\/a><\/p>\n",
+        "installation": "<ol>\n<li>Upload the plugin files to the <code>\/wp-content\/plugins\/biometric-authentication<\/code> directory, or install the plugin through the WordPress plugins screen directly.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; screen in WordPress<\/li>\n<li>To create your first passkey, you can go to your Admin &gt; Profile screen.<\/li>\n<li>Now you can login with your passkey.<\/li>\n<\/ol>\n",
+        "faq": "<p>To be added later, in the meantime file your question through <a href=\"https:\/\/github.com\/ivankristianto\/wp-passkey\/issues\" rel=\"nofollow ugc\">GitHub Issue<\/a><\/p>\n",
+        "changelog": "<h3>0.3.1<\/h3>\n<ul>\n<li>Update plugin name<\/li>\n<li>Update dependencies<\/li>\n<li>Fix code standards<\/li>\n<\/ul>\n<h3>0.2.1<\/h3>\n<ul>\n<li>Fix release GitHub action.<\/li>\n<\/ul>\n<h3>0.2.0<\/h3>\n<ul>\n<li>Allow user to revoke passkey.<\/li>\n<li>Add name &amp; created date as extra data for passkey entity.<\/li>\n<li>Fix name override when signing in with passkey.<\/li>\n<\/ul>\n<h3>0.1.0<\/h3>\n<ul>\n<li>Initial release.<\/li>\n<\/ul>\n",
+        "reviews": ""
+    },
+    "short_description": "Provides biometric authentication for WordPress",
+    "description": "<p>This plugin allows you to use biometric authentication to login to your WordPress site, the technology is called passkey.<br \/>\nYou can create your passkey from your profile screen. Once you have created your passkey, you can use it to login to your WordPress site.<br \/>\nYou can still use your username and password to login to your site as fallback.<\/p>\n<p>Passkeys are a safer and easier alternative to passwords. With passkeys, users can sign in to apps and websites with a biometric sensor (such as a fingerprint or facial recognition), PIN, or pattern, freeing them from having to remember and manage passwords.<\/p>\n<h3>GitHub Repository<\/h3>\n<p>You can find the source code of this plugin on <a href=\"https:\/\/github.com\/ivankristianto\/wp-passkey\/\" rel=\"nofollow ugc\">GitHub<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/biometric-authentication.0.3.6.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "authentication": "authentication",
+        "biometric": "biometric",
+        "passkey": "passkey",
+        "passwordless": "passwordless",
+        "security": "security"
+    },
+    "stable_tag": "0.3.6",
+    "versions": {
+        "0.3.4": "https:\/\/downloads.wordpress.org\/plugin\/biometric-authentication.0.3.4.zip",
+        "0.3.5": "https:\/\/downloads.wordpress.org\/plugin\/biometric-authentication.0.3.5.zip",
+        "0.3.6": "https:\/\/downloads.wordpress.org\/plugin\/biometric-authentication.0.3.6.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/biometric-authentication.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "default": "https:\/\/s.w.org\/plugins\/geopattern-icon\/biometric-authentication.svg"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

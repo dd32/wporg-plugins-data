@@ -1,0 +1,74 @@
+{
+    "name": "Skyword Publishing API",
+    "slug": "skyword-publishing-api",
+    "version": "1.0.8",
+    "author": "<a href=\"http:\/\/www.skyword.com\">Skyword, Inc.<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/skyword\/",
+    "contributors": {
+        "skyword": {
+            "profile": "https:\/\/profiles.wordpress.org\/skyword\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3ae455b5f2bb2ff2c528c1c2d15debce?s=96&d=monsterid&r=g",
+            "display_name": "skyword"
+        }
+    },
+    "requires": "3.3",
+    "tested": "6.2.5",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/skyword-publishing-api\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 80,
+    "downloaded": 2063,
+    "last_updated": "2023-11-02 8:50pm GMT",
+    "added": "2019-07-09",
+    "homepage": "",
+    "sections": {
+        "description": "<p><a href=\"http:\/\/www.skyword.com\/\" rel=\"nofollow ugc\">Skyword360<\/a> is the leading comprehensive content production platform. Skyword360 enables brands, retailers, media companies, and agencies to acquire and engage customers by efficiently producing quality content optimized for search and the social web. Skyword integrates its clients&#8217; WordPress sites with the Skyword360 platform using this REST implementation of its Publishing API. With this integration, Skyword360 makes it easy to produce, optimize, and promote content at any scale to create meaningful, lasting relationships with customers. Contact Skyword at https:\/\/www.skyword.com\/contact-us\/.<\/p>\n",
+        "changelog": "<h4>1.0.8<\/h4>\n<ul>\n<li>Changes to taxonomy processing<\/li>\n<li>More reliable version reporting<\/li>\n<\/ul>\n<h4>1.0.7<\/h4>\n<ul>\n<li>Sanitized Sitemap and Pagination functions<\/li>\n<li>Added additional metadata for images<\/li>\n<\/ul>\n<h4>1.0.6<\/h4>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Connects us to WordPress<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/skyword\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/3ae455b5f2bb2ff2c528c1c2d15debce?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/3ae455b5f2bb2ff2c528c1c2d15debce?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/skyword\/\" class=\"reviewer-name\">skyword<\/a> on <span class=\"review-date\">March 11, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Publishing to WordPress from Skyword360 is as simple as clicking a button.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Allows integration with the Skyword360 publishing platform.",
+    "description": "<p><a href=\"http:\/\/www.skyword.com\/\" rel=\"nofollow ugc\">Skyword360<\/a> is the leading comprehensive content production platform. Skyword360 enables brands, retailers, media companies, and agencies to acquire and engage customers by efficiently producing quality content optimized for search and the social web. Skyword integrates its clients&#8217; WordPress sites with the Skyword360 platform using this REST implementation of its Publishing API. With this integration, Skyword360 makes it easy to produce, optimize, and promote content at any scale to create meaningful, lasting relationships with customers. Contact Skyword at https:\/\/www.skyword.com\/contact-us\/.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/skyword-publishing-api.1.0.8.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "api": "api",
+        "skyword": "skyword"
+    },
+    "stable_tag": "1.0.8",
+    "versions": {
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/skyword-publishing-api.1.0.5.zip",
+        "1.0.6": "https:\/\/downloads.wordpress.org\/plugin\/skyword-publishing-api.1.0.6.zip",
+        "1.0.7": "https:\/\/downloads.wordpress.org\/plugin\/skyword-publishing-api.1.0.7.zip",
+        "1.0.8": "https:\/\/downloads.wordpress.org\/plugin\/skyword-publishing-api.1.0.8.zip",
+        "1.0.9": "https:\/\/downloads.wordpress.org\/plugin\/skyword-publishing-api.1.0.9.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/skyword-publishing-api.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "default": "https:\/\/s.w.org\/plugins\/geopattern-icon\/skyword-publishing-api.svg"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

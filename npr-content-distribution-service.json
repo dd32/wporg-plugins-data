@@ -1,0 +1,87 @@
+{
+    "name": "NPR Content Distribution Service",
+    "slug": "npr-content-distribution-service",
+    "version": "1.0.5",
+    "author": "Open Public Media",
+    "author_profile": "https:\/\/profiles.wordpress.org\/jwcounts\/",
+    "contributors": {
+        "jwcounts": {
+            "profile": "https:\/\/profiles.wordpress.org\/jwcounts\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/14c7a4a2768211bfd3c449db48b2885c?s=96&d=monsterid&r=g",
+            "display_name": "Jared Counts"
+        }
+    },
+    "requires": "3.8.14",
+    "tested": "6.4.4",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/npr-content-distribution-service\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 521,
+    "last_updated": "2024-03-11 4:51pm GMT",
+    "added": "2024-01-18",
+    "homepage": "",
+    "sections": {
+        "description": "<p>The <a href=\"https:\/\/npr.github.io\/content-distribution-service\/\" rel=\"nofollow ugc\">NPR Content Distribution System (CDS)<\/a> Plugin provides push and pull functionality with the NPR CDS along with a user-friendly administrative interface.<\/p>\n<p>NPR&#8217;s CDS is a content API, which essentially provides a structured way for other computer applications to get NPR stories in a predictable, flexible and powerful way. The content that is available includes audio from most NPR programs dating back to 1995 as well as text, images and other web-only content from NPR and NPR member stations. This archive consists of over 250,000 stories that are grouped into more than 5,000 different aggregations.<\/p>\n<p>This plugin also allows you to push your content to the NPR CDS, so that it can be republished by NPR or other NPR member stations.<\/p>\n<p>Access to the NPR CDS requires a bearer token, provided by NPR. If you are an NPR member station or are working with an NPR member station and do not know your key, please <a href=\"https:\/\/studio.npr.org\" rel=\"nofollow ugc\">ask NPR station relations for help<\/a>.<\/p>\n<p>Usage of this plugin is governed by <a href=\"https:\/\/www.npr.org\/about-npr\/179876898\/terms-of-use\" rel=\"nofollow ugc\">NPR&#8217;s Terms of Use<\/a>, and more specifically their <a href=\"https:\/\/www.npr.org\/about-npr\/179876898\/terms-of-use#APIContent\" rel=\"nofollow ugc\">API Usage terms<\/a>.<\/p>\n<p>The WordPress plugin was originally developed as an Open Source plugin by NPR and is now supported by developers with NPR member stations working within the Open Public Media group. If you would like to suggest features or bug fixes, or better yet if you would like to contribute new features or bug fixes please visit our <a href=\"https:\/\/github.com\/OpenPublicMedia\/npr-cds-wordpress\" rel=\"nofollow ugc\">GitHub repository<\/a> and post an issue or contribute a pull request.<\/p>\n",
+        "installation": "<ol>\n<li>Upload the plugin files to the <code>\/wp-content\/plugins\/plugin-name<\/code> directory, or install the plugin through the WordPress plugins screen directly.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; screen in WordPress<\/li>\n<li>Use the <strong>Settings &gt; NPR CDS<\/strong> screen to configure the plugin. Begin by entering your CDS token, then add your Push URL and Org ID.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='can%20anyone%20get%20an%20npr%20cds%20token%3F'>\nCan anyone get an NPR CDS Token?\n<\/h4>\n<p>\n<p>If you are an NPR member station or are working with an NPR member station and do not know your key, please <a href=\"https:\/\/studio.npr.org\" rel=\"nofollow ugc\">ask NPR station relations for help<\/a>.<\/p>\n<\/p>\n<dt id='can%20anyone%20push%20content%20into%20the%20npr%20cds%20using%20this%20plugin%3F'>\nCan anyone push content into the NPR CDS using this plugin?\n<\/h4>\n<p>\n<p>Push requires an Organization ID in the NPR CDS, which is typically given out to only NPR stations and approved content providers. If that&#8217;s you, you probably already have an Organization ID.<\/p>\n<\/p>\n<dt id='where%20can%20i%20find%20npr%27s%20documentation%20on%20the%20npr%20cds%3F'>\nWhere can I find NPR&#8217;s documentation on the NPR CDS?\n<\/h4>\n<p>\n<p>There is documentation in the NPR&#8217;s <a href=\"https:\/\/npr.github.io\/content-distribution-service\/\" rel=\"nofollow ugc\">Github site<\/a>.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>V1.0.5<\/h4>\n<ul>\n<li>Default cron job timing is now 1 hour (was previously a minute because it wasn&#8217;t properly being converted into seconds)<\/li>\n<li>Cron jobs are no longer scheduled if there are no queries configured<\/li>\n<\/ul>\n<h4>V1.0.4<\/h4>\n<ul>\n<li>Fixing a problem where Get Multi queries run via WP_Cron would silently fail because <code>npr_cds_push()<\/code> would check if the current user had publishing rights and execute <code>wp_die()<\/code>. WP_Cron doesn&#8217;t run as a specific user, therefore it doesn&#8217;t technically have publishing rights. <code>npr_cds_push()<\/code><br \/>\nnow checks if the post was retrieved from the CDS first before checking publishing rights.<\/li>\n<\/ul>\n<h4>V1.0.3<\/h4>\n<ul>\n<li>Fixing warnings and a few fatal errors in <code>NPR_CDS_WP.php<\/code><\/li>\n<\/ul>\n<h4>V1.0.2<\/h4>\n<ul>\n<li>Fixing improperly escaped HTML in post editor meta boxes<\/li>\n<\/ul>\n<h4>V1.0.1<\/h4>\n<ul>\n<li>Fixing a bunch of warnings in <code>classes\/NPR_CDS_WP.php<\/code><\/li>\n<li>Changing the behavior the <code>Get Multi<\/code> setting <code>Run the queries on saving changes<\/code> so that it runs once and then turns off. That way, it doesn&#8217;t run every time you save changes on the page.<\/li>\n<li>Fixed issue where updates to bulk actions dropdowns were being duplicated<\/li>\n<\/ul>\n<h4>V1.0<\/h4>\n<ul>\n<li>Overhaul to enable pulling from NPR&#8217;s Content Distribution Service, which is the next generation of the Story API.<\/li>\n<li>Previous version notes can be found in the <a href=\"https:\/\/github.com\/OpenPublicMedia\/nprapi-wordpress\" rel=\"nofollow ugc\">NPR Story API plugin repository<\/a><\/li>\n<\/ul>\n",
+        "reviews": ""
+    },
+    "short_description": "A collection of tools for reusing content from NPR.org, now maintained and updated by NPR member station developers.",
+    "description": "<p>The <a href=\"https:\/\/npr.github.io\/content-distribution-service\/\" rel=\"nofollow ugc\">NPR Content Distribution System (CDS)<\/a> Plugin provides push and pull functionality with the NPR CDS along with a user-friendly administrative interface.<\/p>\n<p>NPR&#8217;s CDS is a content API, which essentially provides a structured way for other computer applications to get NPR stories in a predictable, flexible and powerful way. The content that is available includes audio from most NPR programs dating back to 1995 as well as text, images and other web-only content from NPR and NPR member stations. This archive consists of over 250,000 stories that are grouped into more than 5,000 different aggregations.<\/p>\n<p>This plugin also allows you to push your content to the NPR CDS, so that it can be republished by NPR or other NPR member stations.<\/p>\n<p>Access to the NPR CDS requires a bearer token, provided by NPR. If you are an NPR member station or are working with an NPR member station and do not know your key, please <a href=\"https:\/\/studio.npr.org\" rel=\"nofollow ugc\">ask NPR station relations for help<\/a>.<\/p>\n<p>Usage of this plugin is governed by <a href=\"https:\/\/www.npr.org\/about-npr\/179876898\/terms-of-use\" rel=\"nofollow ugc\">NPR&#8217;s Terms of Use<\/a>, and more specifically their <a href=\"https:\/\/www.npr.org\/about-npr\/179876898\/terms-of-use#APIContent\" rel=\"nofollow ugc\">API Usage terms<\/a>.<\/p>\n<p>The WordPress plugin was originally developed as an Open Source plugin by NPR and is now supported by developers with NPR member stations working within the Open Public Media group. If you would like to suggest features or bug fixes, or better yet if you would like to contribute new features or bug fixes please visit our <a href=\"https:\/\/github.com\/OpenPublicMedia\/npr-cds-wordpress\" rel=\"nofollow ugc\">GitHub repository<\/a> and post an issue or contribute a pull request.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/npr-content-distribution-service.1.0.5.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "api": "api",
+        "news": "news",
+        "npr": "npr",
+        "public-radio": "public radio"
+    },
+    "stable_tag": "1.0.5",
+    "versions": {
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/npr-content-distribution-service.1.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/npr-content-distribution-service.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/npr-content-distribution-service.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/npr-content-distribution-service.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/npr-content-distribution-service.1.0.4.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/npr-content-distribution-service.1.0.5.zip",
+        "1.0.6": "https:\/\/downloads.wordpress.org\/plugin\/npr-content-distribution-service.1.0.6.zip",
+        "1.0.7": "https:\/\/downloads.wordpress.org\/plugin\/npr-content-distribution-service.1.0.7.zip",
+        "1.0.8": "https:\/\/downloads.wordpress.org\/plugin\/npr-content-distribution-service.1.0.8.zip",
+        "1.0.8.1": "https:\/\/downloads.wordpress.org\/plugin\/npr-content-distribution-service.1.0.8.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/npr-content-distribution-service.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/www.npr.org\/series\/750002\/support-public-radio",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/npr-content-distribution-service\/assets\/banner-772x250.png?rev=3023653",
+        "high": "https:\/\/ps.w.org\/npr-content-distribution-service\/assets\/banner-1544x500.png?rev=3023653"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/npr-content-distribution-service\/assets\/icon.svg?rev=3023653",
+        "svg": "https:\/\/ps.w.org\/npr-content-distribution-service\/assets\/icon.svg?rev=3023653"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

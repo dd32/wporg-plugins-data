@@ -1,0 +1,74 @@
+{
+    "name": "Dynamic Keyword Insertion for WP",
+    "slug": "bvnode-dynamic-keyword-insertion-for-wp",
+    "version": "1.0.3",
+    "author": "<a href=\"https:\/\/www.bvnode.com\/\">BVNode<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/bvnode\/",
+    "contributors": {
+        "bvnode": {
+            "profile": "https:\/\/profiles.wordpress.org\/bvnode\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2503dfe644b20ff11638f99b71476c83?s=96&d=monsterid&r=g",
+            "display_name": "bvnode"
+        }
+    },
+    "requires": "3.0.1",
+    "tested": "6.5.2",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/bvnode-dynamic-keyword-insertion-for-wp\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 13,
+    "last_updated": "2024-04-12 5:41pm GMT",
+    "added": "2024-04-12",
+    "homepage": "https:\/\/www.bvnode.com\/plugins\/dynamic-keyword-insertion-for-wp\/",
+    "sections": {
+        "description": "<p>Elevate your Website with the Dynamic Keyword Insertion for WP Plugin by BVNode. This innovative tool allows you to customize web page text based on the search terms used by visitors, improving your ads Quality Score and ensuring a personalized, engaging user experience.<\/p>\n<h3>Basic Usage<\/h3>\n<pre><code>[dki4wp param=\"state\" default=\"State California is the best!\" \nprefix=\"State \" suffix=\" is the best!\"]\n<\/code><\/pre>\n<p>Evalutes in <em>State California is the best!<\/em> when query parameter <strong>state<\/strong> is empty and page or post does not uses any <strong>set<\/strong> with parameter <strong>state<\/strong>.<\/p>\n<p><a href=\"https:\/\/www.bvnode.com\/plugins\/dynamic-keyword-insertion-for-wp\/docs\" title=\"Dynamic Keyword Insertion for WP Documentation &amp; Examples\" rel=\"nofollow ugc\">Documentation &amp; Examples<\/a><\/p>\n",
+        "installation": "<h4>INSTALL DKI4WP FROM WITHIN WORDPRESS<\/h4>\n<ol>\n<li>Visit the plugins page within your dashboard and select \u2018Add New\u2019;<\/li>\n<li>Search for \u2018Dynamic Keyword Insertion for WP\u2019;<\/li>\n<li>Activate Dynamic Keyword Insertion for WP from your Plugins page;<\/li>\n<\/ol>\n<h4>INSTALL DKI4WP SEO MANUALLY<\/h4>\n<ol>\n<li>Upload the dynamic-keyword-insertion-for-wp\u2019 folder to the \/wp-content\/plugins\/ directory;<\/li>\n<li>Activate the Dynamic Keyword Insertion for WP plugin through the \u2018Plugins\u2019 menu in WordPress;<\/li>\n<\/ol>\n",
+        "changelog": "<h4>1.0.0<\/h4>\n<p>First Release<\/p>\n",
+        "reviews": ""
+    },
+    "short_description": "Elevate your Website with the Dynamic Keyword Insertion for WP Plugin by BVNode.",
+    "description": "<p>Elevate your Website with the Dynamic Keyword Insertion for WP Plugin by BVNode. This innovative tool allows you to customize web page text based on the search terms used by visitors, improving your ads Quality Score and ensuring a personalized, engaging user experience.<\/p>\n<h3>Basic Usage<\/h3>\n<pre><code>[dki4wp param=\"state\" default=\"State California is the best!\" \nprefix=\"State \" suffix=\" is the best!\"]\n<\/code><\/pre>\n<p>Evalutes in <em>State California is the best!<\/em> when query parameter <strong>state<\/strong> is empty and page or post does not uses any <strong>set<\/strong> with parameter <strong>state<\/strong>.<\/p>\n<p><a href=\"https:\/\/www.bvnode.com\/plugins\/dynamic-keyword-insertion-for-wp\/docs\" title=\"Dynamic Keyword Insertion for WP Documentation &amp; Examples\" rel=\"nofollow ugc\">Documentation &amp; Examples<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/bvnode-dynamic-keyword-insertion-for-wp.zip",
+    "upgrade_notice": {
+        "1.0.0": ""
+    },
+    "screenshots": [],
+    "tags": {
+        "keywords": "keywords",
+        "seo": "seo"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/bvnode.com\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/bvnode-dynamic-keyword-insertion-for-wp\/assets\/banner-772x250.png?rev=3069738",
+        "high": "https:\/\/ps.w.org\/bvnode-dynamic-keyword-insertion-for-wp\/assets\/banner-1544x500.png?rev=3069738"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/bvnode-dynamic-keyword-insertion-for-wp\/assets\/icon.svg?rev=3069738",
+        "svg": "https:\/\/ps.w.org\/bvnode-dynamic-keyword-insertion-for-wp\/assets\/icon.svg?rev=3069738"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

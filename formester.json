@@ -1,0 +1,78 @@
+{
+    "name": "Formester",
+    "slug": "formester",
+    "version": "1.0.1",
+    "author": "<a href=\"https:\/\/www.formester.com\/\">Formester Team<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/formester\/",
+    "contributors": {
+        "formester": {
+            "profile": "https:\/\/profiles.wordpress.org\/formester\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/f7270584f1d0531bdf10eb9dc11582c5?s=96&d=monsterid&r=g",
+            "display_name": "formester"
+        }
+    },
+    "requires": "6.4.1",
+    "tested": "6.4.4",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/formester\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 128,
+    "last_updated": "2024-03-21 9:13am GMT",
+    "added": "2024-03-18",
+    "homepage": "https:\/\/www.formester.com\/plugins\/wordpress",
+    "sections": {
+        "installation": "<p>Add the plugin folder to the \/wp-content\/plugins\/ directory<br \/>\nActivate the plugin through the \u2018Plugins\u2019 menu in WordPress<br \/>\nAdd your formester forms through the \u201cAdd block\u201d button that has been added to post\/pages editor aside of the Media Button<br \/>\nAdd your formester\\&#8217;s URL in the input and configure it from the options available<\/p>\n",
+        "changelog": "<p>v 1.0<br \/>\n&#8211; added formester block for rendering formester forms.<\/p>\n",
+        "description": "<p>Formester revolutionizes online engagement with its free plan, offering a suite of tools that effortlessly elevate website interactions. Seamlessly integrate pop-ups, visually stunning, logic-driven forms, surveys, and quizzes within WordPress. This comprehensive platform eliminates the need for coding, allowing users to craft captivating digital experiences. The dynamic features cater to diverse needs, providing a perfect blend of user-friendly customization and engagement-boosting elements. Unlock the potential to grow your audience, segment leads, and enhance sales with Formester&#8217;s versatile capabilities. Enjoy a seamless, interactive journey with your audience, all conveniently accessible through Formester&#8217;s user-centric approach.<\/p>\n",
+        "reviews": ""
+    },
+    "short_description": "Formester revolutionizes online engagement with its free plan, offering a suite of tools that effortlessly elevate website interactions.",
+    "description": "<p>Formester revolutionizes online engagement with its free plan, offering a suite of tools that effortlessly elevate website interactions. Seamlessly integrate pop-ups, visually stunning, logic-driven forms, surveys, and quizzes within WordPress. This comprehensive platform eliminates the need for coding, allowing users to craft captivating digital experiences. The dynamic features cater to diverse needs, providing a perfect blend of user-friendly customization and engagement-boosting elements. Unlock the potential to grow your audience, segment leads, and enhance sales with Formester&#8217;s versatile capabilities. Enjoy a seamless, interactive journey with your audience, all conveniently accessible through Formester&#8217;s user-centric approach.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/formester.1.0.1.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": [],
+    "stable_tag": "1.0.1",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/formester.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/formester.1.0.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/formester.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/formester\/assets\/banner-772x250.jpg?rev=3053414",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/formester\/assets\/icon.svg?rev=3053414",
+        "svg": "https:\/\/ps.w.org\/formester\/assets\/icon.svg?rev=3053414"
+    },
+    "blocks": {
+        "formester\/formester-block": {
+            "name": "formester\/formester-block",
+            "title": "Formester Block"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

@@ -1,0 +1,85 @@
+{
+    "name": "SL Currency Symbol Changer",
+    "slug": "sl-currency-symbol-changer",
+    "version": "0.1.1",
+    "author": "<a href=\"https:\/\/origyn.company\">Origyn<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/origyn\/",
+    "contributors": {
+        "origyn": {
+            "profile": "https:\/\/profiles.wordpress.org\/origyn\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/61f8c6c162f571b33c97ce8f94a1bf8a?s=96&d=monsterid&r=g",
+            "display_name": "origyn"
+        }
+    },
+    "requires": "3.3",
+    "tested": "6.4.4",
+    "requires_php": "5.2.17",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/sl-currency-symbol-changer\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 100,
+    "downloaded": 1963,
+    "last_updated": "2024-02-19 3:31pm GMT",
+    "added": "2022-01-12",
+    "homepage": "https:\/\/origyn.company",
+    "sections": {
+        "description": "<p>This is a simple plugin to change currency symbol of Sri Lankan rupees (\u0dbb\u0dd4.) to (Rs.) in WooCommerce sites.<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/sl-currency-symbol-changer\/assets\/screenshot-1.png?rev=3043869\"><img src=\"https:\/\/ps.w.org\/sl-currency-symbol-changer\/assets\/screenshot-1.png?rev=3043869\" alt=\"After activating the plugin\"><\/a><p>After activating the plugin<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/sl-currency-symbol-changer\/assets\/screenshot-2.png?rev=3043869\"><img src=\"https:\/\/ps.w.org\/sl-currency-symbol-changer\/assets\/screenshot-2.png?rev=3043869\" alt=\"Without activating the plugin\"><\/a><p>Without activating the plugin<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Simple but effective\ud83d\udca1<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/timaxx\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/7bb3b72a5931dabce89dc662827a4437?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/7bb3b72a5931dabce89dc662827a4437?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/timaxx\/\" class=\"reviewer-name\">Tharusha Induwara <small>(timaxx)<\/small><\/a> on <span class=\"review-date\">June 13, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>As I am aware changing the symbol has something to do with the changing Woocommerce plugin files. But this plugin makes the file code lines combing process so much easier.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "This is a simple plugin to change currency symbol of Sri Lankan rupees (\u0dbb\u0dd4.) to (Rs.) in WooCommerce sites.",
+    "description": "<p>This is a simple plugin to change currency symbol of Sri Lankan rupees (\u0dbb\u0dd4.) to (Rs.) in WooCommerce sites.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/sl-currency-symbol-changer.0.1.1.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/sl-currency-symbol-changer\/assets\/screenshot-1.png?rev=3043869",
+            "caption": "After activating the plugin"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/sl-currency-symbol-changer\/assets\/screenshot-2.png?rev=3043869",
+            "caption": "Without activating the plugin"
+        }
+    },
+    "tags": {
+        "currency": "currency",
+        "rs": "Rs.",
+        "symbol": "symbol"
+    },
+    "stable_tag": "0.1.1",
+    "versions": {
+        "0.1.0": "https:\/\/downloads.wordpress.org\/plugin\/sl-currency-symbol-changer.0.1.0.zip",
+        "0.1.1": "https:\/\/downloads.wordpress.org\/plugin\/sl-currency-symbol-changer.0.1.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/sl-currency-symbol-changer.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/sl-currency-symbol-changer\/assets\/banner-772x250.png?rev=3043869",
+        "high": "https:\/\/ps.w.org\/sl-currency-symbol-changer\/assets\/banner-1544x500.png?rev=3043869"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/sl-currency-symbol-changer\/assets\/icon-128x128.png?rev=2656259",
+        "2x": "https:\/\/ps.w.org\/sl-currency-symbol-changer\/assets\/icon-256x256.png?rev=2656259"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

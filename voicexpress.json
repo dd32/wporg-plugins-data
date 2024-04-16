@@ -1,0 +1,92 @@
+{
+    "name": "Voicexpress",
+    "slug": "voicexpress",
+    "version": "1.0.7",
+    "author": "<a href=\"https:\/\/ersolucoesweb.com.br\/\">ER Solu\u00e7\u00f5es Web LTDA<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/ersolucoesweb\/",
+    "contributors": {
+        "ersolucoesweb": {
+            "profile": "https:\/\/profiles.wordpress.org\/ersolucoesweb\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/7920d44d04e62b0de4392437f6437e18?s=96&d=monsterid&r=g",
+            "display_name": "ER Solu\u00e7\u00f5es Web LTDA"
+        }
+    },
+    "requires": "6.4",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/voicexpress\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 197,
+    "last_updated": "2024-03-19 12:26am GMT",
+    "added": "2024-03-04",
+    "homepage": "https:\/\/voicexpress.app",
+    "sections": {
+        "description": "<p>Gere a\u00fadios a partir dos seus posts utilizando o https:\/\/voicexpress.app\/.<\/p>\n<p>Alguns dados (titulo, url, imagem, nome da categoria e conteudo) do post ser\u00e3o enviados para a API do Voicexpress em https:\/\/voicexpress.app, para que seja feito o processamento e cria\u00e7\u00e3o do \u00e1udio.<\/p>\n<p>O plugin tamb\u00e9m utiliza nossa API para verifica\u00e7\u00e3o de cr\u00e9ditos dispon\u00edveis.<\/p>\n<p>Termos de Uso &#8211; https:\/\/voicexpress.app\/termos-de-uso<\/p>\n<p>Pol\u00edticas de Privacidade &#8211; https:\/\/voicexpress.app\/politicas-de-privacidade<\/p>\n",
+        "installation": "<p>This section describes how to install the plugin and get it working.<\/p>\n<p>e.g.<\/p>\n<ol>\n<li>Upload <code>voicexpress.zip<\/code> to the <code>\/wp-content\/plugins\/<\/code> directory<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='tem%20limite%20de%20caracteres%3F'>\nTem limite de caracteres?\n<\/h4>\n<p>\n<ul>\n<li>N\u00e3o, caso seu texto seja  muito grande (acima de 5 mil caracteres) pode ser que demore bastante para gerar o audio, mas n\u00e3o existe limite.<\/li>\n<\/ul>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.7<\/h4>\n<ul>\n<li>Ajuste de vers\u00e3o<\/li>\n<\/ul>\n<h4>1.0.6<\/h4>\n<ul>\n<li>Ajuste de vers\u00e3o<\/li>\n<\/ul>\n<h4>1.0.5<\/h4>\n<ul>\n<li>FIX: sslverify alterado para false<\/li>\n<li>FIX: timeout alterado para 10<\/li>\n<\/ul>\n<h4>1.0.4<\/h4>\n<ul>\n<li>FIX: ajuste nos bot\u00f5es<\/li>\n<\/ul>\n<h4>1.0.3<\/h4>\n<ul>\n<li>Adicionado bot\u00e3o para comprar cr\u00e9ditos<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>Ajuste nas tradu\u00e7\u00f5es<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Atualiza\u00e7\u00e3o dos assets<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Lan\u00e7amento do plugin em produ\u00e7\u00e3o<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/voicexpress\/assets\/screenshot-1.png?rev=3044680\"><img src=\"https:\/\/ps.w.org\/voicexpress\/assets\/screenshot-1.png?rev=3044680\" alt=\"Acesse o app\"><\/a><p>Acesse o app<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Plugin para convers\u00e3o de texto para audio.",
+    "description": "<p>Gere a\u00fadios a partir dos seus posts utilizando o https:\/\/voicexpress.app\/.<\/p>\n<p>Alguns dados (titulo, url, imagem, nome da categoria e conteudo) do post ser\u00e3o enviados para a API do Voicexpress em https:\/\/voicexpress.app, para que seja feito o processamento e cria\u00e7\u00e3o do \u00e1udio.<\/p>\n<p>O plugin tamb\u00e9m utiliza nossa API para verifica\u00e7\u00e3o de cr\u00e9ditos dispon\u00edveis.<\/p>\n<p>Termos de Uso &#8211; https:\/\/voicexpress.app\/termos-de-uso<\/p>\n<p>Pol\u00edticas de Privacidade &#8211; https:\/\/voicexpress.app\/politicas-de-privacidade<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/voicexpress.1.0.7.zip",
+    "upgrade_notice": {
+        "Lan\u00e7amento": ""
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/voicexpress\/assets\/screenshot-1.png?rev=3044680",
+            "caption": "Acesse o app"
+        }
+    },
+    "tags": {
+        "texttospeech": "texttospeech",
+        "texttovoice": "texttovoice",
+        "voiceconverter": "voiceconverter"
+    },
+    "stable_tag": "1.0.7",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/voicexpress.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/voicexpress.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/voicexpress.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/voicexpress.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/voicexpress.1.0.4.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/voicexpress.1.0.5.zip",
+        "1.0.6": "https:\/\/downloads.wordpress.org\/plugin\/voicexpress.1.0.6.zip",
+        "1.0.7": "https:\/\/downloads.wordpress.org\/plugin\/voicexpress.1.0.7.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/voicexpress.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/ersolucoesweb.com.br",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/voicexpress\/assets\/banner-772x250.png?rev=3044680",
+        "high": "https:\/\/ps.w.org\/voicexpress\/assets\/banner-1544x500.png?rev=3044680"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/voicexpress\/assets\/icon-128x128.png?rev=3044680",
+        "2x": "https:\/\/ps.w.org\/voicexpress\/assets\/icon-256x256.png?rev=3044680"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

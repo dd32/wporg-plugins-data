@@ -1,0 +1,93 @@
+{
+    "name": "Facturo por ti extensi\u00f3n Ecommerce",
+    "slug": "facturo-por-ti-extension-ecommerce",
+    "version": "1.0.0",
+    "author": "Jose Pedraza",
+    "author_profile": "https:\/\/profiles.wordpress.org\/fptgustavoortiz\/",
+    "contributors": {
+        "fptgustavoortiz": {
+            "profile": "https:\/\/profiles.wordpress.org\/fptgustavoortiz\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/8a1e3d23486c00714ee4143cd9f0f118?s=96&d=monsterid&r=g",
+            "display_name": "fptgustavoortiz"
+        }
+    },
+    "requires": "4.7.3",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/facturo-por-ti-extension-ecommerce\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 22,
+    "last_updated": "2024-03-22 7:40pm GMT",
+    "added": "2024-03-22",
+    "homepage": "https:\/\/facturoporti.com.mx\/",
+    "sections": {
+        "description": "<p>La integraci\u00f3n del plugin que ofrece Facturo por ti, te permitira sincronizar<br \/>\ntodas tus ventas de manera simple, de modo que tus clientes puedan facturar<br \/>\nlas compras realizadas en tu comercio unicamente haciendo uso de tres simple valores:<\/p>\n<h4>\u261e Numero de orden de compra<\/h4>\n<h4>\u261e Monto de la compra<\/h4>\n<h4>\u261e Fecha de la compra<\/h4>\n<div class=\"embed-vimeo\" style=\"text-align: center;\"><iframe loading=\"lazy\" src=\"https:\/\/player.vimeo.com\/video\/880974611\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen><\/iframe><\/div>\n<h4>Requisitos minimos<\/h4>\n<ul>\n<li>WooCommerce 6.0 o superior<\/li>\n<\/ul>\n",
+        "installation": "<p>INSTALACION Y CONFIGURACION DEL PLUGIN<br \/>\nPASO 1<br \/>\nDirigite a la secci\u00f3n plugins del menu izquierdo de tu WordPress. Posteriormente, haz clic en<br \/>\na\u00f1adir nuevo y en la barra de busqueda escribe Facturo por ti. Una vez encontrado,<br \/>\nhaz clic en Instalar ahora.<br \/>\nPASO 2<br \/>\nA continuaci\u00f3n activa el plugin haciendo clic en el boton activar que aparece.<br \/>\nPASO 3<br \/>\nUna vez que el plugin esta instalado y activo, para probar la funcionalidad simplemente debes<br \/>\nconfigurar la URL de nuestro servicio para que comience a replicarse la informaci\u00f3n de tus pedidos a nuestro sistema.<\/p>\n<p>Es importante destacar que para ambiente PRODUCTIVO es necesario contar con una licencia<br \/>\nde facturoporti.com.mx (<a href=\"https:\/\/www.facturoporti.com.mx\/autofactura-landing\/\" rel=\"nofollow ugc\">facturoporti<\/a>) asi como finalizar las configuraciones requeridas.<\/p>\n<p>Para mas informaci\u00f3n, te pedimos que te pongas en contacto con nosotros<br \/>\nCorreo: ventas@facturoporti.com.mx<br \/>\nTelefono: 5595068725<\/p>\n",
+        "faq": "\n<dt id='%C2%BFsoportamos%20cfdi%204.0%3F'>\n\u00bfSoportamos CFDI 4.0?\n<\/h4>\n<p>\n<p>Si, nuestra soluci\u00f3n cumple con todos los lineamientos para emitir CFDI 4.0.<\/p>\n<\/p>\n<dt id='%C2%BFla%20sincronizaci%C3%B3n%20de%20pedidos%20es%20automatica%3F'>\n\u00bfLa sincronizaci\u00f3n de pedidos es automatica?\n<\/h4>\n<p>\n<p>Nuestra soluci\u00f3n permite que sus ventas se carguen de manera automatica a nuestra plataforma tan pronto configure las opciones<br \/>\nminimas requeridas de modo que su cliente final pueda facturar.<\/p>\n<\/p>\n<dt id='%C2%BFsoportamos%20escenarios%20de%20factura%20global%3F'>\n\u00bfSoportamos escenarios de factura global?\n<\/h4>\n<p>\n<p>Por supuesto, contamos con todos los escenarios de facturaci\u00f3n global que actualmente marca la ley.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.0<\/h4>\n<ul>\n<li>Primera liberaci\u00f3n<\/li>\n<li>Sincronizaci\u00f3n de pedidos para portal de auto factura.<\/li>\n<li>Facturaci\u00f3n en tiempo real de pedidos.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/facturo-por-ti-extension-ecommerce\/assets\/screenshot-1.png?rev=3051985\"><img src=\"https:\/\/ps.w.org\/facturo-por-ti-extension-ecommerce\/assets\/screenshot-1.png?rev=3051985\" alt=\"Portal principal para la facturaci\u00f3n de ventas (screenshot-1.png)\"><\/a><p>Portal principal para la facturaci\u00f3n de ventas (screenshot-1.png)<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/facturo-por-ti-extension-ecommerce\/assets\/screenshot-2.png?rev=3051985\"><img src=\"https:\/\/ps.w.org\/facturo-por-ti-extension-ecommerce\/assets\/screenshot-2.png?rev=3051985\" alt=\"Captura los datos de la nota de venta que se desea facturar (screenshot-2.png)\"><\/a><p>Captura los datos de la nota de venta que se desea facturar (screenshot-2.png)<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/facturo-por-ti-extension-ecommerce\/assets\/screenshot-3.png?rev=3051985\"><img src=\"https:\/\/ps.w.org\/facturo-por-ti-extension-ecommerce\/assets\/screenshot-3.png?rev=3051985\" alt=\"Respuesta de factura emitida exitosamente facturar (screenshot-3.png)\"><\/a><p>Respuesta de factura emitida exitosamente facturar (screenshot-3.png)<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/facturo-por-ti-extension-ecommerce\/assets\/screenshot-4.png?rev=3051985\"><img src=\"https:\/\/ps.w.org\/facturo-por-ti-extension-ecommerce\/assets\/screenshot-4.png?rev=3051985\" alt=\"Representaci\u00f3n impresa (PDF) de la factura (screenshot-4.png)\"><\/a><p>Representaci\u00f3n impresa (PDF) de la factura (screenshot-4.png)<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "El plugin Facturo por ti extensi\u00f3n Woocommerce se vincula\ncon la soluci\u00f3n de Facturo por ti Cloud dando la capacidad a todos sus usuarios\nde integrar  &hellip;",
+    "description": "<p>La integraci\u00f3n del plugin que ofrece Facturo por ti, te permitira sincronizar<br \/>\ntodas tus ventas de manera simple, de modo que tus clientes puedan facturar<br \/>\nlas compras realizadas en tu comercio unicamente haciendo uso de tres simple valores:<\/p>\n<h4>\u261e Numero de orden de compra<\/h4>\n<h4>\u261e Monto de la compra<\/h4>\n<h4>\u261e Fecha de la compra<\/h4>\n<div class=\"embed-vimeo\" style=\"text-align: center;\"><iframe loading=\"lazy\" src=\"https:\/\/player.vimeo.com\/video\/880974611\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen><\/iframe><\/div>\n<h4>Requisitos minimos<\/h4>\n<ul>\n<li>WooCommerce 6.0 o superior<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/facturo-por-ti-extension-ecommerce.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/facturo-por-ti-extension-ecommerce\/assets\/screenshot-1.png?rev=3051985",
+            "caption": "Portal principal para la facturaci\u00f3n de ventas (screenshot-1.png)"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/facturo-por-ti-extension-ecommerce\/assets\/screenshot-2.png?rev=3051985",
+            "caption": "Captura los datos de la nota de venta que se desea facturar (screenshot-2.png)"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/facturo-por-ti-extension-ecommerce\/assets\/screenshot-3.png?rev=3051985",
+            "caption": "Respuesta de factura emitida exitosamente facturar (screenshot-3.png)"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/facturo-por-ti-extension-ecommerce\/assets\/screenshot-4.png?rev=3051985",
+            "caption": "Representaci\u00f3n impresa (PDF) de la factura (screenshot-4.png)"
+        }
+    },
+    "tags": {
+        "autofacturacion": "Autofacturacion",
+        "cfdi-4-0": "CFDI 4.0",
+        "factura-electronica": "factura electronica",
+        "factura-global": "Factura global"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/facturo-por-ti-extension-ecommerce\/assets\/banner-772\u00d7250.png?rev=3051985",
+        "high": "https:\/\/ps.w.org\/facturo-por-ti-extension-ecommerce\/assets\/banner-1544\u00d7500.png?rev=3051985"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/facturo-por-ti-extension-ecommerce\/assets\/icon-128x128.png?rev=3051985",
+        "2x": "https:\/\/ps.w.org\/facturo-por-ti-extension-ecommerce\/assets\/icon-256x256.png?rev=3051985"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

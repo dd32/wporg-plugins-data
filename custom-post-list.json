@@ -1,0 +1,79 @@
+{
+    "name": "Custom Post List",
+    "slug": "custom-post-list",
+    "version": "1.0",
+    "author": "Satya Prakash",
+    "author_profile": "https:\/\/profiles.wordpress.org\/satya219\/",
+    "contributors": {
+        "satya-prakash": {
+            "profile": "https:\/\/profiles.wordpress.org\/satya-prakash\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/1e04fa0880170871889c16a99a8dfb60?s=96&d=monsterid&r=g",
+            "display_name": "SATYA PRAKASH"
+        }
+    },
+    "requires": "4.5",
+    "tested": "6.4.4",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/custom-post-list\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 30,
+    "downloaded": 13,
+    "last_updated": "2024-04-15 6:00am GMT",
+    "added": "2024-04-15",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Description<\/p>\n<p>Display a customizable list of custom post types with filtering options using the Custom Post List plugin.<\/p>\n<p>Features<\/p>\n<ul>\n<li>Display a customizable list of posts.<\/li>\n<li>Filter posts based on post type.<\/li>\n<li>Easy-to-use shortcode for embedding the post list.<\/li>\n<li>Select specific post types from the dropdown list.<\/li>\n<\/ul>\n<p>Installation<\/p>\n<ol>\n<li>Upload the <code>custom-post-list<\/code> directory to the <code>\/wp-content\/plugins\/<\/code> directory.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress.<\/li>\n<li>Use the shortcode <code>[custom_post_list]<\/code> on any page.<\/li>\n<\/ol>\n<p>Usage<\/p>\n<p>After activating the plugin, you can use the following shortcode to display the post list on any page:<\/p>\n<p>[custom_post_list]<\/p>\n<p>Changelog<\/p>\n<h4>1.0<\/h4>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n<p>Frequently Asked Questions<\/p>\n<h4>Can I select specific post types from the dropdown?<\/h4>\n<p>Yes, you can use the <code>[custom_post_list]<\/code> shortcode and specify selected post types in the plugin settings.<\/p>\n<h4>Where can I get support for this plugin?<\/h4>\n<p>For support, please visit the plugin support forum on WordPress.org.<\/p>\n<p>Screenshots<\/p>\n<ol>\n<li>Screenshot of the custom post list.<\/li>\n<\/ol>\n<p>Upgrade Notice<\/p>\n<h4>1.0<\/h4>\n<p>Initial release of Custom Post List plugin.<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/custom-post-list\/assets\/screenshot-1.png?rev=3070453\"><img src=\"https:\/\/ps.w.org\/custom-post-list\/assets\/screenshot-1.png?rev=3070453\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Description\n\nDisplay a customizable list of custom post types with filtering options using the Custom Post List plugin.\n\nFeatures\n\n\nDisplay a customiz &hellip;",
+    "description": "<p>Description<\/p>\n<p>Display a customizable list of custom post types with filtering options using the Custom Post List plugin.<\/p>\n<p>Features<\/p>\n<ul>\n<li>Display a customizable list of posts.<\/li>\n<li>Filter posts based on post type.<\/li>\n<li>Easy-to-use shortcode for embedding the post list.<\/li>\n<li>Select specific post types from the dropdown list.<\/li>\n<\/ul>\n<p>Installation<\/p>\n<ol>\n<li>Upload the <code>custom-post-list<\/code> directory to the <code>\/wp-content\/plugins\/<\/code> directory.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress.<\/li>\n<li>Use the shortcode <code>[custom_post_list]<\/code> on any page.<\/li>\n<\/ol>\n<p>Usage<\/p>\n<p>After activating the plugin, you can use the following shortcode to display the post list on any page:<\/p>\n<p>[custom_post_list]<\/p>\n<p>Changelog<\/p>\n<h4>1.0<\/h4>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n<p>Frequently Asked Questions<\/p>\n<h4>Can I select specific post types from the dropdown?<\/h4>\n<p>Yes, you can use the <code>[custom_post_list]<\/code> shortcode and specify selected post types in the plugin settings.<\/p>\n<h4>Where can I get support for this plugin?<\/h4>\n<p>For support, please visit the plugin support forum on WordPress.org.<\/p>\n<p>Screenshots<\/p>\n<ol>\n<li>Screenshot of the custom post list.<\/li>\n<\/ol>\n<p>Upgrade Notice<\/p>\n<h4>1.0<\/h4>\n<p>Initial release of Custom Post List plugin.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/custom-post-list.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/custom-post-list\/assets\/screenshot-1.png?rev=3070453",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "custom-post": "custom post",
+        "filter": "filter",
+        "list": "list",
+        "shortcode": "shortcode"
+    },
+    "stable_tag": "trunk",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/custom-post-list.1.0.0.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/custom-post-list\/assets\/banner-772x250.png?rev=3070459",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/custom-post-list\/assets\/icon-128x128.png?rev=3070453"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

@@ -1,0 +1,95 @@
+{
+    "name": "Vizaport AI Chat &#8211; GPT text, audio and visual bots",
+    "slug": "vizaport-ai-chat",
+    "version": "1.1.1",
+    "author": "<a href=\"https:\/\/www.vizaport.com\/\">Vizaport<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/vizaport\/",
+    "contributors": {
+        "vizaport": {
+            "profile": "https:\/\/profiles.wordpress.org\/vizaport\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/b5476604c4274a939de59e41e80dd4fe?s=96&d=monsterid&r=g",
+            "display_name": "vizaport"
+        }
+    },
+    "requires": "5.4.1",
+    "tested": "6.4.4",
+    "requires_php": "5.6",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 2,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 2,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/vizaport-ai-chat\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 85,
+    "last_updated": "2024-03-25 6:01pm GMT",
+    "added": "2024-03-25",
+    "homepage": "",
+    "sections": {
+        "installation": "<ol>\n<li>Navigate to your WordPress dashboard and go to the Plugins page.<\/li>\n<li>Click on &#8220;Add New&#8221; at the top of the page.<\/li>\n<li>Search for &#8220;Vizaport AI Chat&#8221; using the search bar on the right side.<\/li>\n<li>Click &#8220;Install Now&#8221; to install the plugin.<\/li>\n<li>After installation, click &#8220;Activate&#8221; to enable the plugin on your site.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='how%20does%20your%20ai%20work%3F'>\nHow does your AI work?\n<\/h4>\n<p>\n<p>Our AI engine is built on OpenAI, which is the platform for ChatGPT. By default, our AI engine can answer customer questions using public internet data. For increased accuracy, simply load documentation (e.g., pre-sales, operations, support) that your internal teams already use to answer questions. Vizaport will leverage your documents to train the AI engine to provide accurate answers. Note this requires an upgrade.<\/p>\n<\/p>\n<dt id='how%20do%20i%20install%20the%20widget%20on%20my%20web%20site%3F'>\nHow do I install the widget on my web site?\n<\/h4>\n<p>\n<p>It&#8217;s simple. After configuration, just click the Add Widget button in your Vizaport Settings.<\/p>\n<\/p>\n<dt id='how%20do%20i%20train%20the%20ai%20for%20my%20products%20and%20services%3F'>\nHow do I train the AI for my products and services?\n<\/h4>\n<p>\n<p>First, please note that this requires an upgrade. Then, you will be guided through the steps to load documents and web pages to train the AI on your products and services.  You can upload various types of structured data (spreadsheets, XML) or unstructured data (documents, PDFs). There are step-by-step instructions to train the AI, preview your widget and then install on your web site.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.1.1<\/h4>\n<ul>\n<li>Nonce support.<\/li>\n<\/ul>\n<h4>1.1<\/h4>\n<ul>\n<li>New chat widget UI. Fixes for WordPress.<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>Handling clickable link text for various types of links.<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Resolved issues for WordPress submission.<\/li>\n<\/ul>\n<h4>1.0<\/h4>\n<ul>\n<li>Initial WordPress version.<\/li>\n<\/ul>\n",
+        "description": "<p>Get started with a simple AI chatbot and then customize the AI to intelligently answers questions about your products and services.<\/p>\n<h3>Build a custom trained AI model with your products and services<\/h3>\n<p>Vizaport AI Chat is a powerful WordPress plugin that brings AI-driven chatbot capabilities to your website. This plugin leverages ChatGPT from OpenAI, allowing users to interact with intelligent chat widgets. Customize the chatbot&#8217;s appearance, behavior, and language support to enhance user engagement and provide insightful responses.<\/p>\n<p>When you are ready for the next step, visit <a href=\"https:\/\/www.vizaport.com\" rel=\"nofollow ugc\">Vizaport.com<\/a> to learn more about building a custom-trained AI, teaching it anything that you want the AI to answer. Or, upgrade to utilize visual and audio AI features that communicate to users in new and unique ways.<\/p>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/QJe-xCQFjjU?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<h3>Easy to Get Started with AI<\/h3>\n<p>Once you have your OpenAI key (see comments below), setup only takes a few minutes. To add your AI chatbot:<\/p>\n<ol>\n<li>Go to the Vizaport Settings page in your WordPress admin menu.<\/li>\n<li>Add your OpenAI key.<\/li>\n<li>Configure the chatbot by setting options such as text, colors, size, and placement.<\/li>\n<li>Test the chatbot and then publish to your web site.<\/li>\n<\/ol>\n<h3>Your OpenAI Key<\/h3>\n<p>Vizaport AI Chat utilizes OpenAI, the platform behind ChatGPT. You will need a key from OpenAI before proceeding, unless you have upgraded with Vizaport and have obtained a widget key instead. Go to <a href=\"https:\/\/www.openai.com\" rel=\"nofollow ugc\">www.openai.com<\/a> to obtain the OpenAI key. If you need help to find create a key, see these <a href=\"https:\/\/www.vizaport.com\/plugin\" rel=\"nofollow ugc\">instructions<\/a>.<\/p>\n<h3>Standard Features<\/h3>\n<ul>\n<li>Automated human-like conversations<\/li>\n<li>Utilizes public Internet data (may be a year old depending on AI model)<\/li>\n<li>Chat launcher appears on every page as an icon<\/li>\n<li>Chatbot can be customized for text, color and placement<\/li>\n<\/ul>\n<h3>Usage of 3rd Party Service<\/h3>\n<p>This plugin utilizes a 3rd party service provided by OpenAI to enhance chat functionality. The plugin communicates with the OpenAI API to generate chat completions, using AI, for user interactions within the chat feature.<\/p>\n<h4>Service Details:<\/h4>\n<ul>\n<li>Service Provider: OpenAI<\/li>\n<li>Service Endpoint: api.openai.com\/v1\/chat\/completions<\/li>\n<li>Terms of Use: <a href=\"https:\/\/openai.com\/terms\/\" rel=\"nofollow ugc\">OpenAI Terms of Use<\/a><\/li>\n<li>Privacy Policy: <a href=\"https:\/\/openai.com\/privacy\/\" rel=\"nofollow ugc\">OpenAI Privacy Policy<\/a><\/li>\n<\/ul>\n<p>Please review the terms of use and privacy policy of OpenAI to understand how your data is handled and transmitted when using this plugin.<\/p>\n<h3>Chatbot Upgrades<\/h3>\n<p>Go beyond standard chatbots and add advanced <a href=\"https:\/\/www.vizaport.com\" rel=\"nofollow ugc\">features<\/a>.<\/p>\n<ul>\n<li>Custom trained AI models on your products and services<\/li>\n<li>Answers questions on up-to-date information<\/li>\n<li>Supports voice input and output in addition to text<\/li>\n<li>Allows handoff to a live person chat if AI cannot answer<\/li>\n<li>Analytics dashboard that tracks usage and responses<\/li>\n<li>Does not require an OpenAI key<\/li>\n<\/ul>\n<h3>Visual AI<\/h3>\n<p>And when you&#8217;re ready for very advanced <a href=\"https:\/\/www.vizaport.com\" rel=\"nofollow ugc\">features<\/a>, Vizaport&#8217;s Visual Widget includes:<\/p>\n<ul>\n<li>Natural language queries to plot maps<\/li>\n<li>Natural language commands to generate graphs<\/li>\n<li>Image viewing and analysis<\/li>\n<li>3D object placement and analysis<\/li>\n<li>Plus all the features of the chatbot<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/vizaport-ai-chat\/assets\/screenshot-1.png?rev=3057950\"><img src=\"https:\/\/ps.w.org\/vizaport-ai-chat\/assets\/screenshot-1.png?rev=3057950\" alt=\"&lt;p&gt;\nView of the AI icon when closed on a web page.&lt;\/p&gt;\"><\/a><p><p>\nView of the AI icon when closed on a web page.<\/p><\/p><\/li><li><a href=\"https:\/\/ps.w.org\/vizaport-ai-chat\/assets\/screenshot-2.png?rev=3057950\"><img src=\"https:\/\/ps.w.org\/vizaport-ai-chat\/assets\/screenshot-2.png?rev=3057950\" alt=\"&lt;p&gt;\nView of the AI chatbot when opened and with a user question.&lt;\/p&gt;\"><\/a><p><p>\nView of the AI chatbot when opened and with a user question.<\/p><\/p><\/li><li><a href=\"https:\/\/ps.w.org\/vizaport-ai-chat\/assets\/screenshot-3.png?rev=3057950\"><img src=\"https:\/\/ps.w.org\/vizaport-ai-chat\/assets\/screenshot-3.png?rev=3057950\" alt=\"&lt;p&gt;\nView of the Vizaport Settings in the WordPress admin panel to configure, test and add the AI chatbot.&lt;\/p&gt;\"><\/a><p><p>\nView of the Vizaport Settings in the WordPress admin panel to configure, test and add the AI chatbot.<\/p><\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Works Well!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/bigtakeoff\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e66dc243b02781241cd1b7cefb6948c2?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e66dc243b02781241cd1b7cefb6948c2?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/bigtakeoff\/\" class=\"reviewer-name\">bigtakeoff<\/a> on <span class=\"review-date\">March 26, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I have tried out a bunch of these AI Chat Bots. Many have this issue or that. I found this one by Vizaport really complete and sleek. Works well out the box! Recommended!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Easy to configure and install<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/digisy\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f7d6c1af94f41b0594f9c8b990d0c812?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f7d6c1af94f41b0594f9c8b990d0c812?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/digisy\/\" class=\"reviewer-name\">digisy<\/a> on <span class=\"review-date\">March 25, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Took a couple of minutes to install on my web site and have a ChatGPT powered chatbot. Already had an OpenAI key, so that part was easy. Went back and customized colors and text afterwards.  Also straightforward.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Get started with a simple AI chatbot and then customize the AI to intelligently answers questions about your products and services.",
+    "description": "<p>Get started with a simple AI chatbot and then customize the AI to intelligently answers questions about your products and services.<\/p>\n<h3>Build a custom trained AI model with your products and services<\/h3>\n<p>Vizaport AI Chat is a powerful WordPress plugin that brings AI-driven chatbot capabilities to your website. This plugin leverages ChatGPT from OpenAI, allowing users to interact with intelligent chat widgets. Customize the chatbot&#8217;s appearance, behavior, and language support to enhance user engagement and provide insightful responses.<\/p>\n<p>When you are ready for the next step, visit <a href=\"https:\/\/www.vizaport.com\" rel=\"nofollow ugc\">Vizaport.com<\/a> to learn more about building a custom-trained AI, teaching it anything that you want the AI to answer. Or, upgrade to utilize visual and audio AI features that communicate to users in new and unique ways.<\/p>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/QJe-xCQFjjU?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<h3>Easy to Get Started with AI<\/h3>\n<p>Once you have your OpenAI key (see comments below), setup only takes a few minutes. To add your AI chatbot:<\/p>\n<ol>\n<li>Go to the Vizaport Settings page in your WordPress admin menu.<\/li>\n<li>Add your OpenAI key.<\/li>\n<li>Configure the chatbot by setting options such as text, colors, size, and placement.<\/li>\n<li>Test the chatbot and then publish to your web site.<\/li>\n<\/ol>\n<h3>Your OpenAI Key<\/h3>\n<p>Vizaport AI Chat utilizes OpenAI, the platform behind ChatGPT. You will need a key from OpenAI before proceeding, unless you have upgraded with Vizaport and have obtained a widget key instead. Go to <a href=\"https:\/\/www.openai.com\" rel=\"nofollow ugc\">www.openai.com<\/a> to obtain the OpenAI key. If you need help to find create a key, see these <a href=\"https:\/\/www.vizaport.com\/plugin\" rel=\"nofollow ugc\">instructions<\/a>.<\/p>\n<h3>Standard Features<\/h3>\n<ul>\n<li>Automated human-like conversations<\/li>\n<li>Utilizes public Internet data (may be a year old depending on AI model)<\/li>\n<li>Chat launcher appears on every page as an icon<\/li>\n<li>Chatbot can be customized for text, color and placement<\/li>\n<\/ul>\n<h3>Usage of 3rd Party Service<\/h3>\n<p>This plugin utilizes a 3rd party service provided by OpenAI to enhance chat functionality. The plugin communicates with the OpenAI API to generate chat completions, using AI, for user interactions within the chat feature.<\/p>\n<h4>Service Details:<\/h4>\n<ul>\n<li>Service Provider: OpenAI<\/li>\n<li>Service Endpoint: api.openai.com\/v1\/chat\/completions<\/li>\n<li>Terms of Use: <a href=\"https:\/\/openai.com\/terms\/\" rel=\"nofollow ugc\">OpenAI Terms of Use<\/a><\/li>\n<li>Privacy Policy: <a href=\"https:\/\/openai.com\/privacy\/\" rel=\"nofollow ugc\">OpenAI Privacy Policy<\/a><\/li>\n<\/ul>\n<p>Please review the terms of use and privacy policy of OpenAI to understand how your data is handled and transmitted when using this plugin.<\/p>\n<h3>Chatbot Upgrades<\/h3>\n<p>Go beyond standard chatbots and add advanced <a href=\"https:\/\/www.vizaport.com\" rel=\"nofollow ugc\">features<\/a>.<\/p>\n<ul>\n<li>Custom trained AI models on your products and services<\/li>\n<li>Answers questions on up-to-date information<\/li>\n<li>Supports voice input and output in addition to text<\/li>\n<li>Allows handoff to a live person chat if AI cannot answer<\/li>\n<li>Analytics dashboard that tracks usage and responses<\/li>\n<li>Does not require an OpenAI key<\/li>\n<\/ul>\n<h3>Visual AI<\/h3>\n<p>And when you&#8217;re ready for very advanced <a href=\"https:\/\/www.vizaport.com\" rel=\"nofollow ugc\">features<\/a>, Vizaport&#8217;s Visual Widget includes:<\/p>\n<ul>\n<li>Natural language queries to plot maps<\/li>\n<li>Natural language commands to generate graphs<\/li>\n<li>Image viewing and analysis<\/li>\n<li>3D object placement and analysis<\/li>\n<li>Plus all the features of the chatbot<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/vizaport-ai-chat.1.1.1.zip",
+    "upgrade_notice": {
+        "1.0.1": "<p>You&#039;ll love AI. And you&#039;ll love Vizaport&#039;s ability to train an AI and add visual features that wow your users!<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/vizaport-ai-chat\/assets\/screenshot-1.png?rev=3057950",
+            "caption": "<p>\nView of the AI icon when closed on a web page.<\/p>"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/vizaport-ai-chat\/assets\/screenshot-2.png?rev=3057950",
+            "caption": "<p>\nView of the AI chatbot when opened and with a user question.<\/p>"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/vizaport-ai-chat\/assets\/screenshot-3.png?rev=3057950",
+            "caption": "<p>\nView of the Vizaport Settings in the WordPress admin panel to configure, test and add the AI chatbot.<\/p>"
+        }
+    },
+    "tags": {
+        "ai": "AI",
+        "chatbot": "chatbot",
+        "chatgpt": "ChatGPT",
+        "gpt": "gpt",
+        "openai": "openai"
+    },
+    "stable_tag": "1.1.1",
+    "versions": {
+        "1.1.1": "https:\/\/downloads.wordpress.org\/plugin\/vizaport-ai-chat.1.1.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/vizaport-ai-chat.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/vizaport-ai-chat\/assets\/banner-772x250.png?rev=3057950",
+        "high": "https:\/\/ps.w.org\/vizaport-ai-chat\/assets\/banner-1544x500.png?rev=3057950"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/vizaport-ai-chat\/assets\/icon-128x128.png?rev=3057950",
+        "2x": "https:\/\/ps.w.org\/vizaport-ai-chat\/assets\/icon-256x256.png?rev=3057950"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

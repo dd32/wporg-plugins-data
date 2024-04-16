@@ -1,0 +1,527 @@
+{
+    "name": "Hello Dolly",
+    "slug": "hello-dolly",
+    "version": "1.7.2",
+    "author": "<a href=\"http:\/\/ma.tt\/\">Matt Mullenweg<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/matt\/",
+    "contributors": {
+        "matt": {
+            "profile": "https:\/\/profiles.wordpress.org\/matt\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/767fc9c115a1b989744c755db47feb60?s=96&d=monsterid&r=g",
+            "display_name": "Matt Mullenweg"
+        },
+        "wordpressdotorg": {
+            "profile": "https:\/\/profiles.wordpress.org\/wordpressdotorg\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/61ee2579b8905e62b4b4045bdc92c11a?s=96&d=monsterid&r=g",
+            "display_name": "WordPress.org"
+        }
+    },
+    "requires": "4.6",
+    "tested": "6.4.4",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 60,
+    "ratings": {
+        "5": 129,
+        "4": 13,
+        "3": 5,
+        "2": 8,
+        "1": 136
+    },
+    "num_ratings": 291,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/hello-dolly\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 700000,
+    "downloaded": 13662759,
+    "last_updated": "2023-11-13 3:24pm GMT",
+    "added": "2008-07-06",
+    "homepage": "http:\/\/wordpress.org\/plugins\/hello-dolly\/",
+    "sections": {
+        "description": "<p>This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from Hello, Dolly in the upper right of your admin screen on every page.<\/p>\n<p>Thanks to Sanjib Ahmad for the artwork.<\/p>\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Bloat<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/adamyars\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/85b96503dd49fc4dd12a0906262034f3?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/85b96503dd49fc4dd12a0906262034f3?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/adamyars\/\" class=\"reviewer-name\">adamyars<\/a> on <span class=\"review-date\">April 2, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Garbage that automatically installs on a new website. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Bloatware<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/stevenblakesley\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/9521712acc9180e9828799cf4011fdb2?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/9521712acc9180e9828799cf4011fdb2?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/stevenblakesley\/\" class=\"reviewer-name\">stevenblakesley<\/a> on <span class=\"review-date\">January 18, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Why is this a default plugin on Godaddy and other wordpress installs?<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">ignore the naysayers<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mtonumaa\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/a871c7350a4c938ff3128e73e5292bea?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/a871c7350a4c938ff3128e73e5292bea?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mtonumaa\/\" class=\"reviewer-name\">mtonumaa<\/a> on <span class=\"review-date\">December 19, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">A fabulous plugin for the joyous! :)) people who hate this plugin need to get out more :)) \"You're lookin' swell, Dolly\"<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Absolutely useless plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/niezmywalny\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/51779b694072a668c8e2c85e955699ec?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/51779b694072a668c8e2c85e955699ec?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/niezmywalny\/\" class=\"reviewer-name\">niezmywalny<\/a> on <span class=\"review-date\">October 17, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I believe someone is paying money to add this useless plugin to WordPress with every installation. If you see this plugin, please remove it.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Delete this nonsense. It serves no purpose.<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/dougbeney\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/220048b3e8fd9f0b3335f4107af4a6cd?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/220048b3e8fd9f0b3335f4107af4a6cd?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/dougbeney\/\" class=\"reviewer-name\">Doug Beney <small>(dougbeney)<\/small><\/a> on <span class=\"review-date\">October 11, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Serves no purpose to most users and developers can just Google for a plugin code example if they need one.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Why is this still a thing?<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/pedrotski\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/78831151222100808d0005dd4596f1ae?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/78831151222100808d0005dd4596f1ae?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/pedrotski\/\" class=\"reviewer-name\">pedrotski<\/a> on <span class=\"review-date\">July 1, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>It's the most pointless plugin and is one of the first things that gets removed on a new installation. By default, there should be 0 plugins on new software. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Belle initiative<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jeffman12\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/2ab092c920e53a61653078adce971828?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/2ab092c920e53a61653078adce971828?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jeffman12\/\" class=\"reviewer-name\">Jeff <small>(jeffman12)<\/small><\/a> on <span class=\"review-date\">June 2, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Il fallait y penser, mais par contre pourquoi est-ce que c'est install\u00e9 d'office ?<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Funny<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/hahalosah\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/ec29defc64258d48d9c7e6e92e69fd65?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/ec29defc64258d48d9c7e6e92e69fd65?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/hahalosah\/\" class=\"reviewer-name\">hahalosah<\/a> on <span class=\"review-date\">May 10, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Why are people hating on this?<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Pointless bloatware<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/andrewinsideout\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/aa463b97b1bb9ff40735bc6012afc4f6?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/aa463b97b1bb9ff40735bc6012afc4f6?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/andrewinsideout\/\" class=\"reviewer-name\">andrewinsideout<\/a> on <span class=\"review-date\">April 27, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Pointless bloatware. Please remove this from the core install. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Making me lose business. Whatever security issue was detected removed my pics<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/eesh73\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/609643d33e9e949fec09c5149b1b9469?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/609643d33e9e949fec09c5149b1b9469?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/eesh73\/\" class=\"reviewer-name\">eesh73<\/a> on <span class=\"review-date\">March 27, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\r\n<p>Last week or so I recieved an email from wordpress regarding a vulnerability being detected with a plugin. I was told nothing harmful happened and it would automatically update for me if I had a particular version (which I did) fast forward- I'm checking my site today to add pictures and MOST of my pictures are MISSING.<\/p>\r\n<!-- \/wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>I have no idea how long this has been going on and it has cost me BUSINESS. I'm extremely upset as I pay monthly for service and my host (bluehost) said they can't help because it's a WordPress issue. <\/p>\r\n<!-- \/wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>Hello Dolly is the plug in that is causing this issue. Please fix asap.<\/p>\r\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong.",
+    "description": "<p>This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from Hello, Dolly in the upper right of your admin screen on every page.<\/p>\n<p>Thanks to Sanjib Ahmad for the artwork.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/hello-dolly.1.7.3.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": [],
+    "stable_tag": "1.7.3",
+    "versions": {
+        "1.5": "https:\/\/downloads.wordpress.org\/plugin\/hello-dolly.1.5.zip",
+        "1.6": "https:\/\/downloads.wordpress.org\/plugin\/hello-dolly.1.6.zip",
+        "1.7.2": "https:\/\/downloads.wordpress.org\/plugin\/hello-dolly.1.7.2.zip",
+        "1.7.3": "https:\/\/downloads.wordpress.org\/plugin\/hello-dolly.1.7.3.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/hello-dolly.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/hello-dolly\/assets\/banner-772x250.jpg?rev=2052855",
+        "high": "https:\/\/ps.w.org\/hello-dolly\/assets\/banner-1544x500.jpg?rev=2645582"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/hello-dolly\/assets\/icon-128x128.jpg?rev=2052855",
+        "2x": "https:\/\/ps.w.org\/hello-dolly\/assets\/icon-256x256.jpg?rev=2052855"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 60,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "ar",
+            "version": "1.7.2",
+            "updated": "2019-02-16 00:46:40",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/ar.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "ast",
+            "version": "1.7.2",
+            "updated": "2020-12-13 10:49:52",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/ast.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "bo",
+            "version": "1.7.2",
+            "updated": "2019-03-31 14:35:02",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/bo.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "ca",
+            "version": "1.7.2",
+            "updated": "2019-06-16 10:33:42",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/ca.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "ca_valencia",
+            "version": "1.7.2",
+            "updated": "2023-11-11 19:57:55",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/ca_valencia.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "cs_CZ",
+            "version": "1.7.2",
+            "updated": "2018-03-19 07:57:54",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/cs_CZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "da_DK",
+            "version": "1.7.2",
+            "updated": "2021-04-13 23:20:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/da_DK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "de_DE_formal",
+            "version": "1.7.2",
+            "updated": "2020-01-02 10:34:17",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/de_DE_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "de_DE",
+            "version": "1.7.2",
+            "updated": "2018-04-05 08:39:30",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "el",
+            "version": "1.7.2",
+            "updated": "2018-05-31 07:40:19",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/el.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "en_ZA",
+            "version": "1.7.2",
+            "updated": "2020-05-20 11:05:18",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/en_ZA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "en_CA",
+            "version": "1.7.2",
+            "updated": "2018-03-29 16:29:19",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/en_CA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "en_AU",
+            "version": "1.7.2",
+            "updated": "2018-03-20 09:37:00",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/en_AU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "en_GB",
+            "version": "1.7.2",
+            "updated": "2018-03-20 19:24:06",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/en_GB.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "es_CL",
+            "version": "1.7.2",
+            "updated": "2024-03-17 19:19:19",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/es_CL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "es_ES",
+            "version": "1.7.2",
+            "updated": "2019-10-09 18:49:33",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "es_MX",
+            "version": "1.7.2",
+            "updated": "2019-10-08 18:26:12",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/es_MX.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "es_VE",
+            "version": "1.7.2",
+            "updated": "2020-04-23 22:59:33",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "es_AR",
+            "version": "1.7.2",
+            "updated": "2020-08-12 15:25:24",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/es_AR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "eu",
+            "version": "1.7.2",
+            "updated": "2019-07-29 22:18:03",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/eu.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "fa_IR",
+            "version": "1.7.2",
+            "updated": "2019-06-15 09:59:38",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/fa_IR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "fr_CA",
+            "version": "1.7.2",
+            "updated": "2018-08-13 16:24:31",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/fr_CA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "fr_FR",
+            "version": "1.7.2",
+            "updated": "2018-04-27 10:03:32",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "gl_ES",
+            "version": "1.7.2",
+            "updated": "2018-09-29 19:40:35",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/gl_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "he_IL",
+            "version": "1.7.2",
+            "updated": "2019-09-08 12:25:13",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/he_IL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "hi_IN",
+            "version": "1.7.2",
+            "updated": "2023-08-08 23:56:23",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/hi_IN.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "hsb",
+            "version": "1.7.2",
+            "updated": "2020-01-31 20:45:56",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/hsb.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "hu_HU",
+            "version": "1.7.2",
+            "updated": "2020-11-06 06:14:34",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/hu_HU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "id_ID",
+            "version": "1.7.2",
+            "updated": "2021-06-12 15:07:46",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/id_ID.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "it_IT",
+            "version": "1.7.2",
+            "updated": "2019-03-27 21:04:06",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "ja",
+            "version": "1.7.2",
+            "updated": "2020-10-30 07:03:00",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/ja.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "ko_KR",
+            "version": "1.7.2",
+            "updated": "2020-06-25 18:32:21",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/ko_KR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "kmr",
+            "version": "1.7.2",
+            "updated": "2020-11-21 10:21:05",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/kmr.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "lt_LT",
+            "version": "1.7.2",
+            "updated": "2019-07-27 10:27:32",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/lt_LT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "lv",
+            "version": "1.7.2",
+            "updated": "2021-06-06 19:40:47",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/lv.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "mr",
+            "version": "1.7.2",
+            "updated": "2024-02-28 02:33:13",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/mr.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "nb_NO",
+            "version": "1.7.2",
+            "updated": "2019-02-15 22:09:42",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/nb_NO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "nl_NL_formal",
+            "version": "1.7.2",
+            "updated": "2022-05-09 16:44:35",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/nl_NL_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "nl_NL",
+            "version": "1.7.2",
+            "updated": "2023-11-13 12:34:15",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "nl_BE",
+            "version": "1.7.2",
+            "updated": "2022-10-18 14:02:47",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/nl_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "pl_PL",
+            "version": "1.7.2",
+            "updated": "2021-05-28 05:56:00",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/pl_PL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "pt_BR",
+            "version": "1.7.2",
+            "updated": "2019-08-13 18:09:11",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/pt_BR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "pt_PT",
+            "version": "1.7.2",
+            "updated": "2020-09-30 09:49:50",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/pt_PT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "ro_RO",
+            "version": "1.7.2",
+            "updated": "2018-03-18 20:51:03",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/ro_RO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "ru_RU",
+            "version": "1.7.2",
+            "updated": "2018-06-04 21:57:16",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "sk_SK",
+            "version": "1.7.2",
+            "updated": "2019-01-20 15:25:31",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/sk_SK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "sq",
+            "version": "1.7.2",
+            "updated": "2018-03-19 10:04:36",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/sq.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "sr_RS",
+            "version": "1.7.2",
+            "updated": "2019-05-11 13:53:35",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/sr_RS.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "sv_SE",
+            "version": "1.7.2",
+            "updated": "2018-03-18 12:34:54",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/sv_SE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "sw",
+            "version": "1.7.2",
+            "updated": "2024-02-16 18:41:43",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/sw.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "ta_IN",
+            "version": "1.7.2",
+            "updated": "2023-05-23 17:48:08",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/ta_IN.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "tr_TR",
+            "version": "1.7.2",
+            "updated": "2019-03-26 12:20:46",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/tr_TR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "uk",
+            "version": "1.7.2",
+            "updated": "2019-06-07 20:53:10",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/uk.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "vi",
+            "version": "1.7.2",
+            "updated": "2019-11-12 11:26:07",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/vi.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "zh_CN",
+            "version": "1.7.2",
+            "updated": "2023-11-01 06:35:28",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/zh_CN.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "hello-dolly",
+            "language": "zh_TW",
+            "version": "1.7.2",
+            "updated": "2019-04-03 10:42:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/hello-dolly\/1.7.2\/zh_TW.zip"
+        }
+    ]
+}

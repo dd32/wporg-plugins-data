@@ -1,0 +1,420 @@
+{
+    "name": "L-Clutch",
+    "slug": "l-clutch",
+    "version": "1.0.4",
+    "author": "onrise-web",
+    "author_profile": "https:\/\/profiles.wordpress.org\/lclutch\/",
+    "contributors": {
+        "onriseweb": {
+            "profile": "https:\/\/profiles.wordpress.org\/onriseweb\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/0939082151edd92d13d3d491b7d647ff?s=96&d=monsterid&r=g",
+            "display_name": "Daichi Yamauchi"
+        }
+    },
+    "requires": "6.2",
+    "tested": "6.5.2",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/l-clutch\/",
+    "support_threads": 1,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 286,
+    "last_updated": "2024-03-23 12:02am GMT",
+    "added": "2024-02-13",
+    "homepage": "https:\/\/l-clutch.com\/",
+    "sections": {
+        "description": "<p>L-Clutch\u306f\u3001Wordpress\u3068LINE\u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u9023\u643a\u3059\u308b\u30d7\u30e9\u30b0\u30a4\u30f3\u3067\u3059\u3002<br \/>\nweb\u30b5\u30a4\u30c8\u306bLINE\u30ed\u30b0\u30a4\u30f3\u30dc\u30bf\u30f3\u3092\u8a2d\u7f6e\u3057\u3001web\u30b5\u30a4\u30c8\u306e\u30e6\u30fc\u30b6\u30fc\u3068LINE\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u7d10\u3065\u3051\u307e\u3059\u3002<\/p>\n<h4>\u4e3b\u306a\u6a5f\u80fd<\/h4>\n<ul>\n<li>** \u30e6\u30fc\u30b6\u30fc\u4e00\u89a7\u6a5f\u80fd ** &#8211; \u3053\u308c\u307e\u3067\u306b\u30ed\u30b0\u30a4\u30f3\u3057\u305f\u30e6\u30fc\u30b6\u306e\u4e00\u89a7\u304c\u78ba\u8a8d\u3067\u304d\u307e\u3059\u3002\u6700\u7d42\u30ed\u30b0\u30a4\u30f3\u65e5\u6642\u3084\u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8\u306e\u53cb\u3060\u3061\u8ffd\u52a0\u72b6\u6cc1\u306a\u3069\u306e\u60c5\u5831\u304c\u78ba\u8a8d\u53ef\u80fd\u3067\u3059\u3002<\/li>\n<li>** \u30ea\u30c3\u30c1\u30e1\u30cb\u30e5\u30fc\u8a2d\u5b9a\u6a5f\u80fd ** &#8211; WordPress\u7ba1\u7406\u753b\u9762\u304b\u3089\u30ea\u30c3\u30c1\u30e1\u30cb\u30e5\u30fc\u3092\u8a2d\u5b9a\u3067\u304d\u307e\u3059\u3002\u8907\u6570\u306e\u30ea\u30c3\u30c1\u30e1\u30cb\u30e5\u30fc\u3092\u4f5c\u6210\u3057\u3001\u5207\u308a\u66ff\u3048\u3092\u884c\u3046\u3053\u3068\u3082\u53ef\u80fd\u3067\u3059\u3002<\/li>\n<li>** L-Clutch\u30d6\u30ed\u30c3\u30af ** &#8211; \u30d6\u30ed\u30c3\u30af\u30a8\u30c7\u30a3\u30bf\u3067\u4f7f\u7528\u53ef\u80fd\u306a\u30d6\u30ed\u30c3\u30af\u3067\u3059\u3002\u4e0b\u8a18\u304c\u4e3b\u306a\u30d6\u30ed\u30c3\u30af\u306b\u306a\u308a\u307e\u3059\u3002\n<ul>\n<li>** LINE\u30ed\u30b0\u30a4\u30f3\u30dc\u30bf\u30f3 ** &#8211; LINE\u30ed\u30b0\u30a4\u30f3\u3067\u304d\u308b\u30dc\u30bf\u30f3\u3092\u8a2d\u7f6e\u3067\u304d\u307e\u3059\u3002<\/li>\n<li>** \u95b2\u89a7\u5236\u9650\u30a8\u30ea\u30a2 ** &#8211; \u30a8\u30ea\u30a2\u5185\u306e\u30b3\u30f3\u30c6\u30f3\u30c4\u3092\u95b2\u89a7\u3067\u304d\u308b\u30e6\u30fc\u30b6\u30fc\u3092\u5236\u9650\u3067\u304d\u307e\u3059\u3002<\/li>\n<li>** \u53cb\u3060\u3061\u8ffd\u52a0\u30dc\u30bf\u30f3 ** &#8211; LINE\u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u53cb\u3060\u3061\u306b\u8ffd\u52a0\u3059\u308b\u305f\u3081\u306e\u30dc\u30bf\u30f3\u3067\u3059\u3002<\/li>\n<\/ul>\n<\/li>\n<\/ul>\n<h3>External Services Used<\/h3>\n<p>\u3053\u306e\u30d7\u30e9\u30b0\u30a4\u30f3\u306f\u3001\u4e0b\u8a18\u306e\u5916\u90e8\u30b5\u30fc\u30d3\u30b9\u3092\u4f7f\u7528\u3057\u307e\u3059\u3002<\/p>\n<h4>LINE \u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0<\/h4>\n<p>WordPress\u3068LINE\u3092\u9023\u643a\u3059\u308b\u305f\u3081\u306b\u3001LINE\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u306eLINE\u30ed\u30b0\u30a4\u30f3\u30c1\u30e3\u30cd\u30eb\u3001Messaging API\u30c1\u30e3\u30cd\u30eb\u3078API\u3092\u901a\u3058\u3066\u30a2\u30af\u30bb\u30b9\u3057\u307e\u3059\u3002<br \/>\n\u305d\u308c\u305e\u308c\u306e\u30c1\u30e3\u30cd\u30eb\u306f\u3001<a href=\"https:\/\/developers.line.biz\/console\/\" rel=\"nofollow ugc\">LINE Developers Console<\/a>\u3088\u308a\u3001\u4f5c\u6210\u3057\u3066\u304f\u3060\u3055\u3044\u3002<br \/>\nAPI\u306e\u5229\u7528\u306b\u5f53\u305f\u308a\u3001\u4e0b\u8a18\u306e\u30ac\u30a4\u30c9\u30e9\u30a4\u30f3\u3092\u9075\u5b88\u3057\u3066\u304f\u3060\u3055\u3044\u3002<\/p>\n<ul>\n<li><a href=\"https:\/\/terms.line.me\/line_terms_notice\" rel=\"nofollow ugc\">LINE\u30e4\u30d5\u30fc\u5171\u901a\u5229\u7528\u898f\u7d04<\/a><\/li>\n<li><a href=\"https:\/\/terms2.line.me\/LINE_Developers_Agreement\" rel=\"nofollow ugc\">LINE\u958b\u767a\u8005\u5951\u7d04<\/a><\/li>\n<li><a href=\"https:\/\/terms2.line.me\/LINE_Developers_user_data_policy?lang=ja\" rel=\"nofollow ugc\">LINE\u30e6\u30fc\u30b6\u30fc\u30c7\u30fc\u30bf\u30dd\u30ea\u30b7\u30fc<\/a><\/li>\n<li><a href=\"https:\/\/terms2.line.me\/official_account_api_terms_jp?lang=ja\" rel=\"nofollow ugc\">LINE\u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8API\u5229\u7528\u898f\u7d04<\/a><\/li>\n<\/ul>\n<p>\u3053\u306e\u30d7\u30e9\u30b0\u30a4\u30f3\u306f\u3001LINE\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u306e\u4e0b\u8a18\u306e\u30b5\u30fc\u30d3\u30b9\u3001API\u3092\u4f7f\u7528\u3057\u3066\u3044\u307e\u3059\u3002<\/p>\n<ul>\n<li>Channel Access Token API\n<ul>\n<li>\u30a8\u30f3\u30c9\u30dd\u30a4\u30f3\u30c8: https:\/\/api.line.me\/<\/li>\n<li><a href=\"https:\/\/developers.line.biz\/ja\/reference\/messaging-api\/#channel-access-token\" rel=\"nofollow ugc\">API\u30ea\u30d5\u30a1\u30ec\u30f3\u30b9<\/a><\/li>\n<li><a href=\"https:\/\/developers.line.biz\/ja\/docs\/basics\/channel-access-token\/\" rel=\"nofollow ugc\">\u30c1\u30e3\u30f3\u30cd\u30eb\u30a2\u30af\u30bb\u30b9\u30c8\u30fc\u30af\u30f3\u306b\u3064\u3044\u3066<\/a><\/li>\n<\/ul>\n<\/li>\n<li>Messaging API\n<ul>\n<li>\u30a8\u30f3\u30c9\u30dd\u30a4\u30f3\u30c8: https:\/\/api.line.me\/v2\/bot\/, https:\/\/api-data.line.me\/v2\/bot\/<\/li>\n<li><a href=\"https:\/\/developers.line.biz\/ja\/reference\/messaging-api\/\" rel=\"nofollow ugc\">API\u30ea\u30d5\u30a1\u30ec\u30f3\u30b9<\/a><\/li>\n<li><a href=\"https:\/\/developers.line.biz\/ja\/docs\/messaging-api\/development-guidelines\/\" rel=\"nofollow ugc\">\u958b\u767a\u30ac\u30a4\u30c9\u30e9\u30a4\u30f3<\/a><\/li>\n<\/ul>\n<\/li>\n<li>LINE\u30ed\u30b0\u30a4\u30f3 v2.1 API\n<ul>\n<li>\u30a8\u30f3\u30c9\u30dd\u30a4\u30f3\u30c8: https:\/\/api.line.me\/oauth2\/v2.1\/verify, https:\/\/api.line.me\/v2\/profile, https:\/\/api.line.me\/friendship\/v1\/status<\/li>\n<li>\u8a8d\u8a3cURL: https:\/\/access.line.me\/oauth2\/v2.1\/authorize<\/li>\n<li><a href=\"https:\/\/developers.line.biz\/ja\/reference\/line-login\/\" rel=\"nofollow ugc\">\u516c\u5f0f\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8<\/a><\/li>\n<li><a href=\"https:\/\/developers.line.biz\/ja\/docs\/line-login\/development-guidelines\/\" rel=\"nofollow ugc\">\u958b\u767a\u30ac\u30a4\u30c9\u30e9\u30a4\u30f3<\/a><\/li>\n<\/ul>\n<\/li>\n<\/ul>\n<h3>Source Code<\/h3>\n<p>dist\u30d5\u30a9\u30eb\u30c0\u30fc\u306b\u3042\u308b\u30b3\u30fc\u30c9\u306e\u30bd\u30fc\u30b9\u30b3\u30fc\u30c9\u306f\u3001src\u30d5\u30a9\u30eb\u30c0\u30fc\u306b\u683c\u7d0d\u3055\u308c\u3066\u3044\u307e\u3059\u3002<\/p>\n",
+        "installation": "<ol>\n<li>\n<p>\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3057\u305f\u3044web\u30b5\u30a4\u30c8\u306eWordPress\u30c0\u30c3\u30b7\u30e5\u30dc\u30fc\u30c9\u304b\u3089\u3001\u30d7\u30e9\u30b0\u30a4\u30f3\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u306b\u30a2\u30af\u30bb\u30b9\u3057\u3001\u300cL-Clutch\u300d\u3092\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3057\u3066\u4e0b\u3055\u3044\u3002<\/p>\n<\/li>\n<li>\n<p>\u30d7\u30e9\u30b0\u30a4\u30f3\u753b\u9762\u3067\u3001L-Clutch\u3092\u6709\u52b9\u5316\u3057\u307e\u3059\u3002<\/p>\n<\/li>\n<li>\n<p>\u30c0\u30c3\u30b7\u30e5\u30dc\u30fc\u30c9\u306e\u30e1\u30cb\u30e5\u30fc\u306b\u300cL-Clutch\u300d\u304c\u8ffd\u52a0\u3055\u308c\u308b\u306e\u3067\u3001L-Clutch\u5185\u306e\u300c\u8a2d\u5b9a\u300d\u3092\u958b\u304d\u3001\u300cLINE\u63a5\u7d9a\u8a2d\u5b9a\u300d\u30bf\u30d6\u3067LINE\u30ed\u30b0\u30a4\u30f3\u30c1\u30e3\u30cd\u30eb\u3068LINE Messaging API\u30c1\u30e3\u30cd\u30eb\u3092\u8a2d\u5b9a\u3057\u3066\u4e0b\u3055\u3044\u3002<\/p>\n<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='%E7%A7%81%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E%E3%81%A7l-clutch%E3%81%AF%E5%8B%95%E4%BD%9C%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F'>\n\u79c1\u306e\u30c6\u30fc\u30de\u3067L-Clutch\u306f\u52d5\u4f5c\u3057\u307e\u3059\u304b\uff1f\n<\/h4>\n<p>\n<p>\u306f\u3044\u3002L-Clutch\u306f\u3069\u3093\u306a\u30c6\u30fc\u30de\u3067\u3082\u304a\u4f7f\u3044\u9802\u3051\u308b\u3088\u3046\u306b\u8a2d\u8a08\u3057\u3066\u304a\u308a\u307e\u3059\u3002<\/p>\n<\/p>\n<dt id='%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C%E3%80%81l-clutch%E3%82%92%E5%88%A9%E7%94%A8%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F'>\n\u30d6\u30ed\u30c3\u30af\u30a8\u30c7\u30a3\u30bf\u3092\u4f7f\u7528\u3057\u3066\u3044\u306a\u3044\u306e\u3067\u3059\u304c\u3001L-Clutch\u3092\u5229\u7528\u3067\u304d\u307e\u3059\u304b\uff1f\n<\/h4>\n<p>\n<p>\u306f\u3044\u3002\u30d6\u30ed\u30c3\u30af\u30a8\u30c7\u30a3\u30bf\u3092\u4f7f\u7528\u3057\u3066\u3044\u306a\u304f\u3066\u3082\u3001L-Clutch\u3092\u3054\u5229\u7528\u9802\u3051\u307e\u3059\u3002L-Clutch\u30d6\u30ed\u30c3\u30af\u306b\u5bfe\u5fdc\u3057\u305f\u30b7\u30e7\u30fc\u30c8\u30b3\u30fc\u30c9\u3092\u7528\u610f\u3057\u3066\u304a\u308a\u307e\u3059\u306e\u3067\u3001\u305d\u3061\u3089\u3092\u304a\u4f7f\u3044\u4e0b\u3055\u3044\u3002<\/p>\n<\/p>\n<dt id='%E4%BB%96%E3%81%AEline%E9%80%A3%E6%90%BA%E3%83%84%E3%83%BC%E3%83%AB%E3%81%A8%E4%BD%B5%E7%94%A8%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F'>\n\u4ed6\u306eLINE\u9023\u643a\u30c4\u30fc\u30eb\u3068\u4f75\u7528\u3067\u304d\u307e\u3059\u304b\uff1f\n<\/h4>\n<p>\n<p>\u3044\u3044\u3048\u3002\u4eca\u306e\u3068\u3053\u308d\u3001\u4ed6\u306eLINE\u9023\u643a\u30c4\u30fc\u30eb\u3068\u4f75\u7528\u3059\u308b\u6a5f\u80fd\u306f\u3054\u3056\u3044\u307e\u305b\u3093\u3002L-Clutch\u3092\u4f7f\u7528\u3059\u308b\u5834\u5408\u3001\u4ed6\u306eLINE\u9023\u643a\u30c4\u30fc\u30eb\u306f\u4f7f\u7528\u3067\u304d\u306a\u3044\u306e\u3067\u3001\u4e88\u3081\u3054\u4e86\u627f\u4e0b\u3055\u3044\u3002<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.0<\/h4>\n<p>\u30d7\u30e9\u30b0\u30a4\u30f3\u306e\u30ea\u30ea\u30fc\u30b9<br \/>\n\u30ea\u30ea\u30fc\u30b9\u6642\u306e\u6a5f\u80fd<br \/>\n&#8211; \u30e6\u30fc\u30b6\u30fc\u4e00\u89a7\u6a5f\u80fd<br \/>\n&#8211; \u30ea\u30c3\u30c1\u30e1\u30cb\u30e5\u30fc\u8a2d\u5b9a\u6a5f\u80fd<br \/>\n&#8211; L-Clutch\u30d6\u30ed\u30c3\u30af<br \/>\n  &#8211; LINE\u30ed\u30b0\u30a4\u30f3\u30dc\u30bf\u30f3<br \/>\n  &#8211; \u30ed\u30b0\u30a2\u30a6\u30c8\u30dc\u30bf\u30f3<br \/>\n  &#8211; \u95b2\u89a7\u5236\u9650\u30a8\u30ea\u30a2<br \/>\n  &#8211; \u53cb\u3060\u3061\u8ffd\u52a0\u30dc\u30bf\u30f3<\/p>\n",
+        "reviews": ""
+    },
+    "short_description": "L-Clutch\u306f\u3001Wordpress\u3068LINE\u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u9023\u643a\u3057\u3001web\u30b5\u30a4\u30c8\u306e\u30e6\u30fc\u30b6\u30fc\u3068LINE\u30a2\u30ab\u30a6\u30f3\u30c8\u306e\u7d10\u3065\u3051\u3092\u884c\u3044\u307e\u3059\u3002",
+    "description": "<p>L-Clutch\u306f\u3001Wordpress\u3068LINE\u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u9023\u643a\u3059\u308b\u30d7\u30e9\u30b0\u30a4\u30f3\u3067\u3059\u3002<br \/>\nweb\u30b5\u30a4\u30c8\u306bLINE\u30ed\u30b0\u30a4\u30f3\u30dc\u30bf\u30f3\u3092\u8a2d\u7f6e\u3057\u3001web\u30b5\u30a4\u30c8\u306e\u30e6\u30fc\u30b6\u30fc\u3068LINE\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u7d10\u3065\u3051\u307e\u3059\u3002<\/p>\n<h4>\u4e3b\u306a\u6a5f\u80fd<\/h4>\n<ul>\n<li>** \u30e6\u30fc\u30b6\u30fc\u4e00\u89a7\u6a5f\u80fd ** &#8211; \u3053\u308c\u307e\u3067\u306b\u30ed\u30b0\u30a4\u30f3\u3057\u305f\u30e6\u30fc\u30b6\u306e\u4e00\u89a7\u304c\u78ba\u8a8d\u3067\u304d\u307e\u3059\u3002\u6700\u7d42\u30ed\u30b0\u30a4\u30f3\u65e5\u6642\u3084\u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8\u306e\u53cb\u3060\u3061\u8ffd\u52a0\u72b6\u6cc1\u306a\u3069\u306e\u60c5\u5831\u304c\u78ba\u8a8d\u53ef\u80fd\u3067\u3059\u3002<\/li>\n<li>** \u30ea\u30c3\u30c1\u30e1\u30cb\u30e5\u30fc\u8a2d\u5b9a\u6a5f\u80fd ** &#8211; WordPress\u7ba1\u7406\u753b\u9762\u304b\u3089\u30ea\u30c3\u30c1\u30e1\u30cb\u30e5\u30fc\u3092\u8a2d\u5b9a\u3067\u304d\u307e\u3059\u3002\u8907\u6570\u306e\u30ea\u30c3\u30c1\u30e1\u30cb\u30e5\u30fc\u3092\u4f5c\u6210\u3057\u3001\u5207\u308a\u66ff\u3048\u3092\u884c\u3046\u3053\u3068\u3082\u53ef\u80fd\u3067\u3059\u3002<\/li>\n<li>** L-Clutch\u30d6\u30ed\u30c3\u30af ** &#8211; \u30d6\u30ed\u30c3\u30af\u30a8\u30c7\u30a3\u30bf\u3067\u4f7f\u7528\u53ef\u80fd\u306a\u30d6\u30ed\u30c3\u30af\u3067\u3059\u3002\u4e0b\u8a18\u304c\u4e3b\u306a\u30d6\u30ed\u30c3\u30af\u306b\u306a\u308a\u307e\u3059\u3002\n<ul>\n<li>** LINE\u30ed\u30b0\u30a4\u30f3\u30dc\u30bf\u30f3 ** &#8211; LINE\u30ed\u30b0\u30a4\u30f3\u3067\u304d\u308b\u30dc\u30bf\u30f3\u3092\u8a2d\u7f6e\u3067\u304d\u307e\u3059\u3002<\/li>\n<li>** \u95b2\u89a7\u5236\u9650\u30a8\u30ea\u30a2 ** &#8211; \u30a8\u30ea\u30a2\u5185\u306e\u30b3\u30f3\u30c6\u30f3\u30c4\u3092\u95b2\u89a7\u3067\u304d\u308b\u30e6\u30fc\u30b6\u30fc\u3092\u5236\u9650\u3067\u304d\u307e\u3059\u3002<\/li>\n<li>** \u53cb\u3060\u3061\u8ffd\u52a0\u30dc\u30bf\u30f3 ** &#8211; LINE\u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u53cb\u3060\u3061\u306b\u8ffd\u52a0\u3059\u308b\u305f\u3081\u306e\u30dc\u30bf\u30f3\u3067\u3059\u3002<\/li>\n<\/ul>\n<\/li>\n<\/ul>\n<h3>External Services Used<\/h3>\n<p>\u3053\u306e\u30d7\u30e9\u30b0\u30a4\u30f3\u306f\u3001\u4e0b\u8a18\u306e\u5916\u90e8\u30b5\u30fc\u30d3\u30b9\u3092\u4f7f\u7528\u3057\u307e\u3059\u3002<\/p>\n<h4>LINE \u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0<\/h4>\n<p>WordPress\u3068LINE\u3092\u9023\u643a\u3059\u308b\u305f\u3081\u306b\u3001LINE\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u306eLINE\u30ed\u30b0\u30a4\u30f3\u30c1\u30e3\u30cd\u30eb\u3001Messaging API\u30c1\u30e3\u30cd\u30eb\u3078API\u3092\u901a\u3058\u3066\u30a2\u30af\u30bb\u30b9\u3057\u307e\u3059\u3002<br \/>\n\u305d\u308c\u305e\u308c\u306e\u30c1\u30e3\u30cd\u30eb\u306f\u3001<a href=\"https:\/\/developers.line.biz\/console\/\" rel=\"nofollow ugc\">LINE Developers Console<\/a>\u3088\u308a\u3001\u4f5c\u6210\u3057\u3066\u304f\u3060\u3055\u3044\u3002<br \/>\nAPI\u306e\u5229\u7528\u306b\u5f53\u305f\u308a\u3001\u4e0b\u8a18\u306e\u30ac\u30a4\u30c9\u30e9\u30a4\u30f3\u3092\u9075\u5b88\u3057\u3066\u304f\u3060\u3055\u3044\u3002<\/p>\n<ul>\n<li><a href=\"https:\/\/terms.line.me\/line_terms_notice\" rel=\"nofollow ugc\">LINE\u30e4\u30d5\u30fc\u5171\u901a\u5229\u7528\u898f\u7d04<\/a><\/li>\n<li><a href=\"https:\/\/terms2.line.me\/LINE_Developers_Agreement\" rel=\"nofollow ugc\">LINE\u958b\u767a\u8005\u5951\u7d04<\/a><\/li>\n<li><a href=\"https:\/\/terms2.line.me\/LINE_Developers_user_data_policy?lang=ja\" rel=\"nofollow ugc\">LINE\u30e6\u30fc\u30b6\u30fc\u30c7\u30fc\u30bf\u30dd\u30ea\u30b7\u30fc<\/a><\/li>\n<li><a href=\"https:\/\/terms2.line.me\/official_account_api_terms_jp?lang=ja\" rel=\"nofollow ugc\">LINE\u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8API\u5229\u7528\u898f\u7d04<\/a><\/li>\n<\/ul>\n<p>\u3053\u306e\u30d7\u30e9\u30b0\u30a4\u30f3\u306f\u3001LINE\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u306e\u4e0b\u8a18\u306e\u30b5\u30fc\u30d3\u30b9\u3001API\u3092\u4f7f\u7528\u3057\u3066\u3044\u307e\u3059\u3002<\/p>\n<ul>\n<li>Channel Access Token API\n<ul>\n<li>\u30a8\u30f3\u30c9\u30dd\u30a4\u30f3\u30c8: https:\/\/api.line.me\/<\/li>\n<li><a href=\"https:\/\/developers.line.biz\/ja\/reference\/messaging-api\/#channel-access-token\" rel=\"nofollow ugc\">API\u30ea\u30d5\u30a1\u30ec\u30f3\u30b9<\/a><\/li>\n<li><a href=\"https:\/\/developers.line.biz\/ja\/docs\/basics\/channel-access-token\/\" rel=\"nofollow ugc\">\u30c1\u30e3\u30f3\u30cd\u30eb\u30a2\u30af\u30bb\u30b9\u30c8\u30fc\u30af\u30f3\u306b\u3064\u3044\u3066<\/a><\/li>\n<\/ul>\n<\/li>\n<li>Messaging API\n<ul>\n<li>\u30a8\u30f3\u30c9\u30dd\u30a4\u30f3\u30c8: https:\/\/api.line.me\/v2\/bot\/, https:\/\/api-data.line.me\/v2\/bot\/<\/li>\n<li><a href=\"https:\/\/developers.line.biz\/ja\/reference\/messaging-api\/\" rel=\"nofollow ugc\">API\u30ea\u30d5\u30a1\u30ec\u30f3\u30b9<\/a><\/li>\n<li><a href=\"https:\/\/developers.line.biz\/ja\/docs\/messaging-api\/development-guidelines\/\" rel=\"nofollow ugc\">\u958b\u767a\u30ac\u30a4\u30c9\u30e9\u30a4\u30f3<\/a><\/li>\n<\/ul>\n<\/li>\n<li>LINE\u30ed\u30b0\u30a4\u30f3 v2.1 API\n<ul>\n<li>\u30a8\u30f3\u30c9\u30dd\u30a4\u30f3\u30c8: https:\/\/api.line.me\/oauth2\/v2.1\/verify, https:\/\/api.line.me\/v2\/profile, https:\/\/api.line.me\/friendship\/v1\/status<\/li>\n<li>\u8a8d\u8a3cURL: https:\/\/access.line.me\/oauth2\/v2.1\/authorize<\/li>\n<li><a href=\"https:\/\/developers.line.biz\/ja\/reference\/line-login\/\" rel=\"nofollow ugc\">\u516c\u5f0f\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8<\/a><\/li>\n<li><a href=\"https:\/\/developers.line.biz\/ja\/docs\/line-login\/development-guidelines\/\" rel=\"nofollow ugc\">\u958b\u767a\u30ac\u30a4\u30c9\u30e9\u30a4\u30f3<\/a><\/li>\n<\/ul>\n<\/li>\n<\/ul>\n<h3>Source Code<\/h3>\n<p>dist\u30d5\u30a9\u30eb\u30c0\u30fc\u306b\u3042\u308b\u30b3\u30fc\u30c9\u306e\u30bd\u30fc\u30b9\u30b3\u30fc\u30c9\u306f\u3001src\u30d5\u30a9\u30eb\u30c0\u30fc\u306b\u683c\u7d0d\u3055\u308c\u3066\u3044\u307e\u3059\u3002<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/l-clutch.1.0.4.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "%e3%83%a9%e3%82%a4%e3%83%b3": "\u30e9\u30a4\u30f3",
+        "line": "line",
+        "social-login": "social login"
+    },
+    "stable_tag": "1.0.4",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/l-clutch.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/l-clutch.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/l-clutch.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/l-clutch.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/l-clutch.1.0.4.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/l-clutch.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/l-clutch\/assets\/banner-772x250.png?rev=3035335",
+        "high": "https:\/\/ps.w.org\/l-clutch\/assets\/banner-1544x500.png?rev=3035335"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/l-clutch\/assets\/icon.svg?rev=3035330",
+        "svg": "https:\/\/ps.w.org\/l-clutch\/assets\/icon.svg?rev=3035330"
+    },
+    "blocks": {
+        "l-clutch\/logout-button": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 2,
+            "name": "l-clutch\/logout-button",
+            "version": "0.1.0",
+            "title": "LINE\u30ed\u30b0\u30a2\u30a6\u30c8\u30dc\u30bf\u30f3",
+            "category": "l-clutch",
+            "description": "\u30ed\u30b0\u30a2\u30a6\u30c8\u3092\u5b9f\u884c\u3059\u308b\u30dc\u30bf\u30f3\u3067\u3059\u3002\u30ed\u30b0\u30a4\u30f3\u3057\u3066\u3044\u306a\u3044\u5834\u5408\u306f\u8868\u793a\u3055\u308c\u307e\u305b\u3093\u3002",
+            "attributes": {
+                "text": {
+                    "type": "string",
+                    "default": "\u30ed\u30b0\u30a2\u30a6\u30c8",
+                    "source": "html",
+                    "selector": "a"
+                }
+            },
+            "supports": {
+                "align": [
+                    "wide",
+                    "full"
+                ],
+                "color": {
+                    "gradients": true
+                },
+                "typography": {
+                    "fontSize": true,
+                    "lineHeight": true
+                },
+                "shadow": true,
+                "spacing": {
+                    "padding": [
+                        "horizontal",
+                        "vertical"
+                    ],
+                    "margin": [
+                        "top",
+                        "bottom"
+                    ]
+                },
+                "layout": {
+                    "allowOrientation": false,
+                    "allowVerticalAlignment": false,
+                    "allowSwitching": false,
+                    "allowInheriting": false,
+                    "default": {
+                        "type": "flex",
+                        "justifyContent": "center"
+                    }
+                }
+            },
+            "styles": [
+                {
+                    "name": "fill",
+                    "label": "Fill"
+                },
+                {
+                    "name": "outline",
+                    "label": "Outline",
+                    "isDefault": true
+                }
+            ],
+            "example": {
+                "attributes": {
+                    "text": "\u30ed\u30b0\u30a2\u30a6\u30c8"
+                }
+            },
+            "textdomain": "l-clutch",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": [
+                "l-clutch-block-editor"
+            ],
+            "style": [
+                "file:.\/style-index.css",
+                "wp-block-button"
+            ],
+            "render": "file:.\/render.php"
+        },
+        "l-clutch\/profile-picture": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "l-clutch\/profile-picture",
+            "version": "0.1.0",
+            "title": "\u30d7\u30ed\u30d5\u30a3\u30fc\u30eb\u753b\u50cf",
+            "category": "l-clutch",
+            "textdomain": "l-clutch",
+            "description": "\u30ed\u30b0\u30a4\u30f3\u4e2d\u306e\u30a2\u30ab\u30a6\u30f3\u30c8\u306e\u30d7\u30ed\u30d5\u30a3\u30fc\u30eb\u753b\u50cf\u3092\u8868\u793a\u3057\u307e\u3059\u3002",
+            "attributes": {
+                "width": {
+                    "type": "string",
+                    "default": "100px"
+                }
+            },
+            "supports": {
+                "align": [
+                    "wide",
+                    "full"
+                ],
+                "shadow": true,
+                "spacing": {
+                    "margin": true
+                },
+                "layout": {
+                    "allowOrientation": false,
+                    "allowVerticalAlignment": false,
+                    "allowSwitching": false,
+                    "allowInheriting": false,
+                    "default": {
+                        "type": "flex",
+                        "justifyContent": "center"
+                    }
+                }
+            },
+            "styles": [
+                {
+                    "name": "rounded",
+                    "label": "\u4e38",
+                    "isDefault": true
+                },
+                {
+                    "name": "square",
+                    "label": "\u56db\u89d2"
+                }
+            ],
+            "example": {},
+            "editorScript": "file:.\/index.js",
+            "editorStyle": [
+                "l-clutch-block-editor",
+                "wp-block-avatar-editor"
+            ],
+            "style": "file:.\/style-index.css",
+            "render": "file:.\/render.php"
+        },
+        "l-clutch\/login-button": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 2,
+            "name": "l-clutch\/login-button",
+            "version": "0.1.0",
+            "title": "LINE\u30ed\u30b0\u30a4\u30f3\u30dc\u30bf\u30f3",
+            "category": "l-clutch",
+            "description": "LINE\u30ed\u30b0\u30a4\u30f3\u3092\u5b9f\u884c\u3059\u308b\u30dc\u30bf\u30f3\u3067\u3059\u3002\u30ed\u30b0\u30a4\u30f3\u3057\u3066\u3044\u308b\u5834\u5408\u306f\u8868\u793a\u3055\u308c\u307e\u305b\u3093\u3002",
+            "attributes": {
+                "loginUrl": {
+                    "type": "string",
+                    "source": "attribute",
+                    "selector": "a",
+                    "attribute": "href"
+                },
+                "text": {
+                    "type": "string",
+                    "default": "LINE\u3067\u30ed\u30b0\u30a4\u30f3",
+                    "source": "html",
+                    "selector": "span"
+                },
+                "imageId": {
+                    "type": "number"
+                },
+                "imageUrl": {
+                    "type": "string",
+                    "source": "attribute",
+                    "selector": "img",
+                    "attribute": "src"
+                },
+                "imageAlt": {
+                    "type": "string",
+                    "source": "attribute",
+                    "selector": "img",
+                    "attribute": "alt"
+                },
+                "imageWidth": {
+                    "type": "string"
+                }
+            },
+            "supports": {
+                "align": [
+                    "wide",
+                    "full"
+                ],
+                "shadow": true,
+                "spacing": {
+                    "margin": [
+                        "top",
+                        "bottom"
+                    ]
+                },
+                "layout": {
+                    "allowOrientation": false,
+                    "allowVerticalAlignment": false,
+                    "allowSwitching": false,
+                    "allowInheriting": false,
+                    "default": {
+                        "type": "flex",
+                        "justifyContent": "center"
+                    }
+                },
+                "typography": {
+                    "fontSize": true
+                }
+            },
+            "example": {
+                "attributes": {
+                    "text": "LINE\u3067\u30ed\u30b0\u30a4\u30f3"
+                }
+            },
+            "textdomain": "l-clutch",
+            "editorScript": [
+                "file:.\/index.js",
+                "l-clutch-block-settings"
+            ],
+            "editorStyle": [
+                "l-clutch-block-editor"
+            ],
+            "style": "file:.\/style-index.css",
+            "render": "file:.\/render.php"
+        },
+        "l-clutch\/add-friend-button": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "l-clutch\/add-friend-button",
+            "version": "0.1.0",
+            "title": "\u53cb\u3060\u3061\u8ffd\u52a0\u30dc\u30bf\u30f3",
+            "category": "l-clutch",
+            "description": "\u53cb\u3060\u3061\u8ffd\u52a0\u30dc\u30bf\u30f3\u3067\u3059\u3002\u53cb\u3060\u3061\u306b\u8ffd\u52a0\u6e08\u307f\u306e\u5834\u5408\u306f\u3001\u8868\u793a\u3055\u308c\u307e\u305b\u3093\u3002",
+            "attributes": {
+                "basicId": {
+                    "type": "string"
+                },
+                "text": {
+                    "type": "string",
+                    "default": "\u53cb\u3060\u3061\u8ffd\u52a0",
+                    "source": "html",
+                    "selector": "span"
+                },
+                "imageId": {
+                    "type": "number"
+                },
+                "imageUrl": {
+                    "type": "string",
+                    "source": "attribute",
+                    "selector": "img",
+                    "attribute": "src"
+                },
+                "imageAlt": {
+                    "type": "string",
+                    "source": "attribute",
+                    "selector": "img",
+                    "attribute": "alt"
+                },
+                "imageWidth": {
+                    "type": "string"
+                }
+            },
+            "supports": {
+                "align": [
+                    "wide",
+                    "full"
+                ],
+                "shadow": true,
+                "spacing": {
+                    "margin": [
+                        "top",
+                        "bottom"
+                    ]
+                },
+                "layout": {
+                    "allowOrientation": false,
+                    "allowVerticalAlignment": false,
+                    "allowSwitching": false,
+                    "allowInheriting": false,
+                    "default": {
+                        "type": "flex",
+                        "justifyContent": "center"
+                    }
+                },
+                "typography": {
+                    "fontSize": true
+                }
+            },
+            "example": {
+                "attributes": {
+                    "text": "\u53cb\u3060\u3061\u8ffd\u52a0"
+                }
+            },
+            "textdomain": "l-clutch",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": [
+                "l-clutch-block-editor"
+            ],
+            "style": "file:.\/style-index.css",
+            "render": "file:.\/render.php"
+        },
+        "l-clutch\/restricted-area": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 2,
+            "name": "l-clutch\/restricted-area",
+            "version": "0.1.0",
+            "title": "\u95b2\u89a7\u5236\u9650\u30a8\u30ea\u30a2",
+            "category": "l-clutch",
+            "description": "\u95b2\u89a7\u3092\u5236\u9650\u3057\u307e\u3059\u3002",
+            "supports": {
+                "className": false,
+                "customClassName": false,
+                "html": false,
+                "align": [
+                    "wide",
+                    "full"
+                ]
+            },
+            "attributes": {
+                "readable": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "readableRoles": {
+                    "type": "array",
+                    "default": [
+                        "administrator",
+                        "editor",
+                        "author",
+                        "contributor",
+                        "l-clutch_line-user"
+                    ]
+                },
+                "readableLineUser": {
+                    "type": "object",
+                    "default": {
+                        "addedFriend": "all"
+                    }
+                }
+            },
+            "textdomain": "l-clutch",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": [
+                "file:.\/index.css",
+                "l-clutch-block-editor"
+            ],
+            "style": "file:.\/style-index.css",
+            "render": "file:.\/render.php"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

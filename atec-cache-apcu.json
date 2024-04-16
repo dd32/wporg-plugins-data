@@ -1,0 +1,91 @@
+{
+    "name": "atec Cache APCu",
+    "slug": "atec-cache-apcu",
+    "version": "1.3.5",
+    "author": "<a href=\"https:\/\/atec-systems.com\">Chris Ahrweiler<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/docjojo\/",
+    "contributors": {
+        "docjojo": {
+            "profile": "https:\/\/profiles.wordpress.org\/docjojo\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/d46b37ecc530a5137cc004e3f59b3dea?s=96&d=monsterid&r=g",
+            "display_name": "docjojo"
+        }
+    },
+    "requires": "5.2",
+    "tested": "6.5.2",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 3,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 3,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/atec-cache-apcu\/",
+    "support_threads": 6,
+    "support_threads_resolved": 5,
+    "active_installs": 100,
+    "downloaded": 3479,
+    "last_updated": "2024-04-14 5:07pm GMT",
+    "added": "2023-06-14",
+    "homepage": "https:\/\/atec-systems.com\/",
+    "sections": {
+        "description": "<p>This plugin provides a simple but effective APCu object and page cache.<\/p>\n<p>Object caching involves storing variables and database queries thereby speeding up PHP execution times. This reduces the load on your server, and delivers content to your visitors faster.<\/p>\n",
+        "installation": "<ol>\n<li>Upload the plugin folder to the <code>\/wp-content\/plugins\/<\/code> directory or upload the zip within WordPress<\/li>\n<li>Activate the plugin through the <code>Plugins<\/code> menu in WordPress<\/li>\n<li>Click &#8220;atec Cache APCu&#8221; link in admin menu bar.<\/li>\n<\/ol>\n",
+        "changelog": "<h4>1.3.5 [2024.04.14]<\/h4>\n<ul>\n<li>server info<\/li>\n<\/ul>\n<h4>1.3.4 [2024.04.02]<\/h4>\n<ul>\n<li>bug fix<\/li>\n<\/ul>\n<h4>1.3.3 [2024.04.01]<\/h4>\n<ul>\n<li>requestUrl |\u00a0port<\/li>\n<\/ul>\n<h4>1.3.1, 1.3.2 [2024.03.29]<\/h4>\n<ul>\n<li>OPcache bug fix<\/li>\n<\/ul>\n<h4>1.3.0 [2024.03.28]<\/h4>\n<ul>\n<li>tabs<\/li>\n<\/ul>\n<h4>1.2.9 [2024.03.27]<\/h4>\n<ul>\n<li>new grid<\/li>\n<\/ul>\n<h4>1.2.8 [2024.03.24]<\/h4>\n<ul>\n<li>admin menu atec group<\/li>\n<\/ul>\n<h4>1.2.7 [2024.03.23]<\/h4>\n<ul>\n<li>PCache bug fix, PCache always gzip<\/li>\n<\/ul>\n<h4>1.2.6 [2024.03.21]<\/h4>\n<ul>\n<li>check boxes<\/li>\n<\/ul>\n<h4>1.2.5 [2024.03.19]<\/h4>\n<ul>\n<li>APCu flush improved<\/li>\n<\/ul>\n<h4>1.2.4 [2024.03.15]<\/h4>\n<ul>\n<li>new atec-style<\/li>\n<\/ul>\n<h4>1.2.3 [2024.03.13]<\/h4>\n<ul>\n<li>changes according to plugin check<\/li>\n<\/ul>\n<h4>1.2, 1.2.2 [2024.02.23]<\/h4>\n<ul>\n<li>new options<\/li>\n<\/ul>\n<h4>1.2, 1.2.1 [2024.02.22]<\/h4>\n<ul>\n<li>fixed install<\/li>\n<\/ul>\n<h4>1.1.6 [2024.02.22]<\/h4>\n<ul>\n<li>fixed settings<\/li>\n<\/ul>\n<h4>1.1.4, 1.1.5 [2024.02.21]<\/h4>\n<ul>\n<li>fixed minify, page cache<\/li>\n<\/ul>\n<h4>1.1.2, 1.1.3 [2024.02.20]<\/h4>\n<ul>\n<li>fixed URL bug<\/li>\n<\/ul>\n<h4>1.1.1 [2023.09.14]<\/h4>\n<ul>\n<li>woocommerce Styles<\/li>\n<\/ul>\n<h4>1.1 [2023.07.21]<\/h4>\n<ul>\n<li>Tested with WP 6.3<\/li>\n<\/ul>\n<h4>1.1 [2023.05.07]<\/h4>\n<ul>\n<li>Changes requested by WordPress.org review team<\/li>\n<\/ul>\n<h4>1.0 [2023.04.07]<\/h4>\n<ul>\n<li>Initial Release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/atec-cache-apcu\/assets\/screenshot-1.png?rev=2926120\"><img src=\"https:\/\/ps.w.org\/atec-cache-apcu\/assets\/screenshot-1.png?rev=2926120\" alt=\"Settings\"><\/a><p>Settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/atec-cache-apcu\/assets\/screenshot-2.png?rev=2926120\"><img src=\"https:\/\/ps.w.org\/atec-cache-apcu\/assets\/screenshot-2.png?rev=2926120\" alt=\"Statistics\"><\/a><p>Statistics<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/atec-cache-apcu\/assets\/screenshot-3.png?rev=2926120\"><img src=\"https:\/\/ps.w.org\/atec-cache-apcu\/assets\/screenshot-3.png?rev=2926120\" alt=\"Groups\"><\/a><p>Groups<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great plugin!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/wpsolution\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/fa4e772d683a3d5e7dabe9efbcaaa9f0?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/fa4e772d683a3d5e7dabe9efbcaaa9f0?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/wpsolution\/\" class=\"reviewer-name\">wpSolution <small>(wpsolution)<\/small><\/a> on <span class=\"review-date\">March 22, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I hope it always remains <strong>simple <\/strong>and <strong>fast<\/strong>! Thank you!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Very good support.<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/alainmelsens\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d3cd842bfbdf44c4352b3220ab135bf5?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d3cd842bfbdf44c4352b3220ab135bf5?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/alainmelsens\/\" class=\"reviewer-name\">alainmelsens<\/a> on <span class=\"review-date\">February 22, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Very good and also personal support.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">APCu object and page cache in one plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/docjojo\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d46b37ecc530a5137cc004e3f59b3dea?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d46b37ecc530a5137cc004e3f59b3dea?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/docjojo\/\" class=\"reviewer-name\">docjojo<\/a> on <span class=\"review-date\">June 14, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>This plugin provides a simple but effective APCu object cache. In addition, it provices an optional page cache, using APCu memory.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "APCu object and page cache",
+    "description": "<p>This plugin provides a simple but effective APCu object and page cache.<\/p>\n<p>Object caching involves storing variables and database queries thereby speeding up PHP execution times. This reduces the load on your server, and delivers content to your visitors faster.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/atec-cache-apcu.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/atec-cache-apcu\/assets\/screenshot-1.png?rev=2926120",
+            "caption": "Settings"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/atec-cache-apcu\/assets\/screenshot-2.png?rev=2926120",
+            "caption": "Statistics"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/atec-cache-apcu\/assets\/screenshot-3.png?rev=2926120",
+            "caption": "Groups"
+        }
+    },
+    "tags": {
+        "apcu-object": "APCu object",
+        "page-cache": "page cache"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/www.paypal.com\/paypalme\/atecsystems\/5eur",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/atec-cache-apcu\/assets\/banner-772x250.png?rev=3052602",
+        "high": "https:\/\/ps.w.org\/atec-cache-apcu\/assets\/banner-1544x500.png?rev=3052602"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/atec-cache-apcu\/assets\/icon.svg?rev=2926115",
+        "svg": "https:\/\/ps.w.org\/atec-cache-apcu\/assets\/icon.svg?rev=2926115"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [
+        {
+            "filename": "blueprint.json",
+            "url": "https:\/\/wordpress.org\/plugins\/wp-json\/plugins\/v1\/plugin\/atec-cache-apcu\/blueprint.json?rev=3070281"
+        }
+    ],
+    "preview_link": "https:\/\/wordpress.org\/plugins\/atec-cache-apcu\/?preview=1",
+    "language_packs": []
+}

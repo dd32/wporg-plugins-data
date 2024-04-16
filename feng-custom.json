@@ -1,0 +1,116 @@
+{
+    "name": "Feng Custom",
+    "slug": "feng-custom",
+    "version": "1.2.4",
+    "author": "<a href=\"https:\/\/feng.pub\">\u963f\u950b<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/feng1988\/",
+    "contributors": {
+        "feng1988": {
+            "profile": "https:\/\/profiles.wordpress.org\/feng1988\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/868740183b995d2707e307ce0a89633a?s=96&d=monsterid&r=g",
+            "display_name": "\u963f\u950b"
+        }
+    },
+    "requires": "5.9",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/feng-custom\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 100,
+    "downloaded": 2421,
+    "last_updated": "2024-02-25 5:14am GMT",
+    "added": "2022-04-12",
+    "homepage": "https:\/\/gitee.com\/ouros\/feng-custom",
+    "sections": {
+        "description": "<p>\u6668\u98ce\u81ea\u5b9a\u4e49\uff0c\u53cb\u60c5\u94fe\u63a5\u53caRSS\u805a\u5408\u529f\u80fd\uff0c\u56fe\u7247\u706f\u7bb1\u53ca\u7f51\u9875\u7279\u6548\u5305\u542b\u8282\u65e5\u6c1b\u56f4\u3001\u96ea\u82b1\u98d8\u843d\u3001\u5e95\u90e8\u8fd0\u884c\u5929\u6570\u3001\u7f51\u9875\u7070\u8272\u3001\u8f93\u5165\u6846\u4e03\u5f69\u5149\u5b50\u7279\u6548\u7b49\u7b49\u3002<\/p>\n<p>\u4e3b\u8981\u529f\u80fd<\/p>\n<ul>\n<li>\u56fe\u7247\u706f\u7bb1<\/li>\n<li>\u8282\u65e5\u6c1b\u56f4\uff08\u5143\u65e6\u3001\u6625\u8282\u3001\u4e2d\u79cb\u3001\u56fd\u5e86\uff09<\/li>\n<li>\u7f51\u9875\u96ea\u82b1\u7279\u6548\uff08\u652f\u6301\u6587\u5b57\u3001\u56fe\u7247\uff09<\/li>\n<li>\u663e\u793a\u8fd0\u884c\u5929\u6570<\/li>\n<li>\u8f93\u5165\u6846\u4e03\u5f69\u5149\u5b50\u7279\u6548<\/li>\n<li>\u7ad9\u70b9\u8bbe\u7f6e\u4e3a\u7070\u8272<\/li>\n<li>\u7b2c\u4e09\u65b9\u94fe\u63a5\u5c0f\u5c3e\u5df4<\/li>\n<li>\u94fe\u63a5\uff08\u53cb\u60c5\u94fe\u63a5\uff09<\/li>\n<li>\u94fe\u63a5RSS\u805a\u5408<\/li>\n<\/ul>\n",
+        "installation": "<p>\u63a8\u8350\u4f7f\u7528WordPress \u4eea\u8868\u76d8\u5b89\u88c5\u4f7f\u7528<\/p>\n<ol>\n<li>\u8fdb\u5165WordPress\u4eea\u8868\u76d8\uff0c\u70b9\u51fb\u201c\u63d2\u4ef6-&gt;\u5b89\u88c5\u63d2\u4ef6\u201d\uff1b<\/li>\n<li>\u641c\u7d22\u201c \u6668\u98ce\u81ea\u5b9a\u4e49 \u201d\uff0c\u70b9\u51fb\u5b89\u88c5\uff1b<\/li>\n<li>\u5b89\u88c5\u5b8c\u6bd5\u540e\uff0c\u542f\u7528\u201cFeng Custom\u201d\u63d2\u4ef6\uff1b<\/li>\n<li>\u901a\u8fc7\u201c\u4e3b\u9898\u201d-&gt;\u201c\u6668\u98ce\u81ea\u5b9a\u4e49\u201d \u8fdb\u5165\u63d2\u4ef6\u8bbe\u7f6e\u754c\u9762\u8fdb\u884c\u76f8\u5173\u8bbe\u7f6e.<\/li>\n<li>\u6700\u540e\u4fdd\u5b58\u8bbe\u7f6e\u5373\u53ef\u3002<\/li>\n<\/ol>\n<p>FTP\u4e0a\u4f20\u5b89\u88c5<br \/>\n1. \u89e3\u538b\u63d2\u4ef6\u538b\u7f29\u5305feng-custom.zip\uff0c\u5c06\u89e3\u538b\u83b7\u5f97\u6587\u4ef6\u5939\u4e0a\u4f20\u81f3wordpress\u5b89\u88c5\u76ee\u5f55\u4e0b\u7684 <code>\/wp-content\/plugins\/<\/code>\u76ee\u5f55.<br \/>\n2. \u8bbf\u95eeWordPress\u4eea\u8868\u76d8\uff0c\u8fdb\u5165\u201c\u63d2\u4ef6\u201d-\u201c\u5df2\u5b89\u88c5\u63d2\u4ef6\u201d\uff0c\u5728\u63d2\u4ef6\u5217\u8868\u4e2d\u627e\u5230\u201c\u6668\u98ce\u81ea\u5b9a\u4e49\u201d\uff0c\u70b9\u51fb\u201c\u542f\u7528\u201d.<br \/>\n3. \u901a\u8fc7\u201c\u4e3b\u9898\u201d-&gt;\u201c\u6668\u98ce\u81ea\u5b9a\u4e49\u201d \u8fdb\u5165\u63d2\u4ef6\u8bbe\u7f6e\u754c\u9762\u8fdb\u884c\u76f8\u5173\u8bbe\u7f6e.<br \/>\n4. \u6700\u540e\u4fdd\u5b58\u8bbe\u7f6e\u5373\u53ef\u3002<\/p>\n<p>\u4eea\u8868\u76d8\u4e0a\u4f20\u5b89\u88c5<br \/>\n1. \u8fdb\u5165WordPress\u4eea\u8868\u76d8\uff0c\u70b9\u51fb\u201c\u63d2\u4ef6-\u5b89\u88c5\u63d2\u4ef6\u201d\uff1b<br \/>\n2. \u70b9\u51fb\u754c\u9762\u5de6\u4e0a\u65b9\u7684\u201c\u4e0a\u4f20\u6309\u94ae\u201d\uff0c\u9009\u62e9\u672c\u5730\u63d0\u524d\u4e0b\u8f7d\u597d\u7684\u63d2\u4ef6\u538b\u7f29\u5305feng-custom.zip\uff0c\u70b9\u51fb\u201c\u73b0\u5728\u5b89\u88c5\u201d\uff1b<br \/>\n3. \u5b89\u88c5\u5b8c\u6bd5\u540e\uff0c\u542f\u7528 <code>\u6668\u98ce\u81ea\u5b9a\u4e49<\/code> \u63d2\u4ef6\uff1b<br \/>\n4. \u901a\u8fc7\u201c\u4e3b\u9898\u201d-&gt;\u201c\u6668\u98ce\u81ea\u5b9a\u4e49\u201d \u8fdb\u5165\u63d2\u4ef6\u8bbe\u7f6e\u754c\u9762\u8fdb\u884c\u76f8\u5173\u8bbe\u7f6e.<br \/>\n5. \u6700\u540e\u4fdd\u5b58\u8bbe\u7f6e\u5373\u53ef\u3002<\/p>\n",
+        "faq": "\n<dt id='%E6%8F%92%E4%BB%B6%E5%AE%9A%E6%97%B6%E6%9C%BA%E5%88%B6%E6%98%AF%E5%90%A6%E6%B6%88%E8%80%97%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%B5%84%E6%BA%90%EF%BC%9F'>\n\u63d2\u4ef6\u5b9a\u65f6\u673a\u5236\u662f\u5426\u6d88\u8017\u670d\u52a1\u5668\u8d44\u6e90\uff1f\n<\/h4>\n<p>\n<p>\u63d2\u4ef6\u5b9a\u65f6\u673a\u5236\uff0c\u91c7\u7528JavaScript \u5b9e\u73b0\uff0c\u5ba2\u6237\u7aef\u6267\u884c\u4e0d\u6d88\u8017\u670d\u52a1\u5668\u8d44\u6e90\u3002<\/p>\n<\/p>\n\n",
+        "changelog": "<p>1.2.4\uff082024.02.25\uff09<br \/>\n&#8211; \u66f4\u65b0 \u524d\u7aef\u6837\u5f0f\u7ec6\u8282<br \/>\n&#8211; \u4fee\u590d \u8282\u65e5\u6c1b\u56f4\u65e5\u671f\u5224\u65ad\u9519\u8bef\u7684BGU<\/p>\n<p>1.2.3\uff082024.01.26\uff09<br \/>\n&#8211; \u66f4\u65b0 \u63d0\u4f9b\u6625\u8282\u6c1b\u56f4\u5f00\u542f\u7684\u8d77\u59cb\u65f6\u95f4<br \/>\n&#8211; \u66f4\u65b0 \u7981\u7528\u63d2\u4ef6\u65f6\u5220\u9664\u7f13\u5b58<br \/>\n&#8211; \u4fee\u590d \u540e\u53f0\u5916\u89c2-&gt;\u83dc\u5355\u53ca\u81ea\u5b9a\u4e49\u65f6\u51fa\u73b0\u7684Warning\u63d0\u793a<\/p>\n<p>1.2.2\uff082024.01.18\uff09<br \/>\n&#8211; \u65b0\u589e \u6625\u8282\u5012\u8ba1\u65f6\u3001\u6302\u4ef6\u3001\u6d77\u62a5<br \/>\n&#8211; \u66f4\u65b0 \u4e3a\u524d\u7aef\u6302\u4ef6\u589e\u52a0\u5173\u95ed\u6309\u94ae\uff0c\u6d77\u62a5\u589e\u52a0\u5012\u8ba1\u65f6\u81ea\u52a8\u5173\u95ed<br \/>\n&#8211; \u66f4\u65b0 \u524d\u7aef\u5012\u8ba1\u65f6\u529f\u80fd<br \/>\n&#8211; \u4fee\u590d \u96ea\u82b1\u98d8\u843d\u65e0\u6cd5\u663e\u793a\u56fe\u7247<br \/>\n&#8211; \u4fee\u590d \u6302\u4ef6\u8bbe\u7f6e\u4f4d\u7f6e\u65e0\u6548<\/p>\n<p>1.2.1\uff082023.12.28\uff09<br \/>\n&#8211; \u65b0\u589e \u540e\u53f0\u589e\u52a0\u68c0\u67e5RSS\u65e5\u5fd7\u9875\u9762<br \/>\n&#8211; \u4fee\u590d \u8282\u65e5\u6c1b\u56f4\u8de8\u5e74\u65e0\u6cd5\u6b63\u5e38\u663e\u793a\u7684\u95ee\u9898<br \/>\n&#8211; \u4fee\u590d \u65b0\u589e\u81ea\u5b9a\u4e49WP-Cron\u65f6\u95f4\u95f4\u9694\u9519\u8bef\u7684\u95ee\u9898<br \/>\n&#8211; \u4fee\u590d \u5347\u7ea7\u63d2\u4ef6\u540e\u9759\u6001JS\u3001CSS\u6587\u4ef6\u88ab\u8bef\u5220\u7684\u95ee\u9898<\/p>\n<p>1.2.0\uff082023.12.26\uff09<br \/>\n&#8211; \u65b0\u589e \u5143\u65e6\u8282\u65e5\u6c1b\u56f4\u6302\u4ef6<br \/>\n&#8211; \u65b0\u589e \u4eea\u8868\u76d8[\u94fe\u63a5-&gt;RSS\u805a\u5408]\u53ef\u624b\u52a8\u68c0\u67e5RSS\u6e90<br \/>\n&#8211; \u66f4\u65b0 \u540e\u53f0\u914d\u7f6e\u9875\u9762\u53ca\u4fdd\u5b58\u6570\u636e\u7684\u65b9\u5f0f<br \/>\n&#8211; \u66f4\u65b0 \u66f4\u6539RSS\u6e90\u68c0\u67e5\u7684\u65b9\u5f0f\u53caWP-Cron\u5b9a\u65f6\u4efb\u52a1<br \/>\n&#8211; \u66f4\u65b0 \u4eea\u8868\u76d8\u94fe\u63a5RSS\u805a\u5408\u9875\u9762<br \/>\n&#8211; \u4fee\u590d \u7f13\u5b58\u65f6\u6548\u5224\u65ad\u9519\u8bef<br \/>\n&#8211; \u4fee\u590d PHP8\u65e0\u6cd5\u6fc0\u6d3b\u63d2\u4ef6<br \/>\n&#8211; \u4fee\u590d \u5378\u8f7d\u63d2\u4ef6\u51fa\u73b0\u9519\u8bef\u7684\u95ee\u9898<\/p>\n<p>1.1.4\uff082023.09.21\uff09<br \/>\n&#8211; \u65b0\u589e \u8282\u65e5\u6c1b\u56f4\u540e\u53f0\u9009\u9879\uff08\u4e2d\u79cb\u6708\u4eae\u3001\u56fd\u5e86\u706f\u7b3c\uff09<br \/>\n&#8211; \u4fee\u590d RSS\u9879\u76ee\u5361\u7247\u6837\u5f0f<\/p>\n<p>1.1.3\uff082023.08.21\uff09<br \/>\n&#8211; \u4fee\u590d \u83b7\u53d6\u7a7a\u6587\u4ef6\u65f6\u540e\u53f0\u51fa\u73b0\u7684\u9519\u8bef\u4ee3\u7801<br \/>\n&#8211; \u66f4\u65b0 \u68c0\u67e5RSS\u6e90\u51fd\u6570<br \/>\n&#8211; \u66f4\u65b0 \u94fe\u63a5\u5361\u7247\u53caRSS\u9879\u76ee\u5361\u7247\u6837\u5f0f<\/p>\n<p>1.1.2\uff082023.02.01\uff09<br \/>\n&#8211; \u4fee\u590d \u5237\u65b0\u81ea\u5b9a\u4e49\u6587\u4ef6\u7248\u672c\u53f7\u672a\u8bb0\u5f55\u95ee\u9898<br \/>\n&#8211; \u4fee\u590d \u5220\u9664\u7f13\u5b58\u6587\u4ef6\u56e0\u672a\u5224\u65ad\u6587\u4ef6\u662f\u5426\u5b58\u5728\u800c\u62a5\u9519\u7684\u95ee\u9898<\/p>\n<p>1.1.1\uff082023.01.31\uff09<br \/>\n&#8211; \u66f4\u65b0 \u5c06\u7cfb\u7edf\u751f\u6210\u7684\u81ea\u5b9a\u4e49CSS\u3001JS\u6587\u4ef6\u79fb\u52a8\u81f3wp-content\/cache\/feng-custom\u76ee\u5f55\u4e0b<br \/>\n&#8211; \u66f4\u65b0 \u89e3\u51b3\u66f4\u6539\u914d\u7f6e\u540e\u9700\u8981\u6e05\u9664\u6d4f\u89c8\u5668\u52a0\u8f7d\u7f13\uff0c\u4f7f\u7528\u65f6\u95f4\u6233\u4f5c\u4e3a\u81ea\u5b9a\u4e49CSS\u53caJS\u6587\u4ef6\u540d<\/p>\n<p>1.1.0 (2022.05.13)<br \/>\n&#8211; \u65b0\u589e \u94fe\u63a5\uff08\u53cb\u60c5\u94fe\u63a5\uff09\u529f\u80fd<br \/>\n&#8211; \u65b0\u589e \u94fe\u63a5RSS\u805a\u5408\u529f\u80fd<\/p>\n<p>1.0.6 (2022.04.20)<br \/>\n&#8211; \u66f4\u65b0 \u96ea\u82b1\u98d8\u843d\u66f4\u6362\u4e3aJQuery-Snowfall\uff0c\u4f18\u5316\u4e3a\u4e07\u80fd\u98d8\u843d\uff0c\u652f\u6301\u56fe\u7247\u53ca\u6587\u5b57\u3002<br \/>\n&#8211; \u66f4\u65b0 \u96ea\u82b1\u98d8\u843d\u4f7f\u7528\u538b\u7f29\u540e\u7684\u6587\u4ef6\u3002<br \/>\n&#8211; \u4fee\u590d \u96ea\u82b1\u521b\u5efa\u65f6\u98d8\u843d\u901f\u5ea6\u9519\u8bef\u7684\u95ee\u9898\u3002<br \/>\n&#8211; \u66f4\u65b0 \u96ea\u82b1\u98d8\u843d\u81ea\u9002\u5e94\u6d4f\u89c8\u5668\u7a97\u53e3\u5bbd\u5ea6\uff0c\u5f53\u5bbd\u5ea6\u5c0f\u4e8e900\u65f6\u98d8\u843d\u6570\u91cf\u5c06\u51cf\u5c11\u4e00\u534a\u3002<\/p>\n<p>1.0.5 (2022.04.17)<br \/>\n&#8211; \u4fee\u590d \u65f6\u95f4\u683c\u5f0f\u9a8c\u8bc1\uff0c\u8fd4\u56de\u9519\u8bef\u95ee\u9898<\/p>\n<p>1.0.4 (2022.04.17)<br \/>\n&#8211; \u66f4\u65b0 Validate \u9a8c\u8bc1\u7c7b\u65b0\u589e\u9a8c\u8bc1\u65b9\u6cd5<br \/>\n&#8211; \u66f4\u65b0 \u81ea\u5b9a\u4e49js\u4f7f\u7528\u538b\u7f29\u540e\u7684\u6587\u4ef6min.js<br \/>\n&#8211; \u65b0\u589e common.js\u516c\u5171\u65b9\u6cd5<br \/>\n&#8211; \u65b0\u589e \u96ea\u82b1\u98d8\u843d\u7279\u6548<\/p>\n<p>1.0.3 (2022.04.13)<br \/>\n&#8211; \u540e\u53f0\u66f4\u65b0\u540e\uff0c\u81ea\u52a8\u5237\u65b0custom.js\u3001custom.css \u6587\u4ef6<br \/>\n&#8211; \u4fee\u590d \u94fe\u63a5\u5c0f\u5c3e\u5df4\u56fa\u5b9a\u4e0d\u53ef\u53d8\u7684\u9519\u8bef<\/p>\n<p>1.0.2 (2022.04.10)<br \/>\n&#8211; \u4fee\u590d \u589e\u5f3a\u5b89\u5168\u8f93\u5165POST\u6570\u636e<br \/>\n&#8211; \u4fee\u590d \u7edf\u4e00\u7248\u672c\u53f7<\/p>\n<p>1.0.1 (2022.04.08)<br \/>\n&#8211; \u4fee\u590d \u7b2c\u4e09\u65b9\u94fe\u63a5\u5c0f\u5c3e\u5df4\uff0c\u94fe\u63a5\u6309\u94ae\u70b9\u51fb\u9519\u8bef\u95ee\u9898<br \/>\n&#8211; \u66f4\u65b0 \u9875\u9762\u4f7f\u7528WP\u5b89\u5168\u8f93\u51fa<br \/>\n&#8211; \u65b0\u589e \u5378\u8f7d\u63d2\u4ef6\u540e\u5220\u9664\u63d2\u4ef6\u76f8\u5173\u914d\u7f6e\u9879<br \/>\n&#8211; \u65b0\u589e \u540e\u53f0\u7981\u7528\u63d2\u4ef6\u540e\uff0c\u5c06\u5404\u529f\u80fd\u5173\u95ed\uff0c\u4ec5\u5173\u95ed\u4e0d\u6e05\u6570\u636e<\/p>\n<p>1.0.0 (2021.04.04)<br \/>\n&#8211; \u65b0\u589e \u663e\u793a\u8fd0\u884c\u5929\u6570<br \/>\n&#8211; \u65b0\u589e \u8f93\u5165\u6846\u4e03\u5f69\u5149\u5b50\u7279\u6548<br \/>\n&#8211; \u65b0\u589e \u6b22\u5e86\u4f73\u8282\u706f\u7b3c<br \/>\n&#8211; \u65b0\u589e \u7ad9\u70b9\u8bbe\u7f6e\u4e3a\u7070\u8272<br \/>\n&#8211; \u65b0\u589e \u56fe\u7247\u706f\u7bb1<br \/>\n&#8211; \u65b0\u589e \u7b2c\u4e09\u65b9\u94fe\u63a5\u6dfb\u52a0\u5c0f\u5c3e\u5df4<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/feng-custom\/assets\/screenshot-1.png?rev=3014289\"><img src=\"https:\/\/ps.w.org\/feng-custom\/assets\/screenshot-1.png?rev=3014289\" alt=\"\u6548\u679c\u914d\u7f6e\"><\/a><p>\u6548\u679c\u914d\u7f6e<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/feng-custom\/assets\/screenshot-2.png?rev=3014289\"><img src=\"https:\/\/ps.w.org\/feng-custom\/assets\/screenshot-2.png?rev=3014289\" alt=\"\u8282\u65e5\u6c1b\u56f4\"><\/a><p>\u8282\u65e5\u6c1b\u56f4<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/feng-custom\/assets\/screenshot-3.png?rev=3014289\"><img src=\"https:\/\/ps.w.org\/feng-custom\/assets\/screenshot-3.png?rev=3014289\" alt=\"\u96ea\u82b1\u98d8\u843d\"><\/a><p>\u96ea\u82b1\u98d8\u843d<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/feng-custom\/assets\/screenshot-4.png?rev=3014289\"><img src=\"https:\/\/ps.w.org\/feng-custom\/assets\/screenshot-4.png?rev=3014289\" alt=\"\u94fe\u63a5&amp;RSS\"><\/a><p>\u94fe\u63a5&amp;RSS<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/feng-custom\/assets\/screenshot-5.png?rev=3014289\"><img src=\"https:\/\/ps.w.org\/feng-custom\/assets\/screenshot-5.png?rev=3014289\" alt=\"\u94fe\u63a5RSS\u805a\u5408\"><\/a><p>\u94fe\u63a5RSS\u805a\u5408<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u975e\u5e38\u597d\u7684\u81ea\u5b9a\u4e49\u63d2\u4ef6<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/gbsat\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/a1b77081c58c8ae0f305618d519ed35a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/a1b77081c58c8ae0f305618d519ed35a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/gbsat\/\" class=\"reviewer-name\">gbsat<\/a> on <span class=\"review-date\">January 19, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">\u975e\u5e38\u597d\u7684\u81ea\u5b9a\u4e49\u63d2\u4ef6\uff0c\u5e2e\u6211\u89e3\u51b3\u4e86\u7ad9\u70b9\u4e3b\u9898\u6ca1\u6709\u81ea\u5e26\u53cb\u94fe\u9875\u9762\u7684\u95ee\u9898\u3002\u975e\u5e38\u611f\u8c22\u4f5c\u8005\u63d0\u4f9b\u5982\u6b64\u4f18\u79c0\u7684\u63d2\u4ef6<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "\u6668\u98ce\u81ea\u5b9a\u4e49\uff0c\u53cb\u60c5\u94fe\u63a5\u53caRSS\u805a\u5408\u529f\u80fd\uff0c\u56fe\u7247\u706f\u7bb1\u53ca\u7f51\u9875\u7279\u6548\u5305\u542b\u8282\u65e5\u6c1b\u56f4\u3001\u96ea\u82b1\u98d8\u843d\u3001\u5e95\u90e8\u8fd0\u884c\u5929\u6570\u3001\u7f51\u9875\u7070\u8272\u3001\u8f93\u5165\u6846\u4e03\u5f69\u5149\u5b50\u7279\u6548\u7b49\u7b49\u3002",
+    "description": "<p>\u6668\u98ce\u81ea\u5b9a\u4e49\uff0c\u53cb\u60c5\u94fe\u63a5\u53caRSS\u805a\u5408\u529f\u80fd\uff0c\u56fe\u7247\u706f\u7bb1\u53ca\u7f51\u9875\u7279\u6548\u5305\u542b\u8282\u65e5\u6c1b\u56f4\u3001\u96ea\u82b1\u98d8\u843d\u3001\u5e95\u90e8\u8fd0\u884c\u5929\u6570\u3001\u7f51\u9875\u7070\u8272\u3001\u8f93\u5165\u6846\u4e03\u5f69\u5149\u5b50\u7279\u6548\u7b49\u7b49\u3002<\/p>\n<p>\u4e3b\u8981\u529f\u80fd<\/p>\n<ul>\n<li>\u56fe\u7247\u706f\u7bb1<\/li>\n<li>\u8282\u65e5\u6c1b\u56f4\uff08\u5143\u65e6\u3001\u6625\u8282\u3001\u4e2d\u79cb\u3001\u56fd\u5e86\uff09<\/li>\n<li>\u7f51\u9875\u96ea\u82b1\u7279\u6548\uff08\u652f\u6301\u6587\u5b57\u3001\u56fe\u7247\uff09<\/li>\n<li>\u663e\u793a\u8fd0\u884c\u5929\u6570<\/li>\n<li>\u8f93\u5165\u6846\u4e03\u5f69\u5149\u5b50\u7279\u6548<\/li>\n<li>\u7ad9\u70b9\u8bbe\u7f6e\u4e3a\u7070\u8272<\/li>\n<li>\u7b2c\u4e09\u65b9\u94fe\u63a5\u5c0f\u5c3e\u5df4<\/li>\n<li>\u94fe\u63a5\uff08\u53cb\u60c5\u94fe\u63a5\uff09<\/li>\n<li>\u94fe\u63a5RSS\u805a\u5408<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/feng-custom.1.2.4.zip",
+    "upgrade_notice": {
+        "": "<p>1.2.4\uff082023.02.25\uff09\n\u66f4\u65b0\u524d\u7aef\u7ec6\u8282\uff0c\u4fee\u590d\u65e5\u671f\u8303\u56f4\u5224\u65ad\u9519\u8bef<\/p>\n\n<p>1.2.3\uff082023.01.26\uff09\n\u66f4\u65b0\u6625\u8282\u6c1b\u56f4\u663e\u793a\u65f6\u95f4\uff0c\u4fee\u590d\u540e\u53f0\u4e00\u4e9b\u9519\u8bef<\/p>\n\n<p>1.2.2\uff082023.01.18\uff09\n\u65b0\u589e\u65b0\u6625\u5012\u8ba1\u65f6\u3001\u6302\u4ef6\u53ca\u6d77\u62a5\uff0c\u66f4\u65b0\u524d\u7aef\u529f\u80fd<\/p>\n\n<p>1.2.1\uff082023.12.28\uff09\n\u4fee\u590d\u8282\u65e5\u6c1b\u56f4\u8de8\u5e74\u65e0\u6cd5\u663e\u793a\u7684\u95ee\u9898\u53ca\u81ea\u52a8\u68c0\u67e5RSS\u7684\u4e00\u4e9b\u95ee\u9898<\/p>\n\n<p>1.2.0\uff082023.12.26\uff09\n\u91cd\u5199\u914d\u7f6e\u9875\u9762\u53ca\u94fe\u63a5\u548cRSS\u5404\u9879\u529f\u80fd\uff0c\u65b0\u589e\u5143\u65e6\u8282\u65e5\u6c1b\u56f4\u6302\u4ef6<\/p>\n\n<p>1.1.4\uff082023.09.21\uff09\n\u8282\u65e5\u6c1b\u56f4\u540e\u53f0\u9009\u9879\uff08\u4e2d\u79cb\u6708\u4eae\u3001\u56fd\u5e86\u706f\u7b3c\uff09<\/p>\n\n<p>1.1.3\uff082023.08.21\uff09\n\u4fee\u590d\u540e\u53f0\u9519\u8bef\u4ee3\u7801\uff0c\u66f4\u65b0\u94fe\u63a5\u53caRSS\u5361\u7247\u6837\u5f0f<\/p>\n\n<p>1.1.2\uff082023.02.01\uff09\n\u4fee\u590d\u81ea\u5b9a\u4e49\u6587\u4ef6\u7248\u672c\u53f7\u8bb0\u5f55\u9519\u8bef<\/p>\n\n<p>1.1.1\uff082023.01.31\uff09\n\u4f18\u5316\u751f\u6210\u81ea\u5b9a\u4e49CSS\u3001JS\u6587\u4ef6\u7684\u65b9\u5f0f<\/p>\n\n<p>1.1.0 (2022.05.13)\n\u65b0\u589e\u94fe\u63a5\u529f\u80fd\u53ca\u94fe\u63a5RSS\u805a\u5408\u529f\u80fd<\/p>\n\n<p>1.0.6 (2022.04.20)\n\u66f4\u65b0\u96ea\u82b1\u98d8\u843d\u65b9\u5f0fJQuery-Snowfall\uff0c\u4f18\u5316\u4e3a\u4e07\u80fd\u98d8\u843d\uff0c\u652f\u6301\u56fe\u7247\u53ca\u6587\u5b57<\/p>\n\n<p>1.0.5 (2022.04.17)\n\u4fee\u590d\u65f6\u95f4\u683c\u5f0f\u9a8c\u8bc1\uff0c\u8fd4\u56de\u9519\u8bef\u95ee\u9898<\/p>\n\n<p>1.0.4 (2022.04.17)\n\u65b0\u589e\u9a8c\u8bc1\u7c7b\u65b9\u6cd5\uff0c\u66f4\u6539js\u6784\u5efa\u65b9\u5f0f\uff0c\u65b0\u589e\u96ea\u82b1\u98d8\u843d\u7279\u6548<\/p>\n\n<p>1.0.3 (2022.04.13)\n\u4fee\u590d\u94fe\u63a5\u5c0f\u5c3e\u5df4\uff0c\u7248\u672c\u66f4\u65b0\u540e\u81ea\u52a8\u66f4\u65b0\u81ea\u5b9a\u4e49\u6587\u4ef6<\/p>\n\n<p>1.0.2 (2022.04.10)\n\u589e\u5f3a\u5b89\u5168\u8f93\u5165POST\u6570\u636e<\/p>\n\n<p>1.0.1 (2022.04.08)\n\u4fee\u590d\u53d8\u91cf\u8f93\u5165\u4e0e\u8f93\u51fa\u5b89\u5168\uff0c\u65b0\u589e\u5378\u8f7d\u53ca\u7981\u7528\u63d2\u4ef6\u7684\u64cd\u4f5c<\/p>\n\n<p>1.0.0 (2021.04.04)\n\u7ad9\u70b9\u524d\u7aef\u9875\u9762\u81ea\u5b9a\u4e49\uff0c\u5982\u8fd0\u884c\u5929\u6570\u3001\u7f51\u9875\u53d8\u7070\u3001\u8282\u65e5\u706f\u7b3c\u7b49\u7b49<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/feng-custom\/assets\/screenshot-1.png?rev=3014289",
+            "caption": "\u6548\u679c\u914d\u7f6e"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/feng-custom\/assets\/screenshot-2.png?rev=3014289",
+            "caption": "\u8282\u65e5\u6c1b\u56f4"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/feng-custom\/assets\/screenshot-3.png?rev=3014289",
+            "caption": "\u96ea\u82b1\u98d8\u843d"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/feng-custom\/assets\/screenshot-4.png?rev=3014289",
+            "caption": "\u94fe\u63a5&amp;RSS"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/feng-custom\/assets\/screenshot-5.png?rev=3014289",
+            "caption": "\u94fe\u63a5RSS\u805a\u5408"
+        }
+    },
+    "tags": {
+        "festivals": "festivals",
+        "link": "link",
+        "rss": "rss",
+        "theme": "theme"
+    },
+    "stable_tag": "1.2.4",
+    "versions": {
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/feng-custom.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/feng-custom.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/feng-custom.1.0.4.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/feng-custom.1.0.5.zip",
+        "1.0.6": "https:\/\/downloads.wordpress.org\/plugin\/feng-custom.1.0.6.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/feng-custom.1.1.0.zip",
+        "1.1.1": "https:\/\/downloads.wordpress.org\/plugin\/feng-custom.1.1.1.zip",
+        "1.1.2": "https:\/\/downloads.wordpress.org\/plugin\/feng-custom.1.1.2.zip",
+        "1.1.3": "https:\/\/downloads.wordpress.org\/plugin\/feng-custom.1.1.3.zip",
+        "1.1.4": "https:\/\/downloads.wordpress.org\/plugin\/feng-custom.1.1.4.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/feng-custom.1.2.0.zip",
+        "1.2.1": "https:\/\/downloads.wordpress.org\/plugin\/feng-custom.1.2.1.zip",
+        "1.2.2": "https:\/\/downloads.wordpress.org\/plugin\/feng-custom.1.2.2.zip",
+        "1.2.3": "https:\/\/downloads.wordpress.org\/plugin\/feng-custom.1.2.3.zip",
+        "1.2.4": "https:\/\/downloads.wordpress.org\/plugin\/feng-custom.1.2.4.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/feng-custom.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "http:\/\/feng.pub\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/feng-custom\/assets\/banner-772x250.png?rev=2708619",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/feng-custom\/assets\/icon-128x128.png?rev=2708619",
+        "2x": "https:\/\/ps.w.org\/feng-custom\/assets\/icon-256x256.png?rev=2708619"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

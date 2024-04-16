@@ -1,0 +1,136 @@
+{
+    "name": "Quantity Breaks and Discounts for WooCommerce",
+    "slug": "quantity-discounts",
+    "version": "2.5.3",
+    "author": "<a href=\"https:\/\/wpiron.com\/\">WP Iron<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/wpiron\/",
+    "contributors": {
+        "wpiron": {
+            "profile": "https:\/\/profiles.wordpress.org\/wpiron\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/48a4611b344e4e9f2fa5595a746a15d5?s=96&d=monsterid&r=g",
+            "display_name": "WpIron"
+        }
+    },
+    "requires": "4.7",
+    "tested": "6.4.4",
+    "requires_php": "5.6",
+    "requires_plugins": [
+        "woocommerce"
+    ],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/quantity-discounts\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 426,
+    "last_updated": "2024-04-08 8:15pm GMT",
+    "added": "2024-01-16",
+    "homepage": "https:\/\/wpiron.com",
+    "sections": {
+        "description": "<p>\ud83d\ude80 Empower Your WooCommerce Store with Advanced Pricing Strategies<\/p>\n<p>\ud83e\udd29 Welcome to the <a href=\"https:\/\/wpiron.com\/products\/quantity-breaks-and-discounts\/\" title=\"Quantity Breaks and Discounts Plugin\" rel=\"nofollow ugc\">Quantity Breaks and Discounts Plugin for WooCommerce<\/a>!\ud83e\udd29<\/p>\n<p>Join our <a href=\"https:\/\/discord.gg\/k7aa4dUb\" title=\"Discord Community\" rel=\"nofollow ugc\">Discord Community<\/a><\/p>\n<p>Versatile tool designed to enhance your store&#8217;s profitability and customer engagement. Whether you&#8217;re aiming to incentivize bulk purchases or offer dynamic pricing options, this plugin is your all-in-one solution to boost sales volume and Average Order Value (AOV).<\/p>\n<h3>Live Demos<\/h3>\n<p>\ud83d\udd17 Quantity Breaks Demo<\/p>\n<p>Experience how the quantity breaks feature works with this live demo of a product page: <a href=\"https:\/\/quantitybreaks-demo.wpiron.com\/product\/hat\/\" title=\"Visit DEMO\" rel=\"nofollow ugc\">Visit DEMO<\/a><\/p>\n<p>\ud83d\udd17 Min\/Max Demo<\/p>\n<p>See the min\/max feature in action and how it can enhance the shopping experience on this demo product page: <a href=\"https:\/\/quantitybreaks-demo.wpiron.com\/product\/shirt-green\/\" title=\"Visit DEMO\" rel=\"nofollow ugc\">Visit DEMO<\/a><\/p>\n<h3>\u2705 MAIN FEATURES:<\/h3>\n<ul>\n<li>Bundle Design Settings: Customize your product bundle&#8217;s appearance to align perfectly with your brand identity. This includes options for borders, colors, border radius, background colors, text colors, and a customized style for the selected radio button.<\/li>\n<li>Min\/Max Design Settings: Take your product presentation to the next level with customizable button designs. Adjust button background, text, border colors, and button size to create a seamless and inviting shopping experience.<\/li>\n<li>Font Settings: Exercise complete control over the typography in your bundles. Adjust the font weight and size for labels, prices, descriptions, and manage the display of old prices. These settings ensure that your pricing information is clear and attractive.<\/li>\n<li>Quantity Breaks for Individual Products: Implement flexible quantity break pricing specific to each product. This feature allows you to encourage customers to purchase more by offering discounts for bulk buys.<\/li>\n<li>Active Preview Window: Preview your adjustments in real-time, ensuring that your bundle designs are perfected before they go live on your store.<\/li>\n<\/ul>\n<h3>\ud83c\udfc6 PREMIUM VERSION<\/h3>\n<p><a href=\"https:\/\/wpiron.com\/products\/quantity-breaks-and-discounts\/\" title=\"Quantity Breaks and Discounts Plugin\" rel=\"nofollow ugc\">Quantity Breaks and Discounts Plugin for WooCommerce<\/a> features:<\/p>\n<ul>\n<li>Earnings &#8211; Sales Report Data &amp; Custom Reports: Unlock in-depth analytics and reporting tools. Track your earnings, analyze sales data, and create custom reports to inform your pricing strategies and understand your customers&#8217; buying behaviors better.<\/li>\n<li>Badges with 3 Style Options: Enhance your products&#8217; visibility and appeal with three distinct badge styles. Use these badges to effectively highlight special offers, discounts, or featured products.<\/li>\n<li>Priority Support: Receive premium support for any queries, feature requests, or issues. Our dedicated support team ensures you have all the assistance you need to utilize the plugin to its full potential.<\/li>\n<\/ul>\n<p>\ud83c\udfc6 So why wait? Boost Your AOV with <a href=\"https:\/\/wpiron.com\/products\/quantity-breaks-and-discounts\/\" title=\"Quantity Breaks and Discounts Plugin\" rel=\"nofollow ugc\">Quantity Breaks and Discounts Plugin for WooCommerce<\/a>!<\/p>\n<h3>\ud83d\udca1 WHY CHOOSE QUANTITY BREAKS AND DISCOUNTS PLUGIN?<\/h3>\n<ul>\n<li>Increase Sales and AOV: By offering strategic bulk pricing and discounts, encourage customers to spend more per transaction.<\/li>\n<li>Customizable to Fit Your Brand: With extensive design and typography settings, ensure that every element resonates with your store\u2019s aesthetic.<\/li>\n<li>User-Friendly Interface: Easy-to-navigate settings and an active preview window make setting up and managing the plugin straightforward and hassle-free.<\/li>\n<li>Data-Driven Insights: Premium version users gain access to comprehensive sales analytics, helping you make informed decisions to grow your business.<\/li>\n<li>Responsive Customer Support: Whether you need help with setup, customization, or troubleshooting, our team is ready to assist.<\/li>\n<\/ul>\n<h3>\ud83c\udf10 INTEGRATION AND COMPATIBILITY:<\/h3>\n<p>This plugin integrates seamlessly with various popular WordPress themes and plugins, ensuring a smooth operation within your existing WooCommerce ecosystem. It is designed to be responsive and adaptable, providing an optimal user experience across all devices<\/p>\n<p>and platforms. Whether you have a sophisticated theme or a more straightforward design, the Quantity Breaks and Discounts plugin is built to complement and enhance your online store\u2019s functionality.<\/p>\n<h3>\ud83d\udd27 DEVELOPER-FRIENDLY:<\/h3>\n<p>Designed with developers in mind, the plugin includes hooks and filters, allowing for customization and extension of its core functionalities. This makes it a versatile tool for developers looking to tailor the plugin to specific requirements or integrate it with other systems.<\/p>\n<h3>\ud83c\udf0d WPML COMPATIBILITY:<\/h3>\n<p>The plugin is fully compatible with WPML, the popular multilingual WordPress plugin, making it an excellent choice for stores targeting a global audience. Offer your deals and discounts in multiple languages and reach a wider customer base with ease.<\/p>\n<h3>\ud83c\udf89 TAKE YOUR WOOCOMMERCE STORE TO NEW HEIGHTS:<\/h3>\n<p>With the Quantity Breaks and Discounts Plugin for WooCommerce, you&#8217;re not just installing a plugin; you&#8217;re unlocking a new realm of possibilities for your online store. Increase your sales, enhance the shopping experience for your customers, and gain valuable insights into your business performance.<\/p>\n<p>Whether you start with our robust free version or upgrade to the premium version for advanced features, our plugin is designed to scale with your business. Join the ranks of successful WooCommerce store owners who have transformed their online sales with the Quantity Breaks and Discounts plugin.<\/p>\n<h3>\ud83d\ude80 READY TO BOOST YOUR SALES?<\/h3>\n<p>Download the free version today and explore its features, or upgrade to the premium version for a more comprehensive suite of tools designed to take your WooCommerce store to the next level. Let the Quantity Breaks and Discounts plugin be your partner in achieving ecommerce success!&#8221;<\/p>\n<p>Boost Your AOV with <a href=\"https:\/\/wpiron.com\/products\/quantity-breaks-and-discounts\/\" title=\"Quantity Breaks and Discounts Plugin\" rel=\"nofollow ugc\">Quantity Breaks and Discounts Plugin for WooCommerce<\/a>!<\/p>\n<h3>Video Tutorials<\/h3>\n<p>\ud83c\udfa5 How to Setup Product with Quantity Discounts Plugin<\/p>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/Zqm8zoEqq38?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n<p>\ud83c\udfa5 How to Change Design on Quantity Discounts Plugin<\/p>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/2xqk_XSJlac?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n",
+        "faq": "\n<dt id='will%20it%20work%20with%20my%20theme%3F'>\nWill it work with my theme?\n<\/h4>\n<p>\n<p>We\u2019ve tested our plugin with a variety of free and premium themes. As long as your theme is compatible with WooCommerce, it should work. If your theme doesn\u2019t work with our plugin, don\u2019t hesitate to reach out. We\u2019re happy to help!<\/p>\n<\/p>\n<dt id='is%20it%20compatible%20with%20other%20plugins%3F'>\nIs it compatible with other plugins?\n<\/h4>\n<p>\n<p>We have tested Quantity Breaks and Discounts plugin with many third-party plugins and themes.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.0<\/h4>\n<ul>\n<li>Initial plugin build<\/li>\n<\/ul>\n<h4>2.2.0<\/h4>\n<ul>\n<li>Enabled Min-max ability for free version!<\/li>\n<li>Upgrade of the code &amp; security &amp; performance<\/li>\n<\/ul>\n<h4>2.2.1<\/h4>\n<ul>\n<li>Tested with latest WP version<\/li>\n<\/ul>\n<h4>2.2.2<\/h4>\n<ul>\n<li>Added notification of enrichment<\/li>\n<\/ul>\n<h4>2.2.3<\/h4>\n<ul>\n<li>Added link to discord community<\/li>\n<\/ul>\n<h4>2.3.0<\/h4>\n<ul>\n<li>Fix Fatal Errors<\/li>\n<\/ul>\n<h4>2.3.1<\/h4>\n<ul>\n<li>Fix Fatal website view errors<\/li>\n<\/ul>\n<h4>2.3.2<\/h4>\n<ul>\n<li>Fix Woocommerce recognition errors<\/li>\n<\/ul>\n<h4>2.3.3<\/h4>\n<ul>\n<li>Added some gift for the clients!<\/li>\n<\/ul>\n<h4>2.3.4<\/h4>\n<ul>\n<li>Fixed submission errors.<\/li>\n<\/ul>\n<h4>2.3.5<\/h4>\n<ul>\n<li>Fixed submission errors.<\/li>\n<\/ul>\n<h4>2.3.6<\/h4>\n<ul>\n<li>add review us url.<\/li>\n<\/ul>\n<h4>2.4.0<\/h4>\n<ul>\n<li>Fixed problem with badges error!<\/li>\n<\/ul>\n<h4>2.4.1<\/h4>\n<ul>\n<li>Add tutorials and demo to readme<\/li>\n<\/ul>\n<h4>2.4.2<\/h4>\n<ul>\n<li>fix issues<\/li>\n<\/ul>\n<h4>2.5.0<\/h4>\n<ul>\n<li>Fix problems with JS and warnings!<\/li>\n<\/ul>\n<h4>2.5.1<\/h4>\n<ul>\n<li>Fix problems with JS and warnings from front-end side!<\/li>\n<\/ul>\n<h4>2.5.2<\/h4>\n<ul>\n<li>optimise and fix warnings.<\/li>\n<\/ul>\n<h4>2.5.3<\/h4>\n<ul>\n<li>add live prview &amp; required plugins<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-1.png?rev=3067155\"><img src=\"https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-1.png?rev=3067155\" alt=\"screenshot-1.jpg\"><\/a><p>screenshot-1.jpg<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-2.png?rev=3067155\"><img src=\"https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-2.png?rev=3067155\" alt=\"screenshot-2.jpg\"><\/a><p>screenshot-2.jpg<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-3.png?rev=3067155\"><img src=\"https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-3.png?rev=3067155\" alt=\"screenshot-3.jpg\"><\/a><p>screenshot-3.jpg<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-4.png?rev=3067155\"><img src=\"https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-4.png?rev=3067155\" alt=\"screenshot-4.jpg\"><\/a><p>screenshot-4.jpg<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-5.png?rev=3067155\"><img src=\"https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-5.png?rev=3067155\" alt=\"screenshot-5.jpg\"><\/a><p>screenshot-5.jpg<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-6.png?rev=3067155\"><img src=\"https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-6.png?rev=3067155\" alt=\"screenshot-6.jpg\"><\/a><p>screenshot-6.jpg<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-7.png?rev=3067155\"><img src=\"https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-7.png?rev=3067155\" alt=\"screenshot-7.jpg\"><\/a><p>screenshot-7.jpg<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-8.png?rev=3067155\"><img src=\"https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-8.png?rev=3067155\" alt=\"screenshot-8.jpg\"><\/a><p>screenshot-8.jpg<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Boost Your AOV with Quantity Breaks &amp; Dynamic Pricing on WooCommerce!",
+    "description": "<p>\ud83d\ude80 Empower Your WooCommerce Store with Advanced Pricing Strategies<\/p>\n<p>\ud83e\udd29 Welcome to the <a href=\"https:\/\/wpiron.com\/products\/quantity-breaks-and-discounts\/\" title=\"Quantity Breaks and Discounts Plugin\" rel=\"nofollow ugc\">Quantity Breaks and Discounts Plugin for WooCommerce<\/a>!\ud83e\udd29<\/p>\n<p>Join our <a href=\"https:\/\/discord.gg\/k7aa4dUb\" title=\"Discord Community\" rel=\"nofollow ugc\">Discord Community<\/a><\/p>\n<p>Versatile tool designed to enhance your store&#8217;s profitability and customer engagement. Whether you&#8217;re aiming to incentivize bulk purchases or offer dynamic pricing options, this plugin is your all-in-one solution to boost sales volume and Average Order Value (AOV).<\/p>\n<h3>Live Demos<\/h3>\n<p>\ud83d\udd17 Quantity Breaks Demo<\/p>\n<p>Experience how the quantity breaks feature works with this live demo of a product page: <a href=\"https:\/\/quantitybreaks-demo.wpiron.com\/product\/hat\/\" title=\"Visit DEMO\" rel=\"nofollow ugc\">Visit DEMO<\/a><\/p>\n<p>\ud83d\udd17 Min\/Max Demo<\/p>\n<p>See the min\/max feature in action and how it can enhance the shopping experience on this demo product page: <a href=\"https:\/\/quantitybreaks-demo.wpiron.com\/product\/shirt-green\/\" title=\"Visit DEMO\" rel=\"nofollow ugc\">Visit DEMO<\/a><\/p>\n<h3>\u2705 MAIN FEATURES:<\/h3>\n<ul>\n<li>Bundle Design Settings: Customize your product bundle&#8217;s appearance to align perfectly with your brand identity. This includes options for borders, colors, border radius, background colors, text colors, and a customized style for the selected radio button.<\/li>\n<li>Min\/Max Design Settings: Take your product presentation to the next level with customizable button designs. Adjust button background, text, border colors, and button size to create a seamless and inviting shopping experience.<\/li>\n<li>Font Settings: Exercise complete control over the typography in your bundles. Adjust the font weight and size for labels, prices, descriptions, and manage the display of old prices. These settings ensure that your pricing information is clear and attractive.<\/li>\n<li>Quantity Breaks for Individual Products: Implement flexible quantity break pricing specific to each product. This feature allows you to encourage customers to purchase more by offering discounts for bulk buys.<\/li>\n<li>Active Preview Window: Preview your adjustments in real-time, ensuring that your bundle designs are perfected before they go live on your store.<\/li>\n<\/ul>\n<h3>\ud83c\udfc6 PREMIUM VERSION<\/h3>\n<p><a href=\"https:\/\/wpiron.com\/products\/quantity-breaks-and-discounts\/\" title=\"Quantity Breaks and Discounts Plugin\" rel=\"nofollow ugc\">Quantity Breaks and Discounts Plugin for WooCommerce<\/a> features:<\/p>\n<ul>\n<li>Earnings &#8211; Sales Report Data &amp; Custom Reports: Unlock in-depth analytics and reporting tools. Track your earnings, analyze sales data, and create custom reports to inform your pricing strategies and understand your customers&#8217; buying behaviors better.<\/li>\n<li>Badges with 3 Style Options: Enhance your products&#8217; visibility and appeal with three distinct badge styles. Use these badges to effectively highlight special offers, discounts, or featured products.<\/li>\n<li>Priority Support: Receive premium support for any queries, feature requests, or issues. Our dedicated support team ensures you have all the assistance you need to utilize the plugin to its full potential.<\/li>\n<\/ul>\n<p>\ud83c\udfc6 So why wait? Boost Your AOV with <a href=\"https:\/\/wpiron.com\/products\/quantity-breaks-and-discounts\/\" title=\"Quantity Breaks and Discounts Plugin\" rel=\"nofollow ugc\">Quantity Breaks and Discounts Plugin for WooCommerce<\/a>!<\/p>\n<h3>\ud83d\udca1 WHY CHOOSE QUANTITY BREAKS AND DISCOUNTS PLUGIN?<\/h3>\n<ul>\n<li>Increase Sales and AOV: By offering strategic bulk pricing and discounts, encourage customers to spend more per transaction.<\/li>\n<li>Customizable to Fit Your Brand: With extensive design and typography settings, ensure that every element resonates with your store\u2019s aesthetic.<\/li>\n<li>User-Friendly Interface: Easy-to-navigate settings and an active preview window make setting up and managing the plugin straightforward and hassle-free.<\/li>\n<li>Data-Driven Insights: Premium version users gain access to comprehensive sales analytics, helping you make informed decisions to grow your business.<\/li>\n<li>Responsive Customer Support: Whether you need help with setup, customization, or troubleshooting, our team is ready to assist.<\/li>\n<\/ul>\n<h3>\ud83c\udf10 INTEGRATION AND COMPATIBILITY:<\/h3>\n<p>This plugin integrates seamlessly with various popular WordPress themes and plugins, ensuring a smooth operation within your existing WooCommerce ecosystem. It is designed to be responsive and adaptable, providing an optimal user experience across all devices<\/p>\n<p>and platforms. Whether you have a sophisticated theme or a more straightforward design, the Quantity Breaks and Discounts plugin is built to complement and enhance your online store\u2019s functionality.<\/p>\n<h3>\ud83d\udd27 DEVELOPER-FRIENDLY:<\/h3>\n<p>Designed with developers in mind, the plugin includes hooks and filters, allowing for customization and extension of its core functionalities. This makes it a versatile tool for developers looking to tailor the plugin to specific requirements or integrate it with other systems.<\/p>\n<h3>\ud83c\udf0d WPML COMPATIBILITY:<\/h3>\n<p>The plugin is fully compatible with WPML, the popular multilingual WordPress plugin, making it an excellent choice for stores targeting a global audience. Offer your deals and discounts in multiple languages and reach a wider customer base with ease.<\/p>\n<h3>\ud83c\udf89 TAKE YOUR WOOCOMMERCE STORE TO NEW HEIGHTS:<\/h3>\n<p>With the Quantity Breaks and Discounts Plugin for WooCommerce, you&#8217;re not just installing a plugin; you&#8217;re unlocking a new realm of possibilities for your online store. Increase your sales, enhance the shopping experience for your customers, and gain valuable insights into your business performance.<\/p>\n<p>Whether you start with our robust free version or upgrade to the premium version for advanced features, our plugin is designed to scale with your business. Join the ranks of successful WooCommerce store owners who have transformed their online sales with the Quantity Breaks and Discounts plugin.<\/p>\n<h3>\ud83d\ude80 READY TO BOOST YOUR SALES?<\/h3>\n<p>Download the free version today and explore its features, or upgrade to the premium version for a more comprehensive suite of tools designed to take your WooCommerce store to the next level. Let the Quantity Breaks and Discounts plugin be your partner in achieving ecommerce success!&#8221;<\/p>\n<p>Boost Your AOV with <a href=\"https:\/\/wpiron.com\/products\/quantity-breaks-and-discounts\/\" title=\"Quantity Breaks and Discounts Plugin\" rel=\"nofollow ugc\">Quantity Breaks and Discounts Plugin for WooCommerce<\/a>!<\/p>\n<h3>Video Tutorials<\/h3>\n<p>\ud83c\udfa5 How to Setup Product with Quantity Discounts Plugin<\/p>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/Zqm8zoEqq38?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n<p>\ud83c\udfa5 How to Change Design on Quantity Discounts Plugin<\/p>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/2xqk_XSJlac?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/quantity-discounts.2.5.3.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-1.png?rev=3067155",
+            "caption": "screenshot-1.jpg"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-2.png?rev=3067155",
+            "caption": "screenshot-2.jpg"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-3.png?rev=3067155",
+            "caption": "screenshot-3.jpg"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-4.png?rev=3067155",
+            "caption": "screenshot-4.jpg"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-5.png?rev=3067155",
+            "caption": "screenshot-5.jpg"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-6.png?rev=3067155",
+            "caption": "screenshot-6.jpg"
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-7.png?rev=3067155",
+            "caption": "screenshot-7.jpg"
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/quantity-discounts\/assets\/screenshot-8.png?rev=3067155",
+            "caption": "screenshot-8.jpg"
+        }
+    },
+    "tags": {
+        "bundle": "bundle",
+        "dynamic-pricing": "dynamic pricing",
+        "quantity-breaks": "Quantity Breaks",
+        "woocommerce": "woocommerce"
+    },
+    "stable_tag": "2.5.3",
+    "versions": {
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/quantity-discounts.1.0.zip",
+        "1.1": "https:\/\/downloads.wordpress.org\/plugin\/quantity-discounts.1.1.zip",
+        "2.2": "https:\/\/downloads.wordpress.org\/plugin\/quantity-discounts.2.2.zip",
+        "2.2.1": "https:\/\/downloads.wordpress.org\/plugin\/quantity-discounts.2.2.1.zip",
+        "2.2.2": "https:\/\/downloads.wordpress.org\/plugin\/quantity-discounts.2.2.2.zip",
+        "2.2.3": "https:\/\/downloads.wordpress.org\/plugin\/quantity-discounts.2.2.3.zip",
+        "2.3.0": "https:\/\/downloads.wordpress.org\/plugin\/quantity-discounts.2.3.0.zip",
+        "2.3.2": "https:\/\/downloads.wordpress.org\/plugin\/quantity-discounts.2.3.2.zip",
+        "2.3.3": "https:\/\/downloads.wordpress.org\/plugin\/quantity-discounts.2.3.3.zip",
+        "2.3.4": "https:\/\/downloads.wordpress.org\/plugin\/quantity-discounts.2.3.4.zip",
+        "2.3.5": "https:\/\/downloads.wordpress.org\/plugin\/quantity-discounts.2.3.5.zip",
+        "2.3.6": "https:\/\/downloads.wordpress.org\/plugin\/quantity-discounts.2.3.6.zip",
+        "2.4.0": "https:\/\/downloads.wordpress.org\/plugin\/quantity-discounts.2.4.0.zip",
+        "2.4.1": "https:\/\/downloads.wordpress.org\/plugin\/quantity-discounts.2.4.1.zip",
+        "2.4.2": "https:\/\/downloads.wordpress.org\/plugin\/quantity-discounts.2.4.2.zip",
+        "2.5.0": "https:\/\/downloads.wordpress.org\/plugin\/quantity-discounts.2.5.0.zip",
+        "2.5.1": "https:\/\/downloads.wordpress.org\/plugin\/quantity-discounts.2.5.1.zip",
+        "2.5.2": "https:\/\/downloads.wordpress.org\/plugin\/quantity-discounts.2.5.2.zip",
+        "2.5.3": "https:\/\/downloads.wordpress.org\/plugin\/quantity-discounts.2.5.3.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/quantity-discounts.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/wpiron.com",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/quantity-discounts\/assets\/banner-772x250.png?rev=3022632",
+        "high": "https:\/\/ps.w.org\/quantity-discounts\/assets\/banner-1544x500.png?rev=3022632"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/quantity-discounts\/assets\/icon-128x128.png?rev=3022632",
+        "2x": "https:\/\/ps.w.org\/quantity-discounts\/assets\/icon-256x256.png?rev=3022632"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [
+        {
+            "filename": "blueprint.json",
+            "url": "https:\/\/wordpress.org\/plugins\/wp-json\/plugins\/v1\/plugin\/quantity-discounts\/blueprint.json?rev=3067157"
+        }
+    ],
+    "preview_link": "https:\/\/wordpress.org\/plugins\/quantity-discounts\/?preview=1",
+    "language_packs": []
+}

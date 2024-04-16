@@ -1,0 +1,78 @@
+{
+    "name": "Homerunner",
+    "slug": "homerunner-smartcheckout",
+    "version": "1.0",
+    "author": "<a href=\"https:\/\/homerunner.com\">Homerunner<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/coolrunner\/",
+    "contributors": {
+        "coolrunner": {
+            "profile": "https:\/\/profiles.wordpress.org\/coolrunner\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/38fc4773919cf49fc63515dff61939c4?s=96&d=monsterid&r=g",
+            "display_name": "Homerunner"
+        }
+    },
+    "requires": "4.7",
+    "tested": "6.3.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/homerunner-smartcheckout\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 596,
+    "last_updated": "2024-03-06 11:33am GMT",
+    "added": "2024-01-09",
+    "homepage": "https:\/\/homerunner.com\/",
+    "sections": {
+        "description": "<h4>G\u00f8r Din Webshop Gr\u00e6nsel\u00f8s med Homerunner&#8217;s WooCommerce Plugin<\/h4>\n<p>Er du klar til at tage din webshop til nye h\u00f8jder og \u00e5bne d\u00f8rene for kunder i Danmark eller kunder der er udover hele landets gr\u00e6nser? Homerunners WooCommerce-plugin er n\u00f8glen til en verden af muligheder.<\/p>\n<h4>Kort om Homerunner<\/h4>\n<p>Homerunner er en IT-platform, der tilbyder fragtl\u00f8sninger til danske virksomheder. Med over 40 transport\u00f8raftaler, g\u00f8r vi det muligt at sende pakker globalt gennem lokale fragthelte. Vores services omfatter IT-l\u00f8sninger som Smart Checkout for webshops, sagsh\u00e5ndtering, returportaler og afhentning. Vi str\u00e6ber efter at optimere din fragtproces, s\u00e5 du kan fokusere p\u00e5 at udvikle din virksomhed og gl\u00e6de dine kunder.<\/p>\n<h4>Problemfri Integration, Ubegr\u00e6nsede Muligheder<\/h4>\n<p>Vores plugin integreres nemt med din WooCommerce webshop og transformerer den til en global handelsplatform. Med f\u00e5 klik kan du tilbyde dine kunder en skr\u00e6ddersyet fragtoplevelse, der matcher b\u00e5de deres behov og dine forretningsm\u00e5l.<\/p>\n<h4>Smart Checkout: Revolutioner Din Kundes Fragtoplevelse<\/h4>\n<p>Smart Checkout-funktionen i vores plugin tilpasser sig intelligent til din kundes indk\u00f8bskurv og destination. Den pr\u00e6senterer de mest optimale fragtmuligheder, s\u00e5 dine kunder altid f\u00e5r den forsendelsesl\u00f8sning og leveringstid &#8211; uanset hvor i verden de befinder sig.<\/p>\n<h4>Afhentning Direkte fra Din Adresse<\/h4>\n<p>F\u00e5 afhentning af dine pakker uanset, hvor din virksomhedsadresse er placeret i Danmark. Du kan booke en afhentning i vores IT-platform og f\u00e5 hentet dine pakker samme dag.<\/p>\n<h4>Multicarrier-Setup: Send pakker i Danmark og udlandet fra dag \u00e9t<\/h4>\n<p>Gennem vores 40+ transport\u00f8raftaler har du adgang til et v\u00e6ld af lokale og internationale fragthelte. N\u00e5r du opretter en Homerunner konto, s\u00e5 kan du sende pakker til indland og udland fra dag \u00e9t.<\/p>\n<h4>Effektiv Sagsh\u00e5ndtering og Returprocesser<\/h4>\n<p>Med Homerunner er kundeservice og effektivitet i h\u00f8js\u00e6det. Vores IT-platform inkluderer v\u00e6rkt\u00f8jer til sagsh\u00e5ndtering og gratis returportal, s\u00e5 du nemt kan administrere ordre og returneringer &#8211; en essentiel del af en moderne e-handelsoplevelse.<\/p>\n",
+        "reviews": ""
+    },
+    "short_description": "Homerunners modul hj\u00e6lper dig til, at nemt h\u00e5ndtere fragtbestilling p\u00e5 dine ordre.",
+    "description": "<h4>G\u00f8r Din Webshop Gr\u00e6nsel\u00f8s med Homerunner&#8217;s WooCommerce Plugin<\/h4>\n<p>Er du klar til at tage din webshop til nye h\u00f8jder og \u00e5bne d\u00f8rene for kunder i Danmark eller kunder der er udover hele landets gr\u00e6nser? Homerunners WooCommerce-plugin er n\u00f8glen til en verden af muligheder.<\/p>\n<h4>Kort om Homerunner<\/h4>\n<p>Homerunner er en IT-platform, der tilbyder fragtl\u00f8sninger til danske virksomheder. Med over 40 transport\u00f8raftaler, g\u00f8r vi det muligt at sende pakker globalt gennem lokale fragthelte. Vores services omfatter IT-l\u00f8sninger som Smart Checkout for webshops, sagsh\u00e5ndtering, returportaler og afhentning. Vi str\u00e6ber efter at optimere din fragtproces, s\u00e5 du kan fokusere p\u00e5 at udvikle din virksomhed og gl\u00e6de dine kunder.<\/p>\n<h4>Problemfri Integration, Ubegr\u00e6nsede Muligheder<\/h4>\n<p>Vores plugin integreres nemt med din WooCommerce webshop og transformerer den til en global handelsplatform. Med f\u00e5 klik kan du tilbyde dine kunder en skr\u00e6ddersyet fragtoplevelse, der matcher b\u00e5de deres behov og dine forretningsm\u00e5l.<\/p>\n<h4>Smart Checkout: Revolutioner Din Kundes Fragtoplevelse<\/h4>\n<p>Smart Checkout-funktionen i vores plugin tilpasser sig intelligent til din kundes indk\u00f8bskurv og destination. Den pr\u00e6senterer de mest optimale fragtmuligheder, s\u00e5 dine kunder altid f\u00e5r den forsendelsesl\u00f8sning og leveringstid &#8211; uanset hvor i verden de befinder sig.<\/p>\n<h4>Afhentning Direkte fra Din Adresse<\/h4>\n<p>F\u00e5 afhentning af dine pakker uanset, hvor din virksomhedsadresse er placeret i Danmark. Du kan booke en afhentning i vores IT-platform og f\u00e5 hentet dine pakker samme dag.<\/p>\n<h4>Multicarrier-Setup: Send pakker i Danmark og udlandet fra dag \u00e9t<\/h4>\n<p>Gennem vores 40+ transport\u00f8raftaler har du adgang til et v\u00e6ld af lokale og internationale fragthelte. N\u00e5r du opretter en Homerunner konto, s\u00e5 kan du sende pakker til indland og udland fra dag \u00e9t.<\/p>\n<h4>Effektiv Sagsh\u00e5ndtering og Returprocesser<\/h4>\n<p>Med Homerunner er kundeservice og effektivitet i h\u00f8js\u00e6det. Vores IT-platform inkluderer v\u00e6rkt\u00f8jer til sagsh\u00e5ndtering og gratis returportal, s\u00e5 du nemt kan administrere ordre og returneringer &#8211; en essentiel del af en moderne e-handelsoplevelse.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/homerunner-smartcheckout.1.0.3.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "fragt": "fragt",
+        "homerunner": "homerunner",
+        "pakkelabels": "pakkelabels",
+        "shipping": "shipping"
+    },
+    "stable_tag": "1.0.3",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/homerunner-smartcheckout.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/homerunner-smartcheckout.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/homerunner-smartcheckout.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/homerunner-smartcheckout.1.0.3.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/homerunner-smartcheckout.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/homerunner-smartcheckout\/assets\/banner-772x250.png?rev=2972979",
+        "high": "https:\/\/ps.w.org\/homerunner-smartcheckout\/assets\/banner-1544x500.png?rev=2972979"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/homerunner-smartcheckout\/assets\/icon-256x256.png?rev=3019269",
+        "2x": "https:\/\/ps.w.org\/homerunner-smartcheckout\/assets\/icon-256x256.png?rev=3019269"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

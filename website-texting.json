@@ -1,0 +1,80 @@
+{
+    "name": "LEADsms",
+    "slug": "website-texting",
+    "version": "1.0.20",
+    "author": "<a href=\"https:\/\/localtextmarketers.com\">localtextmarketers<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/leadsms\/",
+    "contributors": {
+        "leadsms": {
+            "profile": "https:\/\/profiles.wordpress.org\/leadsms\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/7989732165587ad14236927239188937?s=96&d=monsterid&r=g",
+            "display_name": "leadsms"
+        },
+        "irelenedev": {
+            "profile": "https:\/\/profiles.wordpress.org\/irelenedev\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2a9126118c515c1f823470666871459b?s=96&d=monsterid&r=g",
+            "display_name": "irelenedev"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/website-texting\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 186,
+    "last_updated": "2024-03-13 8:01am GMT",
+    "added": "2024-02-27",
+    "homepage": "https:\/\/localtextmarketers.com\/introducing-leadsms-wordpress-sms-plugin\/",
+    "sections": {
+        "description": "<p>Ideal for retail, service, and health and wellness businesses, LEADsms is the website texting widget designed to help eliminate common communication barriers between your business and your website visitors.<\/p>\n<p>While chatbots, contact forms, live operators, and click to call options all work to some degree, interacting with them requires a significant investment of time (and occasionally frustration) on the part of the visitor\u2026 which means only the most highly motivated of them are likely to act.<\/p>\n<p>Text messaging, however, allows the visitor to interact with your business on their preferred communication channel (today, 80% of people say texting is the best way to reach them) and then move on, responding to you when it is convenient for them.<\/p>\n<p>This not only keeps your potential customer engaged but also significantly increases the likelihood of converting more casual visitors into solid leads.<\/p>\n<p>Messages sent from your website visitors through the LEADsms widget are not managed in WordPress, however.<\/p>\n<p>Instead, they are securely routed to the CONNECTsms texting platform where you and your team \/ staff members can directly engage the prospect with text chat (a subscription to CONNECTsms is required to use LEADsms; learn more <a href=\"https:\/\/localtextmarketers.com\/canadian-business-texting\/\" rel=\"nofollow ugc\">here<\/a>).<\/p>\n<p>When a growing number of consumers are expressing a preference for using text messaging for both customer service and sales inquiries, it only makes sense that your business accommodate them.<\/p>\n<p>In short, LEADsms is more than just a widget; it&#8217;s a strategic investment in your business&#8217;s future. It acknowledges the evolving landscape of customer engagement, where immediacy, convenience, and personalization are not just valued, but expected.<\/p>\n<p>By integrating LEADsms into your website, you&#8217;re not just offering a service; you&#8217;re inviting your customers into a conversation, one that begins on their terms and, with the right engagement, ends with their satisfaction and your growth.<\/p>\n<p>Don&#8217;t just chase leads; cultivate them with LEADsms.<\/p>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/Umn9eRqwxv0?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n",
+        "installation": "<p>Install the LEADsms to your blog, activate it, and then enter your CONNECTsms Activation key.<\/p>\n",
+        "changelog": "<h4>1.0.20<\/h4>\n<p><em>Release Date &#8211; 13 March 2024<\/em><\/p>\n<ul>\n<li>Update readme.txt<\/li>\n<\/ul>\n<h4>1.0.19<\/h4>\n<p><em>Release Date<\/em><\/p>\n<ul>\n<li>Initial release with all features enabled<\/li>\n<li>Add &#8220;Text Us&#8221; label on widget UI<\/li>\n<li>Add settings to customize widget UI<\/li>\n<\/ul>\n",
+        "reviews": ""
+    },
+    "short_description": "LEADsms offers WordPress webmasters an easy way to support their site visitors and generate leads and new business via SMS \/ text message.",
+    "description": "<p>Ideal for retail, service, and health and wellness businesses, LEADsms is the website texting widget designed to help eliminate common communication barriers between your business and your website visitors.<\/p>\n<p>While chatbots, contact forms, live operators, and click to call options all work to some degree, interacting with them requires a significant investment of time (and occasionally frustration) on the part of the visitor\u2026 which means only the most highly motivated of them are likely to act.<\/p>\n<p>Text messaging, however, allows the visitor to interact with your business on their preferred communication channel (today, 80% of people say texting is the best way to reach them) and then move on, responding to you when it is convenient for them.<\/p>\n<p>This not only keeps your potential customer engaged but also significantly increases the likelihood of converting more casual visitors into solid leads.<\/p>\n<p>Messages sent from your website visitors through the LEADsms widget are not managed in WordPress, however.<\/p>\n<p>Instead, they are securely routed to the CONNECTsms texting platform where you and your team \/ staff members can directly engage the prospect with text chat (a subscription to CONNECTsms is required to use LEADsms; learn more <a href=\"https:\/\/localtextmarketers.com\/canadian-business-texting\/\" rel=\"nofollow ugc\">here<\/a>).<\/p>\n<p>When a growing number of consumers are expressing a preference for using text messaging for both customer service and sales inquiries, it only makes sense that your business accommodate them.<\/p>\n<p>In short, LEADsms is more than just a widget; it&#8217;s a strategic investment in your business&#8217;s future. It acknowledges the evolving landscape of customer engagement, where immediacy, convenience, and personalization are not just valued, but expected.<\/p>\n<p>By integrating LEADsms into your website, you&#8217;re not just offering a service; you&#8217;re inviting your customers into a conversation, one that begins on their terms and, with the right engagement, ends with their satisfaction and your growth.<\/p>\n<p>Don&#8217;t just chase leads; cultivate them with LEADsms.<\/p>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/Umn9eRqwxv0?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/website-texting.1.0.20.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "generate-leads": "generate leads",
+        "leadsms": "leadsms",
+        "sms": "sms",
+        "text-message": "text message",
+        "website-texting": "website texting"
+    },
+    "stable_tag": "1.0.20",
+    "versions": {
+        "1.0.19": "https:\/\/downloads.wordpress.org\/plugin\/website-texting.1.0.19.zip",
+        "1.0.20": "https:\/\/downloads.wordpress.org\/plugin\/website-texting.1.0.20.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/website-texting.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/website-texting\/assets\/icon-128x128.png?rev=3050262"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Stop Registration Spam",
+    "slug": "stop-registration-spam",
+    "version": "1.21",
+    "author": "<a href=\"http:\/\/www.tomroyal.com\">Tom Royal<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/tomroyal\/",
+    "contributors": {
+        "tomroyal": {
+            "profile": "https:\/\/profiles.wordpress.org\/tomroyal\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/95f3feb603ae552580d5ab40669b2091?s=96&d=monsterid&r=g",
+            "display_name": "tomroyal"
+        }
+    },
+    "requires": false,
+    "tested": false,
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 90,
+    "ratings": {
+        "5": 5,
+        "4": 0,
+        "3": 0,
+        "2": 1,
+        "1": 0
+    },
+    "num_ratings": 6,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/stop-registration-spam\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 200,
+    "downloaded": 5001,
+    "last_updated": "2024-01-23 9:33am GMT",
+    "added": "2012-04-11",
+    "homepage": "http:\/\/www.tomroyal.com\/blog\/2012\/04\/09\/stop-wordpress-registration-spam\/",
+    "sections": {
+        "description": "<p>Tom Royal 2012\/2024<br \/>\nStable tag: 1.2.1<br \/>\nTested up to: 6.4.2<\/p>\n<p>&#8212;<\/p>\n<p>This is a simple plugin designed to cut down on automated spam registrations and the emails they produce.<\/p>\n<p>The idea is simple: in order to register, users have to answer a question that&#8217;s simple for anyone reading your blog, but impossible for a script being run by a spammer.<\/p>\n<p>To install, simply copy stop_registration_spam.php to your Plugins directory. Enable the plugin and an options page will appear under the WordPress Settings menu.<\/p>\n<p>In the settings page, enter your question (keep it short), answer (ideally very short) and a hint to display if the user gets it wrong. Save these and they&#8217;ll be used for new registrations.<\/p>\n<p>I&#8217;ve been using this plugin for a few months, and it cut spam from dozens a day to none at all. Hope you find it useful. Questions etc welcome on my blog:<\/p>\n<p>http:\/\/www.tomroyal.com\/blog\/2012\/04\/09\/stop-wordpress-registration-spam\/<\/p>\n<p>Tom<\/p>\n<p>&#8212;<\/p>\n<p>CHANGE LOG:<\/p>\n<p>v1.2    &#8211; Removed some old PHP references, tested with WordPress 6.4.2 on PHP 8.2<br \/>\nv1.21   &#8211; Updated Tested Up To value accordingly<\/p>\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Simple and Effective<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/titusraj\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/4fd5263efeb073f02c47c742d71a3268?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/4fd5263efeb073f02c47c742d71a3268?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/titusraj\/\" class=\"reviewer-name\">titusraj<\/a> on <span class=\"review-date\">April 3, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I run a site where any user can register, I have been trying every plugin including V3 captcha, this is by far the most effective and the best plugin to stop registration form spam. Amazing<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Usefull thing<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/sheetmusicws\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/da0757209e9bcbe4fff664d734a4b889?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/da0757209e9bcbe4fff664d734a4b889?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/sheetmusicws\/\" class=\"reviewer-name\">sheetmusic.ws<\/a> on <span class=\"review-date\">February 7, 2017<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><p>good plugin. I'm using it on <a href=\"http:\/\/sheetmusic.ws\"><\/a>\n<\/p>\n<\/div>\n<\/div>\n"
+    },
+    "short_description": "Tom Royal 2012\/2024\nStable tag: 1.2.1\nTested up to: 6.4.2\n\n--\n\nThis is a simple plugin designed to cut down on automated spam registrations and the em &hellip;",
+    "description": "<p>Tom Royal 2012\/2024<br \/>\nStable tag: 1.2.1<br \/>\nTested up to: 6.4.2<\/p>\n<p>&#8212;<\/p>\n<p>This is a simple plugin designed to cut down on automated spam registrations and the emails they produce.<\/p>\n<p>The idea is simple: in order to register, users have to answer a question that&#8217;s simple for anyone reading your blog, but impossible for a script being run by a spammer.<\/p>\n<p>To install, simply copy stop_registration_spam.php to your Plugins directory. Enable the plugin and an options page will appear under the WordPress Settings menu.<\/p>\n<p>In the settings page, enter your question (keep it short), answer (ideally very short) and a hint to display if the user gets it wrong. Save these and they&#8217;ll be used for new registrations.<\/p>\n<p>I&#8217;ve been using this plugin for a few months, and it cut spam from dozens a day to none at all. Hope you find it useful. Questions etc welcome on my blog:<\/p>\n<p>http:\/\/www.tomroyal.com\/blog\/2012\/04\/09\/stop-wordpress-registration-spam\/<\/p>\n<p>Tom<\/p>\n<p>&#8212;<\/p>\n<p>CHANGE LOG:<\/p>\n<p>v1.2    &#8211; Removed some old PHP references, tested with WordPress 6.4.2 on PHP 8.2<br \/>\nv1.21   &#8211; Updated Tested Up To value accordingly<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/stop-registration-spam.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": [],
+    "stable_tag": "trunk",
+    "versions": {
+        "1.1": "https:\/\/downloads.wordpress.org\/plugin\/stop-registration-spam.1.1.zip",
+        "1.11": "https:\/\/downloads.wordpress.org\/plugin\/stop-registration-spam.1.11.zip",
+        "1.12": "https:\/\/downloads.wordpress.org\/plugin\/stop-registration-spam.1.12.zip",
+        "1.2": "https:\/\/downloads.wordpress.org\/plugin\/stop-registration-spam.1.2.zip",
+        "1.21": "https:\/\/downloads.wordpress.org\/plugin\/stop-registration-spam.1.21.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "default": "https:\/\/s.w.org\/plugins\/geopattern-icon\/stop-registration-spam.svg"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 90,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

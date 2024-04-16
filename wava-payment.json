@@ -1,0 +1,105 @@
+{
+    "name": "Wava Payment Plugin",
+    "slug": "wava-payment",
+    "version": "0.3.2",
+    "author": "<a href=\"https:\/\/wava.co\/\">Wava Technologies<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/wavahq\/",
+    "contributors": {
+        "wavahq": {
+            "profile": "https:\/\/profiles.wordpress.org\/wavahq\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/8867d8a15c61b9412c37912e42049967?s=96&d=monsterid&r=g",
+            "display_name": "Wava Dev"
+        }
+    },
+    "requires": "4.7",
+    "tested": "6.4.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 2,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 2,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/wava-payment\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 30,
+    "downloaded": 483,
+    "last_updated": "2024-03-18 10:40pm GMT",
+    "added": "2024-02-07",
+    "homepage": "https:\/\/wava.co",
+    "sections": {
+        "description": "<p>Wava ayuda a las tiendas en l\u00ednea en Am\u00e9rica Latina a facilitar el pago para los clientes. Admiten diferentes formas de pago, como transferencias bancarias y billeteras digitales u otros m\u00e9todos alternativos. El objetivo de Wava es reducir tarifas, hacer que los pagos sean m\u00e1s sencillos y mejorar la tasa de \u00e9xito en un mercado donde mucha gente usa billeteras digitales.<\/p>\n<p>Busca la integraci\u00f3n de tu preferencia y activa incluso din\u00e1micamente cada una de estas integraciones seg\u00fan tus preferencias.<\/p>\n<p>Somos Partners oficiales de NEQUI y STRIPE!.<\/p>\n<p>Proximamente Daviplata.<\/p>\n<h3>Nuestro modelo acepta:<\/h3>\n<ul>\n<li>Colecci\u00f3n (Pay-ins).<\/li>\n<li>Tokenizaci\u00f3n.<\/li>\n<li>Ruteo con diferentes procesadores de pago.<\/li>\n<li>Dispersi\u00f3n (Pay-outs).<\/li>\n<\/ul>\n<h3>T\u00e9rminos y Condiciones<\/h3>\n<p>Aseg\u00farate de leer y comprender los <a href=\"https:\/\/wava.co\/terminos-y-condiciones\/\" rel=\"nofollow ugc\">T\u00e9rminos de servicio y la Pol\u00edtica de privacidad<\/a> de Wava.<\/p>\n<h3>Preguntas Frecuentes<\/h3>\n<p>T\u00fa tienes las preguntas y nosotros las <a href=\"https:\/\/wava.co\/preguntas-frecuentes\/\" rel=\"nofollow ugc\">respuestas<\/a><\/p>\n",
+        "installation": "<p>Para instalar el plugin solo debes seguir los siguientes pasos:<\/p>\n<ol>\n<li>Desde el administrador de tu tienda ve a Plugins -&gt; A\u00f1adir nuevo plugin.<\/li>\n<li>En la barra de b\u00fasqueda escribe <em>&#8220;Wava&#8221;<\/em>.<\/li>\n<li>Ingresa o crea tu cuenta en <a href=\"https:\/\/checkout.wava.co\/login\" rel=\"nofollow ugc\">https:\/\/checkout.wava.co\/login<\/a><\/li>\n<li>Dentro del panel de Wava, ve a Configuraci\u00f3n -&gt; Integraciones y copia tu <strong>Merchant Key.<\/strong><\/li>\n<li>Regresa al administrador de tu tienda y pega tu <strong>Merchant Key<\/strong> en la ventana de activaci\u00f3n.<\/li>\n<li>Una vez actives el plugin, dentro del administrador de tu tienda ve a WooCommerce -&gt; Ajustes.<\/li>\n<li>Haz clic en la pesta\u00f1a Pagos.<\/li>\n<li>En la lista, haz clic en el bot\u00f3n <strong>Gestionar<\/strong> del plugin Wava Payment.<\/li>\n<li>Configura el comportamiento del plugin y \u00a1listo!<\/li>\n<\/ol>\n<blockquote>\n<p>Tambi\u00e9n puedes ver <a href=\"https:\/\/www.loom.com\/share\/05eadce009d84baabe7281f4bd4cfb26\" rel=\"nofollow ugc\">este tutorial<\/a> para instalar y configurar tu plugin.<\/p>\n<\/blockquote>\n",
+        "faq": "\n<dt id='%C2%BFqu%C3%A9%20es%20wava%3F'>\n\u00bfQu\u00e9 es Wava?\n<\/h4>\n<p>\n<p>Con el ecosistema de Wava haz que tus clientes compren en segundos. Aumenta las conversiones, disminuye los carritos abandonados y el fraude en las transacciones.<\/p>\n<\/p>\n<dt id='%C2%BFcu%C3%A1nto%20cuesta%20wava%3F'>\n\u00bfCu\u00e1nto cuesta Wava?\n<\/h4>\n<p>\n<p>Wava se adapta a tu negocio, para consultar m\u00e1s detalles puedes ver <a href=\"https:\/\/wava.co\/tarifas\" rel=\"nofollow ugc\">nuestras tarifas<\/a><\/p>\n<\/p>\n<dt id='%C2%BFwava%20acepta%20pagos%20internacionales%3F'>\n\u00bfWava acepta pagos internacionales?\n<\/h4>\n<p>\n<p>Seg\u00fan el objetivo y localizaci\u00f3n de tu negocio, Wava tiene opciones ajustables a tu negocio, para m\u00e1s informaci\u00f3n puedes consultar con el \u00e1rea comercial. Puedes igualmente agendar una <a href=\"https:\/\/wava.co\/agendar-demo\/\" rel=\"nofollow ugc\">demo aqui<\/a><\/p>\n<\/p>\n\n",
+        "changelog": "<h4>0.3.2<\/h4>\n<p>*Fix Actualizacion de version del plugin en wordpress db<\/p>\n<h4>0.3.1<\/h4>\n<p>*Fix Actualizacion automatica de estados de pedidos<\/p>\n<h4>0.3.0<\/h4>\n<p>*Nuevo flujo de activacion para tiendas nuevas<br \/>\n*Nuevo panel de instrucciones de pago con Nequi en el checkout<br \/>\n*Optimizaciones de rendimiento<\/p>\n<h4>0.2.4<\/h4>\n<p>*Estados personalizados para pedidos de woocommerce<br \/>\n*Soporte para idiomas dinamicos Ingles y Espa\u00f1ol Colombia<\/p>\n<h4>0.2.3<\/h4>\n<ul>\n<li>Nueva ventana de activaci\u00f3n para tiendas.<\/li>\n<\/ul>\n<h4>0.2.2<\/h4>\n<ul>\n<li>Validaci\u00f3n con Merchant Key.  <\/li>\n<\/ul>\n<h4>0.2.1<\/h4>\n<ul>\n<li>Primera versi\u00f3n del plugin en WordPress.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/wava-payment\/assets\/screenshot-1.png?rev=3034739\"><img src=\"https:\/\/ps.w.org\/wava-payment\/assets\/screenshot-1.png?rev=3034739\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wava-payment\/assets\/screenshot-2.png?rev=3034739\"><img src=\"https:\/\/ps.w.org\/wava-payment\/assets\/screenshot-2.png?rev=3034739\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wava-payment\/assets\/screenshot-3.png?rev=3034739\"><img src=\"https:\/\/ps.w.org\/wava-payment\/assets\/screenshot-3.png?rev=3034739\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wava-payment\/assets\/screenshot-4.png?rev=3034739\"><img src=\"https:\/\/ps.w.org\/wava-payment\/assets\/screenshot-4.png?rev=3034739\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wava-payment\/assets\/screenshot-5.png?rev=3034739\"><img src=\"https:\/\/ps.w.org\/wava-payment\/assets\/screenshot-5.png?rev=3034739\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wava-payment\/assets\/screenshot-6.png?rev=3034739\"><img src=\"https:\/\/ps.w.org\/wava-payment\/assets\/screenshot-6.png?rev=3034739\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excelente acompa\u00f1amiento<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/yavalva\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f4e3281c25a978db1e201bf5a8c58b29?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f4e3281c25a978db1e201bf5a8c58b29?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/yavalva\/\" class=\"reviewer-name\">yavalva<\/a> on <span class=\"review-date\">March 15, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Excelente acompa\u00f1amiento por parte del personal y cero problemas con el plugin y los pagos a nuestra cuenta empresarial. RECOMENDADO<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">El empuj\u00f3n que nos tom\u00f3 gratamente por sorpresa.<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/felipebn0\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/862688a59f89600d514b96d19126736c?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/862688a59f89600d514b96d19126736c?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/felipebn0\/\" class=\"reviewer-name\">felipebn0<\/a> on <span class=\"review-date\">February 15, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">\u00a1Vaya experiencia la que hemos tenido con el plugin de Wava para pagos con billeteras digital! Instalarlo fue un paseo por el parque; realmente, tom\u00f3 menos tiempo que decidir qu\u00e9 pedir por Rappi. Solo tres minutos y \u00a1bam!, todo listo para despegar.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Pero aqu\u00ed viene lo mejor: las ventas. Literalmente, desde el primer d\u00eda que lo implementamos, vimos un aumento. Fue como si de repente todos hubieran decidido que era el momento de comprar en nuestra tienda y pagar por Nequi. Definitivamente, un empuj\u00f3n que nos tom\u00f3 gratamente por sorpresa.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">En cuanto al precio, s\u00ed, hay opciones m\u00e1s econ\u00f3micas, pero Wava tiene ese balance perfecto entre costo y valor. Es una inversi\u00f3n que se paga sola con el aumento en las ventas y la fluidez en el proceso de pago.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Lo que me enamor\u00f3 de este plugin es su capacidad de adaptarse. No importa el estilo de tu tienda, Wava se integra con una facilidad impresionante, como si siempre hubiera sido parte de tu proyecto. Es esa pieza del rompecabezas que no sab\u00edas que faltaba.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Le doy 4.8 estrellas porque siempre hay margen para la sorpresa y la innovaci\u00f3n. Pero hasta ahora, Wava ha sido una grata experiencia que recomiendo a cualquiera que quiera darle a su tienda online ese empuj\u00f3n hacia el \u00e9xito.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Facilita pagos a trav\u00e9s de m\u00e9todos directos, billeteras digitales, Bancos y m\u00e9todos de Pago alternativos.",
+    "description": "<p>Wava ayuda a las tiendas en l\u00ednea en Am\u00e9rica Latina a facilitar el pago para los clientes. Admiten diferentes formas de pago, como transferencias bancarias y billeteras digitales u otros m\u00e9todos alternativos. El objetivo de Wava es reducir tarifas, hacer que los pagos sean m\u00e1s sencillos y mejorar la tasa de \u00e9xito en un mercado donde mucha gente usa billeteras digitales.<\/p>\n<p>Busca la integraci\u00f3n de tu preferencia y activa incluso din\u00e1micamente cada una de estas integraciones seg\u00fan tus preferencias.<\/p>\n<p>Somos Partners oficiales de NEQUI y STRIPE!.<\/p>\n<p>Proximamente Daviplata.<\/p>\n<h3>Nuestro modelo acepta:<\/h3>\n<ul>\n<li>Colecci\u00f3n (Pay-ins).<\/li>\n<li>Tokenizaci\u00f3n.<\/li>\n<li>Ruteo con diferentes procesadores de pago.<\/li>\n<li>Dispersi\u00f3n (Pay-outs).<\/li>\n<\/ul>\n<h3>T\u00e9rminos y Condiciones<\/h3>\n<p>Aseg\u00farate de leer y comprender los <a href=\"https:\/\/wava.co\/terminos-y-condiciones\/\" rel=\"nofollow ugc\">T\u00e9rminos de servicio y la Pol\u00edtica de privacidad<\/a> de Wava.<\/p>\n<h3>Preguntas Frecuentes<\/h3>\n<p>T\u00fa tienes las preguntas y nosotros las <a href=\"https:\/\/wava.co\/preguntas-frecuentes\/\" rel=\"nofollow ugc\">respuestas<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wava-payment.0.3.2.zip",
+    "upgrade_notice": {
+        "": "<ul>\n<li>Mejoras en el rendimiento y correci\u00f3n de errores.= 0.3.2 =\nSe recomienda actualizar debido a correcci\u00f3n de errores y optimizaci\u00f3n de rendimiento.<\/li>\n<\/ul>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/wava-payment\/assets\/screenshot-1.png?rev=3034739",
+            "caption": ""
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/wava-payment\/assets\/screenshot-2.png?rev=3034739",
+            "caption": ""
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/wava-payment\/assets\/screenshot-3.png?rev=3034739",
+            "caption": ""
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/wava-payment\/assets\/screenshot-4.png?rev=3034739",
+            "caption": ""
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/wava-payment\/assets\/screenshot-5.png?rev=3034739",
+            "caption": ""
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/wava-payment\/assets\/screenshot-6.png?rev=3034739",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "checkout": "checkout",
+        "nequi": "Nequi",
+        "payments": "payments",
+        "wava": "wava",
+        "woocommerce": "woocommerce"
+    },
+    "stable_tag": "0.3.2",
+    "versions": {
+        "0.2.4": "https:\/\/downloads.wordpress.org\/plugin\/wava-payment.0.2.4.zip",
+        "0.3.1": "https:\/\/downloads.wordpress.org\/plugin\/wava-payment.0.3.1.zip",
+        "0.3.2": "https:\/\/downloads.wordpress.org\/plugin\/wava-payment.0.3.2.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/wava-payment.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/wava-payment\/assets\/icon-128x128.jpg?rev=3062950"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

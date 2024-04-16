@@ -1,0 +1,222 @@
+{
+    "name": "Migrate WordPress Website &amp; Backups &#8211; Prime Mover",
+    "slug": "prime-mover",
+    "version": "1.9.8",
+    "author": "<a href=\"https:\/\/codexonics.com\/\">Codexonics<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/codexonics\/",
+    "contributors": {
+        "codexonics": {
+            "profile": "https:\/\/profiles.wordpress.org\/codexonics\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/ac64700f9f187740b4a2ae3f586e4c1d?s=96&d=monsterid&r=g",
+            "display_name": "Codexonics"
+        },
+        "freemius": {
+            "profile": "https:\/\/profiles.wordpress.org\/freemius\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3ac33da92186a78937b307bdd9e906ee?s=96&d=monsterid&r=g",
+            "display_name": "Freemius"
+        }
+    },
+    "requires": "4.9.8",
+    "tested": "6.5.2",
+    "requires_php": "5.6",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 100,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 1
+    },
+    "num_ratings": 101,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/prime-mover\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 9000,
+    "downloaded": 196289,
+    "last_updated": "2024-03-27 12:14am GMT",
+    "added": "2019-06-29",
+    "homepage": "https:\/\/codexonics.com\/",
+    "sections": {
+        "description": "<h4>Easily Transfer WordPress Site to New Host\/Server\/Domain<\/h4>\n<ul>\n<li>Move single-site installation to another single site server.<\/li>\n<li>Move WP single-site to existing multisite sub-site.<\/li>\n<li>Migrate subsite to another multisite sub-site.<\/li>\n<li>Migrate multisite sub-site to single-site.<\/li>\n<li>Migrate within WordPress admin.<\/li>\n<li>WordPress backup and restore packages within single-site or multisite.<\/li>\n<li>Backup WordPress subsite (in multisite).<\/li>\n<li>You can backup the WordPress database within admin before testing something and restore it with one click.<\/li>\n<li>Cross-platform compatible (Nginx \/ Apache \/ Litespeed \/ Microsoft IIS \/ Localhost).<\/li>\n<li>Clone single site and restore it to any server.<\/li>\n<li>Clone subsite in multisite and restore it as single-site or multisite.<\/li>\n<li>Supports legacy multisites.<\/li>\n<li>Debug package.<\/li>\n<li>Supports backup of the non-UTF8 single-site or multisite database.<\/li>\n<\/ul>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/QAVVXcoQU8g?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<h4>PRO Features<\/h4>\n<ul>\n<li>Save tons of time during migration with the direct site to site package transfer.<\/li>\n<li>Move the backup location outside WordPress public directory for better security.<\/li>\n<li>Migrate or backup WordPress multisite main site.<\/li>\n<li>Encrypt WordPress database in backups for maximum data privacy.<\/li>\n<li>Encrypt WordPress upload files inside backup for better security.<\/li>\n<li>Encrypt plugin and theme files inside the backup\/package for protection.<\/li>\n<li>Export and restore the backup package from Dropbox.<\/li>\n<li>Save and restore packages from and to Google Drive.<\/li>\n<li>Exclude plugins from the backup (or network activated plugins if multisite).<\/li>\n<li>Exclude upload directory files from the backup to reduce the package size.<\/li>\n<li>Create a new multisite subsite with a specific blog ID.<\/li>\n<li>Disable network maintenance in multisite so only affected subsite is in maintenance mode.<\/li>\n<li>Configure migration parameters to optimize and tweak backup\/migration packages.<\/li>\n<li>It includes all complete restoration options at your own choice and convenience.<\/li>\n<li>Full access to settings screen to manage all basic and plugin advanced configurations.<\/li>\n<li>Migrate non-UTF8 database charset to standard UTF8 database charset (utf8mb4).<\/li>\n<li>Migrate UTF8 database charset (utf8mb4) to non-UTF8 database charset (edge case scenario).<\/li>\n<\/ul>\n<h4>Documentation<\/h4>\n<ul>\n<li><a href=\"https:\/\/codexonics.com\/prime_mover\/prime-mover\/\" rel=\"nofollow ugc\">Prime Mover Documentation<\/a><\/li>\n<\/ul>\n",
+        "installation": "<ol>\n<li>Upload to the <code>\/wp-content\/plugins\/<\/code> directory<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress<\/li>\n<li>Optionally, opt in to security &amp; feature updates notification including non-sensitive diagnostic tracking with freemius.com. If you skip this, that&#8217;s okay! Prime Mover will still work just fine.<\/li>\n<li>You should see the Prime Mover Control Panel. Click &#8220;Go to Migration Tools&#8221; to start migrating sites.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='what%20makes%20prime%20mover%20unique%20to%20other%20existing%20migration%20and%20backup%20plugins%3F'>\nWhat makes Prime Mover unique to other existing migration and backup plugins?\n<\/h4>\n<p>\n<ul>\n<li>The free version has no restriction on package size, number of websites or mode of migration (single-site or multisite will work). (Note: Exporting\/Restoring a multisite main site is a PRO feature)<\/li>\n<li>The free version supports WordPress multisite migration on any number of subsites except that exporting\/restoring the multisite main site is a PRO feature.<\/li>\n<li>It can backup WordPress multisite sub-sites or migrate multisite.<\/li>\n<li>No need to delete your WordPress installation, create\/delete the database, and all other technical stuff. It will save you a lot of time.<\/li>\n<li>This is not hosting-dependent. Prime Mover is designed to work with any hosting companies you want to work with.<\/li>\n<li>The free version has full multisite migration functionality. This feature is usually missing in most migration plugins free version.<\/li>\n<li>Full versatility &#8211; migrating from your localhost, dev site, or from a live site to another live site.<\/li>\n<li>You will be doing the entire migration inside the WordPress admin. Anyone with administrator access can do it. There is no need to hire a freelancer to do the job &#8211; saves you money.<\/li>\n<li>No messing with complicated migration settings, the free version has built-in settings. Only choose a few options to export and migrate, that&#8217;s it. <\/li>\n<li>You can save, download, delete, and migrate packages using the management page.<\/li>\n<li>No need to worry about PHP configuration and server settings. Compatible with most default PHP server settings even in limited shared hosting. <\/li>\n<li>Prime Mover works with modern PHP versions 5.6 to 8.2+ (Google Drive feature requires at least PHP 7.4).<\/li>\n<li>The code is following PHP-fig coding standards (standard PHP coding guidelines).<\/li>\n<li>The free version supports backup and restoration of non-UTF8 sites. However, you need the PRO version to migrate non-UTF8 to the UTF8 (utf8mb4) database charset and vice versa.<\/li>\n<li>You don&#8217;t need to worry about setting up users or changing user passwords after migration. It does not overwrite existing site users after migration.<\/li>\n<\/ul>\n<p>For more common questions, please read the <a href=\"https:\/\/codexonics.com\/prime_mover\/prime-mover\/faq\/\" rel=\"nofollow ugc\">plugin FAQ listed in the developer site<\/a>.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.9.8<\/h4>\n<ul>\n<li>Fixed: Bug on missing entries on user equivalence data during import.<\/li>\n<li>Fixed: Memory limit error on import when max post author ID is an extremely large number.<\/li>\n<li>Fixed: Limit readme tags as per guidelines.<\/li>\n<li>Fixed: Compatibility issues with newer version of BuddyBoss plugin.<\/li>\n<li>Fixed: Edge case issue of missing BuddyPress avatar \/ member images in uploads directory.<\/li>\n<\/ul>\n<h4>1.9.7<\/h4>\n<ul>\n<li>Fixed: Fatal error in user import retry process using PHP 8.2.15.<\/li>\n<li>Fixed: Auto-adjust user_id columns in database to correct values during import.<\/li>\n<li>Fixed: Added settings filter &#8216;prime_mover_custom_user_id_col&#8217; to adjust non-default user id columns.<\/li>\n<li>Fixed: Infinite loop in third party processor during import process retry.<\/li>\n<li>Compatibility: Tested for WordPress 6.5 release.<\/li>\n<\/ul>\n<h4>1.9.6<\/h4>\n<ul>\n<li>Fixed: Connections using insecure transport are prohibited while require_secure_transport=ON.<\/li>\n<li>Fixed: Compatibility issues with Easy Digital Downloads plugin.<\/li>\n<li>Fixed: www converted to WP Paths in URLs &#8211; search replace issue. <\/li>\n<li>Fixed: Exclude redundant bb-platform-previews by default.<\/li>\n<\/ul>\n<p>See the previous changelogs in changelog.txt.<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-1.jpg?rev=2519112\"><img src=\"https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-1.jpg?rev=2519112\" alt=\"Single-site Migration Tools\"><\/a><p>Single-site Migration Tools<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-2.jpg?rev=2723638\"><img src=\"https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-2.jpg?rev=2723638\" alt=\"Export options dialog\"><\/a><p>Export options dialog<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-3.jpg?rev=2723638\"><img src=\"https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-3.jpg?rev=2723638\" alt=\"Export to single-site format example\"><\/a><p>Export to single-site format example<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-4.jpg?rev=2723638\"><img src=\"https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-4.jpg?rev=2723638\" alt=\"Export to multisite subsite with blog ID of 23 example\"><\/a><p>Export to multisite subsite with blog ID of 23 example<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-5.jpg?rev=2519112\"><img src=\"https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-5.jpg?rev=2519112\" alt=\"Restore package via browser upload\"><\/a><p>Restore package via browser upload<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-6.jpg?rev=2519112\"><img src=\"https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-6.jpg?rev=2519112\" alt=\"Single-site package manager\"><\/a><p>Single-site package manager<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-7.jpg?rev=2519112\"><img src=\"https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-7.jpg?rev=2519112\" alt=\"Prime Mover network control panel\"><\/a><p>Prime Mover network control panel<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-8.jpg?rev=2519112\"><img src=\"https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-8.jpg?rev=2519112\" alt=\"Export and restore package from Network Sites\"><\/a><p>Export and restore package from Network Sites<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-9.jpg?rev=2519112\"><img src=\"https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-9.jpg?rev=2519112\" alt=\"Multisite network package manager\"><\/a><p>Multisite network package manager<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Does everything it says<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/bbdapereira\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e36035c7dab5a78bd39954dea66ef986?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e36035c7dab5a78bd39954dea66ef986?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/bbdapereira\/\" class=\"reviewer-name\">bbdapereira<\/a> on <span class=\"review-date\">March 13, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Works 100% even on free version! Perfect!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/vincentjolanda\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/6b4e6cb4c365196cee28a310e1bf8636?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/6b4e6cb4c365196cee28a310e1bf8636?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/vincentjolanda\/\" class=\"reviewer-name\">vincentjolanda<\/a> on <span class=\"review-date\">March 12, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\"><\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Multisite to single site migration in the free version! Time saving features in Pro! Great support!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Just works<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mar1ak10\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f90c79c4370f81ecb78c88e42860faef?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f90c79c4370f81ecb78c88e42860faef?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mar1ak10\/\" class=\"reviewer-name\">mar1ak10<\/a> on <span class=\"review-date\">March 11, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Transfers everything properly and no need to do any post transfer fixes. Amazing. Worked with Single and Multi site configs. Thank you! I'll be supporting you when I can<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">What a cool litte tool<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/swini-1\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/8cbe4cdedd14bfd629d9e96e262527f6?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/8cbe4cdedd14bfd629d9e96e262527f6?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/swini-1\/\" class=\"reviewer-name\">s.wini<\/a> on <span class=\"review-date\">March 2, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Thanks a lot for this great plugin! It works as a charm.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Fantastic migration plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mahonyson\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/1fe297d3c40dd3ae8f536820af46de2c?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/1fe297d3c40dd3ae8f536820af46de2c?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mahonyson\/\" class=\"reviewer-name\">mahonyson<\/a> on <span class=\"review-date\">February 23, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Works perfectly, even with the free version. Migrating from or to multisites, exporting as single site from multisite and so on is easy and just works.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Thank you for your effort!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Should be in core; awesome anyway<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/tholub\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/36b5c1644c1156b5c3e4e27e1c1ad9db?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/36b5c1644c1156b5c3e4e27e1c1ad9db?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/tholub\/\" class=\"reviewer-name\">tholub<\/a> on <span class=\"review-date\">February 21, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">One of the least pleasant things about the WordPress ecosystem is how many freemium plugins exist where the free version provides nothing useful, and the premium version provides functionality that should be in WordPress core.<br \/><br \/>This isn't like that. If you run multiple WordPress installs, and especially if you run Multi-Site, Prime Mover does basically everything you need, for free, and it works great. Can be used to move from site to site or from multi-site to single instance and back, or to manage a staging site. Should rank higher on wordpress.org than all of the other site duplicators which are way more limited and don't work as well.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">absolutely amazing<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/stuartbrameld\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/ee706e00598e9a66c050ca3b90d6f539?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/ee706e00598e9a66c050ca3b90d6f539?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/stuartbrameld\/\" class=\"reviewer-name\">stuartbrameld<\/a> on <span class=\"review-date\">February 2, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I think this might be my first ever WordPress plugin review in many years, but just to say this is amazing. I tried Cloudways migration service, said they could do it but couldn't. Tried BlogVault, same thing. Delicious Brains WP Migrate could do it, but only with the most expensive plan, which costs a fortune. Eventually found PrimeMover, installed the free version and split out my single site from a multisite install in about 30 minutes. Absolutely superb plugin, super impressive. Thank you!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">GREAT Migration Plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/winock\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d604aa085cae88b5ff5733231fbd059b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d604aa085cae88b5ff5733231fbd059b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/winock\/\" class=\"reviewer-name\">Patrick Horemans <small>(Winock)<\/small><\/a> on <span class=\"review-date\">December 13, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">This is for the first time i finaly found a Plugin for migrating from a Multisite to a stand alone.\n\nit does what i hoping, expecting and searching for, AND FOR FREE!\n\nThanks guys and Girls for this great plugin! <\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Amazing work<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/alexe83\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/92ff21b437fdc5a90d642a2bb940e217?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/92ff21b437fdc5a90d642a2bb940e217?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/alexe83\/\" class=\"reviewer-name\">alexe83<\/a> on <span class=\"review-date\">December 11, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This product saved the day! It not only worked as a charm, but further more when I have an issue in a personal site, they offered their help and I was able to solve an extremely complex issue!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Thanks guys! Keep up the good work!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">The prime mover plugin is really amazing!!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/antoine38\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/04725d92a5b0c0f21467d906a29a5363?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/04725d92a5b0c0f21467d906a29a5363?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/antoine38\/\" class=\"reviewer-name\">antoine38<\/a> on <span class=\"review-date\">December 3, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The prime mover plugin is really amazing, it works so well and is so easy to use. But most importantly, everyone who already did a migration know, that because there is so many WordPress plugins, something can always be incompatible, and there is always some issue. I had a problem with one plugin being incompatible (because the plugin developer didnt followed best practices\u2026). In this kind of case, support normally says \"other plugin is not well coded, we cant do anything\". And if you contact the other they says, \"its the fault of the other plugin\". And so you can't do anything. But here Emerson and his team were really supportive, they spent so much time, testing and testing again until it worked and had to make different updates and tests on my website, to make sure that it worked. They stand 100% under their plugin and thats really rare.<br \/>Thanks you so much for your help!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "The simplest all-around WordPress migration tool\/backup plugin. These support multisite backup\/migration or clone WP site\/multisite subsite.",
+    "description": "<h4>Easily Transfer WordPress Site to New Host\/Server\/Domain<\/h4>\n<ul>\n<li>Move single-site installation to another single site server.<\/li>\n<li>Move WP single-site to existing multisite sub-site.<\/li>\n<li>Migrate subsite to another multisite sub-site.<\/li>\n<li>Migrate multisite sub-site to single-site.<\/li>\n<li>Migrate within WordPress admin.<\/li>\n<li>WordPress backup and restore packages within single-site or multisite.<\/li>\n<li>Backup WordPress subsite (in multisite).<\/li>\n<li>You can backup the WordPress database within admin before testing something and restore it with one click.<\/li>\n<li>Cross-platform compatible (Nginx \/ Apache \/ Litespeed \/ Microsoft IIS \/ Localhost).<\/li>\n<li>Clone single site and restore it to any server.<\/li>\n<li>Clone subsite in multisite and restore it as single-site or multisite.<\/li>\n<li>Supports legacy multisites.<\/li>\n<li>Debug package.<\/li>\n<li>Supports backup of the non-UTF8 single-site or multisite database.<\/li>\n<\/ul>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/QAVVXcoQU8g?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<h4>PRO Features<\/h4>\n<ul>\n<li>Save tons of time during migration with the direct site to site package transfer.<\/li>\n<li>Move the backup location outside WordPress public directory for better security.<\/li>\n<li>Migrate or backup WordPress multisite main site.<\/li>\n<li>Encrypt WordPress database in backups for maximum data privacy.<\/li>\n<li>Encrypt WordPress upload files inside backup for better security.<\/li>\n<li>Encrypt plugin and theme files inside the backup\/package for protection.<\/li>\n<li>Export and restore the backup package from Dropbox.<\/li>\n<li>Save and restore packages from and to Google Drive.<\/li>\n<li>Exclude plugins from the backup (or network activated plugins if multisite).<\/li>\n<li>Exclude upload directory files from the backup to reduce the package size.<\/li>\n<li>Create a new multisite subsite with a specific blog ID.<\/li>\n<li>Disable network maintenance in multisite so only affected subsite is in maintenance mode.<\/li>\n<li>Configure migration parameters to optimize and tweak backup\/migration packages.<\/li>\n<li>It includes all complete restoration options at your own choice and convenience.<\/li>\n<li>Full access to settings screen to manage all basic and plugin advanced configurations.<\/li>\n<li>Migrate non-UTF8 database charset to standard UTF8 database charset (utf8mb4).<\/li>\n<li>Migrate UTF8 database charset (utf8mb4) to non-UTF8 database charset (edge case scenario).<\/li>\n<\/ul>\n<h4>Documentation<\/h4>\n<ul>\n<li><a href=\"https:\/\/codexonics.com\/prime_mover\/prime-mover\/\" rel=\"nofollow ugc\">Prime Mover Documentation<\/a><\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.9.8.zip",
+    "upgrade_notice": {
+        "": "<p>Update now to get all the latest bug fixes, improvements and features!<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-1.jpg?rev=2519112",
+            "caption": "Single-site Migration Tools"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-2.jpg?rev=2723638",
+            "caption": "Export options dialog"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-3.jpg?rev=2723638",
+            "caption": "Export to single-site format example"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-4.jpg?rev=2723638",
+            "caption": "Export to multisite subsite with blog ID of 23 example"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-5.jpg?rev=2519112",
+            "caption": "Restore package via browser upload"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-6.jpg?rev=2519112",
+            "caption": "Single-site package manager"
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-7.jpg?rev=2519112",
+            "caption": "Prime Mover network control panel"
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-8.jpg?rev=2519112",
+            "caption": "Export and restore package from Network Sites"
+        },
+        "9": {
+            "src": "https:\/\/ps.w.org\/prime-mover\/assets\/screenshot-9.jpg?rev=2519112",
+            "caption": "Multisite network package manager"
+        }
+    },
+    "tags": {
+        "backup": "backup",
+        "clone": "clone",
+        "migrate-wordpress": "migrate WordPress",
+        "multisite-migration": "multisite migration"
+    },
+    "stable_tag": "1.9.8",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.0.4.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.0.5.zip",
+        "1.0.6": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.0.6.zip",
+        "1.0.7": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.0.7.zip",
+        "1.0.8": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.0.8.zip",
+        "1.0.9": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.0.9.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.1.0.zip",
+        "1.1.1": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.1.1.zip",
+        "1.1.2": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.1.2.zip",
+        "1.1.3": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.1.3.zip",
+        "1.1.4": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.1.4.zip",
+        "1.1.5": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.1.5.zip",
+        "1.1.6": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.1.6.zip",
+        "1.1.7": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.1.7.zip",
+        "1.1.8": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.1.8.zip",
+        "1.1.9": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.1.9.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.2.0.zip",
+        "1.2.1": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.2.1.zip",
+        "1.2.2": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.2.2.zip",
+        "1.2.3": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.2.3.zip",
+        "1.2.4": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.2.4.zip",
+        "1.2.5": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.2.5.zip",
+        "1.2.6": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.2.6.zip",
+        "1.2.7": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.2.7.zip",
+        "1.2.8": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.2.8.zip",
+        "1.2.9": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.2.9.zip",
+        "1.3.0": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.3.0.zip",
+        "1.3.1": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.3.1.zip",
+        "1.3.2": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.3.2.zip",
+        "1.3.3": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.3.3.zip",
+        "1.3.4": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.3.4.zip",
+        "1.3.5": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.3.5.zip",
+        "1.3.6": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.3.6.zip",
+        "1.3.7": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.3.7.zip",
+        "1.3.8": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.3.8.zip",
+        "1.3.9": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.3.9.zip",
+        "1.4.0": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.4.0.zip",
+        "1.4.1": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.4.1.zip",
+        "1.4.2": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.4.2.zip",
+        "1.4.3": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.4.3.zip",
+        "1.4.4": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.4.4.zip",
+        "1.4.5": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.4.5.zip",
+        "1.4.6": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.4.6.zip",
+        "1.4.7": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.4.7.zip",
+        "1.4.8": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.4.8.zip",
+        "1.4.9": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.4.9.zip",
+        "1.5.0": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.5.0.zip",
+        "1.5.1": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.5.1.zip",
+        "1.5.2": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.5.2.zip",
+        "1.5.3": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.5.3.zip",
+        "1.6.0": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.6.0.zip",
+        "1.6.1": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.6.1.zip",
+        "1.6.2": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.6.2.zip",
+        "1.6.3": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.6.3.zip",
+        "1.6.4": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.6.4.zip",
+        "1.6.5": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.6.5.zip",
+        "1.6.6": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.6.6.zip",
+        "1.7.0": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.7.0.zip",
+        "1.7.1": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.7.1.zip",
+        "1.7.2": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.7.2.zip",
+        "1.8.0": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.8.0.zip",
+        "1.8.1": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.8.1.zip",
+        "1.8.2": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.8.2.zip",
+        "1.8.3": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.8.3.zip",
+        "1.8.4": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.8.4.zip",
+        "1.8.5": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.8.5.zip",
+        "1.8.6": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.8.6.zip",
+        "1.8.7": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.8.7.zip",
+        "1.8.8": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.8.8.zip",
+        "1.8.9": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.8.9.zip",
+        "1.9.0": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.9.0.zip",
+        "1.9.1": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.9.1.zip",
+        "1.9.2": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.9.2.zip",
+        "1.9.3": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.9.3.zip",
+        "1.9.4": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.9.4.zip",
+        "1.9.5": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.9.5.zip",
+        "1.9.6": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.9.6.zip",
+        "1.9.7": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.9.7.zip",
+        "1.9.8": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.1.9.8.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/prime-mover.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/codexonics.com",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/prime-mover\/assets\/banner-772x250.png?rev=2314164",
+        "high": "https:\/\/ps.w.org\/prime-mover\/assets\/banner-1544x500.png?rev=2314164"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/prime-mover\/assets\/icon-128x128.png?rev=2114612",
+        "2x": "https:\/\/ps.w.org\/prime-mover\/assets\/icon-256x256.png?rev=2114612"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "prime-mover",
+            "language": "es_ES",
+            "version": "1.9.8",
+            "updated": "2024-01-21 11:31:48",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/prime-mover\/1.9.8\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "prime-mover",
+            "language": "ja",
+            "version": "1.9.8",
+            "updated": "2023-10-16 15:24:27",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/prime-mover\/1.9.8\/ja.zip"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "name": "Maaq &#8211; Manage your WordPress websites",
+    "slug": "maaq-website-manager",
+    "version": "0.0.6",
+    "author": "<a href=\"https:\/\/maaq.app\">Maaq<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/infomaaq\/",
+    "contributors": {
+        "infomaaq": {
+            "profile": "https:\/\/profiles.wordpress.org\/infomaaq\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/ae22cda3f0333bb5e2d8ecdd18a80671?s=96&d=monsterid&r=g",
+            "display_name": "Maaq"
+        }
+    },
+    "requires": "6.0",
+    "tested": "6.5.2",
+    "requires_php": "8.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 2,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 2,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/maaq-website-manager\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 410,
+    "last_updated": "2024-03-28 3:06pm GMT",
+    "added": "2023-10-01",
+    "homepage": "https:\/\/maaq.app\/",
+    "sections": {
+        "description": "<h4>Maaq &#8211; Manage your WordPress websites<\/h4>\n<p>An easy way to manage, monitor &amp; maintain your WordPress websites! This plugin is needed to get the Maaq app working \u26a1\ufe0f\ud83d\ude80.<\/p>\n<h4>Bridge<\/h4>\n<p>This plugin acts as a bridge to communicate with the Maaq IOS &amp; Android apps. It will connect to the <a href=\"https:\/\/maaq.app\" rel=\"nofollow ugc\">Maaq<\/a> servers to handle things like events.<\/p>\n<p>You can check out our <a href=\"https:\/\/maaq.app\/terms-of-use\" rel=\"nofollow ugc\">terms of use<\/a> &amp; <a href=\"https:\/\/maaq.app\/privacy-policy\" rel=\"nofollow ugc\">privacy policy<\/a> here.<\/p>\n",
+        "installation": "<h4>Get started in 2 steps.<\/h4>\n<ol>\n<li>Install &amp; activate the Maaq plugin on your website.<\/li>\n<li>Go to the Maaq plugin settings and scan the pairing QR code from the Maaq app.<\/li>\n<\/ol>\n<p>This plugin acts as a bridge to communicate with the Maaq IOS &amp; Android apps.<\/p>\n<p>Still having trouble?<br \/>\nHave a look at our detailed tutorial on how to connect your WordPress website on our <a href=\"https:\/\/maaq.app\/how-to-install-the-maaq-wordpress-plugin\" rel=\"nofollow ugc\">website<\/a>.<\/p>\n",
+        "faq": "\n<dt id='why%20do%20i%20need%20this%20plugin%20to%20use%20maaq%3F'>\nWhy do I need this plugin to use Maaq?\n<\/h4>\n<p>\n<p>This plugin acts as a bridge between your WordPress site and our IOS or Android app.<\/p>\n<\/p>\n<dt id='how%20do%20i%20pair%20my%20wordpress%20website%20with%20the%20maaq%20app%3F'>\nHow do I pair my WordPress website with the Maaq app?\n<\/h4>\n<p>\n<p>The first step is to install and activate this plugin. Then you head over to the Maaq plugin settings. It will show you an QR code which you can scan from within the Maaq IOS or Android app.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>&#8212; 0.0.6 &#8212;<\/h4>\n<p>Added:<br \/>\n\ud83d\udeb8 Added feature to add users<\/p>\n<p>Changed:<br \/>\n\ud83d\udce6\ufe0f Updated third party packages<\/p>\n<h4>&#8212; 0.0.5 &#8212;<\/h4>\n<p>Added:<br \/>\n\u2728 Open Maaq pair page on plugin activation<\/p>\n<h4>&#8212; 0.0.4 &#8212;<\/h4>\n<p>Changed:<br \/>\n\ud83d\udd14 Better error events logging<\/p>\n<p>Fixed:<br \/>\n\ud83e\ude79 Remove sso user id when user is deleted from wp-admin<br \/>\n\ud83e\ude79 Restrict demote last administator<\/p>\n<h4>&#8212; 0.0.3 &#8212;<\/h4>\n<p>Added:<br \/>\n\u2728 Added single sign-on<\/p>\n<p>Changed:<br \/>\n\ud83d\udd14 More useful details in events<\/p>\n<p>Fixed:<br \/>\n\ud83e\ude79 Plugin updates didn&#8217;t always sync correctly<br \/>\n\ud83d\udc1b Don&#8217;t send posts events for auto_drafts<br \/>\n\ud83e\ude79 Fixed updating of a user role<br \/>\n\ud83e\ude79 You could enter an empty email<\/p>\n<h4>&#8212; 0.0.2 &#8212;<\/h4>\n<p>Added:<br \/>\n\u2728 More endpoints<br \/>\n\ud83d\udd12\ufe0f Permission checks<\/p>\n<p>Changed:<br \/>\n\ud83d\udd14 Notifications are now called events<\/p>\n<p>Fixed:<br \/>\n\ud83e\ude79 Use offset based pagination instead of cursor based<br \/>\n\ud83d\udd14 Replaced wrong eventId<\/p>\n<h4>&#8212; 0.0.1 &#8212;<\/h4>\n<p>Added:<br \/>\n\ud83c\udf89 Initial release<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/maaq-website-manager\/assets\/screenshot-1.png?rev=3039856\"><img src=\"https:\/\/ps.w.org\/maaq-website-manager\/assets\/screenshot-1.png?rev=3039856\" alt=\"Easily manage your WordPress websites - App screenshot\"><\/a><p>Easily manage your WordPress websites - App screenshot<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/maaq-website-manager\/assets\/screenshot-2.png?rev=3039856\"><img src=\"https:\/\/ps.w.org\/maaq-website-manager\/assets\/screenshot-2.png?rev=3039856\" alt=\"Get events - App screenshot\"><\/a><p>Get events - App screenshot<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/maaq-website-manager\/assets\/screenshot-3.png?rev=3039856\"><img src=\"https:\/\/ps.w.org\/maaq-website-manager\/assets\/screenshot-3.png?rev=3039856\" alt=\"Simple dashboard - App screenshot\"><\/a><p>Simple dashboard - App screenshot<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/maaq-website-manager\/assets\/screenshot-4.png?rev=3039856\"><img src=\"https:\/\/ps.w.org\/maaq-website-manager\/assets\/screenshot-4.png?rev=3039856\" alt=\"Manage features - App screenshot\"><\/a><p>Manage features - App screenshot<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/maaq-website-manager\/assets\/screenshot-5.png?rev=3039856\"><img src=\"https:\/\/ps.w.org\/maaq-website-manager\/assets\/screenshot-5.png?rev=3039856\" alt=\"Fully adaptable - App screenshot\"><\/a><p>Fully adaptable - App screenshot<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Love it<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/loisnta\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b6b4fb4d0c9d9292caca38cabd1ddc9e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b6b4fb4d0c9d9292caca38cabd1ddc9e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/loisnta\/\" class=\"reviewer-name\">loisnta<\/a> on <span class=\"review-date\">February 27, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Lovely app and very easy to pair with my websites.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Works wonderful<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jobmoll\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/39d8a6f1ebde2ebc9de16619c1ba18ae?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/39d8a6f1ebde2ebc9de16619c1ba18ae?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jobmoll\/\" class=\"reviewer-name\">job <small>(jobmoll)<\/small><\/a> on <span class=\"review-date\">January 30, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Works wonderful, but it is still missing some features. Has potential!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "An easy way to manage, monitor &amp; maintain your WordPress websites!",
+    "description": "<h4>Maaq &#8211; Manage your WordPress websites<\/h4>\n<p>An easy way to manage, monitor &amp; maintain your WordPress websites! This plugin is needed to get the Maaq app working \u26a1\ufe0f\ud83d\ude80.<\/p>\n<h4>Bridge<\/h4>\n<p>This plugin acts as a bridge to communicate with the Maaq IOS &amp; Android apps. It will connect to the <a href=\"https:\/\/maaq.app\" rel=\"nofollow ugc\">Maaq<\/a> servers to handle things like events.<\/p>\n<p>You can check out our <a href=\"https:\/\/maaq.app\/terms-of-use\" rel=\"nofollow ugc\">terms of use<\/a> &amp; <a href=\"https:\/\/maaq.app\/privacy-policy\" rel=\"nofollow ugc\">privacy policy<\/a> here.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/maaq-website-manager.0.0.6.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/maaq-website-manager\/assets\/screenshot-1.png?rev=3039856",
+            "caption": "Easily manage your WordPress websites - App screenshot"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/maaq-website-manager\/assets\/screenshot-2.png?rev=3039856",
+            "caption": "Get events - App screenshot"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/maaq-website-manager\/assets\/screenshot-3.png?rev=3039856",
+            "caption": "Simple dashboard - App screenshot"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/maaq-website-manager\/assets\/screenshot-4.png?rev=3039856",
+            "caption": "Manage features - App screenshot"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/maaq-website-manager\/assets\/screenshot-5.png?rev=3039856",
+            "caption": "Fully adaptable - App screenshot"
+        }
+    },
+    "tags": {
+        "bridge": "bridge",
+        "client": "Client",
+        "maaq": "Maaq",
+        "manage-multiple-website": "Manage multiple website",
+        "monitor-websites": "Monitor websites"
+    },
+    "stable_tag": "0.0.6",
+    "versions": {
+        "0.0.1": "https:\/\/downloads.wordpress.org\/plugin\/maaq-website-manager.0.0.1.zip",
+        "0.0.2": "https:\/\/downloads.wordpress.org\/plugin\/maaq-website-manager.0.0.2.zip",
+        "0.0.3": "https:\/\/downloads.wordpress.org\/plugin\/maaq-website-manager.0.0.3.zip",
+        "0.0.4": "https:\/\/downloads.wordpress.org\/plugin\/maaq-website-manager.0.0.4.zip",
+        "0.0.5": "https:\/\/downloads.wordpress.org\/plugin\/maaq-website-manager.0.0.5.zip",
+        "0.0.6": "https:\/\/downloads.wordpress.org\/plugin\/maaq-website-manager.0.0.6.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/maaq-website-manager.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/maaq-website-manager\/assets\/banner-772x250.png?rev=3039856",
+        "high": "https:\/\/ps.w.org\/maaq-website-manager\/assets\/banner-1544x500.png?rev=3039856"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/maaq-website-manager\/assets\/icon.svg?rev=2973564",
+        "svg": "https:\/\/ps.w.org\/maaq-website-manager\/assets\/icon.svg?rev=2973564"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

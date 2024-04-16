@@ -1,0 +1,491 @@
+{
+    "name": "Getwid &#8211; Gutenberg Blocks",
+    "slug": "getwid",
+    "version": "2.0.7",
+    "author": "<a href=\"https:\/\/motopress.com\/\">MotoPress<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/jetmonsters\/",
+    "contributors": {
+        "motopress": {
+            "profile": "https:\/\/profiles.wordpress.org\/motopress\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/50fc4597e60064c5b8c089bb0586278d?s=96&d=monsterid&r=g",
+            "display_name": "MotoPress"
+        }
+    },
+    "requires": "5.8",
+    "tested": "6.4.4",
+    "requires_php": "5.6",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 94,
+    "ratings": {
+        "5": 96,
+        "4": 4,
+        "3": 4,
+        "2": 2,
+        "1": 3
+    },
+    "num_ratings": 109,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/getwid\/",
+    "support_threads": 8,
+    "support_threads_resolved": 6,
+    "active_installs": 60000,
+    "downloaded": 1141949,
+    "last_updated": "2024-03-29 2:04pm GMT",
+    "added": "2019-03-29",
+    "homepage": "https:\/\/motopress.com\/products\/getwid\/",
+    "sections": {
+        "description": "<p>Getwid is a <strong>collection of 40+ Gutenberg blocks<\/strong> that greatly extends the library of existing core WordPress blocks and 35+ unique pre-made block templates for the Block Editor.<\/p>\n<ul>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/\" rel=\"nofollow ugc\">View Demo<\/a><\/li>\n<li><a href=\"https:\/\/www.youtube.com\/playlist?list=PLbDImkyrISyLX7CwC1bHWTwJLwlBBmrhp\" rel=\"nofollow ugc\">Video Tutorials<\/a><\/li>\n<li><a href=\"https:\/\/www.facebook.com\/groups\/474242029787020\/\" rel=\"nofollow ugc\">Facebook Community<\/a><\/li>\n<\/ul>\n<p>The Getwid Gutenberg blocks ship with all the common blocks available in other Gutenberg add-ons usually offered as premium plugins, PLUS Getwid has a great bunch of unique blocks!<\/p>\n<ul>\n<li>Advanced Gutenberg blocks for designed for developers.<\/li>\n<li>Extensive attributes for each block.<\/li>\n<li>Real-time customization.<\/li>\n<li>Works great with any WordPress theme.<\/li>\n<li>Seamless interplay with the core Gutenberg blocks.<\/li>\n<li>Performance-oriented WordPress Gutenberg blocks plugin.<\/li>\n<\/ul>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/6nexYIpIC4E?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n<h3>Getwid free gutenberg blocks<\/h3>\n<p>Multifunctional static and dynamic blocks for Gutenberg:<\/p>\n<ul>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/section-block\/\" rel=\"nofollow ugc\">Section Block<\/a> &#8211; build custom page section layouts of any type (set alignments; use video, slider and image backgrounds; change foregrounds, apply animation, play with colors and shapes, etc.).<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/advanced-heading-block\/\" rel=\"nofollow ugc\">Advanced Heading Block<\/a> &#8211; a rich typography control panel for creating catchy headings &#8211; access to Google fonts, styles, sizes, one-click text case conversion, spacing and colors.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/google-maps-block\/\" rel=\"nofollow ugc\">Google Maps Block<\/a> &#8211; embed simple Google Maps with unlimited custom markers using this WordPress Gutenberg plugin.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/icon-block\/\" rel=\"nofollow ugc\">Icon Block<\/a> &#8211; create effective and clear user interfaces with a collection of customizable icons.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/icon-box-block\/\" rel=\"nofollow ugc\">Icon Box Block<\/a> &#8211; construct responsive service boxes with icons, headings and text boxes using premade styles, modifying colors, sizes and hover effects.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/image-box-block\/\" rel=\"nofollow ugc\">Image Box Block<\/a> &#8211; get deeper into image presentation &#8211; add animation effects, apply the needed size in clicks and modify spacing.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/social-links-block\/\" rel=\"nofollow ugc\">Social Links Block<\/a> &#8211; add any social icons, customize their alignment for different devices, go with pre-made layouts and alter their size and spacing.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/banner-block\/\" rel=\"nofollow ugc\">Banner Block<\/a> &#8211; advertise wisely with fully customizable banners for which you can define sizes, alignments, colors, animation effects and more tools for better presentation of your offerings.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/image-slider-block\/\" rel=\"nofollow ugc\">Image Slider Block<\/a> &#8211; a better way to create image sliders with full control over navigation styles, image sizes and animation effects.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/media-text-slider-block\/\" rel=\"nofollow ugc\">Media &amp; Text Slider Block<\/a> &#8211; showcase brilliant sliders with texts, set custom content width and alignment, apply text and color overlays, choose slide and text animation effects individually.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/button-group-block\/\" rel=\"nofollow ugc\">Button Group Block<\/a> &#8211; add several Gutenberg blocks WordPress call-to-action buttons in style and harmony; update width, alignment and direction for the whole set of buttons at the same time.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/person-block\/\" rel=\"nofollow ugc\">Person Block<\/a> &#8211; create simple and stunning team showcase sections with the settings for job titles, names and image sizes.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/accordion-block\/\" rel=\"nofollow ugc\">Accordion Block<\/a> &#8211; snap and functional accordion tabs section with customizable icons and heading types. Perfect Gutenberg plugin for FAQ sections.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/toggle-block\/\" rel=\"nofollow ugc\">Toggle Block<\/a> &#8211; similar to Accordion block, but it lets users expand tabs manually.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/tabs-block\/\" rel=\"nofollow ugc\">Tabs Block<\/a> &#8211; horizontal or vertical tabs with a bunch of pre-set styles and customizable headings.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/image-stack-gallery-block\/\" rel=\"nofollow ugc\">Image Stack Gallery Block<\/a> &#8211; breathtaking, fully customizable image galleries with seven different styles to unleash your creativity and find a perfect solution for your current WordPress theme design.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/testimonial-block\/\" rel=\"nofollow ugc\">Testimonial Block<\/a> &#8211; a no-frills testimonial block with an author avatar, citation and name.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/recent-posts-block\/\" rel=\"nofollow ugc\">Recent Posts Block<\/a> &#8211; present your latest posts with custom metadata, list or grid layout and a choice of different output behaviors.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/advanced-spacer-block\/\" rel=\"nofollow ugc\">Advanced Spacer Block<\/a> &#8211; add a space between your blocks with an adjustable spacer in the Gutenberg page builder &#8211; optionally hide it on mobile, tablet or desktop devices.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/instagram-block\/\" rel=\"nofollow ugc\">Instagram Block<\/a> &#8211; it provides an easy way to connect your Instagram to WordPress and creates a customizable live-feed gallery.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/counter-block\/\" rel=\"nofollow ugc\">Counter Block<\/a> &#8211; show the most significant data about your business in numbers with the lightweight animated counters.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/price-box-block\/\" rel=\"nofollow ugc\">Price Box Block<\/a> &#8211; visualize any data by creating all sorts of comparison and pricing tables.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/progress-bar-block\/\" rel=\"nofollow ugc\">Progress Bar Block<\/a> &#8211; a simple animated horizontal progress bar with customizable colors.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/circle-progress-bar-block\/\" rel=\"nofollow ugc\">Circular Progress Bar Block<\/a> &#8211; animated circular progress bars with the adjustable bar sickness, size and colors.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/contact-form-block\/\" rel=\"nofollow ugc\">Contact Form Block<\/a> &#8211; a simple contact form with a traditional set of the form fields, customizable labels and support for reCAPTCHA.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/posts-carousel-block\/\" rel=\"nofollow ugc\">Post Carousel Block<\/a> &#8211; use agile customization options to showcase posts, pages or custom post types in a catchy carousel with a custom layout.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/price-list-block\/\" rel=\"nofollow ugc\">Price List Block<\/a> &#8211; a perfect block for featuring restaurant menu prices or a table of contents with the adjustable headings, dotted lines, colors, and images.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/posts-slider-block\/\" rel=\"nofollow ugc\">Post Slider Block<\/a> &#8211; fetch your already existing posts, products or other custom post types data into a deeply tunable, stylish slider with several premade layouts.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/posts-grid-list\/\" rel=\"nofollow ugc\">Custom Post Type Block<\/a> &#8211; grid, list or custom view of any custom post types with numerous layout and style customization settings.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/mailchimp-block\/\" rel=\"nofollow ugc\">Mailchimp Block<\/a> &#8211; easy MailChimp API integration for adding email subscription forms.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/countdown-block\/\" rel=\"nofollow ugc\">Countdown Block<\/a> &#8211; a dynamic countdown timer with deeply customizable numeric values and time labels, for which you can set a font family and style, sizes, colors, spacing and more.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/video-popup-block\/\" rel=\"nofollow ugc\">Video Popup Block<\/a> &#8211; display your Youtube, Vimeo or self-hosted videos in popups; the play video button, custom video covers, colors and sizes of the block containers are fully adjustable.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/content-timeline-block\/\" rel=\"nofollow ugc\">Content Timeline Block<\/a> &#8211; display chronological order of any events in a stylish timeline graph with such adjustable containers as headings, subheadings, images, etc.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/image-hotspot-block\/\" rel=\"nofollow ugc\">Image Hotspot Block<\/a> &#8211; the Unique one on the Gutenberg addons market! place unlimited animated markers with fully customizable tooltips over your image to make it more informative and interactive.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/table-of-contents-wordpress-block\/\" rel=\"nofollow ugc\">Table of Contents Block<\/a> &#8211; an ordered or unordered table of contents that is based on your page headings (H2, H3, H4, etc.).<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/anchor-wordpress-block\/\" rel=\"nofollow ugc\">Anchor Block<\/a> &#8211; an easy tool to add quick page jumps to a certain part of a page using an HTML anchor #.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/advanced-table-wordpress-block\/\" rel=\"nofollow ugc\">Advanced Table Block<\/a> &#8211; a table Gutenberg block that allows for merging cells, customizing background, and adjusting borders.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/content-slider-wordpress-block\/\" rel=\"nofollow ugc\">Content Slider Block<\/a> &#8211; display any Gutenberg Block like a slider to create an eye-catching presentation of anything you need efficiently and effortlessly in the Gutenberg block builder.<\/li>\n<\/ul>\n<p><a href=\"https:\/\/motopress.com\/blog\/category\/getwid-gutenberg-blocks\/\" rel=\"nofollow ugc\">Settings and examples<\/a> of each Getwid block. We are in the process of building more on-demand blocks for Gutenberg!<\/p>\n<h3>Getwid WordPress block theme<\/h3>\n<p>Check our free Getwid Base theme designed for full compatibility with Getwid plugin.<\/p>\n<p><a href=\"https:\/\/wordpress.org\/themes\/getwid-base\/\" rel=\"ugc\">Download Getwid Base theme<\/a><\/p>\n<h3>Design boilerplate for developers<\/h3>\n<p>WordPress Blocks by Getwid can be easily styled to match your theme with a free Getwid Style Kit we created specifically for you. It comes with useful theme support snippets and CSS classes to help you simplify and accelerate the development process of your themes built with Getwid and Gutenberg blocks.<\/p>\n<p><a href=\"https:\/\/github.com\/motopress\/getwid-style-kit\" rel=\"nofollow ugc\">Download Getwid Style Kit<\/a><\/p>\n<h3>Automated content generation with AI Assistant<\/h3>\n<p>The Getwid AI Assistant block will instantly generate high-quality content for you right in the WordPress block editor.<\/p>\n<p>Powered by the open-source artificial intelligence (AI) technologies, this block is made to save you time and resources on crafting compelling headings, writing blog posts, building tables and overall creating more professional content of various types.<\/p>\n<h3>Pre-designed templates and blocks<\/h3>\n<p>This plugin comes with a library of pre-designed layouts to help you quickly build a beautiful website with the new block editor.<\/p>\n<ul>\n<li>Website hero and sub-hero section templates.<\/li>\n<li>About us and Contact us templates.<\/li>\n<li>Image gallery templates.<\/li>\n<li>Features and Services templates.<\/li>\n<li>Team and FAQ, etc.<\/li>\n<\/ul>\n<p>View also <a href=\"https:\/\/motopress.com\/products\/category\/gutenberg-wordpress-themes\/\" rel=\"nofollow ugc\">Gutenberg WordPress themes<\/a> for different business niches that are built with Getwid.<\/p>\n<h3>Custom Field Filter and Meta Query<\/h3>\n<p>The Custom post type, Post slider, and Post carousel blocks can be extended with custom filters sourced by third-party plugins (WooCommerce, Advanced Custom Fields, Events Calendar etc.) that have their own custom fields. Getwid blocks use these fields as meta queries to allow you to organize automatic rendering of posts by a wider range of custom filters.<\/p>\n<h3>Collection of WordPress blocks<\/h3>\n<p>Our collection of extra WordPress blocks for Gutenberg page builder ships with a broad blocks bundle for the needs of business websites, startups, creative projects and a diversity of other niches. It enables you to create efficient landing pages, services pages, portfolios, and make your overall transition to Gutenberg less stressful!<\/p>\n<p>It&#8217;s brought to you by MotoPress &#8211; a trusted WordPress developer with more than 7 years of experience in creating WordPress tools for content building.<\/p>\n<h3>Optimized for WordPress Full Site Editing<\/h3>\n<p>Since version 2.0 of Getwid, the plugin integrates flawlessly with any FSE-enabled WordPress theme, letting you use a vast arsenal of blocks throughout your website. Create custom headers, footers, and even navigation just by using blocks, including those by Getwid!<\/p>\n<p>Download <a href=\"https:\/\/wordpress.org\/themes\/prime-fse\/\" rel=\"ugc\">Prime FSE<\/a>, your free block theme, made exclusively for the new-era WordPress site editor and powered up by Getwid blocks.<\/p>\n<h3>Copyright<\/h3>\n<p>Getwid, Copyright (C) 2019, MotoPress https:\/\/motopress.com\/<br \/>\nGetwid plugin is distributed under the terms of the GNU GPL.<\/p>\n<h3>Credits<\/h3>\n<ul>\n<li>Animate.css, Copyright 2018 Daniel Eden, MIT license.<\/li>\n<li>React FontIconPicker, Copyright (c) 2018 Swashata Ghosh, MIT license.<\/li>\n<li>Font Awesome Free, Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License.<\/li>\n<li>ImagesLoaded, Copyright David DeSandro, MIT License.<\/li>\n<li>Slik.js, Copyright 2017 Ken Wheeler, MIT license.<\/li>\n<li>Wow.js, Copyright 2016 Thomas Grainger, MIT license.<\/li>\n<li>CountUp.js, Copyright 2019 Jamie Perkins, MIT license.<\/li>\n<li>Waypoints.js, Copyright 2011-2012 Caleb Troughton, MIT license.<\/li>\n<\/ul>\n",
+        "installation": "<ol>\n<li>Upload the plugin to the \/wp-content\/plugins\/ directory.<\/li>\n<li>Activate the Getwid WordPress plugin through the &#8216;Plugins&#8217; menu in WordPress.<\/li>\n<li>Use Getwid on your next page or post.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='how%20to%20turn%20off%20blocks%20i%20don%27t%20need%20in%20the%20getwid%20gutenberg%20wp%20plugin%3F'>\nHow to turn off blocks I don&#8217;t need in the Getwid Gutenberg WP plugin?\n<\/h4>\n<p>\n<p>In Getwid version 1.5.3 or higher, you can disable WordPress blocks you don&#8217;t need via Settings &gt; Writing &gt; scroll down to Disable Getwid Blocks &gt; select the needed blocks and click Save.<\/p>\n<\/p>\n<dt id='does%20the%20plugin%20work%20with%20any%20wordpress%20theme%3F'>\nDoes the plugin work with any WordPress theme?\n<\/h4>\n<p>\n<p>Your theme is rather a container and styling mechanism for blocks. We made sure Getwid blocks maximum inherit default styles from your theme &#8211; unless you add your own styles! Getwid is also tested with the <a href=\"https:\/\/motopress.com\/blog\/twenty-twenty-theme\/\" rel=\"nofollow ugc\">Twenty Twenty theme<\/a> &#8211; they are a great couple.<\/p>\n<\/p>\n<dt id='what%20happens%20to%20my%20getwid%20content%20if%20i%20deactivate%20the%20plugin%3F'>\nWhat happens to my Getwid content if I deactivate the plugin?\n<\/h4>\n<p>\n<p>Your content will be displayed in a simplified format; it&#8217;ll get back to the initial look after you reactivate Getwid.<\/p>\n<\/p>\n<dt id='are%20getwid%20blocks%20translation-ready%3F'>\nAre Getwid blocks translation-ready?\n<\/h4>\n<p>\n<p>Yes. The plugin works with major translation plugins.<\/p>\n<\/p>\n<dt id='can%20i%20use%20my%20own%20icons%3F'>\nCan I use my own icons?\n<\/h4>\n<p>\n<p>Yes. By default Getwid uses Font Awesome icons but you can <a href=\"https:\/\/gist.github.com\/mototeam\/0072b6d064ae90afd15ecba8dfca366c\" rel=\"nofollow ugc\">add your own ones<\/a>.<\/p>\n<\/p>\n<dt id='can%20i%20use%20custom%20fonts%3F'>\nCan I use custom fonts?\n<\/h4>\n<p>\n<p>Yes. By default Getwid uses Google Fonts but you can <a href=\"https:\/\/gist.github.com\/mototeam\/c7d93f564cf5d39e01b7db36c7961c6b\" rel=\"nofollow ugc\">disable them or add custom<\/a>.<\/p>\n<\/p>\n<dt id='can%20i%20change%20the%20%22recent%20posts%22%20block%20layout%3F'>\nCan I change the &#8220;Recent Posts&#8221; block layout?\n<\/h4>\n<p>\n<p>Yes. Copy this file: <code>\\getwid\\includes\\templates\\recent-posts\\post.php<\/code> to <code>{your_theme}\\getwid\\recent-posts\\<\/code>.<\/p>\n<\/p>\n<dt id='can%20i%20use%20it%20with%20other%20block%20plugins%3F'>\nCan I use it with other block plugins?\n<\/h4>\n<p>\n<p>Definitely! You can use Getwid together with the core and third-party block plugins.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>2.0.7, Mar 29 2024<\/h4>\n<ul>\n<li>Fixed an issue where pagination in post-based blocks didn&#8217;t work correctly on the static front page.<\/li>\n<\/ul>\n<h4>2.0.6, Mar 20 2024<\/h4>\n<ul>\n<li>Improved Contact Form block &#8211; added Group and Columns to allowed child blocks list.<\/li>\n<li>Minor bugfixes and improvements.<\/li>\n<\/ul>\n<h4>2.0.5, Jan 12 2024<\/h4>\n<ul>\n<li>Improved the way to modify reCAPTCHA Site Key and Secret Key.<\/li>\n<li>Improved Contact Form block &#8211; Google reCAPTCHA applied to all Contact Forms if Site Key and Secret Key are set.<\/li>\n<li>Removed Captcha &#8211; Contact Form child block.<\/li>\n<\/ul>\n<h4>2.0.4, Jan 08 2024<\/h4>\n<ul>\n<li>Fixed an issue with the Accordion, Toggle, Tabs, Icon, Section blocks that may cause errors in the widgets editor.<\/li>\n<\/ul>\n<h4>2.0.3, Nov 17 2023<\/h4>\n<ul>\n<li>Improved email formatting for contact form submissions.<\/li>\n<\/ul>\n<h4>2.0.2, Oct 27 2023<\/h4>\n<ul>\n<li>Added Instagram Access Token encryption.<\/li>\n<\/ul>\n<h4>2.0.1, Sep 18 2023<\/h4>\n<ul>\n<li>Fixed an issue when the Table block didn&#8217;t work correctly in WordPress 6.3.<\/li>\n<\/ul>\n<p><a href=\"https:\/\/plugins.svn.wordpress.org\/getwid\/trunk\/changelog.txt\" rel=\"nofollow ugc\">See the previous changelogs here<\/a>.<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-1.png?rev=2317592\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-1.png?rev=2317592\" alt=\"Blocks, Designs, Tutorials, Community.\"><\/a><p>Blocks, Designs, Tutorials, Community.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-2.gif?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-2.gif?rev=3019556\" alt=\"AI Assistant WordPress Block.\"><\/a><p>AI Assistant WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-3.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-3.jpg?rev=3019556\" alt=\"Section WordPress Block.\"><\/a><p>Section WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-4.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-4.jpg?rev=3019556\" alt=\"Section with Gradient WordPress Block.\"><\/a><p>Section with Gradient WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-5.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-5.jpg?rev=3019556\" alt=\"Section with Youtube WordPress Block.\"><\/a><p>Section with Youtube WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-6.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-6.jpg?rev=3019556\" alt=\"Tabs WordPress Block.\"><\/a><p>Tabs WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-7.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-7.jpg?rev=3019556\" alt=\"Accordion WordPress Block.\"><\/a><p>Accordion WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-8.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-8.jpg?rev=3019556\" alt=\"Toggle WordPress Block.\"><\/a><p>Toggle WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-9.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-9.jpg?rev=3019556\" alt=\"Advanced Table WordPress Block.\"><\/a><p>Advanced Table WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-10.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-10.jpg?rev=3019556\" alt=\"Advanced Heading WordPress Block.\"><\/a><p>Advanced Heading WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-11.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-11.jpg?rev=3019556\" alt=\"Banner WordPress Block.\"><\/a><p>Banner WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-12.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-12.jpg?rev=3019556\" alt=\"Button Group WordPress Block.\"><\/a><p>Button Group WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-13.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-13.jpg?rev=3019556\" alt=\"Circular Progress Bar WordPress Block.\"><\/a><p>Circular Progress Bar WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-14.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-14.jpg?rev=3019556\" alt=\"Contact Form WordPress Block.\"><\/a><p>Contact Form WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-15.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-15.jpg?rev=3019556\" alt=\"Content Timeline WordPress Block.\"><\/a><p>Content Timeline WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-16.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-16.jpg?rev=3019556\" alt=\"Countdown WordPress Block.\"><\/a><p>Countdown WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-17.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-17.jpg?rev=3019556\" alt=\"Google Maps WordPress Block.\"><\/a><p>Google Maps WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-18.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-18.jpg?rev=3019556\" alt=\"Icon Box WordPress Block.\"><\/a><p>Icon Box WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-19.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-19.jpg?rev=3019556\" alt=\"Icon WordPress Block.\"><\/a><p>Icon WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-20.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-20.jpg?rev=3019556\" alt=\"Image Box WordPress Block.\"><\/a><p>Image Box WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-21.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-21.jpg?rev=3019556\" alt=\"Image Hotspot WordPress Block.\"><\/a><p>Image Hotspot WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-22.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-22.jpg?rev=3019556\" alt=\"Image Slider WordPress Block.\"><\/a><p>Image Slider WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-23.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-23.jpg?rev=3019556\" alt=\"Image Stack Gallery WordPress Block.\"><\/a><p>Image Stack Gallery WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-24.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-24.jpg?rev=3019556\" alt=\"Instagram WordPress Block.\"><\/a><p>Instagram WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-25.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-25.jpg?rev=3019556\" alt=\"Mailchimp WordPress Block.\"><\/a><p>Mailchimp WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-26.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-26.jpg?rev=3019556\" alt=\"Media &amp; Text Slider WordPress Block.\"><\/a><p>Media &amp; Text Slider WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-27.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-27.jpg?rev=3019556\" alt=\"Person WordPress Block.\"><\/a><p>Person WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-28.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-28.jpg?rev=3019556\" alt=\"Posts Carousel WordPress Block.\"><\/a><p>Posts Carousel WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-29.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-29.jpg?rev=3019556\" alt=\"Posts Grid \/ List WordPress Block.\"><\/a><p>Posts Grid \/ List WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-30.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-30.jpg?rev=3019556\" alt=\"Posts Slider WordPress Block.\"><\/a><p>Posts Slider WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-31.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-31.jpg?rev=3019556\" alt=\"Price Box WordPress Block.\"><\/a><p>Price Box WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-32.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-32.jpg?rev=3019556\" alt=\"Price List WordPress Block.\"><\/a><p>Price List WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-33.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-33.jpg?rev=3019556\" alt=\"Progress Bar WordPress Block.\"><\/a><p>Progress Bar WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-34.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-34.jpg?rev=3019556\" alt=\"Recent Posts WordPress Block.\"><\/a><p>Recent Posts WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-35.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-35.jpg?rev=3019556\" alt=\"Social Links WordPress Block.\"><\/a><p>Social Links WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-36.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-36.jpg?rev=3019556\" alt=\"Table of Contents WordPress Block.\"><\/a><p>Table of Contents WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-37.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-37.jpg?rev=3019556\" alt=\"Testimonial WordPress Block.\"><\/a><p>Testimonial WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-38.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-38.jpg?rev=3019556\" alt=\"Video Popup WordPress Block.\"><\/a><p>Video Popup WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-39.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-39.jpg?rev=3019556\" alt=\"Advanced Custom Fields WordPress Block.\"><\/a><p>Advanced Custom Fields WordPress Block.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-40.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-40.jpg?rev=3019556\" alt=\"Settings.\"><\/a><p>Settings.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-41.jpg?rev=3019556\"><img src=\"https:\/\/ps.w.org\/getwid\/assets\/screenshot-41.jpg?rev=3019556\" alt=\"Pre-Designed Templates and Blocks.\"><\/a><p>Pre-Designed Templates and Blocks.<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Simple and Efficient<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/carlmagnus\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/695eeaf56a65afad66967c8ae235bce2?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/695eeaf56a65afad66967c8ae235bce2?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/carlmagnus\/\" class=\"reviewer-name\">carlmagnus<\/a> on <span class=\"review-date\">March 20, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I was looking for a timeline plugin and came across this. I love the way you can turn off blocks you don't need. It's brilliant!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Doesn&#039;t work anymore! Wrecks WordPress!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/waxler\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/abfa348d5b7eb6f065dbb9684ef480be?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/abfa348d5b7eb6f065dbb9684ef480be?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/waxler\/\" class=\"reviewer-name\">waxler<\/a> on <span class=\"review-date\">August 21, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">We're using the GetWid blocks to show a table.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">It stopped working after the recent WordPress update.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">All the posts that used the table freeze and you can't edit them or update them.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">It makes it impossible to edit in WordPress.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Now we have to manually replace all the tables and do them again. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Simple and powerful<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/maropinky008\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/1656ff6d69dde0f21d89d77fa9fbcfdd?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/1656ff6d69dde0f21d89d77fa9fbcfdd?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/maropinky008\/\" class=\"reviewer-name\">maropinky008<\/a> on <span class=\"review-date\">June 23, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>You simply solve problems in a very powerful way<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Brilliant Hotspot Images +++<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/laurencebahiirwa\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/736ce87f8465010471cae836e0f49f7e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/736ce87f8465010471cae836e0f49f7e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/laurencebahiirwa\/\" class=\"reviewer-name\">laurencebahiirwa<\/a> on <span class=\"review-date\">April 25, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>5 stars. The Hotspot images are as \"advertised\". Enough said!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Seriously, you can customize the plugin to have the options and blocks needed, that is a plus. The setting options are where the magic is. The performance of the plugin can be enhanced as well in the settings.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Love Hotspot Images<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/marcospolyart\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/161f2b6376e14df0b0c514cde68db401?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/161f2b6376e14df0b0c514cde68db401?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/marcospolyart\/\" class=\"reviewer-name\">marcospolyart<\/a> on <span class=\"review-date\">March 30, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>I use it only for the Hotspot Images and it works perfectly in any device out of the box. I also like that you can deactivate the functions that you don't want to avoid any bloat on your site.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great but...<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"4 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"4\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/ocolak\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/889aaf6ec5822bbe603b4bf003b01e82?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/889aaf6ec5822bbe603b4bf003b01e82?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/ocolak\/\" class=\"reviewer-name\">Orhan Colak <small>(ocolak)<\/small><\/a> on <span class=\"review-date\">March 12, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>I can say that it works better and provides flexibility than any block plugin I have used. However, it won't be my favorite plugin without dynamic content support and conditional display.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Amazing<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/certainlyakey\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/8f0911de52695bd28102d1f23c268285?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/8f0911de52695bd28102d1f23c268285?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/certainlyakey\/\" class=\"reviewer-name\">certainlyakey<\/a> on <span class=\"review-date\">December 25, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Amazing plugin, lots of functionality but also really clean code.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Nice one but no way to customize email body, etc.<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"2 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"2\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/apcloic\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/213641a8bdb7c94e25fcd49b415d674f?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/213641a8bdb7c94e25fcd49b415d674f?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/apcloic\/\" class=\"reviewer-name\">apcloic<\/a> on <span class=\"review-date\">December 9, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Hi,\nThis plugin comes with a theme that we've bought from motopress.\nIt's a good one if you want to avoid the installation of over complicated contact form plugin like CF7.\nHowever, it's clearly too limited. Apart from the subject, all email options like recipient email, body, email server, sender's name, etc. are hardcode in includes\/blocks\/contact-form.php\nFortunately, there is a way to change the recipient email (search this forum) but it lacks a way to change other settings.\nRegards,<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Very flexible<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/gorfeas\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f77b906d323a7d5567cf7c7155cc16a9?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f77b906d323a7d5567cf7c7155cc16a9?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/gorfeas\/\" class=\"reviewer-name\">gorfeas<\/a> on <span class=\"review-date\">December 1, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">Great free plugin, managed to make my blog look exactly as I imagined it. Thank you and keep up the good work.<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Finally<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mikkelcrunch\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/94bf400198c158e6f0898fb738aebdfa?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/94bf400198c158e6f0898fb738aebdfa?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mikkelcrunch\/\" class=\"reviewer-name\">MikkelCrunch<\/a> on <span class=\"review-date\">November 18, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">I was searching for an easy to use Post Slider\/Carousel.\nTried a lot of Plugins - bought the Slider Revolution...\nNothing was working as I would expect a simple Slider\/Fader.\nThis is it. This is the only Plugin which does what it says.\nThank you very much!<\/div>\n<\/div>\n"
+    },
+    "short_description": "40+ Gutenberg Blocks, plus multiple pre-made free block templates for the WordPress block editor.",
+    "description": "<p>Getwid is a <strong>collection of 40+ Gutenberg blocks<\/strong> that greatly extends the library of existing core WordPress blocks and 35+ unique pre-made block templates for the Block Editor.<\/p>\n<ul>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/\" rel=\"nofollow ugc\">View Demo<\/a><\/li>\n<li><a href=\"https:\/\/www.youtube.com\/playlist?list=PLbDImkyrISyLX7CwC1bHWTwJLwlBBmrhp\" rel=\"nofollow ugc\">Video Tutorials<\/a><\/li>\n<li><a href=\"https:\/\/www.facebook.com\/groups\/474242029787020\/\" rel=\"nofollow ugc\">Facebook Community<\/a><\/li>\n<\/ul>\n<p>The Getwid Gutenberg blocks ship with all the common blocks available in other Gutenberg add-ons usually offered as premium plugins, PLUS Getwid has a great bunch of unique blocks!<\/p>\n<ul>\n<li>Advanced Gutenberg blocks for designed for developers.<\/li>\n<li>Extensive attributes for each block.<\/li>\n<li>Real-time customization.<\/li>\n<li>Works great with any WordPress theme.<\/li>\n<li>Seamless interplay with the core Gutenberg blocks.<\/li>\n<li>Performance-oriented WordPress Gutenberg blocks plugin.<\/li>\n<\/ul>\n<span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/6nexYIpIC4E?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span>\n<h3>Getwid free gutenberg blocks<\/h3>\n<p>Multifunctional static and dynamic blocks for Gutenberg:<\/p>\n<ul>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/section-block\/\" rel=\"nofollow ugc\">Section Block<\/a> &#8211; build custom page section layouts of any type (set alignments; use video, slider and image backgrounds; change foregrounds, apply animation, play with colors and shapes, etc.).<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/advanced-heading-block\/\" rel=\"nofollow ugc\">Advanced Heading Block<\/a> &#8211; a rich typography control panel for creating catchy headings &#8211; access to Google fonts, styles, sizes, one-click text case conversion, spacing and colors.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/google-maps-block\/\" rel=\"nofollow ugc\">Google Maps Block<\/a> &#8211; embed simple Google Maps with unlimited custom markers using this WordPress Gutenberg plugin.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/icon-block\/\" rel=\"nofollow ugc\">Icon Block<\/a> &#8211; create effective and clear user interfaces with a collection of customizable icons.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/icon-box-block\/\" rel=\"nofollow ugc\">Icon Box Block<\/a> &#8211; construct responsive service boxes with icons, headings and text boxes using premade styles, modifying colors, sizes and hover effects.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/image-box-block\/\" rel=\"nofollow ugc\">Image Box Block<\/a> &#8211; get deeper into image presentation &#8211; add animation effects, apply the needed size in clicks and modify spacing.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/social-links-block\/\" rel=\"nofollow ugc\">Social Links Block<\/a> &#8211; add any social icons, customize their alignment for different devices, go with pre-made layouts and alter their size and spacing.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/banner-block\/\" rel=\"nofollow ugc\">Banner Block<\/a> &#8211; advertise wisely with fully customizable banners for which you can define sizes, alignments, colors, animation effects and more tools for better presentation of your offerings.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/image-slider-block\/\" rel=\"nofollow ugc\">Image Slider Block<\/a> &#8211; a better way to create image sliders with full control over navigation styles, image sizes and animation effects.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/media-text-slider-block\/\" rel=\"nofollow ugc\">Media &amp; Text Slider Block<\/a> &#8211; showcase brilliant sliders with texts, set custom content width and alignment, apply text and color overlays, choose slide and text animation effects individually.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/button-group-block\/\" rel=\"nofollow ugc\">Button Group Block<\/a> &#8211; add several Gutenberg blocks WordPress call-to-action buttons in style and harmony; update width, alignment and direction for the whole set of buttons at the same time.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/person-block\/\" rel=\"nofollow ugc\">Person Block<\/a> &#8211; create simple and stunning team showcase sections with the settings for job titles, names and image sizes.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/accordion-block\/\" rel=\"nofollow ugc\">Accordion Block<\/a> &#8211; snap and functional accordion tabs section with customizable icons and heading types. Perfect Gutenberg plugin for FAQ sections.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/toggle-block\/\" rel=\"nofollow ugc\">Toggle Block<\/a> &#8211; similar to Accordion block, but it lets users expand tabs manually.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/tabs-block\/\" rel=\"nofollow ugc\">Tabs Block<\/a> &#8211; horizontal or vertical tabs with a bunch of pre-set styles and customizable headings.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/image-stack-gallery-block\/\" rel=\"nofollow ugc\">Image Stack Gallery Block<\/a> &#8211; breathtaking, fully customizable image galleries with seven different styles to unleash your creativity and find a perfect solution for your current WordPress theme design.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/testimonial-block\/\" rel=\"nofollow ugc\">Testimonial Block<\/a> &#8211; a no-frills testimonial block with an author avatar, citation and name.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/recent-posts-block\/\" rel=\"nofollow ugc\">Recent Posts Block<\/a> &#8211; present your latest posts with custom metadata, list or grid layout and a choice of different output behaviors.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/advanced-spacer-block\/\" rel=\"nofollow ugc\">Advanced Spacer Block<\/a> &#8211; add a space between your blocks with an adjustable spacer in the Gutenberg page builder &#8211; optionally hide it on mobile, tablet or desktop devices.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/instagram-block\/\" rel=\"nofollow ugc\">Instagram Block<\/a> &#8211; it provides an easy way to connect your Instagram to WordPress and creates a customizable live-feed gallery.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/counter-block\/\" rel=\"nofollow ugc\">Counter Block<\/a> &#8211; show the most significant data about your business in numbers with the lightweight animated counters.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/price-box-block\/\" rel=\"nofollow ugc\">Price Box Block<\/a> &#8211; visualize any data by creating all sorts of comparison and pricing tables.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/progress-bar-block\/\" rel=\"nofollow ugc\">Progress Bar Block<\/a> &#8211; a simple animated horizontal progress bar with customizable colors.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/circle-progress-bar-block\/\" rel=\"nofollow ugc\">Circular Progress Bar Block<\/a> &#8211; animated circular progress bars with the adjustable bar sickness, size and colors.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/contact-form-block\/\" rel=\"nofollow ugc\">Contact Form Block<\/a> &#8211; a simple contact form with a traditional set of the form fields, customizable labels and support for reCAPTCHA.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/posts-carousel-block\/\" rel=\"nofollow ugc\">Post Carousel Block<\/a> &#8211; use agile customization options to showcase posts, pages or custom post types in a catchy carousel with a custom layout.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/price-list-block\/\" rel=\"nofollow ugc\">Price List Block<\/a> &#8211; a perfect block for featuring restaurant menu prices or a table of contents with the adjustable headings, dotted lines, colors, and images.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/posts-slider-block\/\" rel=\"nofollow ugc\">Post Slider Block<\/a> &#8211; fetch your already existing posts, products or other custom post types data into a deeply tunable, stylish slider with several premade layouts.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/posts-grid-list\/\" rel=\"nofollow ugc\">Custom Post Type Block<\/a> &#8211; grid, list or custom view of any custom post types with numerous layout and style customization settings.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/mailchimp-block\/\" rel=\"nofollow ugc\">Mailchimp Block<\/a> &#8211; easy MailChimp API integration for adding email subscription forms.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/countdown-block\/\" rel=\"nofollow ugc\">Countdown Block<\/a> &#8211; a dynamic countdown timer with deeply customizable numeric values and time labels, for which you can set a font family and style, sizes, colors, spacing and more.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/video-popup-block\/\" rel=\"nofollow ugc\">Video Popup Block<\/a> &#8211; display your Youtube, Vimeo or self-hosted videos in popups; the play video button, custom video covers, colors and sizes of the block containers are fully adjustable.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/content-timeline-block\/\" rel=\"nofollow ugc\">Content Timeline Block<\/a> &#8211; display chronological order of any events in a stylish timeline graph with such adjustable containers as headings, subheadings, images, etc.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/image-hotspot-block\/\" rel=\"nofollow ugc\">Image Hotspot Block<\/a> &#8211; the Unique one on the Gutenberg addons market! place unlimited animated markers with fully customizable tooltips over your image to make it more informative and interactive.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/table-of-contents-wordpress-block\/\" rel=\"nofollow ugc\">Table of Contents Block<\/a> &#8211; an ordered or unordered table of contents that is based on your page headings (H2, H3, H4, etc.).<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/anchor-wordpress-block\/\" rel=\"nofollow ugc\">Anchor Block<\/a> &#8211; an easy tool to add quick page jumps to a certain part of a page using an HTML anchor #.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/blocks\/advanced-table-wordpress-block\/\" rel=\"nofollow ugc\">Advanced Table Block<\/a> &#8211; a table Gutenberg block that allows for merging cells, customizing background, and adjusting borders.<\/li>\n<li><a href=\"https:\/\/getwid.getmotopress.com\/content-slider-wordpress-block\/\" rel=\"nofollow ugc\">Content Slider Block<\/a> &#8211; display any Gutenberg Block like a slider to create an eye-catching presentation of anything you need efficiently and effortlessly in the Gutenberg block builder.<\/li>\n<\/ul>\n<p><a href=\"https:\/\/motopress.com\/blog\/category\/getwid-gutenberg-blocks\/\" rel=\"nofollow ugc\">Settings and examples<\/a> of each Getwid block. We are in the process of building more on-demand blocks for Gutenberg!<\/p>\n<h3>Getwid WordPress block theme<\/h3>\n<p>Check our free Getwid Base theme designed for full compatibility with Getwid plugin.<\/p>\n<p><a href=\"https:\/\/wordpress.org\/themes\/getwid-base\/\" rel=\"ugc\">Download Getwid Base theme<\/a><\/p>\n<h3>Design boilerplate for developers<\/h3>\n<p>WordPress Blocks by Getwid can be easily styled to match your theme with a free Getwid Style Kit we created specifically for you. It comes with useful theme support snippets and CSS classes to help you simplify and accelerate the development process of your themes built with Getwid and Gutenberg blocks.<\/p>\n<p><a href=\"https:\/\/github.com\/motopress\/getwid-style-kit\" rel=\"nofollow ugc\">Download Getwid Style Kit<\/a><\/p>\n<h3>Automated content generation with AI Assistant<\/h3>\n<p>The Getwid AI Assistant block will instantly generate high-quality content for you right in the WordPress block editor.<\/p>\n<p>Powered by the open-source artificial intelligence (AI) technologies, this block is made to save you time and resources on crafting compelling headings, writing blog posts, building tables and overall creating more professional content of various types.<\/p>\n<h3>Pre-designed templates and blocks<\/h3>\n<p>This plugin comes with a library of pre-designed layouts to help you quickly build a beautiful website with the new block editor.<\/p>\n<ul>\n<li>Website hero and sub-hero section templates.<\/li>\n<li>About us and Contact us templates.<\/li>\n<li>Image gallery templates.<\/li>\n<li>Features and Services templates.<\/li>\n<li>Team and FAQ, etc.<\/li>\n<\/ul>\n<p>View also <a href=\"https:\/\/motopress.com\/products\/category\/gutenberg-wordpress-themes\/\" rel=\"nofollow ugc\">Gutenberg WordPress themes<\/a> for different business niches that are built with Getwid.<\/p>\n<h3>Custom Field Filter and Meta Query<\/h3>\n<p>The Custom post type, Post slider, and Post carousel blocks can be extended with custom filters sourced by third-party plugins (WooCommerce, Advanced Custom Fields, Events Calendar etc.) that have their own custom fields. Getwid blocks use these fields as meta queries to allow you to organize automatic rendering of posts by a wider range of custom filters.<\/p>\n<h3>Collection of WordPress blocks<\/h3>\n<p>Our collection of extra WordPress blocks for Gutenberg page builder ships with a broad blocks bundle for the needs of business websites, startups, creative projects and a diversity of other niches. It enables you to create efficient landing pages, services pages, portfolios, and make your overall transition to Gutenberg less stressful!<\/p>\n<p>It&#8217;s brought to you by MotoPress &#8211; a trusted WordPress developer with more than 7 years of experience in creating WordPress tools for content building.<\/p>\n<h3>Optimized for WordPress Full Site Editing<\/h3>\n<p>Since version 2.0 of Getwid, the plugin integrates flawlessly with any FSE-enabled WordPress theme, letting you use a vast arsenal of blocks throughout your website. Create custom headers, footers, and even navigation just by using blocks, including those by Getwid!<\/p>\n<p>Download <a href=\"https:\/\/wordpress.org\/themes\/prime-fse\/\" rel=\"ugc\">Prime FSE<\/a>, your free block theme, made exclusively for the new-era WordPress site editor and powered up by Getwid blocks.<\/p>\n<h3>Copyright<\/h3>\n<p>Getwid, Copyright (C) 2019, MotoPress https:\/\/motopress.com\/<br \/>\nGetwid plugin is distributed under the terms of the GNU GPL.<\/p>\n<h3>Credits<\/h3>\n<ul>\n<li>Animate.css, Copyright 2018 Daniel Eden, MIT license.<\/li>\n<li>React FontIconPicker, Copyright (c) 2018 Swashata Ghosh, MIT license.<\/li>\n<li>Font Awesome Free, Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License.<\/li>\n<li>ImagesLoaded, Copyright David DeSandro, MIT License.<\/li>\n<li>Slik.js, Copyright 2017 Ken Wheeler, MIT license.<\/li>\n<li>Wow.js, Copyright 2016 Thomas Grainger, MIT license.<\/li>\n<li>CountUp.js, Copyright 2019 Jamie Perkins, MIT license.<\/li>\n<li>Waypoints.js, Copyright 2011-2012 Caleb Troughton, MIT license.<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/getwid.2.0.7.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-1.png?rev=2317592",
+            "caption": "Blocks, Designs, Tutorials, Community."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-2.gif?rev=3019556",
+            "caption": "AI Assistant WordPress Block."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-3.jpg?rev=3019556",
+            "caption": "Section WordPress Block."
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-4.jpg?rev=3019556",
+            "caption": "Section with Gradient WordPress Block."
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-5.jpg?rev=3019556",
+            "caption": "Section with Youtube WordPress Block."
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-6.jpg?rev=3019556",
+            "caption": "Tabs WordPress Block."
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-7.jpg?rev=3019556",
+            "caption": "Accordion WordPress Block."
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-8.jpg?rev=3019556",
+            "caption": "Toggle WordPress Block."
+        },
+        "9": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-9.jpg?rev=3019556",
+            "caption": "Advanced Table WordPress Block."
+        },
+        "10": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-10.jpg?rev=3019556",
+            "caption": "Advanced Heading WordPress Block."
+        },
+        "11": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-11.jpg?rev=3019556",
+            "caption": "Banner WordPress Block."
+        },
+        "12": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-12.jpg?rev=3019556",
+            "caption": "Button Group WordPress Block."
+        },
+        "13": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-13.jpg?rev=3019556",
+            "caption": "Circular Progress Bar WordPress Block."
+        },
+        "14": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-14.jpg?rev=3019556",
+            "caption": "Contact Form WordPress Block."
+        },
+        "15": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-15.jpg?rev=3019556",
+            "caption": "Content Timeline WordPress Block."
+        },
+        "16": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-16.jpg?rev=3019556",
+            "caption": "Countdown WordPress Block."
+        },
+        "17": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-17.jpg?rev=3019556",
+            "caption": "Google Maps WordPress Block."
+        },
+        "18": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-18.jpg?rev=3019556",
+            "caption": "Icon Box WordPress Block."
+        },
+        "19": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-19.jpg?rev=3019556",
+            "caption": "Icon WordPress Block."
+        },
+        "20": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-20.jpg?rev=3019556",
+            "caption": "Image Box WordPress Block."
+        },
+        "21": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-21.jpg?rev=3019556",
+            "caption": "Image Hotspot WordPress Block."
+        },
+        "22": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-22.jpg?rev=3019556",
+            "caption": "Image Slider WordPress Block."
+        },
+        "23": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-23.jpg?rev=3019556",
+            "caption": "Image Stack Gallery WordPress Block."
+        },
+        "24": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-24.jpg?rev=3019556",
+            "caption": "Instagram WordPress Block."
+        },
+        "25": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-25.jpg?rev=3019556",
+            "caption": "Mailchimp WordPress Block."
+        },
+        "26": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-26.jpg?rev=3019556",
+            "caption": "Media &amp; Text Slider WordPress Block."
+        },
+        "27": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-27.jpg?rev=3019556",
+            "caption": "Person WordPress Block."
+        },
+        "28": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-28.jpg?rev=3019556",
+            "caption": "Posts Carousel WordPress Block."
+        },
+        "29": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-29.jpg?rev=3019556",
+            "caption": "Posts Grid \/ List WordPress Block."
+        },
+        "30": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-30.jpg?rev=3019556",
+            "caption": "Posts Slider WordPress Block."
+        },
+        "31": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-31.jpg?rev=3019556",
+            "caption": "Price Box WordPress Block."
+        },
+        "32": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-32.jpg?rev=3019556",
+            "caption": "Price List WordPress Block."
+        },
+        "33": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-33.jpg?rev=3019556",
+            "caption": "Progress Bar WordPress Block."
+        },
+        "34": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-34.jpg?rev=3019556",
+            "caption": "Recent Posts WordPress Block."
+        },
+        "35": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-35.jpg?rev=3019556",
+            "caption": "Social Links WordPress Block."
+        },
+        "36": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-36.jpg?rev=3019556",
+            "caption": "Table of Contents WordPress Block."
+        },
+        "37": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-37.jpg?rev=3019556",
+            "caption": "Testimonial WordPress Block."
+        },
+        "38": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-38.jpg?rev=3019556",
+            "caption": "Video Popup WordPress Block."
+        },
+        "39": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-39.jpg?rev=3019556",
+            "caption": "Advanced Custom Fields WordPress Block."
+        },
+        "40": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-40.jpg?rev=3019556",
+            "caption": "Settings."
+        },
+        "41": {
+            "src": "https:\/\/ps.w.org\/getwid\/assets\/screenshot-41.jpg?rev=3019556",
+            "caption": "Pre-Designed Templates and Blocks."
+        }
+    },
+    "tags": {
+        "blocks": "blocks",
+        "editor": "editor",
+        "gutenberg": "gutenberg",
+        "gutenberg-blocks": "gutenberg blocks",
+        "wordpress-blocks": "wordpress blocks"
+    },
+    "stable_tag": "2.0.7",
+    "versions": {
+        "1.8.7": "https:\/\/downloads.wordpress.org\/plugin\/getwid.1.8.7.zip",
+        "1.9.1": "https:\/\/downloads.wordpress.org\/plugin\/getwid.1.9.1.zip",
+        "2.0.5": "https:\/\/downloads.wordpress.org\/plugin\/getwid.2.0.5.zip",
+        "2.0.6": "https:\/\/downloads.wordpress.org\/plugin\/getwid.2.0.6.zip",
+        "2.0.7": "https:\/\/downloads.wordpress.org\/plugin\/getwid.2.0.7.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/getwid.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/motopress.com\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/getwid\/assets\/banner-772x250.png?rev=2922341",
+        "high": "https:\/\/ps.w.org\/getwid\/assets\/banner-1544x500.png?rev=2922341"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/getwid\/assets\/icon.svg?rev=2238400",
+        "svg": "https:\/\/ps.w.org\/getwid\/assets\/icon.svg?rev=2238400"
+    },
+    "blocks": {
+        "getwid\/counter": {
+            "name": "getwid\/counter",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/toggle": {
+            "name": "getwid\/toggle",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/price-box": {
+            "name": "getwid\/price-box",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/post-carousel": {
+            "name": "getwid\/post-carousel",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/accordion": {
+            "name": "getwid\/accordion",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/section": {
+            "name": "getwid\/section",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/content-timeline": {
+            "name": "getwid\/content-timeline",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/images-stack": {
+            "name": "getwid\/images-stack",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/countdown": {
+            "name": "getwid\/countdown",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/icon-box": {
+            "name": "getwid\/icon-box",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/template-post-author": {
+            "name": "getwid\/template-post-author",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/template-post-button": {
+            "name": "getwid\/template-post-button",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/image-box": {
+            "name": "getwid\/image-box",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/template-library": {
+            "name": "getwid\/template-library",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/instagram": {
+            "name": "getwid\/instagram",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/image-hotspot": {
+            "name": "getwid\/image-hotspot",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/advanced-spacer": {
+            "name": "getwid\/advanced-spacer",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/table-of-contents": {
+            "name": "getwid\/table-of-contents",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/contact-form": {
+            "name": "getwid\/contact-form",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/icon": {
+            "name": "getwid\/icon",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/ai-text": {
+            "name": "getwid\/ai-text",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/progress-bar": {
+            "name": "getwid\/progress-bar",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/social-links": {
+            "name": "getwid\/social-links",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/price-list": {
+            "name": "getwid\/price-list",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/custom-post-type": {
+            "name": "getwid\/custom-post-type",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/mailchimp": {
+            "name": "getwid\/mailchimp",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/recent-posts": {
+            "name": "getwid\/recent-posts",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/advanced-heading": {
+            "name": "getwid\/advanced-heading",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/button-group": {
+            "name": "getwid\/button-group",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/tabs": {
+            "name": "getwid\/tabs",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/content-slider": {
+            "name": "getwid\/content-slider",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/circle-progress-bar": {
+            "name": "getwid\/circle-progress-bar",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/testimonial": {
+            "name": "getwid\/testimonial",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/anchor": {
+            "name": "getwid\/anchor",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/map": {
+            "name": "getwid\/map",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/video-popup": {
+            "name": "getwid\/video-popup",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/table": {
+            "name": "getwid\/table",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/media-text-slider": {
+            "name": "getwid\/media-text-slider",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/person": {
+            "name": "getwid\/person",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/banner": {
+            "name": "getwid\/banner",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/post-slider": {
+            "name": "getwid\/post-slider",
+            "title": "Getwid - Gutenberg Blocks"
+        },
+        "getwid\/images-slider": {
+            "name": "getwid\/images-slider",
+            "title": "Getwid - Gutenberg Blocks"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 94,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "getwid",
+            "language": "bg_BG",
+            "version": "2.0.7",
+            "updated": "2021-11-02 11:21:28",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/getwid\/2.0.7\/bg_BG.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "getwid",
+            "language": "ca",
+            "version": "2.0.7",
+            "updated": "2024-01-08 22:06:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/getwid\/2.0.7\/ca.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "getwid",
+            "language": "es_ES",
+            "version": "2.0.7",
+            "updated": "2023-01-26 14:31:17",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/getwid\/2.0.7\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "getwid",
+            "language": "fr_FR",
+            "version": "2.0.7",
+            "updated": "2023-07-07 11:47:34",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/getwid\/2.0.7\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "getwid",
+            "language": "it_IT",
+            "version": "2.0.7",
+            "updated": "2024-01-25 19:06:27",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/getwid\/2.0.7\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "getwid",
+            "language": "ru_RU",
+            "version": "2.0.7",
+            "updated": "2023-10-30 02:02:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/getwid\/2.0.7\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "getwid",
+            "language": "uk",
+            "version": "2.0.7",
+            "updated": "2024-04-14 10:53:00",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/getwid\/2.0.7\/uk.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "getwid",
+            "language": "zh_TW",
+            "version": "2.0.7",
+            "updated": "2023-12-11 23:56:17",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/getwid\/2.0.7\/zh_TW.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "getwid",
+            "language": "zh_CN",
+            "version": "2.0.7",
+            "updated": "2023-05-12 08:43:22",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/getwid\/2.0.7\/zh_CN.zip"
+        }
+    ]
+}

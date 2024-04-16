@@ -1,0 +1,73 @@
+{
+    "name": "Translate Gravity Forms x Polylang",
+    "slug": "translate-gravity-forms-x-polylang",
+    "version": "1.0.0",
+    "author": "<a href=\"https:\/\/github.com\/siebsie23\">siebsie23<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/siebsie23\/",
+    "contributors": {
+        "siebsie23": {
+            "profile": "https:\/\/profiles.wordpress.org\/siebsie23\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/ba7dde316fa834346db0486fb6ff9aff?s=96&d=monsterid&r=g",
+            "display_name": "siebsie23"
+        }
+    },
+    "requires": "5.7",
+    "tested": "6.3.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 46,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 2
+    },
+    "num_ratings": 3,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/translate-gravity-forms-x-polylang\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 20,
+    "downloaded": 328,
+    "last_updated": "2024-01-02 10:13am GMT",
+    "added": "2024-01-02",
+    "homepage": "https:\/\/github.com\/siebsie23\/gravity-forms-polylang",
+    "sections": {
+        "description": "<p>This WordPress plugin adds form titles, descriptions, field labels, etc, to Polylang string translations<\/p>\n",
+        "installation": "<p>Install and activate the plugin. After this, your translatable strings will appear in the \\&#8221;Translations\\&#8221; tab of PolyLang.<\/p>\n",
+        "changelog": "<p>1.0.0<br \/>\n&#8211; Fixed \\&#8217;Undefined array key page\\&#8217; error.<br \/>\n&#8211; Updated code styling<\/p>\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Works great<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/misterelvis\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/89932556fad76026346ba4ad05f28dd0?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/89932556fad76026346ba4ad05f28dd0?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/misterelvis\/\" class=\"reviewer-name\">telltec <small>(misterelvis)<\/small><\/a> on <span class=\"review-date\">February 13, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Simple plugin that adds the labels of Gravity Form inputs to the String Translation List of Polylang. <br \/><br \/>Works great for me.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Would be nice if it could be extended to confirmations and maybe even notifications.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Not working<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/morrischapman\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/66cead400d911d4f1d9235c78b90175c?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/66cead400d911d4f1d9235c78b90175c?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/morrischapman\/\" class=\"reviewer-name\">morrischapman<\/a> on <span class=\"review-date\">January 16, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Nice project but generates a PHP fatal error in the front end... Please fix, it will be useful :)<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">serious problem!!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mehranhooshangi\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/01b3f049d7960fbc19385adb40a04bf8?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/01b3f049d7960fbc19385adb40a04bf8?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mehranhooshangi\/\" class=\"reviewer-name\">mehranhooshangi<\/a> on <span class=\"review-date\">January 12, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This plugin showed all fields, but the forms didn't open anymore!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Add form titles, descriptions, field labels, etc, to Polylang string translations",
+    "description": "<p>This WordPress plugin adds form titles, descriptions, field labels, etc, to Polylang string translations<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/translate-gravity-forms-x-polylang.1.0.0.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "gravityforms": "GravityForms",
+        "polylang": "polylang",
+        "translate": "translate",
+        "translation": "translation"
+    },
+    "stable_tag": "1.0.0",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/translate-gravity-forms-x-polylang.1.0.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/translate-gravity-forms-x-polylang.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "default": "https:\/\/s.w.org\/plugins\/geopattern-icon\/translate-gravity-forms-x-polylang.svg"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 46,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

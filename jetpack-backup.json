@@ -1,0 +1,356 @@
+{
+    "name": "Jetpack VaultPress Backup",
+    "slug": "jetpack-backup",
+    "version": "2.5",
+    "author": "<a href=\"https:\/\/jetpack.com\/\">Automattic - Jetpack Backup team<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/automattic\/",
+    "contributors": {
+        "automattic": {
+            "profile": "https:\/\/profiles.wordpress.org\/automattic\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/687b3bf96c41800814e3b93766444283?s=96&d=monsterid&r=g",
+            "display_name": "Automattic"
+        },
+        "bjorsch": {
+            "profile": "https:\/\/profiles.wordpress.org\/bjorsch\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/1e14c985b9a6f9ea1573a90ea9c29158?s=96&d=monsterid&r=g",
+            "display_name": "Brad Jorsch"
+        },
+        "fgiannar": {
+            "profile": "https:\/\/profiles.wordpress.org\/fgiannar\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/2fb10c16e569629101cd9c19d6537471?s=96&d=monsterid&r=g",
+            "display_name": "fgiannar"
+        },
+        "initsogar": {
+            "profile": "https:\/\/profiles.wordpress.org\/initsogar\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/294d55f3c10d97df4dd713150b6e6567?s=96&d=monsterid&r=g",
+            "display_name": "Rafael Agostini"
+        },
+        "jeherve": {
+            "profile": "https:\/\/profiles.wordpress.org\/jeherve\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/93b13aced520a1a531e642b7c1c17bff?s=96&d=monsterid&r=g",
+            "display_name": "Jeremy Herve"
+        },
+        "jwebbdev": {
+            "profile": "https:\/\/profiles.wordpress.org\/jwebbdev\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/a4a1e588db4928b2edf3de0cf22f57e7?s=96&d=monsterid&r=g",
+            "display_name": "jwebbdev"
+        },
+        "kraftbj": {
+            "profile": "https:\/\/profiles.wordpress.org\/kraftbj\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/6e238edcb0664c975ccb9e8e80abb307?s=96&d=monsterid&r=g",
+            "display_name": "Brandon Kraft"
+        },
+        "macbre": {
+            "profile": "https:\/\/profiles.wordpress.org\/macbre\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/57548e3255bfa0e74afff98289dae839?s=96&d=monsterid&r=g",
+            "display_name": "macbre"
+        },
+        "pypt": {
+            "profile": "https:\/\/profiles.wordpress.org\/pypt\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/e42fe7345a88bab95ea0b34317b8bc42?s=96&d=monsterid&r=g",
+            "display_name": "Linas Valiukas"
+        },
+        "samiff": {
+            "profile": "https:\/\/profiles.wordpress.org\/samiff\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/7a259ccfe3dde16718cf033fd50d0200?s=96&d=monsterid&r=g",
+            "display_name": "Sami Falah"
+        },
+        "sermitr": {
+            "profile": "https:\/\/profiles.wordpress.org\/sermitr\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/262817c506cccecb762bd14ae858dfe5?s=96&d=monsterid&r=g",
+            "display_name": "sermitr"
+        },
+        "williamvianas": {
+            "profile": "https:\/\/profiles.wordpress.org\/williamvianas\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/201c0f4603e8b3694c1d67b14021a7d4?s=96&d=monsterid&r=g",
+            "display_name": "williamvianas"
+        }
+    },
+    "requires": "6.3",
+    "tested": "6.5.2",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 92,
+    "ratings": {
+        "5": 22,
+        "4": 1,
+        "3": 0,
+        "2": 0,
+        "1": 2
+    },
+    "num_ratings": 25,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/jetpack-backup\/",
+    "support_threads": 9,
+    "support_threads_resolved": 5,
+    "active_installs": 8000,
+    "downloaded": 124342,
+    "last_updated": "2024-03-19 4:59pm GMT",
+    "added": "2021-08-12",
+    "homepage": "https:\/\/jetpack.com\/jetpack-backup",
+    "sections": {
+        "description": "<p>Jetpack VaultPress Backup is a plugin that gives you cloud-based backups and one-click restores without needing to install the full Jetpack plugin. The most proven WordPress backup plugin with over 270 million backups. Save each change and get back online fast with one-click restores.<\/p>\n<p>Note: To use this plugin you will need to have a paid Jetpack plan that includes Backup.<\/p>\n<p><iframe title=\"VideoPress Video Player\" aria-label='VideoPress Video Player' width='640' height='360' src='https:\/\/video.wordpress.com\/embed\/VNRR7Mkj?hd=0&amp;cover=1' frameborder='0' allowfullscreen allow='clipboard-write'><\/iframe><script src='https:\/\/v0.wordpress.com\/js\/next\/videopress-iframe.js?m=1674852142'><\/script><\/p>\n<h3>Restoring your site has never been easier<\/h3>\n<p>If you make money from your site, or spend hours perfecting content, you need WordPress backups. Protect your investment by getting your site back online in seconds. Our automated WordPress backup plugin is powerful enough for pros, but easy enough for beginners.<\/p>\n<ul>\n<li>Easy-to-use plugin with one-click restores<\/li>\n<li>Restore from anywhere with the Jetpack mobile app<\/li>\n<li>Restore even if your site is offline<\/li>\n<li>No developer required<\/li>\n<li>Best-in-class support<\/li>\n<\/ul>\n<h3>If your host\u2019s servers go down, you\u2019re covered<\/h3>\n<p>Host backups offer some protection but may not be sufficient to fully safeguard your valuable data. They often have limitations, such as single daily backups only, on-site storage, and clunky interfaces.<\/p>\n<p>Unlock the VaultPress Backup advantage:<\/p>\n<ul>\n<li>Unmatched Security: Safeguard every change in real-time in the ultra-secure Jetpack Cloud.<\/li>\n<li>Instant Recovery: Restore your site even when your host is down.<\/li>\n<li>Backups built specifically for WordPress and WooCommerce sites.<\/li>\n<\/ul>\n<h3>Reliability you can trust<\/h3>\n<p>Jetpack VaultPress Backup is built on WordPress.com\u2019s world\u2011class infrastructure, so you can be sure your site is safe and can be recovered at any moment. Host backups are often time\u2011consuming and require technical expertise to restore. You\u2019ve got more important things to do.<\/p>\n<ul>\n<li>Backups of all files including WordPress database backups, theme file backups and plugin backups<\/li>\n<li>Backups of all WooCommerce customer and order data<\/li>\n<li>Redundant copies made on multiple servers<\/li>\n<li>Off-site \/ cloud backups so there\u2019s no load on your server<\/li>\n<li>Global server infrastructure<\/li>\n<li>Tested to ensure no conflicts with major plugins or hosts<\/li>\n<\/ul>\n<h3>Backups built for WooCommerce<\/h3>\n<p>Backups are essential for eCommerce stores. New orders come in at any moment, so you need a plan to keep your order and customer data safe. That\u2019s why we designed the Jetpack VaultPress Backup plugin specifically with WooCommerce in mind.<\/p>\n<ul>\n<li>Restore your site to any past state while keeping all orders and products current<\/li>\n<li>Protect your customer data and stay GDPR compliant<\/li>\n<li>Custom WooCommerce table backups<\/li>\n<\/ul>\n<h3>A must\u2011have for WordPress site builders<\/h3>\n<p>Save hours of time developing and maintaining sites by restoring to any point. Just one change pays for itself. Real\u2011time backups go beyond a snapshot to give you total power and flexibility. The activity log lets you know exactly what action (and who) broke the site, so you can look like a pro for your clients.<\/p>\n<ul>\n<li>Full, incremental, and differential backups in real-time<\/li>\n<li>Complete list of all site changes<\/li>\n<li>Quickly restore from any point<\/li>\n<li>Be empowered to experiment with the look and feel of your site<\/li>\n<\/ul>\n<h3>Expert Support<\/h3>\n<p>We have a global team of Happiness Engineers ready to provide incredible support. Ask your questions in the support forum or <a href=\"https:\/\/jetpack.com\/contact-support\" rel=\"nofollow ugc\">contact us directly<\/a>.<\/p>\n<h3>Get Started<\/h3>\n<p>Installation is free, quick, and easy. It only takes a few minutes to install Jetpack VaultPress Backup.<\/p>\n<p>Note: To use this plugin you will need to have a paid Jetpack plan that includes Backup.<\/p>\n",
+        "installation": "<h3>Automated installation<\/h3>\n<p>The first option is to install Jetpack VaultPress Backup from within your WP Admin.<\/p>\n<ol>\n<li>To begin, click on the Plugins link in the left hand sidebar, then click Add New.<\/li>\n<li>Search for Jetpack VaultPress Backup. The latest version will be in the search results. Click the Install Now button:<\/li>\n<li>Next, click the Activate button. After activating, you will be prompted to set up Jetpack VaultPress Backup.<\/li>\n<\/ol>\n<h3>Manual Alternatives<\/h3>\n<p>Alternatively, install Jetpack VaultPress Backup via the plugin directory, or upload the files manually to your server and follow the on-screen instructions.<\/p>\n<p>Detailed instructions on installing Jetpack VaultPress Backup can be found in our <a href=\"https:\/\/jetpack.com\/support\/the-jetpack-backup-plugin\/getting-started-with-the-jetpack-backup-plugin\/\" rel=\"nofollow ugc\">Getting Started with the Jetpack VaultPress Backup Plugin<\/a> article.<\/p>\n",
+        "faq": "\n<dt id='why%20do%20i%20need%20backups%3F'>\nWhy do I need backups?\n<\/h4>\n<p>\n<p>Site backups are crucial for an online business or presence. If you make a change in error, want to experiment with your site\u2019s look &amp; feel, or something malicious happens to your site, having backups saves time and money getting your site back online or to a previous version. With Jetpack VaultPress Backup you simply click to restore to a point in the past and get on with your day.<\/p>\n<\/p>\n<dt id='how%20do%20i%20restore%20my%20site%20with%20jetpack%20vaultpress%20backup%3F'>\nHow do I restore my site with Jetpack VaultPress Backup?\n<\/h4>\n<p>\n<p>It\u2019s easy to restore your site in just a few clicks. Check out this quick video for more detail.<\/p>\n<p>For more detailed assistance, check out <a href=\"https:\/\/jetpack.com\/support\/the-jetpack-backup-plugin\/restoring-with-the-jetpack-backup-plugin\/\" rel=\"nofollow ugc\">the full support article<\/a>.<\/p>\n<\/p>\n<dt id='doesn%E2%80%99t%20my%20host%20already%20have%20backups%3F'>\nDoesn\u2019t my host already have backups?\n<\/h4>\n<p>\n<p>Most hosts have some sort of backup. But they are often infrequent and difficult to restore. If your site goes down, you need access to your backups. If they\u2019re stored on your hosting platform (or your hard drive!), and your files are compromised, your database backup could be compromised too.<\/p>\n<p>Jetpack\u2019s off-site backup storage allows you to restore a clean version of your WordPress website even if you can\u2019t log in. When you rely solely on your host\u2019s built-in backups, you\u2019re putting all your eggs in one basket. Here is <a href=\"https:\/\/jetpack.com\/2017\/07\/06\/wordpress-support-hosting-mistakes\/\" rel=\"nofollow ugc\">one story from a Jetpack customer<\/a> of what can happen. Without a third-party backup that copies your files off-site, your website could be at risk. One false move by you or your host could compromise your web files or delete them entirely.<\/p>\n<\/p>\n<dt id='how%20do%20i%20create%20a%20wordpress%20backup%20for%20my%20site%3F'>\nHow do I create a WordPress backup for my site?\n<\/h4>\n<p>\n<p>If you don\u2019t have Backups as part of your Jetpack plan, <a href=\"https:\/\/jetpack.com\/upgrade\/backup\" rel=\"nofollow ugc\">visit Jetpack.com to learn more and purchase<\/a>.<\/p>\n<p>As soon as you purchase Jetpack VaultPress Backup, it will be activated, and the first backup will be completed. There are barely any settings to configure, and you don\u2019t need coding experience.<\/p>\n<p>For plans with daily backups, a new backup will take place approximately 24 hours from the previous backup. They occur automatically \u2013 you don\u2019t need to create a specific time for backups to run.<\/p>\n<p>For plans with real-time backups, a new backup will be performed each time a change is made to WordPress core&#8217;s database tables, WooCommerce database tables, and any associated file changes. All other changes are backed up daily.<\/p>\n<p>You\u2019ll know your WordPress backup has been created if you see a <strong>Backup complete<\/strong> event in the activity log.<\/p>\n<\/p>\n<dt id='don%E2%80%99t%20see%20your%20wordpress%20backup%20in%20the%20activity%20log%3F'>\nDon\u2019t see your WordPress backup in the activity log?\n<\/h4>\n<p>\n<p>If you notice that backups are not being saved yet, update your <a href=\"https:\/\/jetpack.com\/support\/the-jetpack-backup-plugin\/adding-credentials-to-the-jetpack-backup-plugin\/\" rel=\"nofollow ugc\">site credentials<\/a>. Go to the <a href=\"https:\/\/cloud.jetpack.com\/\" rel=\"nofollow ugc\"><strong>Jetpack Cloud<\/strong><\/a> and click <strong>Settings<\/strong>. You should see a form that allows you to add your site credentials.<\/p>\n<p>If Jetpack cannot make contact with your site and it\u2019s not able to create backups, you\u2019ll receive an email after two failed attempts.<\/p>\n<\/p>\n<dt id='can%20i%20use%20jetpack%20to%20back%20up%20my%20wordpress%20database%3F'>\nCan I use Jetpack to back up my WordPress database?\n<\/h4>\n<p>\n<p>Yes, the Jetpack VaultPress Backup plugin backs up your WordPress database. Specifically, any tables that begin with your WordPress table prefix and also have a unique key or primary key. For more details, visit <a href=\"https:\/\/jetpack.com\/support\/the-jetpack-backup-plugin\/\" rel=\"nofollow ugc\">the support page<\/a>.<\/p>\n<\/p>\n<dt id='can%20i%20use%20jetpack%20to%20back%20up%20my%20files%3F'>\nCan I use Jetpack to back up my files?\n<\/h4>\n<p>\n<p>Yes, the Jetpack VaultPress Backup plugin backs up your WordPress database. This includes all files in the <em>plugins<\/em>, <em>mu-plugins<\/em>, <em>themes<\/em>, and <em>uploads<\/em> directories. For more details, visit <a href=\"https:\/\/jetpack.com\/support\/the-jetpack-backup-plugin\/\" rel=\"nofollow ugc\">the support page<\/a>.<\/p>\n<\/p>\n<dt id='can%20i%20use%20jetpack%20to%20back%20up%20my%20site%20without%20plugins%3F'>\nCan I use Jetpack to back up my site without plugins?\n<\/h4>\n<p>\n<p>Yes. We will exclude any directory containing a file named <em>.donotbackup<\/em>. If need be, you can create these files yourself to intentionally prevent certain directories from being backed up. If a directory named <em>donotbackup<\/em> is added, we will also exclude all files inside that directory. For more details, visit <a href=\"https:\/\/jetpack.com\/support\/the-jetpack-backup-plugin\/\" rel=\"nofollow ugc\">the support page<\/a>.<\/p>\n<\/p>\n<dt id='can%20jetpack%20vaultpress%20backup%20save%20files%20to%20google%20drive%20or%20dropbox%3F'>\nCan Jetpack VaultPress Backup save files to Google Drive or Dropbox?\n<\/h4>\n<p>\n<p>Jetpack VaultPress Backup doesn\u2019t support saving files directly onto Google Drive or Dropbox. We provide free storage on our servers, saved redundantly in multiple locations around the globe. If you\u2019d like to retain a copy, you can download your backup and upload it to any third-party site.<\/p>\n<\/p>\n<dt id='can%20i%20download%20my%20backups%3F'>\nCan I download my backups?\n<\/h4>\n<p>\n<p>Yes. To download your backup, open your <a href=\"https:\/\/jetpack.com\/support\/the-jetpack-backup-plugin\/activity-log-in-the-jetpack-backup-plugin\/\" rel=\"nofollow ugc\">activity log<\/a>. Use the filters to find the event or backup that you\u2019d like to use, then click <strong>Actions<\/strong>, and choose <strong>Download backup<\/strong>. For more details, visit <a href=\"https:\/\/jetpack.com\/support\/restoring-with-jetpack-backup\/\" rel=\"nofollow ugc\">the support page<\/a>.<\/p>\n<\/p>\n<dt id='does%20jetpack%20vaultpress%20backup%20support%20wordpress%20multisite%3F'>\nDoes Jetpack VaultPress Backup support WordPress multisite?\n<\/h4>\n<p>\n<p>No, Jetpack VaultPress Backup does not currently support WordPress multisite.<\/p>\n<\/p>\n<dt id='does%20jetpack%20vaultpress%20backup%20support%20split%20site%20or%20split%20home%20urls%3F'>\nDoes Jetpack VaultPress Backup support split site or split home URLs?\n<\/h4>\n<p>\n<p>No, Jetpack VaultPress Backup does not currently support split site or split home URLs.<\/p>\n<\/p>\n<dt id='need%20help%3F'>\nNeed help?\n<\/h4>\n<p>\n<ul>\n<li><a href=\"https:\/\/jetpack.com\/support\/the-jetpack-backup-plugin\/getting-started-with-the-jetpack-backup-plugin\/\" rel=\"nofollow ugc\">Getting started<\/a><\/li>\n<li><a href=\"https:\/\/jetpack.com\/support\/the-jetpack-backup-plugin\/activity-log-in-the-jetpack-backup-plugin\/\" rel=\"nofollow ugc\">Using the Activity Log<\/a><\/li>\n<li><a href=\"https:\/\/jetpack.com\/support\/scope-of-support\/\" rel=\"nofollow ugc\">Scope of support<\/a><\/li>\n<\/ul>\n<\/p>\n\n",
+        "changelog": "<h3>2.5 &#8211; 2024-02-08<\/h3>\n<h4>Changed<\/h4>\n<ul>\n<li>Updated package dependencies.<\/li>\n<\/ul>\n<h4>Fixed<\/h4>\n<ul>\n<li>Write helper script to ABSPATH by default, just like we did before<\/li>\n<\/ul>\n<p><a href=\"https:\/\/github.com\/Automattic\/jetpack\/blob\/trunk\/projects\/plugins\/backup\/CHANGELOG.md#changelog\" rel=\"nofollow ugc\">See the previous changelogs here<\/a><\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/jetpack-backup\/assets\/screenshot-1.png?rev=2847541\"><img src=\"https:\/\/ps.w.org\/jetpack-backup\/assets\/screenshot-1.png?rev=2847541\" alt=\"Save every change with real-time backups and get back online quickly with one-click restores.\"><\/a><p>Save every change with real-time backups and get back online quickly with one-click restores.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/jetpack-backup\/assets\/screenshot-2.png?rev=2847541\"><img src=\"https:\/\/ps.w.org\/jetpack-backup\/assets\/screenshot-2.png?rev=2847541\" alt=\"Your site backups are stored in multiple locations on our world-class cloud infrastructure so you can recover them at any moment.\"><\/a><p>Your site backups are stored in multiple locations on our world-class cloud infrastructure so you can recover them at any moment.<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Very Easy to Restore<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/zelixsphere\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/4b8faa6eaace4f80623cd674fb51a5bf?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/4b8faa6eaace4f80623cd674fb51a5bf?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/zelixsphere\/\" class=\"reviewer-name\">zelixsphere<\/a> on <span class=\"review-date\">March 30, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Due to cost of doing business and high cost of one register, I found I needed to move my company site from one register to another, which believe it or not became a never ending nightmare, to do something like move my domain (something I know how to do, and have done before). I had previously manually backed up my settings, site, and its varied databases, but ran into an issue when they finally moved my domain over, some of what I backed up, was not correct resulting in website appearing incorrect.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Having Jetpack saved me from the issue of having to recorrect the variety parts of my site, since I was easily able to restore jetpacks connection to my site and restore it back to a working point . It ended up saving me a bunch of time, that otherwise would have been a pain in the behind to do.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I hope this review helps you with your decisions and happy site building!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Linking Jetpack Vault Backup thru Bluehost to WP<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/robinrjs\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/434e696ee37af88736d912d8ecefd6fb?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/434e696ee37af88736d912d8ecefd6fb?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/robinrjs\/\" class=\"reviewer-name\">robinrjs<\/a> on <span class=\"review-date\">March 19, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Having had a problem sorting out the credentials submission your techie guys took responsibility and communicated directly with Bluehost and sorted it ! Brilliant and so refreshing!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Edit: Good backup solution but slow support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"4 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"4\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/yaja1234\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/2df74ad8f4ce55be30cb164fc1e6e8be?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/2df74ad8f4ce55be30cb164fc1e6e8be?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/yaja1234\/\" class=\"reviewer-name\">yaja1234<\/a> on <span class=\"review-date\">January 25, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Plugin is good, but as a paid customer it took 8 days till I got an answer from support. Support itself was great and my problem was solved.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Peace of mind<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/kluand\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/5ed7b2d6d6416ce9e14d10b1e46e3c77?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/5ed7b2d6d6416ce9e14d10b1e46e3c77?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/kluand\/\" class=\"reviewer-name\">kluand<\/a> on <span class=\"review-date\">December 7, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">thanks God I never had to use it. I tried the features and I am satisfied. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Support is great. Sometimes can take a while, most probably due to the volume of work, but the issues was solved nevertheless. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Thank you,<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Andrei<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Above and beyond...<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/ianmanderson\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b3aa5dbb6a5070eecd41ff259f91b7b6?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b3aa5dbb6a5070eecd41ff259f91b7b6?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/ianmanderson\/\" class=\"reviewer-name\">Ian Anderson <small>(ianmanderson)<\/small><\/a> on <span class=\"review-date\">August 16, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I decided to swap hosting just before hitting a lot of personal stuff which took a lot of time. So, even though I delayed getting back to the problem the team were very patient and managed to 100% fix the website restore to the new server. Many thanks, may all of your endeavours bear fruit :-)<br \/><\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Worked perfectly. Saved the day.<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/essene1618\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/2b1b0e0859e1c5224a44ac2bb4218f4f?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/2b1b0e0859e1c5224a44ac2bb4218f4f?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/essene1618\/\" class=\"reviewer-name\">essene1618<\/a> on <span class=\"review-date\">July 29, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Worked perfectly. Saved the day. Overall, the Jetpack array is great value for the money at so many levels when managing dozens of WordPress instances across many servers. We use the Jetpack Complete license and Admin panel with the Jetpack CRM functions to manage numerous sophisticated WordPress installs. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Poor Functionality Drives Up Cost<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/tomkraeutler\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/823f4c0cb6ff7b3f9552bca928c40c0a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/823f4c0cb6ff7b3f9552bca928c40c0a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/tomkraeutler\/\" class=\"reviewer-name\">Tom Kraeutler <small>(tomkraeutler)<\/small><\/a> on <span class=\"review-date\">June 19, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Jetpack Vault Press charges based on the amount of storage space used.  However, they do not offer the basic functionality necessary to manage backups.  For example, you can opt to update the database daily and files weekly.  You also cant creat a limit on the number of backups held, or provide for older backups to be deleted every so often.  As a result, storage space does nothing but climb and Jetpacks bills right there with it.  We've moved to Updraft and Sucuri for backup.  Even combined together the cost is far less than Jetpack Vault Press.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">A lifesaver!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/darstudio\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/163b893c1b77864454e020ddc0e70b6b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/163b893c1b77864454e020ddc0e70b6b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/darstudio\/\" class=\"reviewer-name\">darstudio<\/a> on <span class=\"review-date\">May 16, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>The plugin is really good and the support team were lifesavers when I was trying to move my site over to a different host, and thought I lost my backup files. The Jetpack team was able to send me a full backup from over a month previous, and I was able to recover the entire site.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Recommended Always!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/nomadskateboarding\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/a46570e2b8a3b86cb0fbb2ca5f4c0883?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/a46570e2b8a3b86cb0fbb2ca5f4c0883?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/nomadskateboarding\/\" class=\"reviewer-name\">Nomad Skateboarding <small>(nomadskateboarding)<\/small><\/a> on <span class=\"review-date\">March 25, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>I use Jetpack always. VaultPress is a big part of the reason why!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li>It works<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>It provides more than it costs<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Easy to use, no learning curve<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>Combined with the Jetpack Mobile app, I have the power to run my sites and my client sites from my mobile phone<\/li>\n<!-- \/wp:list-item -->\n\n<!-- wp:list-item -->\n<li>The company and the people who make this seem to be really good people trying to do their best for me and my WordPress needs<\/li>\n<!-- \/wp:list-item --><\/ul>\n<!-- \/wp:list --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Jetpack backup<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/10lebanon10\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/1862f90e6653201a8c21ac2faace693d?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/1862f90e6653201a8c21ac2faace693d?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/10lebanon10\/\" class=\"reviewer-name\">10lebanon10<\/a> on <span class=\"review-date\">March 18, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Amazing<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Save each change and get back online fast with one-click restores. The most proven WordPress backup plugin with over 270 million backups.",
+    "description": "<p>Jetpack VaultPress Backup is a plugin that gives you cloud-based backups and one-click restores without needing to install the full Jetpack plugin. The most proven WordPress backup plugin with over 270 million backups. Save each change and get back online fast with one-click restores.<\/p>\n<p>Note: To use this plugin you will need to have a paid Jetpack plan that includes Backup.<\/p>\n<p><iframe title=\"VideoPress Video Player\" aria-label='VideoPress Video Player' width='640' height='360' src='https:\/\/video.wordpress.com\/embed\/VNRR7Mkj?hd=0&amp;cover=1' frameborder='0' allowfullscreen allow='clipboard-write'><\/iframe><script src='https:\/\/v0.wordpress.com\/js\/next\/videopress-iframe.js?m=1674852142'><\/script><\/p>\n<h3>Restoring your site has never been easier<\/h3>\n<p>If you make money from your site, or spend hours perfecting content, you need WordPress backups. Protect your investment by getting your site back online in seconds. Our automated WordPress backup plugin is powerful enough for pros, but easy enough for beginners.<\/p>\n<ul>\n<li>Easy-to-use plugin with one-click restores<\/li>\n<li>Restore from anywhere with the Jetpack mobile app<\/li>\n<li>Restore even if your site is offline<\/li>\n<li>No developer required<\/li>\n<li>Best-in-class support<\/li>\n<\/ul>\n<h3>If your host\u2019s servers go down, you\u2019re covered<\/h3>\n<p>Host backups offer some protection but may not be sufficient to fully safeguard your valuable data. They often have limitations, such as single daily backups only, on-site storage, and clunky interfaces.<\/p>\n<p>Unlock the VaultPress Backup advantage:<\/p>\n<ul>\n<li>Unmatched Security: Safeguard every change in real-time in the ultra-secure Jetpack Cloud.<\/li>\n<li>Instant Recovery: Restore your site even when your host is down.<\/li>\n<li>Backups built specifically for WordPress and WooCommerce sites.<\/li>\n<\/ul>\n<h3>Reliability you can trust<\/h3>\n<p>Jetpack VaultPress Backup is built on WordPress.com\u2019s world\u2011class infrastructure, so you can be sure your site is safe and can be recovered at any moment. Host backups are often time\u2011consuming and require technical expertise to restore. You\u2019ve got more important things to do.<\/p>\n<ul>\n<li>Backups of all files including WordPress database backups, theme file backups and plugin backups<\/li>\n<li>Backups of all WooCommerce customer and order data<\/li>\n<li>Redundant copies made on multiple servers<\/li>\n<li>Off-site \/ cloud backups so there\u2019s no load on your server<\/li>\n<li>Global server infrastructure<\/li>\n<li>Tested to ensure no conflicts with major plugins or hosts<\/li>\n<\/ul>\n<h3>Backups built for WooCommerce<\/h3>\n<p>Backups are essential for eCommerce stores. New orders come in at any moment, so you need a plan to keep your order and customer data safe. That\u2019s why we designed the Jetpack VaultPress Backup plugin specifically with WooCommerce in mind.<\/p>\n<ul>\n<li>Restore your site to any past state while keeping all orders and products current<\/li>\n<li>Protect your customer data and stay GDPR compliant<\/li>\n<li>Custom WooCommerce table backups<\/li>\n<\/ul>\n<h3>A must\u2011have for WordPress site builders<\/h3>\n<p>Save hours of time developing and maintaining sites by restoring to any point. Just one change pays for itself. Real\u2011time backups go beyond a snapshot to give you total power and flexibility. The activity log lets you know exactly what action (and who) broke the site, so you can look like a pro for your clients.<\/p>\n<ul>\n<li>Full, incremental, and differential backups in real-time<\/li>\n<li>Complete list of all site changes<\/li>\n<li>Quickly restore from any point<\/li>\n<li>Be empowered to experiment with the look and feel of your site<\/li>\n<\/ul>\n<h3>Expert Support<\/h3>\n<p>We have a global team of Happiness Engineers ready to provide incredible support. Ask your questions in the support forum or <a href=\"https:\/\/jetpack.com\/contact-support\" rel=\"nofollow ugc\">contact us directly<\/a>.<\/p>\n<h3>Get Started<\/h3>\n<p>Installation is free, quick, and easy. It only takes a few minutes to install Jetpack VaultPress Backup.<\/p>\n<p>Note: To use this plugin you will need to have a paid Jetpack plan that includes Backup.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.2.5.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/jetpack-backup\/assets\/screenshot-1.png?rev=2847541",
+            "caption": "Save every change with real-time backups and get back online quickly with one-click restores."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/jetpack-backup\/assets\/screenshot-2.png?rev=2847541",
+            "caption": "Your site backups are stored in multiple locations on our world-class cloud infrastructure so you can recover them at any moment."
+        }
+    },
+    "tags": {
+        "backup": "backup",
+        "jetpack": "jetpack",
+        "restore": "restore"
+    },
+    "stable_tag": "2.5",
+    "versions": {
+        "0.2.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.0.2.0.zip",
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.1.0.1.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.1.1.0.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.1.2.0.zip",
+        "1.3.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.1.3.0.zip",
+        "1.4.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.1.4.0.zip",
+        "1.4.1": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.1.4.1.zip",
+        "1.4.2": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.1.4.2.zip",
+        "1.4.3": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.1.4.3.zip",
+        "1.4.4": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.1.4.4.zip",
+        "1.5": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.1.5.zip",
+        "1.6": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.1.6.zip",
+        "1.7": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.1.7.zip",
+        "1.8": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.1.8.zip",
+        "1.9": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.1.9.zip",
+        "2.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.2.0.zip",
+        "2.1": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.2.1.zip",
+        "2.2": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.2.2.zip",
+        "2.3": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.2.3.zip",
+        "2.4": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.2.4.zip",
+        "2.5": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.2.5.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-backup.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/jetpack-backup\/assets\/banner-772x250.png?rev=2653683",
+        "high": "https:\/\/ps.w.org\/jetpack-backup\/assets\/banner-1544x500.png?rev=2653683"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/jetpack-backup\/assets\/icon.svg?rev=2818483",
+        "svg": "https:\/\/ps.w.org\/jetpack-backup\/assets\/icon.svg?rev=2818483"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": "6",
+    "author_block_rating": 93.333333333334,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "ar",
+            "version": "2.5",
+            "updated": "2024-03-13 13:50:22",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/ar.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "ca",
+            "version": "2.5",
+            "updated": "2024-02-28 13:49:39",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/ca.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "de_DE",
+            "version": "2.5",
+            "updated": "2024-02-28 13:55:38",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "en_AU",
+            "version": "2.5",
+            "updated": "2023-06-06 14:47:08",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/en_AU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "es_ES",
+            "version": "2.5",
+            "updated": "2024-03-13 13:51:54",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "fr_FR",
+            "version": "2.5",
+            "updated": "2024-03-06 13:51:34",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "gl_ES",
+            "version": "2.5",
+            "updated": "2024-02-28 13:49:12",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/gl_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "he_IL",
+            "version": "2.5",
+            "updated": "2024-04-03 13:49:10",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/he_IL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "id_ID",
+            "version": "2.5",
+            "updated": "2024-03-13 13:51:12",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/id_ID.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "it_IT",
+            "version": "2.5",
+            "updated": "2024-03-13 13:49:45",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "ja",
+            "version": "2.5",
+            "updated": "2024-03-06 13:50:42",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/ja.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "ko_KR",
+            "version": "2.5",
+            "updated": "2024-03-13 13:50:47",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/ko_KR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "nb_NO",
+            "version": "2.5",
+            "updated": "2024-04-12 00:13:54",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/nb_NO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "nl_NL",
+            "version": "2.5",
+            "updated": "2024-03-06 13:53:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "nl_BE",
+            "version": "2.5",
+            "updated": "2024-04-03 13:48:42",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/nl_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "pt_BR",
+            "version": "2.5",
+            "updated": "2024-03-27 13:49:37",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/pt_BR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "ro_RO",
+            "version": "2.5",
+            "updated": "2024-03-28 21:43:35",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/ro_RO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "ru_RU",
+            "version": "2.5",
+            "updated": "2024-03-13 13:51:26",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "sq",
+            "version": "2.5",
+            "updated": "2024-03-07 20:30:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/sq.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "sv_SE",
+            "version": "2.5",
+            "updated": "2024-03-13 15:44:39",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/sv_SE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "tr_TR",
+            "version": "2.5",
+            "updated": "2024-03-27 13:49:50",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/tr_TR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "uk",
+            "version": "2.5",
+            "updated": "2024-04-11 06:26:14",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/uk.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "zh_TW",
+            "version": "2.5",
+            "updated": "2024-03-06 13:50:59",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/zh_TW.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-backup",
+            "language": "zh_CN",
+            "version": "2.5",
+            "updated": "2024-04-03 13:49:27",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-backup\/2.5\/zh_CN.zip"
+        }
+    ]
+}

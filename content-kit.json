@@ -1,0 +1,93 @@
+{
+    "name": "Content Kit: User Feedback and Ratings",
+    "slug": "content-kit",
+    "version": "1.0.0",
+    "author": "<a href=\"https:\/\/contentkit.app\">Content Kit Pty Ltd<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/contentkit\/",
+    "contributors": {
+        "contentkit": {
+            "profile": "https:\/\/profiles.wordpress.org\/contentkit\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/467afb0e446d6fe54e978d40327a7d7a?s=96&d=monsterid&r=g",
+            "display_name": "Content Kit"
+        }
+    },
+    "requires": "5.5",
+    "tested": "6.4.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/content-kit\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 24,
+    "last_updated": "2024-04-10 1:56am GMT",
+    "added": "2024-04-09",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Content Kit makes collecting feedback on your WordPress site easy!<\/p>\n<p>Visitors can leave ratings, comments and reactions with the click of a button or by highlighting text. Our unique text-highlighting feature offers precise insights for content improvement.<\/p>\n<p>There\u2019s no cost to get started and you can stay on the free plan as long as you want. We want all businesses, big and small, to benefit from user feedback.<\/p>\n<p>Try it for yourself on the <a href=\"https:\/\/contentkit.app\" rel=\"nofollow ugc\">Content Kit website<\/a>.<\/p>\n<h3>Account requirement<\/h3>\n<p>This plugin requires a <a href=\"https:\/\/contentkit.app\" rel=\"nofollow ugc\">Content Kit account<\/a>. We offer a free starter plan, which includes basic features for small websites and personal projects.<\/p>\n<h3>Features you need without the complexity<\/h3>\n<p>Don\u2019t put it off any longer! Start collecting user feedback today to find out what your users are thinking.<\/p>\n<ul>\n<li>\n<p><strong>Rating style<\/strong> \u2013 choose from stars, hearts, or emojis to match the style and mood of your website.<\/p>\n<\/li>\n<li>\n<p><strong>Text highlighting<\/strong> \u2013 users can highlight text to pinpoint the words that work and those that don\u2019t so you know exactly what to improve.<\/p>\n<\/li>\n<li>\n<p><strong>Compatibility<\/strong> \u2013 Content Kit works with every type of website \u2013 on desktop and mobile.<\/p>\n<\/li>\n<li>\n<p><strong>Customization<\/strong> \u2013 customize the feedback button, banner and messages to suit the voice and tone of your website. We also support dark mode.<\/p>\n<\/li>\n<li>\n<p><strong>Notifications<\/strong> \u2013 get real-time feedback notifications by email or Microsoft Teams on our paid plans, and usage alerts if you\u2019re nearing your plan limits.<\/p>\n<\/li>\n<li>\n<p><strong>Simplicity<\/strong> \u2013 our intuitive design reduces friction for your users and makes it easy for you to setup and use.<\/p>\n<\/li>\n<li>\n<p><strong>Team members<\/strong> \u2013 share insights with your team members without any extra cost.<\/p>\n<\/li>\n<\/ul>\n<h3>A better experience for your users<\/h3>\n<p>User experience matters when you\u2019re collecting feedback. Content Kit makes it quick and easy for users to leave feedback and follows best practice design.<\/p>\n<p><strong>Frustration-free<\/strong><br \/>\nMinimize frustration to maximize feedback. Users hate being interrupted with popups and wordy surveys. Content Kit offers an alternative that\u2019s there when they need it without getting in the way.<\/p>\n<p><strong>Feedback options<\/strong><br \/>\nUsers can express their thoughts and feelings in a way that works for them, whether that\u2019s a rating from 1 to 5, a thumb up or thumb down, or general comment on a page.<\/p>\n<p><strong>Anonymous<\/strong><br \/>\nReduce friction for users to leave feedback and protect their privacy. By not collecting personal information, it&#8217;s a lot easier to comply with data protection requirements.<\/p>\n<h3>Why Content Kit<\/h3>\n<p>Content Kit is the easiest way to collect feedback and gives you everything you need to start improving your site.<\/p>\n<p><strong>Highlight and react<\/strong><br \/>\nOur unique text-highlighting feature allows users to leave a thumb up or thumb down reaction. Highlighting helps to pinpoint the problem so you know exactly what the user is referring to and what to fix.<\/p>\n<p><strong>Privacy<\/strong><br \/>\nContent Kit was designed with privacy in mind. The insights we collect are anonymous so you don\u2019t need to worry about handling or storing personal information like names and email addresses.<\/p>\n<p><strong>Transparency<\/strong><br \/>\nWe respect your time. We won\u2019t make you sign up for a demo to see our product or pricing. You can <a href=\"https:\/\/contentkit.app\" rel=\"nofollow ugc\">leave feedback on our website<\/a> to see what it\u2019s like or try our free plan.<\/p>\n<h3>Documentation and support<\/h3>\n<p>For guidance on installation or setup, refer to our <a href=\"https:\/\/contentkit.app\/docs\" rel=\"nofollow ugc\">documentation<\/a>. For additional support, please <a href=\"https:\/\/contentkit.app\/contact\" rel=\"nofollow ugc\">contact us<\/a>.<\/p>\n",
+        "installation": "<p>Install Content Kit on your WordPress site in minutes:<\/p>\n<ol>\n<li>\n<p><strong>Activate the plugin<\/strong><br \/>\nLog in to your WordPress site and go to the <strong>Plugins<\/strong> page. Search for &#8220;Content Kit: User Feedback and Ratings&#8221; in the list of available plugins and click <strong>Activate<\/strong>.<\/p>\n<\/li>\n<li>\n<p><strong>Configure settings<\/strong><br \/>\nAfter activation, go to the <strong>Settings<\/strong> menu and select <strong>Content Kit<\/strong>. Here, you will enter your <strong>Site key<\/strong>, which you can get when you register an account on the <a href=\"https:\/\/contentkit.app\" rel=\"nofollow ugc\">Content Kit website<\/a>. Make sure to click <strong>Save Changes<\/strong>.<\/p>\n<\/li>\n<li>\n<p><strong>Customize and use<\/strong><br \/>\nYou&#8217;re ready to collect feedback on your site! You can see your user feedback and customize the tool using the <a href=\"https:\/\/contentkit.app\" rel=\"nofollow ugc\">Content Kit website<\/a>.<\/p>\n<\/li>\n<\/ol>\n<p>If you run into any challenges during installation or setup, see our <a href=\"https:\/\/contentkit.app\/docs\" rel=\"nofollow ugc\">documentation<\/a> for detailed guidance or <a href=\"https:\/\/contentkit.app\/contact\" rel=\"nofollow ugc\">contact support<\/a> for assistance.<\/p>\n",
+        "faq": "\n<dt id='is%20a%20content%20kit%20account%20required%20to%20use%20this%20plugin%3F'>\nIs a Content Kit account required to use this plugin?\n<\/h4>\n<p>\n<p>Yes, a <a href=\"https:\/\/contentkit.app\" rel=\"nofollow ugc\">Content Kit account<\/a> is required to use this plugin. We offer a free starter plan.<\/p>\n<\/p>\n<dt id='is%20content%20kit%20free%3F'>\nIs Content Kit free?\n<\/h4>\n<p>\n<p>Content Kit offers a free starter plan, which includes basic features for small websites and personal projects. If you need higher feedback allowances and more features, paid plans are available.<\/p>\n<p>Visit our <a href=\"https:\/\/contentkit.app\/\" rel=\"nofollow ugc\">website<\/a> for more details on our plans.<\/p>\n<\/p>\n<dt id='can%20content%20kit%20be%20used%20on%20any%20type%20of%20website%3F'>\nCan Content Kit be used on any type of website?\n<\/h4>\n<p>\n<p>Yes, Content Kit is designed to work seamlessly with all types of websites, including WordPress.<\/p>\n<\/p>\n<dt id='how%20can%20user%20feedback%20help%20me%3F'>\nHow can user feedback help me?\n<\/h4>\n<p>\n<p>Collect user feedback to find out what people like about your WordPress site and what you can improve.<\/p>\n<p>Feedback is a powerful tool that you can use to optimize your content and enhance products and services.<\/p>\n<p>By actively incorporating feedback you can improve the user experience, increase customer satisfaction and build brand loyalty.<\/p>\n<\/p>\n<dt id='what%20customization%20options%20does%20content%20kit%20offer%3F'>\nWhat customization options does Content Kit offer?\n<\/h4>\n<p>\n<p>With Content Kit, you can customize the rating style (stars, hearts or emojis), feedback button and messages to suit your site.<\/p>\n<p>We also support dark mode, ensuring a cohesive look across different themes.<\/p>\n<\/p>\n<dt id='is%20technical%20support%20available%20for%20content%20kit%3F'>\nIs technical support available for Content Kit?\n<\/h4>\n<p>\n<p>Yes, we offer technical support for all users of Content Kit. You can <a href=\"https:\/\/contentkit.app\/contact\" rel=\"nofollow ugc\">reach out for assistance<\/a> with setup, customization, or any issues you encounter.<\/p>\n<p>You can also read our <a href=\"https:\/\/contentkit.app\/docs\" rel=\"nofollow ugc\">documentation<\/a> for more information.<\/p>\n<\/p>\n<dt id='can%20i%20upgrade%20my%20content%20kit%20plan%20for%20more%20features%3F'>\nCan I upgrade my Content Kit plan for more features?\n<\/h4>\n<p>\n<p>Absolutely! Content Kit offers various plans to suit different needs, from our free starter plan to more advanced options with additional feedback allowances. For more information, see our <a href=\"https:\/\/contentkit.app\/docs\/organizations-billing\" rel=\"nofollow ugc\">documentation<\/a>.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.0<\/h4>\n<ul>\n<li>Initial release.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/content-kit\/assets\/screenshot-1.png?rev=3067257\"><img src=\"https:\/\/ps.w.org\/content-kit\/assets\/screenshot-1.png?rev=3067257\" alt=\"Users can highlight text on your WordPress site to leave a reaction or comment.\"><\/a><p>Users can highlight text on your WordPress site to leave a reaction or comment.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/content-kit\/assets\/screenshot-2.png?rev=3067257\"><img src=\"https:\/\/ps.w.org\/content-kit\/assets\/screenshot-2.png?rev=3067257\" alt=\"Choose a rating style \u2013 stars, hearts or emojis \u2013 to match your site&#039;s design.\"><\/a><p>Choose a rating style \u2013 stars, hearts or emojis \u2013 to match your site's design.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/content-kit\/assets\/screenshot-3.png?rev=3067257\"><img src=\"https:\/\/ps.w.org\/content-kit\/assets\/screenshot-3.png?rev=3067257\" alt=\"Sign in to contentkit.app to customize the feedback tool.\"><\/a><p>Sign in to contentkit.app to customize the feedback tool.<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "User feedback made simple. Add Content Kit to your site to collect ratings, comments and reactions from your website visitors.",
+    "description": "<p>Content Kit makes collecting feedback on your WordPress site easy!<\/p>\n<p>Visitors can leave ratings, comments and reactions with the click of a button or by highlighting text. Our unique text-highlighting feature offers precise insights for content improvement.<\/p>\n<p>There\u2019s no cost to get started and you can stay on the free plan as long as you want. We want all businesses, big and small, to benefit from user feedback.<\/p>\n<p>Try it for yourself on the <a href=\"https:\/\/contentkit.app\" rel=\"nofollow ugc\">Content Kit website<\/a>.<\/p>\n<h3>Account requirement<\/h3>\n<p>This plugin requires a <a href=\"https:\/\/contentkit.app\" rel=\"nofollow ugc\">Content Kit account<\/a>. We offer a free starter plan, which includes basic features for small websites and personal projects.<\/p>\n<h3>Features you need without the complexity<\/h3>\n<p>Don\u2019t put it off any longer! Start collecting user feedback today to find out what your users are thinking.<\/p>\n<ul>\n<li>\n<p><strong>Rating style<\/strong> \u2013 choose from stars, hearts, or emojis to match the style and mood of your website.<\/p>\n<\/li>\n<li>\n<p><strong>Text highlighting<\/strong> \u2013 users can highlight text to pinpoint the words that work and those that don\u2019t so you know exactly what to improve.<\/p>\n<\/li>\n<li>\n<p><strong>Compatibility<\/strong> \u2013 Content Kit works with every type of website \u2013 on desktop and mobile.<\/p>\n<\/li>\n<li>\n<p><strong>Customization<\/strong> \u2013 customize the feedback button, banner and messages to suit the voice and tone of your website. We also support dark mode.<\/p>\n<\/li>\n<li>\n<p><strong>Notifications<\/strong> \u2013 get real-time feedback notifications by email or Microsoft Teams on our paid plans, and usage alerts if you\u2019re nearing your plan limits.<\/p>\n<\/li>\n<li>\n<p><strong>Simplicity<\/strong> \u2013 our intuitive design reduces friction for your users and makes it easy for you to setup and use.<\/p>\n<\/li>\n<li>\n<p><strong>Team members<\/strong> \u2013 share insights with your team members without any extra cost.<\/p>\n<\/li>\n<\/ul>\n<h3>A better experience for your users<\/h3>\n<p>User experience matters when you\u2019re collecting feedback. Content Kit makes it quick and easy for users to leave feedback and follows best practice design.<\/p>\n<p><strong>Frustration-free<\/strong><br \/>\nMinimize frustration to maximize feedback. Users hate being interrupted with popups and wordy surveys. Content Kit offers an alternative that\u2019s there when they need it without getting in the way.<\/p>\n<p><strong>Feedback options<\/strong><br \/>\nUsers can express their thoughts and feelings in a way that works for them, whether that\u2019s a rating from 1 to 5, a thumb up or thumb down, or general comment on a page.<\/p>\n<p><strong>Anonymous<\/strong><br \/>\nReduce friction for users to leave feedback and protect their privacy. By not collecting personal information, it&#8217;s a lot easier to comply with data protection requirements.<\/p>\n<h3>Why Content Kit<\/h3>\n<p>Content Kit is the easiest way to collect feedback and gives you everything you need to start improving your site.<\/p>\n<p><strong>Highlight and react<\/strong><br \/>\nOur unique text-highlighting feature allows users to leave a thumb up or thumb down reaction. Highlighting helps to pinpoint the problem so you know exactly what the user is referring to and what to fix.<\/p>\n<p><strong>Privacy<\/strong><br \/>\nContent Kit was designed with privacy in mind. The insights we collect are anonymous so you don\u2019t need to worry about handling or storing personal information like names and email addresses.<\/p>\n<p><strong>Transparency<\/strong><br \/>\nWe respect your time. We won\u2019t make you sign up for a demo to see our product or pricing. You can <a href=\"https:\/\/contentkit.app\" rel=\"nofollow ugc\">leave feedback on our website<\/a> to see what it\u2019s like or try our free plan.<\/p>\n<h3>Documentation and support<\/h3>\n<p>For guidance on installation or setup, refer to our <a href=\"https:\/\/contentkit.app\/docs\" rel=\"nofollow ugc\">documentation<\/a>. For additional support, please <a href=\"https:\/\/contentkit.app\/contact\" rel=\"nofollow ugc\">contact us<\/a>.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/content-kit.1.0.0.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/content-kit\/assets\/screenshot-1.png?rev=3067257",
+            "caption": "Users can highlight text on your WordPress site to leave a reaction or comment."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/content-kit\/assets\/screenshot-2.png?rev=3067257",
+            "caption": "Choose a rating style \u2013 stars, hearts or emojis \u2013 to match your site's design."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/content-kit\/assets\/screenshot-3.png?rev=3067257",
+            "caption": "Sign in to contentkit.app to customize the feedback tool."
+        }
+    },
+    "tags": {
+        "feedback": "feedback",
+        "feedback-widget": "feedback widget",
+        "rating": "rating",
+        "reaction": "reaction",
+        "user-feedback": "user feedback"
+    },
+    "stable_tag": "1.0.0",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/content-kit.1.0.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/content-kit.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/content-kit\/assets\/banner-772x250.png?rev=3067257",
+        "high": "https:\/\/ps.w.org\/content-kit\/assets\/banner-1544x500.png?rev=3067257"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/content-kit\/assets\/icon-128x128.png?rev=3067257",
+        "2x": "https:\/\/ps.w.org\/content-kit\/assets\/icon-256x256.png?rev=3067257"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

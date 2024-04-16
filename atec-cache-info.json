@@ -1,0 +1,95 @@
+{
+    "name": "atec Cache Info",
+    "slug": "atec-cache-info",
+    "version": "1.3.9",
+    "author": "<a href=\"https:\/\/atec-systems.com\">Chris Ahrweiler<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/docjojo\/",
+    "contributors": {
+        "docjojo": {
+            "profile": "https:\/\/profiles.wordpress.org\/docjojo\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/d46b37ecc530a5137cc004e3f59b3dea?s=96&d=monsterid&r=g",
+            "display_name": "docjojo"
+        }
+    },
+    "requires": "5.2",
+    "tested": "6.5.2",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 2,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 2,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/atec-cache-info\/",
+    "support_threads": 1,
+    "support_threads_resolved": 1,
+    "active_installs": 200,
+    "downloaded": 3300,
+    "last_updated": "2024-04-14 5:07pm GMT",
+    "added": "2023-05-23",
+    "homepage": "https:\/\/atec-systems.com\/",
+    "sections": {
+        "description": "<p>This plugin provides detailed status information and statistics for PHP cache features, namely OPcache, WP-object-cache, JIT, APCu, Memcached, Redis and SQLite-object-cache.<\/p>\n<p>Use this plugin to check important server and cache settings to improve the performance of your WordPress installation.<\/p>\n",
+        "installation": "<ol>\n<li>Upload the plugin folder to the <code>\/wp-content\/plugins\/<\/code> directory or upload the zip within WordPress<\/li>\n<li>Activate the plugin through the <code>Plugins<\/code> menu in WordPress<\/li>\n<li>Click &#8220;atec Cache Info&#8221; link in admin menu bar.<\/li>\n<\/ol>\n",
+        "changelog": "<h4>1.3.6, 1.3.7-1.3.9 [2024.04.11]<\/h4>\n<ul>\n<li>redis unix socket<\/li>\n<\/ul>\n<h4>1.3.5 [2024.04.06]<\/h4>\n<ul>\n<li>bug fix and icons<\/li>\n<\/ul>\n<h4>1.3.4 [2024.04.02]<\/h4>\n<ul>\n<li>PHPinfo<\/li>\n<\/ul>\n<h4>1.3.3 [2024.04.01]<\/h4>\n<ul>\n<li>requestUrl |\u00a0port<\/li>\n<\/ul>\n<h4>1.3.1, 1.3.2 [2024.03.29]<\/h4>\n<ul>\n<li>OPcache bug fix<\/li>\n<\/ul>\n<h4>1.3.0 [2024.03.28]<\/h4>\n<ul>\n<li>tabs<\/li>\n<\/ul>\n<h4>1.2.9 [2024.03.27]<\/h4>\n<ul>\n<li>new grid<\/li>\n<\/ul>\n<h4>1.2.8 [2024.03.24]<\/h4>\n<ul>\n<li>admin menu atec group<\/li>\n<\/ul>\n<h4>1.2.7 [2024.03.23]<\/h4>\n<ul>\n<li>ob_flush bug fix and new styling<\/li>\n<\/ul>\n<h4>1.2.5 [2024.03.23]<\/h4>\n<ul>\n<li>new styles, SVG, Memory usage<\/li>\n<\/ul>\n<h4>1.2.3, 1.2.4 [2024.03.18]<\/h4>\n<ul>\n<li>new slug check<\/li>\n<\/ul>\n<h4>1.2.2 [2024.03.15]<\/h4>\n<ul>\n<li>new atec-style<\/li>\n<\/ul>\n<h4>1.2.1 [2024.03.13]<\/h4>\n<ul>\n<li>changes according to plugin check<\/li>\n<\/ul>\n<h4>1.1.7, 1.2 [2024.02.21]<\/h4>\n<p>Tested up to: 6.5, minor fixes<\/p>\n<h4>1.1.6 [2023.09.14]<\/h4>\n<ul>\n<li>woocommerce Styles<\/li>\n<\/ul>\n<h4>1.1.5 [2023.07.21]<\/h4>\n<ul>\n<li>Tested with WP 6.3<\/li>\n<\/ul>\n<h4>1.1.4 [2023.06.29]<\/h4>\n<ul>\n<li>Additional php.ini info <\/li>\n<\/ul>\n<h4>1.1.3 [2023.06.26]<\/h4>\n<ul>\n<li>Memcached fix<\/li>\n<\/ul>\n<h4>1.1.2 [2023.06.26]<\/h4>\n<ul>\n<li>JIT check added<\/li>\n<\/ul>\n<h4>1.1.1 [2023.06.14]<\/h4>\n<ul>\n<li>Tested with WP 6.2.2<\/li>\n<\/ul>\n<h4>1.1.1 [2023.05.09]<\/h4>\n<ul>\n<li>Changes requested by wordpress.org in review process<\/li>\n<\/ul>\n<h4>1.1 [2023.05.06]<\/h4>\n<ul>\n<li>Changes requested by wordpress.org in review process<\/li>\n<\/ul>\n<h4>1.0 [2023.04.07]<\/h4>\n<ul>\n<li>Initial Release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/atec-cache-info\/assets\/screenshot-1.png?rev=3065981\"><img src=\"https:\/\/ps.w.org\/atec-cache-info\/assets\/screenshot-1.png?rev=3065981\" alt=\"Statistics\"><\/a><p>Statistics<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">no problem<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/sepicompanywork\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/6a99ebaf15d79e2506ba991a2befa887?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/6a99ebaf15d79e2506ba991a2befa887?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/sepicompanywork\/\" class=\"reviewer-name\">sepicompanywork<\/a> on <span class=\"review-date\">June 6, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>i didn't see any problem. plugin show website have memchache or not and opcach and more...<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great tool for cache analysis<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/docjojo\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d46b37ecc530a5137cc004e3f59b3dea?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d46b37ecc530a5137cc004e3f59b3dea?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/docjojo\/\" class=\"reviewer-name\">docjojo<\/a> on <span class=\"review-date\">May 23, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Provides an overview of all cache features enabled in WordPress, namely OPcache, WP-object-cache, APCu, Memcached, Redis and SQLite-object-cache.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "atec Cache Info &amp; Statistics \n(OPcache, WP-object-cache, JIT, APCu, Memcached, Redis, SQLite-object-cache)",
+    "description": "<p>This plugin provides detailed status information and statistics for PHP cache features, namely OPcache, WP-object-cache, JIT, APCu, Memcached, Redis and SQLite-object-cache.<\/p>\n<p>Use this plugin to check important server and cache settings to improve the performance of your WordPress installation.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/atec-cache-info.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/atec-cache-info\/assets\/screenshot-1.png?rev=3065981",
+            "caption": "Statistics"
+        }
+    },
+    "tags": {
+        "apcu": "apcu",
+        "memcached": "memcached",
+        "object-cache": "object cache",
+        "opcache": "OPcache",
+        "redis": "redis"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/www.paypal.com\/paypalme\/atecsystems\/5eur",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/atec-cache-info\/assets\/banner-772x250.png?rev=2916484",
+        "high": "https:\/\/ps.w.org\/atec-cache-info\/assets\/banner-1544x500.png?rev=2916484"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/atec-cache-info\/assets\/icon.svg?rev=2916484",
+        "svg": "https:\/\/ps.w.org\/atec-cache-info\/assets\/icon.svg?rev=2916484"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [
+        {
+            "filename": "blueprint.json",
+            "url": "https:\/\/wordpress.org\/plugins\/wp-json\/plugins\/v1\/plugin\/atec-cache-info\/blueprint.json?rev=3070281"
+        }
+    ],
+    "preview_link": "https:\/\/wordpress.org\/plugins\/atec-cache-info\/?preview=1",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "atec-cache-info",
+            "language": "nl_BE",
+            "version": "1.3.4",
+            "updated": "2024-03-15 05:39:46",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/atec-cache-info\/1.3.4\/nl_BE.zip"
+        }
+    ]
+}

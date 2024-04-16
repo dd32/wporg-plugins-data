@@ -1,0 +1,112 @@
+{
+    "name": "Auto Post Scheduler &amp; Poster for Blog to Social Media Share &#8211; Bit Social (Beta)",
+    "slug": "bit-social",
+    "version": "1.0.10",
+    "author": "<a href=\"https:\/\/bitapps.pro\">Bit Apps<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/bitpressadmin\/",
+    "contributors": {
+        "bitpressadmin": {
+            "profile": "https:\/\/profiles.wordpress.org\/bitpressadmin\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/66f7b769ff540651baa9a92834a49b1f?s=96&d=monsterid&r=g",
+            "display_name": "Bit Apps"
+        }
+    },
+    "requires": "5.1",
+    "tested": "6.4.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/bit-social\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 10,
+    "downloaded": 1371,
+    "last_updated": "2024-03-14 9:37am GMT",
+    "added": "2023-10-09",
+    "homepage": "https:\/\/bitapps.pro\/bit-social",
+    "sections": {
+        "description": "<p><strong><em>Note: This is the very first version of Bit Social that is still under development. While we have made significant efforts to assure stability and operation, specific bugs or errors may still exist. We appreciate your views and recommendations to help us improve Bit Social even more <a href=\"https:\/\/bitapps.pro\/contact\/\" rel=\"nofollow ugc\">Contact Us<\/a>. Doc and Pro version still under development<\/em><\/strong><\/p>\n<p>Best Auto Social Media Poster plugin for WordPress. It helps you to share your WordPress post on social media platform automatically. You can set schedule for each social media.<\/p>\n<p>Every single wp post share many platform like Facebook, Twitter, Instagram and manage theme manually is very difficult. Here&#8217;s come Bit Social, this plugin make your life easy and save your time. You can set schedule for each social media platform and it will share your post automatically.<\/p>\n<p>User can manage all social media platform from one place.<\/p>\n<p>\ud83d\udce2\ufe0e <strong>Join our community <a href=\"https:\/\/www.facebook.com\/groups\/bitapps\" rel=\"nofollow ugc\">Bit Social<\/a> &amp; get updates on our plugins.<\/strong><\/p>\n<h3>\u267b\ufe0e How does this plugin work?<\/h3>\n<p>This plugin acts as a bridge between platforms and WordPress post. First, user need create a schedule for platform and it will share wp post automatically according to schedule time and date. User send wp post to multiple platform at a time. User can also set sleep time for each platform.<\/p>\n<h3>Key Features:<\/h3>\n<ol>\n<li>Create schedule.<\/li>\n<li>Share post on Facebook.<\/li>\n<li>Field Mapping &amp; Custom value.<\/li>\n<li>Sleep time.<\/li>\n<li>Wp post filter<\/li>\n<li>Create Platform group.<\/li>\n<li>Show Specific Log<\/li>\n<\/ol>\n<h3>Some use cases below for more understanding about this plugin<\/h3>\n<ol>\n<li>\n<p>User want to share Wp post on Facebook, Twitter, Instagram. User can create schedule for each platform and it will share wp post automatically according to schedule time and date.<\/p>\n<\/li>\n<li>\n<p>User want to share one date to another date. User can filter wp post by date and it will share only those post which is created between selected date.<\/p>\n<\/li>\n<li>\n<p>User can delay post share time for each platform by setting sleep time.<\/p>\n<\/li>\n<\/ol>\n<h3>Key Benefits of Plugin :<\/h3>\n<ol>\n<li>\n<p>Save time: User can share wp post on Facebook, Twitter, Instagram platform at a time. It will save user time.<\/p>\n<\/li>\n<li>\n<p>Easy to use: User can create schedule for each platform and it will share wp post automatically according to schedule time and date.<\/p>\n<\/li>\n<li>\n<p>No coding required: It is really simple and easy to use. No coding required.<\/p>\n<\/li>\n<\/ol>\n<p>Overview of other products we are offering :<\/p>\n<p><a href=\"https:\/\/wordpress.org\/plugins\/bit-form\/\" rel=\"ugc\"><strong>Bit Form<\/strong><\/a>: One of our bestselling product. Bit Form is an amazing drag &amp; drop form builder that allows you to create custom forms to interact with your visitors. It gives you the freedom to create any form you want, with no coding required.<\/p>\n<p><a href=\"https:\/\/wordpress.org\/plugins\/bit-assist\/\" rel=\"ugc\"><strong>Bit Assist<\/strong><\/a>: Connect with your visitor using their favorite Facebook Messenger, WhatsApp, Tawk to, Telegram, Viber, Slack, etc. You can also use custom form, custom link, and many more facilities to interact with all your users.<\/p>\n<p><a href=\"https:\/\/wordpress.org\/plugins\/file-manager\/\" rel=\"ugc\"><strong>Bit File Manager<\/strong><\/a>: Most robust and powerful file manager plugin for WordPress. You can upload, delete, copy, move, rename, archive, and extract files with the file manager plugin. You don\u2019t need to worry about FTP anymore. It is really simple and easy to use. 100% free file manager for WordPress<\/p>\n<p><a href=\"https:\/\/wordpress.org\/plugins\/bit-smtp\/\" rel=\"ugc\"><strong>Bit SMTP<\/strong><\/a>: The ultimate goal of Bit SMTP plugin to make your email deliverability more easy as well as secure.<\/p>\n<p><a href=\"https:\/\/webhook.is\/\" rel=\"nofollow ugc\"><strong>Webhook.is<\/strong><\/a>: Test your incoming and outgoing <a href=\"https:\/\/webhook.is\/difference-between-webhook-and-api\" rel=\"nofollow ugc\"><strong>webhook<\/strong><\/a> free.<\/p>\n<p>loudspeaker <strong>We are open for freelance work\/custom development. <a href=\"https:\/\/bitapps.pro\/contact\" rel=\"nofollow ugc\">Connect<\/a> with us for further information.<\/strong><\/p>\n",
+        "installation": "<ol>\n<li>Download the plugin.<\/li>\n<li>From the WordPress Admin Panel, click on Plugins =&gt; Add New.<\/li>\n<li>Click on Upload, so you can directly upload your plugin zip file.<\/li>\n<li>Use the browse button to select the plugin zip file that was downloaded, and then click on Install Now.<\/li>\n<li>Once installed, click \u201cActivate\u201d.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='1.%20what%20is%20bit%20social%3F'>\n1. What is Bit Social?\n<\/h4>\n<p>\n<p>Bit Social is a WordPress plugin that helps you to share your WordPress post on social media platform automatically. You can set schedule for each social media.<\/p>\n<\/p>\n<dt id='2.%20what%20kind%20of%20tasks%20does%20bit%20social%3F'>\n2. What kind of tasks does Bit Social?\n<\/h4>\n<p>\n<p>Bit Social share wp post on Facebook, Twitter, Instagram automatically according to schedule time and date.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>v1.0.10 (March 13, 2024)<\/h4>\n<ul>\n<li>Fix:\n<ul>\n<li>Facebook custom app connect.<\/li>\n<li>Schedule post issue.<\/li>\n<\/ul>\n<\/li>\n<li>Improvement:\n<ul>\n<li>Share now single platform select.<\/li>\n<\/ul>\n<\/li>\n<\/ul>\n<h4>v1.0.9 (March 04, 2024)<\/h4>\n<ul>\n<li>Feature:\n<ul>\n<li>Display accounts using a tree structure in auto post.<\/li>\n<li>Enable filtering of posts by selecting their titles in Schedule Modal.<\/li>\n<\/ul>\n<\/li>\n<li>Fix:\n<ul>\n<li>Status complete when filter post are published in social Media.<\/li>\n<li>Solve Z-index issue.<\/li>\n<li>Auto-post functionality error.<\/li>\n<li>Addressed the issue with custom messages in the scheduling modal.<\/li>\n<li>Updated the next post Schedule timing.<\/li>\n<\/ul>\n<\/li>\n<li>Improvement:\n<ul>\n<li>Select platform from share now modal and style updated.<\/li>\n<\/ul>\n<\/li>\n<\/ul>\n<h4>v1.0.8 (Feb 08, 2024)<\/h4>\n<ul>\n<li>Feature:\n<ul>\n<li>Account active and disable globally<\/li>\n<\/ul>\n<\/li>\n<li>Fix:\n<ul>\n<li>Share now media upload replaced with wp.media<\/li>\n<li>Account type issue, table deselect<\/li>\n<li>Schedule time &amp; calender modal issue<\/li>\n<\/ul>\n<\/li>\n<li>Improvement:\n<ul>\n<li>Fetch account, show &amp; sanitization<\/li>\n<li>Account removed from schedules<\/li>\n<\/ul>\n<\/li>\n<\/ul>\n<h4>v1.0.7 (Jan 24, 2024)<\/h4>\n<ul>\n<li>Fix:\n<ul>\n<li>Schedule table pagination<\/li>\n<li>Share Now table pagination<\/li>\n<li>Log table pagination<\/li>\n<li>JS warning<\/li>\n<\/ul>\n<\/li>\n<\/ul>\n<h4>v1.0.6 (Jan 23, 2024)<\/h4>\n<ul>\n<li>Improvement:\n<ul>\n<li>Schedule crud ux improved<\/li>\n<\/ul>\n<\/li>\n<li>Fix:\n<ul>\n<li>Linkedin integration warring in backend fixed<\/li>\n<li>Share now status change bug fixed<\/li>\n<li>Schedule list not showing in calendar<\/li>\n<\/ul>\n<\/li>\n<\/ul>\n<h4>v1.0.4<\/h4>\n<ul>\n<li>Improvement:\n<ul>\n<li>LinkedIn authorization updated<\/li>\n<li>Schedule status not change issue fixed<\/li>\n<\/ul>\n<\/li>\n<\/ul>\n<h4>v1.0.0<\/h4>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/bit-social\/assets\/screenshot-1.png?rev=3021907\"><img src=\"https:\/\/ps.w.org\/bit-social\/assets\/screenshot-1.png?rev=3021907\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/bit-social\/assets\/screenshot-2.png?rev=3021907\"><img src=\"https:\/\/ps.w.org\/bit-social\/assets\/screenshot-2.png?rev=3021907\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/bit-social\/assets\/screenshot-3.png?rev=3021907\"><img src=\"https:\/\/ps.w.org\/bit-social\/assets\/screenshot-3.png?rev=3021907\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/bit-social\/assets\/screenshot-4.png?rev=3021907\"><img src=\"https:\/\/ps.w.org\/bit-social\/assets\/screenshot-4.png?rev=3021907\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/bit-social\/assets\/screenshot-5.png?rev=3021907\"><img src=\"https:\/\/ps.w.org\/bit-social\/assets\/screenshot-5.png?rev=3021907\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Auto Post, Schedule &amp; Share WordPress post to Facebook, LinkedIn, Twitter with Bit Social Auto Poster. Scheduling &amp; Share post on social media easily.",
+    "description": "<p><strong><em>Note: This is the very first version of Bit Social that is still under development. While we have made significant efforts to assure stability and operation, specific bugs or errors may still exist. We appreciate your views and recommendations to help us improve Bit Social even more <a href=\"https:\/\/bitapps.pro\/contact\/\" rel=\"nofollow ugc\">Contact Us<\/a>. Doc and Pro version still under development<\/em><\/strong><\/p>\n<p>Best Auto Social Media Poster plugin for WordPress. It helps you to share your WordPress post on social media platform automatically. You can set schedule for each social media.<\/p>\n<p>Every single wp post share many platform like Facebook, Twitter, Instagram and manage theme manually is very difficult. Here&#8217;s come Bit Social, this plugin make your life easy and save your time. You can set schedule for each social media platform and it will share your post automatically.<\/p>\n<p>User can manage all social media platform from one place.<\/p>\n<p>\ud83d\udce2\ufe0e <strong>Join our community <a href=\"https:\/\/www.facebook.com\/groups\/bitapps\" rel=\"nofollow ugc\">Bit Social<\/a> &amp; get updates on our plugins.<\/strong><\/p>\n<h3>\u267b\ufe0e How does this plugin work?<\/h3>\n<p>This plugin acts as a bridge between platforms and WordPress post. First, user need create a schedule for platform and it will share wp post automatically according to schedule time and date. User send wp post to multiple platform at a time. User can also set sleep time for each platform.<\/p>\n<h3>Key Features:<\/h3>\n<ol>\n<li>Create schedule.<\/li>\n<li>Share post on Facebook.<\/li>\n<li>Field Mapping &amp; Custom value.<\/li>\n<li>Sleep time.<\/li>\n<li>Wp post filter<\/li>\n<li>Create Platform group.<\/li>\n<li>Show Specific Log<\/li>\n<\/ol>\n<h3>Some use cases below for more understanding about this plugin<\/h3>\n<ol>\n<li>\n<p>User want to share Wp post on Facebook, Twitter, Instagram. User can create schedule for each platform and it will share wp post automatically according to schedule time and date.<\/p>\n<\/li>\n<li>\n<p>User want to share one date to another date. User can filter wp post by date and it will share only those post which is created between selected date.<\/p>\n<\/li>\n<li>\n<p>User can delay post share time for each platform by setting sleep time.<\/p>\n<\/li>\n<\/ol>\n<h3>Key Benefits of Plugin :<\/h3>\n<ol>\n<li>\n<p>Save time: User can share wp post on Facebook, Twitter, Instagram platform at a time. It will save user time.<\/p>\n<\/li>\n<li>\n<p>Easy to use: User can create schedule for each platform and it will share wp post automatically according to schedule time and date.<\/p>\n<\/li>\n<li>\n<p>No coding required: It is really simple and easy to use. No coding required.<\/p>\n<\/li>\n<\/ol>\n<p>Overview of other products we are offering :<\/p>\n<p><a href=\"https:\/\/wordpress.org\/plugins\/bit-form\/\" rel=\"ugc\"><strong>Bit Form<\/strong><\/a>: One of our bestselling product. Bit Form is an amazing drag &amp; drop form builder that allows you to create custom forms to interact with your visitors. It gives you the freedom to create any form you want, with no coding required.<\/p>\n<p><a href=\"https:\/\/wordpress.org\/plugins\/bit-assist\/\" rel=\"ugc\"><strong>Bit Assist<\/strong><\/a>: Connect with your visitor using their favorite Facebook Messenger, WhatsApp, Tawk to, Telegram, Viber, Slack, etc. You can also use custom form, custom link, and many more facilities to interact with all your users.<\/p>\n<p><a href=\"https:\/\/wordpress.org\/plugins\/file-manager\/\" rel=\"ugc\"><strong>Bit File Manager<\/strong><\/a>: Most robust and powerful file manager plugin for WordPress. You can upload, delete, copy, move, rename, archive, and extract files with the file manager plugin. You don\u2019t need to worry about FTP anymore. It is really simple and easy to use. 100% free file manager for WordPress<\/p>\n<p><a href=\"https:\/\/wordpress.org\/plugins\/bit-smtp\/\" rel=\"ugc\"><strong>Bit SMTP<\/strong><\/a>: The ultimate goal of Bit SMTP plugin to make your email deliverability more easy as well as secure.<\/p>\n<p><a href=\"https:\/\/webhook.is\/\" rel=\"nofollow ugc\"><strong>Webhook.is<\/strong><\/a>: Test your incoming and outgoing <a href=\"https:\/\/webhook.is\/difference-between-webhook-and-api\" rel=\"nofollow ugc\"><strong>webhook<\/strong><\/a> free.<\/p>\n<p>loudspeaker <strong>We are open for freelance work\/custom development. <a href=\"https:\/\/bitapps.pro\/contact\" rel=\"nofollow ugc\">Connect<\/a> with us for further information.<\/strong><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/bit-social.1.0.10.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/bit-social\/assets\/screenshot-1.png?rev=3021907",
+            "caption": ""
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/bit-social\/assets\/screenshot-2.png?rev=3021907",
+            "caption": ""
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/bit-social\/assets\/screenshot-3.png?rev=3021907",
+            "caption": ""
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/bit-social\/assets\/screenshot-4.png?rev=3021907",
+            "caption": ""
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/bit-social\/assets\/screenshot-5.png?rev=3021907",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "auto-post": "auto post",
+        "automation": "automation",
+        "post-schedule": "post schedule",
+        "social-media-scheduling": "social media scheduling",
+        "social-share": "social share"
+    },
+    "stable_tag": "1.0.10",
+    "versions": {
+        "0.1.0": "https:\/\/downloads.wordpress.org\/plugin\/bit-social.0.1.0.zip",
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/bit-social.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/bit-social.1.0.1.zip",
+        "1.0.10": "https:\/\/downloads.wordpress.org\/plugin\/bit-social.1.0.10.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/bit-social.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/bit-social.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/bit-social.1.0.4.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/bit-social.1.0.5.zip",
+        "1.0.6": "https:\/\/downloads.wordpress.org\/plugin\/bit-social.1.0.6.zip",
+        "1.0.7": "https:\/\/downloads.wordpress.org\/plugin\/bit-social.1.0.7.zip",
+        "1.0.8": "https:\/\/downloads.wordpress.org\/plugin\/bit-social.1.0.8.zip",
+        "1.0.9": "https:\/\/downloads.wordpress.org\/plugin\/bit-social.1.0.9.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/bit-social.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/bit-social\/assets\/banner-772x250.gif?rev=3021907",
+        "high": "https:\/\/ps.w.org\/bit-social\/assets\/banner-1544x500.gif?rev=3021907"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/bit-social\/assets\/icon-128x128.gif?rev=3025613",
+        "2x": "https:\/\/ps.w.org\/bit-social\/assets\/icon-256x256.gif?rev=3025613"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

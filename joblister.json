@@ -1,0 +1,134 @@
+{
+    "name": "JobLister",
+    "slug": "joblister",
+    "version": "1.0.1",
+    "author": "<a href=\"https:\/\/www.msof.me\/\">Marios Sofokleous<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/msofokleous\/",
+    "contributors": {
+        "msofokleous": {
+            "profile": "https:\/\/profiles.wordpress.org\/msofokleous\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/c63b946850fd53479d5d785159c0741f?s=96&d=monsterid&r=g",
+            "display_name": "Marios Sofokleous"
+        }
+    },
+    "requires": "5.6",
+    "tested": "6.4.4",
+    "requires_php": "7.2",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/joblister\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 112,
+    "last_updated": "2024-03-14 7:27pm GMT",
+    "added": "2024-03-08",
+    "homepage": "https:\/\/github.com\/PictureElement\/joblister",
+    "sections": {
+        "description": "<p>JobLister is a free and open-source WordPress plugin that allows you to set up a job listing page on your WordPress website using a simple [jbls_jobs] shortcode. The plugin is powered by React and functions as a Single-page app, providing a range of features including a search functionality, filters, an application form, and a RTL-ready design.<\/p>\n<p><strong><a href=\"https:\/\/joblister.msof.me\/\" rel=\"nofollow ugc\">View Demo<\/a><\/strong><\/p>\n<h4>Features<\/h4>\n<ul>\n<li><strong>Free and Open Source:<\/strong> Collaborate to improve JobLister with the community.<\/li>\n<li><strong>Single Page Application with React:<\/strong> Offers lightning-fast interactions and a seamless user experience.<\/li>\n<li><strong>Versatile Job Listings Display:<\/strong>\n<ul>\n<li><strong>Overview Mode:<\/strong> List jobs with search and filter capabilities.<\/li>\n<li><strong>Detail Mode:<\/strong> View job details and apply directly.<\/li>\n<\/ul>\n<\/li>\n<li><strong>Efficient Job Search and Filter Functionality:<\/strong> Narrow down job searches by keywords, categories, location, type, and experience.<\/li>\n<li><strong>Customization Settings:<\/strong> Personalize the appearance and functionality with an intuitive settings page.<\/li>\n<li><strong>No Account Required:<\/strong> Applicants can submit job applications without the need to log in, ensuring a user-friendly and accessible process.<\/li>\n<li><strong>Convenient Pagination:<\/strong> Navigate through job listings with ease.<\/li>\n<li><strong>Sharable Links:<\/strong> Share job listings with others through shareable links.<\/li>\n<li><strong>Application Form:<\/strong> Apply easily using a form protected by Google reCAPTCHA.<\/li>\n<li><strong>Responsive Design:<\/strong> Ensures a seamless experience across all devices.<\/li>\n<li><strong>RTL-Ready Design:<\/strong> Supports Right-to-Left languages.<\/li>\n<\/ul>\n",
+        "installation": "<h4>Install JobLister from within WordPress<\/h4>\n<ol>\n<li>Visit the &#8216;Plugins&#8217; menu within your dashboard and select \u2018Add New Plugin\u2019.<\/li>\n<li>Search for \u2018JobLister\u2019.<\/li>\n<li>Install the JobLister plugin.<\/li>\n<li>Go to \u2018After installation\u2019 below.<\/li>\n<\/ol>\n<h4>Install JobLister manually<\/h4>\n<ol>\n<li>Upload the \u2018joblister\u2019 folder to the <code>\/wp-content\/plugins\/<\/code> directory.<\/li>\n<li>Activate the JobLister plugin through the \u2018Plugins\u2019 menu within your dashboard.<\/li>\n<li>Go to \u2018After activation\u2019 below.<\/li>\n<\/ol>\n<h4>After installation<\/h4>\n<ol>\n<li>Visit the &#8216;Plugins&#8217; menu within your dashboard and select &#8216;Add New Plugin&#8217;.<\/li>\n<li>Search for &#8216;Radio Buttons for Taxonomies&#8217;.<\/li>\n<li>Install and activate the Radio Buttons for Taxonomies plugin, a required dependency for JobLister to function correctly.<\/li>\n<li>Visit &#8216;Settings &gt; Radio Buttons for Taxonomies&#8217; within your dashboard, and select <code>jbls_category<\/code>, <code>jbls_experience_level<\/code>, <code>jbls_location<\/code>, and <code>jbls_type<\/code>. Then, save your changes.<\/li>\n<li><a href=\"http:\/\/www.google.com\/recaptcha\/admin\" rel=\"nofollow ugc\">Sign up for a Google reCAPTCHA API key pair<\/a> for your site, choosing &#8216;reCAPTCHA v2, Invisible&#8217;. Note down the API Site Key.<\/li>\n<li>Visit &#8216;Jobs &gt; Settings&#8217; within your dashboard and enter the noted reCAPTCHA API Site Key.<\/li>\n<li>Take a few minutes to adjust the rest of the settings to your liking.<\/li>\n<li>Insert the [jbls_jobs] shortcode on any page.<\/li>\n<li>You&#8217;re done!<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='can%20i%20contribute%20to%20joblister%3F'>\nCan I contribute to JobLister?\n<\/h4>\n<p>\n<p>Yes, we welcome contributions. Please refer to the <a href=\"https:\/\/github.com\/PictureElement\/joblister#contributing\" rel=\"nofollow ugc\">Contributing<\/a> section in the GitHub repository&#8217;s <code>README.md<\/code> file.<\/p>\n<\/p>\n<dt id='can%20i%20customize%20the%20look%20and%20feel%20of%20the%20joblister%20plugin%20to%20match%20my%20site%27s%20design%3F'>\nCan I customize the look and feel of the JobLister plugin to match my site&#8217;s design?\n<\/h4>\n<p>\n<p>Absolutely! JobLister comes with an intuitive settings page that allows you to fine-tune the appearance to seamlessly blend with your site\u2019s design.<\/p>\n<p>For experienced developers, JobLister offers enhanced flexibility: it employs Sass in accordance with the BEM methodology, facilitating extensive and systematic customization.<\/p>\n<\/p>\n<dt id='what%20fields%20are%20included%20in%20the%20application%20form%3F'>\nWhat fields are included in the application form?\n<\/h4>\n<p>\n<p>The application form is designed to collect essential information from job applicants. It includes fields for the applicant&#8217;s name, email address, a section for a cover letter, a resume upload option, and a consent checkbox to ensure compliance with privacy regulations.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.1<\/h4>\n<ul>\n<li>Remove custom color property from .jbls-select__multi-value__label.<\/li>\n<li>Remove border style on select input control option when focused.<\/li>\n<li>Replace Twitter&#8217;s original icon with &#8216;X&#8217; icon.<\/li>\n<li>Add demo page link to readme.<\/li>\n<li>Append a trailing slash to the end of the default privacy policy URL.<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Initial release.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-1.png?rev=3051303\"><img src=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-1.png?rev=3051303\" alt=\"Job Listings, Search &amp; Filters - Light Theme\"><\/a><p>Job Listings, Search &amp; Filters - Light Theme<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-2.png?rev=3051303\"><img src=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-2.png?rev=3051303\" alt=\"Job Listings, Search &amp; Filters - Dark Theme\"><\/a><p>Job Listings, Search &amp; Filters - Dark Theme<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-3.png?rev=3051303\"><img src=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-3.png?rev=3051303\" alt=\"Single Job Listing With Application Form - Light Theme\"><\/a><p>Single Job Listing With Application Form - Light Theme<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-4.png?rev=3051303\"><img src=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-4.png?rev=3051303\" alt=\"Single Job Listing With Application Form - Dark Theme\"><\/a><p>Single Job Listing With Application Form - Dark Theme<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-5.png?rev=3051303\"><img src=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-5.png?rev=3051303\" alt=\"Successful Submission\"><\/a><p>Successful Submission<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-6.png?rev=3051303\"><img src=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-6.png?rev=3051303\" alt=\"Failed Submission\"><\/a><p>Failed Submission<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-7.png?rev=3051303\"><img src=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-7.png?rev=3051303\" alt=\"No Jobs Found After Filtering\"><\/a><p>No Jobs Found After Filtering<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-8.png?rev=3051303\"><img src=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-8.png?rev=3051303\" alt=\"No Jobs Found After Searching\"><\/a><p>No Jobs Found After Searching<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-9.png?rev=3051303\"><img src=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-9.png?rev=3051303\" alt=\"Jobs In WP Admin\"><\/a><p>Jobs In WP Admin<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-10.png?rev=3051303\"><img src=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-10.png?rev=3051303\" alt=\"Edit Job In WP Admin\"><\/a><p>Edit Job In WP Admin<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-11.png?rev=3051303\"><img src=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-11.png?rev=3051303\" alt=\"Applications In WP Admin\"><\/a><p>Applications In WP Admin<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-12.png?rev=3051303\"><img src=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-12.png?rev=3051303\" alt=\"Edit Application In WP Admin\"><\/a><p>Edit Application In WP Admin<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-13.png?rev=3051303\"><img src=\"https:\/\/ps.w.org\/joblister\/assets\/screenshot-13.png?rev=3051303\" alt=\"Settings In WP Admin\"><\/a><p>Settings In WP Admin<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "JobLister is a free and open-source WordPress plugin that allows you to set up a job listing page on your WordPress website.",
+    "description": "<p>JobLister is a free and open-source WordPress plugin that allows you to set up a job listing page on your WordPress website using a simple [jbls_jobs] shortcode. The plugin is powered by React and functions as a Single-page app, providing a range of features including a search functionality, filters, an application form, and a RTL-ready design.<\/p>\n<p><strong><a href=\"https:\/\/joblister.msof.me\/\" rel=\"nofollow ugc\">View Demo<\/a><\/strong><\/p>\n<h4>Features<\/h4>\n<ul>\n<li><strong>Free and Open Source:<\/strong> Collaborate to improve JobLister with the community.<\/li>\n<li><strong>Single Page Application with React:<\/strong> Offers lightning-fast interactions and a seamless user experience.<\/li>\n<li><strong>Versatile Job Listings Display:<\/strong>\n<ul>\n<li><strong>Overview Mode:<\/strong> List jobs with search and filter capabilities.<\/li>\n<li><strong>Detail Mode:<\/strong> View job details and apply directly.<\/li>\n<\/ul>\n<\/li>\n<li><strong>Efficient Job Search and Filter Functionality:<\/strong> Narrow down job searches by keywords, categories, location, type, and experience.<\/li>\n<li><strong>Customization Settings:<\/strong> Personalize the appearance and functionality with an intuitive settings page.<\/li>\n<li><strong>No Account Required:<\/strong> Applicants can submit job applications without the need to log in, ensuring a user-friendly and accessible process.<\/li>\n<li><strong>Convenient Pagination:<\/strong> Navigate through job listings with ease.<\/li>\n<li><strong>Sharable Links:<\/strong> Share job listings with others through shareable links.<\/li>\n<li><strong>Application Form:<\/strong> Apply easily using a form protected by Google reCAPTCHA.<\/li>\n<li><strong>Responsive Design:<\/strong> Ensures a seamless experience across all devices.<\/li>\n<li><strong>RTL-Ready Design:<\/strong> Supports Right-to-Left languages.<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/joblister.1.0.1.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/joblister\/assets\/screenshot-1.png?rev=3051303",
+            "caption": "Job Listings, Search &amp; Filters - Light Theme"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/joblister\/assets\/screenshot-2.png?rev=3051303",
+            "caption": "Job Listings, Search &amp; Filters - Dark Theme"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/joblister\/assets\/screenshot-3.png?rev=3051303",
+            "caption": "Single Job Listing With Application Form - Light Theme"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/joblister\/assets\/screenshot-4.png?rev=3051303",
+            "caption": "Single Job Listing With Application Form - Dark Theme"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/joblister\/assets\/screenshot-5.png?rev=3051303",
+            "caption": "Successful Submission"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/joblister\/assets\/screenshot-6.png?rev=3051303",
+            "caption": "Failed Submission"
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/joblister\/assets\/screenshot-7.png?rev=3051303",
+            "caption": "No Jobs Found After Filtering"
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/joblister\/assets\/screenshot-8.png?rev=3051303",
+            "caption": "No Jobs Found After Searching"
+        },
+        "9": {
+            "src": "https:\/\/ps.w.org\/joblister\/assets\/screenshot-9.png?rev=3051303",
+            "caption": "Jobs In WP Admin"
+        },
+        "10": {
+            "src": "https:\/\/ps.w.org\/joblister\/assets\/screenshot-10.png?rev=3051303",
+            "caption": "Edit Job In WP Admin"
+        },
+        "11": {
+            "src": "https:\/\/ps.w.org\/joblister\/assets\/screenshot-11.png?rev=3051303",
+            "caption": "Applications In WP Admin"
+        },
+        "12": {
+            "src": "https:\/\/ps.w.org\/joblister\/assets\/screenshot-12.png?rev=3051303",
+            "caption": "Edit Application In WP Admin"
+        },
+        "13": {
+            "src": "https:\/\/ps.w.org\/joblister\/assets\/screenshot-13.png?rev=3051303",
+            "caption": "Settings In WP Admin"
+        }
+    },
+    "tags": {
+        "careers-page": "careers page",
+        "job-board": "job board",
+        "job-listing": "job listing",
+        "job-lists": "job lists",
+        "jobs": "jobs"
+    },
+    "stable_tag": "1.0.1",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/joblister.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/joblister.1.0.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/joblister.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/www.buymeacoffee.com\/msofokleous",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/joblister\/assets\/banner-772x250.jpg?rev=3048042",
+        "high": "https:\/\/ps.w.org\/joblister\/assets\/banner-1544x500.jpg?rev=3048042"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/joblister\/assets\/icon.svg?rev=3048042",
+        "svg": "https:\/\/ps.w.org\/joblister\/assets\/icon.svg?rev=3048042"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

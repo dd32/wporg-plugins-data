@@ -1,0 +1,282 @@
+{
+    "name": "Side Cart Woocommerce | Woocommerce Cart",
+    "slug": "side-cart-woocommerce",
+    "version": "2.4.9",
+    "author": "<a href=\"http:\/\/xootix.com\">XootiX<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/xootix\/",
+    "contributors": {
+        "xootix": {
+            "profile": "https:\/\/profiles.wordpress.org\/xootix\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/7eebab215ef2589ce3cd59449d5fa754?s=96&d=monsterid&r=g",
+            "display_name": "xootix"
+        }
+    },
+    "requires": "3.0.1",
+    "tested": "6.5.2",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 96,
+    "ratings": {
+        "5": 349,
+        "4": 8,
+        "3": 3,
+        "2": 9,
+        "1": 6
+    },
+    "num_ratings": 375,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/side-cart-woocommerce\/",
+    "support_threads": 11,
+    "support_threads_resolved": 4,
+    "active_installs": 70000,
+    "downloaded": 747084,
+    "last_updated": "2024-04-03 1:47pm GMT",
+    "added": "2017-04-24",
+    "homepage": "http:\/\/xootix.com\/side-cart-woocommerce",
+    "sections": {
+        "description": "<p><a href=\"http:\/\/demo.xootix.com\/side-cart-for-woocommerce\/\" rel=\"nofollow ugc\">Live Demo<\/a><\/p>\n<p>Say goodbye to your old cart page. Our sliding cart lets you add, see, and handle items without leaving your current page.<\/p>\n<p>\ud83d\udcb0 Real-time updates of your subtotal.<\/p>\n<p>\ud83d\udd04 Effortlessly add, or remove items from your cart.<\/p>\n<p>\ud83d\udcb3 Seamless checkout is just a click away.<\/p>\n<p>\ud83c\udf81 Apply Discounts and Promo Codes (pro)<\/p>\n<p>\ud83d\udcf1 Responsive design<\/p>\n<h4>Side Cart lite features<\/h4>\n<h3>Ajax-Based<\/h3>\n<p>Add products to your cart and effortlessly manage items, all without the need for page refreshing.<\/p>\n<h3>Cart Menu<\/h3>\n<p>You get a floating basket showing the number of items in your cart. Easily integrate it into your menu for quick access to the side cart<\/p>\n<h3>Customize the appearance<\/h3>\n<p>Craft your perfect side cart look with an abundance of styling choices. Achieve your desired design effortlessly by fine-tuning the settings.<\/p>\n<ul>\n<li>Different cart icons to choose from.<\/li>\n<li>Disable it on pages you don&#8217;t need.<\/li>\n<li>Show sale or regular price<\/li>\n<li>Set cart width, height, colors, layout almost everything.<br \/>\n&#8230;. and a lot more.<\/li>\n<\/ul>\n<h4>Side Cart pro features<\/h4>\n<p><a href=\"https:\/\/xootix.Com\/plugins\/side-cart-for-woocommerce\/\" rel=\"nofollow ugc\">Upgrade<\/a><\/p>\n<h3>Manage quantity and other totals<\/h3>\n<p>Give customers full control: easily change the quantity and enjoy full transparency with detailed breakdowns of taxes, fees, and discounts for a hassle-free shopping experience.<\/p>\n<h3>One click paypal and amazon checkout<\/h3>\n<p>Streamline your checkout experience: no more lengthy form-filling! Let customers make a purchase in an instant with just one click<\/p>\n<h3>Coupons<\/h3>\n<p>Apply coupons directly from your side cart! View your available coupon codes, and with a single click, watch your discounts apply instantly. Plus, explore a list of upcoming coupons, just a step away from activation, encouraging users to add more to their cart for extra savings.<\/p>\n<h3>Add related products, upsells and cross-sells.<\/h3>\n<p>Boost your sales with handpicked recommendations! Add upsells, cross-sells, related products or custom products to your cart now.<\/p>\n<p>Customers can directly add new products right from the side cart without leaving the page.<\/p>\n<p>Three different styles to choose from &#8211; drawer, slider and column. You can set the number of products to show and customize the appearance.<\/p>\n<h3>Shipping calculator<\/h3>\n<p>Customers can directly update their shipping location and get the exact shipping fee. You will no longer need a cart page to calculate the shipping value.<\/p>\n<h3>Shipping bar<\/h3>\n<p>Incentivize with progress: display the minimum amount required for free shipping in a progress bar to reward valued customers<\/p>\n<h3>Cart notifications<\/h3>\n<p>Deliver real-time notifications with every cart update, ensuring users stay informed and engaged<\/p>\n<h3>Why is our side cart unique?<\/h3>\n<ul>\n<li>\n<p>Tons of customization options<\/p>\n<\/li>\n<li>\n<p>Holds the highest ratings and most favorable reviews.<\/p>\n<\/li>\n<li>\n<p>Compatible with most of the popuplar plugins.<\/p>\n<\/li>\n<\/ul>\n",
+        "installation": "<ol>\n<li>Upload the plugin files to the <code>\/wp-content\/plugins\/plugin-name<\/code> directory, or install the plugin through the WordPress plugins screen directly.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; screen in WordPress<\/li>\n<li>Click on Woo Side Cart on the dashboard.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='how%20to%20setup%3F'>\nHow to setup?\n<\/h4>\n<p>\n<p>Everything is already setup.Just activate the plugin &amp; you are done.<\/p>\n<\/p>\n<dt id='how%20to%20translate%3F'>\nHow to translate?\n<\/h4>\n<p>\n<p>You can use any third party plugin such as Loco Translate for hassle free translations or follow the instructions below<br \/>\n1. Download PoEdit.<br \/>\n2. Open the side-cart-woocommerce.pot file in PoEdit. (\/plugins\/side-cart-woocommerce\/languages\/<br \/>\n   side-cart-woocommerce.pot)<br \/>\n3. Create new translation &amp; translate the text.<br \/>\n4. Save the translated file with name &#8220;side-cart-woocommerce-Language_code&#8221;. For eg: German(side-cart-woocommerce-de_DE)<br \/>\n   , French(side-cart-woocommerce-fr_FR). &#8212; <a href=\"https:\/\/make.wordpress.org\/polyglots\/teams\/\" rel=\"nofollow ugc\">Language code list<\/a><br \/>\n5. Save Location: Your wordpress directory\/wp-content\/languages\/<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>2.4.9<\/h4>\n<ul>\n<li>Fix &#8211; bugs<\/li>\n<\/ul>\n<h4>2.4.8<\/h4>\n<ul>\n<li>Fix &#8211; bugs<\/li>\n<\/ul>\n<h4>2.4.7<\/h4>\n<ul>\n<li>Fix &#8211; Woocommerce 8.3 compatibility<\/li>\n<\/ul>\n<h4>2.4.6<\/h4>\n<ul>\n<li>New &#8211; RTL Support<\/li>\n<li>Fix &#8211; PHP 8.2 compatibility<\/li>\n<\/ul>\n<h4>2.4.5<\/h4>\n<ul>\n<li>New &#8211; Option to display sale price.<\/li>\n<li>New &#8211; Option to show variations in single\/separate lines<\/li>\n<li>New &#8211; Overlay animation on side cart toggle.<\/li>\n<li>Template update &#8211; xoo-wsc-body.php<\/li>\n<\/ul>\n<h4>2.4.4<\/h4>\n<ul>\n<li>New &#8211; Live settings customizer.<\/li>\n<li>New &#8211; Close icon setting<\/li>\n<\/ul>\n<h4>2.4.3<\/h4>\n<ul>\n<li>New &#8211; Add cart icon to your menu bar.<\/li>\n<li>New &#8211; New basket icons to choose from.<\/li>\n<\/ul>\n<h4>2.4.2<\/h4>\n<ul>\n<li>Fix &#8211; Conflict with divi bundle not opening images.<\/li>\n<\/ul>\n<h4>2.4.1<\/h4>\n<ul>\n<li>Fix &#8211; Bundle and variation styling.<\/li>\n<\/ul>\n<h4>2.4<\/h4>\n<ul>\n<li>New &#8211; Show total in checkout button<\/li>\n<li>New &#8211; Option to hide footer text when cart is empty<\/li>\n<li>New &#8211; Styling options ( Product margin, shadow, bgcolor, shadow, delete icons )<\/li>\n<li>Fix &#8211; Buttons order not saving<\/li>\n<\/ul>\n<h4>2.3<\/h4>\n<ul>\n<li>Fix &#8211; Vulnerability warning fix<\/li>\n<\/ul>\n<h4>2.2<\/h4>\n<ul>\n<li>Fix &#8211; Wordfence security warning fix<\/li>\n<li>Fix &#8211; PHP 8 error<\/li>\n<li>New &#8211; Added [xoo_wsc_cart] shortcode<\/li>\n<li>New &#8211; Few more settings for customization<\/li>\n<\/ul>\n<h4>2.1<\/h4>\n<ul>\n<li>Fix &#8211; added missing strings for translation<\/li>\n<li>Fix &#8211; woocommerce_before_calculate_totals not updating<\/li>\n<\/ul>\n<h4>2.0<\/h4>\n<ul>\n<li>Fix &#8211; Error notices<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>New &#8211; Show\/Hide on mobile device.<\/li>\n<li>New &#8211; Hide on particular pages option<\/li>\n<li>Fix &#8211; Bugs<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Initial Public Release.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/side-cart-woocommerce\/assets\/screenshot-1.png?rev=2968215\"><img src=\"https:\/\/ps.w.org\/side-cart-woocommerce\/assets\/screenshot-1.png?rev=2968215\" alt=\"Side cart.\"><\/a><p>Side cart.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/side-cart-woocommerce\/assets\/screenshot-2.png?rev=2968215\"><img src=\"https:\/\/ps.w.org\/side-cart-woocommerce\/assets\/screenshot-2.png?rev=2968215\" alt=\"Side Cart Pro\"><\/a><p>Side Cart Pro<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/side-cart-woocommerce\/assets\/screenshot-3.png?rev=2968215\"><img src=\"https:\/\/ps.w.org\/side-cart-woocommerce\/assets\/screenshot-3.png?rev=2968215\" alt=\"Floating Basket\"><\/a><p>Floating Basket<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/side-cart-woocommerce\/assets\/screenshot-4.png?rev=2968215\"><img src=\"https:\/\/ps.w.org\/side-cart-woocommerce\/assets\/screenshot-4.png?rev=2968215\" alt=\"Apply Coupon Pro\"><\/a><p>Apply Coupon Pro<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/side-cart-woocommerce\/assets\/screenshot-5.png?rev=2968215\"><img src=\"https:\/\/ps.w.org\/side-cart-woocommerce\/assets\/screenshot-5.png?rev=2968215\" alt=\"Shortcode [xoo_wsc_cart]\"><\/a><p>Shortcode [xoo_wsc_cart]<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/side-cart-woocommerce\/assets\/screenshot-6.png?rev=2968215\"><img src=\"https:\/\/ps.w.org\/side-cart-woocommerce\/assets\/screenshot-6.png?rev=2968215\" alt=\"Change Shipping Pro\"><\/a><p>Change Shipping Pro<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Good Plugin and Good Support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/sounddd\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/4970c13d51654c3877850e556b6900d4?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/4970c13d51654c3877850e556b6900d4?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/sounddd\/\" class=\"reviewer-name\">sounddd<\/a> on <span class=\"review-date\">April 9, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This is Good Plugin and Good Support.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great plugin!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/carola1905\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/596177e4dfd09957cfc6d0f7c62777d2?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/596177e4dfd09957cfc6d0f7c62777d2?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/carola1905\/\" class=\"reviewer-name\">carola1905<\/a> on <span class=\"review-date\">March 22, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Great plugin, does exactly what it needs to do<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Good Plugin and Good Support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/decoconcept\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/9b7b0dcb09918bf3d7eb13bdaf0320c3?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/9b7b0dcb09918bf3d7eb13bdaf0320c3?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/decoconcept\/\" class=\"reviewer-name\">decoconcept<\/a> on <span class=\"review-date\">March 17, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The plugin is very very good for upsells, and the support is awesome too!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great plugin!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/rivkadr\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/4f077c6282f05b21d4a464abaccbd878?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/4f077c6282f05b21d4a464abaccbd878?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/rivkadr\/\" class=\"reviewer-name\">rivkadr<\/a> on <span class=\"review-date\">March 13, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This is a great plugin with lots of useful features and tons of settings, as well as a good set of hooks for actions\/filters if you need to tap into the plugin's features. You can also make your own custom template files, too. Support is always fast to respond and super helpful - highly recommend!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">One of the best woo cart plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/pavel225\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/fe6c334eed23704f9623394eb006d559?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/fe6c334eed23704f9623394eb006d559?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/pavel225\/\" class=\"reviewer-name\">pavel225<\/a> on <span class=\"review-date\">March 8, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">One of the best woo cart plugin and great customer support. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Amazing support.<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/odwbk\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/92bbcdf1f7cd22017852a3b2be25ef05?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/92bbcdf1f7cd22017852a3b2be25ef05?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/odwbk\/\" class=\"reviewer-name\">odwbk<\/a> on <span class=\"review-date\">February 21, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Fast replying support, excellent plugin overall.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Solved my issue quickly<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/maigret\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/83c4d2af866540f8d895700cd5cf487d?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/83c4d2af866540f8d895700cd5cf487d?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/maigret\/\" class=\"reviewer-name\">Aur\u00e9lien Denis <small>(Maigret)<\/small><\/a> on <span class=\"review-date\">February 15, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Great support, fast answer! Thanks!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">fantastic, and totally worth the pro upgrade!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/scwtenor\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/084fb9bf8b8c8d0079eb0efae6146218?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/084fb9bf8b8c8d0079eb0efae6146218?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/scwtenor\/\" class=\"reviewer-name\">hot ham water <small>(scwtenor)<\/small><\/a> on <span class=\"review-date\">February 13, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Been using this for a while, and it's so easy to set up and my clients love it. Support is quick and very good.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great plugin &amp; Great Support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/alkisbiz\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/24930848a86ebfa692d80925a816a759?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/24930848a86ebfa692d80925a816a759?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/alkisbiz\/\" class=\"reviewer-name\">alkisbiz<\/a> on <span class=\"review-date\">February 9, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Great support really quick and efficient!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Fantastic fast support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/identiden\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/04a33bbb38d47b8f90f84e32c813dfc1?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/04a33bbb38d47b8f90f84e32c813dfc1?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/identiden\/\" class=\"reviewer-name\">identiden<\/a> on <span class=\"review-date\">February 8, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Pulkit will help you any question or problem you have! And fast :) Plugin works great, lots of options and easy to add\/change things yourself.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Manage your cart from just a click away with an interactive design",
+    "description": "<p><a href=\"http:\/\/demo.xootix.com\/side-cart-for-woocommerce\/\" rel=\"nofollow ugc\">Live Demo<\/a><\/p>\n<p>Say goodbye to your old cart page. Our sliding cart lets you add, see, and handle items without leaving your current page.<\/p>\n<p>\ud83d\udcb0 Real-time updates of your subtotal.<\/p>\n<p>\ud83d\udd04 Effortlessly add, or remove items from your cart.<\/p>\n<p>\ud83d\udcb3 Seamless checkout is just a click away.<\/p>\n<p>\ud83c\udf81 Apply Discounts and Promo Codes (pro)<\/p>\n<p>\ud83d\udcf1 Responsive design<\/p>\n<h4>Side Cart lite features<\/h4>\n<h3>Ajax-Based<\/h3>\n<p>Add products to your cart and effortlessly manage items, all without the need for page refreshing.<\/p>\n<h3>Cart Menu<\/h3>\n<p>You get a floating basket showing the number of items in your cart. Easily integrate it into your menu for quick access to the side cart<\/p>\n<h3>Customize the appearance<\/h3>\n<p>Craft your perfect side cart look with an abundance of styling choices. Achieve your desired design effortlessly by fine-tuning the settings.<\/p>\n<ul>\n<li>Different cart icons to choose from.<\/li>\n<li>Disable it on pages you don&#8217;t need.<\/li>\n<li>Show sale or regular price<\/li>\n<li>Set cart width, height, colors, layout almost everything.<br \/>\n&#8230;. and a lot more.<\/li>\n<\/ul>\n<h4>Side Cart pro features<\/h4>\n<p><a href=\"https:\/\/xootix.Com\/plugins\/side-cart-for-woocommerce\/\" rel=\"nofollow ugc\">Upgrade<\/a><\/p>\n<h3>Manage quantity and other totals<\/h3>\n<p>Give customers full control: easily change the quantity and enjoy full transparency with detailed breakdowns of taxes, fees, and discounts for a hassle-free shopping experience.<\/p>\n<h3>One click paypal and amazon checkout<\/h3>\n<p>Streamline your checkout experience: no more lengthy form-filling! Let customers make a purchase in an instant with just one click<\/p>\n<h3>Coupons<\/h3>\n<p>Apply coupons directly from your side cart! View your available coupon codes, and with a single click, watch your discounts apply instantly. Plus, explore a list of upcoming coupons, just a step away from activation, encouraging users to add more to their cart for extra savings.<\/p>\n<h3>Add related products, upsells and cross-sells.<\/h3>\n<p>Boost your sales with handpicked recommendations! Add upsells, cross-sells, related products or custom products to your cart now.<\/p>\n<p>Customers can directly add new products right from the side cart without leaving the page.<\/p>\n<p>Three different styles to choose from &#8211; drawer, slider and column. You can set the number of products to show and customize the appearance.<\/p>\n<h3>Shipping calculator<\/h3>\n<p>Customers can directly update their shipping location and get the exact shipping fee. You will no longer need a cart page to calculate the shipping value.<\/p>\n<h3>Shipping bar<\/h3>\n<p>Incentivize with progress: display the minimum amount required for free shipping in a progress bar to reward valued customers<\/p>\n<h3>Cart notifications<\/h3>\n<p>Deliver real-time notifications with every cart update, ensuring users stay informed and engaged<\/p>\n<h3>Why is our side cart unique?<\/h3>\n<ul>\n<li>\n<p>Tons of customization options<\/p>\n<\/li>\n<li>\n<p>Holds the highest ratings and most favorable reviews.<\/p>\n<\/li>\n<li>\n<p>Compatible with most of the popuplar plugins.<\/p>\n<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/side-cart-woocommerce.2.4.9.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/side-cart-woocommerce\/assets\/screenshot-1.png?rev=2968215",
+            "caption": "Side cart."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/side-cart-woocommerce\/assets\/screenshot-2.png?rev=2968215",
+            "caption": "Side Cart Pro"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/side-cart-woocommerce\/assets\/screenshot-3.png?rev=2968215",
+            "caption": "Floating Basket"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/side-cart-woocommerce\/assets\/screenshot-4.png?rev=2968215",
+            "caption": "Apply Coupon Pro"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/side-cart-woocommerce\/assets\/screenshot-5.png?rev=2968215",
+            "caption": "Shortcode [xoo_wsc_cart]"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/side-cart-woocommerce\/assets\/screenshot-6.png?rev=2968215",
+            "caption": "Change Shipping Pro"
+        }
+    },
+    "tags": {
+        "cart-popup": "cart popup",
+        "floating-cart": "floating cart",
+        "slider": "slider",
+        "woocommerce": "woocommerce",
+        "woocommerce-cart": "woocommerce cart"
+    },
+    "stable_tag": "2.4.9",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/side-cart-woocommerce.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/side-cart-woocommerce.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/side-cart-woocommerce.1.0.2.zip",
+        "2.0": "https:\/\/downloads.wordpress.org\/plugin\/side-cart-woocommerce.2.0.zip",
+        "2.1": "https:\/\/downloads.wordpress.org\/plugin\/side-cart-woocommerce.2.1.zip",
+        "2.2": "https:\/\/downloads.wordpress.org\/plugin\/side-cart-woocommerce.2.2.zip",
+        "2.3": "https:\/\/downloads.wordpress.org\/plugin\/side-cart-woocommerce.2.3.zip",
+        "2.4": "https:\/\/downloads.wordpress.org\/plugin\/side-cart-woocommerce.2.4.zip",
+        "2.4.1": "https:\/\/downloads.wordpress.org\/plugin\/side-cart-woocommerce.2.4.1.zip",
+        "2.4.2": "https:\/\/downloads.wordpress.org\/plugin\/side-cart-woocommerce.2.4.2.zip",
+        "2.4.3": "https:\/\/downloads.wordpress.org\/plugin\/side-cart-woocommerce.2.4.3.zip",
+        "2.4.4": "https:\/\/downloads.wordpress.org\/plugin\/side-cart-woocommerce.2.4.4.zip",
+        "2.4.5": "https:\/\/downloads.wordpress.org\/plugin\/side-cart-woocommerce.2.4.5.zip",
+        "2.4.6": "https:\/\/downloads.wordpress.org\/plugin\/side-cart-woocommerce.2.4.6.zip",
+        "2.4.7": "https:\/\/downloads.wordpress.org\/plugin\/side-cart-woocommerce.2.4.7.zip",
+        "2.4.8": "https:\/\/downloads.wordpress.org\/plugin\/side-cart-woocommerce.2.4.8.zip",
+        "2.4.9": "https:\/\/downloads.wordpress.org\/plugin\/side-cart-woocommerce.2.4.9.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/side-cart-woocommerce.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/www.paypal.me\/xootix",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/side-cart-woocommerce\/assets\/banner-772x250.jpg?rev=2583777",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/side-cart-woocommerce\/assets\/icon-256x256.png?rev=2583773",
+        "2x": "https:\/\/ps.w.org\/side-cart-woocommerce\/assets\/icon-256x256.png?rev=2583773"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 96,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "side-cart-woocommerce",
+            "language": "cs_CZ",
+            "version": "2.4.7",
+            "updated": "2021-02-10 12:17:48",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/side-cart-woocommerce\/2.4.7\/cs_CZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "side-cart-woocommerce",
+            "language": "de_DE",
+            "version": "2.4.7",
+            "updated": "2023-02-05 20:07:22",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/side-cart-woocommerce\/2.4.7\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "side-cart-woocommerce",
+            "language": "de_DE_formal",
+            "version": "2.4.7",
+            "updated": "2023-02-05 20:05:54",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/side-cart-woocommerce\/2.4.7\/de_DE_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "side-cart-woocommerce",
+            "language": "el",
+            "version": "2.4.7",
+            "updated": "2022-08-29 11:15:12",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/side-cart-woocommerce\/2.4.7\/el.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "side-cart-woocommerce",
+            "language": "es_MX",
+            "version": "2.4.7",
+            "updated": "2020-10-23 12:51:29",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/side-cart-woocommerce\/2.4.7\/es_MX.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "side-cart-woocommerce",
+            "language": "es_VE",
+            "version": "2.4.7",
+            "updated": "2021-02-10 13:59:04",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/side-cart-woocommerce\/2.4.7\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "side-cart-woocommerce",
+            "language": "es_ES",
+            "version": "2.4.7",
+            "updated": "2021-02-10 13:54:50",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/side-cart-woocommerce\/2.4.7\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "side-cart-woocommerce",
+            "language": "es_EC",
+            "version": "2.4.7",
+            "updated": "2021-02-10 13:57:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/side-cart-woocommerce\/2.4.7\/es_EC.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "side-cart-woocommerce",
+            "language": "es_AR",
+            "version": "2.4.7",
+            "updated": "2020-07-29 14:42:01",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/side-cart-woocommerce\/2.4.7\/es_AR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "side-cart-woocommerce",
+            "language": "fa_IR",
+            "version": "2.4.7",
+            "updated": "2023-08-01 08:00:33",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/side-cart-woocommerce\/2.4.7\/fa_IR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "side-cart-woocommerce",
+            "language": "he_IL",
+            "version": "2.4.7",
+            "updated": "2023-09-20 14:02:12",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/side-cart-woocommerce\/2.4.7\/he_IL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "side-cart-woocommerce",
+            "language": "hr",
+            "version": "2.4.7",
+            "updated": "2021-04-27 09:12:44",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/side-cart-woocommerce\/2.4.7\/hr.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "side-cart-woocommerce",
+            "language": "it_IT",
+            "version": "2.4.7",
+            "updated": "2020-09-18 15:50:57",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/side-cart-woocommerce\/2.4.7\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "side-cart-woocommerce",
+            "language": "ja",
+            "version": "2.4.7",
+            "updated": "2022-08-26 13:20:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/side-cart-woocommerce\/2.4.7\/ja.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "side-cart-woocommerce",
+            "language": "nl_NL",
+            "version": "2.4.7",
+            "updated": "2020-11-30 21:33:56",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/side-cart-woocommerce\/2.4.7\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "side-cart-woocommerce",
+            "language": "nl_NL_formal",
+            "version": "2.4.7",
+            "updated": "2022-08-26 08:36:53",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/side-cart-woocommerce\/2.4.7\/nl_NL_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "side-cart-woocommerce",
+            "language": "ru_RU",
+            "version": "2.4.7",
+            "updated": "2023-05-29 09:00:31",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/side-cart-woocommerce\/2.4.7\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "side-cart-woocommerce",
+            "language": "sk_SK",
+            "version": "2.4.7",
+            "updated": "2020-12-22 10:48:29",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/side-cart-woocommerce\/2.4.7\/sk_SK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "side-cart-woocommerce",
+            "language": "sv_SE",
+            "version": "2.4.7",
+            "updated": "2021-02-23 11:04:38",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/side-cart-woocommerce\/2.4.7\/sv_SE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "side-cart-woocommerce",
+            "language": "uk",
+            "version": "2.4.7",
+            "updated": "2022-08-28 13:03:16",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/side-cart-woocommerce\/2.4.7\/uk.zip"
+        }
+    ]
+}

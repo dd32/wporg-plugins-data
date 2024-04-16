@@ -1,0 +1,119 @@
+{
+    "name": "WPNakama &#8211; Fast and Simple Project Management Tool",
+    "slug": "wpnakama",
+    "version": "0.2.4",
+    "author": "<a href=\"https:\/\/wpnakama.com\">kantbtrue, qdonow, designthingy, savydv<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/kantbtrue\/",
+    "contributors": {
+        "kantbtrue": {
+            "profile": "https:\/\/profiles.wordpress.org\/kantbtrue\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/296084560a6e9168cc26a3a017028927?s=96&d=monsterid&r=g",
+            "display_name": "Shashikant Yadav"
+        },
+        "qdonow": {
+            "profile": "https:\/\/profiles.wordpress.org\/qdonow\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/28dac9892f8a42fc6d69ed07b94bd5b8?s=96&d=monsterid&r=g",
+            "display_name": "qdonow"
+        },
+        "designthingy": {
+            "profile": "https:\/\/profiles.wordpress.org\/designthingy\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/4376643d31b2297a197b9add83c8a3ce?s=96&d=monsterid&r=g",
+            "display_name": "DesignThingy"
+        },
+        "savydv": {
+            "profile": "https:\/\/profiles.wordpress.org\/savydv\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/9a3b4882b27ebfeb822be1c8844003c0?s=96&d=monsterid&r=g",
+            "display_name": "Saurabh Yadav"
+        }
+    },
+    "requires": "6.4",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/wpnakama\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 198,
+    "last_updated": "2024-03-02 2:48pm GMT",
+    "added": "2024-02-12",
+    "homepage": "",
+    "sections": {
+        "description": "<p>WP Nakama brings all your content, tasks, sprints, teammates, and strategies together in the WordPress dashboard. WPNakama helps WordPress design teams, developer teams, marketing teams, editorial teams, etc., manage and collaborate in your WordPress dashboard.<\/p>\n<p><strong>Best Management Tool for the following:<\/strong><br \/>\n&#8211; Editorial Team<br \/>\n&#8211; WordPress Design Teams<br \/>\n&#8211; WordPress Developer Team<br \/>\n&#8211; Content Marketing Teams<br \/>\n&#8211; Bloggers<br \/>\n&#8211; Writers<br \/>\n&#8211; Publications<\/p>\n<p><strong>Key Features of WP Nakama FREE<\/strong><br \/>\n&#8211; Board Dashboard<br \/>\n&#8211; Kanban Board<br \/>\n&#8211; Task Card<br \/>\n&#8211; Direct Post Connect (Add blog posts directly to your Tasks)<br \/>\n&#8211; Subtask<\/p>\n<p><strong>WPNakama is a work in progress. We\u2019re releasing new features every day.<\/strong><\/p>\n<p><strong>Upcoming Features: (Pro)<\/strong><br \/>\n&#8211; Multiple Board Views <strong>(Pro)<\/strong><br \/>\n&#8211; Multiple workplaces <strong>(Pro)<\/strong><br \/>\n&#8211; Timer <strong>(Pro)<\/strong><br \/>\n&#8211; Assign team members to tasks<br \/>\n&#8211; Team Communication<br \/>\n&#8211; Post\/Page editor with subtasks sidebar<br \/>\n&#8211; Calendar <strong>(Pro)<\/strong><br \/>\n&#8211; File Attachments &amp; Management<br \/>\n&#8211; Integrations <strong>(Pro)<\/strong><br \/>\n&#8211; User Activities Log <strong>(Pro)<\/strong><br \/>\n&#8211; Planner <strong>(Pro)<\/strong><br \/>\n&#8211; Notification <strong>(Pro)<\/strong><br \/>\n&#8211; Reports with Insights <strong>(Pro)<\/strong><\/p>\n",
+        "installation": "<ol>\n<li>Upload <code>wpnakama<\/code> to the <code>\/wp-content\/plugins\/<\/code> directory<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='does%20it%20work%20with%20my%20form%20plugin%20like%20wpform%3F'>\nDoes it work with my form plugin like wpform?\n<\/h4>\n<p>\n<p>We are continuously increasing our third-party plugin support list. WPNakama currently effortlessly work with the following plugins.<\/p>\n<\/p>\n<dt id='can%20i%20use%20it%20before%20buying%3F'>\nCan i use it before buying?\n<\/h4>\n<p>\n<p>Of course! You can use of free and open-source plugin on wordpress.org plugin directly.<\/p>\n<\/p>\n<dt id='i%20don%E2%80%99t%20like%20kanban%20view%20style.%20do%20you%20have%20more%20views%3F'>\nI don\u2019t like kanban view style. Do you have more views?\n<\/h4>\n<p>\n<p>At the moment we have selected view style. We continuously upgrading the plugin and trying to add new view styles.<\/p>\n<\/p>\n<dt id='plugin%20lacks%20the%20feature%20that%20i%20wanted%3F'>\nPlugin lacks the feature that I wanted?\n<\/h4>\n<p>\n<p>No worries! WPNakama is a continuously developing software. You can visit this link and submit your feature request or upvote the existing requests. This way we can serve you better.<\/p>\n<\/p>\n<dt id='can%20i%20add%20roles%20in%20team%20dashboard%3F'>\nCan I add roles in team dashboard?\n<\/h4>\n<p>\n<p>The team dashboard is work in progress. We\u2019ll soon release more features in this regards.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>Version 0.2.0<\/h4>\n<ul>\n<li>New: Add tasks to working cards<\/li>\n<li>New: Add tasks indicator on kanban cards<\/li>\n<li>Fix: Kanban card ordering<\/li>\n<\/ul>\n<h4>Version 0.1.2<\/h4>\n<ul>\n<li>Fix: Kanban draggable element stick to top on drop<\/li>\n<\/ul>\n<h4>0.1.1<\/h4>\n<ul>\n<li>Fix: Board specific phases API<\/li>\n<li>Fix: Blueprint script for live preview link on WP.org site<\/li>\n<\/ul>\n<h4>0.1.0<\/h4>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/wpnakama\/assets\/screenshot-1.png?rev=3034489\"><img src=\"https:\/\/ps.w.org\/wpnakama\/assets\/screenshot-1.png?rev=3034489\" alt=\"Board Dashboard\"><\/a><p>Board Dashboard<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wpnakama\/assets\/screenshot-2.png?rev=3034489\"><img src=\"https:\/\/ps.w.org\/wpnakama\/assets\/screenshot-2.png?rev=3034489\" alt=\"Kanban Board\"><\/a><p>Kanban Board<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wpnakama\/assets\/screenshot-3.png?rev=3034489\"><img src=\"https:\/\/ps.w.org\/wpnakama\/assets\/screenshot-3.png?rev=3034489\" alt=\"Task Card\"><\/a><p>Task Card<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "A management tool right into your WordPress dashboard.",
+    "description": "<p>WP Nakama brings all your content, tasks, sprints, teammates, and strategies together in the WordPress dashboard. WPNakama helps WordPress design teams, developer teams, marketing teams, editorial teams, etc., manage and collaborate in your WordPress dashboard.<\/p>\n<p><strong>Best Management Tool for the following:<\/strong><br \/>\n&#8211; Editorial Team<br \/>\n&#8211; WordPress Design Teams<br \/>\n&#8211; WordPress Developer Team<br \/>\n&#8211; Content Marketing Teams<br \/>\n&#8211; Bloggers<br \/>\n&#8211; Writers<br \/>\n&#8211; Publications<\/p>\n<p><strong>Key Features of WP Nakama FREE<\/strong><br \/>\n&#8211; Board Dashboard<br \/>\n&#8211; Kanban Board<br \/>\n&#8211; Task Card<br \/>\n&#8211; Direct Post Connect (Add blog posts directly to your Tasks)<br \/>\n&#8211; Subtask<\/p>\n<p><strong>WPNakama is a work in progress. We\u2019re releasing new features every day.<\/strong><\/p>\n<p><strong>Upcoming Features: (Pro)<\/strong><br \/>\n&#8211; Multiple Board Views <strong>(Pro)<\/strong><br \/>\n&#8211; Multiple workplaces <strong>(Pro)<\/strong><br \/>\n&#8211; Timer <strong>(Pro)<\/strong><br \/>\n&#8211; Assign team members to tasks<br \/>\n&#8211; Team Communication<br \/>\n&#8211; Post\/Page editor with subtasks sidebar<br \/>\n&#8211; Calendar <strong>(Pro)<\/strong><br \/>\n&#8211; File Attachments &amp; Management<br \/>\n&#8211; Integrations <strong>(Pro)<\/strong><br \/>\n&#8211; User Activities Log <strong>(Pro)<\/strong><br \/>\n&#8211; Planner <strong>(Pro)<\/strong><br \/>\n&#8211; Notification <strong>(Pro)<\/strong><br \/>\n&#8211; Reports with Insights <strong>(Pro)<\/strong><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wpnakama.0.2.4.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/wpnakama\/assets\/screenshot-1.png?rev=3034489",
+            "caption": "Board Dashboard"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/wpnakama\/assets\/screenshot-2.png?rev=3034489",
+            "caption": "Kanban Board"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/wpnakama\/assets\/screenshot-3.png?rev=3034489",
+            "caption": "Task Card"
+        }
+    },
+    "tags": {
+        "kanban": "kanban",
+        "management-tool": "management tool",
+        "project-management": "project management",
+        "task-manager": "task manager"
+    },
+    "stable_tag": "0.2.4",
+    "versions": {
+        "0.1.0": "https:\/\/downloads.wordpress.org\/plugin\/wpnakama.0.1.0.zip",
+        "0.1.1": "https:\/\/downloads.wordpress.org\/plugin\/wpnakama.0.1.1.zip",
+        "0.1.2": "https:\/\/downloads.wordpress.org\/plugin\/wpnakama.0.1.2.zip",
+        "0.2.0": "https:\/\/downloads.wordpress.org\/plugin\/wpnakama.0.2.0.zip",
+        "0.2.1": "https:\/\/downloads.wordpress.org\/plugin\/wpnakama.0.2.1.zip",
+        "0.2.2": "https:\/\/downloads.wordpress.org\/plugin\/wpnakama.0.2.2.zip",
+        "0.2.3": "https:\/\/downloads.wordpress.org\/plugin\/wpnakama.0.2.3.zip",
+        "0.2.4": "https:\/\/downloads.wordpress.org\/plugin\/wpnakama.0.2.4.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/wpnakama.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/wpnakama\/assets\/banner-772x250.png?rev=3034489",
+        "high": "https:\/\/ps.w.org\/wpnakama\/assets\/banner-1544x500.png?rev=3034489"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/wpnakama\/assets\/icon.svg?rev=3034489",
+        "svg": "https:\/\/ps.w.org\/wpnakama\/assets\/icon.svg?rev=3034489"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [
+        {
+            "filename": "blueprint.json",
+            "url": "https:\/\/wordpress.org\/plugins\/wp-json\/plugins\/v1\/plugin\/wpnakama\/blueprint.json?rev=3044042"
+        }
+    ],
+    "preview_link": "https:\/\/wordpress.org\/plugins\/wpnakama\/?preview=1",
+    "language_packs": []
+}

@@ -1,0 +1,87 @@
+{
+    "name": "atec web-map-service",
+    "slug": "atec-web-map-service",
+    "version": "1.4.8",
+    "author": "<a href=\"https:\/\/atec-systems.com\">Chris Ahrweiler<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/docjojo\/",
+    "contributors": {
+        "docjojo": {
+            "profile": "https:\/\/profiles.wordpress.org\/docjojo\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/d46b37ecc530a5137cc004e3f59b3dea?s=96&d=monsterid&r=g",
+            "display_name": "docjojo"
+        }
+    },
+    "requires": "5.2",
+    "tested": "6.5.2",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/atec-web-map-service\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 1101,
+    "last_updated": "2024-04-14 4:12pm GMT",
+    "added": "2019-01-22",
+    "homepage": "https:\/\/atecmap.com\/",
+    "sections": {
+        "description": "<p>This plugin integrates a NO cookies, NO logging, NO Tracking web map into a designated page.<\/p>\n<h3>Notes<\/h3>\n<p>If you want to place a marker on your map, please visit https:\/\/atecmap.com\/docs_en.php and get an APIkey.<\/p>\n",
+        "installation": "<ol>\n<li>Upload the plugin folder to the <code>\/wp-content\/plugins\/<\/code> directory or upload the zip within WordPress<\/li>\n<li>Activate the plugin through the <code>Plugins<\/code> menu in WordPress<\/li>\n<li>Configure the options under: <code>atec WebMapService<\/code><\/li>\n<li>Choose a designated page and change a block to <code>Code View<\/code><\/li>\n<li>Type the placeholder <code>[atec_wms_shortcode]<\/code> to include the map<\/li>\n<\/ol>\n",
+        "changelog": "<h4>1.4.8 [2024.04.14]<\/h4>\n<ul>\n<li>shotcode<\/li>\n<\/ul>\n<h4>1.4.7 [2024.04.03]<\/h4>\n<ul>\n<li>renamed awms =&gt; wms<\/li>\n<\/ul>\n<h4>1.4.6 [2024.04.02]<\/h4>\n<ul>\n<li>bug fix<\/li>\n<\/ul>\n<h4>1.4.5 [2024.03.27]<\/h4>\n<ul>\n<li>new grid<\/li>\n<\/ul>\n<h4>1.4.4 [2024.03.23]<\/h4>\n<ul>\n<li>atec-check-box<\/li>\n<\/ul>\n<h4>1.4.3 [2024.03.18]<\/h4>\n<ul>\n<li>new slug check<\/li>\n<\/ul>\n<h4>1.4.2 [2024.03.15]<\/h4>\n<ul>\n<li>new atec-style<\/li>\n<\/ul>\n<h4>1.4.1 [2024.03.13]<\/h4>\n<ul>\n<li>changes according to plugin check<\/li>\n<\/ul>\n<h4>1.4 [2024.02.21]<\/h4>\n<ul>\n<li>style fixes, settings in sidebar<\/li>\n<li>map preview in settings<\/li>\n<\/ul>\n<h4>1.3 [2024.02.08]<\/h4>\n<ul>\n<li>Tested with WP 6.4.3<\/li>\n<li>URL: atecmap.com<\/li>\n<\/ul>\n<h4>1.2 [2023.07.21]<\/h4>\n<ul>\n<li>Tested with WP 6.3<\/li>\n<li>isset($options)<\/li>\n<\/ul>\n<h4>1.1 [2023.03.31]<\/h4>\n<ul>\n<li>Tested with WordPress release v6.2<\/li>\n<\/ul>\n<h4>1.1 [2019.04.27]<\/h4>\n<ul>\n<li>Bug fixes<\/li>\n<\/ul>\n<h4>1.0 [2019.01.18]<\/h4>\n<ul>\n<li>Initial Release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/atec-web-map-service\/assets\/screenshot-1.png?rev=3070266\"><img src=\"https:\/\/ps.w.org\/atec-web-map-service\/assets\/screenshot-1.png?rev=3070266\" alt=\"Map with marker\"><\/a><p>Map with marker<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/atec-web-map-service\/assets\/screenshot-2.png?rev=3070266\"><img src=\"https:\/\/ps.w.org\/atec-web-map-service\/assets\/screenshot-2.png?rev=3070266\" alt=\"Settings section\"><\/a><p>Settings section<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">GDPR compliant<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jatec\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/769b967ea9305c70b3ceb3887528061a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/769b967ea9305c70b3ceb3887528061a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jatec\/\" class=\"reviewer-name\">jatec<\/a> on <span class=\"review-date\">April 12, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Network protocol shows only *.atecmap.com resources, no other service requested. atecmap.com is hosted by webhostone.de in germany.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Web map, conform with privacy regulations",
+    "description": "<p>This plugin integrates a NO cookies, NO logging, NO Tracking web map into a designated page.<\/p>\n<h3>Notes<\/h3>\n<p>If you want to place a marker on your map, please visit https:\/\/atecmap.com\/docs_en.php and get an APIkey.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/atec-web-map-service.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/atec-web-map-service\/assets\/screenshot-1.png?rev=3070266",
+            "caption": "Map with marker"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/atec-web-map-service\/assets\/screenshot-2.png?rev=3070266",
+            "caption": "Settings section"
+        }
+    },
+    "tags": {
+        "privacy": "privacy",
+        "web-map": "Web map"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/www.paypal.com\/paypalme\/atecsystems\/5eur",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/atec-web-map-service\/assets\/banner-772y250.png?rev=3051309",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/atec-web-map-service\/assets\/icon-256x256.png?rev=2076289",
+        "2x": "https:\/\/ps.w.org\/atec-web-map-service\/assets\/icon-256x256.png?rev=2076289"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [
+        {
+            "filename": "blueprint.json",
+            "url": "https:\/\/wordpress.org\/plugins\/wp-json\/plugins\/v1\/plugin\/atec-web-map-service\/blueprint.json?rev=3070266"
+        }
+    ],
+    "preview_link": "https:\/\/wordpress.org\/plugins\/atec-web-map-service\/?preview=1",
+    "language_packs": []
+}

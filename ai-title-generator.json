@@ -1,0 +1,107 @@
+{
+    "name": "AI Title Generator",
+    "slug": "ai-title-generator",
+    "version": "1.0.0",
+    "author": "<a href=\"https:\/\/sparkcoder.com\">Spark Coder<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/afello\/",
+    "contributors": {
+        "afello": {
+            "profile": "https:\/\/profiles.wordpress.org\/afello\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3710ee4950becb3ae8203f198ad1719c?s=96&d=monsterid&r=g",
+            "display_name": "Innovify"
+        },
+        "srabonr": {
+            "profile": "https:\/\/profiles.wordpress.org\/srabonr\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/07022d0e1858ba0ba1e4e20150fe0bef?s=96&d=monsterid&r=g",
+            "display_name": "srabonr"
+        }
+    },
+    "requires": "5.4",
+    "tested": "6.4.4",
+    "requires_php": "8.1",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/ai-title-generator\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 77,
+    "last_updated": "2024-03-25 2:17am GMT",
+    "added": "2024-03-24",
+    "homepage": "",
+    "sections": {
+        "description": "<p>AI Title Generator &#8211; AI Tittle Writer \u2013 ChatGPT is a content generator package for WordPress. It will help you to generate your Post, Product Title in your wordpress website. This will consume your time &amp; smartly generate SEO friendly title with OpenAi power. It utilizes gpt-3.5 (https:\/\/openai.com) turbo(model) and other models to generate Title \/ content. Provides features for very quick use of prompt and built-in forms.<br \/>\nJust install and go ahead and enjoy OpenAi power.<\/p>\n<h3>Features<\/h3>\n<ul>\n<li>Tittle Generator<\/li>\n<li>Tittle Re-generator<\/li>\n<li>Auto Tittle Generator \/ Regenerator<\/li>\n<li>Title suggestion tool for posts and products.<\/li>\n<li>Unlimited titles are suggested for topic &#8212; 5+ Every time.<\/li>\n<li>One click update Generated Title<\/li>\n<li>ChatGPT, GPT-3,GPT-3.5 models.<\/li>\n<li>SEO Optimized Title Generator for website.<\/li>\n<li>Get SEO Title.<\/li>\n<li>Automatic Title Generate on existing post \/ product title.<\/li>\n<\/ul>\n<h3>How to Generate OpenAI API Key<\/h3>\n<p>1.Go to OpenAI&#8217;s Platform website at https:\/\/platform.openai.com and sign in with an OpenAI account.<br \/>\n2.Click your profile icon at the top-right corner of the page and select &#8220;View API Keys.&#8221;<br \/>\n3.Click &#8220;Create New Secret Key&#8221; to generate a new API key.<\/p>\n<h3>OpenAI Privacy Policy<\/h3>\n<p>1.Please go to OpenAI privacy policy page (https:\/\/openai.com\/policies\/privacy-policy).<br \/>\n2.Please read all policies for further information.<\/p>\n<h3>OpenAI Terms of use<\/h3>\n<p>1.Please go to OpenAi terms of use page (https:\/\/openai.com\/policies\/terms-of-use).<br \/>\n2.Please read all terms and conditions for further information.<\/p>\n",
+        "installation": "<p>This section describes how to install the &#8220;AI Title Generator&#8221; plugin and get it working.<br \/>\ne.g.<\/p>\n<ol>\n<li>Go to <code>Plugins<\/code> in the Admin menu<\/li>\n<li>Click on the button <code>Add new<\/code><\/li>\n<li>Search for <code>AI Title Generator<\/code> and click <code>Install Now<\/code><\/li>\n<li>Click on the <code>Activate plugin<\/code><\/li>\n<li>Enter Valid OpenAI API Key to run &#8220;AI Title Generator&#8221;<\/li>\n<\/ol>\n<p>You can also do it Manually.<\/p>\n<ol>\n<li>Upload  <code>plugin-directory<\/code> to the <code>\/wp-content\/plugins\/<\/code> directory<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress<\/li>\n<\/ol>\n<p>Note : Before activating\/installing this plugin, please ensure that you have installed and activated the WooCommerce plugin for generate product title.<\/p>\n",
+        "faq": "\n<dt id='can%20i%20use%20this%20plugin%20free%3F'>\nCan i use this plugin free?\n<\/h4>\n<p>\n<p>Yes, You can use it free.<\/p>\n<\/p>\n<dt id='does%20it%20work%20with%20any%20wordpress%20theme%3F'>\nDoes it work with any WordPress theme?\n<\/h4>\n<p>\n<p>Yes, it will work with any standard WordPress theme.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.0<\/h4>\n<ul>\n<li>Initial Release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/ai-title-generator\/assets\/screenshot-1.png?rev=3057551\"><img src=\"https:\/\/ps.w.org\/ai-title-generator\/assets\/screenshot-1.png?rev=3057551\" alt=\"Admin Settings menu\"><\/a><p>Admin Settings menu<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/ai-title-generator\/assets\/screenshot-2.png?rev=3057551\"><img src=\"https:\/\/ps.w.org\/ai-title-generator\/assets\/screenshot-2.png?rev=3057551\" alt=\"Generator API Options\"><\/a><p>Generator API Options<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/ai-title-generator\/assets\/screenshot-3.png?rev=3057551\"><img src=\"https:\/\/ps.w.org\/ai-title-generator\/assets\/screenshot-3.png?rev=3057551\" alt=\"Product Generator Option\"><\/a><p>Product Generator Option<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/ai-title-generator\/assets\/screenshot-4.png?rev=3057551\"><img src=\"https:\/\/ps.w.org\/ai-title-generator\/assets\/screenshot-4.png?rev=3057551\" alt=\"Post Generator Option\"><\/a><p>Post Generator Option<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/ai-title-generator\/assets\/screenshot-5.png?rev=3057551\"><img src=\"https:\/\/ps.w.org\/ai-title-generator\/assets\/screenshot-5.png?rev=3057551\" alt=\"Generated content update\"><\/a><p>Generated content update<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Easily Generate \/ Regenerate title with Open AI On Your WordPress website &amp; label up you site content management.",
+    "description": "<p>AI Title Generator &#8211; AI Tittle Writer \u2013 ChatGPT is a content generator package for WordPress. It will help you to generate your Post, Product Title in your wordpress website. This will consume your time &amp; smartly generate SEO friendly title with OpenAi power. It utilizes gpt-3.5 (https:\/\/openai.com) turbo(model) and other models to generate Title \/ content. Provides features for very quick use of prompt and built-in forms.<br \/>\nJust install and go ahead and enjoy OpenAi power.<\/p>\n<h3>Features<\/h3>\n<ul>\n<li>Tittle Generator<\/li>\n<li>Tittle Re-generator<\/li>\n<li>Auto Tittle Generator \/ Regenerator<\/li>\n<li>Title suggestion tool for posts and products.<\/li>\n<li>Unlimited titles are suggested for topic &#8212; 5+ Every time.<\/li>\n<li>One click update Generated Title<\/li>\n<li>ChatGPT, GPT-3,GPT-3.5 models.<\/li>\n<li>SEO Optimized Title Generator for website.<\/li>\n<li>Get SEO Title.<\/li>\n<li>Automatic Title Generate on existing post \/ product title.<\/li>\n<\/ul>\n<h3>How to Generate OpenAI API Key<\/h3>\n<p>1.Go to OpenAI&#8217;s Platform website at https:\/\/platform.openai.com and sign in with an OpenAI account.<br \/>\n2.Click your profile icon at the top-right corner of the page and select &#8220;View API Keys.&#8221;<br \/>\n3.Click &#8220;Create New Secret Key&#8221; to generate a new API key.<\/p>\n<h3>OpenAI Privacy Policy<\/h3>\n<p>1.Please go to OpenAI privacy policy page (https:\/\/openai.com\/policies\/privacy-policy).<br \/>\n2.Please read all policies for further information.<\/p>\n<h3>OpenAI Terms of use<\/h3>\n<p>1.Please go to OpenAi terms of use page (https:\/\/openai.com\/policies\/terms-of-use).<br \/>\n2.Please read all terms and conditions for further information.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/ai-title-generator.1.0.0.zip",
+    "upgrade_notice": {
+        "1.0.0": "<ul>\n<li>Initial Release<\/li>\n<\/ul>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/ai-title-generator\/assets\/screenshot-1.png?rev=3057551",
+            "caption": "Admin Settings menu"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/ai-title-generator\/assets\/screenshot-2.png?rev=3057551",
+            "caption": "Generator API Options"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/ai-title-generator\/assets\/screenshot-3.png?rev=3057551",
+            "caption": "Product Generator Option"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/ai-title-generator\/assets\/screenshot-4.png?rev=3057551",
+            "caption": "Post Generator Option"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/ai-title-generator\/assets\/screenshot-5.png?rev=3057551",
+            "caption": "Generated content update"
+        }
+    },
+    "tags": {
+        "ai-generator": "AI Generator",
+        "content-generator": "content generator",
+        "generator": "generator",
+        "regenerator": "regenerator",
+        "title-generator": "title generator"
+    },
+    "stable_tag": "1.0.0",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/ai-title-generator.1.0.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/ai-title-generator.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/sparkcoder.com",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/ai-title-generator\/assets\/banner-772x250.png?rev=3057551",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/ai-title-generator\/assets\/icon-128x128.png?rev=3057551"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

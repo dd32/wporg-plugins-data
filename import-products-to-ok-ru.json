@@ -1,0 +1,124 @@
+{
+    "name": "Import Products to OK.ru",
+    "slug": "import-products-to-ok-ru",
+    "version": "2.0.4",
+    "author": "<a href=\"https:\/\/icopydoc.ru\">Maxim Glazunov<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/icopydoc\/",
+    "contributors": {
+        "icopydoc": {
+            "profile": "https:\/\/profiles.wordpress.org\/icopydoc\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/f2ce2b860ff2f5cb77aefbba6a3ffda4?s=96&d=monsterid&r=g",
+            "display_name": "icopydoc"
+        }
+    },
+    "requires": "4.7",
+    "tested": "6.4.4",
+    "requires_php": "5.6",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 4,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 4,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/import-products-to-ok-ru\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 40,
+    "downloaded": 2235,
+    "last_updated": "2024-03-03 1:07pm GMT",
+    "added": "2019-09-09",
+    "homepage": "https:\/\/icopydoc.ru\/category\/documentation\/import-products-to-ok-ru\/",
+    "sections": {
+        "description": "<p>Imports products to your group in ok.ru from your online store. The plugin Woocommerce is required!<\/p>\n<p>PRO version: <a href=\"https:\/\/icopydoc.ru\/product\/import-products-to-ok-ru-pro\/?utm_source=wp-repository&amp;utm_medium=organic&amp;utm_campaign=import-products-to-ok-ru&amp;utm_content=readme&amp;utm_term=pro-version\" rel=\"nofollow ugc\">https:\/\/icopydoc.ru\/product\/import-products-to-ok-ru-pro\/<\/a><\/p>\n",
+        "installation": "<p>This section describes how to install the plugin and get it working.<\/p>\n<ol>\n<li>Upload the entire <code>import-products-to-ok-ru<\/code> folder to the <code>\/wp-content\/plugins\/<\/code> directory.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; screen in WordPress<\/li>\n<li>Go to <code>Set API ok.ru<\/code> and follow the instructions to configure API access<\/li>\n<li>Use the <code>Export to OK.RU<\/code> screen to configure the plugin<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='how%20to%20create%20an%20app%20in%20ok.ru%3F'>\nHow to create an app in Ok.ru?\n<\/h4>\n<p>\n<p>Read this:<br \/>\n<a href=\"https:\/\/apiok.ru\/dev\/app\/create\" rel=\"nofollow ugc\">https:\/\/apiok.ru\/dev\/app\/create<\/a><\/p>\n<\/p>\n<dt id='how%20to%20connect%20my%20store%20to%20ok.ru%3F'>\nHow to connect my store to Ok.ru?\n<\/h4>\n<p>\n<p>Read this:<br \/>\n<a href=\"https:\/\/icopydoc.ru\/nastrojka-plagina-import-products-to-ok-ru\/?utm_source=wp-repository&amp;utm_medium=organic&amp;utm_campaign=import-products-to-ok-ru&amp;utm_content=readme&amp;utm_term=main-instruction\" rel=\"nofollow ugc\">https:\/\/icopydoc.ru\/nastrojka-plagina-import-products-to-ok-ru\/<\/a><\/p>\n<\/p>\n<dt id='what%20plugin%20online%20store%20supported%20by%20your%20plugin%3F'>\nWhat plugin online store supported by your plugin?\n<\/h4>\n<p>\n<p>Only Woocommerce.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>2.0.4<\/h4>\n<ul>\n<li>Fixed bugs<\/li>\n<li>Added information about compatibility with HPOS<\/li>\n<\/ul>\n<h4>2.0.3<\/h4>\n<ul>\n<li>Fixed bugs<\/li>\n<\/ul>\n<h4>2.0.2<\/h4>\n<ul>\n<li>Fixed bugs<\/li>\n<\/ul>\n<h4>2.0.1<\/h4>\n<ul>\n<li>Fix bugs<\/li>\n<\/ul>\n<h4>2.0.0<\/h4>\n<ul>\n<li>New plugin core.<br \/>\nWarning! When upgrading from older versions, duplicate products may appear in the group.<\/li>\n<\/ul>\n<h4>1.4.4<\/h4>\n<ul>\n<li>Fix bugs<\/li>\n<li>Improved debug page<\/li>\n<\/ul>\n<h4>1.4.3<\/h4>\n<ul>\n<li>Fix bugs<\/li>\n<\/ul>\n<h4>1.4.2<\/h4>\n<ul>\n<li>Fix bugs<\/li>\n<\/ul>\n<h4>1.4.1<\/h4>\n<ul>\n<li>Fix bugs<\/li>\n<li>Updated self-diagnostic modules<\/li>\n<\/ul>\n<h4>1.4.0<\/h4>\n<ul>\n<li>Fix bugs<\/li>\n<li>The mechanism for updating product catalogs has been changed<\/li>\n<\/ul>\n<h4>1.3.1<\/h4>\n<ul>\n<li>Fix bugs<\/li>\n<\/ul>\n<h4>1.3.0<\/h4>\n<ul>\n<li>Fix bugs<\/li>\n<li>Added extensions Import products to ok.ru. See extensions page!<\/li>\n<\/ul>\n<h4>1.2.0<\/h4>\n<ul>\n<li>Fix bugs<\/li>\n<li>Added support for variable products<\/li>\n<\/ul>\n<h4>1.1.0<\/h4>\n<ul>\n<li>Fix bugs<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Fix bugs<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>First relise<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/import-products-to-ok-ru\/trunk\/screenshot-1.png?rev=3044467\"><img src=\"https:\/\/ps.w.org\/import-products-to-ok-ru\/trunk\/screenshot-1.png?rev=3044467\" alt=\"screenshot-1.png\"><\/a><p>screenshot-1.png<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/import-products-to-ok-ru\/trunk\/screenshot-2.png?rev=3044467\"><img src=\"https:\/\/ps.w.org\/import-products-to-ok-ru\/trunk\/screenshot-2.png?rev=3044467\" alt=\"screenshot-2.png\"><\/a><p>screenshot-2.png<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/import-products-to-ok-ru\/trunk\/screenshot-3.png?rev=3044467\"><img src=\"https:\/\/ps.w.org\/import-products-to-ok-ru\/trunk\/screenshot-3.png?rev=3044467\" alt=\"screenshot-3.png\"><\/a><p>screenshot-3.png<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/import-products-to-ok-ru\/trunk\/screenshot-4.png?rev=3044467\"><img src=\"https:\/\/ps.w.org\/import-products-to-ok-ru\/trunk\/screenshot-4.png?rev=3044467\" alt=\"screenshot-4.png\"><\/a><p>screenshot-4.png<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u041e\u0442\u043b\u0438\u0447\u043d\u044b\u0439 \u043f\u043b\u0430\u0433\u0438\u043d \u0434\u043b\u044f \u0438\u043c\u043f\u043e\u0440\u0442\u0430 \u0442\u043e\u0432\u0430\u0440\u043e\u0432<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/p0zitiv\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/051e5f8d9cca669e3f9b028151522cba?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/051e5f8d9cca669e3f9b028151522cba?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/p0zitiv\/\" class=\"reviewer-name\">sevimi.by <small>(p0zitiv)<\/small><\/a> on <span class=\"review-date\">March 25, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">\u0412\u0441\u0451 \u043f\u043e\u043b\u0443\u0447\u0438\u043b\u043e\u0441\u044c, \u0445\u043e\u0442\u044f \u0438 \u043d\u0435 \u0441 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u0440\u0430\u0437\u0430)<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u041e\u0442\u043b\u0438\u0447\u043d\u044b\u0439 \u0441\u0430\u043f\u043f\u043e\u0440\u0442<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/oviplokos\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/1b50706ebe335ad37015210167a6f60e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/1b50706ebe335ad37015210167a6f60e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/oviplokos\/\" class=\"reviewer-name\">oviplokos<\/a> on <span class=\"review-date\">February 8, 2021<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">\u041e\u0433\u0440\u043e\u043c\u043d\u043e\u0435 \u0441\u043f\u0430\u0441\u0438\u0431\u043e \u0430\u0432\u0442\u043e\u0440\u0443 \u0437\u0430 \u0443\u0434\u0435\u043b\u0435\u043d\u043d\u043e\u0435 \u0432\u0440\u0435\u043c\u044f \u0438 \u043f\u043e\u043c\u043e\u0449\u044c \u0432 \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u0438\u0438 \u043f\u0440\u0438\u0447\u0438\u043d \u0442\u043e\u0433\u043e, \u043f\u043e\u0447\u0435\u043c\u0443 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0432\u044b\u0434\u0430\u0432\u0430\u043b\u043e \u043e\u0448\u0438\u0431\u043a\u0443. \u0412 \u043a\u043e\u043d\u0435\u0447\u043d\u043e\u043c \u0438\u0442\u043e\u0433\u0435 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0430 \u043e\u043a\u0430\u0437\u0430\u043b\u0430\u0441\u044c \u043d\u0430 \u0441\u0442\u043e\u0440\u043e\u043d\u0435 \u043c\u043e\u0435\u0439 \u0433\u0440\u0443\u043f\u043f\u044b \u0432 \u043e\u043a.\u0440\u0443, \u0430 \u0438\u043c\u0435\u043d\u043d\u043e \u0431\u0430\u0433 \u0441 \u0432\u044b\u0434\u0430\u0447\u0435\u0439 \u043f\u0440\u0430\u0432 \u043d\u0430 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u0442\u043e\u0432\u0430\u0440\u0430. \u041d\u043e \u044d\u0442\u043e \u0443\u0436\u0435 \u0432 \u0441\u0430\u043f\u043f\u043e\u0440\u0442 \u043a \u043e\u043a.\u0440\u0443.<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">\u0425\u043e\u0440\u043e\u0448\u0438\u0439 \u043f\u043b\u0430\u0433\u0438\u043d<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/pavel2706\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/03ee09fc676887d85a06fe21bc5e09f2?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/03ee09fc676887d85a06fe21bc5e09f2?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/pavel2706\/\" class=\"reviewer-name\">pavel2706<\/a> on <span class=\"review-date\">December 24, 2020<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">\u041f\u043b\u0430\u0433\u0438\u043d \u0441\u043e \u0441\u0432\u043e\u0435\u0439 \u0437\u0430\u0434\u0430\u0447\u0435\u0439 \u0441\u043f\u0440\u0430\u0432\u0438\u043b\u0441\u044f, \u041f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u0435 \u0440\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u0438\u0439 \u043d\u0430 \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u044e \u043e\u0442 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \n \u043e\u043a.\u0440\u0443 \u043f\u0440\u0438\u0448\u043b\u043e \u0447\u0435\u0440\u0435\u0437 3 \u0434\u043d\u044f, \u0421\u043e\u0437\u0434\u0430\u0442\u044c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0442\u043e\u0436\u0435 \u043d\u0438 \u0447\u0435\u0433\u043e \u0441\u043b\u043e\u0436\u043d\u043e\u0433\u043e. \u041e\u0434\u0438\u043d \u043c\u0438\u043d\u0443\u0441, \u043d\u043e \u0441\u043a\u043e\u0440\u0435\u0435 \u044d\u0442\u043e \u043d\u0435 \u043c\u0438\u043d\u0443\u0441 \u0430 \u043c\u043e\u044f \u043e\u0448\u0438\u0431\u043a\u0430, \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u0442\u043e\u0432\u0430\u0440\u0430 \u043e\u043a\u0430\u0437\u0430\u043b\u043e\u0441\u044c \u0432 \u0433\u0440\u0443\u043f\u043f\u0435 \u041e\u041a \u043f\u043e \u0442\u0440\u0438 \u0448\u0442\u0443\u043a\u0438). \u0410 \u043e\u0431\u0449\u0435\u043c \u0432\u0441\u0451 \u0445\u043e\u0440\u043e\u0448\u043e<\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">It works<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/icopydoc\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f2ce2b860ff2f5cb77aefbba6a3ffda4?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f2ce2b860ff2f5cb77aefbba6a3ffda4?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/icopydoc\/\" class=\"reviewer-name\">icopydoc<\/a> on <span class=\"review-date\">July 18, 2020<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">:)<\/div>\n<\/div>\n"
+    },
+    "short_description": "Exports products from your online store to ok.ru. Connect your store to OK.ru and unload products, getting new customers!",
+    "description": "<p>Imports products to your group in ok.ru from your online store. The plugin Woocommerce is required!<\/p>\n<p>PRO version: <a href=\"https:\/\/icopydoc.ru\/product\/import-products-to-ok-ru-pro\/?utm_source=wp-repository&amp;utm_medium=organic&amp;utm_campaign=import-products-to-ok-ru&amp;utm_content=readme&amp;utm_term=pro-version\" rel=\"nofollow ugc\">https:\/\/icopydoc.ru\/product\/import-products-to-ok-ru-pro\/<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/import-products-to-ok-ru.2.0.4.zip",
+    "upgrade_notice": {
+        "2.0.4": "<ul>\n<li>Fixed bugs<\/li>\n<li>Added information about compatibility with HPOS<\/li>\n<\/ul>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/import-products-to-ok-ru\/trunk\/screenshot-1.png?rev=3044467",
+            "caption": "screenshot-1.png"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/import-products-to-ok-ru\/trunk\/screenshot-2.png?rev=3044467",
+            "caption": "screenshot-2.png"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/import-products-to-ok-ru\/trunk\/screenshot-3.png?rev=3044467",
+            "caption": "screenshot-3.png"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/import-products-to-ok-ru\/trunk\/screenshot-4.png?rev=3044467",
+            "caption": "screenshot-4.png"
+        }
+    },
+    "tags": {
+        "export": "export",
+        "odnoklassniki": "odnoklassniki",
+        "ok-ru": "ok.ru",
+        "products": "products",
+        "woocommerce": "woocommerce"
+    },
+    "stable_tag": "2.0.4",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/import-products-to-ok-ru.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/import-products-to-ok-ru.1.0.1.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/import-products-to-ok-ru.1.1.0.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/import-products-to-ok-ru.1.2.0.zip",
+        "1.3.0": "https:\/\/downloads.wordpress.org\/plugin\/import-products-to-ok-ru.1.3.0.zip",
+        "1.3.1": "https:\/\/downloads.wordpress.org\/plugin\/import-products-to-ok-ru.1.3.1.zip",
+        "1.4.0": "https:\/\/downloads.wordpress.org\/plugin\/import-products-to-ok-ru.1.4.0.zip",
+        "1.4.1": "https:\/\/downloads.wordpress.org\/plugin\/import-products-to-ok-ru.1.4.1.zip",
+        "1.4.2": "https:\/\/downloads.wordpress.org\/plugin\/import-products-to-ok-ru.1.4.2.zip",
+        "1.4.3": "https:\/\/downloads.wordpress.org\/plugin\/import-products-to-ok-ru.1.4.3.zip",
+        "1.4.4": "https:\/\/downloads.wordpress.org\/plugin\/import-products-to-ok-ru.1.4.4.zip",
+        "1.4.5": "https:\/\/downloads.wordpress.org\/plugin\/import-products-to-ok-ru.1.4.5.zip",
+        "2.0.0": "https:\/\/downloads.wordpress.org\/plugin\/import-products-to-ok-ru.2.0.0.zip",
+        "2.0.1": "https:\/\/downloads.wordpress.org\/plugin\/import-products-to-ok-ru.2.0.1.zip",
+        "2.0.2": "https:\/\/downloads.wordpress.org\/plugin\/import-products-to-ok-ru.2.0.2.zip",
+        "2.0.3": "https:\/\/downloads.wordpress.org\/plugin\/import-products-to-ok-ru.2.0.3.zip",
+        "2.0.4": "https:\/\/downloads.wordpress.org\/plugin\/import-products-to-ok-ru.2.0.4.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/import-products-to-ok-ru.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/pay.cloudtips.ru\/p\/45d8ff3f",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/import-products-to-ok-ru\/assets\/banner-772x250.png?rev=2472242",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/import-products-to-ok-ru\/assets\/icon-128x128.png?rev=2472230",
+        "2x": "https:\/\/ps.w.org\/import-products-to-ok-ru\/assets\/icon-256x256.png?rev=2472230"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "import-products-to-ok-ru",
+            "language": "ru_RU",
+            "version": "2.0.4",
+            "updated": "2023-05-23 17:43:29",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/import-products-to-ok-ru\/2.0.4\/ru_RU.zip"
+        }
+    ]
+}

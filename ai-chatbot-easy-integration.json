@@ -1,0 +1,105 @@
+{
+    "name": "AI Chatbot Easy Integration",
+    "slug": "ai-chatbot-easy-integration",
+    "version": "1.0.15",
+    "author": "<a href=\"https:\/\/www.alumnionlineservices.com\">AlumniOnline Web Services LLC<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/seshelby\/",
+    "contributors": {
+        "seshelby": {
+            "profile": "https:\/\/profiles.wordpress.org\/seshelby\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/287bcc624a49d79f31a8ca87d561dd07?s=96&d=monsterid&r=g",
+            "display_name": "seshelby"
+        }
+    },
+    "requires": "2.0",
+    "tested": "6.5.2",
+    "requires_php": "5.5",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/ai-chatbot-easy-integration\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 577,
+    "last_updated": "2024-04-15 12:15pm GMT",
+    "added": "2023-12-24",
+    "homepage": "https:\/\/aichatboteasyintegration.com",
+    "sections": {
+        "description": "<p>This plugin allows you to easily add a chatbot powered by IBM Watson Assistant or ChatGPT\/OpenAI to your website. Leverage generative AI capabilities in your virtual assistant using our AI Chatbot powered by IBM\u2019s Industry leading Watson Assistant or the extremely popular ChatGPT\/OpenAI framework. Test and implement Open AI complex capabilities such as text to speech, moderation and image generation. Deploy your chatbot in minutes. No coding is required!<\/p>\n<p>Features included in the free version:<br \/>\n1. Display a chatbot on your website<br \/>\n2. Easy, seamless Watson Assistant and\/or ChatGPT\/OpenAI Integration<br \/>\n3. Chat history on your website dashboard<br \/>\n4. Daily chat log emails<br \/>\n5. 7 days of chat log history<\/p>\n<p>The full featured Pro version of AI Chatbot Easy Integration includes everything you need to provide top notch customer care. <a href=\"https:\/\/www.aichatboteasyintegration.com\/\" rel=\"nofollow ugc\">Learn more at AIChatbotEasyIntegration.com<\/a><\/p>\n<p>Additional features foun in the pro version include:<br \/>\n1. Live online chat<br \/>\n2. Offline messages<br \/>\n3. Unlimited support agents<br \/>\n4. Chat log emails throughout the day<br \/>\n5. Unlimited chat log history<br \/>\n6. Transfer chats between agents<br \/>\n7. Accept file attachments<br \/>\n8. Generate support tickets from chat sessions<br \/>\n9. SMS messaging using Twilio<br \/>\n10. Search your website for answers to questions<br \/>\n11. Search OpenAI for answers to questions<\/p>\n<p>Includes a free 14 day trial!<\/p>\n",
+        "installation": "<p>To install this plugin:<\/p>\n<ol>\n<li>Install the plugin through the WordPress admin interface, or upload the plugin folder to \/wp-content\/plugins\/ using ftp.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; screen in WordPress. On a Multisite you can either network activate it or let users activate it individually. <\/li>\n<li>Go to WordPress Admin &gt; AI Chatbot &gt; Settings<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='how%20do%20i%20use%20the%20plugin%3F'>\nHow do I use the plugin?\n<\/h4>\n<p>\n<p>Complete instructions can be found in our getting started section on <a href=\"https:\/\/www.aichatboteasyintegration.com\/help\/\" rel=\"nofollow ugc\">AIChatbotEasyIntegration.com<\/a><\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.15<\/h4>\n<ul>\n<li>Date: 4\/15\/2024<\/li>\n<\/ul>\n<ol>\n<li>added support for open ai complex abilities such as text to speech, moderation and image generation<\/li>\n<\/ol>\n<h4>1.0.14<\/h4>\n<ul>\n<li>Date: 4\/5\/2024<\/li>\n<\/ul>\n<ol>\n<li>corrected csrf vulnerability<\/li>\n<\/ol>\n<h4>1.0.13<\/h4>\n<ul>\n<li>Date: 3\/23\/2024<\/li>\n<\/ul>\n<ol>\n<li>corrected csrf vulnerability<\/li>\n<\/ol>\n<h4>1.0.12<\/h4>\n<ul>\n<li>Date: 3\/11\/2012<\/li>\n<\/ul>\n<ol>\n<li>corrected log email being sent to often<\/li>\n<li>added close option on plugin instructions<\/li>\n<li>added option to use open ai instead of website search<\/li>\n<\/ol>\n<h4>1.0.11<\/h4>\n<ul>\n<li>Date: 2\/25\/2024<\/li>\n<\/ul>\n<ol>\n<li>Corrected chatbot not filling screen on mobile devices<\/li>\n<\/ol>\n<h4>1.0.10<\/h4>\n<ul>\n<li>Date: 2\/25\/2024<\/li>\n<\/ul>\n<ol>\n<li>Add FAQ posts<\/li>\n<li>Added basic chat feature with website search and openai<\/li>\n<\/ol>\n<h4>1.0.9<\/h4>\n<ul>\n<li>Date: 2\/24\/2024<\/li>\n<\/ul>\n<ol>\n<li>updated setup instructions<\/li>\n<\/ol>\n<h4>1.0.8<\/h4>\n<ul>\n<li>Date: 2\/23\/2024<\/li>\n<\/ul>\n<ol>\n<li>added Open AI\/ChatGPT support<\/li>\n<\/ol>\n<h4>1.0.7<\/h4>\n<ul>\n<li>Date: 1\/27\/2024<\/li>\n<\/ul>\n<ol>\n<li>corrected chatbot being loaded twice when pro version is installed<\/li>\n<\/ol>\n<h4>1.0.6<\/h4>\n<ul>\n<li>Date: 1\/16\/2024<\/li>\n<\/ul>\n<ol>\n<li>corrected PHP error in chat-features.php on line 468<\/li>\n<\/ol>\n<h4>1.0.5<\/h4>\n<ul>\n<li>Date: 12\/18\/2023<\/li>\n<\/ul>\n<ol>\n<li>corrected chat log query<\/li>\n<\/ol>\n<h4>1.0.4<\/h4>\n<ul>\n<li>Date: 12\/10\/2023<\/li>\n<\/ul>\n<ol>\n<li>corrected php coding standards<\/li>\n<\/ol>\n<h4>1.0.3<\/h4>\n<ul>\n<li>Date: 11\/25\/2023<\/li>\n<\/ul>\n<ol>\n<li>corrected unescaped output variables<\/li>\n<\/ol>\n<h4>1.0.2<\/h4>\n<ul>\n<li>Date: 11\/5\/2023<\/li>\n<\/ul>\n<ol>\n<li>corrected php error<\/li>\n<\/ol>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Date: 10\/30\/2023<\/li>\n<\/ul>\n<ol>\n<li>Misc updates<\/li>\n<\/ol>\n<h4>1.0<\/h4>\n<ul>\n<li>Date: 10\/29\/2023<\/li>\n<\/ul>\n<ol>\n<li>First release of the plugin.<\/li>\n<\/ol>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/ai-chatbot-easy-integration\/assets\/screenshot-1.png?rev=3013807\"><img src=\"https:\/\/ps.w.org\/ai-chatbot-easy-integration\/assets\/screenshot-1.png?rev=3013807\" alt=\"Easily add a chatbot powered by IBM Watson Assistant to your website using AI Chatbot Easy Integration.\"><\/a><p>Easily add a chatbot powered by IBM Watson Assistant to your website using AI Chatbot Easy Integration.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/ai-chatbot-easy-integration\/assets\/screenshot-2.png?rev=3013807\"><img src=\"https:\/\/ps.w.org\/ai-chatbot-easy-integration\/assets\/screenshot-2.png?rev=3013807\" alt=\"Enhance your online support using AI Chatbot Easy Integration. Service agents spend much of their time searching to find answers, increasing response time and frustrating customers. Our AI Chatbot can automate the repetitive requests and allow agents to solve more complex customer problems.\"><\/a><p>Enhance your online support using AI Chatbot Easy Integration. Service agents spend much of their time searching to find answers, increasing response time and frustrating customers. Our AI Chatbot can automate the repetitive requests and allow agents to solve more complex customer problems.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/ai-chatbot-easy-integration\/assets\/screenshot-3.png?rev=3013807\"><img src=\"https:\/\/ps.w.org\/ai-chatbot-easy-integration\/assets\/screenshot-3.png?rev=3013807\" alt=\"Every customer interaction with your chatbot will be recorded and displayed for your agents to review. Responses can be used to better understand the needs of your customers and to improve your chatbot\u2019s performance.\"><\/a><p>Every customer interaction with your chatbot will be recorded and displayed for your agents to review. Responses can be used to better understand the needs of your customers and to improve your chatbot\u2019s performance.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/ai-chatbot-easy-integration\/assets\/screenshot-4.png?rev=3042239\"><img src=\"https:\/\/ps.w.org\/ai-chatbot-easy-integration\/assets\/screenshot-4.png?rev=3042239\" alt=\"Our solution includes a full featured service agent chat feature. Allowing agents to communicate with website users using a dashboard right on your website. Features includes: offline messaging, file attachments, agent transfers, support tickets, quick reply messages and more.\"><\/a><p>Our solution includes a full featured service agent chat feature. Allowing agents to communicate with website users using a dashboard right on your website. Features includes: offline messaging, file attachments, agent transfers, support tickets, quick reply messages and more.<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "This plugin allows you to easily add a chatbot powered by IBM Watson Assistant or ChatGPT\/OpenAI to your website.",
+    "description": "<p>This plugin allows you to easily add a chatbot powered by IBM Watson Assistant or ChatGPT\/OpenAI to your website. Leverage generative AI capabilities in your virtual assistant using our AI Chatbot powered by IBM\u2019s Industry leading Watson Assistant or the extremely popular ChatGPT\/OpenAI framework. Test and implement Open AI complex capabilities such as text to speech, moderation and image generation. Deploy your chatbot in minutes. No coding is required!<\/p>\n<p>Features included in the free version:<br \/>\n1. Display a chatbot on your website<br \/>\n2. Easy, seamless Watson Assistant and\/or ChatGPT\/OpenAI Integration<br \/>\n3. Chat history on your website dashboard<br \/>\n4. Daily chat log emails<br \/>\n5. 7 days of chat log history<\/p>\n<p>The full featured Pro version of AI Chatbot Easy Integration includes everything you need to provide top notch customer care. <a href=\"https:\/\/www.aichatboteasyintegration.com\/\" rel=\"nofollow ugc\">Learn more at AIChatbotEasyIntegration.com<\/a><\/p>\n<p>Additional features foun in the pro version include:<br \/>\n1. Live online chat<br \/>\n2. Offline messages<br \/>\n3. Unlimited support agents<br \/>\n4. Chat log emails throughout the day<br \/>\n5. Unlimited chat log history<br \/>\n6. Transfer chats between agents<br \/>\n7. Accept file attachments<br \/>\n8. Generate support tickets from chat sessions<br \/>\n9. SMS messaging using Twilio<br \/>\n10. Search your website for answers to questions<br \/>\n11. Search OpenAI for answers to questions<\/p>\n<p>Includes a free 14 day trial!<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/ai-chatbot-easy-integration.1.0.15.zip",
+    "upgrade_notice": {
+        "1.0": "<ol>\n<li>First release of the plugin.<\/li>\n<\/ol>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/ai-chatbot-easy-integration\/assets\/screenshot-1.png?rev=3013807",
+            "caption": "Easily add a chatbot powered by IBM Watson Assistant to your website using AI Chatbot Easy Integration."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/ai-chatbot-easy-integration\/assets\/screenshot-2.png?rev=3013807",
+            "caption": "Enhance your online support using AI Chatbot Easy Integration. Service agents spend much of their time searching to find answers, increasing response time and frustrating customers. Our AI Chatbot can automate the repetitive requests and allow agents to solve more complex customer problems."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/ai-chatbot-easy-integration\/assets\/screenshot-3.png?rev=3013807",
+            "caption": "Every customer interaction with your chatbot will be recorded and displayed for your agents to review. Responses can be used to better understand the needs of your customers and to improve your chatbot\u2019s performance."
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/ai-chatbot-easy-integration\/assets\/screenshot-4.png?rev=3042239",
+            "caption": "Our solution includes a full featured service agent chat feature. Allowing agents to communicate with website users using a dashboard right on your website. Features includes: offline messaging, file attachments, agent transfers, support tickets, quick reply messages and more."
+        }
+    },
+    "tags": {
+        "ai-chatbot": "AI Chatbot",
+        "chatbot": "chatbot",
+        "chatgpt": "ChatGPT",
+        "openai": "openai",
+        "watson-assistant": "watson assistant"
+    },
+    "stable_tag": "1.0.15",
+    "versions": {
+        "1.0.10": "https:\/\/downloads.wordpress.org\/plugin\/ai-chatbot-easy-integration.1.0.10.zip",
+        "1.0.11": "https:\/\/downloads.wordpress.org\/plugin\/ai-chatbot-easy-integration.1.0.11.zip",
+        "1.0.12": "https:\/\/downloads.wordpress.org\/plugin\/ai-chatbot-easy-integration.1.0.12.zip",
+        "1.0.13": "https:\/\/downloads.wordpress.org\/plugin\/ai-chatbot-easy-integration.1.0.13.zip",
+        "1.0.14": "https:\/\/downloads.wordpress.org\/plugin\/ai-chatbot-easy-integration.1.0.14.zip",
+        "1.0.15": "https:\/\/downloads.wordpress.org\/plugin\/ai-chatbot-easy-integration.1.0.15.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/ai-chatbot-easy-integration.1.0.5.zip",
+        "1.0.6": "https:\/\/downloads.wordpress.org\/plugin\/ai-chatbot-easy-integration.1.0.6.zip",
+        "1.0.7": "https:\/\/downloads.wordpress.org\/plugin\/ai-chatbot-easy-integration.1.0.7.zip",
+        "1.0.8": "https:\/\/downloads.wordpress.org\/plugin\/ai-chatbot-easy-integration.1.0.8.zip",
+        "1.0.9": "https:\/\/downloads.wordpress.org\/plugin\/ai-chatbot-easy-integration.1.0.9.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/ai-chatbot-easy-integration.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/ai-chatbot-easy-integration\/assets\/icon-128x128.png?rev=3013807"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

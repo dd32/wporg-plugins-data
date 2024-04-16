@@ -1,0 +1,467 @@
+{
+    "name": "Jetpack VideoPress",
+    "slug": "jetpack-videopress",
+    "version": "1.7",
+    "author": "<a href=\"https:\/\/jetpack.com\/videopress\/\">Automattic - Jetpack Video team<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/automattic\/",
+    "contributors": {
+        "automattic": {
+            "profile": "https:\/\/profiles.wordpress.org\/automattic\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/687b3bf96c41800814e3b93766444283?s=96&d=monsterid&r=g",
+            "display_name": "Automattic"
+        },
+        "retrofox": {
+            "profile": "https:\/\/profiles.wordpress.org\/retrofox\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3e37f1c7095721acea903744625cb7dd?s=96&d=monsterid&r=g",
+            "display_name": "retrofox"
+        },
+        "oskosk": {
+            "profile": "https:\/\/profiles.wordpress.org\/oskosk\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/581363553566e925da7563317ab9749d?s=96&d=monsterid&r=g",
+            "display_name": "Osk"
+        },
+        "thehenridev": {
+            "profile": "https:\/\/profiles.wordpress.org\/thehenridev\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/88913aa21ca375eb699ac714ba09b3ff?s=96&d=monsterid&r=g",
+            "display_name": "Douglas Henri"
+        },
+        "renatoagds": {
+            "profile": "https:\/\/profiles.wordpress.org\/renatoagds\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/70dd568a63c3f0e3cc024558808af690?s=96&d=monsterid&r=g",
+            "display_name": "Renato Augusto Gama dos Santos"
+        },
+        "lhkowalski": {
+            "profile": "https:\/\/profiles.wordpress.org\/lhkowalski\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/4b84636d3c24b53a6d0b53df89378818?s=96&d=monsterid&r=g",
+            "display_name": "Luiz Kowalski"
+        },
+        "nunyvega": {
+            "profile": "https:\/\/profiles.wordpress.org\/nunyvega\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/4e2718baa8f123cd1cc70e3f1bec05f4?s=96&d=monsterid&r=g",
+            "display_name": "nunyvega"
+        },
+        "leogermani": {
+            "profile": "https:\/\/profiles.wordpress.org\/leogermani\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/8768276e0186aba24f478eb3d88b6a68?s=96&d=monsterid&r=g",
+            "display_name": "leogermani"
+        },
+        "cgastrell": {
+            "profile": "https:\/\/profiles.wordpress.org\/cgastrell\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/5eeed1a8b1d5aa7e93e3d5333acdf4db?s=96&d=monsterid&r=g",
+            "display_name": "cgastrell"
+        }
+    },
+    "requires": "6.3",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 88,
+    "ratings": {
+        "5": 6,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 1
+    },
+    "num_ratings": 7,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/jetpack-videopress\/",
+    "support_threads": 8,
+    "support_threads_resolved": 5,
+    "active_installs": 5000,
+    "downloaded": 43222,
+    "last_updated": "2023-11-21 7:17pm GMT",
+    "added": "2022-10-25",
+    "homepage": "https:\/\/wordpress.org\/plugins\/jetpack-videopress",
+    "sections": {
+        "description": "<h3>AD-FREE, CUSTOMIZABLE VIDEO PLAYER FOR WORDPRESS<\/h3>\n<p>With an immersive design, VideoPress is ideal for videographers, creators, filmmakers, educators, and bloggers seeking to upload high-quality videos with ease.<\/p>\n<h4>Built for WordPress<\/h4>\n<p>Take advantage of full integration with the best video hosting plugin created specifically for WordPress. Bring your ideas to the screen and save time by managing your videos in the same interface as your website. You can drag and drop videos directly into WordPress, and manage them in the media library.<\/p>\n<h4>Ad-free videos offer a better experience<\/h4>\n<p>Tired of video companies sending your customers to their app to view videos? Or worse, showing inappropriate ads to your site visitors? Our customizable video player for WordPress keeps people on your site so the spotlight is all yours. With VideoPress, you can avoid intrusive ads or imposing player branding.<\/p>\n<h4>High-quality, lightning-fast video hosting<\/h4>\n<p>Take the complexity out of self-hosting videos. VideoPress offers fully-hosted videos and a CDN to ensure instant video speed for your audience around the globe. With our powerful and reliable hosting infrastructure, you can provide your audience with fast-motion videos with 60 FPS and full 4K resolution.<\/p>\n<h4>A complete video experience from the WordPress Editor<\/h4>\n<p>With the <a href=\"https:\/\/jetpack.com\/support\/jetpack-videopress\/add-video-block-editor\/\" rel=\"nofollow ugc\">Jetpack VideoPress Block<\/a>, adding videos to your content has never been easier. This powerful tool lets you effortlessly insert videos straight from the WordPress Editor and comes packed with advanced features like subtitles, captions, chapters, private videos, and poster images.<\/p>\n<ul>\n<li>Adaptive Streaming \u2013 Videos play back faster by automatically adjusting video quality based on bandwidth and display size. The viewer can still choose the quality they\u2019d like in the menu.<\/li>\n<li>Reliable Global Hosting and Video CDN \u2013 Built on WordPress.com\u2019s world-class cloud infrastructure, your videos are stored in multiple servers across the globe to ensure quick delivery no matter where your audience is.<\/li>\n<li>Subtitles, Captions, and Chapters \u2013 Simply upload your text tracks via the VideoPress block and they will be available on the video as soon as you publish.<\/li>\n<li>Progress Bar Color Match \u2013 The VideoPress seekbar now adapts its color to match the scenes in your videos. This makes your content really pop.<\/li>\n<li>Optimized for mobile \u2013 Switch between mobile and desktop without missing a beat.<\/li>\n<li>Picture-in-picture \u2013 Pop out the video from the web browser for easier viewing.<\/li>\n<li>Unlimited Logins \u2013 Work with a team? We don\u2019t charge per seat, so everyone that works on your site can have their own login.<\/li>\n<li>High-Resolution Videos Up to 4K \u2013 Watch crisp images on any display and screen size. We\u2019ve added video display for 1440p, 60 FPS, and full 4K resolution.<\/li>\n<li>Ad-free video &#8211; Keep the spotlight on your content, not on ads you can\u2019t control.<\/li>\n<\/ul>\n<h4>Your one-stop solution for video management<\/h4>\n<p><a href=\"https:\/\/jetpack.com\/support\/jetpack-videopress\/the-jetpack-videopress-dashboard\/\" rel=\"nofollow ugc\">The VideoPress Dashboard<\/a> is a centralized space to upload and manage your video library. Filter your library by rating or privacy setting, view your library in multiple ways, and upload local videos to your Jetpack cloud library.<\/p>\n<h3>WITH \ud83d\udc9a BY JETPACK<\/h3>\n",
+        "installation": "<h3>Installation<\/h3>\n<ol>\n<li>To begin, click on the Plugins link in the left hand sidebar, then click Add New.<\/li>\n<li>Search for VideoPress. The latest version will be in the search results. Click the Install Now button.<\/li>\n<li>Next, click the Activate button. After activating, you will be prompted to set up VideoPress.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='is%20jetpack%20videopress%20free%3F'>\nIs Jetpack VideoPress free?\n<\/h4>\n<p>\n<p>Jetpack VideoPress is free to try. You get free video hosting for WordPress for one video with a file size of up to 1 GB.<\/p>\n<p>To get unlimited videos with a total storage of up to 1 TB, upgrade to the paid plan.<\/p>\n<\/p>\n<dt id='is%20jetpack%20videopress%20included%20in%20a%20jetpack%20plan%3F'>\nIs Jetpack VideoPress included in a Jetpack plan?\n<\/h4>\n<p>\n<p>Jetpack\u2019s video player for WordPress is included in the Jetpack Complete plan. It is not currently included in any other plan.<\/p>\n<\/p>\n<dt id='is%20there%20a%20storage%20limit%3F'>\nIs there a storage limit?\n<\/h4>\n<p>\n<p>The free plan has a limit of 1 video and 1 GB.<\/p>\n<p>The paid plan has a storage limit of 1 TB.<\/p>\n<\/p>\n<dt id='is%20there%20a%20file%20size%20limit%3F'>\nIs there a file size limit?\n<\/h4>\n<p>\n<p>The file size limit is 5 GB. However, on slower networks, there is a chance the network will time out before being able to upload larger videos to a WordPress site.<\/p>\n<\/p>\n\n",
+        "changelog": "<h3>1.5 &#8211; 2023-03-22<\/h3>\n<h4>Added<\/h4>\n<ul>\n<li>Added request and update video poster functionality<\/li>\n<li>Added label and help properties support for the TimestampControl component<\/li>\n<li>Added basic upload functionality to mobile app block version<\/li>\n<li>Added details panel to mobile app block&#8217;s settings<\/li>\n<li>Added check to remove tracks from previous video after replacement on block<\/li>\n<\/ul>\n<h4>Changed<\/h4>\n<ul>\n<li>Indicated full compatibility with the latest version of WordPress, 6.2.<\/li>\n<li>Updated deprecated core prop<\/li>\n<li>Replaced loading placeholder<\/li>\n<li>Updated package dependencies<\/li>\n<\/ul>\n<h4>Fixed<\/h4>\n<ul>\n<li>Fixed video details form change detection<\/li>\n<li>Fixed race condition when saving the post too fast after uploading a video<\/li>\n<li>Fixed video library displaying arbitrary video in first page<\/li>\n<li>Fixed opening upload options automatically when  block is inserted from the block inserter menu (mobile)<\/li>\n<li>Fixed handling failed uploads on VideoPress block<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/jetpack-videopress\/assets\/screenshot-1.png?rev=2803565\"><img src=\"https:\/\/ps.w.org\/jetpack-videopress\/assets\/screenshot-1.png?rev=2803565\" alt=\"Add and manage your videos from your VideoPress library.\"><\/a><p>Add and manage your videos from your VideoPress library.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/jetpack-videopress\/assets\/screenshot-2.png?rev=2803565\"><img src=\"https:\/\/ps.w.org\/jetpack-videopress\/assets\/screenshot-2.png?rev=2803565\" alt=\"Browse through your videos and edit their details.\"><\/a><p>Browse through your videos and edit their details.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/jetpack-videopress\/assets\/screenshot-3.png?rev=2941033\"><img src=\"https:\/\/ps.w.org\/jetpack-videopress\/assets\/screenshot-3.png?rev=2941033\" alt=\"Upload your local videos to VideoPress.\"><\/a><p>Upload your local videos to VideoPress.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/jetpack-videopress\/assets\/screenshot-4.png?rev=2941033\"><img src=\"https:\/\/ps.w.org\/jetpack-videopress\/assets\/screenshot-4.png?rev=2941033\" alt=\"Edit your video details, cover image, and privacy from your VideoPress library.\"><\/a><p>Edit your video details, cover image, and privacy from your VideoPress library.<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Fantastic Plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/laser558\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/9c19b127a777d3470efe0a4303f5d0f6?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/9c19b127a777d3470efe0a4303f5d0f6?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/laser558\/\" class=\"reviewer-name\">laser558<\/a> on <span class=\"review-date\">December 3, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">So glad I found this plugin, it does exactly what I need it to do. Also, the help I received from Customer Support in setting it up the way I needed was beyond brilliant. They were polite, patient, and tested every step of the way with me. Thank you!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">it is ok howevr we still need to stream youtube, facebook<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/varkis\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/ed77ee1e9ba027a35313df268f99ef3e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/ed77ee1e9ba027a35313df268f99ef3e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/varkis\/\" class=\"reviewer-name\">varkis<\/a> on <span class=\"review-date\">August 28, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">It's fantastic, but we're still dependent on YouTube and Facebook for live streaming. Unless they introduce improved streaming capabilities, I believe many of us will opt out.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Paid Sub is a mess<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/trainingcity\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/3cb729d0e132c81d6991e12fd9a8ac34?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/3cb729d0e132c81d6991e12fd9a8ac34?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/trainingcity\/\" class=\"reviewer-name\">trainingcity<\/a> on <span class=\"review-date\">June 15, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>I paid for the annual fee for one site and now every time I go to the jetpack website I am confront with an \"upgrade\" button that goes straight to preformatted version of the bill I already paid for the service, and wants me to pay again. The cc information is already filled in, and they are ready to double bill you if you make one mistake on the UI.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Also, there does not seem to be any way to tag and organize the videos, at least given that I can barely get beyond being double billed if I try to login to their site, I could not find any way to manage my videos. The plugin does not allow any sorting or tagging. Also, does not support webm format.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Given that there are many video hosting services out there, this is a complete waste of time and money.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Best Video Plugin!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/pycawnings\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/3f49db641942e813bb751cc6b48f84d7?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/3f49db641942e813bb751cc6b48f84d7?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/pycawnings\/\" class=\"reviewer-name\">Sandy Price <small>(pycawnings)<\/small><\/a> on <span class=\"review-date\">June 7, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Video Press is the best one I have used by far for my WordPress site. Exceptional customer service too, if you need help. Highly recommend!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">THE BEST<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/f50ec56b\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/caf4f08b795d7c2cc90007cc4868cc2a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/caf4f08b795d7c2cc90007cc4868cc2a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/f50ec56b\/\" class=\"reviewer-name\">f50ec56b<\/a> on <span class=\"review-date\">April 29, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Cheap Video Hosting But Best Quality<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">best video hosting solution<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/vm3cl4luke\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/ce7fada363ec24acc2f3b5b976754945?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/ce7fada363ec24acc2f3b5b976754945?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/vm3cl4luke\/\" class=\"reviewer-name\">vm3cl4luke<\/a> on <span class=\"review-date\">February 11, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Best video hosting solution, tried everything and surprisingly found the solution is here in Jetpack. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Looks great and no ads<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/robertbpugh\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/50e1ea84ef01d250f516410d975bfcd8?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/50e1ea84ef01d250f516410d975bfcd8?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/robertbpugh\/\" class=\"reviewer-name\">Rob Pugh <small>(robertbpugh)<\/small><\/a> on <span class=\"review-date\">November 8, 2022<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">It's so easy to host videos straight from the editor. Saves me a lot of time and I don't have to deal with YouTube.<\/div>\n<\/div>\n"
+    },
+    "short_description": "The finest video hosting for WordPress. Stunning-quality video with none of the hassle. Drag and drop videos through the WordPress editor and keep the &hellip;",
+    "description": "<h3>AD-FREE, CUSTOMIZABLE VIDEO PLAYER FOR WORDPRESS<\/h3>\n<p>With an immersive design, VideoPress is ideal for videographers, creators, filmmakers, educators, and bloggers seeking to upload high-quality videos with ease.<\/p>\n<h4>Built for WordPress<\/h4>\n<p>Take advantage of full integration with the best video hosting plugin created specifically for WordPress. Bring your ideas to the screen and save time by managing your videos in the same interface as your website. You can drag and drop videos directly into WordPress, and manage them in the media library.<\/p>\n<h4>Ad-free videos offer a better experience<\/h4>\n<p>Tired of video companies sending your customers to their app to view videos? Or worse, showing inappropriate ads to your site visitors? Our customizable video player for WordPress keeps people on your site so the spotlight is all yours. With VideoPress, you can avoid intrusive ads or imposing player branding.<\/p>\n<h4>High-quality, lightning-fast video hosting<\/h4>\n<p>Take the complexity out of self-hosting videos. VideoPress offers fully-hosted videos and a CDN to ensure instant video speed for your audience around the globe. With our powerful and reliable hosting infrastructure, you can provide your audience with fast-motion videos with 60 FPS and full 4K resolution.<\/p>\n<h4>A complete video experience from the WordPress Editor<\/h4>\n<p>With the <a href=\"https:\/\/jetpack.com\/support\/jetpack-videopress\/add-video-block-editor\/\" rel=\"nofollow ugc\">Jetpack VideoPress Block<\/a>, adding videos to your content has never been easier. This powerful tool lets you effortlessly insert videos straight from the WordPress Editor and comes packed with advanced features like subtitles, captions, chapters, private videos, and poster images.<\/p>\n<ul>\n<li>Adaptive Streaming \u2013 Videos play back faster by automatically adjusting video quality based on bandwidth and display size. The viewer can still choose the quality they\u2019d like in the menu.<\/li>\n<li>Reliable Global Hosting and Video CDN \u2013 Built on WordPress.com\u2019s world-class cloud infrastructure, your videos are stored in multiple servers across the globe to ensure quick delivery no matter where your audience is.<\/li>\n<li>Subtitles, Captions, and Chapters \u2013 Simply upload your text tracks via the VideoPress block and they will be available on the video as soon as you publish.<\/li>\n<li>Progress Bar Color Match \u2013 The VideoPress seekbar now adapts its color to match the scenes in your videos. This makes your content really pop.<\/li>\n<li>Optimized for mobile \u2013 Switch between mobile and desktop without missing a beat.<\/li>\n<li>Picture-in-picture \u2013 Pop out the video from the web browser for easier viewing.<\/li>\n<li>Unlimited Logins \u2013 Work with a team? We don\u2019t charge per seat, so everyone that works on your site can have their own login.<\/li>\n<li>High-Resolution Videos Up to 4K \u2013 Watch crisp images on any display and screen size. We\u2019ve added video display for 1440p, 60 FPS, and full 4K resolution.<\/li>\n<li>Ad-free video &#8211; Keep the spotlight on your content, not on ads you can\u2019t control.<\/li>\n<\/ul>\n<h4>Your one-stop solution for video management<\/h4>\n<p><a href=\"https:\/\/jetpack.com\/support\/jetpack-videopress\/the-jetpack-videopress-dashboard\/\" rel=\"nofollow ugc\">The VideoPress Dashboard<\/a> is a centralized space to upload and manage your video library. Filter your library by rating or privacy setting, view your library in multiple ways, and upload local videos to your Jetpack cloud library.<\/p>\n<h3>WITH \ud83d\udc9a BY JETPACK<\/h3>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-videopress.1.7.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/jetpack-videopress\/assets\/screenshot-1.png?rev=2803565",
+            "caption": "Add and manage your videos from your VideoPress library."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/jetpack-videopress\/assets\/screenshot-2.png?rev=2803565",
+            "caption": "Browse through your videos and edit their details."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/jetpack-videopress\/assets\/screenshot-3.png?rev=2941033",
+            "caption": "Upload your local videos to VideoPress."
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/jetpack-videopress\/assets\/screenshot-4.png?rev=2941033",
+            "caption": "Edit your video details, cover image, and privacy from your VideoPress library."
+        }
+    },
+    "tags": {
+        "cdn": "cdn",
+        "video": "video",
+        "video-hosting": "video hosting",
+        "video-player": "video player",
+        "vimeo": "vimeo"
+    },
+    "stable_tag": "1.7",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-videopress.1.0.0.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-videopress.1.1.0.zip",
+        "1.1.0-beta": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-videopress.1.1.0-beta.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-videopress.1.2.0.zip",
+        "1.2.0-beta": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-videopress.1.2.0-beta.zip",
+        "1.2.1": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-videopress.1.2.1.zip",
+        "1.3.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-videopress.1.3.0.zip",
+        "1.4.0": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-videopress.1.4.0.zip",
+        "1.5": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-videopress.1.5.zip",
+        "1.6": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-videopress.1.6.zip",
+        "1.6-beta": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-videopress.1.6-beta.zip",
+        "1.7": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-videopress.1.7.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-videopress.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/jetpack-videopress\/assets\/banner-772-250.png?rev=2803565",
+        "high": "https:\/\/ps.w.org\/jetpack-videopress\/assets\/banner-1544x500.png?rev=2803565"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/jetpack-videopress\/assets\/icon.svg?rev=2818893",
+        "svg": "https:\/\/ps.w.org\/jetpack-videopress\/assets\/icon.svg?rev=2818893"
+    },
+    "blocks": {
+        "videopress\/video": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 2,
+            "name": "videopress\/video",
+            "version": "0.1.0",
+            "title": "VideoPress",
+            "category": "media",
+            "icon": "<svg viewBox='0 0 29 21' width='24' height='24' xmlns='http:\/\/www.w3.org\/2000\/svg'><path fill-rule='evenodd' clip-rule='evenodd' d='M2.79037 0.59375C4.0363 0.59375 5.13102 1.41658 5.47215 2.60947L8.8452 14.4044C8.8486 14.4164 8.85411 14.4273 8.86124 14.4368L12.8572 0.59375H15.0927H21.2721C25.6033 0.59375 28.5066 3.39892 28.5066 7.64565C28.5066 11.9411 25.5272 14.6196 21.0818 14.6196H18.1499H14.3719L13.6379 16.8813C12.9796 18.9095 11.0827 20.2839 8.94152 20.2839C6.80035 20.2839 4.90341 18.9095 4.24517 16.8813L0.137069 4.22276C-0.444671 2.43022 0.898038 0.59375 2.79037 0.59375ZM15.7374 10.4119H20.0156C21.8718 10.4119 22.9856 9.35018 22.9856 7.64565C22.9856 5.93137 21.8718 4.91839 20.0156 4.91839H17.5202L15.7374 10.4119Z'><\/path><\/svg>",
+            "description": "Embed a video from your media library or upload a new one with VideoPress.",
+            "supports": {
+                "html": false,
+                "align": true,
+                "anchor": true,
+                "spacing": {
+                    "margin": true,
+                    "padding": true
+                }
+            },
+            "attributes": {
+                "autoplay": {
+                    "type": "boolean"
+                },
+                "anchor": {
+                    "type": "string"
+                },
+                "title": {
+                    "type": "string"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "caption": {
+                    "type": "string"
+                },
+                "controls": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "loop": {
+                    "type": "boolean"
+                },
+                "maxWidth": {
+                    "type": "string",
+                    "default": "100%"
+                },
+                "muted": {
+                    "type": "boolean"
+                },
+                "playsinline": {
+                    "type": "boolean"
+                },
+                "preload": {
+                    "type": "string",
+                    "default": "metadata"
+                },
+                "seekbarPlayedColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "seekbarLoadingColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "seekbarColor": {
+                    "type": "string",
+                    "default": ""
+                },
+                "useAverageColor": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "id": {
+                    "type": "number"
+                },
+                "guid": {
+                    "type": "string"
+                },
+                "src": {
+                    "type": "string"
+                },
+                "cacheHtml": {
+                    "type": "string",
+                    "default": ""
+                },
+                "poster": {
+                    "type": "string"
+                },
+                "posterData": {
+                    "type": "object",
+                    "default": {}
+                },
+                "videoRatio": {
+                    "type": "number"
+                },
+                "tracks": {
+                    "type": "array",
+                    "items": {
+                        "type": "object"
+                    },
+                    "default": []
+                },
+                "privacySetting": {
+                    "type": "number",
+                    "default": 1
+                },
+                "allowDownload": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "displayEmbed": {
+                    "type": "boolean",
+                    "default": true
+                },
+                "rating": {
+                    "type": "string"
+                },
+                "isPrivate": {
+                    "type": "boolean"
+                },
+                "isExample": {
+                    "type": "boolean",
+                    "default": false
+                },
+                "duration": {
+                    "type": "number"
+                }
+            },
+            "textdomain": "jetpack-videopress",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style.css",
+            "viewScript": "file:.\/view.js"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": "6",
+    "author_block_rating": 92.5,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "ar",
+            "version": "1.7",
+            "updated": "2023-05-29 09:09:16",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/ar.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "de_DE",
+            "version": "1.7",
+            "updated": "2024-02-21 00:28:37",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "en_AU",
+            "version": "1.7",
+            "updated": "2023-11-21 20:20:07",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/en_AU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "es_ES",
+            "version": "1.7",
+            "updated": "2023-10-31 09:45:46",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "fr_FR",
+            "version": "1.7",
+            "updated": "2023-05-29 09:10:28",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "gl_ES",
+            "version": "1.7",
+            "updated": "2023-11-01 02:15:07",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/gl_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "he_IL",
+            "version": "1.7",
+            "updated": "2023-05-29 09:09:50",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/he_IL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "id_ID",
+            "version": "1.7",
+            "updated": "2023-04-11 08:38:44",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/id_ID.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "it_IT",
+            "version": "1.7",
+            "updated": "2023-05-29 09:09:54",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "ja",
+            "version": "1.7",
+            "updated": "2024-01-16 13:04:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/ja.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "ko_KR",
+            "version": "1.7",
+            "updated": "2023-06-13 02:54:14",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/ko_KR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "nb_NO",
+            "version": "1.7",
+            "updated": "2024-04-12 00:15:32",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/nb_NO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "nl_NL",
+            "version": "1.7",
+            "updated": "2023-10-30 23:10:41",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "nl_BE",
+            "version": "1.7",
+            "updated": "2023-11-21 20:20:05",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/nl_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "pt_BR",
+            "version": "1.7",
+            "updated": "2023-04-13 07:55:42",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/pt_BR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "ro_RO",
+            "version": "1.7",
+            "updated": "2024-03-28 21:42:15",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/ro_RO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "ru_RU",
+            "version": "1.7",
+            "updated": "2023-05-29 09:10:38",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "sq",
+            "version": "1.7",
+            "updated": "2024-02-27 19:14:40",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/sq.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "sv_SE",
+            "version": "1.7",
+            "updated": "2023-11-22 12:49:53",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/sv_SE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "tr_TR",
+            "version": "1.7",
+            "updated": "2023-05-29 09:09:21",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/tr_TR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "uk",
+            "version": "1.7",
+            "updated": "2024-04-11 06:26:23",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/uk.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "zh_CN",
+            "version": "1.7",
+            "updated": "2023-05-29 09:10:24",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/zh_CN.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "jetpack-videopress",
+            "language": "zh_TW",
+            "version": "1.7",
+            "updated": "2023-04-13 08:34:16",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/jetpack-videopress\/1.7\/zh_TW.zip"
+        }
+    ]
+}

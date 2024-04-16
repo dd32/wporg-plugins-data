@@ -1,0 +1,90 @@
+{
+    "name": "Hide Site Title Remover",
+    "slug": "hide-site-title",
+    "version": "1.00",
+    "author": "<a href=\"http:\/\/billminozzi.com\">Bill Minozzi<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/sminozzi\/",
+    "contributors": {
+        "sminozzi": {
+            "profile": "https:\/\/profiles.wordpress.org\/sminozzi\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/1f0fa91b74aa1bda0b512e8f0b7eb49f?s=96&d=monsterid&r=g",
+            "display_name": "Bill Minozzi"
+        }
+    },
+    "requires": "4.0",
+    "tested": "6.5.2",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/hide-site-title\/",
+    "support_threads": 1,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 147,
+    "last_updated": "2024-03-25 5:01pm GMT",
+    "added": "2024-03-10",
+    "homepage": "",
+    "sections": {
+        "description": "<p><strong>Hide Site Title Remover<\/strong><br \/>\n\u2605\u2605\u2605\u2605\u2605<\/p>\n<blockquote>\n<p>The Hide Site Title Remover plugin allows you to easily remove titles from your WordPress posts and pages.<\/p>\n<\/blockquote>\n<p>Comprehensive Title Removal Strategy: Leveraging 3 Approaches for Success!<br \/>\nThis plugin will attempt 3 approaches to ensure success in removing the title.<\/p>\n<p>1) It will try to do so using WordPress get_post_meta.<br \/>\n2) It will attempt to hide it with CSS by changing the properties of the entry-title element.<br \/>\n3) If these two approaches do not work, it will proceed to step 3 and allow you to locate the ID or class of the title element and inform the plugin. That&#8217;s all we can do to ensure that the goal is achieved.<\/p>\n<p>This plugin will attempt to automatically hide the title of your pages and posts as selected in the Settings Tab.<br \/>\nHowever, if your theme does not adhere to WordPress standards and the title continues to appear, you will need to identify the class or ID of your element (title) and add the details in the Settings Tab. There, in the Settings Tab, you will receive more information on how to do it.<\/p>\n<p>If you choose to hide only selected pages and posts, the plugin will add a metabox* to all pages and posts for you to mark and decide whether the title will be displayed or not.<br \/>\n(*) The plugin dashboard will provide you with more details about the Metabox on the help button.<\/p>\n<p>Using Selected Pages Method, if possible, the plugin will completely removes the title instead of just hiding with CSS or JavaScript.<\/p>\n<p><strong>If you encounter any issues, please request free support before leaving a negative review, as various factors such as low WordPress memory and other considerations may be at play. Check out our Troubleshooting tab.<\/strong><\/p>\n<h3>Related Tags<\/h3>\n<p>Hide WordPress page title<br \/>\nRemove WordPress page title<br \/>\nHide page title WordPress<br \/>\nHow to hide page title in WordPress<br \/>\nHide WordPress page title plugin<br \/>\nHide WordPress page title theme<br \/>\nHide WordPress page title Gutenberg<br \/>\nHide WordPress page title Elementor<br \/>\nHide specific page title WordPress<br \/>\nHide WordPress homepage title<br \/>\nHide WordPress page title CSS<br \/>\nHide WordPress page title JavaScript<br \/>\nHide WordPress page title PHP function<\/p>\n",
+        "installation": "<ol>\n<li>Upload the <code>hide-site-title<\/code> folder to the <code>\/wp-content\/plugins\/<\/code> directory.<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress.<\/li>\n<li>Configure plugin settings under the &#8216;Settings&#8217; menu.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='how%20do%20i%20access%20the%20plugin%20after%20installation%3F'>\nHow do I access the plugin after installation?\n<\/h4>\n<p>\n<p>After installing the plugin, navigate to the &#8216;Tools&#8217; menu on your WordPress dashboard and click on &#8216;Hide Site Title.&#8217;<\/p>\n<\/p>\n<dt id='can%20i%20hide%20titles%20selectively%3F'>\nCan I hide titles selectively?\n<\/h4>\n<p>\n<p>Yes, the plugin provides options to hide titles globally or selectively for each post or page. You can configure these settings under the &#8216;Settings&#8217; menu.<\/p>\n<\/p>\n<dt id='what%20should%20i%20do%20if%20the%20titles%20are%20not%20hiding%20as%20expected%3F'>\nWhat should I do if the titles are not hiding as expected?\n<\/h4>\n<p>\n<p>If the titles are not hiding as expected, you can follow these steps:<br \/>\n1. Check if the plugin is activated under the &#8216;Plugins&#8217; menu.<br \/>\n2. Ensure that you have configured the plugin settings correctly under the &#8216;Settings&#8217; menu.<br \/>\n3. If you&#8217;re trying to hide titles selectively, make sure you&#8217;ve marked the corresponding metabox on each post or page.<\/p>\n<\/p>\n<dt id='is%20there%20any%20documentation%20available%20for%20troubleshooting%3F'>\nIs there any documentation available for troubleshooting?\n<\/h4>\n<p>\n<p>Yes, you can visit our troubleshooting page for detailed information and solutions to common problems. https:\/\/siterightaway.net\/troubleshooting<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.00<\/h4>\n<p>Mar 10 2024<br \/>\n* Initial release<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/hide-site-title\/trunk\/screenshot-1.png?rev=3058487\"><img src=\"https:\/\/ps.w.org\/hide-site-title\/trunk\/screenshot-1.png?rev=3058487\" alt=\"Plugin Dashboard\"><\/a><p>Plugin Dashboard<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/hide-site-title\/trunk\/screenshot-2.png?rev=3058487\"><img src=\"https:\/\/ps.w.org\/hide-site-title\/trunk\/screenshot-2.png?rev=3058487\" alt=\"Settings\"><\/a><p>Settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/hide-site-title\/trunk\/screenshot-3.png?rev=3058487\"><img src=\"https:\/\/ps.w.org\/hide-site-title\/trunk\/screenshot-3.png?rev=3058487\" alt=\"Troubleshooting\"><\/a><p>Troubleshooting<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Remove Titles from Posts and Pages. Will attempt 3 approaches to ensure success in removing the title. Choose the pages or posts to remove the title.",
+    "description": "<p><strong>Hide Site Title Remover<\/strong><br \/>\n\u2605\u2605\u2605\u2605\u2605<\/p>\n<blockquote>\n<p>The Hide Site Title Remover plugin allows you to easily remove titles from your WordPress posts and pages.<\/p>\n<\/blockquote>\n<p>Comprehensive Title Removal Strategy: Leveraging 3 Approaches for Success!<br \/>\nThis plugin will attempt 3 approaches to ensure success in removing the title.<\/p>\n<p>1) It will try to do so using WordPress get_post_meta.<br \/>\n2) It will attempt to hide it with CSS by changing the properties of the entry-title element.<br \/>\n3) If these two approaches do not work, it will proceed to step 3 and allow you to locate the ID or class of the title element and inform the plugin. That&#8217;s all we can do to ensure that the goal is achieved.<\/p>\n<p>This plugin will attempt to automatically hide the title of your pages and posts as selected in the Settings Tab.<br \/>\nHowever, if your theme does not adhere to WordPress standards and the title continues to appear, you will need to identify the class or ID of your element (title) and add the details in the Settings Tab. There, in the Settings Tab, you will receive more information on how to do it.<\/p>\n<p>If you choose to hide only selected pages and posts, the plugin will add a metabox* to all pages and posts for you to mark and decide whether the title will be displayed or not.<br \/>\n(*) The plugin dashboard will provide you with more details about the Metabox on the help button.<\/p>\n<p>Using Selected Pages Method, if possible, the plugin will completely removes the title instead of just hiding with CSS or JavaScript.<\/p>\n<p><strong>If you encounter any issues, please request free support before leaving a negative review, as various factors such as low WordPress memory and other considerations may be at play. Check out our Troubleshooting tab.<\/strong><\/p>\n<h3>Related Tags<\/h3>\n<p>Hide WordPress page title<br \/>\nRemove WordPress page title<br \/>\nHide page title WordPress<br \/>\nHow to hide page title in WordPress<br \/>\nHide WordPress page title plugin<br \/>\nHide WordPress page title theme<br \/>\nHide WordPress page title Gutenberg<br \/>\nHide WordPress page title Elementor<br \/>\nHide specific page title WordPress<br \/>\nHide WordPress homepage title<br \/>\nHide WordPress page title CSS<br \/>\nHide WordPress page title JavaScript<br \/>\nHide WordPress page title PHP function<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/hide-site-title.1.00.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/hide-site-title\/trunk\/screenshot-1.png?rev=3058487",
+            "caption": "Plugin Dashboard"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/hide-site-title\/trunk\/screenshot-2.png?rev=3058487",
+            "caption": "Settings"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/hide-site-title\/trunk\/screenshot-3.png?rev=3058487",
+            "caption": "Troubleshooting"
+        }
+    },
+    "tags": {
+        "hide-page-title": "hide page title",
+        "hide-post-title": "hide post title",
+        "hide-title": "hide title",
+        "title": "title",
+        "title-remover": "title remover"
+    },
+    "stable_tag": "1.00",
+    "versions": {
+        "1.00": "https:\/\/downloads.wordpress.org\/plugin\/hide-site-title.1.00.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/hide-site-title.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/billminozzi.com\/donate",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/hide-site-title\/assets\/icon-128x128.gif?rev=3048579",
+        "2x": "https:\/\/ps.w.org\/hide-site-title\/assets\/icon-256x256.gif?rev=3048579"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

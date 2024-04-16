@@ -1,0 +1,107 @@
+{
+    "name": "Product Discount for Woocommerce",
+    "slug": "product-discount-manager",
+    "version": "1.0.1",
+    "author": "<a href=\"https:\/\/sparkcoder.com\">Spark Coder<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/afello\/",
+    "contributors": {
+        "afello": {
+            "profile": "https:\/\/profiles.wordpress.org\/afello\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3710ee4950becb3ae8203f198ad1719c?s=96&d=monsterid&r=g",
+            "display_name": "Innovify"
+        },
+        "srabonr": {
+            "profile": "https:\/\/profiles.wordpress.org\/srabonr\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/07022d0e1858ba0ba1e4e20150fe0bef?s=96&d=monsterid&r=g",
+            "display_name": "srabonr"
+        }
+    },
+    "requires": "5.4",
+    "tested": "6.4.4",
+    "requires_php": "7.1",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/product-discount-manager\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 252,
+    "last_updated": "2024-04-06 8:28am GMT",
+    "added": "2024-02-12",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Product discount manager plugin helps to apply discounts to WooCommerce products quickly &amp; Price Changing. Manage product discount manageer very easily from admin dashboard.<br \/>\nJust install and go ahead and add your discount deals based on any specified parameters, in a matter of minutes.<\/p>\n<p>You can set discounts for products and product variations, simple product, category discount. You can also set discounts based on categories and Change Products Price easily.<\/p>\n<p><strong>Key features:<\/strong><\/p>\n<ul>\n<li>Apply discount to products, based on your existing categories.<\/li>\n<li>Apply discount to products, based on your Product Type like simple, variable, variation etc.<\/li>\n<li>Apply discount to products, based on percentage and fixed amount.<\/li>\n<li>Apply \/ Remove discount to products with a single click, even to thousands of products.<\/li>\n<li>Add\/ Remove discount settings easily with single click.<\/li>\n<\/ul>\n",
+        "installation": "<p>This section describes how to install the plugin and get it working.<br \/>\ne.g.<\/p>\n<ol>\n<li>Go to <code>Plugins<\/code> in the Admin menu<\/li>\n<li>Click on the button <code>Add new<\/code><\/li>\n<li>Search for <code>Product discount manager<\/code> and click <code>Install Now<\/code><\/li>\n<li>Click on the <code>Activate plugin<\/code><\/li>\n<\/ol>\n<p>You can also do it Manually.<\/p>\n<ol>\n<li>Upload  <code>plugin-directory<\/code> to the <code>\/wp-content\/plugins\/<\/code> directory<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress<\/li>\n<\/ol>\n<p>Note : Before activating\/installing this plugin, please ensure that you have installed and activated the WooCommerce plugin.<\/p>\n",
+        "faq": "\n<dt id='can%20i%20use%20this%20plugin%20free%3F'>\nCan i use this plugin free?\n<\/h4>\n<p>\n<p>Yes, You can use it free.<\/p>\n<\/p>\n<dt id='does%20it%20work%20with%20any%20wordpress%20theme%3F'>\nDoes it work with any WordPress theme?\n<\/h4>\n<p>\n<p>Yes, it will work with any standard WordPress theme.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.0<\/h4>\n<ul>\n<li>Initial Release<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Banner &amp; Doc updated<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/product-discount-manager\/assets\/screenshot-1.png?rev=3036083\"><img src=\"https:\/\/ps.w.org\/product-discount-manager\/assets\/screenshot-1.png?rev=3036083\" alt=\"Admin Settings menu\"><\/a><p>Admin Settings menu<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/product-discount-manager\/assets\/screenshot-2.png?rev=3036083\"><img src=\"https:\/\/ps.w.org\/product-discount-manager\/assets\/screenshot-2.png?rev=3036083\" alt=\"Discount Settings Options\"><\/a><p>Discount Settings Options<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/product-discount-manager\/assets\/screenshot-3.png?rev=3036083\"><img src=\"https:\/\/ps.w.org\/product-discount-manager\/assets\/screenshot-3.png?rev=3036083\" alt=\"Created Discount Settings\"><\/a><p>Created Discount Settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/product-discount-manager\/assets\/screenshot-4.png?rev=3036083\"><img src=\"https:\/\/ps.w.org\/product-discount-manager\/assets\/screenshot-4.png?rev=3036083\" alt=\"Price Changing Options\"><\/a><p>Price Changing Options<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/product-discount-manager\/assets\/screenshot-5.png?rev=3034556\"><img src=\"https:\/\/ps.w.org\/product-discount-manager\/assets\/screenshot-5.png?rev=3034556\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Easily Control \/ Provide Discount On Your WordPress WooCommerce Product and change pricing.",
+    "description": "<p>Product discount manager plugin helps to apply discounts to WooCommerce products quickly &amp; Price Changing. Manage product discount manageer very easily from admin dashboard.<br \/>\nJust install and go ahead and add your discount deals based on any specified parameters, in a matter of minutes.<\/p>\n<p>You can set discounts for products and product variations, simple product, category discount. You can also set discounts based on categories and Change Products Price easily.<\/p>\n<p><strong>Key features:<\/strong><\/p>\n<ul>\n<li>Apply discount to products, based on your existing categories.<\/li>\n<li>Apply discount to products, based on your Product Type like simple, variable, variation etc.<\/li>\n<li>Apply discount to products, based on percentage and fixed amount.<\/li>\n<li>Apply \/ Remove discount to products with a single click, even to thousands of products.<\/li>\n<li>Add\/ Remove discount settings easily with single click.<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/product-discount-manager.zip",
+    "upgrade_notice": {
+        "1.0.0": "<ul>\n<li>Initial Release<\/li>\n<\/ul>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/product-discount-manager\/assets\/screenshot-1.png?rev=3036083",
+            "caption": "Admin Settings menu"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/product-discount-manager\/assets\/screenshot-2.png?rev=3036083",
+            "caption": "Discount Settings Options"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/product-discount-manager\/assets\/screenshot-3.png?rev=3036083",
+            "caption": "Created Discount Settings"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/product-discount-manager\/assets\/screenshot-4.png?rev=3036083",
+            "caption": "Price Changing Options"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/product-discount-manager\/assets\/screenshot-5.png?rev=3034556",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "price-change": "price change",
+        "product-discount": "product discount",
+        "product-discount-manager": "product discount manager",
+        "woocommerce": "woocommerce",
+        "wordpress": "WordPress"
+    },
+    "stable_tag": "trunk",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/product-discount-manager.1.0.0.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/sparkcoder.com",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/product-discount-manager\/assets\/banner-772x250.png?rev=3065852",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/product-discount-manager\/assets\/icon-128x128.png?rev=3034569",
+        "2x": "https:\/\/ps.w.org\/product-discount-manager\/assets\/icon-256x256.gif?rev=3065887"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

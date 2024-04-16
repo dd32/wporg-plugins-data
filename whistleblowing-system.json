@@ -1,0 +1,89 @@
+{
+    "name": "Whistleblowing System &#8211; Mobile-Friendly communication form",
+    "slug": "whistleblowing-system",
+    "version": "1.0.9",
+    "author": "<a href=\"https:\/\/whistleblowing-form.de\">Whistleblowing System Team<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/pokhar\/",
+    "contributors": {
+        "pokhar": {
+            "profile": "https:\/\/profiles.wordpress.org\/pokhar\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/ce8335a1b3ae5e576d0e135cb08abee2?s=96&d=monsterid&r=g",
+            "display_name": "Whistleblowing Form Team"
+        }
+    },
+    "requires": "4.6",
+    "tested": "6.4.4",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/whistleblowing-system\/",
+    "support_threads": 2,
+    "support_threads_resolved": 2,
+    "active_installs": 30,
+    "downloaded": 844,
+    "last_updated": "2024-03-14 6:23pm GMT",
+    "added": "2023-12-30",
+    "homepage": "https:\/\/whistleblowing-form.de",
+    "sections": {
+        "description": "<p>Whistleblowing system for internal and external anonymous reporting for companies.<\/p>\n<h4>Useful Links:<\/h4>\n<p><a href=\"https:\/\/whistleblowing-form.de\/\" rel=\"nofollow ugc\">Website<\/a><\/p>\n<p>It is a very simple whistleblowing system (whistleblower protection system) for anonymous reporting.<br \/>\nThe companies can use it to comply with the EU Directive 2019\/1937) and manage cases.<br \/>\nThis solution follows the EU Whistleblower Directive of 2019 and the GDPR and helps the small and large organizations to comply with regulations.<\/p>\n<h3>Whistleblowing System Features<\/h3>\n<p>Two-way communication without registration on the website.<\/p>\n<p><strong>Intuitive Interface<\/strong><br \/>\nSimple, confidential and anonymous reporting.<\/p>\n<p><strong>Two-way communication<\/strong><br \/>\nSimple, confidential and anonymous reporting.<\/p>\n<p><strong>Mobile-Friendly and Responsive<\/strong><br \/>\nYour forms will look great on all resolutions and devices: mobile, tablet, and desktop.<\/p>\n<p><strong>READY-MADE CONTACT FORM<\/strong><br \/>\nThe existing form can be integrated very quickly onto any page using a [shortcode].<\/p>\n<p><strong>CONFIDENTIAL OR ANONYMOUS INFORMATION<\/strong><br \/>\nThe user has the possibility to choose whether the contact should be anonymous or with e-mail address.<\/p>\n<p><strong>NOTIFICATION TO SELECTED EMAIL ADDRESS<\/strong><br \/>\nIt is possible to send a notification to any selected email address when a person has written a report<\/p>\n<p><strong>Form fields<\/strong><br \/>\nThe existing fields in the contact form can easily be shown or hidden with one click<\/p>\n<h3>World Class Customer Support<\/h3>\n<ul>\n<li>Low response time<br \/>\nWe always respond within a few hours.<\/li>\n<li>Quick issue resolution<br \/>\nResolving an issue never takes more than 24 hours.<\/li>\n<\/ul>\n<h3>Privacy Notices<\/h3>\n<p>Whistleblowing System plugin does not collect and store any data of your users on Whistleblowing-form&#8217;s end. All data submitted by your website visitors is stored in your website database. From this perspective, you may be subject to GDPR compliance.<\/p>\n<p>Whistleblowing System imply interaction between website visitors and website owner. As such you may publish forms that require input of Private data. You need to get explicit consent from your users to comply with GDPR. Under GDPR your users may request access  and\/or erasure of their entry data at any time. Here you can find how to export and\/or delete submissions.<\/p>\n",
+        "installation": "<p>After downloading the ZIP file,<\/p>\n<ol>\n<li>Log in to the administrator panel.<\/li>\n<li>Go to Plugins Add &gt; New &gt; Upload.<\/li>\n<li>Click &quot;Choose file&quot; (&quot;Browse&quot;) and select the downloaded zip file.<br \/>\n<em>For Mac Users<\/em><br \/>\n<em>Go to your Downloads folder and locate the folder with the plugin. Right-click on the folder and select Compress. Now you have a newly created .zip file which can be installed as described here.<\/em><\/li>\n<li>Click &quot;Install Now&quot; button.<\/li>\n<li>Click &quot;Activate Plugin&quot; button for activating the plugin.<\/li>\n<\/ol>\n<p>If the installation does not succeed, please contact us for help.<\/p>\n",
+        "changelog": "<h4>1.0.9<\/h4>\n<p>Fixed: Translation bug fix for german language<\/p>\n<h4>1.0.8<\/h4>\n<p>Fixed: Bug fix<\/p>\n<h4>1.0.7<\/h4>\n<p>Added: German language translation<br \/>\nAdded: Frontend buttons texts change<br \/>\nAdded: File attachment in the frontend chat page<br \/>\nFixed: File attachment in the admin ticket page<br \/>\nChanged: Design changes<\/p>\n<h4>1.0.6<\/h4>\n<p>Added: Form subject in the tickets list page as column<br \/>\nAdded: Placeholder for email subject field in the email settings page<br \/>\nAdded: Label nearby checkbox field in the admin preview<br \/>\nFixed: Label and placeholder mix<\/p>\n<h4>1.0.5<\/h4>\n<p>Added: Remove ticket functionality from admin page<br \/>\nFixed: Frontend form submit load animation<\/p>\n<h4>1.0.4<\/h4>\n<p>Changed: Admin page design<br \/>\nFixed: Admin form page edit fields<br \/>\nFixed: Ticket answer time<\/p>\n<h4>1.0.3<\/h4>\n<p>Fixed: Form submision<br \/>\nFixed: Email send<\/p>\n<h4>1.0.2<\/h4>\n<p>Added: Loading for form submit<br \/>\nAdded: Required field functionality<br \/>\nAdded: html for checkbox field<br \/>\nFixed: Copy buttons<br \/>\nChanged: Design changes<\/p>\n<p>Changed: Form fields styles in the admin<\/p>\n<h4>1.0.1<\/h4>\n<p>Fixed: Copy button work in the admin<br \/>\nChanged: Form fields styles in the admin<\/p>\n<h4>1.0.0<\/h4>\n<p>Initial version<\/p>\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Just works<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/chris4h\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/bc1709360b648294070b44b8bd7eb511?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/bc1709360b648294070b44b8bd7eb511?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/chris4h\/\" class=\"reviewer-name\">chris4h<\/a> on <span class=\"review-date\">January 21, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Useful plugin. Does what it says. Thank you!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Whistleblowing system for internal and external anonymous reporting for companies.",
+    "description": "<p>Whistleblowing system for internal and external anonymous reporting for companies.<\/p>\n<h4>Useful Links:<\/h4>\n<p><a href=\"https:\/\/whistleblowing-form.de\/\" rel=\"nofollow ugc\">Website<\/a><\/p>\n<p>It is a very simple whistleblowing system (whistleblower protection system) for anonymous reporting.<br \/>\nThe companies can use it to comply with the EU Directive 2019\/1937) and manage cases.<br \/>\nThis solution follows the EU Whistleblower Directive of 2019 and the GDPR and helps the small and large organizations to comply with regulations.<\/p>\n<h3>Whistleblowing System Features<\/h3>\n<p>Two-way communication without registration on the website.<\/p>\n<p><strong>Intuitive Interface<\/strong><br \/>\nSimple, confidential and anonymous reporting.<\/p>\n<p><strong>Two-way communication<\/strong><br \/>\nSimple, confidential and anonymous reporting.<\/p>\n<p><strong>Mobile-Friendly and Responsive<\/strong><br \/>\nYour forms will look great on all resolutions and devices: mobile, tablet, and desktop.<\/p>\n<p><strong>READY-MADE CONTACT FORM<\/strong><br \/>\nThe existing form can be integrated very quickly onto any page using a [shortcode].<\/p>\n<p><strong>CONFIDENTIAL OR ANONYMOUS INFORMATION<\/strong><br \/>\nThe user has the possibility to choose whether the contact should be anonymous or with e-mail address.<\/p>\n<p><strong>NOTIFICATION TO SELECTED EMAIL ADDRESS<\/strong><br \/>\nIt is possible to send a notification to any selected email address when a person has written a report<\/p>\n<p><strong>Form fields<\/strong><br \/>\nThe existing fields in the contact form can easily be shown or hidden with one click<\/p>\n<h3>World Class Customer Support<\/h3>\n<ul>\n<li>Low response time<br \/>\nWe always respond within a few hours.<\/li>\n<li>Quick issue resolution<br \/>\nResolving an issue never takes more than 24 hours.<\/li>\n<\/ul>\n<h3>Privacy Notices<\/h3>\n<p>Whistleblowing System plugin does not collect and store any data of your users on Whistleblowing-form&#8217;s end. All data submitted by your website visitors is stored in your website database. From this perspective, you may be subject to GDPR compliance.<\/p>\n<p>Whistleblowing System imply interaction between website visitors and website owner. As such you may publish forms that require input of Private data. You need to get explicit consent from your users to comply with GDPR. Under GDPR your users may request access  and\/or erasure of their entry data at any time. Here you can find how to export and\/or delete submissions.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/whistleblowing-system.1.0.9.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "hinweisgeber": "Hinweisgeber",
+        "hinweisgeberschutz": "Hinweisgeberschutz",
+        "hinweisgebersystem": "Hinweisgebersystem",
+        "whistleblower": "whistleblower",
+        "whistleblowing": "whistleblowing"
+    },
+    "stable_tag": "1.0.9",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/whistleblowing-system.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/whistleblowing-system.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/whistleblowing-system.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/whistleblowing-system.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/whistleblowing-system.1.0.4.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/whistleblowing-system.1.0.5.zip",
+        "1.0.6": "https:\/\/downloads.wordpress.org\/plugin\/whistleblowing-system.1.0.6.zip",
+        "1.0.7": "https:\/\/downloads.wordpress.org\/plugin\/whistleblowing-system.1.0.7.zip",
+        "1.0.71": "https:\/\/downloads.wordpress.org\/plugin\/whistleblowing-system.1.0.71.zip",
+        "1.0.72": "https:\/\/downloads.wordpress.org\/plugin\/whistleblowing-system.1.0.72.zip",
+        "1.0.8": "https:\/\/downloads.wordpress.org\/plugin\/whistleblowing-system.1.0.8.zip",
+        "1.0.9": "https:\/\/downloads.wordpress.org\/plugin\/whistleblowing-system.1.0.9.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/whistleblowing-system.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/whistleblowing-system\/assets\/banner-772x250.jpg?rev=3015767",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/whistleblowing-system\/assets\/icon-128x128.png?rev=3015767",
+        "2x": "https:\/\/ps.w.org\/whistleblowing-system\/assets\/icon-256x256.png?rev=3015767"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

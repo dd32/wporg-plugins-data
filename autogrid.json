@@ -1,0 +1,287 @@
+{
+    "name": "Autogrid",
+    "slug": "autogrid",
+    "version": "2.0.2",
+    "author": "<a href=\"https:\/\/profiles.wordpress.org\/andreslav\">Andreslav<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/andreslav\/",
+    "contributors": {
+        "andreslav": {
+            "profile": "https:\/\/profiles.wordpress.org\/andreslav\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/c72f085fdaf4a445c7dfbbcecfdcc761?s=96&d=monsterid&r=g",
+            "display_name": "andreslav"
+        }
+    },
+    "requires": "6.4",
+    "tested": "6.5.2",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/autogrid\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 297,
+    "last_updated": "2024-03-17 12:34am GMT",
+    "added": "2024-02-10",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Autogrid is\u00a0a\u00a0block for the WordPress block editor that allows you to\u00a0create adaptive columns. The elements inside it\u00a0are automatically distributed into columns, filling the available space.<\/p>\n<p>The order of\u00a0customization<\/p>\n<ol>\n<li>Set the maximum number of\u00a0columns and their minimum width, after reaching which the cells will be\u00a0redistributed.<\/li>\n<li>Specify the size of spacing between cells and their padding. These parameters can be configured adaptively, for example by setting min. the size of the container when the value should be applied.<\/li>\n<li>If\u00a0necessary, set the width of\u00a0certain cells by\u00a0specifying the number of\u00a0columns they should occupy. You can specify the minimum and maximum number of\u00a0columns to\u00a0be\u00a0displayed when the value should be\u00a0applied.<\/li>\n<li>Done! Test.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='what%20browsers%20are%20supported%3F'>\nWhat browsers are supported?\n<\/h4>\n<p>\n<p>The grid works well in modern browsers:<br \/>\nChrome 79+, Firefox 76+, Edge 79+, Safari 16+.<\/p>\n<p>Adaptability starts working only with:<br \/>\nChrome 106+, Firefox 110+, Edge 106+, Safari 16+.<\/p>\n<p>The information is obtained based on a comparison of the support of the CSS features used: <a href=\"https:\/\/caniuse.com\/css-grid\" rel=\"nofollow ugc\">CSS Grid<\/a>, <a href=\"https:\/\/caniuse.com\/?search=min()\" rel=\"nofollow ugc\">CSS math function min()<\/a>, <a href=\"https:\/\/caniuse.com\/?search=repeat()\" rel=\"nofollow ugc\">CSS function repeat()<\/a>, <a href=\"https:\/\/caniuse.com\/css-container-queries\" rel=\"nofollow ugc\">CSS Container Queries<\/a>.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>2.0.2<\/h4>\n<ul>\n<li>Improved adaptability of cell size. Max value was interpreted incorrectly in some cases.<\/li>\n<li>Fixed a problem when the Autogrid block nested in the extended cell was displayed incorrectly.<\/li>\n<\/ul>\n<h4>2.0.0<\/h4>\n<ul>\n<li>Added a lot of design tweaks and improved adaptability settings.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/autogrid\/assets\/screenshot-1.jpg?rev=3034037\"><img src=\"https:\/\/ps.w.org\/autogrid\/assets\/screenshot-1.jpg?rev=3034037\" alt=\"Example of Autogrid block\"><\/a><p>Example of Autogrid block<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/autogrid\/assets\/screenshot-2.jpg?rev=3034037\"><img src=\"https:\/\/ps.w.org\/autogrid\/assets\/screenshot-2.jpg?rev=3034037\" alt=\"Autogrid Block Settings\"><\/a><p>Autogrid Block Settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/autogrid\/assets\/screenshot-3.jpg?rev=3034037\"><img src=\"https:\/\/ps.w.org\/autogrid\/assets\/screenshot-3.jpg?rev=3034037\" alt=\"Autogrid block cell Settings\"><\/a><p>Autogrid block cell Settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/autogrid\/assets\/screenshot-4.jpg?rev=3034037\"><img src=\"https:\/\/ps.w.org\/autogrid\/assets\/screenshot-4.jpg?rev=3034037\" alt=\"Autogrid block cell settings\"><\/a><p>Autogrid block cell settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/autogrid\/assets\/screenshot-5.gif?rev=3034037\"><img src=\"https:\/\/ps.w.org\/autogrid\/assets\/screenshot-5.gif?rev=3034037\" alt=\"How the Autogrid block looks on the site\"><\/a><p>How the Autogrid block looks on the site<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">I only have 2 words for this !<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/nick6352683\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/91e8faddd8ea5b552e8f98ac0f15c575?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/91e8faddd8ea5b552e8f98ac0f15c575?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/nick6352683\/\" class=\"reviewer-name\">nick6352683<\/a> on <span class=\"review-date\">February 11, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I only tested this plugin for about 10 minutes, but that was enough for me to come here and give it my 2 word review:<br \/><br \/>Pure Genius !!!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Ok, some more details: Before this plugin in order for me to achieve some complex multi \"row\" layouts, with different \"cell\" sizes, I have to setup multiple Columns blocks, and group them together. Even though with the Columns setup, you have more precise control for the column sizes, this plugin simplifies things a lot. Also, considering that this plugin is only 75kb in size, a rare sight nowadays, I am extremely happy and impressed with this - so far... If any issues arise, I will report back.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Thank you for this plugin !<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Create a\u00a0grid with a\u00a0variable number of\u00a0columns! Set the number of\u00a0columns and their minimum width, after which the cells will be\u00a0redistributed.",
+    "description": "<p>Autogrid is\u00a0a\u00a0block for the WordPress block editor that allows you to\u00a0create adaptive columns. The elements inside it\u00a0are automatically distributed into columns, filling the available space.<\/p>\n<p>The order of\u00a0customization<\/p>\n<ol>\n<li>Set the maximum number of\u00a0columns and their minimum width, after reaching which the cells will be\u00a0redistributed.<\/li>\n<li>Specify the size of spacing between cells and their padding. These parameters can be configured adaptively, for example by setting min. the size of the container when the value should be applied.<\/li>\n<li>If\u00a0necessary, set the width of\u00a0certain cells by\u00a0specifying the number of\u00a0columns they should occupy. You can specify the minimum and maximum number of\u00a0columns to\u00a0be\u00a0displayed when the value should be\u00a0applied.<\/li>\n<li>Done! Test.<\/li>\n<\/ol>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/autogrid.2.0.2.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/autogrid\/assets\/screenshot-1.jpg?rev=3034037",
+            "caption": "Example of Autogrid block"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/autogrid\/assets\/screenshot-2.jpg?rev=3034037",
+            "caption": "Autogrid Block Settings"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/autogrid\/assets\/screenshot-3.jpg?rev=3034037",
+            "caption": "Autogrid block cell Settings"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/autogrid\/assets\/screenshot-4.jpg?rev=3034037",
+            "caption": "Autogrid block cell settings"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/autogrid\/assets\/screenshot-5.gif?rev=3034037",
+            "caption": "How the Autogrid block looks on the site"
+        }
+    },
+    "tags": {
+        "auto-fill": "auto-fill",
+        "block": "block",
+        "columns": "columns",
+        "grid": "grid",
+        "layout": "layout"
+    },
+    "stable_tag": "2.0.2",
+    "versions": {
+        "2.0.1": "https:\/\/downloads.wordpress.org\/plugin\/autogrid.2.0.1.zip",
+        "2.0.2": "https:\/\/downloads.wordpress.org\/plugin\/autogrid.2.0.2.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/autogrid.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/autogrid\/assets\/banner-772x250.jpg?rev=3052333",
+        "high": "https:\/\/ps.w.org\/autogrid\/assets\/banner-1544x500.jpg?rev=3052333"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/autogrid\/assets\/icon.svg?rev=3034037",
+        "svg": "https:\/\/ps.w.org\/autogrid\/assets\/icon.svg?rev=3034037"
+    },
+    "blocks": {
+        "andreslav\/autogrid": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "andreslav\/autogrid",
+            "version": "2.0.2",
+            "title": "Autogrid",
+            "category": "design",
+            "icon": "smiley",
+            "description": "Autogrid Block. The elements inside this block are automatically distributed in\u00a0columns, filling the available space.",
+            "example": {
+                "attributes": {
+                    "columnCount": 2,
+                    "minWidth": 200
+                }
+            },
+            "supports": {
+                "html": false,
+                "color": {
+                    "text": true,
+                    "background": true,
+                    "gradients": true,
+                    "__experimentalDefaultControls": {}
+                },
+                "spacing": {
+                    "padding": true,
+                    "margin": [
+                        "top",
+                        "bottom"
+                    ],
+                    "__experimentalDefaultControls": {
+                        "padding": false,
+                        "margin": false
+                    }
+                },
+                "__experimentalBorder": {
+                    "color": true,
+                    "radius": true,
+                    "style": true,
+                    "width": true,
+                    "__experimentalDefaultControls": {}
+                },
+                "typography": {
+                    "fontSize": true,
+                    "lineHeight": true,
+                    "__experimentalFontFamily": true,
+                    "__experimentalFontWeight": true,
+                    "__experimentalFontStyle": true,
+                    "__experimentalTextTransform": true,
+                    "__experimentalTextDecoration": true,
+                    "__experimentalLetterSpacing": true,
+                    "__experimentalDefaultControls": {}
+                },
+                "anchor": true,
+                "align": [
+                    "wide",
+                    "full"
+                ]
+            },
+            "attributes": {
+                "columnCount": {
+                    "type": "number",
+                    "default": 4
+                },
+                "minWidth": {
+                    "type": "number",
+                    "default": 300
+                },
+                "gaps": {
+                    "type": "array",
+                    "default": [
+                        {
+                            "value": "var:preset|spacing|10",
+                            "min": "",
+                            "max": ""
+                        }
+                    ]
+                },
+                "childrenPaddings": {
+                    "type": "array",
+                    "default": [
+                        {
+                            "value": "var:preset|spacing|20",
+                            "min": "",
+                            "max": ""
+                        }
+                    ]
+                }
+            },
+            "providesContext": {
+                "autogrid\/columnCount": "columnCount",
+                "autogrid\/minWidth": "minWidth"
+            },
+            "textdomain": "autogrid",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css",
+            "render": "file:.\/render.php"
+        },
+        "andreslav\/autogrid-item": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "andreslav\/autogrid-item",
+            "version": "2.0.2",
+            "title": "Autogrid Item",
+            "category": "design",
+            "icon": "smiley",
+            "description": "Autogrid Block Item.",
+            "example": {},
+            "supports": {
+                "html": false,
+                "color": {
+                    "text": true,
+                    "background": true,
+                    "gradients": true,
+                    "__experimentalDefaultControls": {}
+                },
+                "background": {
+                    "backgroundImage": true,
+                    "backgroundSize": true,
+                    "__experimentalDefaultControls": {}
+                },
+                "spacing": {
+                    "padding": true,
+                    "margin": true,
+                    "__experimentalDefaultControls": {
+                        "padding": false,
+                        "margin": false
+                    }
+                },
+                "__experimentalBorder": {
+                    "color": true,
+                    "radius": true,
+                    "style": true,
+                    "width": true,
+                    "__experimentalDefaultControls": {}
+                },
+                "typography": {
+                    "fontSize": true,
+                    "lineHeight": true,
+                    "__experimentalFontFamily": true,
+                    "__experimentalFontWeight": true,
+                    "__experimentalFontStyle": true,
+                    "__experimentalTextTransform": true,
+                    "__experimentalTextDecoration": true,
+                    "__experimentalLetterSpacing": true,
+                    "__experimentalDefaultControls": {}
+                }
+            },
+            "attributes": {
+                "indexNode": {
+                    "type": "number",
+                    "default": 0
+                },
+                "sizes": {
+                    "type": "array",
+                    "default": []
+                }
+            },
+            "parent": [
+                "andreslav\/autogrid"
+            ],
+            "usesContext": [
+                "autogrid\/columnCount",
+                "autogrid\/minWidth"
+            ],
+            "textdomain": "autogrid",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css",
+            "render": "file:.\/render.php"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 100,
+    "blueprints": [
+        {
+            "filename": "blueprint.json",
+            "url": "https:\/\/wordpress.org\/plugins\/wp-json\/plugins\/v1\/plugin\/autogrid\/blueprint.json?rev=3052346"
+        }
+    ],
+    "preview_link": "https:\/\/wordpress.org\/plugins\/autogrid\/?preview=1",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "autogrid",
+            "language": "ru_RU",
+            "version": "2.0.2",
+            "updated": "2024-03-10 17:44:42",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/autogrid\/2.0.2\/ru_RU.zip"
+        }
+    ]
+}

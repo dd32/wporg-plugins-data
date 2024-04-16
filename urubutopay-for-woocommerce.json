@@ -1,0 +1,91 @@
+{
+    "name": "UrubutoPay For Woocommerce",
+    "slug": "urubutopay-for-woocommerce",
+    "version": "1.0",
+    "author": "<a href=\"https:\/\/bktechouse.rw\">BKTechouse<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/bktechouse\/",
+    "contributors": {
+        "bktechouse": {
+            "profile": "https:\/\/profiles.wordpress.org\/bktechouse\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/9021a43f9912398aa7014dd3175a371c?s=96&d=monsterid&r=g",
+            "display_name": "bktechouse"
+        }
+    },
+    "requires": false,
+    "tested": "6.4.4",
+    "requires_php": "8.2",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/urubutopay-for-woocommerce\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 237,
+    "last_updated": "2024-03-01 2:43pm GMT",
+    "added": "2024-02-05",
+    "homepage": "https:\/\/urubutopay.rw",
+    "sections": {
+        "description": "<p>UrubutoPay For Woocommerce plugin enables you to accept online payments,<br \/>\nincluding mobile wallets, credit and debit cards other payment methods.<\/p>\n<h3>WHY CHOOSE URUBUTOPAY?<\/h3>\n<p>We provide a secure payment experience, real time settlement and an advanced data insight tool for decision making.<br \/>\nWe support a range of local and international payment methods via web, apps and USSD.<\/p>\n<h3>FAQ\u2019S<\/h3>\n<p>** WHAT ARE THE REQUIREMENTS ? **<br \/>\nYou need to be registered to receive a merchant code, service code and token key. No need to come to our offices , visit https:\/\/urubutopay.rw\/ and registered today.<\/p>\n<p>** WHAT CURRENCIES ARE SUPPORTED? **<br \/>\nWe support RWF and USD Currencies.<\/p>\n<p>** I NEED SOME ASSISTANCE. WHOM CAN I CONTACT? **<br \/>\nNeed help to configure this plugin? Feel free to connect with our Support Team at bktechouse@bk.rw give us a call at +250 788195700 &#8211; Call Center 7740<\/p>\n",
+        "installation": "<p>Here&#8217;s an overview of the installation.<\/p>\n<ol>\n<li>Log in as an admin and click on the Plugins menu on the sidebar.<\/li>\n<li>Click Add new.<\/li>\n<li>In the search bar enter &#8220;urubutopay for woocommerce&#8221; and click search plugins.<\/li>\n<li>When you find the plugin called UrubutoPay For Woocommerce click the install now link.<\/li>\n<li>Activate the Plugin.<\/li>\n<li>On The left side menu of your wordpress admin panel<\/li>\n<li>under woocommerce menu, click on settings<\/li>\n<li>click on Payments tab<\/li>\n<li>You will UrubutoPay under Payment Methods section<\/li>\n<li>Activate it and click on manage button<\/li>\n<li>You will be redirected to the setting page<\/li>\n<li>Then provide all details requested. ex: merchant code, service code, api key etc<\/li>\n<\/ol>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/urubutopay-for-woocommerce\/assets\/screenshot-1.png?rev=3031555\"><img src=\"https:\/\/ps.w.org\/urubutopay-for-woocommerce\/assets\/screenshot-1.png?rev=3031555\" alt=\"Enable UrubutoPay Payment\"><\/a><p>Enable UrubutoPay Payment<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/urubutopay-for-woocommerce\/assets\/screenshot-2.png?rev=3031555\"><img src=\"https:\/\/ps.w.org\/urubutopay-for-woocommerce\/assets\/screenshot-2.png?rev=3031555\" alt=\"Settings Page of UrubutoPay For Woocommerce Plugin\"><\/a><p>Settings Page of UrubutoPay For Woocommerce Plugin<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/urubutopay-for-woocommerce\/assets\/screenshot-3.png?rev=3031555\"><img src=\"https:\/\/ps.w.org\/urubutopay-for-woocommerce\/assets\/screenshot-3.png?rev=3031555\" alt=\"Checkout\"><\/a><p>Checkout<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "UrubutoPay For Woocommerce plugin enables you to accept online payments,",
+    "description": "<p>UrubutoPay For Woocommerce plugin enables you to accept online payments,<br \/>\nincluding mobile wallets, credit and debit cards other payment methods.<\/p>\n<h3>WHY CHOOSE URUBUTOPAY?<\/h3>\n<p>We provide a secure payment experience, real time settlement and an advanced data insight tool for decision making.<br \/>\nWe support a range of local and international payment methods via web, apps and USSD.<\/p>\n<h3>FAQ\u2019S<\/h3>\n<p>** WHAT ARE THE REQUIREMENTS ? **<br \/>\nYou need to be registered to receive a merchant code, service code and token key. No need to come to our offices , visit https:\/\/urubutopay.rw\/ and registered today.<\/p>\n<p>** WHAT CURRENCIES ARE SUPPORTED? **<br \/>\nWe support RWF and USD Currencies.<\/p>\n<p>** I NEED SOME ASSISTANCE. WHOM CAN I CONTACT? **<br \/>\nNeed help to configure this plugin? Feel free to connect with our Support Team at bktechouse@bk.rw give us a call at +250 788195700 &#8211; Call Center 7740<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/urubutopay-for-woocommerce.1.0.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/urubutopay-for-woocommerce\/assets\/screenshot-1.png?rev=3031555",
+            "caption": "Enable UrubutoPay Payment"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/urubutopay-for-woocommerce\/assets\/screenshot-2.png?rev=3031555",
+            "caption": "Settings Page of UrubutoPay For Woocommerce Plugin"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/urubutopay-for-woocommerce\/assets\/screenshot-3.png?rev=3031555",
+            "caption": "Checkout"
+        }
+    },
+    "tags": {
+        "bk-group": "bk group",
+        "bk-techouse": "bk techouse",
+        "opensource": "opensource",
+        "rwandaopensource": "rwandaopensource",
+        "urubutopay": "urubutopay"
+    },
+    "stable_tag": "1.0",
+    "versions": {
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/urubutopay-for-woocommerce.1.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/urubutopay-for-woocommerce.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/urubutopay-for-woocommerce\/assets\/banner-772x250.png?rev=3031555",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/urubutopay-for-woocommerce\/assets\/icon.svg?rev=3031555",
+        "svg": "https:\/\/ps.w.org\/urubutopay-for-woocommerce\/assets\/icon.svg?rev=3031555"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

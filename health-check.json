@@ -1,0 +1,388 @@
+{
+    "name": "Health Check &amp; Troubleshooting",
+    "slug": "health-check",
+    "version": "1.7.0",
+    "author": "<a href=\"https:\/\/wordpress.org\/plugins\/health-check\/\">The WordPress.org community<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/wordpressdotorg\/",
+    "contributors": {
+        "wordpressdotorg": {
+            "profile": "https:\/\/profiles.wordpress.org\/wordpressdotorg\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/61ee2579b8905e62b4b4045bdc92c11a?s=96&d=monsterid&r=g",
+            "display_name": "WordPress.org"
+        },
+        "westi": {
+            "profile": "https:\/\/profiles.wordpress.org\/westi\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/5b3b5ce04dd402124aba53142b3e47f6?s=96&d=monsterid&r=g",
+            "display_name": "Peter Westwood"
+        },
+        "pento": {
+            "profile": "https:\/\/profiles.wordpress.org\/pento\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/1ad9e5c98d81c6815a65dab5b6e1f669?s=96&d=monsterid&r=g",
+            "display_name": "Gary Pendergast"
+        },
+        "clorith": {
+            "profile": "https:\/\/profiles.wordpress.org\/clorith\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/8f2a6a1a5388876ac51cd6dde3b4a1d0?s=96&d=monsterid&r=g",
+            "display_name": "Marius L. J."
+        }
+    },
+    "requires": "4.4",
+    "tested": "6.4.4",
+    "requires_php": "5.6",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 72,
+    "ratings": {
+        "5": 96,
+        "4": 5,
+        "3": 5,
+        "2": 3,
+        "1": 52
+    },
+    "num_ratings": 161,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/health-check\/",
+    "support_threads": 4,
+    "support_threads_resolved": 1,
+    "active_installs": 300000,
+    "downloaded": 4298289,
+    "last_updated": "2023-12-19 10:24am GMT",
+    "added": "2018-06-09",
+    "homepage": "https:\/\/wordpress.org\/plugins\/health-check\/",
+    "sections": {
+        "description": "<p>This plugin will perform a number of checks on your WordPress installation to detect common configuration errors and known issues, and also allows plugins and themes to add their own checks.<\/p>\n<p>The debug section, which allows you to gather information about your WordPress and server configuration that you may easily share with support representatives for themes, plugins or on the official WordPress.org support forums.<\/p>\n<p>Troubleshooting allows you to have a clean WordPress session, where all plugins are disabled, and a default theme is used, but only for your user until you disable it or log out.<\/p>\n<p>The Tools section allows you to check that WordPress files have not been tampered with, that emails can be sent, and if your plugins are compatible with any PHP version updates in the future.<\/p>\n<p>For a more extensive example of how to efficiently use the Health Check plugin, check out the <a href=\"https:\/\/make.wordpress.org\/support\/handbook\/appendix\/troubleshooting-using-the-health-check\/\" rel=\"nofollow ugc\">WordPress.org support team handbook page about this plugin<\/a>.<\/p>\n<p>Feedback is welcome both through the <a href=\"https:\/\/wordpress.org\/support\/plugin\/health-check\" rel=\"ugc\">WordPress.org forums<\/a>, the <a href=\"https:\/\/github.com\/WordPress\/health-check\" rel=\"nofollow ugc\">GitHub project page<\/a>, or on <a href=\"https:\/\/make.wordpress.org\/chat\" rel=\"nofollow ugc\">Slack<\/a> in either <a href=\"https:\/\/wordpress.slack.com\/messages\/forums\/\" rel=\"nofollow ugc\">#forums<\/a> or <a href=\"https:\/\/wordpress.slack.com\/messages\/core-site-health\/\" rel=\"nofollow ugc\">#core-site-health<\/a>.<\/p>\n",
+        "faq": "\n<dt id='i%20am%20unable%20to%20access%20my%20site%20after%20enabling%20troubleshooting'>\nI am unable to access my site after enabling troubleshooting\n<\/h4>\n<p>\n<p>If you should find your self stuck in Troubleshooting Mode for any reason, you can easily disable it by clearing your cookies.<\/p>\n<p>Are you unfamiliar with how to clear your cookies? No worries, you may also close all your browser windows, or perform a computer restart and it will clear this specific cookie automatically.<\/p>\n<\/p>\n<dt id='the%20php%20compatibility%20says%20this%20plugin%20only%20work%20with%20php%20version%20x%3F'>\nThe PHP compatibility says this plugin only work with PHP version X?\n<\/h4>\n<p>\n<p>The plugin is made to be a support tool for as many users as possible, this means it needs code that is written for older sites as well.<\/p>\n<p>Tools that check for PHP compatibility do not know how to separate this code from the real code, so it will give a false positive response.<\/p>\n<p>At this time, the plugin has been tested with every version of PHP from 5.2 through 7.3, and works with all of these.<\/p>\n<\/p>\n<dt id='where%20can%20i%20report%20security%20bugs%3F'>\nWhere can I report security bugs?\n<\/h4>\n<p>\n<p>The Site Health team and WordPress community take security bugs seriously. We appreciate your efforts to responsibly disclose your findings, and will make every effort to acknowledge your contributions.<\/p>\n<p>To report a security issue, please visit the <a href=\"https:\/\/hackerone.com\/wordpress\" rel=\"nofollow ugc\">WordPress HackerOne<\/a> program.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.7.0 (2023-08-06)<\/h4>\n<ul>\n<li>General: Improved styling inconsistency between the plugin and WordPress core.<\/li>\n<li>General: Fixed an issue with plugin translations where language strings would get mixed when using third party language plugins, or a separate profile language.<\/li>\n<li>Troubleshooting Mode: Fixed the URL used when disabling elements and having a subdirectory installation.<\/li>\n<li>Troubleshooting Mode: Fixed a deprecation warning when disabling troubleshooting mode on PHP version 8.3 or higher.<\/li>\n<li>Troubleshooting Mode: Added reference on how to troubleshoot as different users when testing scenarios.<\/li>\n<li>Tools: Fixed integration with WPTide for the PHP Compatibility checker.<\/li>\n<li>Tools: Added a viewer that will display debug log output when enabled.<\/li>\n<li>Tools: Added a warning to the File Integrity tester if unexpected files are mixed in with WordPress core files.<\/li>\n<li>Tools: Added a warning if sending emails is taking longer than expected.<\/li>\n<li>Tools: Added beta feature toggle for those who wish to test new functionality that may not be fully ready yet.<\/li>\n<li>CLI: Fixed the CLI commands, you can now <code>wp health-check status<\/code> to your hearts content!<\/li>\n<li>Beta feature: Added a new beta feature, making it easier for non-technical users to grab screenshots of issues on their site, and share them.<\/li>\n<\/ul>\n<h4>v1.6.0 (2023-03-31)<\/h4>\n<ul>\n<li>Improved the visual aspects of the Troubleshooting Mode Widget.<\/li>\n<li>Improved security by hardening Troubleshooting Mode actions with security tokens (nonces).<\/li>\n<li>Added a new tool to check <code>.htaccess<\/code> rules (where applicable).<\/li>\n<li>Added TwentyTwenty Three to the list of default themes.<\/li>\n<li>Added option to install the latest classic (non Site Editor-focused) default theme if no default theme exists.<\/li>\n<li>Added a new security confirmation prompt in Troubleshooting Mode, if a security token (nonce) value is either expired, or missing.<\/li>\n<li>Added better documentation around reporting security concerns.<\/li>\n<li>Fixed a bug where notices from previous Troubleshooting sessions would show up in a new session, which is just confusing.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/health-check\/assets\/screenshot-1.png?rev=2084100\"><img src=\"https:\/\/ps.w.org\/health-check\/assets\/screenshot-1.png?rev=2084100\" alt=\"The health check screen after the automated tests have gone over the system.\"><\/a><p>The health check screen after the automated tests have gone over the system.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/health-check\/assets\/screenshot-2.png?rev=2084100\"><img src=\"https:\/\/ps.w.org\/health-check\/assets\/screenshot-2.png?rev=2084100\" alt=\"The debug information, with the copy and paste field expanded.\"><\/a><p>The debug information, with the copy and paste field expanded.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/health-check\/assets\/screenshot-3.png?rev=2084100\"><img src=\"https:\/\/ps.w.org\/health-check\/assets\/screenshot-3.png?rev=2084100\" alt=\"A selection of tools that can be ran on your site.\"><\/a><p>A selection of tools that can be ran on your site.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/health-check\/assets\/screenshot-4.png?rev=2084100\"><img src=\"https:\/\/ps.w.org\/health-check\/assets\/screenshot-4.png?rev=2084100\" alt=\"Troubleshooting mode enabled, showing your website Dashboard\"><\/a><p>Troubleshooting mode enabled, showing your website Dashboard<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Really A Nice Plugin to figure out issue.<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/bayejid00\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/d7578fd0123db21e4ed506d7edb1198d?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/d7578fd0123db21e4ed506d7edb1198d?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/bayejid00\/\" class=\"reviewer-name\">Bayejid Ahmed <small>(bayejid00)<\/small><\/a> on <span class=\"review-date\">February 23, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I really like it. It useful to figure out any issue by using troubleshoot mode.<br \/><br \/>Thank to the author of the plugin.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Bricked my site<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/anme\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/5a530b0759c2d633d1db2f9d64c9a8a6?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/5a530b0759c2d633d1db2f9d64c9a8a6?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/anme\/\" class=\"reviewer-name\">Anders <small>(anme)<\/small><\/a> on <span class=\"review-date\">February 18, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Too bad I didn't read the warnings here before I installed.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Installed, activated, and selected Troubleshooting. Boom! Site is gone. Error 500 with nothing in the logs.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Deleting the plugin via ftp didn't help so now I have to get it restored from backup.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Pathetic.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">AVOID THIS PLUGIN (And here&#039;s the fix if you didn&#039;t)<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/kamitto\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/c933f15a7ad52b3e820d0b897c296d58?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/c933f15a7ad52b3e820d0b897c296d58?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/kamitto\/\" class=\"reviewer-name\">Kermit O <small>(kamitto)<\/small><\/a> on <span class=\"review-date\">February 11, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">As others have said, troubleshooting mode <strong>breaks your website<em>.  <\/em><\/strong>You will abruptly lose access to the dashboard, can't login, and the website itself won't load for users. The fix?<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Go into your web directory through FTP and delete the plugin from your wp-content folder. When I did this I was able to reload the dashboard. Oddly, even without the plugin, I was prompted to disable troubleshooting mode, which I did, and then everything was restored.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Update: After deleting the plugin through FTP, the ability to \"troubleshoot\" from the plugins page was still there \u2014 and causes a \"critical error\". Thankfully, the back button took me back. There's also a weird \"must use\" plugin artifact. By re-installing Health Check (but NOT activating it) and then deleting it again, these artifacts disappear. What a disaster of a plugin. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Troubleshooting mode doesn&#039;t work<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/isdoo\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/5a1c510792a8bf1709d2a71585f5943e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/5a1c510792a8bf1709d2a71585f5943e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/isdoo\/\" class=\"reviewer-name\"> <small>(isdoo)<\/small><\/a> on <span class=\"review-date\">January 8, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Avoid troubleshooting mode. It doesn't work.<br \/><br \/>The only way back is to delete the plugin.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">DO NOT USE - STAY AWAY! DANGEROUS PLUGIN<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/sikk08\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/99cd59e2f9f1041767bbd894610c9a8f?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/99cd59e2f9f1041767bbd894610c9a8f?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/sikk08\/\" class=\"reviewer-name\">sikk08<\/a> on <span class=\"review-date\">January 4, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">THIS IS MY FIRST REVIEW EVER! BUT STAY AWAY FROM THIS PLUGIN!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I ENTERED TROUBLESHOOTING MODE AND IT'S STUCK! YOU CANNOT GET OUT OF TROUBLESHOOTING MODE.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">YOU CANNOT SEE THE ACTUAL WEBSITE ON YOUR ACCOUNT. YOU CANNOT DO ANYTHING IN YOUR ACCOUNT.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">THE FRONT END OF THE WEBSITE LOOKS NORMAL WHEN YOU'RE NOT LOGGED IN. BUT THE BACKEND IS PRETTY MUCH LOCKED. YOU CANNOT DO ANYTHING.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">STAY AWAY FROM THIS PLUGIN. I MADE THE MISTAKE OF USING IT ON A LIVE WEBSITE FOR A BUSY BUSINESS. NOW I HAVE TO FIGURE OUT HOW TO SOLVE THIS PROBLEM.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">REMOVING THE FOLDER FROM THE PLUGINS DIRECTORY DOES NOT WORK!!! TROUBLESHOOTING MODE IS PRETTY MUCH PERMANENT AND WILL DESTROY YOUR WEBSITE.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">THIS PLUGIN SHOULD NOT BE AVAILABLE TO DOWNLOAD. STAY AWAY!!!!!!!!!!!!!!!!!!!!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">BEWARE OF TROUBLESHOOTING MODE<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jrkhan\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/a88db190b2d6680310c67b321ec367b6?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/a88db190b2d6680310c67b321ec367b6?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jrkhan\/\" class=\"reviewer-name\">jrkhan<\/a> on <span class=\"review-date\">January 2, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I can't believe anyone gave this plugin 5 stars. Troubleshooting mode will break your site. It disables ALL plugins and it says that this will only affect you and NOT your other site visitors but that is FALSE. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">When you disable troubleshooting mode all plugins remain inactive! There is NO WAY to revert or cancel this. Once you enter troubleshooting mode you are screwed.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">My entire site was broken and I had to scramble to reactive plugins one by one. I do not recommend this plugin for a live site. May as well go into Maintenace mode and troubleshoot without this plugin. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Genuinely Helpful<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/cycas\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/61a49b88cad4f422c42db5fa7bafaf14?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/61a49b88cad4f422c42db5fa7bafaf14?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/cycas\/\" class=\"reviewer-name\">cycas<\/a> on <span class=\"review-date\">December 23, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This plugin helped me understand some issues on a very old WP site (first installed 2005!)  I found it very helpful.  It just worked. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Good idea but did not work..<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/carloslf\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/0df3bbf75ffb1394ae53c023855d5998?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/0df3bbf75ffb1394ae53c023855d5998?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/carloslf\/\" class=\"reviewer-name\">carloslf<\/a> on <span class=\"review-date\">November 29, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Couldn't disable this troubleshooter - had to reset my site form the server. Reading through the comments this is not a new problem yet here it is..<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Issues resolved in last two months: 0 out of 5<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/cyuill\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/7f21eebb10c931ccb66c7ff976aed74a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/7f21eebb10c931ccb66c7ff976aed74a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/cyuill\/\" class=\"reviewer-name\">cyuill<\/a> on <span class=\"review-date\">November 25, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Issues resolved in last two months:<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">0 out of 5<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Best to do troubleshooting<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/josemanuel8\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/4ffb4ade1d6420537190f78a16f756e7?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/4ffb4ade1d6420537190f78a16f756e7?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/josemanuel8\/\" class=\"reviewer-name\">josemanuel8<\/a> on <span class=\"review-date\">October 2, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">If you have problems just work with this plugin!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Health Check identifies common problems, and helps you troubleshoot plugin and theme conflicts.",
+    "description": "<p>This plugin will perform a number of checks on your WordPress installation to detect common configuration errors and known issues, and also allows plugins and themes to add their own checks.<\/p>\n<p>The debug section, which allows you to gather information about your WordPress and server configuration that you may easily share with support representatives for themes, plugins or on the official WordPress.org support forums.<\/p>\n<p>Troubleshooting allows you to have a clean WordPress session, where all plugins are disabled, and a default theme is used, but only for your user until you disable it or log out.<\/p>\n<p>The Tools section allows you to check that WordPress files have not been tampered with, that emails can be sent, and if your plugins are compatible with any PHP version updates in the future.<\/p>\n<p>For a more extensive example of how to efficiently use the Health Check plugin, check out the <a href=\"https:\/\/make.wordpress.org\/support\/handbook\/appendix\/troubleshooting-using-the-health-check\/\" rel=\"nofollow ugc\">WordPress.org support team handbook page about this plugin<\/a>.<\/p>\n<p>Feedback is welcome both through the <a href=\"https:\/\/wordpress.org\/support\/plugin\/health-check\" rel=\"ugc\">WordPress.org forums<\/a>, the <a href=\"https:\/\/github.com\/WordPress\/health-check\" rel=\"nofollow ugc\">GitHub project page<\/a>, or on <a href=\"https:\/\/make.wordpress.org\/chat\" rel=\"nofollow ugc\">Slack<\/a> in either <a href=\"https:\/\/wordpress.slack.com\/messages\/forums\/\" rel=\"nofollow ugc\">#forums<\/a> or <a href=\"https:\/\/wordpress.slack.com\/messages\/core-site-health\/\" rel=\"nofollow ugc\">#core-site-health<\/a>.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.7.0.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/health-check\/assets\/screenshot-1.png?rev=2084100",
+            "caption": "The health check screen after the automated tests have gone over the system."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/health-check\/assets\/screenshot-2.png?rev=2084100",
+            "caption": "The debug information, with the copy and paste field expanded."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/health-check\/assets\/screenshot-3.png?rev=2084100",
+            "caption": "A selection of tools that can be ran on your site."
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/health-check\/assets\/screenshot-4.png?rev=2084100",
+            "caption": "Troubleshooting mode enabled, showing your website Dashboard"
+        }
+    },
+    "tags": {
+        "health-check": "health check"
+    },
+    "stable_tag": "1.7.0",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.0.1.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.1.0.zip",
+        "1.1.1": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.1.1.zip",
+        "1.1.2": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.1.2.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.2.0.zip",
+        "1.2.1": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.2.1.zip",
+        "1.2.2": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.2.2.zip",
+        "1.2.3": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.2.3.zip",
+        "1.2.4": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.2.4.zip",
+        "1.2.5": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.2.5.zip",
+        "1.2.6": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.2.6.zip",
+        "1.3.0": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.3.0.zip",
+        "1.3.1": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.3.1.zip",
+        "1.3.2": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.3.2.zip",
+        "1.4.0": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.4.0.zip",
+        "1.4.1": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.4.1.zip",
+        "1.4.2": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.4.2.zip",
+        "1.4.3": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.4.3.zip",
+        "1.4.4": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.4.4.zip",
+        "1.4.5": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.4.5.zip",
+        "1.5.0": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.5.0.zip",
+        "1.5.1": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.5.1.zip",
+        "1.6.0": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.6.0.zip",
+        "1.7.0": "https:\/\/downloads.wordpress.org\/plugin\/health-check.1.7.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/health-check.zip"
+    },
+    "business_model": "community",
+    "repository_url": "https:\/\/github.com\/WordPress\/health-check",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/health-check\/assets\/banner-772x250.png?rev=1823210",
+        "high": "https:\/\/ps.w.org\/health-check\/assets\/banner-1544x500.png?rev=1823210"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/health-check\/assets\/icon.svg?rev=1828244",
+        "svg": "https:\/\/ps.w.org\/health-check\/assets\/icon.svg?rev=1828244"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": "1",
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "ar",
+            "version": "1.7.0",
+            "updated": "2021-07-08 18:09:50",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/ar.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "ca",
+            "version": "1.7.0",
+            "updated": "2023-11-14 07:30:10",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/ca.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "cs_CZ",
+            "version": "1.7.0",
+            "updated": "2023-08-09 06:25:32",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/cs_CZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "de_DE_formal",
+            "version": "1.7.0",
+            "updated": "2024-03-02 14:54:29",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/de_DE_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "de_DE",
+            "version": "1.7.0",
+            "updated": "2024-01-18 22:25:25",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "el",
+            "version": "1.7.0",
+            "updated": "2022-10-02 18:47:17",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/el.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "en_AU",
+            "version": "1.7.0",
+            "updated": "2019-12-15 21:30:59",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/en_AU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "en_CA",
+            "version": "1.7.0",
+            "updated": "2019-12-15 21:31:08",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/en_CA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "en_NZ",
+            "version": "1.7.0",
+            "updated": "2019-12-15 21:30:42",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/en_NZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "en_ZA",
+            "version": "1.7.0",
+            "updated": "2020-05-08 13:18:32",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/en_ZA.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "en_GB",
+            "version": "1.7.0",
+            "updated": "2019-11-13 20:56:07",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/en_GB.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "es_ES",
+            "version": "1.7.0",
+            "updated": "2023-08-07 04:22:16",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "es_AR",
+            "version": "1.7.0",
+            "updated": "2019-01-15 05:59:24",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/es_AR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "es_MX",
+            "version": "1.7.0",
+            "updated": "2020-03-03 01:16:28",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/es_MX.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "es_VE",
+            "version": "1.7.0",
+            "updated": "2020-03-11 04:58:33",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "fr_FR",
+            "version": "1.7.0",
+            "updated": "2023-06-15 15:17:52",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "it_IT",
+            "version": "1.7.0",
+            "updated": "2023-10-30 13:58:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "ja",
+            "version": "1.7.0",
+            "updated": "2024-02-23 08:09:22",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/ja.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "ko_KR",
+            "version": "1.7.0",
+            "updated": "2023-09-18 06:21:56",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/ko_KR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "nb_NO",
+            "version": "1.7.0",
+            "updated": "2024-01-26 17:46:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/nb_NO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "nl_BE",
+            "version": "1.7.0",
+            "updated": "2023-08-06 15:49:32",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/nl_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "nl_NL_formal",
+            "version": "1.7.0",
+            "updated": "2024-02-05 09:49:03",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/nl_NL_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "nl_NL",
+            "version": "1.7.0",
+            "updated": "2023-11-21 14:27:07",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "pl_PL",
+            "version": "1.7.0",
+            "updated": "2023-03-29 10:32:36",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/pl_PL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "pt_PT",
+            "version": "1.7.0",
+            "updated": "2023-08-07 08:17:54",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/pt_PT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "pt_BR",
+            "version": "1.7.0",
+            "updated": "2024-02-03 14:53:55",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/pt_BR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "ro_RO",
+            "version": "1.7.0",
+            "updated": "2023-08-16 17:41:03",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/ro_RO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "ru_RU",
+            "version": "1.7.0",
+            "updated": "2023-08-06 14:04:57",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "sv_SE",
+            "version": "1.7.0",
+            "updated": "2024-01-31 21:40:31",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/sv_SE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "uk",
+            "version": "1.7.0",
+            "updated": "2024-02-28 09:57:01",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/uk.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "zh_CN",
+            "version": "1.7.0",
+            "updated": "2022-11-30 22:37:59",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/zh_CN.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "health-check",
+            "language": "zh_TW",
+            "version": "1.7.0",
+            "updated": "2023-10-01 16:03:57",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/health-check\/1.7.0\/zh_TW.zip"
+        }
+    ]
+}

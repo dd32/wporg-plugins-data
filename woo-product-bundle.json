@@ -1,0 +1,230 @@
+{
+    "name": "WPC Product Bundles for WooCommerce",
+    "slug": "woo-product-bundle",
+    "version": "8.0.3",
+    "author": "<a href=\"https:\/\/wpclever.net\">WPClever<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/wpclever\/",
+    "contributors": {
+        "wpclever": {
+            "profile": "https:\/\/profiles.wordpress.org\/wpclever\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/f08624f1ad0573fe2f6955317983142a?s=96&d=monsterid&r=g",
+            "display_name": "WPClever"
+        }
+    },
+    "requires": "4.0",
+    "tested": "6.5.2",
+    "requires_php": false,
+    "requires_plugins": [
+        "woocommerce"
+    ],
+    "compatibility": [],
+    "rating": 88,
+    "ratings": {
+        "5": 166,
+        "4": 3,
+        "3": 4,
+        "2": 11,
+        "1": 20
+    },
+    "num_ratings": 204,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/woo-product-bundle\/",
+    "support_threads": 30,
+    "support_threads_resolved": 9,
+    "active_installs": 30000,
+    "downloaded": 1673294,
+    "last_updated": "2024-04-11 8:43am GMT",
+    "added": "2017-05-25",
+    "homepage": "https:\/\/wpclever.net\/",
+    "sections": {
+        "description": "<p><strong>WPC Product Bundles for WooCommerce<\/strong> is built for shop owners to create amazing deals that combine several products to put for sale together. This is such a powerful plugin for boosting sales of different product types, and at the same time offering customers with some reasonable benefits. It\u2019s a smart tool for enhancing cross-selling strategies on your online WooCommerce shop. It is also optimized for search engines, increases site ranking and ensures a higher conversion rate.<\/p>\n<h4>Live demo<\/h4>\n<p>Visit our <a href=\"https:\/\/demo.wpclever.net\/woosb\/\" title=\"live demo\" rel=\"nofollow ugc\">live demo<\/a> here to see how this plugin works.<\/p>\n<h4>Document<\/h4>\n<p>Catch the live preview, bundle samples, and everything else in the super comprehensive <a href=\"https:\/\/doc.wpclever.net\/woosb\/\" rel=\"nofollow ugc\">Online Documentation<\/a> now.<\/p>\n<h4>Basics to create a smart product bundle<\/h4>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/_CULYbTT0k0?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<h4>Features<\/h4>\n<ul>\n<li>General: choose a universal displaying style of prices on your site<\/li>\n<li>Drag &amp; drop to rearrange bundled product order<\/li>\n<li>Set a default quantity for each item in a bundle<\/li>\n<li>Customizable bundled items\u2019 quantity<\/li>\n<li>Set discount by percentage or by numbers<\/li>\n<li>Set the min\/max quantity for each item or the whole bundle<\/li>\n<li>Configure total limits: required min\/max amount of the bundle total (NEW)<\/li>\n<li>Auto-calculated options for regular &amp; sale prices<\/li>\n<li>Create virtual or downloadable product bundles<\/li>\n<li>Bundled products are inventory-managed just like standalone sales<\/li>\n<li>Enable\/disable stock management at bundle level<\/li>\n<li>Product bundle details: configure the information display of bundled products, such as position, thumbnail, price, image, quantity, and short descriptions<\/li>\n<li>Bundles: change the position of bundle list (above\/ below Add to Cart button, hide or open in a new tab)<\/li>\n<li>Add to Cart &amp; Checkout button texts<\/li>\n<li>Advanced Search: adjust search product limit, search items by SKU, exact keyword, phrase search, and repeated products<\/li>\n<li>Add a <strong>variable product<\/strong> or a <strong>specific variation<\/strong> to a bundle (<a href=\"https:\/\/wpclever.net\/downloads\/product-bundles\/\" title=\"WPC Product Bundles\" rel=\"nofollow ugc\">Premium Version<\/a>)<\/li>\n<\/ul>\n<h4>Not what you needed?<\/h4>\n<p>Please try other plugins from us:<\/p>\n<ul>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/wpc-composite-products\/\" title=\"WPC Composite Products\" rel=\"ugc\">WPC Composite Products<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/wpc-grouped-product\/\" title=\"WPC Grouped Product\" rel=\"ugc\">WPC Grouped Product<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/woo-bought-together\/\" title=\"WPC Frequently Bought Together\" rel=\"ugc\">WPC Frequently Bought Together<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/wpc-force-sells\/\" title=\"WPC Force Sells\" rel=\"ugc\">WPC Force Sells<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/wpc-linked-variation\/\" title=\"WPC Linked Variation\" rel=\"ugc\">WPC Linked Variation<\/a><\/li>\n<\/ul>\n",
+        "installation": "<ol>\n<li>Please make sure that you installed WooCommerce<\/li>\n<li>Go to plugins in your dashboard and select &#8220;Add New&#8221;<\/li>\n<li>Search for &#8220;WPC Product Bundles&#8221;, Install &amp; Activate it<\/li>\n<li>Now when you create\/edit a product you can choose product type is &#8220;Smart Bundle&#8221;, then add products as you want<\/li>\n<li>Almost done! click Save and see the result<\/li>\n<\/ol>\n",
+        "changelog": "<h4>8.0.3<\/h4>\n<ul>\n<li>Fixed: Auto calculate price for the bundle<\/li>\n<\/ul>\n<h4>8.0.2<\/h4>\n<ul>\n<li>Updated: Optimized the code<\/li>\n<\/ul>\n<h4>8.0.1<\/h4>\n<ul>\n<li>Updated: Compatible with WP 6.4 &amp; Woo 8.7<\/li>\n<\/ul>\n<h4>8.0.0 &#8211; BIG UPDATE<\/h4>\n<ul>\n<li>Updated: Enable\/disable &#8220;Custom quantity&#8221; for each bundled sub-product<\/li>\n<li>Remember to clear the cache after updating this version!<\/li>\n<\/ul>\n<h4>7.3.9<\/h4>\n<ul>\n<li>Fixed: Broken Access Control<\/li>\n<\/ul>\n<h4>7.3.8<\/h4>\n<ul>\n<li>Fixed: Minor CSS\/JS issues<\/li>\n<\/ul>\n<h4>7.3.7<\/h4>\n<ul>\n<li>Updated: Optimized the code<\/li>\n<\/ul>\n<h4>7.3.6<\/h4>\n<ul>\n<li>Updated: Compatible with WP 6.4 &amp; Woo 8.5<\/li>\n<\/ul>\n<h4>7.3.5<\/h4>\n<ul>\n<li>Fixed: Bundles or bundled text in order details<\/li>\n<\/ul>\n<h4>7.3.4<\/h4>\n<ul>\n<li>Fixed: Minor CSS\/JS issues in the backend<\/li>\n<\/ul>\n<h4>7.3.3<\/h4>\n<ul>\n<li>Updated: Optimized the code<\/li>\n<\/ul>\n<h4>7.3.2<\/h4>\n<ul>\n<li>Fixed: Minor vulnerability issue<\/li>\n<li>Updated: Optimized the code<\/li>\n<\/ul>\n<h4>7.3.1<\/h4>\n<ul>\n<li>Fixed: Minor CSS\/JS issues in the backend<\/li>\n<\/ul>\n<h4>7.3.0<\/h4>\n<ul>\n<li>Updated: Optimized the code<\/li>\n<\/ul>\n<h4>7.2.9<\/h4>\n<ul>\n<li>Updated: Compatible with WP 6.3 &amp; Woo 8.0<\/li>\n<\/ul>\n<h4>7.2.8<\/h4>\n<ul>\n<li>Updated: Optimized the code<\/li>\n<\/ul>\n<h4>7.2.7<\/h4>\n<ul>\n<li>Added: Option &#8220;Exclude un-purchasable&#8221; for each bundle<\/li>\n<\/ul>\n<h4>7.2.6<\/h4>\n<ul>\n<li>Added: Option to hide bundled products on the order details (order confirmation or emails)<\/li>\n<\/ul>\n<h4>7.2.5<\/h4>\n<ul>\n<li>Updated: Optimized the code<\/li>\n<\/ul>\n<h4>7.2.4<\/h4>\n<ul>\n<li>Updated: Optimized the code<\/li>\n<\/ul>\n<h4>7.2.3<\/h4>\n<ul>\n<li>Fixed: Minor CSS\/JS issues in the backend<\/li>\n<\/ul>\n<h4>7.2.2<\/h4>\n<ul>\n<li>Updated: Optimized the code<\/li>\n<\/ul>\n<h4>7.2.1<\/h4>\n<ul>\n<li>Updated: Compatible with WPC Variations Radio Buttons<\/li>\n<\/ul>\n<h4>7.2.0<\/h4>\n<ul>\n<li>Added: Configure terms for variable product<\/li>\n<\/ul>\n<h4>7.1.3<\/h4>\n<ul>\n<li>Fixed: Validation before adding the bundle to cart<\/li>\n<\/ul>\n<h4>7.1.2<\/h4>\n<ul>\n<li>Updated: Optimized the code<\/li>\n<\/ul>\n<h4>7.1.1<\/h4>\n<ul>\n<li>Fixed: Validation to prevent adding empty bundle to the cart<\/li>\n<\/ul>\n<h4>7.1.0<\/h4>\n<ul>\n<li>Added: Grid layout<\/li>\n<\/ul>\n<h4>7.0.9<\/h4>\n<ul>\n<li>Added: New option &#8220;Yes, but list bundled sub-product names under the main bundle in separate lines&#8221;<\/li>\n<\/ul>\n<h4>7.0.8<\/h4>\n<ul>\n<li>Updated: Optimized the code<\/li>\n<\/ul>\n<h4>7.0.7<\/h4>\n<ul>\n<li>Fixed: Minor CSS\/JS issues in the backend<\/li>\n<\/ul>\n<h4>7.0.6<\/h4>\n<ul>\n<li>Added: Filter hook &#8216;woosb_use_sku&#8217;<\/li>\n<\/ul>\n<h4>7.0.5<\/h4>\n<ul>\n<li>Updated: Optimized the code<\/li>\n<\/ul>\n<h4>7.0.4<\/h4>\n<ul>\n<li>Added: Filter hook &#8216;woosb_get_price_html_min_only&#8217;, &#8216;woosb_get_price_html_min_max&#8217;, &#8216;woosb_get_price_html_from_min&#8217;, &#8216;woosb_get_price_html&#8217;<\/li>\n<\/ul>\n<h4>7.0.3<\/h4>\n<ul>\n<li>Fixed: Wrong price for variation products<\/li>\n<\/ul>\n<h4>7.0.2<\/h4>\n<ul>\n<li>Fixed: Menu icon on some browsers<\/li>\n<\/ul>\n<h4>7.0.1<\/h4>\n<ul>\n<li>Fixed: Doesn&#8217;t get the bundles list<\/li>\n<li>Added: Option to hide image when searching product<\/li>\n<\/ul>\n<h4>7.0.0<\/h4>\n<ul>\n<li>Updated: Change the way to store bundled products in a bundle<\/li>\n<li>Updated: Optimized the code<\/li>\n<li>Added: Insert heading\/paragraph into bundled products list (Premium)<\/li>\n<\/ul>\n<p>&#8230;<\/p>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Released<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/woo-product-bundle\/assets\/screenshot-1.jpg?rev=1723040\"><img src=\"https:\/\/ps.w.org\/woo-product-bundle\/assets\/screenshot-1.jpg?rev=1723040\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/woo-product-bundle\/assets\/screenshot-2.jpg?rev=1723040\"><img src=\"https:\/\/ps.w.org\/woo-product-bundle\/assets\/screenshot-2.jpg?rev=1723040\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/woo-product-bundle\/assets\/screenshot-3.jpg?rev=1723040\"><img src=\"https:\/\/ps.w.org\/woo-product-bundle\/assets\/screenshot-3.jpg?rev=1723040\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/woo-product-bundle\/assets\/screenshot-4.jpg?rev=1723040\"><img src=\"https:\/\/ps.w.org\/woo-product-bundle\/assets\/screenshot-4.jpg?rev=1723040\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Mobile Version Css Problem<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"3 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"3\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/abidhossain531\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/542ca5f89b89573d2af370036210d6d6?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/542ca5f89b89573d2af370036210d6d6?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/abidhossain531\/\" class=\"reviewer-name\">Md. Abid Hossain Manu <small>(abidhossain531)<\/small><\/a> on <span class=\"review-date\">March 25, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I have included 2 photos please check them. I have been waiting for a long time and thought CSS would be updated soon but no change. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:image -->\n<figure class=\"wp-block-image\"><img alt=\"\" \/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:image {\"className\":\"is-style-rounded\"} -->\n<figure class=\"wp-block-image\"><img alt=\"\" \/><\/figure>\n<!-- \/wp:image --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Nice but absent support and not optimized<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"3 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"3\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/augustuswp\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e9f19fdee9a3d9469b59174639f2c7dd?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e9f19fdee9a3d9469b59174639f2c7dd?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/augustuswp\/\" class=\"reviewer-name\">Augustus - a11n <small>(augustuswp)<\/small><\/a> on <span class=\"review-date\">December 26, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The plugin works fine, but their support is totally absent, at least for the free version. Also, the JS and CSS files are not minimized or optimized.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">non-existent support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"2 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"2\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/thomas1999\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/97b87f181e5a33932ee710d2fff9319c?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/97b87f181e5a33932ee710d2fff9319c?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/thomas1999\/\" class=\"reviewer-name\">thomas1999<\/a> on <span class=\"review-date\">November 30, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Support doesn't answer to anyone, don't install the plugin, any problem, no one will help you.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">No support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/dannywhitehead\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/c4570cbbe0fb720882caa8fe1ac07eea?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/c4570cbbe0fb720882caa8fe1ac07eea?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/dannywhitehead\/\" class=\"reviewer-name\">dannywhitehead<\/a> on <span class=\"review-date\">November 24, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The only support link given is to the community support page, and it looks like the developers haven't been active on there for months.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Not responsive, therefore unusable<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"2 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"2\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/wstone508\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b739f152cca354464cebbbc224d34ea5?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b739f152cca354464cebbbc224d34ea5?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/wstone508\/\" class=\"reviewer-name\">wstone508<\/a> on <span class=\"review-date\">November 20, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Although this plugin does work and is pretty easy to use, bundle items in a list has no responsive settings, so your list will extend beyond the screen real estate. This makes it unusable. There are no layout settings specific to device size. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Amazing features, bad total price calculations<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"2 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"2\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/przemyslawcioch\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/3bdb330917bee083176de9c3255d7d96?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/3bdb330917bee083176de9c3255d7d96?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/przemyslawcioch\/\" class=\"reviewer-name\">Przemek <small>(przemyslawcioch)<\/small><\/a> on <span class=\"review-date\">September 18, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This plugins has amazing features, but the biggest problem is that is not compatible with some other WPClever plugins (coupons or discounts per user role). Be careful bacause some other plugins too may cause total price duplication for any bundle. Somehow magically bundles sum up bundle price and included product prices, making the total price doubled. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Tested on several Woocommerce instalations with WPC plugins and 3rd party plugins. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">NO ANSWER FROM SUPPORT<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/wecreatejt\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/cba526640dbf861f3af96f9ebf133e0e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/cba526640dbf861f3af96f9ebf133e0e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/wecreatejt\/\" class=\"reviewer-name\">wecreatejt<\/a> on <span class=\"review-date\">July 25, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I buy the premium version to have support for my theme because there bundle was now compatible they said me that they can fix the issue , its will take 24\/48h its been 2 week and they don\u00b4t reply to my email anymore<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">GREAT plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/toppro\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/5bec9953e6c0634c47a31e99c3132c6c?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/5bec9953e6c0634c47a31e99c3132c6c?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/toppro\/\" class=\"reviewer-name\">toppro<\/a> on <span class=\"review-date\">May 24, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>It does what it advertises to do in a beautiful way. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great plugin and help<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jonro1\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/39754cc8b4cc359b62ed515a07451383?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/39754cc8b4cc359b62ed515a07451383?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jonro1\/\" class=\"reviewer-name\">jonro1<\/a> on <span class=\"review-date\">April 6, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>I needed additional CSS because of my theme and now everything works fine. I can only recommend!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Good free plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/hiepsinho\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/0124fb40ddc220b279f5ebc12305ebbf?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/0124fb40ddc220b279f5ebc12305ebbf?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/hiepsinho\/\" class=\"reviewer-name\">ThemeFull <small>(hiepsinho)<\/small><\/a> on <span class=\"review-date\">April 4, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p>Very good. And not have limited pro version<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "WPC Product Bundles is a plugin help you bundle a few products, offer them at a discount and watch the sales go up!",
+    "description": "<p><strong>WPC Product Bundles for WooCommerce<\/strong> is built for shop owners to create amazing deals that combine several products to put for sale together. This is such a powerful plugin for boosting sales of different product types, and at the same time offering customers with some reasonable benefits. It\u2019s a smart tool for enhancing cross-selling strategies on your online WooCommerce shop. It is also optimized for search engines, increases site ranking and ensures a higher conversion rate.<\/p>\n<h4>Live demo<\/h4>\n<p>Visit our <a href=\"https:\/\/demo.wpclever.net\/woosb\/\" title=\"live demo\" rel=\"nofollow ugc\">live demo<\/a> here to see how this plugin works.<\/p>\n<h4>Document<\/h4>\n<p>Catch the live preview, bundle samples, and everything else in the super comprehensive <a href=\"https:\/\/doc.wpclever.net\/woosb\/\" rel=\"nofollow ugc\">Online Documentation<\/a> now.<\/p>\n<h4>Basics to create a smart product bundle<\/h4>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/_CULYbTT0k0?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<h4>Features<\/h4>\n<ul>\n<li>General: choose a universal displaying style of prices on your site<\/li>\n<li>Drag &amp; drop to rearrange bundled product order<\/li>\n<li>Set a default quantity for each item in a bundle<\/li>\n<li>Customizable bundled items\u2019 quantity<\/li>\n<li>Set discount by percentage or by numbers<\/li>\n<li>Set the min\/max quantity for each item or the whole bundle<\/li>\n<li>Configure total limits: required min\/max amount of the bundle total (NEW)<\/li>\n<li>Auto-calculated options for regular &amp; sale prices<\/li>\n<li>Create virtual or downloadable product bundles<\/li>\n<li>Bundled products are inventory-managed just like standalone sales<\/li>\n<li>Enable\/disable stock management at bundle level<\/li>\n<li>Product bundle details: configure the information display of bundled products, such as position, thumbnail, price, image, quantity, and short descriptions<\/li>\n<li>Bundles: change the position of bundle list (above\/ below Add to Cart button, hide or open in a new tab)<\/li>\n<li>Add to Cart &amp; Checkout button texts<\/li>\n<li>Advanced Search: adjust search product limit, search items by SKU, exact keyword, phrase search, and repeated products<\/li>\n<li>Add a <strong>variable product<\/strong> or a <strong>specific variation<\/strong> to a bundle (<a href=\"https:\/\/wpclever.net\/downloads\/product-bundles\/\" title=\"WPC Product Bundles\" rel=\"nofollow ugc\">Premium Version<\/a>)<\/li>\n<\/ul>\n<h4>Not what you needed?<\/h4>\n<p>Please try other plugins from us:<\/p>\n<ul>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/wpc-composite-products\/\" title=\"WPC Composite Products\" rel=\"ugc\">WPC Composite Products<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/wpc-grouped-product\/\" title=\"WPC Grouped Product\" rel=\"ugc\">WPC Grouped Product<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/woo-bought-together\/\" title=\"WPC Frequently Bought Together\" rel=\"ugc\">WPC Frequently Bought Together<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/wpc-force-sells\/\" title=\"WPC Force Sells\" rel=\"ugc\">WPC Force Sells<\/a><\/li>\n<li><a href=\"https:\/\/wordpress.org\/plugins\/wpc-linked-variation\/\" title=\"WPC Linked Variation\" rel=\"ugc\">WPC Linked Variation<\/a><\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/woo-product-bundle\/assets\/screenshot-1.jpg?rev=1723040",
+            "caption": ""
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/woo-product-bundle\/assets\/screenshot-2.jpg?rev=1723040",
+            "caption": ""
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/woo-product-bundle\/assets\/screenshot-3.jpg?rev=1723040",
+            "caption": ""
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/woo-product-bundle\/assets\/screenshot-4.jpg?rev=1723040",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "bundle": "bundle",
+        "bundles": "bundles",
+        "kits": "kits",
+        "woocommerce": "woocommerce",
+        "wpc": "wpc"
+    },
+    "stable_tag": "trunk",
+    "versions": {
+        "6.3.0": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.3.0.zip",
+        "6.3.1": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.3.1.zip",
+        "6.3.2": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.3.2.zip",
+        "6.3.3": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.3.3.zip",
+        "6.3.4": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.3.4.zip",
+        "6.3.5": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.3.5.zip",
+        "6.3.6": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.3.6.zip",
+        "6.3.7": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.3.7.zip",
+        "6.3.8": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.3.8.zip",
+        "6.3.9": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.3.9.zip",
+        "6.4.0": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.4.0.zip",
+        "6.4.1": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.4.1.zip",
+        "6.4.2": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.4.2.zip",
+        "6.4.3": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.4.3.zip",
+        "6.4.4": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.4.4.zip",
+        "6.5.0": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.5.0.zip",
+        "6.5.1": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.5.1.zip",
+        "6.5.2": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.5.2.zip",
+        "6.5.3": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.5.3.zip",
+        "6.6.0": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.6.0.zip",
+        "6.6.1": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.6.1.zip",
+        "6.6.2": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.6.2.zip",
+        "6.6.3": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.6.3.zip",
+        "6.6.4": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.6.4.zip",
+        "6.7.0": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.6.7.0.zip",
+        "7.0.0": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.0.0.zip",
+        "7.0.1": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.0.1.zip",
+        "7.0.2": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.0.2.zip",
+        "7.0.3": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.0.3.zip",
+        "7.0.4": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.0.4.zip",
+        "7.0.5": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.0.5.zip",
+        "7.0.6": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.0.6.zip",
+        "7.0.7": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.0.7.zip",
+        "7.0.8": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.0.8.zip",
+        "7.0.9": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.0.9.zip",
+        "7.1.0": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.1.0.zip",
+        "7.1.1": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.1.1.zip",
+        "7.1.2": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.1.2.zip",
+        "7.1.3": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.1.3.zip",
+        "7.2.0": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.2.0.zip",
+        "7.2.1": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.2.1.zip",
+        "7.2.2": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.2.2.zip",
+        "7.2.3": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.2.3.zip",
+        "7.2.4": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.2.4.zip",
+        "7.2.5": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.2.5.zip",
+        "7.2.6": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.2.6.zip",
+        "7.2.7": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.2.7.zip",
+        "7.2.8": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.2.8.zip",
+        "7.2.9": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.2.9.zip",
+        "7.3.0": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.3.0.zip",
+        "7.3.1": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.3.1.zip",
+        "7.3.2": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.3.2.zip",
+        "7.3.3": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.3.3.zip",
+        "7.3.4": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.3.4.zip",
+        "7.3.5": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.3.5.zip",
+        "7.3.6": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.3.6.zip",
+        "7.3.7": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.3.7.zip",
+        "7.3.8": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.3.8.zip",
+        "7.3.9": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.7.3.9.zip",
+        "8.0.0": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.8.0.0.zip",
+        "8.0.1": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.8.0.1.zip",
+        "8.0.2": "https:\/\/downloads.wordpress.org\/plugin\/woo-product-bundle.8.0.2.zip"
+    },
+    "business_model": "commercial",
+    "repository_url": "",
+    "commercial_support_url": "https:\/\/wpclever.net\/support?utm_source=support&utm_medium=woosb&utm_campaign=wporg",
+    "donate_link": "https:\/\/wpclever.net",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/woo-product-bundle\/assets\/banner-772x250.png?rev=2425210",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/woo-product-bundle\/assets\/icon-128x128.png?rev=1857793"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 88,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "woo-product-bundle",
+            "language": "ar",
+            "version": "8.0.3",
+            "updated": "2021-10-26 03:57:39",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woo-product-bundle\/8.0.3\/ar.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woo-product-bundle",
+            "language": "cs_CZ",
+            "version": "8.0.3",
+            "updated": "2023-06-30 18:48:43",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woo-product-bundle\/8.0.3\/cs_CZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woo-product-bundle",
+            "language": "da_DK",
+            "version": "8.0.3",
+            "updated": "2023-05-15 23:47:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woo-product-bundle\/8.0.3\/da_DK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woo-product-bundle",
+            "language": "es_ES",
+            "version": "8.0.3",
+            "updated": "2024-03-18 18:27:12",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woo-product-bundle\/8.0.3\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woo-product-bundle",
+            "language": "fr_FR",
+            "version": "8.0.3",
+            "updated": "2022-01-06 10:31:52",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woo-product-bundle\/8.0.3\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woo-product-bundle",
+            "language": "nl_NL",
+            "version": "8.0.3",
+            "updated": "2024-03-17 18:46:58",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woo-product-bundle\/8.0.3\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woo-product-bundle",
+            "language": "pt_BR",
+            "version": "8.0.3",
+            "updated": "2023-06-17 20:10:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woo-product-bundle\/8.0.3\/pt_BR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woo-product-bundle",
+            "language": "ru_RU",
+            "version": "8.0.3",
+            "updated": "2023-06-29 16:45:33",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woo-product-bundle\/8.0.3\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "woo-product-bundle",
+            "language": "sv_SE",
+            "version": "8.0.3",
+            "updated": "2024-03-17 18:59:23",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/woo-product-bundle\/8.0.3\/sv_SE.zip"
+        }
+    ]
+}

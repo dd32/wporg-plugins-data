@@ -1,0 +1,473 @@
+{
+    "name": "User Registration &#8211; Custom Registration Form, Login Form, and User Profile WordPress Plugin",
+    "slug": "user-registration",
+    "version": "3.2.0",
+    "author": "<a href=\"https:\/\/wpuserregistration.com\">WPEverest<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/wpeverest\/",
+    "contributors": {
+        "wpeverest": {
+            "profile": "https:\/\/profiles.wordpress.org\/wpeverest\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/22b765562d3b11a465219036cacc58b9?s=96&d=monsterid&r=g",
+            "display_name": "wpeverest"
+        }
+    },
+    "requires": "5.2",
+    "tested": "6.5.2",
+    "requires_php": "7.2",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 96,
+    "ratings": {
+        "5": 608,
+        "4": 17,
+        "3": 9,
+        "2": 4,
+        "1": 24
+    },
+    "num_ratings": 662,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/user-registration\/",
+    "support_threads": 31,
+    "support_threads_resolved": 28,
+    "active_installs": 70000,
+    "downloaded": 2609913,
+    "last_updated": "2024-04-15 5:24am GMT",
+    "added": "2017-07-06",
+    "homepage": "https:\/\/wpuserregistration.com\/",
+    "sections": {
+        "description": "<p><strong>User Registration \u2013 The Best Registration Plugin for WordPress<\/strong><\/p>\n<p>Are you a beginner with absolutely zero coding skills? No problem! User Registration\u2019s drag-and-drop form builder lets you create custom registration forms of any kind for your WordPress site. Go for simple forms or create complex multi-step forms. It\u2019s all up to you.<\/p>\n<p>Moreover, this free, lightweight, and 100% responsive plugin comes with a beautifully designed login form ready for you to use. It also automatically creates a user profile account for users.<\/p>\n<p>The best thing is that there are unlimited customization options for each field and form. To add more extendibility to this, you get premium add-ons that include extra functionalities in your registration forms. So, you\u2019ve got yourself a fantastic WordPress user registration and login plugin.<\/p>\n<p><a href=\"https:\/\/www.youtube.com\/watch?v=ZOXVbfBTNPQ\" rel=\"nofollow ugc\">Youtube<\/a><\/p>\n<p><a href=\"https:\/\/wpuserregistration.com\/features\/?utm_source=wporg&amp;utm_medium=all-features-link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">All Features<\/a> | <a href=\"https:\/\/docs.wpuserregistration.com\/\" rel=\"nofollow ugc\">Documentation<\/a><\/p>\n<p><a href=\"https:\/\/userregistration.demoswp.net\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Test User Registration Premium for Free <\/a><\/p>\n<h3>Create High-converting Registration Forms with Our Feature-rich Plugin<\/h3>\n<ul>\n<li>\n<p><strong>Easy Drag and Drop Builder:<\/strong> Simply drag and drop the form fields into a blank slate and create a registration form in no time. No code, no fuss.<\/p>\n<\/li>\n<li>\n<p><strong>Custom Form Fields Apart from Default User Fields:<\/strong> User Registration removes the limitations posed by the default WordPress fields while registering users. Use custom form fields like Country, Privacy Policy, and Profile Picture to design any kind of form you need.<\/p>\n<\/li>\n<li>\n<p><strong>Quick Form Preview:<\/strong> Enables form functionality checking before publishing, improving UX.<\/p>\n<\/li>\n<li>\n<p><strong>Email Notifications:<\/strong> Send customized email notifications to your users and admin after registration. Additionally, you can send notifications regarding payments and changes made to profile details as well.<\/p>\n<\/li>\n<li>\n<p><strong>User Profile Account Page:<\/strong> User Registration automatically creates a WordPress user profile account for all your registered users. Even better is the fact that you\u2019re still in complete control of the customization of this page.<\/p>\n<\/li>\n<li>\n<p><strong>Global Search Settings:<\/strong> Admins can search in the Global Settings to quickly access the required settings.<\/p>\n<\/li>\n<li>\n<p><strong><a href=\"https:\/\/www.youtube.com\/watch?v=jbiBJdowxG0\" rel=\"nofollow ugc\">In-built Login Form:<\/a><\/strong> No need to make a separate login form for users as you get an in-built login form with User Registration.<\/p>\n<\/li>\n<li>\n<p><strong>Strong Spam Protection with Google reCaptcha and Honeypot:<\/strong> Block spam attacks like fake user registration and spam submissions with our Google reCaptcha and honeypot feature.<\/p>\n<\/li>\n<li>\n<p><strong>Assign User Roles and Capabilities:<\/strong> Assign default WordPress user roles like Editor, Author, Subscriber, and more while creating registration forms.<\/p>\n<\/li>\n<li>\n<p><strong>Smart Tags:<\/strong> Personalize email notifications with user-specific data.<\/p>\n<\/li>\n<li>\n<p><strong>AJAX Form Submission:<\/strong> Provides seamless and fast form submissions without page reloading.<\/p>\n<\/li>\n<li>\n<p><strong>Gutenberg Support:<\/strong> User Registration fully supports the Block Editor. You can add login and registration forms to any page using the User Registration Block.<\/p>\n<\/li>\n<li>\n<p><strong>Form Templates:<\/strong> Kickstart your registration process with our pre-designed form templates. Use as-it-is or modify it according to your needs.<\/p>\n<\/li>\n<li>\n<p><strong>Easily Import Export Forms:<\/strong> If you own multiple websites, you don\u2019t have to create registration forms from scratch every single time. You can save time by exporting and importing forms as JSON files, including form settings.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/content-restriction\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Create Easy Content Restriction Rules:<\/a><\/strong> Enable content restriction for posts, pages, and categories. You can also create advanced custom content access rules based on roles, capabilities, user state, and more.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] Track User Journey:<\/strong> Get detailed information about the pages a user visited on your website and the time they spent on the pages.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] Login and Registration Popups:<\/strong> Turn simple inline registration and login forms into popups for better user engagement and conversion.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] User Registration Data in Graphs and Charts:<\/strong> Receive accurate stats on every user registration form through graphs and charts.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] Passwordless Login:<\/strong> Enable user authentication through a secure email link, eliminating the need for passwords.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] Elementor Support:<\/strong> Utilize the User Registration widget in your Elementor editor to quickly add registration forms to any page and customize their design.<\/p>\n<\/li>\n<\/ul>\n<h3>Add-ons &amp; Integrations<\/h3>\n<ul>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/multi-step-form\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Multi-Step Form:<\/a><\/strong> Use multi-step forms that let you break long forms into multiple sections for a cleaner and more engaging presentation.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/customize-my-account\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Customize My Account:<\/a><\/strong> Manage the in-built My Account page by adding custom tabs as well as editing and deleting default tabs. User Registration also allows you to edit design elements of the page such as Color, Buttons, Navigation, and more.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/woocommerce-integration\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">WooCommerce Integration:<\/a><\/strong> Integrate WooCommerce with our plugin and add WooCommerce Shipping\/Billing Address fields to your user registration forms.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/file-uploads\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Drag and Drop Multi File Upload:<\/a><\/strong> The multiple file upload feature is perfect for collecting more than one document or image file. You only have to set the maximum file upload limit from the field options.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/field-visibility\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Set Fields Visibility:<\/a><\/strong> Hide specific user registration fields in the published forms and user profile page. You can decide whether the field is visible in the registration form, profile details, or both.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/import-users\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Import Users:<\/a><\/strong> Import users to any registration form on your WordPress website. Just upload the CSV file with user information and map it with the registration form of your choice.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/frontend-listing\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Frontend User Listing:<\/a><\/strong> List registered users in the front end to help visitors and users view the profile of all the listed members.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/style-customizer\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Style Customizer Tool:<\/a><\/strong> You might find the default form template a bit boring. So, User Registration offers a live form designer for you to customize form elements like Field Styles, Form Wrapper, and Button Styles without writing any code.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/invite-codes\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Invite Codes for Registration:<\/a><\/strong> User Registration allows access to the registration page to only users with an invitation code. You can either create a code on your own or generate random codes.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/two-factor-authentication\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Two Factor Authentication:<\/a><\/strong> If you want to protect your website from hackers and digital vulnerabilities, the Two Factor Authentication add-on, also known as 2FA, will provide OTP-based verification for the users for maintaining a secure site and preventing data breaching.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] Collect Payments via Credit Cards and PayPal:<\/strong> User Registration works flawlessly with both <a href=\"https:\/\/wpuserregistration.com\/features\/paypal\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">PayPal<\/a> and <a href=\"https:\/\/wpuserregistration.com\/features\/stripe\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Credit Cards and Ideal Payments(Stripe)<\/a>, so you can easily receive payments during registration.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/zapier\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Connect Registration Forms with 1000+ Services via Zapier:<\/a><\/strong> Zapier passes information to all the applications your registration forms are connected with. This helps you save time by automating tasks like collecting form responses, sending texts, and reminders.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] Integrations with Email Marketing Services:<\/strong> Promote your business with the correct email marketing tools like <a href=\"https:\/\/wpuserregistration.com\/features\/mailchimp\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Mailchimp<\/a> , <a href=\"https:\/\/wpuserregistration.com\/features\/mailerlite\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">MailerLite<\/a>, <a href=\"https:\/\/wpuserregistration.com\/features\/activecampaign\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">ActiveCampaign<\/a> and <a href=\"https:\/\/wpuserregistration.com\/features\/klaviyo\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Klaviyo<\/a>. Integrating them with User Registration adds all your registered users to subscriber lists directly.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/geolocation\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Collect Geolocation Data for Users:<\/a><\/strong> This premium add-on enables you to collect and save the geolocation data of users who register on your website. It\u2019s easy to do this when you have fields like Country, City, and Postcode.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/learndash\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">LearnDash Integration:<\/a><\/strong> Integrating LearnDash with User Registration allows you to add a LearnDash course field in your registration form. This automatically enrolls the users into their specified LearnDash course.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/conditional-logic\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Smart Conditional Logic:<\/a><\/strong> Personalize registration forms for users and make them more interactive with conditional logic.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/save-and-continue\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Save and Continue:<\/a><\/strong> Users can save their progress on a registration form and come back to it later to submit the form.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/private-notes\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Personalized Communication with Private Notes:<\/a><\/strong> Share important updates, personalized messages, etc., with users. Plus, users can respond to these notes with their queries and receive answers.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/form-restriction\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Enable Form Restrictions:<\/a><\/strong>  Restrict access to your WordPress registration forms with custom conditions.<\/p>\n<\/li>\n<\/ul>\n<p>And there\u2019s more we haven\u2019t listed here.<\/p>\n<p>\ud83d\udc49 <a href=\"https:\/\/wpuserregistration.com\/features\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Explore all features now!<\/a><\/p>\n<h3>Who is User Registration for?<\/h3>\n<ul>\n<li>Schools and Universities<\/li>\n<li>Ecommerce websites<\/li>\n<li>Business agencies<\/li>\n<li>Online magazines<\/li>\n<li>Non-profit organizations<\/li>\n<li>Online certification programs<\/li>\n<li>Conference and seminar organizers<\/li>\n<li>Workshops<\/li>\n<li>Restaurants<\/li>\n<li>Sports event organizers<\/li>\n<li>Government offices<\/li>\n<li>Job board websites<\/li>\n<li>Forums<\/li>\n<li>Medical institutions<\/li>\n<li>Bloggers<\/li>\n<li>Gym and yoga studios<\/li>\n<\/ul>\n<h3>Create Different Registration Form Types without Any Coding Skills<\/h3>\n<ul>\n<li>Employee Registration<\/li>\n<li>Event Registration<\/li>\n<li>JobSeeker Registration<\/li>\n<li>Appointment Form<\/li>\n<li>Document Application Form<\/li>\n<li>Social Registration<\/li>\n<li>Student Registration<\/li>\n<li>WooCommerce Registration<\/li>\n<li>Multi-Step Registration<\/li>\n<li>Course Registration<\/li>\n<\/ul>\n<p>\ud83d\udc49 <a href=\"https:\/\/demo.wpeverest.com\/user-registration\/\" rel=\"nofollow ugc\">Explore all pre-built User Registration demos.<\/a><\/p>\n<h3>Know your way around User Registration with our tutorials<\/h3>\n<ul>\n<li>\n<p><a href=\"https:\/\/wpuserregistration.com\/blog\/create-user-registration-form-in-wordpress\/\" rel=\"nofollow ugc\">How to Create User Registration Form in WordPress Easily?<\/a><\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/wpuserregistration.com\/blog\/create-user-profile-page-in-wordpress\/\" rel=\"nofollow ugc\">How to Create a Custom User Profile Page in WordPress?<\/a><\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/wpuserregistration.com\/blog\/multi-step-registration-form\/\" rel=\"nofollow ugc\">How to Create a Multi-step Registration Form in WordPress?<\/a><\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/wpuserregistration.com\/blog\/register-users-with-invitation-code\/\" rel=\"nofollow ugc\">How to Register Users with an Invitation Code in WordPress?<\/a><\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/wpuserregistration.com\/blog\/learndash-custom-registration-form\/\" rel=\"nofollow ugc\">How to Create a Custom Registration Form for LearnDash?<\/a><\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/wpuserregistration.com\/blog\/woocommerce-registration-form\/\" rel=\"nofollow ugc\">How to Create a Custom WooCommerce Registration Form Easily?<\/a><\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/wpuserregistration.com\/blog\/default-wordpress-login-page-url-change\/\" rel=\"nofollow ugc\">How to Change Default WordPress Login URL to Custom URL?<\/a><\/p>\n<\/li>\n<\/ul>\n<h3>Get in Touch with us<\/h3>\n<p>\ud83d\udc49 <a href=\"https:\/\/www.facebook.com\/groups\/userregistration\" rel=\"nofollow ugc\">Facebook Group<\/a><\/p>\n<p>\ud83d\udc49 <a href=\"https:\/\/twitter.com\/user_register\" rel=\"nofollow ugc\">Twitter<\/a><\/p>\n<p>\ud83d\udc49 <a href=\"https:\/\/www.youtube.com\/@UserRegistration\" rel=\"nofollow ugc\">Youtube<\/a><\/p>\n<h3>Explore More Products from Our Team<\/h3>\n<p>Love User Registration? Why not check out more WordPress themes and plugins from us?<\/p>\n<ul>\n<li>\n<p><a href=\"https:\/\/masteriyo.com\/\" rel=\"nofollow ugc\">Masteriyo<\/a> &#8211; A Powerful and Easy WordPress LMS Plugin.\u00a0<\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/everestforms.net\/\" rel=\"nofollow ugc\">Everest Forms<\/a> &#8211; The Best Form Plugin Builder Plugin for WordPress.<\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/wordpress.org\/plugins\/blockart-blocks\/\" rel=\"ugc\">BlockArt Blocks<\/a> &#8211; Free Gutenberg Custom Blocks Plugin.<\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/wpblockart.com\/magazine-blocks\/\" rel=\"nofollow ugc\">Magazine Blocks<\/a> &#8211; Gutenberg Blocks Plugin to Build Magazine-style Sites.<\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/zakratheme.com\/\" rel=\"nofollow ugc\">Zakra<\/a> &#8211; Best WordPress Multipurpose Theme Powering 60K+ Websites.<\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/themegrill.com\/wordpress-themes\/free\/\" rel=\"nofollow ugc\">ThemeGrill<\/a> &#8211; Beautiful Free WordPress Themes for Every Niche.<\/p>\n<\/li>\n<\/ul>\n",
+        "faq": "\n<dt id='do%20i%20need%20to%20have%20coding%20skills%20to%20use%20the%20user%20registration%20plugin%3F'>\nDo I need to have coding skills to use the User Registration Plugin?\n<\/h4>\n<p>\n<p>No, you don&#8217;t need any coding skills. One can simply drag and drop fields, arrange them and use built-in shortcodes to display the form.<\/p>\n<\/p>\n<dt id='does%20the%20plugin%20work%20with%20any%20wordpress%20themes%3F'>\nDoes the plugin work with any WordPress themes?\n<\/h4>\n<p>\n<p>Yes, the plugin is designed to work with any themes that have been coded following WordPress guidelines.<\/p>\n<\/p>\n<dt id='how%20can%20admin%20access%20registered%20users%20data%3F'>\nHow can admin access registered users data?\n<\/h4>\n<p>\n<p>All the users registered via the registration forms and their data can be accessed from the Users menu in the WordPress Dashboard.<\/p>\n<\/p>\n<dt id='can%20a%20user%20edit%20their%20profile%20informaton%20after%20registration%3F'>\nCan a user edit their profile informaton after registration?\n<\/h4>\n<p>\n<p>Yes, a registered user can access their profile details via the account page. One can create an <a href=\"https:\/\/docs.wpuserregistration.com\/registration-form-and-login-form\/how-to-show-account-profile\/\" rel=\"nofollow ugc\">account profile page<\/a> for their user using the shortcode available.<\/p>\n<\/p>\n<dt id='does%20the%20plugin%20come%20with%20a%20login%20form%20as%20well%3F'>\nDoes the plugin come with a login form as well?\n<\/h4>\n<p>\n<p>Yes, the plugin has a shortcode for the login form.<\/p>\n<\/p>\n<dt id='can%20i%20add%20custom%20fields%20to%20my%20registration%20forms%3F'>\nCan I add custom fields to my registration forms?\n<\/h4>\n<p>\n<p>Yes, our form builder allows you to effortlessly add and arrange custom fields in your forms.<\/p>\n<\/p>\n<dt id='is%20the%20user%20registration%20plugin%20compatible%20with%20my%20version%20of%20wordpress%3F'>\nIs the User Registration plugin compatible with my version of WordPress?\n<\/h4>\n<p>\n<p>User Registration is updated regularly to ensure compatibility with the latest versions of WordPress. Please check the <code>Requires at least<\/code> and <code>Tested up to<\/code> fields in our <code>readme.txt<\/code> file to see if it&#8217;s compatible with your version.<\/p>\n<\/p>\n<dt id='what%20should%20i%20do%20if%20user%20registration%20is%20having%20problems%3F'>\nWhat should I do if User Registration is having problems?\n<\/h4>\n<p>\n<p>We are ready to assist you! You can contact us through the WordPress.org help forums or by visiting our <a href=\"https:\/\/wpuserregistration.com\/support\/\" rel=\"nofollow ugc\">help page<\/a>.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>3.2.0    &#8211; 15\/04\/2024<\/h4>\n<ul>\n<li>Feature  &#8211; Dashboard Page.<\/li>\n<li>Feature  &#8211; Automatic user login after email confirmation and reset password.<\/li>\n<li>Enhance  &#8211; Text Area Enhancement.<\/li>\n<li>Enhance  &#8211; User registration Gutenberg blocks.<\/li>\n<li>Enhance  &#8211; Send Bulk Resend Verification Email.<\/li>\n<li>Enhance  &#8211; Screenshot video on upgrade to pro popup.<\/li>\n<li>Tweak    &#8211; Filter to change email body width.<\/li>\n<li>Tweak    &#8211; Change the &#8216;All UR Forms&#8217; filter name to &#8216;All Users&#8217; at Users &gt; All Users.<\/li>\n<li>Tweak    &#8211; Tooltip message for Username, Text and Textarea of Length Advance Settings.<\/li>\n<li>Fix      &#8211; Backend validation for Number field.<\/li>\n<li>Fix      &#8211; PHP version 8.3 compatibility issue.<\/li>\n<li>Fix      &#8211; My Account URL issue on custom permalink.<\/li>\n<li>Fix      &#8211; Avatar files are left behind after deleting user.<\/li>\n<li>Fix      &#8211; Denied is not working when email confirmation is enabled.<\/li>\n<li>Fix      &#8211; Checkbox values are not being saved when there is a single option.<\/li>\n<li>Fix      &#8211; When no redirection the waiting period for redirection should be hidden.<\/li>\n<li>Fix      &#8211; Required Validation of Text Fields Issue (Input, First Name, Last Name, etc.).<\/li>\n<li>Fix      &#8211; Email is not sent to the user and admin when stripe field is conditionally hidden.<\/li>\n<li>Dev      &#8211; Compatibility for Merging module features in pro.<\/li>\n<li>Dev      &#8211; Compatibility for Subscription Plan trail period.<\/li>\n<li>Dev      &#8211; Compatibility for WooCommerce My-Account Edit Profile sync.<\/li>\n<li>Dev      &#8211; Compatibility for Added smart phone number in billing phone number.<\/li>\n<li>Dev      &#8211; Compatibility for Woocommerce Product page Frontend and Backend Validation.<\/li>\n<li>Dev      &#8211; Compatibility for Recurring payment to be set 1DAY instead of 1YEAR in payments.<\/li>\n<li>Dev      &#8211; Compatibility for Tooltip removed when clicked multiple times on field in builder.<\/li>\n<\/ul>\n<p>= 3.1.5    &#8211; 05\/03\/2024<br \/>\n* Fix      &#8211; Missing Escaping for display name.<br \/>\n* Fix      &#8211; Deprecated dynamic properties in php v8.2.<br \/>\n* Fix      &#8211; Critical Error thrown while deleting bulk forms.<br \/>\n* Fix      &#8211; Checkbox sync issue with WooCommerce checkout page.<br \/>\n* Fix      &#8211; Critical Error while login payment before login option.<\/p>\n<p>= 3.1.4    &#8211; 12\/02\/2024<br \/>\n* Feature  &#8211; Deny Smart Tag in Admin Approval.<br \/>\n* Tweak    &#8211; From address going wrong in some emails.<br \/>\n* Tweak    &#8211; Docs comments for developer documentation.<br \/>\n* Tweak    &#8211; Introduce form name smart tag in user registration.<br \/>\n* Tweak    &#8211; Redirection back to previous page after registration.<br \/>\n* Tweak    &#8211; Send user registration email template while sending reset password email from admin area.<br \/>\n* Dev      &#8211; Compatibility for image choice feature.<br \/>\n* Dev      &#8211; Compatibility for subscription plan feature.<br \/>\n* Dev      &#8211; Compatibility for the payment invoice feature.<br \/>\n* Dev      &#8211; Compatibility for trail period in subscription feature.<br \/>\n* Dev      &#8211; Compatibility for passwordless login email content modification.<br \/>\n* Fix      &#8211; Date format for date field.<br \/>\n* Fix      &#8211; Undefined index post_content.<br \/>\n* Fix      &#8211; Fatal error in log handler file.<br \/>\n* Fix      &#8211; Live user registered notice js error.<br \/>\n* Fix      &#8211; Remove extra password field value in mail.<br \/>\n* Fix      &#8211; Country Field default value none Frontend Issue.<br \/>\n* Fix      &#8211; Checkbox not updating properly on profile update when all unchecked.<br \/>\n* Fix      &#8211; Validation error while profile update if field visibility is applied on fields.<br \/>\n* Fix      &#8211; Fields select 2 and multi select option not changing instantly in builder setting area.<\/p>\n<p>= 3.1.3    &#8211; 02\/01\/2024<br \/>\n* Enhance  &#8211; Smart tags parseable endpoint content.<br \/>\n* Tweak    &#8211; Default form fields re arrangement.<br \/>\n* Tweak    &#8211; Pending users meta query optimization.<br \/>\n* Tweak    &#8211; Parse approval link smart tag properly.<br \/>\n* Tweak    &#8211; Manual user counting replaced with SQL query.<br \/>\n* Tweak    &#8211; Added New option None in the default of country field.<br \/>\n* Tweak    &#8211; Escape and made the Approve now text translation ready.<br \/>\n* Fix      &#8211; Support decimal value in number field.<br \/>\n* Fix      &#8211; Select field option not changing instantly.<br \/>\n* Fix      &#8211; Lost password page redirecting to login page.<br \/>\n* Fix      &#8211; Send email change confirmation with templates.<br \/>\n* Fix      &#8211; Placeholder is not working in the country field.<br \/>\n* Fix      &#8211; Email not sent when stripe conditionally hidden.<br \/>\n* Fix      &#8211; Welcome email sent when profile details updated by admin.<br \/>\n* Dev      &#8211; Deprecated ur_has_date_field function.<br \/>\n* Dev      &#8211; Trigger hook for redirect after logout.<br \/>\n* Dev      &#8211; Added filter hook to modify find myaccount shortcode in page.<br \/>\n* Dev      &#8211; Deprecated user_registration_before_edit_profile_form action hook.<\/p>\n<p>= 3.1.2    &#8211; 13\/12\/2023<br \/>\n* Refactor &#8211; Timepicker library changed from timepicker to flatpickr.<br \/>\n* Refactor &#8211; Size option in input field replaced bt limit by characters option.<br \/>\n* Feature  &#8211; List pages where each form shortcode is used.<br \/>\n* Feature  &#8211; New email added for send user approval link admin email.<br \/>\n* Feature  &#8211; Limit by characters or words in Inout and Textarea Field.<br \/>\n* Enhance  &#8211; Improve success message after registration.<br \/>\n* Enhance  &#8211; Server side validation message shown in respective fields.<br \/>\n* Enhance  &#8211; Redirection to external url through logout_redirect shortcode attribute.<br \/>\n* Tweak    &#8211; Form Restriction addon details added in extension page.<br \/>\n* Dev      &#8211; Compatibility for form restriction addon.<br \/>\n* Dev      &#8211; Remove no priv ajax request for form save action.<br \/>\n* Dev      &#8211; Added hook to handle redirect url after auto login.<br \/>\n* Dev      &#8211; Introduced hook to modify parse value for form data.<br \/>\n* Fix      &#8211; Critical error while exporting user.<br \/>\n* Fix      &#8211; The all_fields smart tag parse to a table.<br \/>\n* Fix      &#8211; My account endpoint slug translation issue.<br \/>\n* Fix      &#8211; Install user registration pages button not working.<br \/>\n* Fix      &#8211; Assign role conditionally not working in multisite.<br \/>\n* Fix      &#8211; Translation issue with successfull email verified message.<\/p>\n<p>= 3.1.1    &#8211; 10\/11\/2023<br \/>\n* Tweak    &#8211; Dashboard content made accessible through action hook.<br \/>\n* Tweak    &#8211; Compatibility with newly introduced ThemeGrill Agency Plan.<br \/>\n* Tweak    &#8211; Conversational Forms addon details added in extension page.<br \/>\n* Tweak    &#8211; Added action hook to handle functionalites after form duplication.<br \/>\n* Dev      &#8211; Properly parse and send username in ajax response of form submit.<br \/>\n* Fix      &#8211; Lock on the one time draggable field not removed while removing the field.<\/p>\n<p><a href=\"https:\/\/raw.githubusercontent.com\/wpeverest\/user-registration\/master\/CHANGELOG.txt\" rel=\"nofollow ugc\">See changelog for all versions<\/a>.<\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-1.png?rev=3036655\"><img src=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-1.png?rev=3036655\" alt=\"Form Fields\"><\/a><p>Form Fields<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-2.png?rev=3036655\"><img src=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-2.png?rev=3036655\" alt=\"Form Fields - Fullscreen Mode\"><\/a><p>Form Fields - Fullscreen Mode<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-3.png?rev=3036655\"><img src=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-3.png?rev=3036655\" alt=\"Field Options\"><\/a><p>Field Options<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-4.png?rev=3036655\"><img src=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-4.png?rev=3036655\" alt=\"Form Settings\"><\/a><p>Form Settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-5.png?rev=3036655\"><img src=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-5.png?rev=3036655\" alt=\"General Options\"><\/a><p>General Options<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-6.png?rev=3036655\"><img src=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-6.png?rev=3036655\" alt=\"Login Options\"><\/a><p>Login Options<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-7.png?rev=3036655\"><img src=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-7.png?rev=3036655\" alt=\"Frontend Messages\"><\/a><p>Frontend Messages<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-8.png?rev=3036655\"><img src=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-8.png?rev=3036655\" alt=\"Google reCaptcha\"><\/a><p>Google reCaptcha<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-9.png?rev=3036655\"><img src=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-9.png?rev=3036655\" alt=\"General Email Settings\"><\/a><p>General Email Settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-10.png?rev=3036655\"><img src=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-10.png?rev=3036655\" alt=\"Export Users\"><\/a><p>Export Users<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-11.png?rev=3036655\"><img src=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-11.png?rev=3036655\" alt=\"Import\/Export Forms\"><\/a><p>Import\/Export Forms<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-12.png?rev=3036655\"><img src=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-12.png?rev=3036655\" alt=\"Gutenberg Block\"><\/a><p>Gutenberg Block<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-13.png?rev=3036655\"><img src=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-13.png?rev=3036655\" alt=\"Registration Form\"><\/a><p>Registration Form<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-14.png?rev=3036655\"><img src=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-14.png?rev=3036655\" alt=\"Login Form\"><\/a><p>Login Form<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-15.png?rev=3036655\"><img src=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-15.png?rev=3036655\" alt=\"User Account Page -  Horizontal Layout\"><\/a><p>User Account Page -  Horizontal Layout<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-16.png?rev=3036655\"><img src=\"https:\/\/ps.w.org\/user-registration\/assets\/screenshot-16.png?rev=3036655\" alt=\"User Account Page -  Vertical Layout\"><\/a><p>User Account Page -  Vertical Layout<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excellent plugin, great support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/gl03\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/c5ee2473fa17bf67f8367ddc19eda64e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/c5ee2473fa17bf67f8367ddc19eda64e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/gl03\/\" class=\"reviewer-name\">gl03<\/a> on <span class=\"review-date\">April 15, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This is a great and fully featured plugin, even in the free version. After evaluating competing solutions we decided on acquiring a User Registration Plus license, as the plugin's feature set was perfect for our project.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Customer support has been very helpful and highly responsive, before and after purchasing the license. Great working experience, thank you!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\"><\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excellent<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/edgar3\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e0978d3d7ccdd01c473c08b8fd64f6bd?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e0978d3d7ccdd01c473c08b8fd64f6bd?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/edgar3\/\" class=\"reviewer-name\"> <small>(edgar3)<\/small><\/a> on <span class=\"review-date\">April 9, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Not only is the product excellent, but the support is fantastic. I can't say enough about their quick response and help.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Sensacional<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/refugiomistico\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b8c9629898ac819e59015b36af309e3a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b8c9629898ac819e59015b36af309e3a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/refugiomistico\/\" class=\"reviewer-name\">refugiomistico<\/a> on <span class=\"review-date\">April 5, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I love it!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">A Good plugin for user registration<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/bishnuyar\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e9495d0a670722f859d18e5dd80d5810?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e9495d0a670722f859d18e5dd80d5810?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/bishnuyar\/\" class=\"reviewer-name\">bishnuyar<\/a> on <span class=\"review-date\">March 30, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">User registration plugin provide me hassles free user registration environment in the front-end.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Has all you need<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/silviamalavasi\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/260a1b34c46e6b2516d84dd1a04f9fdb?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/260a1b34c46e6b2516d84dd1a04f9fdb?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/silviamalavasi\/\" class=\"reviewer-name\">silviamalavasi<\/a> on <span class=\"review-date\">March 25, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This is a very helpful plugin, complete and usable. It helped me to resolve a lot of tasks on my site.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Threw a critical error upon activation<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/demonboy\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/30d5e72d183f691852c8b0534ccc2b90?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/30d5e72d183f691852c8b0534ccc2b90?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/demonboy\/\" class=\"reviewer-name\">demonboy<\/a> on <span class=\"review-date\">March 22, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">As the title says, this threw a critical error the moment I activated the plugin. My site then started to crawl, not loading pages quickly and problems saving post updates. Checked the plugin's log and there was a long list of critical errors.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I implemented a form and couldn't find anywhere to style it. I placed it in my sidebar and there was no responsiveness to the styling. Each field was squished.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Not a great plugin straight out the box and not one I'm prepared to risk further critical errors.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great product with super support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/fixitdik\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/7208c90afab42ed0c822759d820df261?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/7208c90afab42ed0c822759d820df261?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/fixitdik\/\" class=\"reviewer-name\">FixItDik<\/a> on <span class=\"review-date\">March 19, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Thank you so much for a reliable and very neat plugin - and even more thanks for helping me out of a fix when my own coding caused an error when resetting passwords.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Just what I needed!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/gron1\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/7277427e11e036e3c5353771b339fe02?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/7277427e11e036e3c5353771b339fe02?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/gron1\/\" class=\"reviewer-name\">gron1<\/a> on <span class=\"review-date\">March 19, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I needed a specific title for my user registration section and t his worked perfectly.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Good<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/doanthanhtan\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/43a82c946a3ffe4a6b603993ee34e172?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/43a82c946a3ffe4a6b603993ee34e172?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/doanthanhtan\/\" class=\"reviewer-name\">doanthanhtan<\/a> on <span class=\"review-date\">March 16, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Good<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Awesome plugin &amp; even better customer service<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/penguyen\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/6946e27b4c01bfdf39bd947f4a7c6776?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/6946e27b4c01bfdf39bd947f4a7c6776?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/penguyen\/\" class=\"reviewer-name\">penguyen<\/a> on <span class=\"review-date\">March 13, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I\u2019m already a huge fan of this plugin from the moment I installed it to my site. Not only is it intuitive, super easy to use and manage, my experiences from communicating with the support team is the MAIN reason why I\u2019m choosing to stick with and continue using this wonderful plugin for years to come. Great work and thank you guys for the awesome plugin and exceptional customer service!!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "The best drag and drop user registration form and login form builder with a user profile page, email notification, user roles assignment, and more.",
+    "description": "<p><strong>User Registration \u2013 The Best Registration Plugin for WordPress<\/strong><\/p>\n<p>Are you a beginner with absolutely zero coding skills? No problem! User Registration\u2019s drag-and-drop form builder lets you create custom registration forms of any kind for your WordPress site. Go for simple forms or create complex multi-step forms. It\u2019s all up to you.<\/p>\n<p>Moreover, this free, lightweight, and 100% responsive plugin comes with a beautifully designed login form ready for you to use. It also automatically creates a user profile account for users.<\/p>\n<p>The best thing is that there are unlimited customization options for each field and form. To add more extendibility to this, you get premium add-ons that include extra functionalities in your registration forms. So, you\u2019ve got yourself a fantastic WordPress user registration and login plugin.<\/p>\n<p><a href=\"https:\/\/www.youtube.com\/watch?v=ZOXVbfBTNPQ\" rel=\"nofollow ugc\">Youtube<\/a><\/p>\n<p><a href=\"https:\/\/wpuserregistration.com\/features\/?utm_source=wporg&amp;utm_medium=all-features-link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">All Features<\/a> | <a href=\"https:\/\/docs.wpuserregistration.com\/\" rel=\"nofollow ugc\">Documentation<\/a><\/p>\n<p><a href=\"https:\/\/userregistration.demoswp.net\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Test User Registration Premium for Free <\/a><\/p>\n<h3>Create High-converting Registration Forms with Our Feature-rich Plugin<\/h3>\n<ul>\n<li>\n<p><strong>Easy Drag and Drop Builder:<\/strong> Simply drag and drop the form fields into a blank slate and create a registration form in no time. No code, no fuss.<\/p>\n<\/li>\n<li>\n<p><strong>Custom Form Fields Apart from Default User Fields:<\/strong> User Registration removes the limitations posed by the default WordPress fields while registering users. Use custom form fields like Country, Privacy Policy, and Profile Picture to design any kind of form you need.<\/p>\n<\/li>\n<li>\n<p><strong>Quick Form Preview:<\/strong> Enables form functionality checking before publishing, improving UX.<\/p>\n<\/li>\n<li>\n<p><strong>Email Notifications:<\/strong> Send customized email notifications to your users and admin after registration. Additionally, you can send notifications regarding payments and changes made to profile details as well.<\/p>\n<\/li>\n<li>\n<p><strong>User Profile Account Page:<\/strong> User Registration automatically creates a WordPress user profile account for all your registered users. Even better is the fact that you\u2019re still in complete control of the customization of this page.<\/p>\n<\/li>\n<li>\n<p><strong>Global Search Settings:<\/strong> Admins can search in the Global Settings to quickly access the required settings.<\/p>\n<\/li>\n<li>\n<p><strong><a href=\"https:\/\/www.youtube.com\/watch?v=jbiBJdowxG0\" rel=\"nofollow ugc\">In-built Login Form:<\/a><\/strong> No need to make a separate login form for users as you get an in-built login form with User Registration.<\/p>\n<\/li>\n<li>\n<p><strong>Strong Spam Protection with Google reCaptcha and Honeypot:<\/strong> Block spam attacks like fake user registration and spam submissions with our Google reCaptcha and honeypot feature.<\/p>\n<\/li>\n<li>\n<p><strong>Assign User Roles and Capabilities:<\/strong> Assign default WordPress user roles like Editor, Author, Subscriber, and more while creating registration forms.<\/p>\n<\/li>\n<li>\n<p><strong>Smart Tags:<\/strong> Personalize email notifications with user-specific data.<\/p>\n<\/li>\n<li>\n<p><strong>AJAX Form Submission:<\/strong> Provides seamless and fast form submissions without page reloading.<\/p>\n<\/li>\n<li>\n<p><strong>Gutenberg Support:<\/strong> User Registration fully supports the Block Editor. You can add login and registration forms to any page using the User Registration Block.<\/p>\n<\/li>\n<li>\n<p><strong>Form Templates:<\/strong> Kickstart your registration process with our pre-designed form templates. Use as-it-is or modify it according to your needs.<\/p>\n<\/li>\n<li>\n<p><strong>Easily Import Export Forms:<\/strong> If you own multiple websites, you don\u2019t have to create registration forms from scratch every single time. You can save time by exporting and importing forms as JSON files, including form settings.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/content-restriction\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Create Easy Content Restriction Rules:<\/a><\/strong> Enable content restriction for posts, pages, and categories. You can also create advanced custom content access rules based on roles, capabilities, user state, and more.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] Track User Journey:<\/strong> Get detailed information about the pages a user visited on your website and the time they spent on the pages.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] Login and Registration Popups:<\/strong> Turn simple inline registration and login forms into popups for better user engagement and conversion.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] User Registration Data in Graphs and Charts:<\/strong> Receive accurate stats on every user registration form through graphs and charts.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] Passwordless Login:<\/strong> Enable user authentication through a secure email link, eliminating the need for passwords.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] Elementor Support:<\/strong> Utilize the User Registration widget in your Elementor editor to quickly add registration forms to any page and customize their design.<\/p>\n<\/li>\n<\/ul>\n<h3>Add-ons &amp; Integrations<\/h3>\n<ul>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/multi-step-form\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Multi-Step Form:<\/a><\/strong> Use multi-step forms that let you break long forms into multiple sections for a cleaner and more engaging presentation.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/customize-my-account\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Customize My Account:<\/a><\/strong> Manage the in-built My Account page by adding custom tabs as well as editing and deleting default tabs. User Registration also allows you to edit design elements of the page such as Color, Buttons, Navigation, and more.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/woocommerce-integration\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">WooCommerce Integration:<\/a><\/strong> Integrate WooCommerce with our plugin and add WooCommerce Shipping\/Billing Address fields to your user registration forms.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/file-uploads\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Drag and Drop Multi File Upload:<\/a><\/strong> The multiple file upload feature is perfect for collecting more than one document or image file. You only have to set the maximum file upload limit from the field options.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/field-visibility\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Set Fields Visibility:<\/a><\/strong> Hide specific user registration fields in the published forms and user profile page. You can decide whether the field is visible in the registration form, profile details, or both.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/import-users\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Import Users:<\/a><\/strong> Import users to any registration form on your WordPress website. Just upload the CSV file with user information and map it with the registration form of your choice.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/frontend-listing\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Frontend User Listing:<\/a><\/strong> List registered users in the front end to help visitors and users view the profile of all the listed members.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/style-customizer\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Style Customizer Tool:<\/a><\/strong> You might find the default form template a bit boring. So, User Registration offers a live form designer for you to customize form elements like Field Styles, Form Wrapper, and Button Styles without writing any code.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/invite-codes\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Invite Codes for Registration:<\/a><\/strong> User Registration allows access to the registration page to only users with an invitation code. You can either create a code on your own or generate random codes.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/two-factor-authentication\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Two Factor Authentication:<\/a><\/strong> If you want to protect your website from hackers and digital vulnerabilities, the Two Factor Authentication add-on, also known as 2FA, will provide OTP-based verification for the users for maintaining a secure site and preventing data breaching.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] Collect Payments via Credit Cards and PayPal:<\/strong> User Registration works flawlessly with both <a href=\"https:\/\/wpuserregistration.com\/features\/paypal\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">PayPal<\/a> and <a href=\"https:\/\/wpuserregistration.com\/features\/stripe\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Credit Cards and Ideal Payments(Stripe)<\/a>, so you can easily receive payments during registration.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/zapier\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Connect Registration Forms with 1000+ Services via Zapier:<\/a><\/strong> Zapier passes information to all the applications your registration forms are connected with. This helps you save time by automating tasks like collecting form responses, sending texts, and reminders.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] Integrations with Email Marketing Services:<\/strong> Promote your business with the correct email marketing tools like <a href=\"https:\/\/wpuserregistration.com\/features\/mailchimp\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Mailchimp<\/a> , <a href=\"https:\/\/wpuserregistration.com\/features\/mailerlite\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">MailerLite<\/a>, <a href=\"https:\/\/wpuserregistration.com\/features\/activecampaign\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">ActiveCampaign<\/a> and <a href=\"https:\/\/wpuserregistration.com\/features\/klaviyo\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Klaviyo<\/a>. Integrating them with User Registration adds all your registered users to subscriber lists directly.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/geolocation\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Collect Geolocation Data for Users:<\/a><\/strong> This premium add-on enables you to collect and save the geolocation data of users who register on your website. It\u2019s easy to do this when you have fields like Country, City, and Postcode.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/learndash\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">LearnDash Integration:<\/a><\/strong> Integrating LearnDash with User Registration allows you to add a LearnDash course field in your registration form. This automatically enrolls the users into their specified LearnDash course.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/conditional-logic\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Smart Conditional Logic:<\/a><\/strong> Personalize registration forms for users and make them more interactive with conditional logic.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/save-and-continue\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Save and Continue:<\/a><\/strong> Users can save their progress on a registration form and come back to it later to submit the form.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/private-notes\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Personalized Communication with Private Notes:<\/a><\/strong> Share important updates, personalized messages, etc., with users. Plus, users can respond to these notes with their queries and receive answers.<\/p>\n<\/li>\n<li>\n<p><strong>[Premium] <a href=\"https:\/\/wpuserregistration.com\/features\/form-restriction\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Enable Form Restrictions:<\/a><\/strong>  Restrict access to your WordPress registration forms with custom conditions.<\/p>\n<\/li>\n<\/ul>\n<p>And there\u2019s more we haven\u2019t listed here.<\/p>\n<p>\ud83d\udc49 <a href=\"https:\/\/wpuserregistration.com\/features\/?utm_source=wporg&amp;utm_medium=link&amp;utm_campaign=ur-upgrade-to-pro\" rel=\"nofollow ugc\">Explore all features now!<\/a><\/p>\n<h3>Who is User Registration for?<\/h3>\n<ul>\n<li>Schools and Universities<\/li>\n<li>Ecommerce websites<\/li>\n<li>Business agencies<\/li>\n<li>Online magazines<\/li>\n<li>Non-profit organizations<\/li>\n<li>Online certification programs<\/li>\n<li>Conference and seminar organizers<\/li>\n<li>Workshops<\/li>\n<li>Restaurants<\/li>\n<li>Sports event organizers<\/li>\n<li>Government offices<\/li>\n<li>Job board websites<\/li>\n<li>Forums<\/li>\n<li>Medical institutions<\/li>\n<li>Bloggers<\/li>\n<li>Gym and yoga studios<\/li>\n<\/ul>\n<h3>Create Different Registration Form Types without Any Coding Skills<\/h3>\n<ul>\n<li>Employee Registration<\/li>\n<li>Event Registration<\/li>\n<li>JobSeeker Registration<\/li>\n<li>Appointment Form<\/li>\n<li>Document Application Form<\/li>\n<li>Social Registration<\/li>\n<li>Student Registration<\/li>\n<li>WooCommerce Registration<\/li>\n<li>Multi-Step Registration<\/li>\n<li>Course Registration<\/li>\n<\/ul>\n<p>\ud83d\udc49 <a href=\"https:\/\/demo.wpeverest.com\/user-registration\/\" rel=\"nofollow ugc\">Explore all pre-built User Registration demos.<\/a><\/p>\n<h3>Know your way around User Registration with our tutorials<\/h3>\n<ul>\n<li>\n<p><a href=\"https:\/\/wpuserregistration.com\/blog\/create-user-registration-form-in-wordpress\/\" rel=\"nofollow ugc\">How to Create User Registration Form in WordPress Easily?<\/a><\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/wpuserregistration.com\/blog\/create-user-profile-page-in-wordpress\/\" rel=\"nofollow ugc\">How to Create a Custom User Profile Page in WordPress?<\/a><\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/wpuserregistration.com\/blog\/multi-step-registration-form\/\" rel=\"nofollow ugc\">How to Create a Multi-step Registration Form in WordPress?<\/a><\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/wpuserregistration.com\/blog\/register-users-with-invitation-code\/\" rel=\"nofollow ugc\">How to Register Users with an Invitation Code in WordPress?<\/a><\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/wpuserregistration.com\/blog\/learndash-custom-registration-form\/\" rel=\"nofollow ugc\">How to Create a Custom Registration Form for LearnDash?<\/a><\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/wpuserregistration.com\/blog\/woocommerce-registration-form\/\" rel=\"nofollow ugc\">How to Create a Custom WooCommerce Registration Form Easily?<\/a><\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/wpuserregistration.com\/blog\/default-wordpress-login-page-url-change\/\" rel=\"nofollow ugc\">How to Change Default WordPress Login URL to Custom URL?<\/a><\/p>\n<\/li>\n<\/ul>\n<h3>Get in Touch with us<\/h3>\n<p>\ud83d\udc49 <a href=\"https:\/\/www.facebook.com\/groups\/userregistration\" rel=\"nofollow ugc\">Facebook Group<\/a><\/p>\n<p>\ud83d\udc49 <a href=\"https:\/\/twitter.com\/user_register\" rel=\"nofollow ugc\">Twitter<\/a><\/p>\n<p>\ud83d\udc49 <a href=\"https:\/\/www.youtube.com\/@UserRegistration\" rel=\"nofollow ugc\">Youtube<\/a><\/p>\n<h3>Explore More Products from Our Team<\/h3>\n<p>Love User Registration? Why not check out more WordPress themes and plugins from us?<\/p>\n<ul>\n<li>\n<p><a href=\"https:\/\/masteriyo.com\/\" rel=\"nofollow ugc\">Masteriyo<\/a> &#8211; A Powerful and Easy WordPress LMS Plugin.\u00a0<\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/everestforms.net\/\" rel=\"nofollow ugc\">Everest Forms<\/a> &#8211; The Best Form Plugin Builder Plugin for WordPress.<\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/wordpress.org\/plugins\/blockart-blocks\/\" rel=\"ugc\">BlockArt Blocks<\/a> &#8211; Free Gutenberg Custom Blocks Plugin.<\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/wpblockart.com\/magazine-blocks\/\" rel=\"nofollow ugc\">Magazine Blocks<\/a> &#8211; Gutenberg Blocks Plugin to Build Magazine-style Sites.<\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/zakratheme.com\/\" rel=\"nofollow ugc\">Zakra<\/a> &#8211; Best WordPress Multipurpose Theme Powering 60K+ Websites.<\/p>\n<\/li>\n<li>\n<p><a href=\"https:\/\/themegrill.com\/wordpress-themes\/free\/\" rel=\"nofollow ugc\">ThemeGrill<\/a> &#8211; Beautiful Free WordPress Themes for Every Niche.<\/p>\n<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.3.2.0.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/user-registration\/assets\/screenshot-1.png?rev=3036655",
+            "caption": "Form Fields"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/user-registration\/assets\/screenshot-2.png?rev=3036655",
+            "caption": "Form Fields - Fullscreen Mode"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/user-registration\/assets\/screenshot-3.png?rev=3036655",
+            "caption": "Field Options"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/user-registration\/assets\/screenshot-4.png?rev=3036655",
+            "caption": "Form Settings"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/user-registration\/assets\/screenshot-5.png?rev=3036655",
+            "caption": "General Options"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/user-registration\/assets\/screenshot-6.png?rev=3036655",
+            "caption": "Login Options"
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/user-registration\/assets\/screenshot-7.png?rev=3036655",
+            "caption": "Frontend Messages"
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/user-registration\/assets\/screenshot-8.png?rev=3036655",
+            "caption": "Google reCaptcha"
+        },
+        "9": {
+            "src": "https:\/\/ps.w.org\/user-registration\/assets\/screenshot-9.png?rev=3036655",
+            "caption": "General Email Settings"
+        },
+        "10": {
+            "src": "https:\/\/ps.w.org\/user-registration\/assets\/screenshot-10.png?rev=3036655",
+            "caption": "Export Users"
+        },
+        "11": {
+            "src": "https:\/\/ps.w.org\/user-registration\/assets\/screenshot-11.png?rev=3036655",
+            "caption": "Import\/Export Forms"
+        },
+        "12": {
+            "src": "https:\/\/ps.w.org\/user-registration\/assets\/screenshot-12.png?rev=3036655",
+            "caption": "Gutenberg Block"
+        },
+        "13": {
+            "src": "https:\/\/ps.w.org\/user-registration\/assets\/screenshot-13.png?rev=3036655",
+            "caption": "Registration Form"
+        },
+        "14": {
+            "src": "https:\/\/ps.w.org\/user-registration\/assets\/screenshot-14.png?rev=3036655",
+            "caption": "Login Form"
+        },
+        "15": {
+            "src": "https:\/\/ps.w.org\/user-registration\/assets\/screenshot-15.png?rev=3036655",
+            "caption": "User Account Page -  Horizontal Layout"
+        },
+        "16": {
+            "src": "https:\/\/ps.w.org\/user-registration\/assets\/screenshot-16.png?rev=3036655",
+            "caption": "User Account Page -  Vertical Layout"
+        }
+    },
+    "tags": {
+        "login-form": "login form",
+        "registration": "registration",
+        "registration-form": "registration form",
+        "user-profile": "user profile",
+        "user-registration": "User Registration"
+    },
+    "stable_tag": "3.2.0",
+    "versions": {
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.0.4.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.1.0.zip",
+        "1.1.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.1.1.zip",
+        "1.1.2": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.1.2.zip",
+        "1.1.3": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.1.3.zip",
+        "1.1.5": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.1.5.zip",
+        "1.1.6": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.1.6.zip",
+        "1.1.7": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.1.7.zip",
+        "1.1.8": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.1.8.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.2.0.zip",
+        "1.2.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.2.1.zip",
+        "1.2.2": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.2.2.zip",
+        "1.2.3": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.2.3.zip",
+        "1.2.4": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.2.4.zip",
+        "1.2.5": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.2.5.zip",
+        "1.2.5.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.2.5.1.zip",
+        "1.3.0": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.3.0.zip",
+        "1.3.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.3.1.zip",
+        "1.4.0": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.4.0.zip",
+        "1.4.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.4.1.zip",
+        "1.4.2": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.4.2.zip",
+        "1.4.3": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.4.3.zip",
+        "1.4.4": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.4.4.zip",
+        "1.4.5": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.4.5.zip",
+        "1.4.6": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.4.6.zip",
+        "1.4.7": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.4.7.zip",
+        "1.4.8": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.4.8.zip",
+        "1.4.9": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.4.9.zip",
+        "1.5.0": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.5.0.zip",
+        "1.5.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.5.1.zip",
+        "1.5.10": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.5.10.zip",
+        "1.5.2": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.5.2.zip",
+        "1.5.3": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.5.3.zip",
+        "1.5.4": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.5.4.zip",
+        "1.5.5": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.5.5.zip",
+        "1.5.6": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.5.6.zip",
+        "1.5.7": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.5.7.zip",
+        "1.5.8": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.5.8.zip",
+        "1.5.9": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.5.9.zip",
+        "1.6.0": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.6.0.zip",
+        "1.6.0.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.6.0.1.zip",
+        "1.6.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.6.1.zip",
+        "1.6.2": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.6.2.zip",
+        "1.6.3": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.6.3.zip",
+        "1.7.0": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.7.0.zip",
+        "1.7.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.7.1.zip",
+        "1.7.2": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.7.2.zip",
+        "1.7.3": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.7.3.zip",
+        "1.7.4": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.7.4.zip",
+        "1.7.5": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.7.5.zip",
+        "1.7.6": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.7.6.zip",
+        "1.8.0": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.8.0.zip",
+        "1.8.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.8.1.zip",
+        "1.8.2": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.8.2.zip",
+        "1.8.2.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.8.2.1.zip",
+        "1.8.3": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.8.3.zip",
+        "1.8.4": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.8.4.zip",
+        "1.8.5": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.8.5.zip",
+        "1.8.6": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.8.6.zip",
+        "1.8.7": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.8.7.zip",
+        "1.8.7.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.8.7.1.zip",
+        "1.8.8": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.8.8.zip",
+        "1.9.0": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.9.0.zip",
+        "1.9.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.9.1.zip",
+        "1.9.2": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.9.2.zip",
+        "1.9.2.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.9.2.1.zip",
+        "1.9.3": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.9.3.zip",
+        "1.9.4": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.9.4.zip",
+        "1.9.4.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.9.4.1.zip",
+        "1.9.5": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.9.5.zip",
+        "1.9.6": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.9.6.zip",
+        "1.9.7": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.9.7.zip",
+        "1.9.8": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.9.8.zip",
+        "1.9.9": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.1.9.9.zip",
+        "2.0.0": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.0.0.zip",
+        "2.0.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.0.1.zip",
+        "2.0.2": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.0.2.zip",
+        "2.0.3": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.0.3.zip",
+        "2.0.4": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.0.4.zip",
+        "2.0.5": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.0.5.zip",
+        "2.1.0": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.1.0.zip",
+        "2.1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.1.0.1.zip",
+        "2.1.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.1.1.zip",
+        "2.1.2": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.1.2.zip",
+        "2.1.3": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.1.3.zip",
+        "2.1.4": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.1.4.zip",
+        "2.1.4.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.1.4.1.zip",
+        "2.1.4.2": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.1.4.2.zip",
+        "2.1.5": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.1.5.zip",
+        "2.1.5.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.1.5.1.zip",
+        "2.1.6": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.1.6.zip",
+        "2.1.7": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.1.7.zip",
+        "2.1.8": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.1.8.zip",
+        "2.2.0": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.2.0.zip",
+        "2.2.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.2.1.zip",
+        "2.2.2": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.2.2.zip",
+        "2.2.3": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.2.3.zip",
+        "2.2.4": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.2.4.zip",
+        "2.2.4.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.2.4.1.zip",
+        "2.2.5": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.2.5.zip",
+        "2.2.6": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.2.6.zip",
+        "2.3.0": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.3.0.zip",
+        "2.3.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.3.1.zip",
+        "2.3.2": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.3.2.zip",
+        "2.3.2.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.3.2.1.zip",
+        "2.3.3": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.3.3.zip",
+        "2.3.3.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.3.3.1.zip",
+        "2.3.4": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.3.4.zip",
+        "2.3.5": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.2.3.5.zip",
+        "3.0": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.3.0.zip",
+        "3.0.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.3.0.1.zip",
+        "3.0.2": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.3.0.2.zip",
+        "3.0.2.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.3.0.2.1.zip",
+        "3.0.3": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.3.0.3.zip",
+        "3.0.4": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.3.0.4.zip",
+        "3.0.4.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.3.0.4.1.zip",
+        "3.0.4.2": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.3.0.4.2.zip",
+        "3.1.0": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.3.1.0.zip",
+        "3.1.1": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.3.1.1.zip",
+        "3.1.2": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.3.1.2.zip",
+        "3.1.3": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.3.1.3.zip",
+        "3.1.4": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.3.1.4.zip",
+        "3.1.5": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.3.1.5.zip",
+        "3.2.0": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.3.2.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/user-registration.zip"
+    },
+    "business_model": "commercial",
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/user-registration\/assets\/banner-772x250.png?rev=3036655",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/user-registration\/assets\/icon.svg?rev=3036655",
+        "svg": "https:\/\/ps.w.org\/user-registration\/assets\/icon.svg?rev=3036655"
+    },
+    "blocks": {
+        "user-registration\/myaccount": {
+            "$schema": "https:\/\/schemas.wp.org\/block-json\/1.1",
+            "apiVersion": 3,
+            "name": "user-registration\/myaccount",
+            "version": "1.0.0",
+            "title": "Myaccount",
+            "category": "user-registration",
+            "description": "The block give the myaccount form for registered users.",
+            "keywords": [
+                "user registration myaccount",
+                "myaccount"
+            ],
+            "textdomain": "user-registration",
+            "example": {
+                "attributes": {}
+            },
+            "supports": {
+                "className": false,
+                "customClassName": false,
+                "reusable": false
+            },
+            "attributes": {
+                "redirectUrl": {
+                    "type": "string"
+                },
+                "logoutUrl": {
+                    "type": "string"
+                }
+            },
+            "editorScript": "user-registration-blocks-editor",
+            "editorStyle": "user-registration-blocks-editor"
+        },
+        "user-registration\/edit-profile": {
+            "$schema": "https:\/\/schemas.wp.org\/block-json\/1.1",
+            "apiVersion": 3,
+            "name": "user-registration\/edit-profile",
+            "version": "1.0.0",
+            "title": "Edit Profile",
+            "category": "user-registration",
+            "description": "The block give edit profile interface.",
+            "keywords": [
+                "user registration edit profile",
+                "edit profile"
+            ],
+            "textdomain": "user-registration",
+            "example": {
+                "attributes": {}
+            },
+            "supports": {
+                "className": false,
+                "customClassName": false,
+                "reusable": false
+            },
+            "attributes": {},
+            "editorScript": "user-registration-blocks-editor",
+            "editorStyle": "user-registration-blocks-editor"
+        },
+        "user-registration\/login-form": {
+            "$schema": "https:\/\/schemas.wp.org\/block-json\/1.1",
+            "apiVersion": 3,
+            "name": "user-registration\/login-form",
+            "version": "1.0.0",
+            "title": "Login Form",
+            "category": "user-registration",
+            "description": "The block give the login form for registered users.",
+            "keywords": [
+                "user registration login form",
+                "login form"
+            ],
+            "textdomain": "user-registration",
+            "example": {
+                "attributes": {}
+            },
+            "supports": {
+                "className": false,
+                "customClassName": false,
+                "reusable": false
+            },
+            "attributes": {
+                "redirectUrl": {
+                    "type": "string"
+                },
+                "logoutUrl": {
+                    "type": "string"
+                }
+            },
+            "editorScript": "user-registration-blocks-editor",
+            "editorStyle": "user-registration-blocks-editor"
+        },
+        "user-registration\/edit-password": {
+            "$schema": "https:\/\/schemas.wp.org\/block-json\/1.1",
+            "apiVersion": 3,
+            "name": "user-registration\/edit-password",
+            "version": "1.0.0",
+            "title": "Edit Password",
+            "category": "user-registration",
+            "description": "The block give the edit password interface.",
+            "keywords": [
+                "user registration edit password",
+                "edit password"
+            ],
+            "textdomain": "user-registration",
+            "example": {
+                "attributes": {}
+            },
+            "supports": {
+                "className": false,
+                "customClassName": false,
+                "reusable": false
+            },
+            "attributes": {},
+            "editorScript": "user-registration-blocks-editor",
+            "editorStyle": "user-registration-blocks-editor"
+        },
+        "user-registration\/registration-form": {
+            "$schema": "https:\/\/schemas.wp.org\/block-json\/1.1",
+            "apiVersion": 3,
+            "name": "user-registration\/registration-form",
+            "version": "1.0.0",
+            "title": "Registration Form",
+            "category": "user-registration",
+            "description": "The block lets the user choose the required user registration directly.",
+            "keywords": [
+                "user registration form",
+                "registration form"
+            ],
+            "textdomain": "user-registration",
+            "example": {
+                "attributes": {}
+            },
+            "supports": {
+                "className": false,
+                "customClassName": false,
+                "reusable": false
+            },
+            "attributes": {
+                "formId": {
+                    "type": "string",
+                    "default": ""
+                }
+            },
+            "editorScript": "user-registration-blocks-editor",
+            "editorStyle": "user-registration-blocks-editor"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 96,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "user-registration",
+            "language": "cs_CZ",
+            "version": "3.2.0",
+            "updated": "2023-12-13 09:30:42",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/user-registration\/3.2.0\/cs_CZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "user-registration",
+            "language": "es_ES",
+            "version": "3.2.0",
+            "updated": "2024-04-15 07:47:40",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/user-registration\/3.2.0\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "user-registration",
+            "language": "ja",
+            "version": "3.2.0",
+            "updated": "2023-11-10 05:10:33",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/user-registration\/3.2.0\/ja.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "user-registration",
+            "language": "ko_KR",
+            "version": "3.2.0",
+            "updated": "2023-06-23 02:29:27",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/user-registration\/3.2.0\/ko_KR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "user-registration",
+            "language": "nl_NL",
+            "version": "3.2.0",
+            "updated": "2024-04-15 11:19:09",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/user-registration\/3.2.0\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "user-registration",
+            "language": "ru_RU",
+            "version": "3.2.0",
+            "updated": "2023-10-15 09:53:47",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/user-registration\/3.2.0\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "user-registration",
+            "language": "zh_CN",
+            "version": "3.2.0",
+            "updated": "2020-02-25 10:50:46",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/user-registration\/3.2.0\/zh_CN.zip"
+        }
+    ]
+}

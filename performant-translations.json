@@ -1,0 +1,287 @@
+{
+    "name": "Performant Translations",
+    "slug": "performant-translations",
+    "version": "1.2.0",
+    "author": "<a href=\"https:\/\/make.wordpress.org\/performance\/\">WordPress Performance Team<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/swissspidy\/",
+    "contributors": {
+        "swissspidy": {
+            "profile": "https:\/\/profiles.wordpress.org\/swissspidy\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/609d6ee54dc13a51270cb99769535b82?s=96&d=monsterid&r=g",
+            "display_name": "Pascal Birchler"
+        },
+        "dd32": {
+            "profile": "https:\/\/profiles.wordpress.org\/dd32\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/019f95633d5ea08e39d8d5dab9bed527?s=96&d=monsterid&r=g",
+            "display_name": "Dion Hulse"
+        },
+        "wordpressdotorg": {
+            "profile": "https:\/\/profiles.wordpress.org\/wordpressdotorg\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/61ee2579b8905e62b4b4045bdc92c11a?s=96&d=monsterid&r=g",
+            "display_name": "WordPress.org"
+        }
+    },
+    "requires": "6.5",
+    "tested": "6.5.2",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 98,
+    "ratings": {
+        "5": 14,
+        "4": 1,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 15,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/performant-translations\/",
+    "support_threads": 2,
+    "support_threads_resolved": 1,
+    "active_installs": 10000,
+    "downloaded": 53125,
+    "last_updated": "2024-04-12 10:11pm GMT",
+    "added": "2023-08-29",
+    "homepage": "https:\/\/github.com\/swissspidy\/performant-translations",
+    "sections": {
+        "description": "<p>This project uses a new approach to handle translation files in WordPress, making localization blazing fast.<\/p>\n<p>An <a href=\"https:\/\/make.wordpress.org\/core\/2023\/07\/24\/i18n-performance-analysis\/\" rel=\"nofollow ugc\">in-depth i18n performance analysis<\/a> showed that localized WordPress sites load significantly slower than a site without translations.<\/p>\n<p>With this plugin&#8217;s new approach to localization, this overhead is massively reduced, making your site fast again.<\/p>\n<p>If your site is using a language other than English (US), you should see immediate speed improvements simply by activating this plugin.<\/p>\n<h3>WordPress 6.5 and newer<\/h3>\n<p><strong>Important:<\/strong> this new functionality has been merged into WordPress 6.5! However, this plugin is still useful!<\/p>\n<p>On WordPress 6.5+, this plugin automatically converts existing <code>.mo<\/code> files to <code>.php<\/code> and afterwards only loads the translations from the <code>.php<\/code> file.<br \/>\nThis is useful for cases where language packs are not downloaded from WordPress.org but somewhere else.<\/p>\n",
+        "installation": "<h4>Installation from within WordPress<\/h4>\n<ol>\n<li>Visit <strong>Plugins &gt; Add New<\/strong>.<\/li>\n<li>Search for <strong>Performant Translations<\/strong>.<\/li>\n<li>Install and activate the Performant Translations plugin.<\/li>\n<\/ol>\n<h4>Manual installation<\/h4>\n<ol>\n<li>Upload the entire <code>performant-translations<\/code> folder to the <code>\/wp-content\/plugins\/<\/code> directory.<\/li>\n<li>Visit <strong>Plugins<\/strong>.<\/li>\n<li>Activate the Performant Translations plugin.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='what%20makes%20this%20plugin%20so%20fast%3F'>\nWhat makes this plugin so fast?\n<\/h4>\n<p>\n<p>By converting <code>.mo<\/code> files to <code>.php<\/code> files, the translations can be parsed much faster.<br \/>\nPlus, <code>.php<\/code> files can be stored in the so-called <a href=\"https:\/\/www.php.net\/manual\/en\/book.opcache.php\" rel=\"nofollow ugc\">OPcache<\/a>, which provides an additional speed boost.<\/p>\n<\/p>\n<dt id='can%20i%20use%20this%20plugin%20on%20my%20production%20site%3F'>\nCan I use this plugin on my production site?\n<\/h4>\n<p>\n<p>While the plugin is mostly considered to be a beta testing plugin, it has been tested and established to a degree where it should be okay to use in production.<br \/>\nStill, as with every plugin, you are doing so at your own risk.<\/p>\n<\/p>\n<dt id='has%20this%20plugin%20been%20tested%20with%20other%20multilingual%20plugins%3F'>\nHas this plugin been tested with other multilingual plugins?\n<\/h4>\n<p>\n<p>Yes. This plugin has been tested with common multilingual plugins, such as WPML, Weglot, TranslatePress, MultilingualPress, and Polylang.<br \/>\nIf you still encounter issues, please let us know.<\/p>\n<\/p>\n<dt id='do%20i%20need%20to%20do%20anything%20special%20to%20enable%20this%20plugin%3F'>\nDo I need to do anything special to enable this plugin?\n<\/h4>\n<p>\n<p>No. Once the plugin is activated, it just works, and you should see speed improvements right away. If you run into issues, please open a new support topic.<\/p>\n<\/p>\n<dt id='can%20i%20safely%20remove%20this%20plugin%20after%20installation%3F'>\nCan I safely remove this plugin after installation?\n<\/h4>\n<p>\n<p>Yes. Once you deactivate and uninstall the plugin, all <code>.php<\/code> files generated by it will be removed from the server.<\/p>\n<\/p>\n<dt id='how%20can%20i%20contribute%20to%20the%20plugin%3F'>\nHow can I contribute to the plugin?\n<\/h4>\n<p>\n<p>Contributions are always welcome! Learn more about how to get involved in the <a href=\"https:\/\/make.wordpress.org\/performance\/handbook\/get-involved\/\" rel=\"nofollow ugc\">Core Performance Team Handbook<\/a>.<\/p>\n<\/p>\n<dt id='where%20can%20i%20submit%20my%20plugin%20feedback%3F'>\nWhere can I submit my plugin feedback?\n<\/h4>\n<p>\n<p>If you have suggestions or requests for new features, you can submit them as an issue on the <a href=\"https:\/\/github.com\/swissspidy\/performant-translations\" rel=\"nofollow ugc\">GitHub repository<\/a>.<\/p>\n<p>If you need help with troubleshooting or have a question about the plugin, please <a href=\"https:\/\/wordpress.org\/support\/plugin\/performant-translations\/#new-topic-0\" rel=\"ugc\">create a new topic on our support forum<\/a>.<\/p>\n<\/p>\n<dt id='where%20can%20i%20report%20security%20issues%3F'>\nWhere can I report security issues?\n<\/h4>\n<p>\n<p>To report a security issue, please visit the <a href=\"https:\/\/hackerone.com\/wordpress\" rel=\"nofollow ugc\">WordPress HackerOne<\/a> program.<\/p>\n<\/p>\n\n",
+        "changelog": "<p>For the plugin&#8217;s full changelog, please see <a href=\"https:\/\/github.com\/swissspidy\/performant-translations\/releases\" rel=\"nofollow ugc\">the Releases page on GitHub<\/a>.<\/p>\n<h4>1.2.0<\/h4>\n<ul>\n<li>This plugin now requires WordPress 6.5<\/li>\n<\/ul>\n<h4>1.1.2<\/h4>\n<ul>\n<li>Fixed a minor regression when assembling file paths to look up.<\/li>\n<\/ul>\n<h4>1.1.1<\/h4>\n<ul>\n<li>Fixed: Addressed a slight performance regression in 1.1.0.<\/li>\n<li>Fixed: Addressed an issue with incorrect plural forms for certain locales.<\/li>\n<\/ul>\n<h4>1.1.0<\/h4>\n<ul>\n<li>Enhancement: Support for this functionality existing in WordPress 6.5.<\/li>\n<li>Enhancement: Added hardening for file paths not being strings because of a faulty plugin filter.<\/li>\n<li>Enhancement: Invalidate OPcache after writing PHP files.<\/li>\n<li>Enhancement: Improve compatibility with pluralized strings referenced as singulars.<\/li>\n<\/ul>\n<h4>1.0.9<\/h4>\n<ul>\n<li>Enhancement: Improved compatibility with WPML string translation add-on.<\/li>\n<\/ul>\n<h4>1.0.8<\/h4>\n<ul>\n<li>Fixed: Added workaround for potential file permission issues.<\/li>\n<\/ul>\n<h4>1.0.7<\/h4>\n<ul>\n<li>Fixed: Prevent issue where not all core translations were updated.<\/li>\n<li>Enhancement: Change the order translations are loaded in to improve backward compatibility.<\/li>\n<\/ul>\n<h4>1.0.6<\/h4>\n<ul>\n<li>Enhancement: Remove JSON file support.<\/li>\n<li>Fixed: Add hardening when using translation file paths with symlinks.<\/li>\n<\/ul>\n<h4>1.0.5<\/h4>\n<ul>\n<li>Enhancement: Improved compatibility with Loco Translate to avoid duplicate files.<\/li>\n<\/ul>\n<h4>1.0.4<\/h4>\n<ul>\n<li>Enhancement: Several minor performance improvements.<\/li>\n<li>Enhancement: Use different file extension (<code>.mo.php<\/code> instead of just <code>.php<\/code>) to prevent conflicts.<\/li>\n<li>Enhancement: &#8220;Import&#8221; existing translation file if one is already loaded for a text domain.<\/li>\n<li>Enhancement: Use WP Filesystem API if available.<\/li>\n<\/ul>\n<h4>1.0.3<\/h4>\n<ul>\n<li>Enhancement: Improved compatibility with Query Monitor&#8217;s developer tools panel.<\/li>\n<li>Enhancement: Added new <code>performant_translations_load_translation_file<\/code> filter.<\/li>\n<li>Enhancement: Enforce network-only activation on Multisite.<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>Fixed: Add hardening for invalid values being passed to translation functions.<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Enhancement: Regenerate translation files when Loco Translate updates MO files.<\/li>\n<li>Fixed: Add hardening for invalid context being passed.<\/li>\n<li>Fixed: Fix handling of locales without plurals, such as Persian.<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Initial release.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/performant-translations\/assets\/screenshot-1.png?rev=2960154\"><img src=\"https:\/\/ps.w.org\/performant-translations\/assets\/screenshot-1.png?rev=2960154\" alt=\"Chart showing the load time improvement achieved with this plugin.\"><\/a><p>Chart showing the load time improvement achieved with this plugin.<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">This plugin saved me hundreds of dollars<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/magneetjeswinkel\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/57c5fc23b356b312fc487e1afc079ccd?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/57c5fc23b356b312fc487e1afc079ccd?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/magneetjeswinkel\/\" class=\"reviewer-name\">magneetjeswinkel<\/a> on <span class=\"review-date\">April 11, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\"><strong>What this plugin does is amazing!<\/strong> There were some issues that made my website slow. The website achieved a mobile page speed of 52. Blocked display for more than 10 seconds. I don't have the technical knowledge to fix this in the code. This would have cost me around $600. I found this plugin and all errors were removed from the website with one click. I am incredibly happy with the result. And that with a free plugin! I knew it should be possible. Because I am so happy, I take the paid subscription! Thank you very much!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">You feel the difference<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jeroenrotty\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/2a91c4db7ca8f147338f030ac87058e1?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/2a91c4db7ca8f147338f030ac87058e1?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jeroenrotty\/\" class=\"reviewer-name\">Jeroen Rotty <small>(jeroenrotty)<\/small><\/a> on <span class=\"review-date\">January 21, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Browsing the dashboard feels instant snappier, even if your hosting is already fast and performant - it still makes a difference!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Cool<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/benniledl\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e2399812a040d206c9d2564bdc656cb3?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e2399812a040d206c9d2564bdc656cb3?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/benniledl\/\" class=\"reviewer-name\">!Benni <small>(benniledl)<\/small><\/a> on <span class=\"review-date\">January 16, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I've got a multi language site (with WPML) that has a huge performance problem. I was not able to figure out what is actually causing the performance problem, the main problem probably has nothing to do with i18n, this plugin still helps cause it significantely speeds up the translations, leaving the only bottleneck to be the unknown problem.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Many thanks for your efforts!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Faster wp-admin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/juregolob\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/a2b7067c79cbcbc7d16140a5bca520ed?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/a2b7067c79cbcbc7d16140a5bca520ed?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/juregolob\/\" class=\"reviewer-name\">juregolob<\/a> on <span class=\"review-date\">November 23, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I tried this plugin on a couple of websites and I believe it makes my admin user experience a bit faster. Cached front end is fast as ever.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">It works great with Polylang, WooCommerce and Loco Translate. I like where this is going and I hope it gets implemented into the WP Core soon.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Update:<br \/>Duplicator (Pro) throws a runtime error when trying to make a backup while this plugin is activated. Temporarily disabling it solves the issue.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Required for non-English speaking WPs<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/cck23\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/61290c755f59fbc80b16f79ad90a2933?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/61290c755f59fbc80b16f79ad90a2933?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/cck23\/\" class=\"reviewer-name\">cck23<\/a> on <span class=\"review-date\">October 24, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This problem has been around for a long time and I've used various plugins. I hope it will be added to the core soon!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">It does what it promises<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/betterwithagency\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/6f5db8a04e8616899a83255ff34616e6?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/6f5db8a04e8616899a83255ff34616e6?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/betterwithagency\/\" class=\"reviewer-name\">bw\/a <small>(betterwithagency)<\/small><\/a> on <span class=\"review-date\">October 23, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">My clients websites usually non-English, this extension makes faster their websites. I'm really greatful for this improvements.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Does what is states well!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/servemark\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/dbdd4e492c54d5596e60eb9fdfd0517b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/dbdd4e492c54d5596e60eb9fdfd0517b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/servemark\/\" class=\"reviewer-name\">ServeMark <small>(servemark)<\/small><\/a> on <span class=\"review-date\">September 10, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Use it on a client site and we maintained under 1 second load times, which is on par with our other sites. Deserves 5 stars hands down.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Plugin speeds up the presentation of your site<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"4 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"4\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/psmits1567\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/42bbf112c64969b7532bce11c28c530a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/42bbf112c64969b7532bce11c28c530a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/psmits1567\/\" class=\"reviewer-name\">Peter Smits <small>(psmits1567)<\/small><\/a> on <span class=\"review-date\">September 7, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Installed this plugin to see what the effect is on my site. I am not yet 100% sure that it makes a big difference. But that all depends on the amount of texts used on your site. So far no bad experiences<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great job !<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/anonymized-20033339\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/a4f8fd50a1dd80d94fb30c37092f365b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/a4f8fd50a1dd80d94fb30c37092f365b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/anonymized-20033339\/\" class=\"reviewer-name\">Anonymous User 20033339 <small>(anonymized_20033339)<\/small><\/a> on <span class=\"review-date\">September 7, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Wordpress is always improving.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Works great!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/irinashl\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/8eb9aa5197a2b8f4b8831a0b604c685e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/8eb9aa5197a2b8f4b8831a0b604c685e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/irinashl\/\" class=\"reviewer-name\">Irina <small>(irinashl)<\/small><\/a> on <span class=\"review-date\">September 6, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Works great!<br \/>Thanks for the plugin!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Making internationalization\/localization in WordPress faster than ever before.",
+    "description": "<p>This project uses a new approach to handle translation files in WordPress, making localization blazing fast.<\/p>\n<p>An <a href=\"https:\/\/make.wordpress.org\/core\/2023\/07\/24\/i18n-performance-analysis\/\" rel=\"nofollow ugc\">in-depth i18n performance analysis<\/a> showed that localized WordPress sites load significantly slower than a site without translations.<\/p>\n<p>With this plugin&#8217;s new approach to localization, this overhead is massively reduced, making your site fast again.<\/p>\n<p>If your site is using a language other than English (US), you should see immediate speed improvements simply by activating this plugin.<\/p>\n<h3>WordPress 6.5 and newer<\/h3>\n<p><strong>Important:<\/strong> this new functionality has been merged into WordPress 6.5! However, this plugin is still useful!<\/p>\n<p>On WordPress 6.5+, this plugin automatically converts existing <code>.mo<\/code> files to <code>.php<\/code> and afterwards only loads the translations from the <code>.php<\/code> file.<br \/>\nThis is useful for cases where language packs are not downloaded from WordPress.org but somewhere else.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/performant-translations.1.2.0.zip",
+    "upgrade_notice": {
+        "1.2.0": "<p>Bumps the minimum WordPress version to 6.5.<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/performant-translations\/assets\/screenshot-1.png?rev=2960154",
+            "caption": "Chart showing the load time improvement achieved with this plugin."
+        }
+    },
+    "tags": {
+        "i18n": "i18n",
+        "internationalization": "internationalization",
+        "localization": "localization",
+        "performance": "performance",
+        "translation": "translation"
+    },
+    "stable_tag": "1.2.0",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/performant-translations.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/performant-translations.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/performant-translations.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/performant-translations.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/performant-translations.1.0.4.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/performant-translations.1.0.5.zip",
+        "1.0.6": "https:\/\/downloads.wordpress.org\/plugin\/performant-translations.1.0.6.zip",
+        "1.0.7": "https:\/\/downloads.wordpress.org\/plugin\/performant-translations.1.0.7.zip",
+        "1.0.8": "https:\/\/downloads.wordpress.org\/plugin\/performant-translations.1.0.8.zip",
+        "1.0.9": "https:\/\/downloads.wordpress.org\/plugin\/performant-translations.1.0.9.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/performant-translations.1.1.0.zip",
+        "1.1.1": "https:\/\/downloads.wordpress.org\/plugin\/performant-translations.1.1.1.zip",
+        "1.1.2": "https:\/\/downloads.wordpress.org\/plugin\/performant-translations.1.1.2.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/performant-translations.1.2.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/performant-translations.zip"
+    },
+    "business_model": "community",
+    "repository_url": "https:\/\/github.com\/swissspidy\/performant-translations",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/performant-translations\/assets\/banner-772x250.png?rev=2975354",
+        "high": "https:\/\/ps.w.org\/performant-translations\/assets\/banner-1544x500.png?rev=2975354"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/performant-translations\/assets\/icon.svg?rev=2975354",
+        "svg": "https:\/\/ps.w.org\/performant-translations\/assets\/icon.svg?rev=2975354"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 98,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "bn_BD",
+            "version": "1.2.0",
+            "updated": "2023-10-01 21:38:46",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/bn_BD.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "ca",
+            "version": "1.2.0",
+            "updated": "2023-08-30 14:32:12",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/ca.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "de_DE_formal",
+            "version": "1.2.0",
+            "updated": "2023-09-03 11:09:09",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/de_DE_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "de_DE",
+            "version": "1.2.0",
+            "updated": "2023-08-30 13:41:25",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "de_CH",
+            "version": "1.2.0",
+            "updated": "2023-09-03 11:25:49",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/de_CH.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "de_CH_informal",
+            "version": "1.2.0",
+            "updated": "2023-08-30 14:35:38",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/de_CH_informal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "en_GB",
+            "version": "1.2.0",
+            "updated": "2023-09-08 13:40:16",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/en_GB.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "en_AU",
+            "version": "1.2.0",
+            "updated": "2023-12-26 09:09:57",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/en_AU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "es_ES",
+            "version": "1.2.0",
+            "updated": "2023-08-30 06:38:26",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "fr_FR",
+            "version": "1.2.0",
+            "updated": "2023-08-30 08:46:07",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "it_IT",
+            "version": "1.2.0",
+            "updated": "2023-09-02 21:28:41",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/it_IT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "ja",
+            "version": "1.2.0",
+            "updated": "2023-09-01 13:14:59",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/ja.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "nb_NO",
+            "version": "1.2.0",
+            "updated": "2024-01-18 01:32:46",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/nb_NO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "nl_NL",
+            "version": "1.2.0",
+            "updated": "2023-08-30 19:28:37",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "nl_BE",
+            "version": "1.2.0",
+            "updated": "2023-08-30 19:28:15",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/nl_BE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "nl_NL_formal",
+            "version": "1.2.0",
+            "updated": "2023-08-30 19:29:03",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/nl_NL_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "pt_PT",
+            "version": "1.2.0",
+            "updated": "2023-08-30 02:06:40",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/pt_PT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "ru_RU",
+            "version": "1.2.0",
+            "updated": "2023-08-30 13:26:41",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "sv_SE",
+            "version": "1.2.0",
+            "updated": "2023-08-29 19:05:22",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/sv_SE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "ug_CN",
+            "version": "1.2.0",
+            "updated": "2024-01-01 13:21:12",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/ug_CN.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "uk",
+            "version": "1.2.0",
+            "updated": "2024-03-02 08:46:05",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/uk.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "performant-translations",
+            "language": "zh_TW",
+            "version": "1.2.0",
+            "updated": "2023-08-30 20:42:43",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/performant-translations\/1.2.0\/zh_TW.zip"
+        }
+    ]
+}

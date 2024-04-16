@@ -1,0 +1,133 @@
+{
+    "name": "External files in media library",
+    "slug": "external-files-in-media-library",
+    "version": "1.2.0",
+    "author": "<a href=\"https:\/\/www.thomaszwirner.de\">Thomas Zwirner<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/threadi\/",
+    "contributors": {
+        "threadi": {
+            "profile": "https:\/\/profiles.wordpress.org\/threadi\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3ff9673b669186d3ac984c77c1a54eed?s=96&d=monsterid&r=g",
+            "display_name": "threadi"
+        }
+    },
+    "requires": "6.2",
+    "tested": "6.5.2",
+    "requires_php": "8.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/external-files-in-media-library\/",
+    "support_threads": 5,
+    "support_threads_resolved": 5,
+    "active_installs": 20,
+    "downloaded": 1241,
+    "last_updated": "2024-04-14 9:05am GMT",
+    "added": "2023-09-13",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Add one or more files under Media &gt; &#8220;Add new media file&#8221;. You can use the files in all places where the media library is used.<\/p>\n<p>The plugin checks for you automatically on a regular basis whether the external files you have stored are still available.<\/p>\n<p>In the settings you can define whether image files are hosted locally in your hosting or externally.<\/p>\n",
+        "installation": "<ol>\n<li>Upload &#8220;external-files-in-media-library&#8221; to the &#8220;\/wp-content\/plugins\/&#8221; directory.<\/li>\n<li>Activate the plugin through the &#8220;Plugins&#8221; menu in WordPress.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='can%20i%20prevent%20other%20users%20from%20adding%20external%20files%3F'>\nCan I prevent other users from adding external files?\n<\/h4>\n<p>\n<p>Yes, you can select under Settings &gt; External files in Media Library which roles gets the ability to add external files.<\/p>\n<\/p>\n<dt id='can%20i%20also%20embed%20password-protected%20external%20files%3F'>\nCan I also embed password-protected external files?\n<\/h4>\n<p>\n<p>No, only public files can be used.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.0<\/h4>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Updated compatibility-flag for WordPress 6.4<\/li>\n<li>Compatible with WordPress Coding Standards 3.0<\/li>\n<li>Fixed error in settings-save-process<\/li>\n<li>Fixed typo in translations<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>Added hook documentation<\/li>\n<li>Added hint for hook documentation in settings<\/li>\n<li>Optimized handling of upload-form if nothing has been added there<\/li>\n<li>Removed language files from release<\/li>\n<\/ul>\n<h4>1.1.0<\/h4>\n<ul>\n<li>Added multiple hooks<\/li>\n<li>Prevent usage of plugin with older PHP than required minimum<\/li>\n<li>Optimized content type detection<\/li>\n<li>Optimized attachment title handling with special chars<\/li>\n<li>Updated compatibility-flag for WordPress 6.4.3<\/li>\n<li>Updated dependencies<\/li>\n<\/ul>\n<h4>1.1.1<\/h4>\n<ul>\n<li>Proxy-slug will now also be changed with simple permalinks<\/li>\n<li>Updated compatibility-flag for WordPress 6.5<\/li>\n<li>Updated hook documentation<\/li>\n<li>Fixed support for spaces in URLs<\/li>\n<li>Fixed typo in examples in hook-documentation<\/li>\n<li>Fixed possible notice in transient-handler<\/li>\n<li>Fixed usage of proxy with simple permalinks<\/li>\n<\/ul>\n<h4>1.1.2<\/h4>\n<ul>\n<li>Fixed possible error during check for current screen<\/li>\n<li>Fixed usage of URLs with ampersand on AJAX-request<\/li>\n<\/ul>\n<h4>1.2.0<\/h4>\n<ul>\n<li>New import dialog with progress and extended info about the import<\/li>\n<li>Show proxy hint on file only if proxy is enabled<\/li>\n<li>Optimized style for box with infos about external files<\/li>\n<li>Updated compatibility-flag for WordPress 6.5.2<\/li>\n<li>Updated dependencies<\/li>\n<\/ul>\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Everything I was looking for<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/dearvoodoo\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f66aea8ef1f11e7039619cf829a3a8ee?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f66aea8ef1f11e7039619cf829a3a8ee?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/dearvoodoo\/\" class=\"reviewer-name\">VooDoo <small>(dearvoodoo)<\/small><\/a> on <span class=\"review-date\">April 12, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This plugin simply does what it says it does.<br \/>This allows me to have images hosted on a Discord channel directly on my Wordpress website without having to host a single one of them.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">If I could find just one little thing to add, it would be to see in real time which link is being processed.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Bravo to the developer, great work !<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Add external files to your media library to link or embed them in your website. They will be integrated as if they were locally available.",
+    "description": "<p>Add one or more files under Media &gt; &#8220;Add new media file&#8221;. You can use the files in all places where the media library is used.<\/p>\n<p>The plugin checks for you automatically on a regular basis whether the external files you have stored are still available.<\/p>\n<p>In the settings you can define whether image files are hosted locally in your hosting or externally.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/external-files-in-media-library.1.2.0.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "external-files": "external files",
+        "media": "media",
+        "media-library": "media library"
+    },
+    "stable_tag": "1.2.0",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/external-files-in-media-library.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/external-files-in-media-library.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/external-files-in-media-library.1.0.2.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/external-files-in-media-library.1.1.0.zip",
+        "1.1.1": "https:\/\/downloads.wordpress.org\/plugin\/external-files-in-media-library.1.1.1.zip",
+        "1.1.2": "https:\/\/downloads.wordpress.org\/plugin\/external-files-in-media-library.1.1.2.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/external-files-in-media-library.1.2.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/external-files-in-media-library.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "default": "https:\/\/s.w.org\/plugins\/geopattern-icon\/external-files-in-media-library.svg"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [
+        {
+            "filename": "blueprint.json",
+            "url": "https:\/\/wordpress.org\/plugins\/wp-json\/plugins\/v1\/plugin\/external-files-in-media-library\/blueprint.json?rev=3070171"
+        }
+    ],
+    "preview_link": "https:\/\/wordpress.org\/plugins\/external-files-in-media-library\/?preview=1",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "external-files-in-media-library",
+            "language": "de_CH_informal",
+            "version": "1.2.0",
+            "updated": "2024-04-14 09:37:53",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/external-files-in-media-library\/1.2.0\/de_CH_informal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "external-files-in-media-library",
+            "language": "de_CH",
+            "version": "1.2.0",
+            "updated": "2024-04-14 09:41:06",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/external-files-in-media-library\/1.2.0\/de_CH.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "external-files-in-media-library",
+            "language": "de_DE_formal",
+            "version": "1.2.0",
+            "updated": "2024-04-14 09:39:42",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/external-files-in-media-library\/1.2.0\/de_DE_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "external-files-in-media-library",
+            "language": "de_AT",
+            "version": "1.2.0",
+            "updated": "2024-04-14 09:36:27",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/external-files-in-media-library\/1.2.0\/de_AT.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "external-files-in-media-library",
+            "language": "de_DE",
+            "version": "1.2.0",
+            "updated": "2024-04-14 09:34:28",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/external-files-in-media-library\/1.2.0\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "external-files-in-media-library",
+            "language": "zh_TW",
+            "version": "1.2.0",
+            "updated": "2024-04-15 17:51:31",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/external-files-in-media-library\/1.2.0\/zh_TW.zip"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "name": "Manufacturer Brand for WooCommerce",
+    "slug": "manufacturer-brand-for-woocommerce",
+    "version": "1.0",
+    "author": "<a href=\"https:\/\/www.walexconcepts.com\/\">Adewale Emmanuel Awodeyi<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/walexconcepts\/",
+    "contributors": {
+        "walexconcepts": {
+            "profile": "https:\/\/profiles.wordpress.org\/walexconcepts\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/dedf2b4b7ab9f619e63d7ea6392b2921?s=96&d=monsterid&r=g",
+            "display_name": "walexconcepts"
+        }
+    },
+    "requires": "5.4",
+    "tested": "6.3.4",
+    "requires_php": "5.2.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/manufacturer-brand-for-woocommerce\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 25,
+    "last_updated": "2024-04-02 7:06am GMT",
+    "added": "2024-04-02",
+    "homepage": "https:\/\/profiles.wordpress.org\/walexconcepts\/",
+    "sections": {
+        "description": "<p>This plugin extends the product details for WooCommerce to embed manufacturer name so-called brand. Complete solution for brands (manufacturers)<br \/>\nmanagement in your Woocommerce shop. Please visit <a href=\"https:\/\/walexconcepts.com\/wordpress\/product\/mummy-changing-bag\/#respond\/\" rel=\"nofollow ugc\">demo<\/a>.<\/p>\n<p>Free Version features:<\/p>\n<ul>\n<li>* Just for only new product.<\/li>\n<li>* Unlimited number of brands. <\/li>\n<li>* Manufacturer is the term to use on the website .<\/li>\n<li>* Widgets not included for filtering products by brands in shop sidebar.<\/li>\n<li>* Cannot turn off Brand info tab on product details page.<\/li>\n<li>* Cannot hide label \u201cManufacturer\u201d on product details page.<\/li>\n<li>* Display both label \u201cManufacturer\/brand\u201d and  Brand info\u201d tab on product details page<\/li>\n<li>* Cannot set dimensions of the image\/logo width and height.<\/li>\n<li>* Only one predefined positions to display label \u201cManufacturer\u201d on product details page<\/li>\n<\/ul>\n<p>Premium Features:<\/p>\n<ul>\n<li>* For already published product or new product.<\/li>\n<li>* Unlimited number of brands. <\/li>\n<li>* Choose the term to use on the website (Brand or Manufacturer).<\/li>\n<li>* Widgets included for filtering products by brands in shop sidebar.<\/li>\n<li>* Brand info tab on product details page, can be turned off \/on.<\/li>\n<li>* Show or hide label \u201cManufacturer\/brand\u201d on product details page<\/li>\n<li>* Display both label \u201cManufacturer\/brand\u201d and  Brand info\u201d tab on product details page<\/li>\n<li>* Set dimensions of the image\/logo width and height.<\/li>\n<li>* Several predefined positions to display label \u201cManufacturer\/brand\u201d  on product details page<\/li>\n<\/ul>\n",
+        "installation": "<h3>Automatic installation<\/h3>\n<p>With automatic installation WordPress handles the file transfers so it is the easiest option and you can do it from your<br \/>\nWordPress dashboard. Just navigate to the Plugins menu and click Add New. In the search field type &#8220;WSB Brands&#8221; to find<br \/>\nthe plugin. When it appears in a search results, use &#8220;Install now&#8221; button. When it is installed, activate it and plugin<br \/>\nis ready to use.<\/p>\n<h3>Manual installation<\/h3>\n<ol>\n<li>Using FTP, upload entire <code>wsb-brands<\/code> folder to your site&#8217;s <code>\/wp-content\/plugins\/<\/code> directory. If you have downloaded<br \/>\na zip file, then you can also use the <em>Add new<\/em> option in the <em>Plugins<\/em> menu in WordPress and upload it and install in a<br \/>\nfew clicks.  <\/li>\n<li>Activate the plugin from the <em>Plugins<\/em> menu in WordPress and you are ready to go.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='where%20can%20i%20add%20brands%3F'>\nWhere can I add brands?\n<\/h4>\n<p>\n<p>Link to Add new brand page can be found in submenu of <em>WooCommerce Brand<\/em> menu at Admin<\/p>\n<\/p>\n<dt id='where%20can%20i%20edit%20brands%3F'>\nWhere can I edit brands?\n<\/h4>\n<p>\n<p>Link to brands manager page can be found in submenu of <em>WooCommerce Brand<\/em> menu at Admin<\/p>\n<\/p>\n<dt id='where%20is%20the%20settings%20page%3F'>\nWhere is the settings page?\n<\/h4>\n<p>\n<p>Link to brands settings page can be found in submenu of <em>WooCommerce Brand<\/em> menu at Admin<\/p>\n<\/p>\n<dt id='how%20can%20i%20assign%20a%20brand%20to%20my%20product%3F'>\nHow can I assign a brand to my product?\n<\/h4>\n<p>\n<p>On a product add\/edit form you can find a brand select list. Select brand and<br \/>\nsave\/update the product.<\/p>\n<\/p>\n\n",
+        "changelog": "<ul>\n<h4>1.0.0<\/h4>\n<li>* Initial release of the plugin, June, 14, 2023.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/manufacturer-brand-for-woocommerce\/assets\/screenshot-1.png?rev=3062430\"><img src=\"https:\/\/ps.w.org\/manufacturer-brand-for-woocommerce\/assets\/screenshot-1.png?rev=3062430\" alt=\"1. Admin page for Brand Manager\"><\/a><p>1. Admin page for Brand Manager<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/manufacturer-brand-for-woocommerce\/assets\/screenshot-2.png?rev=3062430\"><img src=\"https:\/\/ps.w.org\/manufacturer-brand-for-woocommerce\/assets\/screenshot-2.png?rev=3062430\" alt=\"2. Admin page for Brand Settings\"><\/a><p>2. Admin page for Brand Settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/manufacturer-brand-for-woocommerce\/assets\/screenshot-3.png?rev=3062430\"><img src=\"https:\/\/ps.w.org\/manufacturer-brand-for-woocommerce\/assets\/screenshot-3.png?rev=3062430\" alt=\"3. Admin Page to Add new Brand\"><\/a><p>3. Admin Page to Add new Brand<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/manufacturer-brand-for-woocommerce\/assets\/screenshot-4.png?rev=3062430\"><img src=\"https:\/\/ps.w.org\/manufacturer-brand-for-woocommerce\/assets\/screenshot-4.png?rev=3062430\" alt=\"4. Brands widget on shop page\"><\/a><p>4. Brands widget on shop page<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/manufacturer-brand-for-woocommerce\/assets\/screenshot-5.png?rev=3062430\"><img src=\"https:\/\/ps.w.org\/manufacturer-brand-for-woocommerce\/assets\/screenshot-5.png?rev=3062430\" alt=\"5. Brand info tab on single product page\"><\/a><p>5. Brand info tab on single product page<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "This plugin extends the product details for WooCommerce to embed manufacturer name so-called brand. Complete solution for brands (manufacturers) \nmana &hellip;",
+    "description": "<p>This plugin extends the product details for WooCommerce to embed manufacturer name so-called brand. Complete solution for brands (manufacturers)<br \/>\nmanagement in your Woocommerce shop. Please visit <a href=\"https:\/\/walexconcepts.com\/wordpress\/product\/mummy-changing-bag\/#respond\/\" rel=\"nofollow ugc\">demo<\/a>.<\/p>\n<p>Free Version features:<\/p>\n<ul>\n<li>* Just for only new product.<\/li>\n<li>* Unlimited number of brands. <\/li>\n<li>* Manufacturer is the term to use on the website .<\/li>\n<li>* Widgets not included for filtering products by brands in shop sidebar.<\/li>\n<li>* Cannot turn off Brand info tab on product details page.<\/li>\n<li>* Cannot hide label \u201cManufacturer\u201d on product details page.<\/li>\n<li>* Display both label \u201cManufacturer\/brand\u201d and  Brand info\u201d tab on product details page<\/li>\n<li>* Cannot set dimensions of the image\/logo width and height.<\/li>\n<li>* Only one predefined positions to display label \u201cManufacturer\u201d on product details page<\/li>\n<\/ul>\n<p>Premium Features:<\/p>\n<ul>\n<li>* For already published product or new product.<\/li>\n<li>* Unlimited number of brands. <\/li>\n<li>* Choose the term to use on the website (Brand or Manufacturer).<\/li>\n<li>* Widgets included for filtering products by brands in shop sidebar.<\/li>\n<li>* Brand info tab on product details page, can be turned off \/on.<\/li>\n<li>* Show or hide label \u201cManufacturer\/brand\u201d on product details page<\/li>\n<li>* Display both label \u201cManufacturer\/brand\u201d and  Brand info\u201d tab on product details page<\/li>\n<li>* Set dimensions of the image\/logo width and height.<\/li>\n<li>* Several predefined positions to display label \u201cManufacturer\/brand\u201d  on product details page<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/manufacturer-brand-for-woocommerce.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/manufacturer-brand-for-woocommerce\/assets\/screenshot-1.png?rev=3062430",
+            "caption": "1. Admin page for Brand Manager"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/manufacturer-brand-for-woocommerce\/assets\/screenshot-2.png?rev=3062430",
+            "caption": "2. Admin page for Brand Settings"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/manufacturer-brand-for-woocommerce\/assets\/screenshot-3.png?rev=3062430",
+            "caption": "3. Admin Page to Add new Brand"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/manufacturer-brand-for-woocommerce\/assets\/screenshot-4.png?rev=3062430",
+            "caption": "4. Brands widget on shop page"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/manufacturer-brand-for-woocommerce\/assets\/screenshot-5.png?rev=3062430",
+            "caption": "5. Brand info tab on single product page"
+        }
+    },
+    "tags": {
+        "brand-widget": "brand widget",
+        "brands": "brands",
+        "manufacturers": "manufacturers",
+        "woocommerce": "woocommerce",
+        "woocommerce-brands": "woocommerce brands"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/izzumes.com\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/manufacturer-brand-for-woocommerce\/assets\/banner-772x250.jpg?rev=3062430",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/manufacturer-brand-for-woocommerce\/assets\/icon-128x128.png?rev=3062430"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

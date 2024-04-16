@@ -1,0 +1,76 @@
+{
+    "name": "Devnex Addons For Elementor",
+    "slug": "devnex-addons-for-elementor",
+    "version": "1.0.1",
+    "author": "Devnex",
+    "author_profile": "https:\/\/profiles.wordpress.org\/devnex\/",
+    "contributors": {
+        "devnex": {
+            "profile": "https:\/\/profiles.wordpress.org\/devnex\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/da82b500e680bbb7b23ae924d450de3b?s=96&d=monsterid&r=g",
+            "display_name": "devnex"
+        }
+    },
+    "requires": "4.7",
+    "tested": "6.4.4",
+    "requires_php": "8.1.10",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/devnex-addons-for-elementor\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 33,
+    "last_updated": "2024-04-11 2:05am GMT",
+    "added": "2024-04-03",
+    "homepage": "https:\/\/wordpress.org\/plugins\/devnex-addons-for-elementor",
+    "sections": {
+        "description": "<p>&#8220;Devnex Addons For Elementor&#8221; is described as one of the best Elementor addons with over 25+ easy-to-use custom widgets<\/p>\n<h3>25+ FREE WIDGETS AND COUNTING<\/h3>\n<p>We have designed 25+ of the most useful widgets to enhance your Elementor Page Building experience and allow you to climb the top of your design capabilities.<\/p>\n<h4>Basic Widgets<\/h4>\n<ol>\n<li>Accordion: Organize content efficiently with foldable sections using customizable options.<\/li>\n<li>Button: Enhance user experience with Bootstrap\u2019s custom button styles for various actions.<\/li>\n<li>Client Logo: Showcase clients or products stylishly on your website.<\/li>\n<li>Countdown: Create urgency and engagement with countdown timer features.<\/li>\n<li>Contact Form: Easily create user-friendly contact forms without coding.<\/li>\n<li>Counter: Showcase facts and figures in a visually appealing way.<\/li>\n<li>Fancy Text: Grab attention with eye-catching animated text.<\/li>\n<li>Flip Box: Add interactive 3D effects to your website.<\/li>\n<li>Gallery Grid: Present images in a visually appealing grid layout.<\/li>\n<li>Gallery Justified: Create beautiful justified galleries with customizable options.<\/li>\n<li>Gallery Masonry: Implement stylish galleries with masonry layout and hover effects.<\/li>\n<li>Gallery Metro: Enhance galleries with metro-style layout and dynamic designs.<\/li>\n<li>Heading: Adorn headlines with multiple fancy styles.<\/li>\n<li>Mailchimp: Seamlessly integrate Mailchimp into your Elementor pages.<\/li>\n<li>Pricing Table: Clearly describe product value with customizable pricing tables.<\/li>\n<li>Team Member: Showcase team members with bios and social media links.<\/li>\n<li>Video Popup: Engage audience with interactive video popups.<\/li>\n<li>Icon Box: Display services or products with customizable icon boxes.<\/li>\n<li>Image: Create engaging image boxes integrating visuals with textual elements.<\/li>\n<li>Image Comparison: Showcase before-and-after images with customization options.<\/li>\n<li>Image Marker: Display image pins with product details or prices.<\/li>\n<li>Social Icons: Enhance website connectivity with easy social media integration.<\/li>\n<li>Social Share: Amplify content reach with social sharing widgets.<\/li>\n<li>Testimonial: Build credibility with positive feedback and reviews.<\/li>\n<li>Progress Bar: Keep audience informed about task or project progress.<\/li>\n<li>Tabs Vertical: Organize content efficiently with vertical tabs.<\/li>\n<li>Chart: Visualize data effectively with customizable chart widgets.<\/li>\n<li>Timeline: Tell stories chronologically with interactive timeline widgets.<\/li>\n<li>Map Box: Provide location-based information with interactive maps.<\/li>\n<li>Breadcrumbs: Improve website navigation with hierarchical path display.<\/li>\n<li>Toggle Switch: Add interactivity to website with intuitive toggle widgets.<\/li>\n<li>Slider: Create dynamic content showcases with versatile slider widgets.<\/li>\n<\/ol>\n<p>Make sure your memory limit is set to 768M or higher, If you have multiple elementor addons installed and you are having an issue with the elementor panel loading icon and freeze.<\/p>\n<p>Is the issue created due to Devnex Addons For Elementor? No. This is not anyone\u2019s bug\/issue. It\u2019s just because, If you want to use more widgets, Your server needs more memory limit to use everything in your backend.<\/p>\n<p>My Hosting Provider doesn\u2019t allow a higher memory limit, What to do? If that is the case, You just need to disable all unused widgets from Devnex Addons For Elementor and all other addons you have installed. This will reduce the need for the required memory limit as the total number of active widgets will go down.<\/p>\n<p><strong>Everything is messed up in Backend. Or Everything looks perfectly fine in the Backend but has issues on the frontend.<\/strong><\/p>\n<p>Make sure you have removed cache from The Plus Settings \u2192 Performance \u2192 Purge all cache. Furthermore, remove cache from all your 3rd party cache plugins. Moreover, remove your browser cache by hard reload and\/or test your site on incognito mode.<\/p>\n<p><strong>Your Font Awesome Icons are not visible?<\/strong><\/p>\n<p>You need to turn on compatibility for font awesome 4 from Elementor -&gt; Extra Settings.<\/p>\n",
+        "changelog": "<h4>1.0.0<\/h4>\n<ul>\n<li>Initial Released!<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Fixed Widget Icon Box<\/li>\n<\/ul>\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">High performance and easy customization.<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/butchilo\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f5feff8dd565b894ca31199a7eed9c87?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f5feff8dd565b894ca31199a7eed9c87?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/butchilo\/\" class=\"reviewer-name\">butchilo<\/a> on <span class=\"review-date\">April 7, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\">From the moment I installed DevNex Addons, I was impressed by its seamless integration with Elementor. The installation process was a breeze, and within minutes, I was exploring a treasure trove of new widgets and features to enhance my designs.\nBut what truly sets DevNex Addons apart is its performance. Despite the abundance of features, I noticed no lag or slowdown on my website. Pages loaded quickly, animations were smooth, and the overall user experience was top-notch.Trust me, you won't be disappointed.<\/div>\n<\/div>\n"
+    },
+    "short_description": "Completely plugins Devnex Addons For Elementor. Enhance your experience and customize easily with Elementor.",
+    "description": "<p>&#8220;Devnex Addons For Elementor&#8221; is described as one of the best Elementor addons with over 25+ easy-to-use custom widgets<\/p>\n<h3>25+ FREE WIDGETS AND COUNTING<\/h3>\n<p>We have designed 25+ of the most useful widgets to enhance your Elementor Page Building experience and allow you to climb the top of your design capabilities.<\/p>\n<h4>Basic Widgets<\/h4>\n<ol>\n<li>Accordion: Organize content efficiently with foldable sections using customizable options.<\/li>\n<li>Button: Enhance user experience with Bootstrap\u2019s custom button styles for various actions.<\/li>\n<li>Client Logo: Showcase clients or products stylishly on your website.<\/li>\n<li>Countdown: Create urgency and engagement with countdown timer features.<\/li>\n<li>Contact Form: Easily create user-friendly contact forms without coding.<\/li>\n<li>Counter: Showcase facts and figures in a visually appealing way.<\/li>\n<li>Fancy Text: Grab attention with eye-catching animated text.<\/li>\n<li>Flip Box: Add interactive 3D effects to your website.<\/li>\n<li>Gallery Grid: Present images in a visually appealing grid layout.<\/li>\n<li>Gallery Justified: Create beautiful justified galleries with customizable options.<\/li>\n<li>Gallery Masonry: Implement stylish galleries with masonry layout and hover effects.<\/li>\n<li>Gallery Metro: Enhance galleries with metro-style layout and dynamic designs.<\/li>\n<li>Heading: Adorn headlines with multiple fancy styles.<\/li>\n<li>Mailchimp: Seamlessly integrate Mailchimp into your Elementor pages.<\/li>\n<li>Pricing Table: Clearly describe product value with customizable pricing tables.<\/li>\n<li>Team Member: Showcase team members with bios and social media links.<\/li>\n<li>Video Popup: Engage audience with interactive video popups.<\/li>\n<li>Icon Box: Display services or products with customizable icon boxes.<\/li>\n<li>Image: Create engaging image boxes integrating visuals with textual elements.<\/li>\n<li>Image Comparison: Showcase before-and-after images with customization options.<\/li>\n<li>Image Marker: Display image pins with product details or prices.<\/li>\n<li>Social Icons: Enhance website connectivity with easy social media integration.<\/li>\n<li>Social Share: Amplify content reach with social sharing widgets.<\/li>\n<li>Testimonial: Build credibility with positive feedback and reviews.<\/li>\n<li>Progress Bar: Keep audience informed about task or project progress.<\/li>\n<li>Tabs Vertical: Organize content efficiently with vertical tabs.<\/li>\n<li>Chart: Visualize data effectively with customizable chart widgets.<\/li>\n<li>Timeline: Tell stories chronologically with interactive timeline widgets.<\/li>\n<li>Map Box: Provide location-based information with interactive maps.<\/li>\n<li>Breadcrumbs: Improve website navigation with hierarchical path display.<\/li>\n<li>Toggle Switch: Add interactivity to website with intuitive toggle widgets.<\/li>\n<li>Slider: Create dynamic content showcases with versatile slider widgets.<\/li>\n<\/ol>\n<p>Make sure your memory limit is set to 768M or higher, If you have multiple elementor addons installed and you are having an issue with the elementor panel loading icon and freeze.<\/p>\n<p>Is the issue created due to Devnex Addons For Elementor? No. This is not anyone\u2019s bug\/issue. It\u2019s just because, If you want to use more widgets, Your server needs more memory limit to use everything in your backend.<\/p>\n<p>My Hosting Provider doesn\u2019t allow a higher memory limit, What to do? If that is the case, You just need to disable all unused widgets from Devnex Addons For Elementor and all other addons you have installed. This will reduce the need for the required memory limit as the total number of active widgets will go down.<\/p>\n<p><strong>Everything is messed up in Backend. Or Everything looks perfectly fine in the Backend but has issues on the frontend.<\/strong><\/p>\n<p>Make sure you have removed cache from The Plus Settings \u2192 Performance \u2192 Purge all cache. Furthermore, remove cache from all your 3rd party cache plugins. Moreover, remove your browser cache by hard reload and\/or test your site on incognito mode.<\/p>\n<p><strong>Your Font Awesome Icons are not visible?<\/strong><\/p>\n<p>You need to turn on compatibility for font awesome 4 from Elementor -&gt; Extra Settings.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/devnex-addons-for-elementor.zip",
+    "upgrade_notice": {
+        "1.0.1": "<p>Users are encouraged to update to this version to benefit from the new features and bug fixes.<\/p>"
+    },
+    "screenshots": [],
+    "tags": {
+        "element": "element",
+        "elementor": "elementor",
+        "elementor-addons": "elementor addons",
+        "elementor-widget": "elementor widget"
+    },
+    "stable_tag": "trunk",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/devnex-addons-for-elementor.1.0.0.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/devnex-addons-for-elementor\/assets\/banner-772x250.jpg?rev=3068718",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/devnex-addons-for-elementor\/assets\/icon-128x128.jpg?rev=3068718"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

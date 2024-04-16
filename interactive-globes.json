@@ -1,0 +1,117 @@
+{
+    "name": "Interactive Globes",
+    "slug": "interactive-globes",
+    "version": "1.1.0",
+    "author": "<a href=\"https:\/\/wpinteractiveglobes.com\/\">Interactive Globes<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/carlosmoreirapt\/",
+    "contributors": {
+        "carlosmoreirapt": {
+            "profile": "https:\/\/profiles.wordpress.org\/carlosmoreirapt\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/26d03e9154c9f4603af5dec7da89aed6?s=96&d=monsterid&r=g",
+            "display_name": "Carlos Moreira"
+        },
+        "pcarvalho": {
+            "profile": "https:\/\/profiles.wordpress.org\/pcarvalho\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/5eec837f2468e70fb8cf4bf4afd3e26b?s=96&d=monsterid&r=g",
+            "display_name": "pcarvalho"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.5.2",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 2,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 2,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/interactive-globes\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 100,
+    "downloaded": 684,
+    "last_updated": "2024-04-01 5:04am GMT",
+    "added": "2023-10-30",
+    "homepage": "https:\/\/wpinteractiveglobes.com\/",
+    "sections": {
+        "description": "<p>Create simplified but realistic interactive planet earth globes, with markers and dot labels that the user can interact with.<br \/>\nThe perfect alternative to a flat world map, to get a more realistic version. Replace your world map with a 3D globe and impress your visitors.<\/p>\n<h4>3D Globe<\/h4>\n<p>The globes are generated using globe.gl, a library that is able to create 3-dimensional globes in a spherical projection, using ThreeJS\/WebGL for the 3D rendering.<\/p>\n<p>If you need to display locations on planet earth, this is the solution for you.<\/p>\n<p>Create your first globe in minutes! Use it to highligh locations, offices, projects, representatives, statistics, or other interactive marker visualization you need!<\/p>\n<p>After you create a globe you&#8217;ll get a unique shortcode that you can use in all popular page builders, including the block editor, elementor and others.<\/p>\n<h4>Features<\/h4>\n<ul>\n<li>Create as many globes as you want<\/li>\n<li>Responsive and cross-device<\/li>\n<li>Add round coloured markers<\/li>\n<li>Set hover color change<\/li>\n<li>Set click actions, like open a new window<\/li>\n<li>Choose from different globe images<\/li>\n<li>Display HTML tooltips on hover<\/li>\n<\/ul>\n<p>The plugin generates interactive, responsive, touch-enabled map globes which are embeded directly into your HTML5 pages and compatible with all modern browsers and devices.<\/p>\n<h3>Credits<\/h3>\n<ul>\n<li><a href=\"https:\/\/globe.gl\/\" rel=\"nofollow ugc\">globe.gl<\/a><\/li>\n<li><a href=\"http:\/\/codestarframework.com\/\" rel=\"nofollow ugc\">Codestar Framework<\/a><\/li>\n<li><a href=\"https:\/\/saltus.dev\" rel=\"nofollow ugc\">Saltus Framework<\/a><\/li>\n<\/ul>\n",
+        "faq": "\n<dt id='where%20can%20i%20get%20coordinates%20for%20a%20marker%3F'>\nWhere can I get coordinates for a marker?\n<\/h4>\n<p>\n<p>You can get the latitude and longitude needed to a add a marker to a map using sites like <a href=\"https:\/\/getlatlong.net\/\" rel=\"nofollow ugc\">GetLatLong<\/a> or <a href=\"https:\/\/www.latlong.net\/\" rel=\"nofollow ugc\">LatLong.net<\/a> or any other similar website.<\/p>\n<\/p>\n<dt id='where%20can%20i%20learn%20how%20to%20use%20the%20plugin%3F'>\nWhere can I learn how to use the plugin?\n<\/h4>\n<p>\n<p>You can visit the <a href=\"https:\/\/wpinteractiveglobes.com\/\" rel=\"nofollow ugc\">documentation pages on the official website<\/a>.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.1.0<\/h4>\n<ul>\n<li>expose Global object ittGlobe<\/li>\n<li>unify naming<\/li>\n<\/ul>\n<h4>1.0.5<\/h4>\n<ul>\n<li>Improve assets loading<\/li>\n<\/ul>\n<h4>1.0.4<\/h4>\n<ul>\n<li>Update default radius size<\/li>\n<li>Fix missing meta<\/li>\n<li>Prevent loading of assets outside the editor<\/li>\n<li>Prevent loading meta with shortcode from loading in other screens<\/li>\n<li>Activate remember tabs<\/li>\n<li>Separate logic for free\/pro<\/li>\n<li>Separate js features<\/li>\n<\/ul>\n<h4>1.0.3<\/h4>\n<ul>\n<li>organize code<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>update dependencies<\/li>\n<li>bug fixes<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Bug fixing<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Initial Release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/interactive-globes\/assets\/Screenshot-1.png?rev=2996159\"><img src=\"https:\/\/ps.w.org\/interactive-globes\/assets\/Screenshot-1.png?rev=2996159\" alt=\"Globe example 01\"><\/a><p>Globe example 01<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/interactive-globes\/assets\/Screenshot-2.png?rev=2996159\"><img src=\"https:\/\/ps.w.org\/interactive-globes\/assets\/Screenshot-2.png?rev=2996159\" alt=\"Globe example 02\"><\/a><p>Globe example 02<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/interactive-globes\/assets\/Screenshot-3.png?rev=2996159\"><img src=\"https:\/\/ps.w.org\/interactive-globes\/assets\/Screenshot-3.png?rev=2996159\" alt=\"Globe example 03\"><\/a><p>Globe example 03<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/interactive-globes\/assets\/Screenshot-4.png?rev=2996159\"><img src=\"https:\/\/ps.w.org\/interactive-globes\/assets\/Screenshot-4.png?rev=2996159\" alt=\"Globe admin screen 01 - Style and settings\"><\/a><p>Globe admin screen 01 - Style and settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/interactive-globes\/assets\/Screenshot-5.png?rev=2996159\"><img src=\"https:\/\/ps.w.org\/interactive-globes\/assets\/Screenshot-5.png?rev=2996159\" alt=\"Globe admin screen 02 - Container settings\"><\/a><p>Globe admin screen 02 - Container settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/interactive-globes\/assets\/Screenshot-6.png?rev=2996159\"><img src=\"https:\/\/ps.w.org\/interactive-globes\/assets\/Screenshot-6.png?rev=2996159\" alt=\"Globe admin screen 03 - Add Points\"><\/a><p>Globe admin screen 03 - Add Points<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/interactive-globes\/assets\/Screenshot-7.png?rev=2996159\"><img src=\"https:\/\/ps.w.org\/interactive-globes\/assets\/Screenshot-7.png?rev=2996159\" alt=\"Globe admin screen 04 - Add Dot Labels\"><\/a><p>Globe admin screen 04 - Add Dot Labels<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great potential<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/aakerro\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/fa8e98669b7ef17d0ae219df4e9d4e84?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/fa8e98669b7ef17d0ae219df4e9d4e84?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/aakerro\/\" class=\"reviewer-name\">aakerro<\/a> on <span class=\"review-date\">February 3, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The plugin works well. Simple setup with shortcode and nice admin panel. <br \/>What's next? Dynamic data population for points, labels, perhaps connections? Vector-based surface image consepts (abstract like the GitHub and Stripe globe) to get sharp look and lighter data? <br \/><br \/>Also: very good support. Thanks!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">It works<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/mustafashe1kh\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/eadfde9cb08875feecea4b23347fb893?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/eadfde9cb08875feecea4b23347fb893?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/mustafashe1kh\/\" class=\"reviewer-name\">Mustafa <small>(mustafashe1kh)<\/small><\/a> on <span class=\"review-date\">January 19, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">This plugin is simple, easy to use. Free version has good enough features and paid version gives you alot more controls and totally worth it. It is quite a new plugin but i hope the developer keeps it up to date, compatible and secure, because this can be a VERY useful tool and can turn into great revenue for developer as well since there are not many other plugins that allow such 3D globe views.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I will probably be using it on a huge WP project coming up and once i've tested out the Free version properly in coming days, I'll purchase the premium version.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Create simplified but realistic interactive planet earth globes, with markers and dot labels that the user can interact with.",
+    "description": "<p>Create simplified but realistic interactive planet earth globes, with markers and dot labels that the user can interact with.<br \/>\nThe perfect alternative to a flat world map, to get a more realistic version. Replace your world map with a 3D globe and impress your visitors.<\/p>\n<h4>3D Globe<\/h4>\n<p>The globes are generated using globe.gl, a library that is able to create 3-dimensional globes in a spherical projection, using ThreeJS\/WebGL for the 3D rendering.<\/p>\n<p>If you need to display locations on planet earth, this is the solution for you.<\/p>\n<p>Create your first globe in minutes! Use it to highligh locations, offices, projects, representatives, statistics, or other interactive marker visualization you need!<\/p>\n<p>After you create a globe you&#8217;ll get a unique shortcode that you can use in all popular page builders, including the block editor, elementor and others.<\/p>\n<h4>Features<\/h4>\n<ul>\n<li>Create as many globes as you want<\/li>\n<li>Responsive and cross-device<\/li>\n<li>Add round coloured markers<\/li>\n<li>Set hover color change<\/li>\n<li>Set click actions, like open a new window<\/li>\n<li>Choose from different globe images<\/li>\n<li>Display HTML tooltips on hover<\/li>\n<\/ul>\n<p>The plugin generates interactive, responsive, touch-enabled map globes which are embeded directly into your HTML5 pages and compatible with all modern browsers and devices.<\/p>\n<h3>Credits<\/h3>\n<ul>\n<li><a href=\"https:\/\/globe.gl\/\" rel=\"nofollow ugc\">globe.gl<\/a><\/li>\n<li><a href=\"http:\/\/codestarframework.com\/\" rel=\"nofollow ugc\">Codestar Framework<\/a><\/li>\n<li><a href=\"https:\/\/saltus.dev\" rel=\"nofollow ugc\">Saltus Framework<\/a><\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/interactive-globes.1.1.0.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/interactive-globes\/assets\/Screenshot-1.png?rev=2996159",
+            "caption": "Globe example 01"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/interactive-globes\/assets\/Screenshot-2.png?rev=2996159",
+            "caption": "Globe example 02"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/interactive-globes\/assets\/Screenshot-3.png?rev=2996159",
+            "caption": "Globe example 03"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/interactive-globes\/assets\/Screenshot-4.png?rev=2996159",
+            "caption": "Globe admin screen 01 - Style and settings"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/interactive-globes\/assets\/Screenshot-5.png?rev=2996159",
+            "caption": "Globe admin screen 02 - Container settings"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/interactive-globes\/assets\/Screenshot-6.png?rev=2996159",
+            "caption": "Globe admin screen 03 - Add Points"
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/interactive-globes\/assets\/Screenshot-7.png?rev=2996159",
+            "caption": "Globe admin screen 04 - Add Dot Labels"
+        }
+    },
+    "tags": {
+        "globe": "Globe",
+        "globes": "globes",
+        "map": "map",
+        "planet-earth": "planet earth",
+        "world": "world"
+    },
+    "stable_tag": "1.1.0",
+    "versions": {
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/interactive-globes.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/interactive-globes.1.0.4.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/interactive-globes.1.0.5.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/interactive-globes.1.1.0.zip",
+        "1.1.1": "https:\/\/downloads.wordpress.org\/plugin\/interactive-globes.1.1.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/interactive-globes.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/wpinteractiveglobes.com\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/interactive-globes\/assets\/banner-772x250.png?rev=2996159",
+        "high": "https:\/\/ps.w.org\/interactive-globes\/assets\/banner-1544x500.png?rev=2996159"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/interactive-globes\/assets\/icon-128x128.png?rev=2996159",
+        "2x": "https:\/\/ps.w.org\/interactive-globes\/assets\/icon-256x256.png?rev=2996159"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

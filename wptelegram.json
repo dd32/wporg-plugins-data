@@ -1,0 +1,413 @@
+{
+    "name": "WP Telegram (Auto Post and Notifications)",
+    "slug": "wptelegram",
+    "version": "4.1.5",
+    "author": "<a href=\"https:\/\/wpsocio.com\">WP Socio<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/wpsocio\/",
+    "contributors": {
+        "wpsocio": {
+            "profile": "https:\/\/profiles.wordpress.org\/wpsocio\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/94aacea05566093fadcac13e3923d309?s=96&d=monsterid&r=g",
+            "display_name": "WP Socio"
+        },
+        "irshadahmad21": {
+            "profile": "https:\/\/profiles.wordpress.org\/irshadahmad21\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/561be135fa7a0f093bae7317d693cd17?s=96&d=monsterid&r=g",
+            "display_name": "Irshad Ahmad"
+        }
+    },
+    "requires": "6.4",
+    "tested": "6.5.2",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 394,
+        "4": 0,
+        "3": 0,
+        "2": 1,
+        "1": 0
+    },
+    "num_ratings": 395,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/wptelegram\/",
+    "support_threads": 4,
+    "support_threads_resolved": 4,
+    "active_installs": 30000,
+    "downloaded": 870675,
+    "last_updated": "2024-04-15 12:00pm GMT",
+    "added": "2017-02-17",
+    "homepage": "https:\/\/t.me\/WPTelegram",
+    "sections": {
+        "description": "<p>Integrate your WordPress site perfectly with Telegram with full control.<\/p>\n<h3>Modules<\/h3>\n<p><strong>1. Post to Telegram<\/strong><\/p>\n<ul>\n<li>\ud83d\udcdd Send posts automatically to Telegram when published or updated<\/li>\n<li>\ud83d\udce2 You can send to a Telegram Channel, Group, Supergroup or private chat<\/li>\n<li>\ud83d\udc65 Supports multiple Channels\/chats<\/li>\n<li>\ud83d\ude42 Has Message Template composer with Emojis<\/li>\n<li>\u23f3 Supports Conditional logic inside Message Template<\/li>\n<li>\ud83d\uddbc Supports sending featured image along with the text<\/li>\n<li>\ud83c\udfde You can choose to send only the Featured Image<\/li>\n<li>\u23f1 Supports scheduled (future) posts<\/li>\n<li>\ud83d\udd70 Messages can be delayed by a specific interval<\/li>\n<li>\u2b1c\ufe0f You can add an Inline button for the post URL<\/li>\n<li>\ud83d\uded2 Supports WooCommerce products and other Custom Post Types<\/li>\n<li>\u2712\ufe0f Direct Support for sending Custom Fields<\/li>\n<li>\ud83d\uddc3 You can send Custom Taxonomy Terms<\/li>\n<li>\ud83d\udccb You can select the post types to be sent<\/li>\n<li>\u23f2 You can choose when to send (New and\/or existing posts)<\/li>\n<li>\ud83c\udf9b Make use of Custom Rules to filter posts by authors, categories, tags, post formats or custom taxonomy terms<\/li>\n<li>\ud83c\udf9a You can override the default settings on post edit page<\/li>\n<\/ul>\n<p><a href=\"https:\/\/wptelegram.pro\" rel=\"nofollow ugc\">WP Telegram Pro<\/a> supports multiple channels based upon category\/tag\/author\/post type etc. and also supports unlimited Reaction buttons.<\/p>\n<p><strong>2. Private Notifications<\/strong><\/p>\n<ul>\n<li>\ud83d\udce7 Get your email notifications on Telegram<\/li>\n<li>\ud83d\udd14 Supports <strong>WooCommerce<\/strong> order notifications, <strong>Contact Form 7<\/strong> and other plugin notifications<\/li>\n<li>\ud83d\udd15 Allow users to receive their email notifications on Telegram<\/li>\n<li>\ud83d\udd10 Integrated with <a href=\"https:\/\/wordpress.org\/plugins\/wptelegram-login\" rel=\"ugc\">WP Telegram Login<\/a> to let users connect their Telegram.<\/li>\n<li>\ud83d\udd8a Users can also enter their Telegram Chat ID manually on page<\/li>\n<\/ul>\n<p><strong>3. Proxy<\/strong><\/p>\n<ul>\n<li>\ud83d\udeab If your host blocks Telegram, you can use this module<\/li>\n<li>\u2705 Bypass the ban on Telegram by making use of proxy<\/li>\n<li>\ud83d\ude80 Supports <strong>Cloudflare worker as proxy<\/strong> which supports file upload<\/li>\n<li>\ud83d\ude0d Option to use custom <strong>Google Script as proxy<\/strong><\/li>\n<li>\u2747\ufe0f Supports all proxies supported by PHP<\/li>\n<li>\ud83d\udd1b You can select Proxy type &#8211; HTTP, SOCKS4, SOCKS4A, SOCKS5, SOCKS5_HOSTNAME<\/li>\n<\/ul>\n<h3>Features<\/h3>\n<ul>\n<li><strong>Excellent LIVE Support on Telegram<\/strong><\/li>\n<li>Easy to install and set up for the admin<\/li>\n<li>Fully customizable with actions and filters<\/li>\n<li>Can be extended with custom code<\/li>\n<li>Translation ready<\/li>\n<\/ul>\n<h4>Getting Started | Post to Telegram<\/h4>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/m48V-gWz9-o?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<h4>WooCommerce, CF7 etc. Notifications<\/h4>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/gVJCtwkorMA?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<h3>Contribution<\/h3>\n<p>Development takes place in our <a href=\"https:\/\/github.com\/wpsocio\/wp-projects\" rel=\"nofollow ugc\">Github monorepo<\/a>, and all contributions welcome.<\/p>\n<h3>Excellent LIVE Support on Telegram<\/h3>\n<h4>Join the Chat<\/h4>\n<p>We have a public group on Telegram to provide help setting up the plugin, discuss issues, features, translations etc. Join <a href=\"https:\/\/t.me\/WPTelegramChat\" rel=\"nofollow ugc\">@WPTelegramChat<\/a><br \/>\nFor rules, see the pinned message. No spam please.<\/p>\n<h4>Get in touch<\/h4>\n<ul>\n<li>Website <a href=\"https:\/\/wpsocio.com\" rel=\"nofollow ugc\">wpsocio.com<\/a><\/li>\n<li>Telegram <a href=\"https:\/\/t.me\/WPTelegram\" rel=\"nofollow ugc\">@WPTelegram<\/a><\/li>\n<li>Facebook <a href=\"https:\/\/fb.com\/WPTelegram\" rel=\"nofollow ugc\">@WPTelegram<\/a><\/li>\n<li>Twitter <a href=\"https:\/\/twitter.com\/WPTelegram\" rel=\"nofollow ugc\">@WPTelegram<\/a><\/li>\n<\/ul>\n<h4>Upgrade to Pro<\/h4>\n<p>WP Telegram Pro comes with more powerful features to give you more control. <a href=\"https:\/\/wptelegram.pro\" rel=\"nofollow ugc\">Upgrade NOW<\/a><\/p>\n",
+        "installation": "<h4>Automatic installation<\/h4>\n<p>Automatic installation is the easiest way &#8212; WordPress will handle the file transfer, and you won\u2019t need to leave your web browser. To do an automatic install of the plugin:<\/p>\n<ul>\n<li>Log in to your WordPress dashboard<\/li>\n<li>Navigate to the Plugins menu, and click &#8220;Add New&#8221;<\/li>\n<li>In the search field type &#8220;wptelegram&#8221; and hit Enter<\/li>\n<li>Locate the plugin in the list of search results<\/li>\n<li>Click on &#8220;Install Now&#8221; and wait for the installation to complete<\/li>\n<li>Click on &#8220;Activate&#8221;<\/li>\n<\/ul>\n<h4>Manual installation<\/h4>\n<p>Manual installation method requires downloading the plugin and uploading it to your web server via your favorite FTP application. The official WordPress documentation contains <a href=\"https:\/\/wordpress.org\/support\/article\/managing-plugins\/#manual-plugin-installation\" rel=\"ugc\">instructions on how to do this here<\/a>.<\/p>\n<h4>Updating<\/h4>\n<p>Automatic updates should work smoothly, but we still recommend you back up your site.<\/p>\n",
+        "faq": "\n<dt id='how%20to%20create%20a%20telegram%20bot%3F'>\nHow to create a Telegram Bot?\n<\/h4>\n<p>\n<p>To create a bot, you need to send <code>\/newbot<\/code> command to <a href=\"https:\/\/t.me\/BotFather\" rel=\"nofollow ugc\">@BotFather<\/a>. After completing the steps <code>@BotFather<\/code> will provide you the Bot Token, which you can use in plugin settings.<\/p>\n<\/p>\n<dt id='can%20i%20send%20posts%20to%20a%20private%20channel%2Fgroup%3F'>\nCan I send posts to a private channel\/group?\n<\/h4>\n<p>\n<p>Yes, you need to get the chat ID of the channel or group. For that, you need to message <a href=\"https:\/\/t.me\/MyChatInfoBot\" rel=\"nofollow ugc\">@MyChatInfoBot<\/a> and follow its instructions to obtain the ID for a channel or group.<\/p>\n<\/p>\n<dt id='what%20is%20%22bad%20request%3A%20chat%20id%20not%20found%22%20error%3F'>\nWhat is &#8220;Bad request: Chat ID not found&#8221; error?\n<\/h4>\n<p>\n<p>It means either you have entered a wrong chat ID in the settings or you forgot to add your own bot to the group or channel. Some users also enter the bot username instead of the channel username.<\/p>\n<\/p>\n<dt id='what%20is%20%22bad%20request%3A%20wrong%20file%20identifier%2Fhttp%20url%20specified%22%20error%3F'>\nWhat is &#8220;Bad Request: wrong file identifier\/HTTP URL specified&#8221; error?\n<\/h4>\n<p>\n<p>If you see that error in Bot API log file, it means that there is some problem with your images\/files that you are trying to send to Telegram. You can try to disable <strong>Send files by URL<\/strong> option in <strong>Advanced Settings<\/strong> to see if it fixes the issue. More details <a href=\"https:\/\/t.me\/WPTelegram\/187\" rel=\"nofollow ugc\">here<\/a>.<\/p>\n<\/p>\n<dt id='why%20do%20i%20see%20a%20curl%20%28connection%20refused%29%20error%20for%20test%20token%3F'>\nWhy do I see a CURL (Connection refused) error for Test Token?\n<\/h4>\n<p>\n<p>If your host is in Russia or Iran or it&#8217;s a free hosting, your host most likely blocks Telegram. You can activate and set up the Proxy module of the plugin to bypass the ban.<\/p>\n<\/p>\n<dt id='why%20posts%20are%20not%20sent%20to%20telegram%3F'>\nWhy posts are not sent to Telegram?\n<\/h4>\n<p>\n<p>There can be many reasons for that. To better understand the reason, you can enable both the logs in <strong>Advanced Settings<\/strong> and then try to send the post again, then share the logs with our support on Telegram &#8211; <a href=\"https:\/\/t.me\/WPTelegramSupport\" rel=\"nofollow ugc\">@WPTelegramSupport<\/a>.<\/p>\n<\/p>\n<dt id='why%20the%20posts%20in%20block%20editor%20are%20sent%20to%20telegram%20even%20when%20send%20to%20telegram%20is%20off%3F'>\nWhy the posts in block editor are sent to Telegram even when Send to Telegram is OFF?\n<\/h4>\n<p>\n<p>It may be because you hit update button without makes any changes to the post.<\/p>\n<\/p>\n<dt id='why%20posts%20are%20duplicated%20on%20telegram%3F'>\nWhy posts are duplicated on Telegram?\n<\/h4>\n<p>\n<p>It can happen because of multiple submit\/publish\/update requests, for example in block editor. An easy solution would be to set 1 minute delay in posting in <strong>Post to Telegram<\/strong> settings.<\/p>\n<\/p>\n<dt id='posts%2Fclassifieds%2Fjobs%2Fproducts%20created%20via%20front-end%20submission%20are%20not%20sent%20to%20telegram%2C%20why%3F'>\nPosts\/Classifieds\/Jobs\/Products created via front-end submission are not sent to Telegram, why?\n<\/h4>\n<p>\n<p>The users submitting those posts may not have enough permissions to publish\/edit those posts. You can enable <strong>Plugin generated posts<\/strong> option in <strong>Post to Telegram<\/strong> settings to fix the issue.<\/p>\n<\/p>\n<dt id='posts%20created%20via%20import%20plugins%20are%20not%20sent%20to%20telegram%2C%20why%3F'>\nPosts created via import plugins are not sent to Telegram, why?\n<\/h4>\n<p>\n<p>Sending of posts when bulk importing is disabled by default to prevent unintended flooding of Telegram channels. If you want to enable it, you can add this one line to <code>functions.php<\/code> of your child theme.<\/p>\n<pre><code>add_filter( 'wptelegram_p2tg_send_if_importing', '__return_true' );\n<\/code><\/pre>\n<\/p>\n<dt id='how%20can%20i%20make%20the%20post%20title%20bold%3F'>\nHow can I make the post title bold?\n<\/h4>\n<p>\n<p>You can use <code>&lt;b&gt;{post_title}&lt;\/b&gt;<\/code> in the template and set <strong>Formatting<\/strong> option to <strong>HTML<\/strong>. More details <a href=\"https:\/\/core.telegram.org\/bots\/api#html-style\" rel=\"nofollow ugc\">here<\/a>.<\/p>\n<\/p>\n<dt id='can%20i%20send%20posts%20from%20different%20categories%20to%20different%20channels%2Fgroups%3F'>\nCan I send posts from different categories to different channels\/groups?\n<\/h4>\n<p>\n<p>That is possible only in <a href=\"https:\/\/wptelegram.pro\/\" rel=\"nofollow ugc\">Pro version<\/a>.<\/p>\n<\/p>\n<dt id='how%20do%20private%20notifications%20work%3F'>\nHow do Private Notifications work?\n<\/h4>\n<p>\n<p><strong>Private Notifications<\/strong> module watches every email that is sent from your WordPress Website. If the address of that email matches the one added in plugin settings, then that email is sent to Telegram on the given chat\/group as added in the settings.<\/p>\n<\/p>\n<dt id='how%20do%20user%20notifications%20work%3F'>\nHow do User Notifications work?\n<\/h4>\n<p>\n<p><strong>Private Notifications<\/strong> module watches every email that is sent from your WordPress Website. When you enable <strong>User Notifications<\/strong>, you need to connect your users&#8217; accounts to their Telegram accounts. Once you do that, then whenever an email is sent to a user, the plugin finds its connected Telegram account and forwards the email to that Telegram account. So, it works for any plugin\/system that sends email notifications.<\/p>\n<\/p>\n<dt id='can%20i%20receive%20woocommerce%20order%20notifications%20on%20telegram%3F'>\nCan I receive WooCommerce order notifications on Telegram?\n<\/h4>\n<p>\n<p>Yes, all you need to do is to setup <strong>Private Notifications<\/strong> module and use the same email there as set in <strong>WooCommerce<\/strong> order email settings.<\/p>\n<\/p>\n<dt id='can%20i%20receive%20contact%20form%207%20submissions%20on%20telegram%3F'>\nCan I receive Contact Form 7 submissions on Telegram?\n<\/h4>\n<p>\n<p>Yes, all you need to do is to setup <strong>Private Notifications<\/strong> module and use the same email there as set in &#8220;To&#8221; field of Mail settings section of the Contact Form.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>4.1.5<\/h4>\n<ul>\n<li>Added blueprints for WP Playground<\/li>\n<\/ul>\n<p><a href=\"https:\/\/github.com\/wpsocio\/wptelegram\/blob\/main\/CHANGELOG.md\" rel=\"nofollow ugc\">See full changelog<\/a><\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-1.png?rev=3030856\"><img src=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-1.png?rev=3030856\" alt=\"Basic Settings\"><\/a><p>Basic Settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-2.png?rev=3030856\"><img src=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-2.png?rev=3030856\" alt=\"Post To Telegram Settings\"><\/a><p>Post To Telegram Settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-3.png?rev=3030856\"><img src=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-3.png?rev=3030856\" alt=\"Post To Telegram Settings (Cont...)\"><\/a><p>Post To Telegram Settings (Cont...)<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-4.png?rev=3030856\"><img src=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-4.png?rev=3030856\" alt=\"Post To Telegram Settings (Cont...)\"><\/a><p>Post To Telegram Settings (Cont...)<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-5.png?rev=3030856\"><img src=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-5.png?rev=3030856\" alt=\"Post To Telegram Settings (Cont...)\"><\/a><p>Post To Telegram Settings (Cont...)<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-6.png?rev=3030856\"><img src=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-6.png?rev=3030856\" alt=\"Private Notifications Settings\"><\/a><p>Private Notifications Settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-7.png?rev=3030856\"><img src=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-7.png?rev=3030856\" alt=\"Private Notifications Settings (Cont...)\"><\/a><p>Private Notifications Settings (Cont...)<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-8.png?rev=3030856\"><img src=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-8.png?rev=3030856\" alt=\"Proxy Settings\"><\/a><p>Proxy Settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-9.png?rev=3030856\"><img src=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-9.png?rev=3030856\" alt=\"Proxy Settings (Cont...)\"><\/a><p>Proxy Settings (Cont...)<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-10.png?rev=3030856\"><img src=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-10.png?rev=3030856\" alt=\"Proxy Settings (Cont...)\"><\/a><p>Proxy Settings (Cont...)<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-11.png?rev=3030856\"><img src=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-11.png?rev=3030856\" alt=\"Advanced Settings\"><\/a><p>Advanced Settings<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-12.png?rev=3030856\"><img src=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-12.png?rev=3030856\" alt=\"Post Edit Page (Classic Editor)\"><\/a><p>Post Edit Page (Classic Editor)<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-13.png?rev=3030856\"><img src=\"https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-13.png?rev=3030856\" alt=\"Post Edit Page (Block Editor)\"><\/a><p>Post Edit Page (Block Editor)<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/kachadmin\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/91d4d1e9d21a6b2eac6ce16e13407e7e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/91d4d1e9d21a6b2eac6ce16e13407e7e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/kachadmin\/\" class=\"reviewer-name\">kachadmin<\/a> on <span class=\"review-date\">April 8, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">A great plugin. Easy to set up. The admin helped to fix the errors. He responds quickly and promptly.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excellent support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/oalvarezh\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/9e5c4676eb823d8f910a82e11faa2654?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/9e5c4676eb823d8f910a82e11faa2654?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/oalvarezh\/\" class=\"reviewer-name\">oalvarezh<\/a> on <span class=\"review-date\">March 24, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The plugin is very good, the support team is excellent, they offer completely personalized attention, highly recommended<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">WP telegram<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/woodenno\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/14d6913fea64e308366dda16de5f65ec?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/14d6913fea64e308366dda16de5f65ec?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/woodenno\/\" class=\"reviewer-name\">woodenno<\/a> on <span class=\"review-date\">February 20, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Best plugin, best support.<br \/>I liked everything 10\/10!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great Plugin for Posting to Telegram<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/lambje\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b418900053d0259041845385925f81c7?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b418900053d0259041845385925f81c7?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/lambje\/\" class=\"reviewer-name\">Jeff Lambert <small>(lambje)<\/small><\/a> on <span class=\"review-date\">February 19, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I'll start off with the level of support. Superior! My initial introduction to this plugin was that the settings page would not display. I reached out to the publisher and within a few short hours the issue was diagnosed and a solution provided. That's fast!<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Setting up the Telegram settings was quite straightforward and worked the first time. I love that they have test buttons right in the Admin to ensure it will work as I tried another plugin and it wasn't working at all.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Future asks would be to set up a schedule for when to post and how many. For now one simply can schedule the publishing of the WP Post and it will then push to Telegram when it publishes.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">So far I'm quite happy and kudos to Irshad (@irshadahmad21) for a wonderful plugin and excellent support!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Very good plugin and better support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/balli10\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/076e5b05012ff4e806b92e8589977901?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/076e5b05012ff4e806b92e8589977901?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/balli10\/\" class=\"reviewer-name\">Baldvin Olafsson <small>(balli10)<\/small><\/a> on <span class=\"review-date\">February 7, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Plugin is working really good for what I wanted to use it for and what is better that they are very quick to answer and give support to any questions I have and help me resolve problems that I run into with my website and the plugin<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">maybe everything has changed for them<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/atapin\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/201330e08e08f379d50e313a32d9c46f?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/201330e08e08f379d50e313a32d9c46f?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/atapin\/\" class=\"reviewer-name\">atapin<\/a> on <span class=\"review-date\">January 30, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The answer is very fast, thank you.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I didn\u2019t really like the free version, but in order not to upset the author, he tried.<br \/>I'll try to buy the pro version or look for an alternative.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Excellent Support!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/nckai\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/0548adbb16fa8d4ec1decc925e922bf8?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/0548adbb16fa8d4ec1decc925e922bf8?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/nckai\/\" class=\"reviewer-name\">nckai<\/a> on <span class=\"review-date\">January 27, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Had problem with the plugin but the author solved in a very short time! He\/she was also super responsive and helpful!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great plugin for posting to telegram<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/zaryatv\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/e91c2a81facfac09a4727208bc772da4?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/e91c2a81facfac09a4727208bc772da4?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/zaryatv\/\" class=\"reviewer-name\">zaryatv<\/a> on <span class=\"review-date\">January 13, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Great plugin for posting to telegram. Telegram chat admin of this plugin helped in solving the problem. The plugin works, everything is fine.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">nice support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/ppbuzz\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/7910a085b0bade10fdd1bd3f412039b8?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/7910a085b0bade10fdd1bd3f412039b8?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/ppbuzz\/\" class=\"reviewer-name\">ppbuzz<\/a> on <span class=\"review-date\">December 9, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">i am a new user of this powerful plugin and i met some posting issues about this tool. so i got the help from the owner and he helped point out my wrong configuration. After correction, it functions rightly. Great thanks to him and wonderful support team!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">The best<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/olegfuture\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/7394512924eabfb6ba681f32a54577c6?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/7394512924eabfb6ba681f32a54577c6?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/olegfuture\/\" class=\"reviewer-name\">olegfuture<\/a> on <span class=\"review-date\">November 16, 2023<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I recently had the pleasure of using WP Telegram for my WordPress website, and I must say, it exceeded my expectations on multiple fronts.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">First and foremost, the customer support provided by WP Telegram is unparalleled. The support team is incredibly responsive and knowledgeable, assisting me promptly with any inquiries I had. What sets them apart is their commitment to resolving issues and providing clear, concise solutions. Their 24\/7 availability ensures that you're never left in the dark, making problem-solving a breeze.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">The plugin itself is a gem. Its extensive range of features impressed me, offering a comprehensive solution for integrating Telegram with my WordPress site. The ease of use and intuitive interface make it accessible for users of all levels, from beginners to seasoned developers. The plugin's versatility allows for seamless integration into various aspects of my site, enhancing user engagement and communication.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I highly recommend WP Telegram to anyone looking for a reliable, feature-rich plugin with exceptional customer support. It's a must-have for WordPress users seeking to streamline communication and leverage the power of Telegram. Kudos to the WP Telegram team for creating such a fantastic tool \u2014 it has undoubtedly made managing my website much more efficient and enjoyable.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Integrate your WordPress site perfectly with Telegram with full control.",
+    "description": "<p>Integrate your WordPress site perfectly with Telegram with full control.<\/p>\n<h3>Modules<\/h3>\n<p><strong>1. Post to Telegram<\/strong><\/p>\n<ul>\n<li>\ud83d\udcdd Send posts automatically to Telegram when published or updated<\/li>\n<li>\ud83d\udce2 You can send to a Telegram Channel, Group, Supergroup or private chat<\/li>\n<li>\ud83d\udc65 Supports multiple Channels\/chats<\/li>\n<li>\ud83d\ude42 Has Message Template composer with Emojis<\/li>\n<li>\u23f3 Supports Conditional logic inside Message Template<\/li>\n<li>\ud83d\uddbc Supports sending featured image along with the text<\/li>\n<li>\ud83c\udfde You can choose to send only the Featured Image<\/li>\n<li>\u23f1 Supports scheduled (future) posts<\/li>\n<li>\ud83d\udd70 Messages can be delayed by a specific interval<\/li>\n<li>\u2b1c\ufe0f You can add an Inline button for the post URL<\/li>\n<li>\ud83d\uded2 Supports WooCommerce products and other Custom Post Types<\/li>\n<li>\u2712\ufe0f Direct Support for sending Custom Fields<\/li>\n<li>\ud83d\uddc3 You can send Custom Taxonomy Terms<\/li>\n<li>\ud83d\udccb You can select the post types to be sent<\/li>\n<li>\u23f2 You can choose when to send (New and\/or existing posts)<\/li>\n<li>\ud83c\udf9b Make use of Custom Rules to filter posts by authors, categories, tags, post formats or custom taxonomy terms<\/li>\n<li>\ud83c\udf9a You can override the default settings on post edit page<\/li>\n<\/ul>\n<p><a href=\"https:\/\/wptelegram.pro\" rel=\"nofollow ugc\">WP Telegram Pro<\/a> supports multiple channels based upon category\/tag\/author\/post type etc. and also supports unlimited Reaction buttons.<\/p>\n<p><strong>2. Private Notifications<\/strong><\/p>\n<ul>\n<li>\ud83d\udce7 Get your email notifications on Telegram<\/li>\n<li>\ud83d\udd14 Supports <strong>WooCommerce<\/strong> order notifications, <strong>Contact Form 7<\/strong> and other plugin notifications<\/li>\n<li>\ud83d\udd15 Allow users to receive their email notifications on Telegram<\/li>\n<li>\ud83d\udd10 Integrated with <a href=\"https:\/\/wordpress.org\/plugins\/wptelegram-login\" rel=\"ugc\">WP Telegram Login<\/a> to let users connect their Telegram.<\/li>\n<li>\ud83d\udd8a Users can also enter their Telegram Chat ID manually on page<\/li>\n<\/ul>\n<p><strong>3. Proxy<\/strong><\/p>\n<ul>\n<li>\ud83d\udeab If your host blocks Telegram, you can use this module<\/li>\n<li>\u2705 Bypass the ban on Telegram by making use of proxy<\/li>\n<li>\ud83d\ude80 Supports <strong>Cloudflare worker as proxy<\/strong> which supports file upload<\/li>\n<li>\ud83d\ude0d Option to use custom <strong>Google Script as proxy<\/strong><\/li>\n<li>\u2747\ufe0f Supports all proxies supported by PHP<\/li>\n<li>\ud83d\udd1b You can select Proxy type &#8211; HTTP, SOCKS4, SOCKS4A, SOCKS5, SOCKS5_HOSTNAME<\/li>\n<\/ul>\n<h3>Features<\/h3>\n<ul>\n<li><strong>Excellent LIVE Support on Telegram<\/strong><\/li>\n<li>Easy to install and set up for the admin<\/li>\n<li>Fully customizable with actions and filters<\/li>\n<li>Can be extended with custom code<\/li>\n<li>Translation ready<\/li>\n<\/ul>\n<h4>Getting Started | Post to Telegram<\/h4>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/m48V-gWz9-o?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<h4>WooCommerce, CF7 etc. Notifications<\/h4>\n<p><span class=\"embed-youtube\" style=\"text-align:center; display: block;\"><iframe loading=\"lazy\" class=\"youtube-player\" width=\"640\" height=\"360\" src=\"https:\/\/www.youtube.com\/embed\/gVJCtwkorMA?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"><\/iframe><\/span><\/p>\n<h3>Contribution<\/h3>\n<p>Development takes place in our <a href=\"https:\/\/github.com\/wpsocio\/wp-projects\" rel=\"nofollow ugc\">Github monorepo<\/a>, and all contributions welcome.<\/p>\n<h3>Excellent LIVE Support on Telegram<\/h3>\n<h4>Join the Chat<\/h4>\n<p>We have a public group on Telegram to provide help setting up the plugin, discuss issues, features, translations etc. Join <a href=\"https:\/\/t.me\/WPTelegramChat\" rel=\"nofollow ugc\">@WPTelegramChat<\/a><br \/>\nFor rules, see the pinned message. No spam please.<\/p>\n<h4>Get in touch<\/h4>\n<ul>\n<li>Website <a href=\"https:\/\/wpsocio.com\" rel=\"nofollow ugc\">wpsocio.com<\/a><\/li>\n<li>Telegram <a href=\"https:\/\/t.me\/WPTelegram\" rel=\"nofollow ugc\">@WPTelegram<\/a><\/li>\n<li>Facebook <a href=\"https:\/\/fb.com\/WPTelegram\" rel=\"nofollow ugc\">@WPTelegram<\/a><\/li>\n<li>Twitter <a href=\"https:\/\/twitter.com\/WPTelegram\" rel=\"nofollow ugc\">@WPTelegram<\/a><\/li>\n<\/ul>\n<h4>Upgrade to Pro<\/h4>\n<p>WP Telegram Pro comes with more powerful features to give you more control. <a href=\"https:\/\/wptelegram.pro\" rel=\"nofollow ugc\">Upgrade NOW<\/a><\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.1.5.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-1.png?rev=3030856",
+            "caption": "Basic Settings"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-2.png?rev=3030856",
+            "caption": "Post To Telegram Settings"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-3.png?rev=3030856",
+            "caption": "Post To Telegram Settings (Cont...)"
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-4.png?rev=3030856",
+            "caption": "Post To Telegram Settings (Cont...)"
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-5.png?rev=3030856",
+            "caption": "Post To Telegram Settings (Cont...)"
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-6.png?rev=3030856",
+            "caption": "Private Notifications Settings"
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-7.png?rev=3030856",
+            "caption": "Private Notifications Settings (Cont...)"
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-8.png?rev=3030856",
+            "caption": "Proxy Settings"
+        },
+        "9": {
+            "src": "https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-9.png?rev=3030856",
+            "caption": "Proxy Settings (Cont...)"
+        },
+        "10": {
+            "src": "https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-10.png?rev=3030856",
+            "caption": "Proxy Settings (Cont...)"
+        },
+        "11": {
+            "src": "https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-11.png?rev=3030856",
+            "caption": "Advanced Settings"
+        },
+        "12": {
+            "src": "https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-12.png?rev=3030856",
+            "caption": "Post Edit Page (Classic Editor)"
+        },
+        "13": {
+            "src": "https:\/\/ps.w.org\/wptelegram\/assets\/screenshot-13.png?rev=3030856",
+            "caption": "Post Edit Page (Block Editor)"
+        }
+    },
+    "tags": {
+        "channel": "channel",
+        "group": "group",
+        "notifications": "Notifications",
+        "posts": "posts",
+        "telegram": "telegram"
+    },
+    "stable_tag": "4.1.5",
+    "versions": {
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.0.4.zip",
+        "1.0.5": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.0.5.zip",
+        "1.0.6": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.0.6.zip",
+        "1.0.8": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.0.8.zip",
+        "1.0.9": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.0.9.zip",
+        "1.1.0": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.1.0.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.2.0.zip",
+        "1.3.0": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.3.0.zip",
+        "1.3.1": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.3.1.zip",
+        "1.3.2": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.3.2.zip",
+        "1.3.3": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.3.3.zip",
+        "1.3.4": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.3.4.zip",
+        "1.3.5": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.3.5.zip",
+        "1.3.6": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.3.6.zip",
+        "1.3.7": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.3.7.zip",
+        "1.3.8": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.3.8.zip",
+        "1.4": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.4.zip",
+        "1.4.1": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.4.1.zip",
+        "1.4.2": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.4.2.zip",
+        "1.4.3": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.4.3.zip",
+        "1.5.0": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.5.0.zip",
+        "1.5.1": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.5.1.zip",
+        "1.5.2": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.5.2.zip",
+        "1.5.3": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.5.3.zip",
+        "1.5.4": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.5.4.zip",
+        "1.5.6": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.5.6.zip",
+        "1.5.7": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.5.7.zip",
+        "1.6.0": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.6.0.zip",
+        "1.6.1": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.6.1.zip",
+        "1.6.2": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.6.2.zip",
+        "1.6.3": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.6.3.zip",
+        "1.6.4": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.6.4.zip",
+        "1.6.5": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.6.5.zip",
+        "1.7.0": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.7.0.zip",
+        "1.7.2": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.7.2.zip",
+        "1.7.3": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.7.3.zip",
+        "1.7.4": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.7.4.zip",
+        "1.7.5": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.7.5.zip",
+        "1.7.6": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.7.6.zip",
+        "1.7.7": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.7.7.zip",
+        "1.7.8": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.7.8.zip",
+        "1.7.9": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.7.9.zip",
+        "1.8.0": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.8.0.zip",
+        "1.8.1": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.8.1.zip",
+        "1.8.2": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.8.2.zip",
+        "1.8.3": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.8.3.zip",
+        "1.9.0": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.9.0.zip",
+        "1.9.1": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.9.1.zip",
+        "1.9.2": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.9.2.zip",
+        "1.9.3": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.9.3.zip",
+        "1.9.4": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.1.9.4.zip",
+        "2.0.0": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.0.0.zip",
+        "2.0.1": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.0.1.zip",
+        "2.0.10": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.0.10.zip",
+        "2.0.11": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.0.11.zip",
+        "2.0.12": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.0.12.zip",
+        "2.0.13": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.0.13.zip",
+        "2.0.14": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.0.14.zip",
+        "2.0.15": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.0.15.zip",
+        "2.0.16": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.0.16.zip",
+        "2.0.19": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.0.19.zip",
+        "2.0.2": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.0.2.zip",
+        "2.0.3": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.0.3.zip",
+        "2.0.4": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.0.4.zip",
+        "2.0.5": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.0.5.zip",
+        "2.0.6": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.0.6.zip",
+        "2.0.7": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.0.7.zip",
+        "2.0.8": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.0.8.zip",
+        "2.0.9": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.0.9.zip",
+        "2.1.0": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.1.0.zip",
+        "2.1.1": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.1.1.zip",
+        "2.1.10": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.1.10.zip",
+        "2.1.11": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.1.11.zip",
+        "2.1.12": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.1.12.zip",
+        "2.1.13": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.1.13.zip",
+        "2.1.14": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.1.14.zip",
+        "2.1.15": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.1.15.zip",
+        "2.1.2": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.1.2.zip",
+        "2.1.3": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.1.3.zip",
+        "2.1.4": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.1.4.zip",
+        "2.1.5": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.1.5.zip",
+        "2.1.6": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.1.6.zip",
+        "2.1.7": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.1.7.zip",
+        "2.1.8": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.1.8.zip",
+        "2.1.9": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.1.9.zip",
+        "2.2.0": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.2.0.zip",
+        "2.2.1": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.2.1.zip",
+        "2.2.2": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.2.2.zip",
+        "2.2.3": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.2.3.zip",
+        "2.2.4": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.2.4.zip",
+        "2.2.5": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.2.2.5.zip",
+        "3.0.0": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.0.0.zip",
+        "3.0.1": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.0.1.zip",
+        "3.0.10": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.0.10.zip",
+        "3.0.11": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.0.11.zip",
+        "3.0.2": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.0.2.zip",
+        "3.0.3": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.0.3.zip",
+        "3.0.4": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.0.4.zip",
+        "3.0.5": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.0.5.zip",
+        "3.0.6": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.0.6.zip",
+        "3.0.7": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.0.7.zip",
+        "3.0.8": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.0.8.zip",
+        "3.0.9": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.0.9.zip",
+        "3.1.0": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.1.0.zip",
+        "3.1.1": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.1.1.zip",
+        "3.1.10": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.1.10.zip",
+        "3.1.11": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.1.11.zip",
+        "3.1.12": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.1.12.zip",
+        "3.1.13": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.1.13.zip",
+        "3.1.14": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.1.14.zip",
+        "3.1.15": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.1.15.zip",
+        "3.1.2": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.1.2.zip",
+        "3.1.3": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.1.3.zip",
+        "3.1.4": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.1.4.zip",
+        "3.1.5": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.1.5.zip",
+        "3.1.6": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.1.6.zip",
+        "3.1.7": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.1.7.zip",
+        "3.1.8": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.1.8.zip",
+        "3.1.9": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.1.9.zip",
+        "3.2.0": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.2.0.zip",
+        "3.2.2": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.3.2.2.zip",
+        "4.0.0": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.0.0.zip",
+        "4.0.1": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.0.1.zip",
+        "4.0.10": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.0.10.zip",
+        "4.0.11": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.0.11.zip",
+        "4.0.12": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.0.12.zip",
+        "4.0.13": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.0.13.zip",
+        "4.0.14": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.0.14.zip",
+        "4.0.15": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.0.15.zip",
+        "4.0.16": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.0.16.zip",
+        "4.0.17": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.0.17.zip",
+        "4.0.18": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.0.18.zip",
+        "4.0.19": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.0.19.zip",
+        "4.0.2": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.0.2.zip",
+        "4.0.20": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.0.20.zip",
+        "4.0.3": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.0.3.zip",
+        "4.0.4": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.0.4.zip",
+        "4.0.5": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.0.5.zip",
+        "4.0.6": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.0.6.zip",
+        "4.0.7": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.0.7.zip",
+        "4.0.8": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.0.8.zip",
+        "4.0.9": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.0.9.zip",
+        "4.1.0": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.1.0.zip",
+        "4.1.1": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.1.1.zip",
+        "4.1.2": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.1.2.zip",
+        "4.1.3": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.1.3.zip",
+        "4.1.4": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.1.4.zip",
+        "4.1.5": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.4.1.5.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/wptelegram.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/wpsocio.com\/donate",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/wptelegram\/assets\/banner-772x250.png?rev=2500018",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/wptelegram\/assets\/icon-128x128.png?rev=2500018",
+        "2x": "https:\/\/ps.w.org\/wptelegram\/assets\/icon-256x256.png?rev=2500018"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [
+        {
+            "filename": "blueprint.json",
+            "url": "https:\/\/wordpress.org\/plugins\/wp-json\/plugins\/v1\/plugin\/wptelegram\/blueprint.json?rev=3070716"
+        }
+    ],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "wptelegram",
+            "language": "ar",
+            "version": "4.1.5",
+            "updated": "2020-08-02 16:16:01",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wptelegram\/4.1.5\/ar.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wptelegram",
+            "language": "ca",
+            "version": "4.1.5",
+            "updated": "2022-09-05 14:03:09",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wptelegram\/4.1.5\/ca.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wptelegram",
+            "language": "de_DE",
+            "version": "4.1.5",
+            "updated": "2024-03-13 13:29:24",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wptelegram\/4.1.5\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wptelegram",
+            "language": "de_DE_formal",
+            "version": "4.1.5",
+            "updated": "2024-03-13 13:28:37",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wptelegram\/4.1.5\/de_DE_formal.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wptelegram",
+            "language": "es_CO",
+            "version": "4.1.5",
+            "updated": "2022-03-28 06:29:17",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wptelegram\/4.1.5\/es_CO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wptelegram",
+            "language": "es_EC",
+            "version": "4.1.5",
+            "updated": "2022-03-28 06:30:00",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wptelegram\/4.1.5\/es_EC.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wptelegram",
+            "language": "es_MX",
+            "version": "4.1.5",
+            "updated": "2021-05-30 19:59:35",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wptelegram\/4.1.5\/es_MX.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wptelegram",
+            "language": "es_ES",
+            "version": "4.1.5",
+            "updated": "2024-02-05 12:56:35",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wptelegram\/4.1.5\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wptelegram",
+            "language": "es_VE",
+            "version": "4.1.5",
+            "updated": "2022-03-28 06:29:43",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wptelegram\/4.1.5\/es_VE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wptelegram",
+            "language": "fa_IR",
+            "version": "4.1.5",
+            "updated": "2022-10-29 15:32:13",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wptelegram\/4.1.5\/fa_IR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wptelegram",
+            "language": "nl_NL",
+            "version": "4.1.5",
+            "updated": "2024-02-20 11:26:20",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wptelegram\/4.1.5\/nl_NL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wptelegram",
+            "language": "pl_PL",
+            "version": "4.1.5",
+            "updated": "2024-03-11 19:34:43",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wptelegram\/4.1.5\/pl_PL.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wptelegram",
+            "language": "pt_BR",
+            "version": "4.1.5",
+            "updated": "2021-09-16 03:03:37",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wptelegram\/4.1.5\/pt_BR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wptelegram",
+            "language": "ru_RU",
+            "version": "4.1.5",
+            "updated": "2024-03-23 09:09:36",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wptelegram\/4.1.5\/ru_RU.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "wptelegram",
+            "language": "uk",
+            "version": "4.1.5",
+            "updated": "2024-03-11 17:33:30",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/wptelegram\/4.1.5\/uk.zip"
+        }
+    ]
+}

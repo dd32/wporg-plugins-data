@@ -1,0 +1,87 @@
+{
+    "name": "BP Devolved Authority",
+    "slug": "bp-devolved-authority",
+    "version": "1.0.3",
+    "author": "<a href=\"https:\/\/buddyuser.com\">Venutius<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/venutius\/",
+    "contributors": {
+        "venutius": {
+            "profile": "https:\/\/profiles.wordpress.org\/venutius\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/6a7c42a77fd94b82b217a7a97afdddbc?s=96&d=monsterid&r=g",
+            "display_name": "Venutius"
+        }
+    },
+    "requires": false,
+    "tested": false,
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/bp-devolved-authority\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 30,
+    "downloaded": 1293,
+    "last_updated": "2024-03-13 5:36pm GMT",
+    "added": "2019-03-29",
+    "homepage": "https:\/\/wordpress.org\/plugins\/bp-devolved-authority\/",
+    "sections": {
+        "description": "<p>BP Devolved Authority allows site administrators to devolve the ability to manage Groups, Activity, Members and Emails to other site members.<\/p>\n<p>BuddyPress has not traditionally allowed site administrators to grant authority to manage aspect of BuddyPress to users without &#8216;manage_options&#8217; capability. This plugin changes that and allows each of the BP Components to be managed by site members so long as they have the &#8216;edit_posts&#8217; capability.<\/p>\n<p>Note that roles allowed to manage members should also have the &#8216;list_users&#8217; capability, this allows the users list menu item to be displayed in the dashboard for that member.<\/p>\n<p>Once the plugin is activated, visit the Settings&gt;&gt;BP Devolved Authority page to choose which roles can manage your BP Components.<\/p>\n<p>This plugin needs BuddyPress to work.<\/p>\n",
+        "installation": "<ol>\n<li>Upload the full directory into your wp-content\/plugins directory<\/li>\n<li>Activate the plugin at the plugin administration page<\/li>\n<li>Adjust settings via the BP Devolved Authority admin page<\/li>\n<\/ol>\n",
+        "faq": "<p>Why is this plugin required?<\/p>\n<p>One of the design features of BuddyPress is that only people with administration capabilities can manage BuddyPress features such as groups or users.<br \/>\nThis gives site admin a bit of a headache, considering the power of the admin user, compared to the simple BP tasks they may want a member to do.<br \/>\nTo help with this, we have created this plugin to allow any user with any role to be assigned as a manager of a specific BuddyPress feature.<\/p>\n<p>How does this plugin work?<\/p>\n<p>This plugin assigns the ability to manage, for example, BP Groups, to any other role, even one you created using a user role editor.<br \/>\nAny user assigned that role will then be able to manage that specific BP feature.<\/p>\n",
+        "changelog": "<h4>1.0.3<\/h4>\n<ul>\n<li>\n<p>13\/03\/2024<\/p>\n<\/li>\n<li>\n<p>Update: No specific updates required. refeshing for WP 6.4.3.<\/p>\n<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>\n<p>10\/02\/2021<\/p>\n<\/li>\n<li>\n<p>Fix: Translation improvements<\/p>\n<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>\n<p>07\/01\/2021<\/p>\n<\/li>\n<li>\n<p>Fix: Corrected error with text_domain.<\/p>\n<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Initial Release.<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/bp-devolved-authority\/assets\/screenshot-1.jpg?rev=2059629\"><img src=\"https:\/\/ps.w.org\/bp-devolved-authority\/assets\/screenshot-1.jpg?rev=2059629\" alt=\"screenshot-1.png - Plugin Settings page.\"><\/a><p>screenshot-1.png - Plugin Settings page.<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "This plugin allows key aspects of BuddyPress administration to be devolved to non admin users.",
+    "description": "<p>BP Devolved Authority allows site administrators to devolve the ability to manage Groups, Activity, Members and Emails to other site members.<\/p>\n<p>BuddyPress has not traditionally allowed site administrators to grant authority to manage aspect of BuddyPress to users without &#8216;manage_options&#8217; capability. This plugin changes that and allows each of the BP Components to be managed by site members so long as they have the &#8216;edit_posts&#8217; capability.<\/p>\n<p>Note that roles allowed to manage members should also have the &#8216;list_users&#8217; capability, this allows the users list menu item to be displayed in the dashboard for that member.<\/p>\n<p>Once the plugin is activated, visit the Settings&gt;&gt;BP Devolved Authority page to choose which roles can manage your BP Components.<\/p>\n<p>This plugin needs BuddyPress to work.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/bp-devolved-authority.1.0.3.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/bp-devolved-authority\/assets\/screenshot-1.jpg?rev=2059629",
+            "caption": "screenshot-1.png - Plugin Settings page."
+        }
+    },
+    "tags": {
+        "administrator": "administrator",
+        "bp_moderate": "bp_moderate",
+        "buddypress": "buddypress",
+        "devolved-authority": "devolved authority"
+    },
+    "stable_tag": "1.0.3",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/bp-devolved-authority.1.0.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/bp-devolved-authority.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/bp-devolved-authority.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/bp-devolved-authority.1.0.3.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/bp-devolved-authority.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/paypal.me\/GeorgeChaplin",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/bp-devolved-authority\/assets\/banner-772x250.jpg?rev=2059629",
+        "high": false
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/bp-devolved-authority\/assets\/icon-256x256.png?rev=2059630",
+        "2x": "https:\/\/ps.w.org\/bp-devolved-authority\/assets\/icon-256x256.png?rev=2059630"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

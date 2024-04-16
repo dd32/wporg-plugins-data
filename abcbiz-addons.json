@@ -1,0 +1,103 @@
+{
+    "name": "ABCBiz Multi Addons for Elementor",
+    "slug": "abcbiz-addons",
+    "version": "1.0.5",
+    "author": "<a href=\"http:\/\/www.supreox.com\/\">SupreoX Limited<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/atiqbd4ever\/",
+    "contributors": {
+        "atiqbd4ever": {
+            "profile": "https:\/\/profiles.wordpress.org\/atiqbd4ever\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/f3869dcad6e15dfc46e75237113443f8?s=96&d=monsterid&r=g",
+            "display_name": "Atiqur Rahman"
+        },
+        "supreoxltd": {
+            "profile": "https:\/\/profiles.wordpress.org\/supreoxltd\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/f3d5e35c4972a04ff3e09796366c24cd?s=96&d=monsterid&r=g",
+            "display_name": "SupreoX Limited"
+        },
+        "abcplugins": {
+            "profile": "https:\/\/profiles.wordpress.org\/abcplugins\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/0773998843c65c8f535a654761831886?s=96&d=monsterid&r=g",
+            "display_name": "ABC Plugins"
+        }
+    },
+    "requires": "6.0",
+    "tested": "6.5.2",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 2,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 2,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/abcbiz-addons\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 10,
+    "downloaded": 400,
+    "last_updated": "2024-03-23 8:54am GMT",
+    "added": "2024-02-15",
+    "homepage": "https:\/\/abcbizaddons.com\/abcbiz-multi-addons-for-elementor\/",
+    "sections": {
+        "description": "<p>Welcome to <strong><a href=\"https:\/\/abcbizaddons.com\/\" rel=\"nofollow ugc\">ABCBiz Addons<\/a><\/strong>, your go-to treasure chest for all things Elementor! Boasting a lineup of more than <strong>50 meticulously designed widgets<\/strong>, we&#8217;re here to take your web designing experience to the next level. Our toolkit is perfect for anyone looking to create anything from a professional business website to an artistic portfolio. At ABCBiz Addons, we prioritize ease of use, smooth integration, and the flexibility to customize every detail to match your unique vision. Get ready to transform your ideas into reality with the ultimate tools at your fingertips!<\/p>\n<h3>Useful Links<\/h3>\n<p><a href=\"https:\/\/abcbizaddons.com\/abcbiz-multi-addons-for-elementor\/\" rel=\"nofollow ugc\">Demo<\/a> | <a href=\"https:\/\/abcbizaddons.com\/documentation\/\" rel=\"nofollow ugc\">Documentation<\/a> | <a href=\"https:\/\/abcbizaddons.com\/contact-us\/\" rel=\"nofollow ugc\">Support<\/a><\/p>\n<h3>Widget List: 60 Available Widgets<\/h3>\n<ul>\n<li>Advanced Animated Text (new)<\/li>\n<li>Advanced Circular Skill<\/li>\n<li>Advanced Icon Box<\/li>\n<li>Advanced Pricing Table<\/li>\n<li>Animated Shape<\/li>\n<li>Archive Title<\/li>\n<li>Back To Top<\/li>\n<li>Before After Image<\/li>\n<li>Blockquote<\/li>\n<li>Blog Posts Grid<\/li>\n<li>Blog Posts List<\/li>\n<li>Breadcrumb<\/li>\n<li>Business Hours<\/li>\n<li>Call To Action &#8211; CTA<\/li>\n<li>Card Info Box<\/li>\n<li>Comment Form<\/li>\n<li>Contact &amp; Social Info<\/li>\n<li>Contact Form 7 Style<\/li>\n<li>Counter Up<\/li>\n<li>Count Down Timer (New)<\/li>\n<li>Dual Button<\/li>\n<li>Fancy Blog Posts<\/li>\n<li>Featured Image<\/li>\n<li>Flip Box<\/li>\n<li>Image Hover<\/li>\n<li>Image and Text Scroll (new)<\/li>\n<li>Page Title<\/li>\n<li>Popup<\/li>\n<li>Portfolio<\/li>\n<li>Post Author Bio<\/li>\n<li>Post Category List<\/li>\n<li>Post Meta Info<\/li>\n<li>Post Tag Info<\/li>\n<li>Post Title<\/li>\n<li>Recent Posts List<\/li>\n<li>Related Posts<\/li>\n<li>Search Form<\/li>\n<li>Search Icon<\/li>\n<li>Section Title<\/li>\n<li>Single Image Scroll (new)<\/li>\n<li>Site Logo<\/li>\n<li>Site Title &amp; Tagline<\/li>\n<li>Skill Bar<\/li>\n<li>Social Share<\/li>\n<li>Team Member<\/li>\n<li>Testimonial Carousel<\/li>\n<li>WordPress Menu<\/li>\n<\/ul>\n<h3>WooCommerce Widgets<\/h3>\n<ul>\n<li>Add to Cart<\/li>\n<li>Product Image<\/li>\n<li>Product Meta<\/li>\n<li>Product Pricing<\/li>\n<li>Product Short Description<\/li>\n<li>Product Tabs Data<\/li>\n<li>Product Title<\/li>\n<li>Related Product<\/li>\n<li>Cart Icon<\/li>\n<li>Checkout Page<\/li>\n<li>Cart Page<\/li>\n<li>My Account<\/li>\n<li>Product BreadCrumb<\/li>\n<\/ul>\n<h3>Why Choose ABCBiz Addons?<\/h3>\n<p>With <strong><a href=\"https:\/\/abcbizaddons.com\/\" rel=\"nofollow ugc\">ABCBiz Addons<\/a><\/strong>, you\u2019ll access a treasure trove of design options, enhancing your creativity and saving time. Our widgets are feature-rich, user-friendly, and regularly updated to ensure compatibility with the latest WordPress and Elementor versions. Plus, our dedicated support team is always ready to assist you with any queries or issues. Elevate your web design experience and unlock boundless possibilities with <strong>ABCBiz Addons<\/strong>.<\/p>\n",
+        "faq": "\n<dt id='can%20i%20manage%20widgets%20directly%20from%20the%20backend%3F'>\nCan I manage widgets directly from the backend?\n<\/h4>\n<p>\n<p>Absolutely! You have the flexibility to show or hide any widget from the backend, giving you full control over your site&#8217;s layout and functionality.<\/p>\n<\/p>\n<dt id='how%20many%20widgets%20does%20your%20plugin%20include%3F'>\nHow many widgets does your plugin include?\n<\/h4>\n<p>\n<p>As of now, our collection boasts 53 widgets, and we&#8217;re constantly expanding our selection to offer you even more creative possibilities.<\/p>\n<\/p>\n<dt id='is%20it%20possible%20to%20build%20a%20complete%20website%20with%20this%20plugin%3F'>\nIs it possible to build a complete website with this plugin?\n<\/h4>\n<p>\n<p>Yes, for the most part. With our suite of 53 customizable widgets, you&#8217;re well-equipped to craft various web pages, making it feasible to construct an entire website using just our plugin.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.5 &#8211; 23 March 2024<\/h4>\n<ul>\n<li>Tow New Widgets added<\/li>\n<li>Site Logo<\/li>\n<li>Site Title and Tagline<\/li>\n<\/ul>\n<h4>1.0.4 &#8211; 19 March 2024<\/h4>\n<ul>\n<li>Tow New Widgets added<\/li>\n<li>Single Image Scroll Widget Added<\/li>\n<li>Image and Text Scroll Widget Added<\/li>\n<\/ul>\n<h4>1.0.3 &#8211; 27 February 2024<\/h4>\n<ul>\n<li>Tow New Widgets added<\/li>\n<li>Count Down Timer Widget Added<\/li>\n<li>Animated Text Widget Added<\/li>\n<\/ul>\n<h4>1.0.2 &#8211; 20 February 2024<\/h4>\n<ul>\n<li>New widget Card Info Box added<\/li>\n<li>New widget Before After Image Compare added<\/li>\n<li>Compatibility with PHP 7.4<\/li>\n<\/ul>\n<h4>1.0.1 &#8211; 16 February 2024<\/h4>\n<ul>\n<li>2 New widgets added<\/li>\n<li>Business Hours Widget added<\/li>\n<li>Popup Widget added<\/li>\n<\/ul>\n<h4>1.0.0 &#8211; 15 February 2024<\/h4>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/abcbiz-addons\/assets\/screenshot-1.png?rev=3036738\"><img src=\"https:\/\/ps.w.org\/abcbiz-addons\/assets\/screenshot-1.png?rev=3036738\" alt=\"Backend View, Display required widgets\"><\/a><p>Backend View, Display required widgets<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/abcbiz-addons\/assets\/screenshot-2.png?rev=3036598\"><img src=\"https:\/\/ps.w.org\/abcbiz-addons\/assets\/screenshot-2.png?rev=3036598\" alt=\"Stylish Icon Box or Service Box.\"><\/a><p>Stylish Icon Box or Service Box.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/abcbiz-addons\/assets\/screenshot-3.png?rev=3036742\"><img src=\"https:\/\/ps.w.org\/abcbiz-addons\/assets\/screenshot-3.png?rev=3036742\" alt=\"Advanced Pricing Table\"><\/a><p>Advanced Pricing Table<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Amazing Addon<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/hmbashar\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/4e02acf23e8eb0c2818e27d32fa76d9c?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/4e02acf23e8eb0c2818e27d32fa76d9c?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/hmbashar\/\" class=\"reviewer-name\">Md Abul Bashar <small>(hmbashar)<\/small><\/a> on <span class=\"review-date\">February 28, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">After using this amazing plugin on my website, I was able to incorporate several stunning widgets into my Elementor project.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great Plugin to use for my website<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/nahid1988\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/9d091571bb50d50e37a9e2449533e3c2?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/9d091571bb50d50e37a9e2449533e3c2?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/nahid1988\/\" class=\"reviewer-name\">nahid1988<\/a> on <span class=\"review-date\">February 27, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I have been using this plugin for the last few days, looks great to me! Easy to use and has many widgets free to use whereas other plugins are provided in the pro version. I feel happy to use it for my website \u2764<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Welcome to ABCBiz Addons, your go-to treasure chest for all things Elementor! Boasting a lineup of more than 50 meticulously designed widgets, we&amp;#039 &hellip;",
+    "description": "<p>Welcome to <strong><a href=\"https:\/\/abcbizaddons.com\/\" rel=\"nofollow ugc\">ABCBiz Addons<\/a><\/strong>, your go-to treasure chest for all things Elementor! Boasting a lineup of more than <strong>50 meticulously designed widgets<\/strong>, we&#8217;re here to take your web designing experience to the next level. Our toolkit is perfect for anyone looking to create anything from a professional business website to an artistic portfolio. At ABCBiz Addons, we prioritize ease of use, smooth integration, and the flexibility to customize every detail to match your unique vision. Get ready to transform your ideas into reality with the ultimate tools at your fingertips!<\/p>\n<h3>Useful Links<\/h3>\n<p><a href=\"https:\/\/abcbizaddons.com\/abcbiz-multi-addons-for-elementor\/\" rel=\"nofollow ugc\">Demo<\/a> | <a href=\"https:\/\/abcbizaddons.com\/documentation\/\" rel=\"nofollow ugc\">Documentation<\/a> | <a href=\"https:\/\/abcbizaddons.com\/contact-us\/\" rel=\"nofollow ugc\">Support<\/a><\/p>\n<h3>Widget List: 60 Available Widgets<\/h3>\n<ul>\n<li>Advanced Animated Text (new)<\/li>\n<li>Advanced Circular Skill<\/li>\n<li>Advanced Icon Box<\/li>\n<li>Advanced Pricing Table<\/li>\n<li>Animated Shape<\/li>\n<li>Archive Title<\/li>\n<li>Back To Top<\/li>\n<li>Before After Image<\/li>\n<li>Blockquote<\/li>\n<li>Blog Posts Grid<\/li>\n<li>Blog Posts List<\/li>\n<li>Breadcrumb<\/li>\n<li>Business Hours<\/li>\n<li>Call To Action &#8211; CTA<\/li>\n<li>Card Info Box<\/li>\n<li>Comment Form<\/li>\n<li>Contact &amp; Social Info<\/li>\n<li>Contact Form 7 Style<\/li>\n<li>Counter Up<\/li>\n<li>Count Down Timer (New)<\/li>\n<li>Dual Button<\/li>\n<li>Fancy Blog Posts<\/li>\n<li>Featured Image<\/li>\n<li>Flip Box<\/li>\n<li>Image Hover<\/li>\n<li>Image and Text Scroll (new)<\/li>\n<li>Page Title<\/li>\n<li>Popup<\/li>\n<li>Portfolio<\/li>\n<li>Post Author Bio<\/li>\n<li>Post Category List<\/li>\n<li>Post Meta Info<\/li>\n<li>Post Tag Info<\/li>\n<li>Post Title<\/li>\n<li>Recent Posts List<\/li>\n<li>Related Posts<\/li>\n<li>Search Form<\/li>\n<li>Search Icon<\/li>\n<li>Section Title<\/li>\n<li>Single Image Scroll (new)<\/li>\n<li>Site Logo<\/li>\n<li>Site Title &amp; Tagline<\/li>\n<li>Skill Bar<\/li>\n<li>Social Share<\/li>\n<li>Team Member<\/li>\n<li>Testimonial Carousel<\/li>\n<li>WordPress Menu<\/li>\n<\/ul>\n<h3>WooCommerce Widgets<\/h3>\n<ul>\n<li>Add to Cart<\/li>\n<li>Product Image<\/li>\n<li>Product Meta<\/li>\n<li>Product Pricing<\/li>\n<li>Product Short Description<\/li>\n<li>Product Tabs Data<\/li>\n<li>Product Title<\/li>\n<li>Related Product<\/li>\n<li>Cart Icon<\/li>\n<li>Checkout Page<\/li>\n<li>Cart Page<\/li>\n<li>My Account<\/li>\n<li>Product BreadCrumb<\/li>\n<\/ul>\n<h3>Why Choose ABCBiz Addons?<\/h3>\n<p>With <strong><a href=\"https:\/\/abcbizaddons.com\/\" rel=\"nofollow ugc\">ABCBiz Addons<\/a><\/strong>, you\u2019ll access a treasure trove of design options, enhancing your creativity and saving time. Our widgets are feature-rich, user-friendly, and regularly updated to ensure compatibility with the latest WordPress and Elementor versions. Plus, our dedicated support team is always ready to assist you with any queries or issues. Elevate your web design experience and unlock boundless possibilities with <strong>ABCBiz Addons<\/strong>.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/abcbiz-addons.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/abcbiz-addons\/assets\/screenshot-1.png?rev=3036738",
+            "caption": "Backend View, Display required widgets"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/abcbiz-addons\/assets\/screenshot-2.png?rev=3036598",
+            "caption": "Stylish Icon Box or Service Box."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/abcbiz-addons\/assets\/screenshot-3.png?rev=3036742",
+            "caption": "Advanced Pricing Table"
+        }
+    },
+    "tags": {
+        "elementor": "elementor",
+        "elementor-addons": "elementor addons",
+        "elementor-widgets": "elementor widgets",
+        "widgets": "widgets",
+        "wordpress": "WordPress"
+    },
+    "stable_tag": "trunk",
+    "versions": {
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/abcbiz-addons.1.0.2.zip",
+        "1.0.3": "https:\/\/downloads.wordpress.org\/plugin\/abcbiz-addons.1.0.3.zip",
+        "1.0.4": "https:\/\/downloads.wordpress.org\/plugin\/abcbiz-addons.1.0.4.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/www.paypal.com\/donate\/?hosted_button_id=AFMAVLDRP26K4",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/abcbiz-addons\/assets\/banner-772x250.jpg?rev=3036742",
+        "high": "https:\/\/ps.w.org\/abcbiz-addons\/assets\/banner-1544x500.jpg?rev=3036742"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/abcbiz-addons\/assets\/icon-128x128.png?rev=3036742",
+        "2x": "https:\/\/ps.w.org\/abcbiz-addons\/assets\/icon-256x256.png?rev=3036742"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

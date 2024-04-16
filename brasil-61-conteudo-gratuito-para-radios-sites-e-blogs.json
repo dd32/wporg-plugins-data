@@ -1,0 +1,99 @@
+{
+    "name": "Brasil 61 &#8211; Conte\u00fado gratuito para r\u00e1dios, sites e blogs.",
+    "slug": "brasil-61-conteudo-gratuito-para-radios-sites-e-blogs",
+    "version": "1.0.2.1",
+    "author": "<a href=\"https:\/\/brasil61.com\/\">Brasil 61<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/brasil61\/",
+    "contributors": {
+        "marchezetti": {
+            "profile": "https:\/\/profiles.wordpress.org\/marchezetti\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3d360b3cf2f39b278fb16195bd5e0532?s=96&d=monsterid&r=g",
+            "display_name": "Guilherme Marchezetti"
+        }
+    },
+    "requires": "5.2",
+    "tested": "6.4.4",
+    "requires_php": "7.2",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/brasil-61-conteudo-gratuito-para-radios-sites-e-blogs\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 40,
+    "downloaded": 994,
+    "last_updated": "2024-02-23 2:03pm GMT",
+    "added": "2024-01-31",
+    "homepage": "https:\/\/brasil61.com\/quem-somos",
+    "sections": {
+        "description": "<p>O Brasil 61 fornece diariamente conte\u00fados radiof\u00f4nicos e em texto web para comunicadores de r\u00e1dio e m\u00eddias digitais online de todo o Brasil. Todos os conte\u00fados s\u00e3o gratuitos, livres para veicula\u00e7\u00e3o, e tratam de tem\u00e1ticas regionalizadas e informa\u00e7\u00f5es estrat\u00e9gicas para os munic\u00edpios, como repasses de recursos federais para as prefeituras de todo o pa\u00eds.<\/p>\n<p>Agora, voc\u00ea pode manter um site que se atualiza automaticamente, com novos conte\u00fados di\u00e1rios. A melhor parte? O plugin do Brasil 61 \u00e9 gratuito e vai te ajudar a impulsionar seu marketing de conte\u00fado, a melhorar o seu SEO, a aumentar o envolvimento do seu p\u00fablico e trazer mais visualiza\u00e7\u00f5es. Tudo isso pode trazer um maior ganho financeiro para seu ve\u00edculo.<\/p>\n<p>Experimente o plugin do Brasil 61 hoje mesmo!<\/p>\n<h4>Confira a seguir nossos principais editoriais:<\/h4>\n<ul>\n<li><a href=\"https:\/\/brasil61.com\/tempo\" rel=\"nofollow ugc\">Tempo<\/a><\/li>\n<li><a href=\"https:\/\/brasil61.com\/agronegocios\" rel=\"nofollow ugc\">Agro<\/a><\/li>\n<li><a href=\"https:\/\/brasil61.com\/saude\" rel=\"nofollow ugc\">Sa\u00fade<\/a><\/li>\n<li><a href=\"https:\/\/brasil61.com\/noticias\/tag\/fpm\" rel=\"nofollow ugc\">FPM<\/a><\/li>\n<li><a href=\"https:\/\/brasil61.com\/noticias\/tag\/cfem\" rel=\"nofollow ugc\">CFEM<\/a><\/li>\n<li><a href=\"https:\/\/brasil61.com\/politica\" rel=\"nofollow ugc\">Pol\u00edtica<\/a><\/li>\n<li><a href=\"https:\/\/brasil61.com\/economia\" rel=\"nofollow ugc\">Economia<\/a><\/li>\n<li><a href=\"https:\/\/brasil61.com\/meio-ambiente\" rel=\"nofollow ugc\">Meio Ambiente<\/a><\/li>\n<li><a href=\"https:\/\/brasil61.com\/educacao\" rel=\"nofollow ugc\">Educa\u00e7\u00e3o<\/a><\/li>\n<li><a href=\"https:\/\/brasil61.com\/cultura\" rel=\"nofollow ugc\">Cultura<\/a><\/li>\n<\/ul>\n",
+        "installation": "<p>A instala\u00e7\u00e3o do plugin \u00e9 simples. Basta acessar a aba &#8220;Plugins &gt; Instalar novo&#8221; no seu painel administrativo do WordPress e buscar pelo plugin &#8220;Brasil 61&#8221; na barra de busca.<\/p>\n<p>Ao ativar o plugin, ser\u00e1 necess\u00e1rio uma chave de ativa\u00e7\u00e3o para ter acesso ao conte\u00fado do Brasil 61 e configurar o plugin. Para isso, basta clicar no link &#8220;Obtenha a chave&#8221; no painel de ativa\u00e7\u00e3o de conta, preencher o formul\u00e1rio e enviar.<\/p>\n<p>Caso voc\u00ea j\u00e1 tenha uma chave, basta inserir e salvar!<\/p>\n<p>Importante informar corretamente seus dados, pois \u00e9 por meio deles que voc\u00ea receber\u00e1 a chave. Para manter o plugin ativo, pedimos que mantenha seu cadastro no Brasil61.com atualizado, utilizando seu melhor e-mail e n\u00famero de WhatsApp.<\/p>\n",
+        "faq": "\n<dt id='como%20configurar%20o%20plugin%3F'>\nComo configurar o plugin?\n<\/h4>\n<p>\n<p>\u00c9 f\u00e1cil e intuitivo! Voc\u00ea pode customizar suas importa\u00e7\u00f5es, extrair todos os conte\u00fados de uma categoria do Brasil 61 para uma categoria do seu wordpress. Pode pegar apenas conte\u00fados de uma tag do Brasil 61 e levar para uma determinada categoria do seu worpress.<\/p>\n<p>Nas configura\u00e7\u00f5es, tamb\u00e9m \u00e9 poss\u00edvel definir se voc\u00ea quer importar as imagens, resumo e criar backlink. O backlink \u00e9 um link de volta para o artigo original &#8211; essa a\u00e7\u00e3o \u00e9 importante para que possamos continuar melhorando a qualidade de entrega dos nossos conte\u00fados. Tamb\u00e9m, voc\u00ea pode definir o autor do artigo.<\/p>\n<p>Sugerimos que crie um usu\u00e1rio do tipo autor com o nome &#8220;Brasil 61&#8221;.<br \/>\nNo item &#8220;Status&#8221;, pode definir se o post ser\u00e1 publicado automaticamente ap\u00f3s a importa\u00e7\u00e3o ou se ir\u00e1 para rascunho ou revis\u00e3o pendente.<\/p>\n<\/p>\n<dt id='periodicidade%20da%20atualiza%C3%A7%C3%A3o%20da%20importa%C3%A7%C3%A3o%20das%20not%C3%ADcias'>\nPeriodicidade da atualiza\u00e7\u00e3o da importa\u00e7\u00e3o das not\u00edcias\n<\/h4>\n<p>\n<p>Voc\u00ea pode definir a periodicidade que seu WordPress ir\u00e1 at\u00e9 o brasil61.com buscar novos conte\u00fados &#8211; seja a cada 30 minutos, a cada hora, uma vez por dia, duas vezes por dia ou semanalmente.<\/p>\n<p>Al\u00e9m disso, pode voc\u00ea pode configurar a data inicial da importa\u00e7\u00e3o, permitindo a importa\u00e7\u00e3o de conte\u00fados mais antigos para popular seu blog ou site.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.0.2.1<\/h4>\n<ul>\n<li>Readme Update<\/li>\n<\/ul>\n<h4>1.0.2<\/h4>\n<ul>\n<li>Desabilita a checagem de SSL no file_get_contents<\/li>\n<\/ul>\n<h4>1.0.1<\/h4>\n<ul>\n<li>Atualiza\u00e7\u00f5es de readme<\/li>\n<li>Atualiza\u00e7\u00f5es de textos<\/li>\n<\/ul>\n<h4>1.0<\/h4>\n<ul>\n<li>In\u00edcio do plugin<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/brasil-61-conteudo-gratuito-para-radios-sites-e-blogs\/assets\/screenshot-1.jpg?rev=3031854\"><img src=\"https:\/\/ps.w.org\/brasil-61-conteudo-gratuito-para-radios-sites-e-blogs\/assets\/screenshot-1.jpg?rev=3031854\" alt=\"Tela de configura\u00e7\u00e3o do plugin\"><\/a><p>Tela de configura\u00e7\u00e3o do plugin<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/brasil-61-conteudo-gratuito-para-radios-sites-e-blogs\/assets\/screenshot-2.jpg?rev=3031854\"><img src=\"https:\/\/ps.w.org\/brasil-61-conteudo-gratuito-para-radios-sites-e-blogs\/assets\/screenshot-2.jpg?rev=3031854\" alt=\"Tela de ativa\u00e7\u00e3o da conta\"><\/a><p>Tela de ativa\u00e7\u00e3o da conta<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/brasil-61-conteudo-gratuito-para-radios-sites-e-blogs\/assets\/screenshot-3.jpg?rev=3031854\"><img src=\"https:\/\/ps.w.org\/brasil-61-conteudo-gratuito-para-radios-sites-e-blogs\/assets\/screenshot-3.jpg?rev=3031854\" alt=\"Tela de solicita\u00e7\u00e3o de token para ativa\u00e7\u00e3o\"><\/a><p>Tela de solicita\u00e7\u00e3o de token para ativa\u00e7\u00e3o<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "Plugin para importa\u00e7\u00e3o autom\u00e1tica de not\u00edcias do portal Brasil61.",
+    "description": "<p>O Brasil 61 fornece diariamente conte\u00fados radiof\u00f4nicos e em texto web para comunicadores de r\u00e1dio e m\u00eddias digitais online de todo o Brasil. Todos os conte\u00fados s\u00e3o gratuitos, livres para veicula\u00e7\u00e3o, e tratam de tem\u00e1ticas regionalizadas e informa\u00e7\u00f5es estrat\u00e9gicas para os munic\u00edpios, como repasses de recursos federais para as prefeituras de todo o pa\u00eds.<\/p>\n<p>Agora, voc\u00ea pode manter um site que se atualiza automaticamente, com novos conte\u00fados di\u00e1rios. A melhor parte? O plugin do Brasil 61 \u00e9 gratuito e vai te ajudar a impulsionar seu marketing de conte\u00fado, a melhorar o seu SEO, a aumentar o envolvimento do seu p\u00fablico e trazer mais visualiza\u00e7\u00f5es. Tudo isso pode trazer um maior ganho financeiro para seu ve\u00edculo.<\/p>\n<p>Experimente o plugin do Brasil 61 hoje mesmo!<\/p>\n<h4>Confira a seguir nossos principais editoriais:<\/h4>\n<ul>\n<li><a href=\"https:\/\/brasil61.com\/tempo\" rel=\"nofollow ugc\">Tempo<\/a><\/li>\n<li><a href=\"https:\/\/brasil61.com\/agronegocios\" rel=\"nofollow ugc\">Agro<\/a><\/li>\n<li><a href=\"https:\/\/brasil61.com\/saude\" rel=\"nofollow ugc\">Sa\u00fade<\/a><\/li>\n<li><a href=\"https:\/\/brasil61.com\/noticias\/tag\/fpm\" rel=\"nofollow ugc\">FPM<\/a><\/li>\n<li><a href=\"https:\/\/brasil61.com\/noticias\/tag\/cfem\" rel=\"nofollow ugc\">CFEM<\/a><\/li>\n<li><a href=\"https:\/\/brasil61.com\/politica\" rel=\"nofollow ugc\">Pol\u00edtica<\/a><\/li>\n<li><a href=\"https:\/\/brasil61.com\/economia\" rel=\"nofollow ugc\">Economia<\/a><\/li>\n<li><a href=\"https:\/\/brasil61.com\/meio-ambiente\" rel=\"nofollow ugc\">Meio Ambiente<\/a><\/li>\n<li><a href=\"https:\/\/brasil61.com\/educacao\" rel=\"nofollow ugc\">Educa\u00e7\u00e3o<\/a><\/li>\n<li><a href=\"https:\/\/brasil61.com\/cultura\" rel=\"nofollow ugc\">Cultura<\/a><\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/brasil-61-conteudo-gratuito-para-radios-sites-e-blogs.1.0.2.1.zip",
+    "upgrade_notice": {
+        "1.0.2.1": "<ul>\n<li>Readme Update Version<\/li>\n<\/ul>",
+        "1.0.2": "<p>Altera\u00e7\u00f5es do formato da exibi\u00e7\u00e3o de \u00edcones e importa\u00e7\u00e3o da imagem<\/p>",
+        "1.0.1": "<p>Altera\u00e7\u00f5es de textos para melhor usabilidade<\/p>"
+    },
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/brasil-61-conteudo-gratuito-para-radios-sites-e-blogs\/assets\/screenshot-1.jpg?rev=3031854",
+            "caption": "Tela de configura\u00e7\u00e3o do plugin"
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/brasil-61-conteudo-gratuito-para-radios-sites-e-blogs\/assets\/screenshot-2.jpg?rev=3031854",
+            "caption": "Tela de ativa\u00e7\u00e3o da conta"
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/brasil-61-conteudo-gratuito-para-radios-sites-e-blogs\/assets\/screenshot-3.jpg?rev=3031854",
+            "caption": "Tela de solicita\u00e7\u00e3o de token para ativa\u00e7\u00e3o"
+        }
+    },
+    "tags": {
+        "brasil-61": "brasil 61",
+        "brasil61": "brasil61",
+        "importacao-de-noticias": "importa\u00e7\u00e3o de not\u00edcias",
+        "importar-noticias-brasil61": "importar not\u00edcias brasil61"
+    },
+    "stable_tag": "1.0.2.1",
+    "versions": {
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/brasil-61-conteudo-gratuito-para-radios-sites-e-blogs.1.0.zip",
+        "1.0.1": "https:\/\/downloads.wordpress.org\/plugin\/brasil-61-conteudo-gratuito-para-radios-sites-e-blogs.1.0.1.zip",
+        "1.0.2": "https:\/\/downloads.wordpress.org\/plugin\/brasil-61-conteudo-gratuito-para-radios-sites-e-blogs.1.0.2.zip",
+        "1.0.2.1": "https:\/\/downloads.wordpress.org\/plugin\/brasil-61-conteudo-gratuito-para-radios-sites-e-blogs.1.0.2.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/brasil-61-conteudo-gratuito-para-radios-sites-e-blogs.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/brasil-61-conteudo-gratuito-para-radios-sites-e-blogs\/assets\/banner-772\u00d7250.jpg?rev=3031854",
+        "high": "https:\/\/ps.w.org\/brasil-61-conteudo-gratuito-para-radios-sites-e-blogs\/assets\/banner-1544\u00d7500.jpg?rev=3031854"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/brasil-61-conteudo-gratuito-para-radios-sites-e-blogs\/assets\/icon-128\u00d7128.jpg?rev=3029517",
+        "2x": "https:\/\/ps.w.org\/brasil-61-conteudo-gratuito-para-radios-sites-e-blogs\/assets\/icon-256\u00d7256.jpg?rev=3029517"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

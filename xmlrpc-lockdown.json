@@ -1,0 +1,73 @@
+{
+    "name": "XMLRPC Lockdown by AO Digital",
+    "slug": "xmlrpc-lockdown",
+    "version": "1.1",
+    "author": "<a href=\"https:\/\/aodigital.com.au\">Adam Langley - AO Digital<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/aodigitalau\/",
+    "contributors": {
+        "aodigitalau": {
+            "profile": "https:\/\/profiles.wordpress.org\/aodigitalau\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/36e8cc1f6d183d5a85ff6a795609ba78?s=96&d=monsterid&r=g",
+            "display_name": "aodigitalau"
+        }
+    },
+    "requires": false,
+    "tested": "6.4.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 100,
+    "ratings": {
+        "5": 1,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 1,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/xmlrpc-lockdown\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 272,
+    "last_updated": "2024-01-12 2:14pm GMT",
+    "added": "2024-01-12",
+    "homepage": "https:\/\/wordpress.org\/plugins\/xmlrpc-lockdown\/",
+    "sections": {
+        "description": "<p>XMLRPC Lockdown by AO Digital is an advanced version of the XMLRPC Lockdown plugin for WordPress. This plugin blocks access to xmlrpc.php for all requests except those from allowed services like Jetpack, the WordPress mobile application, and other specified services. It is designed to enhance your site&#8217;s security against xmlrpc attacks while maintaining functionality for essential tools.<\/p>\n<p>With this updated version, users can also customize the list of allowed services via an optional settings page in the WordPress admin, making the plugin more versatile and adaptable to different needs.<\/p>\n<h3>Support<\/h3>\n<p>For assistance with XMLRPC Lockdown Enhanced, or if you have questions or issues, please contact us at support@aodigital.com.au.<\/p>\n",
+        "installation": "<p>To install XMLRPC Lockdown, please follow these steps:<\/p>\n<ol>\n<li>Download the latest version of the plugin ZIP file from the WordPress plugin repository.<\/li>\n<li>Extract the ZIP file to your computer.<\/li>\n<li>Upload the entire <code>xmlrpc-lockdown<\/code> folder to the <code>wp-content\/plugins\/<\/code> directory of your WordPress site.<\/li>\n<li>Log in to your WordPress dashboard and navigate to the &#8220;Plugins&#8221; page.<\/li>\n<li>Locate the XMLRPC Lockdown Enhanced plugin in the list and click &#8220;Activate&#8221;.<\/li>\n<\/ol>\n<p>Once activated, the plugin will automatically start protecting your xmlrpc.php file. If you opt to use the settings page, you can navigate to Settings &gt; XMLRPC Lockdown to customize the list of allowed services.<\/p>\n",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Does what it says!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/ac1ionm4n\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/435ade558b76c27ce1bf4127291a1a03?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/435ade558b76c27ce1bf4127291a1a03?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/ac1ionm4n\/\" class=\"reviewer-name\">ac1ionm4n<\/a> on <span class=\"review-date\">January 16, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Exactly as advertised, simple and lightweight.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "XMLRPC Lockdown by AO Digital is an advanced version of the XMLRPC Lockdown plugin for WordPress. This plugin blocks access to xmlrpc.",
+    "description": "<p>XMLRPC Lockdown by AO Digital is an advanced version of the XMLRPC Lockdown plugin for WordPress. This plugin blocks access to xmlrpc.php for all requests except those from allowed services like Jetpack, the WordPress mobile application, and other specified services. It is designed to enhance your site&#8217;s security against xmlrpc attacks while maintaining functionality for essential tools.<\/p>\n<p>With this updated version, users can also customize the list of allowed services via an optional settings page in the WordPress admin, making the plugin more versatile and adaptable to different needs.<\/p>\n<h3>Support<\/h3>\n<p>For assistance with XMLRPC Lockdown Enhanced, or if you have questions or issues, please contact us at support@aodigital.com.au.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/xmlrpc-lockdown.1.1.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "jetpack": "jetpack",
+        "mobile-app": "Mobile App",
+        "security": "security",
+        "wordpress": "WordPress",
+        "xmlrpc": "xmlrpc"
+    },
+    "stable_tag": "1.1",
+    "versions": {
+        "1.1": "https:\/\/downloads.wordpress.org\/plugin\/xmlrpc-lockdown.1.1.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/xmlrpc-lockdown.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "default": "https:\/\/s.w.org\/plugins\/geopattern-icon\/xmlrpc-lockdown.svg"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 100,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

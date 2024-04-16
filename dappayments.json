@@ -1,0 +1,73 @@
+{
+    "name": "Dapp para WooCommerce",
+    "slug": "dappayments",
+    "version": "1.0.0",
+    "author": "<a href=\"https:\/\/conexa.ai\">Conexa<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/melandas\/",
+    "contributors": {
+        "dapp": {
+            "profile": "https:\/\/profiles.wordpress.org\/dapp\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/c78aadf947dd4768b677da28f88aa8a6?s=96&d=monsterid&r=g",
+            "display_name": "dapp"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/dappayments\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 57,
+    "last_updated": "2024-04-05 7:03pm GMT",
+    "added": "2024-04-05",
+    "homepage": "",
+    "sections": {
+        "description": "<p>dapp\u00ae es la \u00fanica soluci\u00f3n que necesitas para aceptar los medios de pago m\u00e1s importantes en el pa\u00eds.<\/p>\n<p><strong>Eligenos y despreoc\u00fapate de:<\/strong><\/p>\n<ul>\n<li>Seguridad<\/li>\n<li>Fraude<\/li>\n<li>Problemas t\u00e9cnicos<\/li>\n<li>Costos de desarrollo por soluci\u00f3n<\/li>\n<li>Experiencias de pago deficientes (complicadas o poco intuitivas)<\/li>\n<li>Falta de opciones de pago.<\/li>\n<li>Devoluciones y reembolsos<\/li>\n<\/ul>\n<p><strong>Contamos con todos los m\u00e9todos de pago que buscas:<\/strong><\/p>\n<ul>\n<li>Tarjetas bancarias<\/li>\n<li>CoDi\u00ae<\/li>\n<li>BNPL (Compra ahora sin necesidad de tarjeta y paga despu\u00e9s.)<\/li>\n<li>Adelantos de n\u00f3mina<\/li>\n<li>Saldo en Wallets \/ Billeteras-&gt; Apple, Google pay, Paypal<\/li>\n<li>Pago en efectivo<\/li>\n<\/ul>\n<p><strong>Ventajas competitivas:<\/strong><\/p>\n<ul>\n<li><strong>Integraci\u00f3n inmediata<\/strong> disponibles para las plataformas: ****Shopify, Vtex, Tienda nube, Magento, Woocomerce y Prestashop<\/li>\n<li>La opci\u00f3n de <strong>pago en efectivo<\/strong> con una red de m\u00e1s de 7 mil puntos de venta<\/li>\n<li>26 millones de usuarios de <strong>m\u00e9todos alternativos de pago<\/strong><\/li>\n<li>Cobra a tarjetas, wallets y recibe efectivo con <strong>una sola app<\/strong><\/li>\n<li><strong>Seguridad,<\/strong> cumplimos con est\u00e1ndares y certificaciones.<\/li>\n<li>Las <strong>mejores tarifas<\/strong><\/li>\n<li><strong>Atenci\u00f3n a cliente personalizada<\/strong><\/li>\n<\/ul>\n<p><strong>Revisa nuestros precios y modelos de tarifas:<\/strong><\/p>\n<p>https:\/\/dapp.mx\/commerce?comisiones=show<\/p>\n<p><strong>\u00a1CONT\u00c1CTANOS PARA UN DEMO GRATUITO!<\/strong><\/p>\n<p>The plugin depends on a third party as a service of the dapp company.<\/p>\n<p>Link to the service:<\/p>\n<p>https:\/\/dapp.mx\/terminos\/condiciones<\/p>\n<p>https:\/\/api.dapp.mx\/v2<\/p>\n<p>https:\/\/sandbox.dapp.mx\/v2<\/p>\n<p>www.dapp.mx<\/p>\n",
+        "installation": "<p>Minimum technical requirements<\/p>\n<p>To install this plugin you must have:<\/p>\n<ul>\n<li>PHP 7.4 or higher<\/li>\n<li>WordPress 5.0 or higher<\/li>\n<li>WooCommerce 4.0 or higher<\/li>\n<\/ul>\n<p>Get started in a few minutes<\/p>\n<p>You can install the plugin automatically or manually:<\/p>\n<p>automatic way<\/p>\n<ol>\n<li>From the WordPress admin, select \u201cPlugins\u201d&#8211;&gt;\u201dAdd New\u201d.<\/li>\n<li>In the Plugins browser type Dapp and press Enter<\/li>\n<li>Select our Plugin and click on \u201cInstall now\u201d.<br \/>\nReady!<\/li>\n<\/ol>\n<p>Manual Way<\/p>\n<ol>\n<li>Download the .zip file on this same page in the &#8220;download&#8221; button or find it in our documentation.<\/li>\n<li>Enter the WordPress administrator select \u201cPlugins\u201d&#8211;&gt;\u201dAdd new\u201d.<\/li>\n<li>At the top select \u201cUpload Plugin\u201d<\/li>\n<li>Select the previously saved .zip file on your computer and select the \u201cInstall Now\u201d button.<br \/>\nReady!<\/li>\n<\/ol>\n",
+        "reviews": ""
+    },
+    "short_description": "dapp\u00ae, recibe pagos digitales f\u00e1cil, r\u00e1pido y seguro.\u00a0 \u00a1El futuro de los pagos m\u00f3viles hoy!",
+    "description": "<p>dapp\u00ae es la \u00fanica soluci\u00f3n que necesitas para aceptar los medios de pago m\u00e1s importantes en el pa\u00eds.<\/p>\n<p><strong>Eligenos y despreoc\u00fapate de:<\/strong><\/p>\n<ul>\n<li>Seguridad<\/li>\n<li>Fraude<\/li>\n<li>Problemas t\u00e9cnicos<\/li>\n<li>Costos de desarrollo por soluci\u00f3n<\/li>\n<li>Experiencias de pago deficientes (complicadas o poco intuitivas)<\/li>\n<li>Falta de opciones de pago.<\/li>\n<li>Devoluciones y reembolsos<\/li>\n<\/ul>\n<p><strong>Contamos con todos los m\u00e9todos de pago que buscas:<\/strong><\/p>\n<ul>\n<li>Tarjetas bancarias<\/li>\n<li>CoDi\u00ae<\/li>\n<li>BNPL (Compra ahora sin necesidad de tarjeta y paga despu\u00e9s.)<\/li>\n<li>Adelantos de n\u00f3mina<\/li>\n<li>Saldo en Wallets \/ Billeteras-&gt; Apple, Google pay, Paypal<\/li>\n<li>Pago en efectivo<\/li>\n<\/ul>\n<p><strong>Ventajas competitivas:<\/strong><\/p>\n<ul>\n<li><strong>Integraci\u00f3n inmediata<\/strong> disponibles para las plataformas: ****Shopify, Vtex, Tienda nube, Magento, Woocomerce y Prestashop<\/li>\n<li>La opci\u00f3n de <strong>pago en efectivo<\/strong> con una red de m\u00e1s de 7 mil puntos de venta<\/li>\n<li>26 millones de usuarios de <strong>m\u00e9todos alternativos de pago<\/strong><\/li>\n<li>Cobra a tarjetas, wallets y recibe efectivo con <strong>una sola app<\/strong><\/li>\n<li><strong>Seguridad,<\/strong> cumplimos con est\u00e1ndares y certificaciones.<\/li>\n<li>Las <strong>mejores tarifas<\/strong><\/li>\n<li><strong>Atenci\u00f3n a cliente personalizada<\/strong><\/li>\n<\/ul>\n<p><strong>Revisa nuestros precios y modelos de tarifas:<\/strong><\/p>\n<p>https:\/\/dapp.mx\/commerce?comisiones=show<\/p>\n<p><strong>\u00a1CONT\u00c1CTANOS PARA UN DEMO GRATUITO!<\/strong><\/p>\n<p>The plugin depends on a third party as a service of the dapp company.<\/p>\n<p>Link to the service:<\/p>\n<p>https:\/\/dapp.mx\/terminos\/condiciones<\/p>\n<p>https:\/\/api.dapp.mx\/v2<\/p>\n<p>https:\/\/sandbox.dapp.mx\/v2<\/p>\n<p>www.dapp.mx<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/dappayments.1.0.0.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "woocommerce": "woocommerce"
+    },
+    "stable_tag": "1.0.0",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/dappayments.1.0.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/dappayments.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/dappayments\/assets\/banner-772x250.png?rev=3065693",
+        "high": "https:\/\/ps.w.org\/dappayments\/assets\/banner-1544x500.png?rev=3065693"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/dappayments\/assets\/icon-128x128.png?rev=3065693",
+        "2x": "https:\/\/ps.w.org\/dappayments\/assets\/icon-256x256.png?rev=3065693"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

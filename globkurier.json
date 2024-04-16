@@ -1,0 +1,69 @@
+{
+    "name": "globkurier.pl \u2013 Integracja z WooCommerce",
+    "slug": "globkurier",
+    "version": "1.9",
+    "author": "<a href=\"https:\/\/wp-opieka.pl\/\">WP OPIEKA<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/wpopieka\/",
+    "contributors": {
+        "wpopieka": {
+            "profile": "https:\/\/profiles.wordpress.org\/wpopieka\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/945a4495751725f0f619d0313c29b3f3?s=96&d=monsterid&r=g",
+            "display_name": "wpopieka"
+        }
+    },
+    "requires": "5.5",
+    "tested": "6.5.2",
+    "requires_php": "7.4.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/globkurier\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 71,
+    "last_updated": "2024-04-02 9:14am GMT",
+    "added": "2024-04-02",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Pe\u0142na integracja sklepu internetowego WooCommerce z GlobKurier<\/p>\n<p>GlobKurier.pl to firma kurierska umo\u017cliwiaj\u0105ca wygodne dostarczanie przesy\u0142ek. Dzi\u0119ki korzystaniu z naszego modu\u0142u masz zagwarantowane najni\u017csze ceny i najwy\u017csz\u0105 jako\u015b\u0107 obs\u0142ugi. WooCommerce to jedna z najbardziej znanych platform do prowadzenia sklepu internetowego, posiadaj\u0105ca intuicyjny panel administracyjny. Dzi\u0119ki naszej integracji zaoszcz\u0119dzisz sw\u00f3j czas i ca\u0142kowicie zautomatyzujesz proces wysy\u0142ki.  Nie musisz sam uzupe\u0142nia\u0107 formalno\u015bci \u2013 wszystkie dane s\u0105 automatycznie importowane do panelu, z kt\u00f3rego b\u0119dziesz nadawa\u0107 przesy\u0142ki do klient\u00f3w.  Zobacz wszystkie korzy\u015bci, wynikaj\u0105ce z integracji GlobKurier.pl i WordPress i rozwijaj z nami sw\u00f3j biznes!<\/p>\n<p>Plugin korzysta z API Google Maps (https:\/\/maps.googleapis.com\/maps\/api\/). W zwi\u0105zku z tym, aby korzysta\u0107 z pluginu, musisz posiada\u0107 klucz API Google Maps. Klucz API Google Maps jest bezp\u0142atny, ale mo\u017ce wymaga\u0107 podania danych karty kredytowej. Wi\u0119cej informacji na temat klucza API Google Maps znajdziesz na stronie https:\/\/developers.google.com\/maps\/gmp-get-started.<br \/>\nPolityk\u0119 prywatno\u015bci Google Maps znajdziesz na stronie https:\/\/cloud.google.com\/maps-platform\/terms.<\/p>\n<p>Plugin korzysta z API Inpost (https:\/\/api-pl-points.easypack24.net\/v1\/points) do pobierania punkt\u00f3w paczkomat\u00f3w.<br \/>\nPolityk\u0119 prywatno\u015bci Inpost znajdziesz na stronie https:\/\/inpost.pl\/polityka-prywatnosci.<\/p>\n<p>Plugin korzysta r\u00f3wnie\u017c z API Globkurier (https:\/\/api.globkurier.pl\/, https:\/\/test.api.globkurier.pl\/, https:\/\/www.globkurier.pl\/shipment-tracking\/), jest to wymagane do dzia\u0142ania integracji z tym serwisem.<br \/>\nIch polityka prywatno\u015bci znajdziesz na stronie https:\/\/www.globkurier.pl\/polityka-prywatnosci.<\/p>\n<p>Korzy\u015bci:<br \/>\n&#8211; zaci\u0105ganie danych transakcji w sklepie<br \/>\n&#8211; automatyczne wprowadzanie numeru listu przewozowego do karty transakcji<br \/>\n&#8211; szybkie wysy\u0142anie przesy\u0142ek<br \/>\n&#8211; wycena on-line kosztu przesy\u0142ki, wyb\u00f3r najta\u0144szego spedytora<br \/>\n&#8211; automatyczne pobieranie aktualnej oferty<br \/>\n&#8211; mo\u017cliwo\u015b\u0107 drukowania uzupe\u0142nionych list\u00f3w przewozowych<br \/>\n&#8211; wyeliminowanie mo\u017cliwo\u015bci pope\u0142niania b\u0142\u0119d\u00f3w przy r\u0119cznym przepisywaniu adres\u00f3w (np.<br \/>\n kontrola poprawno\u015bci kodu pocztowego)<\/p>\n<p>Integracja WooCommerce umo\u017cliwi Ci wysy\u0142k\u0119 swoich paczek przewo\u017anikami takimi jak:<br \/>\n&#8211; UPS<br \/>\n&#8211; DPD<br \/>\n&#8211; DHL<br \/>\n&#8211; GLS<br \/>\n&#8211; TNT<br \/>\n&#8211; FedEx<br \/>\n&#8211; InPost Paczkomaty<br \/>\n&#8211; InPost Kurier<br \/>\n&#8211; Meest<\/p>\n",
+        "installation": "<h4>Automatyczna instalacja<\/h4>\n<p>Automatyczna instalacja jest naj\u0142atwiejsz\u0105 opcj\u0105, poniewa\u017c WordPress sam obs\u0142uguje przesy\u0142anie plik\u00f3w i nie trzeba opuszcza\u0107 przegl\u0105darki internetowej. Aby wykona\u0107 automatyczn\u0105 instalacj\u0119 globkurier.pl \u2013 Integracja z WooCommerce, zaloguj si\u0119 do pulpitu nawigacyjnego WordPress, przejd\u017a do menu Wtyczki i kliknij Dodaj nowy.<\/p>\n<p>W polu wyszukiwania wpisz \\&#8221;globkurier.pl \u2013 Integracja z WooCommerce\\&#8221; i kliknij Wyszukaj wtyczki. Po znalezieniu wtyczki mo\u017cesz wy\u015bwietli\u0107 szczeg\u00f3\u0142owe informacje na jej temat, takie jak punkt wydania, ocena i opis. Co najwa\u017cniejsze, mo\u017cesz j\u0105 zainstalowa\u0107, klikaj\u0105c \\&#8221;Zainstaluj teraz\\&#8221;.<\/p>\n<h4>Instalacja r\u0119czna<\/h4>\n<p>Metoda instalacji r\u0119cznej polega na pobraniu naszej wtyczki i przes\u0142aniu jej na serwer za po\u015brednictwem ulubionej aplikacji FTP. Kodeks WordPress zawiera <a href=\"https:\/\/codex.wordpress.org\/Managing_Plugins#Manual_Plugin_Installation\" rel=\"nofollow ugc\">instrukcje, jak to zrobi\u0107 tutaj<\/a>.<\/p>\n<h4>Aktualizacja<\/h4>\n<p>Automatyczne aktualizacje powinny dzia\u0142a\u0107 idealnie; jak zawsze jednak, upewnij si\u0119, \u017ce wykona\u0142e\u015b kopi\u0119 zapasow\u0105 witryny na wszelki wypadek.<\/p>\n<h4>Konfiguracja<\/h4>\n<ol>\n<li>Przejd\u017a do zak\u0142adki GlobKurier \u2192 Konfiguracja.<\/li>\n<li>Uzupe\u0142nij dane autoryzacyjne oraz konfiguracyjne: domy\u015blny adres nadania, parametry<br \/>\nprzesy\u0142ki, obs\u0142uga Paczkomat\u00f3w InPost oraz Paczki w RUCHu.<\/li>\n<li>Upewnij si\u0119, \u017ce masz przygotowanego odpowiedniego przewo\u017anika w sklepie:<br \/>\nZak\u0142adka WooCommerce \u2192 Ustawienia \u2192 Wysy\u0142ka<\/li>\n<\/ol>\n",
+        "changelog": "<p>1.5.7<br \/>\n    Fixed tracking url<\/p>\n<p>1.7.0<br \/>\n    Paczka w Ruchu change to Orlen Paczka<br \/>\n    Fix Inpost points downloads<br \/>\n    Inpost points save to json file<br \/>\n    Orlen points save to json file<br \/>\n    Inpost\/Orlen points force update when 24hours old<br \/>\n    Ajax search inpost\/orlen paczka<br \/>\n    String changes<br \/>\n    Other minor changes<\/p>\n<p>1.7.3<br \/>\n    Orlen public &#8211; use cached points for carrierName=orlenPaczka<br \/>\n    Orlen admin &#8211; use always live points for specified productId<\/p>\n<p>1.7.4<br \/>\n    Fix Orlen paczka when map is not enabled<br \/>\n    Fix missing translations<\/p>\n<p>1.7.6<br \/>\n    PHP 8.1 compatibility<\/p>\n<p>1.9<br \/>\n    WooCommerce 8.0 compatibility<br \/>\n    Fix default dimensions<\/p>\n",
+        "reviews": ""
+    },
+    "short_description": "Pe\u0142na integracja sklepu internetowego WooCommerce z GlobKurier",
+    "description": "<p>Pe\u0142na integracja sklepu internetowego WooCommerce z GlobKurier<\/p>\n<p>GlobKurier.pl to firma kurierska umo\u017cliwiaj\u0105ca wygodne dostarczanie przesy\u0142ek. Dzi\u0119ki korzystaniu z naszego modu\u0142u masz zagwarantowane najni\u017csze ceny i najwy\u017csz\u0105 jako\u015b\u0107 obs\u0142ugi. WooCommerce to jedna z najbardziej znanych platform do prowadzenia sklepu internetowego, posiadaj\u0105ca intuicyjny panel administracyjny. Dzi\u0119ki naszej integracji zaoszcz\u0119dzisz sw\u00f3j czas i ca\u0142kowicie zautomatyzujesz proces wysy\u0142ki.  Nie musisz sam uzupe\u0142nia\u0107 formalno\u015bci \u2013 wszystkie dane s\u0105 automatycznie importowane do panelu, z kt\u00f3rego b\u0119dziesz nadawa\u0107 przesy\u0142ki do klient\u00f3w.  Zobacz wszystkie korzy\u015bci, wynikaj\u0105ce z integracji GlobKurier.pl i WordPress i rozwijaj z nami sw\u00f3j biznes!<\/p>\n<p>Plugin korzysta z API Google Maps (https:\/\/maps.googleapis.com\/maps\/api\/). W zwi\u0105zku z tym, aby korzysta\u0107 z pluginu, musisz posiada\u0107 klucz API Google Maps. Klucz API Google Maps jest bezp\u0142atny, ale mo\u017ce wymaga\u0107 podania danych karty kredytowej. Wi\u0119cej informacji na temat klucza API Google Maps znajdziesz na stronie https:\/\/developers.google.com\/maps\/gmp-get-started.<br \/>\nPolityk\u0119 prywatno\u015bci Google Maps znajdziesz na stronie https:\/\/cloud.google.com\/maps-platform\/terms.<\/p>\n<p>Plugin korzysta z API Inpost (https:\/\/api-pl-points.easypack24.net\/v1\/points) do pobierania punkt\u00f3w paczkomat\u00f3w.<br \/>\nPolityk\u0119 prywatno\u015bci Inpost znajdziesz na stronie https:\/\/inpost.pl\/polityka-prywatnosci.<\/p>\n<p>Plugin korzysta r\u00f3wnie\u017c z API Globkurier (https:\/\/api.globkurier.pl\/, https:\/\/test.api.globkurier.pl\/, https:\/\/www.globkurier.pl\/shipment-tracking\/), jest to wymagane do dzia\u0142ania integracji z tym serwisem.<br \/>\nIch polityka prywatno\u015bci znajdziesz na stronie https:\/\/www.globkurier.pl\/polityka-prywatnosci.<\/p>\n<p>Korzy\u015bci:<br \/>\n&#8211; zaci\u0105ganie danych transakcji w sklepie<br \/>\n&#8211; automatyczne wprowadzanie numeru listu przewozowego do karty transakcji<br \/>\n&#8211; szybkie wysy\u0142anie przesy\u0142ek<br \/>\n&#8211; wycena on-line kosztu przesy\u0142ki, wyb\u00f3r najta\u0144szego spedytora<br \/>\n&#8211; automatyczne pobieranie aktualnej oferty<br \/>\n&#8211; mo\u017cliwo\u015b\u0107 drukowania uzupe\u0142nionych list\u00f3w przewozowych<br \/>\n&#8211; wyeliminowanie mo\u017cliwo\u015bci pope\u0142niania b\u0142\u0119d\u00f3w przy r\u0119cznym przepisywaniu adres\u00f3w (np.<br \/>\n kontrola poprawno\u015bci kodu pocztowego)<\/p>\n<p>Integracja WooCommerce umo\u017cliwi Ci wysy\u0142k\u0119 swoich paczek przewo\u017anikami takimi jak:<br \/>\n&#8211; UPS<br \/>\n&#8211; DPD<br \/>\n&#8211; DHL<br \/>\n&#8211; GLS<br \/>\n&#8211; TNT<br \/>\n&#8211; FedEx<br \/>\n&#8211; InPost Paczkomaty<br \/>\n&#8211; InPost Kurier<br \/>\n&#8211; Meest<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/globkurier.1.9.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": [],
+    "stable_tag": "1.9",
+    "versions": {
+        "1.9": "https:\/\/downloads.wordpress.org\/plugin\/globkurier.1.9.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/globkurier.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/wp-opieka.pl\/",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/globkurier\/assets\/icon-128x128.png?rev=3062585",
+        "2x": "https:\/\/ps.w.org\/globkurier\/assets\/icon-256x256.png?rev=3062585"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

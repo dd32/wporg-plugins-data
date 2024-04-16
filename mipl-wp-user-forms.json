@@ -1,0 +1,70 @@
+{
+    "name": "MIPL WP Users Forms",
+    "slug": "mipl-wp-user-forms",
+    "version": "1.0.1",
+    "author": "<a href=\"https:\/\/www.mulika.in\/\">Mulika Team<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/mulika\/",
+    "contributors": {
+        "mulika": {
+            "profile": "https:\/\/profiles.wordpress.org\/mulika\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/56e26ea46284e3ad3bedfd2c4d453deb?s=96&d=monsterid&r=g",
+            "display_name": "Mulika Team"
+        }
+    },
+    "requires": "5.1",
+    "tested": "6.4.4",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/mipl-wp-user-forms\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 11,
+    "last_updated": "2024-04-11 11:29am GMT",
+    "added": "2024-04-11",
+    "homepage": "",
+    "sections": {
+        "description": "<p>Simple Ajax Login And Registration Form,<\/p>\n<p>Add shortcode to pages,<br \/>\n[mipluf_registration_form] [mipluf_login_form]<\/p>\n<h4>Features<\/h4>\n<ul>\n<li>Login &amp; Registration Form.<\/li>\n<\/ul>\n",
+        "installation": "<ol>\n<li>Upload plugins folder to the <code>\/wp-content\/plugins\/<\/code> directory<\/li>\n<li>Activate the plugin through the &#8216;Plugins&#8217; menu in WordPress.<\/li>\n<\/ol>\n",
+        "changelog": "<h4>1.0.1<\/h4>\n<ul>\n<li>Security Fixes.<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Login &amp; Registration Form.<\/li>\n<\/ul>\n",
+        "reviews": ""
+    },
+    "short_description": "Simple Ajax Login And Registration Form.",
+    "description": "<p>Simple Ajax Login And Registration Form,<\/p>\n<p>Add shortcode to pages,<br \/>\n[mipluf_registration_form] [mipluf_login_form]<\/p>\n<h4>Features<\/h4>\n<ul>\n<li>Login &amp; Registration Form.<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/mipl-wp-user-forms.zip",
+    "upgrade_notice": [],
+    "screenshots": [],
+    "tags": {
+        "logins": "logins",
+        "registration": "registration",
+        "users": "users"
+    },
+    "stable_tag": "trunk",
+    "versions": [],
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": [],
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/mipl-wp-user-forms\/assets\/icon-256x256.png?rev=3068931",
+        "2x": "https:\/\/ps.w.org\/mipl-wp-user-forms\/assets\/icon-256x256.png?rev=3068931"
+    },
+    "blocks": [],
+    "block_assets": [],
+    "author_block_count": 0,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}

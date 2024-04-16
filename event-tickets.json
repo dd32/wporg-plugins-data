@@ -1,0 +1,502 @@
+{
+    "name": "Event Tickets and Registration",
+    "slug": "event-tickets",
+    "version": "5.9.0",
+    "author": "<a href=\"https:\/\/evnt.is\/1aor\">The Events Calendar<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/theeventscalendar\/",
+    "contributors": {
+        "theeventscalendar": {
+            "profile": "https:\/\/profiles.wordpress.org\/theeventscalendar\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/004d5851721c5bd2b3491b51429f771e?s=96&d=monsterid&r=g",
+            "display_name": "The Events Calendar"
+        },
+        "brianjessee": {
+            "profile": "https:\/\/profiles.wordpress.org\/brianjessee\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/a35212d9e01d2ca4e96ecdd05b110b4a?s=96&d=monsterid&r=g",
+            "display_name": "Brian"
+        },
+        "camwynsp": {
+            "profile": "https:\/\/profiles.wordpress.org\/camwynsp\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/30d0a438b49ba2ab1b325c71349ab3bb?s=96&d=monsterid&r=g",
+            "display_name": "Stephen Page"
+        },
+        "redscar": {
+            "profile": "https:\/\/profiles.wordpress.org\/redscar\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/4e78d4591b2355e8e4e3030964caf14f?s=96&d=monsterid&r=g",
+            "display_name": "Brian Krane"
+        },
+        "tribalmike": {
+            "profile": "https:\/\/profiles.wordpress.org\/tribalmike\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/ad64384c619c207a769d07f068dd6eaa?s=96&d=monsterid&r=g",
+            "display_name": "tribalmike"
+        },
+        "rafsuntaskin": {
+            "profile": "https:\/\/profiles.wordpress.org\/rafsuntaskin\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/9b2df129b578e4b88870a6ce54320b84?s=96&d=monsterid&r=g",
+            "display_name": "Rafsun Chowdhury"
+        },
+        "aguseo": {
+            "profile": "https:\/\/profiles.wordpress.org\/aguseo\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/57554805e57d21c1036c8b91f944c8ca?s=96&d=monsterid&r=g",
+            "display_name": "Andras Guseo"
+        },
+        "bordoni": {
+            "profile": "https:\/\/profiles.wordpress.org\/bordoni\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/c412fa91c51f4e2cff375f74efb663e3?s=96&d=monsterid&r=g",
+            "display_name": "Gustavo Bordoni"
+        },
+        "borkweb": {
+            "profile": "https:\/\/profiles.wordpress.org\/borkweb\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/1e656e49ac69899daa3ff81232b041eb?s=96&d=monsterid&r=g",
+            "display_name": "Matthew Batchelder"
+        },
+        "geoffbel": {
+            "profile": "https:\/\/profiles.wordpress.org\/geoffbel\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/7d6fd85658178125baa17b6055dd3be1?s=96&d=monsterid&r=g",
+            "display_name": "GeoffBel"
+        },
+        "jentheo": {
+            "profile": "https:\/\/profiles.wordpress.org\/jentheo\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/a25cfc5467db8b5f358df804085b2cb7?s=96&d=monsterid&r=g",
+            "display_name": "Jennifer"
+        },
+        "leahkoerper": {
+            "profile": "https:\/\/profiles.wordpress.org\/leahkoerper\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/9fe5fa3836f54c58936a3979212da076?s=96&d=monsterid&r=g",
+            "display_name": "leahkoerper"
+        },
+        "lucatume": {
+            "profile": "https:\/\/profiles.wordpress.org\/lucatume\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/d393fcb75e0801c42fe5559ae1e846e6?s=96&d=monsterid&r=g",
+            "display_name": "lucatume"
+        },
+        "neillmcshea": {
+            "profile": "https:\/\/profiles.wordpress.org\/neillmcshea\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/43599a71b1b6506a26d029221f1d61a9?s=96&d=monsterid&r=g",
+            "display_name": "neillmcshea"
+        },
+        "vicskf": {
+            "profile": "https:\/\/profiles.wordpress.org\/vicskf\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/3a2a95b83191dc10b76ba61aba61c618?s=96&d=monsterid&r=g",
+            "display_name": "Victor Zarranz"
+        },
+        "zbtirrell": {
+            "profile": "https:\/\/profiles.wordpress.org\/zbtirrell\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/eeb48b1ae8eca09700c2c2642a1f7dcf?s=96&d=monsterid&r=g",
+            "display_name": "Zach Tirrell"
+        },
+        "juanfra": {
+            "profile": "https:\/\/profiles.wordpress.org\/juanfra\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/bb8f8e3c87dfce235f6bfe5a2d8ece2b?s=96&d=monsterid&r=g",
+            "display_name": "Juan Aldasoro"
+        }
+    },
+    "requires": "6.2",
+    "tested": "6.5.2",
+    "requires_php": "7.4",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 70,
+    "ratings": {
+        "5": 95,
+        "4": 8,
+        "3": 6,
+        "2": 12,
+        "1": 53
+    },
+    "num_ratings": 174,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/event-tickets\/",
+    "support_threads": 40,
+    "support_threads_resolved": 38,
+    "active_installs": 80000,
+    "downloaded": 3561587,
+    "last_updated": "2024-04-04 5:59pm GMT",
+    "added": "2015-12-02",
+    "homepage": "https:\/\/evnt.is\/1acb",
+    "sections": {
+        "description": "<p>Sell tickets and collect RSVPs with the free <a href=\"https:\/\/evnt.is\/1ao8\" rel=\"nofollow ugc\">Event Tickets<\/a> plugin, from the team behind the number one calendar in WordPress.<\/p>\n<p>This plugin makes it easy to sell tickets, collect registrations, and manage attendees for your in-person or virtual events. Plus, it comes with features backed by our world-class team of developers and designers. Easily integrate Event Tickets with your Stripe account or PayPal business account.<\/p>\n<p>Connect to Stripe and take advantage of one of the world\u2019s most popular payment gateways. Our Stripe integration lets you accept credit card payments on your website, along with additional payment methods including AfterPay, ClearPay, AliPay, Giropay, and Klarna.<\/p>\n<p><div class=\"embed-vimeo\" style=\"text-align: center;\"><iframe loading=\"lazy\" src=\"https:\/\/player.vimeo.com\/video\/480516958\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen><\/iframe><\/div>\n<\/p>\n<p><a href=\"https:\/\/evnt.is\/1b4-\" rel=\"nofollow ugc\">See more videos on our YouTube channel<\/a><\/p>\n<p>Easily connect to PayPal without any complicated API keys or code through our quick connection wizard in your WordPress backend. With just a few clicks, you can begin selling tickets and enable payment through PayPal, Venmo, and credit cards.<\/p>\n<p>Even more, you can <a href=\"https:\/\/evnt.is\/1b54\" rel=\"nofollow ugc\">upgrade to Event Tickets Plus<\/a> and unlock additional payment methods including digital wallets like ApplePay and Google Pay through Stripe, or use WooCommerce to take advantage of popular payment solutions including Braintree, Square, AmazonPay, and more.<\/p>\n<h4>\ud83c\udf9f\ufe0f Ticketing and Registration for WordPress<\/h4>\n<p>See Event Tickets in action on our <a href=\"https:\/\/evnt.is\/1ajs\" rel=\"nofollow ugc\">demo site<\/a>. Just getting started? Check out the <a href=\"https:\/\/evnt.is\/1aoc\" rel=\"nofollow ugc\">Getting Started Guide<\/a> for an introduction to features, settings, and functionality.<\/p>\n<p>Looking for additional features like custom registration fields, QR check-in, Apple Wallet passes, PDF tickets, Zoom integration, and more? <strong>Check out <a href=\"https:\/\/evnt.is\/18th\" rel=\"nofollow ugc\">Event Tickets Plus<\/a>, <a href=\"https:\/\/evnt.is\/etwp\" rel=\"nofollow ugc\">Wallet Plus<\/a> and our <a href=\"https:\/\/evnt.is\/2a\" rel=\"nofollow ugc\">other add-ons<\/a><\/strong>.<\/p>\n<h4>\ud83d\udd0c\ud83c\udfa8 Plug and Play or Customize<\/h4>\n<p>Event Tickets is built to work out of the box. Just install the plugin, configure your settings, and start collecting RSVPs and selling tickets in minutes.<\/p>\n<p>Add your own touch by using Event Tickets as the foundation for customization. Personalize to your heart&#8217;s content with the help of a skeleton stylesheet, partial template overrides, template tags, hooks and filters, <a href=\"https:\/\/evnt.is\/eu\" rel=\"nofollow ugc\">careful documentation<\/a>, and a <a href=\"https:\/\/evnt.is\/1a0r\" rel=\"nofollow ugc\">library of free extensions<\/a>.<\/p>\n<p>Whether your vision is big or small, you&#8217;re in good company. Thousands of small businesses, musicians, venues, restaurants, and non-profits are increasing revenue from their in-person and virtual events with Event Tickets. Our plugins have also been scaled to work on large networks for Fortune 100 companies, universities, and government institutions.<\/p>\n<h4>\u2728 Features<\/h4>\n<p>\u2714\ufe0f Attendees can purchase tickets to events<br \/>\n\u2714\ufe0f Attendees can RSVP to events<br \/>\n\u2714\ufe0f Sell tickets with PayPal, <a href=\"https:\/\/evnt.is\/et-tc-paystack-wp-org\" rel=\"nofollow ugc\">Paystack<\/a>, and\/or Stripe using our free commerce solution, Tickets Commerce.<br \/>\n\u2714\ufe0f Add RSVPs and tickets to posts, pages, or custom post types<br \/>\n\u2714\ufe0f Collect ticket fees by connecting your PayPal business or Stripe account<br \/>\n\u2714\ufe0f Generate sales and attendee reports<br \/>\n\u2714\ufe0f Customize Tickets and RSVP confirmation emails<br \/>\n\u2714\ufe0f Ticket stock countdown<br \/>\n\u2714\ufe0f Works out of the box with <a href=\"https:\/\/evnt.is\/18yi\" rel=\"nofollow ugc\">The Events Calendar<\/a><br \/>\n\u2714\ufe0f Responsive design works on all devices<br \/>\n\u2714\ufe0f Tested on the major theme frameworks such as Avada, Genesis, Kadence, Thesis and many more.<br \/>\n\u2714\ufe0f Internationalized &amp; translated<br \/>\n\u2714\ufe0f Extensive template tags for customization<br \/>\n\u2714\ufe0f Hooks &amp; filters galore<br \/>\n\u2714\ufe0f <a href=\"https:\/\/evnt.is\/1a0r\" rel=\"nofollow ugc\">Library of extensions<\/a><\/p>\n<p>Upgrade to <a href=\"https:\/\/evnt.is\/18th\" rel=\"nofollow ugc\">Event Tickets Plus<\/a> for full WooCommerce integration to use additional payment gateways.<\/p>\n<p>Upgrade to <a href=\"https:\/\/evnt.is\/etwp\" rel=\"nofollow ugc\">Wallet Plus<\/a> for digital tickets like Apple Wallet passes and PDF tickets.<\/p>\n<h3>\ud83d\udcc3 Documentation<\/h3>\n<p>All of our documentation can be found in <a href=\"https:\/\/evnt.is\/eu\" rel=\"nofollow ugc\">our knowledgebase<\/a>.<\/p>\n<p>Additional helpful links:<\/p>\n<ul>\n<li><a href=\"https:\/\/evnt.is\/1aot\" rel=\"nofollow ugc\">Guide: Getting Started with Event Tickets<\/a><\/li>\n<li><a href=\"https:\/\/evnt.is\/1ao9\" rel=\"nofollow ugc\">Installing Event Tickets Video<\/a><\/li>\n<li><a href=\"https:\/\/evnt.is\/1b5f\" rel=\"nofollow ugc\">Using Tickets Commerce Video<\/a><\/li>\n<li><a href=\"https:\/\/evnt.is\/event-tickets-emails\" rel=\"nofollow ugc\">Configuring Tickets Emails<\/a><\/li>\n<li><a href=\"https:\/\/evnt.is\/1aoa\" rel=\"nofollow ugc\">Do I need Event Tickets or Event Tickets Plus?<\/a><\/li>\n<li><a href=\"https:\/\/evnt.is\/1aob\" rel=\"nofollow ugc\">How to Make Money with Virtual Events<\/a><\/li>\n<li><a href=\"https:\/\/evnt.is\/1b5g\" rel=\"nofollow ugc\">Implementing Stripe on Event Tickets and Event Tickets Plus<\/a><\/li>\n<\/ul>\n<p>If you have any questions about this plugin, you can post a thread in the WordPress.org forum. Please search existing threads before starting a new on<\/p>\n<h3>\u2795 Add-Ons<\/h3>\n<p>Take your calendar to the next level by pairing it with our plugins for ticketing, crowdsourcing, email marketing, and more. Learn more about all our products on our website.<br \/>\nOur Free Plugins:<br \/>\n\ud83d\udcc5 <a href=\"https:\/\/evnt.is\/18yi\" rel=\"nofollow ugc\">The Events Calendar<\/a><br \/>\n\ud83d\udcd0 <a href=\"https:\/\/evnt.is\/18e6\" rel=\"nofollow ugc\">Advanced Post Manager<\/a><\/p>\n<p>Our Premium Plugins and Services:<\/p>\n<p>\u26a1 <a href=\"https:\/\/evnt.is\/18wi\" rel=\"nofollow ugc\">Events Calendar Pro<\/a><br \/>\n\u21aa\ufe0f <a href=\"https:\/\/evnt.is\/197u\" rel=\"nofollow ugc\">Event Aggregator<\/a> (service)<br \/>\n\ud83c\udf9f\ufe0f <a href=\"https:\/\/evnt.is\/18wk\" rel=\"nofollow ugc\">Event Tickets Plus<\/a><br \/>\n\ud83d\udcf1 <a href=\"https:\/\/evnt.is\/etwp\" rel=\"nofollow ugc\">Wallet Plus<\/a><br \/>\n\u2709\ufe0f <a href=\"https:\/\/evnt.is\/1ajt\" rel=\"nofollow ugc\">Promoter<\/a><br \/>\n\ud83d\udc65 <a href=\"https:\/\/evnt.is\/2g\" rel=\"nofollow ugc\">Community Events<\/a><br \/>\n\ud83c\udf9f\ufe0f <a href=\"https:\/\/evnt.is\/18wl\" rel=\"nofollow ugc\">Community Tickets<\/a><br \/>\n\u270f\ufe0f <a href=\"https:\/\/evnt.is\/fa\" rel=\"nofollow ugc\">Filter Bar<\/a><br \/>\n\ud83d\uddd3\ufe0f <a href=\"https:\/\/evnt.is\/2e\" rel=\"nofollow ugc\">Eventbrite Tickets<\/a><br \/>\n\ud83d\udce1 <a href=\"https:\/\/evnt.is\/1aky\" rel=\"nofollow ugc\">Virtual Events<\/a><br \/>\n\ud83d\udd04 <a href=\"https:\/\/evnt.is\/1bdk\" rel=\"nofollow ugc\">Event Automator<\/a><\/p>\n<h3>Help<\/h3>\n<p>If you aren&#8217;t familiar with Event Tickets, check out our <a href=\"https:\/\/evnt.is\/1aoc\" rel=\"nofollow ugc\">Getting Started Guide<\/a>. It will have you creating tickets in no time.<\/p>\n<p>Ready to dig deeper? Check out these resources:<\/p>\n<ul>\n<li><a href=\"https:\/\/evnt.is\/2u\" rel=\"nofollow ugc\">Tutorials<\/a><\/li>\n<li><a href=\"https:\/\/evnt.is\/1b5h\" rel=\"nofollow ugc\">Known Issues<\/a><\/li>\n<li><a href=\"https:\/\/evnt.is\/youtube\" rel=\"nofollow ugc\">Help Videos<\/a><\/li>\n<li><a href=\"https:\/\/evnt.is\/2v\" rel=\"nofollow ugc\">Release Notes<\/a><\/li>\n<\/ul>\n<p>We check in on the <a href=\"https:\/\/evnt.is\/1ac3\" rel=\"nofollow ugc\">Event Tickets forum here on WordPress.org<\/a> about once a week to help users with basic troubleshooting and identifying bugs. If you&#8217;re looking for premium, personalized support, consider upgrading to <a href=\"https:\/\/evnt.is\/18wk\" rel=\"nofollow ugc\">Event Tickets Plus<\/a>.<\/p>\n<p>Still have a question? Shoot us an email at support@theeventscalendar.com.<\/p>\n<h3>Translate<\/h3>\n<p>Event Tickets is translated into multiple languages, including German, Danish, and Dutch. Help localize Event Tickets even further by adding your locale \u2013 visit <a href=\"https:\/\/evnt.is\/1b5i\" rel=\"nofollow ugc\">translate.wordpress.org<\/a>.<\/p>\n",
+        "installation": "<ol>\n<li>From the dashboard of your site, navigate to Plugins &#8211;&gt; Add New.<\/li>\n<li>Select the Upload option and hit &#8220;Choose File.&#8221;<\/li>\n<li>When the popup appears select the event-tickets.x.x.zip file from your desktop. (The &#8216;x.x&#8217; will change depending on the current version number).<\/li>\n<li>Follow the on-screen instructions and wait as the upload completes.<\/li>\n<li>When it&#8217;s finished, activate the plugin via the prompt. A message will show confirming activation was successful.<\/li>\n<li>For access to new updates, make sure you have added your valid License Key under Tickets &#8211;&gt; Settings &#8211;&gt; Licenses.<\/li>\n<\/ol>\n",
+        "faq": "\n<dt id='are%20there%20any%20troubleshooting%20steps%20i%20should%20try%20before%20i%20post%20a%20new%20thread%20in%20the%20support%20forum%3F'>\nAre there any troubleshooting steps I should try before I post a new thread in the support forum?\n<\/h4>\n<p>\n<p>First, make sure that you&#8217;re running the latest version of Event Tickets. If you&#8217;ve got any other add-ons, make sure those are current and running the latest code as well. Also be sure to check our <a href=\"https:\/\/evnt.is\/1aoc\" rel=\"nofollow ugc\">knowledgebase<\/a>.<\/p>\n<p>The most common issues we see are either plugin or theme conflicts. You can test if a plugin or theme is conflicting by manually deactivating other plugins until just Event Tickets is running on your site. If the issue persists, revert to the default <a href=\"https:\/\/evnt.is\/1b5j\" rel=\"nofollow ugc\">Twenty Twenty<\/a> theme. If the issue is resolved after deactivating a specific plugin or your theme, you&#8217;ll know that is the source of the conflict.<\/p>\n<p>Note that we aren&#8217;t going to say \u201ctough luck\u201d if you identify a plugin\/theme conflict. While we can&#8217;t guarantee 100% integration with any plugin or theme out there, we will do our best (and reach out the plugin\/theme author as needed) to figure out a solution that benefits everyone.<\/p>\n<\/p>\n<dt id='i%27m%20still%20stuck.%20where%20do%20i%20go%20to%20file%20a%20bug%20or%20ask%20a%20question%3F'>\nI&#8217;m still stuck. Where do I go to file a bug or ask a question?\n<\/h4>\n<p>\n<p>Free plugin users can post in the <a href=\"https:\/\/evnt.is\/1ac3\" rel=\"nofollow ugc\">Event Tickets support forum on WordPress.org<\/a>. Our team reviews that forum weekly to look for bug reports.<\/p>\n<p>If you&#8217;re already an <a href=\"https:\/\/evnt.is\/18wk\" rel=\"nofollow ugc\">Event Tickets Plus<\/a> subscriber, you&#8217;re entitled to our actively-monitored <a href=\"https:\/\/evnt.is\/1aoe\" rel=\"nofollow ugc\">Premium Support<\/a> on our website. Generally, except in times of increased support loads, we reply to all premium support tickets within 24 hours during the business week.<\/p>\n<\/p>\n<dt id='what%27s%20the%20difference%20between%20event%20tickets%20and%20events%20tickets%20plus%3F'>\nWhat&#8217;s the difference between Event Tickets and Events Tickets Plus?\n<\/h4>\n<p>\n<p>Event Tickets is our free ticketing plugin that has all the basics you need to sell tickets and collect RSVPs on your website. You can use Event Tickets with or without The Events Calendar.<\/p>\n<p><a href=\"https:\/\/evnt.is\/18wk\" rel=\"nofollow ugc\">Event Tickets Plus<\/a> is a premium plugin that runs alongside Event Tickets and enhances it with extra features, including custom registration fields, shortcodes, WooCommerce integration, enhanced Stripe functionality for Stripe for Tickets Commerce, our <a href=\"https:\/\/evnt.is\/1aof\" rel=\"nofollow ugc\">mobile ticketing app<\/a> and more.<\/p>\n<p><a href=\"https:\/\/evnt.is\/1aoa\" rel=\"nofollow ugc\">Read more to learn which plugin is right for you.<\/a><\/p>\n<\/p>\n<dt id='do%20i%20need%20the%20events%20calendar%20to%20run%20event%20tickets%3F'>\nDo I need The Events Calendar to run Event Tickets?\n<\/h4>\n<p>\n<p>Nope! Event Tickets works with or without The Events Calendar. Even if you don&#8217;t have The Events Calendar, you can create RSVPs and tickets on WordPress pages and posts.<\/p>\n<\/p>\n<dt id='can%20i%20email%20attendees%20using%20event%20tickets%3F'>\nCan I email attendees using Event Tickets?\n<\/h4>\n<p>\n<p>Yes. Event Tickets automatically sends an email confirmation after attendees register or RSVP for an event. If the attendee purchases a ticket, the confirmation email will also provide a ticket to scan at the door for admission.<\/p>\n<\/p>\n<dt id='what%20add-ons%20are%20available%20for%20event%20tickets%2C%20and%20where%20can%20i%20read%20more%20about%20them%3F'>\nWhat add-ons are available for Event Tickets, and where can I read more about them?\n<\/h4>\n<p>\n<p>The following add-ons are available for The Events Calendar:<\/p>\n<ul>\n<li><a href=\"https:\/\/evnt.is\/18wi\" rel=\"nofollow ugc\">Events Calendar Pro<\/a>, for adding premium calendar features like recurring events, advanced views, cool widgets, <a href=\"https:\/\/evnt.is\/1ajw\" rel=\"nofollow ugc\">shortcodes<\/a>, additional fields, and more!<\/li>\n<li><a href=\"https:\/\/evnt.is\/197u\" rel=\"nofollow ugc\">Event Aggregator<\/a>, a service that effortlessly fills your calendar with events from Meetup, Google Calendar, iCalendar, Eventbrite, CSV, and ICS.<\/li>\n<li><a href=\"https:\/\/evnt.is\/1aky\" rel=\"nofollow ugc\">Virtual Events<\/a>, which optimizes your calendar for virtual events including Zoom integration, video and livestream embeds, SEO optimization for online events and more.<\/li>\n<li><a href=\"https:\/\/evnt.is\/18wk\" rel=\"nofollow ugc\">Event Tickets Plus<\/a>, which allows you to sell tickets for your events using your favorite e-commerce platform.<\/li>\n<li><a href=\"https:\/\/evnt.is\/etwp\" rel=\"nofollow ugc\">Wallet Plus<\/a>, for adding digital tickets like Apple Wallet passes and PDF tickets.<\/li>\n<li><a href=\"https:\/\/evnt.is\/1ajt\" rel=\"nofollow ugc\">Promoter<\/a>, automated email communication made just for The Events Calendar and Event Tickets. Stay in touch with your attendees every step of the way.<\/li>\n<li><a href=\"https:\/\/evnt.is\/2g\" rel=\"nofollow ugc\">Community Events<\/a>, for allowing frontend event submission from your readers.<\/li>\n<li><a href=\"https:\/\/evnt.is\/18wl\" rel=\"nofollow ugc\">Community Tickets<\/a>, which allows event organizers to sell tickets to the events they submit via Community Events.<\/li>\n<li><a href=\"https:\/\/evnt.is\/fa\" rel=\"nofollow ugc\">Filter Bar<\/a>, for adding advanced frontend filtering capabilities to your events calendar.<\/li>\n<li><a href=\"https:\/\/evnt.is\/2e\" rel=\"nofollow ugc\">Eventbrite Tickets<\/a>, for selling tickets to your event directly through Eventbrite.<\/li>\n<\/ul>\n<\/p>\n<dt id='i%20have%20a%20feature%20idea.%20what%27s%20the%20best%20way%20to%20tell%20you%20about%20it%3F'>\nI have a feature idea. What&#8217;s the best way to tell you about it?\n<\/h4>\n<p>\n<p>We&#8217;ve got a <a href=\"https:\/\/evnt.is\/ideas\" rel=\"nofollow ugc\">LoopedIn<\/a> page where we&#8217;re actively watching for feature ideas from the community. Vote up existing feature requests or add your own, and help us shape the future of the products business in a way that best meets the community&#8217;s needs.<\/p>\n<\/p>\n<dt id='i%27ve%20still%20got%20questions.%20where%20can%20i%20find%20answers%3F'>\nI&#8217;ve still got questions. Where can I find answers?\n<\/h4>\n<p>\n<p>Check out our extensive <a href=\"https:\/\/evnt.is\/18wm\" rel=\"nofollow ugc\">knowledgebase<\/a> for articles on using, tweaking, and troubleshooting our plugins.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>[5.9.0] 2024-04-04<\/h4>\n<ul>\n<li>Feature &#8211; Sale Price for Tickets Commerce: Set a sale price for individual tickets for a certain duration of time within Tickets Commerce.<\/li>\n<li>Feature &#8211; Sale Price Design: Display the set sale price so that it is clear that a ticket or purchased ticket is on sale.<\/li>\n<li>Tweak &#8211; Removed filters: <code>tec_tickets_commerce_order_report_summary_should_include_event_sales_data<\/code><\/li>\n<li>Tweak &#8211; Changed views: <code>v2\/commerce\/ticket\/price<\/code>, <code>v2\/commerce\/ticket\/regular-price<\/code>, <code>v2\/commerce\/ticket\/sale-price<\/code>, <code>v2\/tickets\/item\/content\/sale-label<\/code>, <code>v2\/tickets\/item\/content\/title<\/code>, <code>v2\/tickets\/item\/extra\/price<\/code><\/li>\n<li>Language &#8211; 12 new strings added, 16 updated, 0 fuzzied, and 0 obsoleted<\/li>\n<\/ul>\n<h4>[5.8.4] 2024-03-25<\/h4>\n<ul>\n<li>Fix &#8211; Events Calendar Pro promo shouldn&#8217;t show when it&#8217;s already installed or when not editing an event. [ET-2018]<\/li>\n<li>Fix &#8211; Addressed a problem preventing the export of event attendees by email. [ETP-904]<\/li>\n<li>Fix &#8211; In the block editor, ticket will no longer be deleted when you open the ticket block settings. [ET-2046]<\/li>\n<li>Fix &#8211; Show post excerpt line breaks within ticket emails. [ET-2006]<\/li>\n<li>Fix &#8211; Front-end tickets block button padding is now consistent on hover and when disabled. [ET-2035]<\/li>\n<li>Fix &#8211; Allow blank sender name and email to be stored within Tickets Emails settings. [ET-2008]<\/li>\n<li>Fix &#8211; Corrected an issue where <code>attendees_table-&gt;prepare_items()<\/code> was being called multiple times. [ET-2005]<\/li>\n<li>Fix &#8211; Tickets block will be properly registered when creating a new post or page. [ET-2045]<\/li>\n<li>Fix &#8211; Corrected an issue where the Post Tickets ORM method <code>filter_by_has_tickets<\/code> would prepare an empty statement. [ET-2017]<\/li>\n<li>Tweak &#8211; Added additional fields to the Event Tickets Site Health section. [ET-2017]<\/li>\n<li>Feature &#8211; Add the Series Pass email template. [ET-1854]<\/li>\n<li>Tweak &#8211; Adjusted the logic for calculating fees when using Stripe. [ET-2015]<\/li>\n<li>Tweak &#8211; Added filters: <code>tec_tickets_email_class<\/code><\/li>\n<li>Tweak &#8211; Changed views: <code>emails\/series-pass<\/code>, <code>emails\/template-parts\/body\/additional-content<\/code>, <code>emails\/template-parts\/body\/post-description<\/code>, <code>emails\/template-parts\/body\/series-events-list<\/code>, <code>emails\/template-parts\/body\/series-pass-dates<\/code>, <code>emails\/template-parts\/body\/thumbnail<\/code>, <code>emails\/template-parts\/header\/head\/series-pass-styles<\/code>, <code>emails\/template-parts\/header\/head\/styles<\/code><\/li>\n<li>Language &#8211; 22 new strings added, 91 updated, 0 fuzzied, and 0 obsoleted<\/li>\n<\/ul>\n<h4>[5.8.3] 2024-03-12<\/h4>\n<ul>\n<li>Fix &#8211; Fixed updating stock data when Tickets Commerce attendees are moved. [ET-2009]<\/li>\n<li>Fix &#8211; Fixed showing duplicate order overview data from TribeCommerce when ETP is disabled. [ET-2011]<\/li>\n<li>Fix &#8211; Stock will be calculated correctly when an order fails and then succeeds while using Tickets Commerce. [ET-1833]<\/li>\n<li>Fix &#8211; Decode any HTML entities that appear in the subject line of outgoing emails. [ET-2007]<\/li>\n<li>Fix &#8211; Fixed multiple issues related to series pass check-ins. [ET-1936]<\/li>\n<li>Fix &#8211; Site Health will no longer fatal when providers are not setup. [ET-2047]<\/li>\n<li>Tweak &#8211; Use dynamic ticket labels within the block editor&#8217;s Tickets Block. [ET-690]<\/li>\n<li>Tweak &#8211; Added filters: <code>tec_tickets_move_attendees_ids<\/code>, <code>tec_tickets_attendee_manual_uncheckin_success_data<\/code>, <code>tec_tickets_attendee_uncheckin<\/code><\/li>\n<li>Security &#8211; Added filterable role access to the attendee page (<code>tec_tickets_attendees_page_role_access<\/code>). [SVUL-1]<\/li>\n<li>Security &#8211; Added filterable role access to the orders page (<code>tec_tickets_report_{$page_slug}_page_role_access<\/code>). [SVUL-1]<\/li>\n<li>Language &#8211; 1 new strings added, 56 updated, 2 fuzzied, and 0 obsoleted<\/li>\n<\/ul>\n<h4>[5.8.2] 2024-02-19<\/h4>\n<ul>\n<li>Feature &#8211; Support per Event attendance for Series Pass Attendees for manual and app-based check-ins. [ET-1936]<\/li>\n<li>Fix &#8211; Available number when moving Series Pass Attendees. [ET-2009]<\/li>\n<li>Language &#8211; 5 new strings added, 167 updated, 14 fuzzied, and 9 obsoleted<\/li>\n<\/ul>\n<h4>[5.8.1] 2024-02-06<\/h4>\n<ul>\n<li>Fix &#8211; Removed type casting from filter method of series pass to avoid fatal errors. [ET-2014]<\/li>\n<li>Fix &#8211; Ensure correct attendee information is included in the attendee emails. [ET-1988]<\/li>\n<li>Fix &#8211; Resolve deprecation notices regarding <code>ArrayAccess::offsetGet()<\/code> [ET-1949]<\/li>\n<li>Fix &#8211; Resolve edge case usages for Shortcode with Attendees Listing.<\/li>\n<li>Fix &#8211; Resolved an issue where Order Status was not populated when exporting the Attendee List using Tickets Commerce. [ET-1883]<\/li>\n<li>Fix &#8211; Ticket is removed now when using the delete option from the block editor. [ET-1879]<\/li>\n<li>Fix &#8211; Update button will now show when the opt-out checkbox shows on the My Tickets page. [ET-1980]<\/li>\n<li>Fix &#8211; Update usage of <code>method_exists()<\/code> to comply with PHP 8.1 standards. [ET-1759]<\/li>\n<li>Tweak &#8211; Added additional information to the Site Health Section and added <code>tec_tickets_site_health_subsections<\/code> filter. [ET-1925]<\/li>\n<li>Tweak &#8211; Added Export option to Ticket Commerce Order page and <code>tec_tc_order_report_export_args<\/code> filter. [ET-1872]<\/li>\n<li>Tweak &#8211; Added Print button to Ticket Commerce Orders. [ET-1873]<\/li>\n<li>Tweak &#8211; Customer name appears now as description of a Stripe payment. Added <code>tec_tickets_commerce_stripe_update_payment_description<\/code> filter. [ET-1607]<\/li>\n<li>Tweak &#8211; Declared dynamic properties in Tribe__Tickets__Main, Tribe__Tickets__Tickets_Handler, Tribe__Tickets__REST__V1__Messages to prevent warnings in php 8.2 [ET-1950]<\/li>\n<li>Tweak &#8211; Update default footer text of Tickets Emails to include link to website. [ET-1971]<\/li>\n<li>Tweak &#8211; Added filters: <code>tec_tc_order_report_export_args<\/code>, <code>tec_tickets_commerce_stripe_update_payment_description<\/code>, <code>tec_tickets_site_health_subsections<\/code><\/li>\n<li>Tweak &#8211; Changed views: <code>blocks\/tickets\/footer<\/code>, <code>emails\/template-parts\/body\/footer\/credit<\/code>, <code>registration-js\/content<\/code>, <code>registration\/button-cart<\/code>, <code>tickets\/orders<\/code>, <code>v2\/tickets\/footer\/return-to-cart<\/code><\/li>\n<li>Language &#8211; 31 new strings added, 77 updated, 0 fuzzied, and 4 obsoleted<\/li>\n<\/ul>\n<p><a href=\"https:\/\/evnt.is\/1b5k\" rel=\"nofollow ugc\">See changelog for all versions<\/a><\/p>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-1.jpg?rev=2555910\"><img src=\"https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-1.jpg?rev=2555910\" alt=\"RSVP on event.\"><\/a><p>RSVP on event.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-2.jpg?rev=2555910\"><img src=\"https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-2.jpg?rev=2555910\" alt=\"Front-end ticket in page.\"><\/a><p>Front-end ticket in page.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-3.jpg?rev=2624669\"><img src=\"https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-3.jpg?rev=2624669\" alt=\"Tickets Commerce PayPal checkout.\"><\/a><p>Tickets Commerce PayPal checkout.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-4.jpg?rev=3041635\"><img src=\"https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-4.jpg?rev=3041635\" alt=\"Attendee report.\"><\/a><p>Attendee report.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-5.jpg?rev=2555910\"><img src=\"https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-5.jpg?rev=2555910\" alt=\"Emailed ticket.\"><\/a><p>Emailed ticket.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-6.png?rev=2755133\"><img src=\"https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-6.png?rev=2755133\" alt=\"Tickets settings.\"><\/a><p>Tickets settings.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-7.jpg?rev=3041635\"><img src=\"https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-7.jpg?rev=3041635\" alt=\"Add new ticket.\"><\/a><p>Add new ticket.<\/p><\/li><li><a href=\"https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-8.png?rev=2755133\"><img src=\"https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-8.png?rev=2755133\" alt=\"Tickets Commerce settings.\"><\/a><p>Tickets Commerce settings.<\/p><\/li><\/ol>",
+        "reviews": "<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Refreshing to have such a good option!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/wodobo\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/dafc3d4e94a2157e10a68b623b83334e?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/dafc3d4e94a2157e10a68b623b83334e?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/wodobo\/\" class=\"reviewer-name\">wodobo<\/a> on <span class=\"review-date\">April 15, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">We've been building event sites for our clients for a while and before using this plugin we'd explored a lot of the 3rd party platforms which our clients didn't want because of how much the fees were and how limited the actions were. We found this and it was perfect for us. We've used it for multiple events and it has some really great features. There are still some features and things that I hope they'll add to continue improving it, but as it stands now, it's been really versatile and helpful. <br \/><br \/>I also want to give a should out to their support. They're super fast and super helpful. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Problem solved :-)<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/pucedemecv95\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/8fd059c61b70b08f61e2b4c13fa13bf3?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/8fd059c61b70b08f61e2b4c13fa13bf3?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/pucedemecv95\/\" class=\"reviewer-name\">pucedemecv95<\/a> on <span class=\"review-date\">April 12, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Very helpful assistance in resolving a small but very annoying issue for my French commercial website. After some discussion and testing, the team found a good solution to help me. <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Many thanks.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Massive improvements required<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/teamfuchs\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/f60f130b44d2a88f3b0983367674c882?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/f60f130b44d2a88f3b0983367674c882?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/teamfuchs\/\" class=\"reviewer-name\">teamfuchs<\/a> on <span class=\"review-date\">April 9, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">It works partly, but crucial features like limiting the number of tickets\/RVSPs per person or requiring e-mail activation (particularly for RVSPs) are missing. There is no spam protection at all.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">UPDATE: The automatic e-mail dispatch (e.g. confirmation e-mails for RSVPs) does not work even though it is activated.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">They still need to work out some kinks<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"2 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"2\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/umpquawineries\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/39f4c4b3c118e6c023e99a560e5bad6b?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/39f4c4b3c118e6c023e99a560e5bad6b?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/umpquawineries\/\" class=\"reviewer-name\">umpquawineries<\/a> on <span class=\"review-date\">April 5, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I had originally gave this plugin a 5 star review last year, but after I realized that some payments were made without a ticket being issues or without a notification being sent.  Scary!  Once I found this out, I filed a ticket, but they couldn't do anything to help, and it wasn't fixed for weeks.  So, I had to audit all of our ticket sales periodically, to make sure I didn't miss any, then manually issue tickets and email folks.  Took wayyyyy too much of my time.  <\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I liked the fact that it was free, and it worked great after they fixed the issue, but I would be reticent to use it again because of all of the extra work I had to do.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">I wish I would have paid more (in fees) for a more tried &amp; true ticketing platform.  <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">service<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/larrykenemorejr\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/5077205c5d5098d7b972bd2ba49d7ae9?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/5077205c5d5098d7b972bd2ba49d7ae9?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/larrykenemorejr\/\" class=\"reviewer-name\">larrykenemorejr<\/a> on <span class=\"review-date\">April 1, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Excellent service always no matter time or day and they always have a fix or answer<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Poor support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"2 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"2\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/melbatoast4\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/8b3c612a542b7e9f743298b9b5f3f6b0?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/8b3c612a542b7e9f743298b9b5f3f6b0?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/melbatoast4\/\" class=\"reviewer-name\">melbatoast4<\/a> on <span class=\"review-date\">March 26, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The last few times I've asked for help, there have been MANY emails back and forth, and I ended up solving the problem myself the hard way. The last support ticket I opened, the person didn't even understand what I was saying, despite making it ABUNDANTLY clear. Frustrating.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Awesome Support!!!<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/harboursport\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/628a8903deb0b03219d66307ba226219?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/628a8903deb0b03219d66307ba226219?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/harboursport\/\" class=\"reviewer-name\">harboursport<\/a> on <span class=\"review-date\">March 24, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">I would like to just do a HUGE shoutout to the support team!!!  They respond to tickets promptly and really actually make the effort to help and solve the situation.  They understand urgency and are really good to deal with!!  Thanks Team!!<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great support<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/ccmediahu\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/b863bbad5c818a24602a1ca33a479caf?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/b863bbad5c818a24602a1ca33a479caf?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/ccmediahu\/\" class=\"reviewer-name\">ccmediahu<\/a> on <span class=\"review-date\">March 22, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The support gave me quickly answers. They are very nice, and they gave me easy to understand instructions.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p class=\"\">Thanks for your help! <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Customers are often unable to buy a ticket.<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"1 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"1\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><span class=\"star dashicons dashicons-star-empty\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/jinooo\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/144a1d440f91b285d9068de5da7a7488?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/144a1d440f91b285d9068de5da7a7488?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/jinooo\/\" class=\"reviewer-name\">jinooo<\/a> on <span class=\"review-date\">February 24, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">The ticket system often breaks down and then I have to set everything up again. I first thought about buying Wallet plus, but thank God I didn't do that.<\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n<div class=\"review\">\n\t<div class=\"review-head\">\n\t\t<div class=\"reviewer-info\">\n\t\t\t<div class=\"review-title-section\">\n\t\t\t\t<h4 class=\"review-title\">Great Plugin<\/h4>\n\t\t\t\t<div class=\"star-rating\">\n\t\t\t\t<div class=\"wporg-ratings\" aria-label=\"5 out of 5 stars\" data-title-template=\"%s out of 5 stars\" data-rating=\"5\" style=\"color:#ffb900;\"><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><span class=\"star dashicons dashicons-star-filled\"><\/span><\/div>\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p class=\"reviewer\">\n\t\t\t\tBy <a href=\"https:\/\/profiles.wordpress.org\/chebert512\/\"><img alt='' src='https:\/\/secure.gravatar.com\/avatar\/30e565e36917561c346bc08709e29b3a?s=16&#038;d=monsterid&#038;r=g' srcset='https:\/\/secure.gravatar.com\/avatar\/30e565e36917561c346bc08709e29b3a?s=32&#038;d=monsterid&#038;r=g 2x' class='avatar avatar-16 photo' height='16' width='16' loading='lazy' decoding='async'\/><\/a><a href=\"https:\/\/profiles.wordpress.org\/chebert512\/\" class=\"reviewer-name\">chebert512<\/a> on <span class=\"review-date\">February 7, 2024<\/span>\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"review-body\"><!-- wp:paragraph -->\n<p class=\"\">Love the Pro version and ticket integration. <\/p>\n<!-- \/wp:paragraph --><\/div>\n<\/div>\n"
+    },
+    "short_description": "Event Tickets allows your visitors to RSVP and buy tickets to events on your site. Also works seamlessly with The Events Calendar.",
+    "description": "<p>Sell tickets and collect RSVPs with the free <a href=\"https:\/\/evnt.is\/1ao8\" rel=\"nofollow ugc\">Event Tickets<\/a> plugin, from the team behind the number one calendar in WordPress.<\/p>\n<p>This plugin makes it easy to sell tickets, collect registrations, and manage attendees for your in-person or virtual events. Plus, it comes with features backed by our world-class team of developers and designers. Easily integrate Event Tickets with your Stripe account or PayPal business account.<\/p>\n<p>Connect to Stripe and take advantage of one of the world\u2019s most popular payment gateways. Our Stripe integration lets you accept credit card payments on your website, along with additional payment methods including AfterPay, ClearPay, AliPay, Giropay, and Klarna.<\/p>\n<p><div class=\"embed-vimeo\" style=\"text-align: center;\"><iframe loading=\"lazy\" src=\"https:\/\/player.vimeo.com\/video\/480516958\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen><\/iframe><\/div>\n<\/p>\n<p><a href=\"https:\/\/evnt.is\/1b4-\" rel=\"nofollow ugc\">See more videos on our YouTube channel<\/a><\/p>\n<p>Easily connect to PayPal without any complicated API keys or code through our quick connection wizard in your WordPress backend. With just a few clicks, you can begin selling tickets and enable payment through PayPal, Venmo, and credit cards.<\/p>\n<p>Even more, you can <a href=\"https:\/\/evnt.is\/1b54\" rel=\"nofollow ugc\">upgrade to Event Tickets Plus<\/a> and unlock additional payment methods including digital wallets like ApplePay and Google Pay through Stripe, or use WooCommerce to take advantage of popular payment solutions including Braintree, Square, AmazonPay, and more.<\/p>\n<h4>\ud83c\udf9f\ufe0f Ticketing and Registration for WordPress<\/h4>\n<p>See Event Tickets in action on our <a href=\"https:\/\/evnt.is\/1ajs\" rel=\"nofollow ugc\">demo site<\/a>. Just getting started? Check out the <a href=\"https:\/\/evnt.is\/1aoc\" rel=\"nofollow ugc\">Getting Started Guide<\/a> for an introduction to features, settings, and functionality.<\/p>\n<p>Looking for additional features like custom registration fields, QR check-in, Apple Wallet passes, PDF tickets, Zoom integration, and more? <strong>Check out <a href=\"https:\/\/evnt.is\/18th\" rel=\"nofollow ugc\">Event Tickets Plus<\/a>, <a href=\"https:\/\/evnt.is\/etwp\" rel=\"nofollow ugc\">Wallet Plus<\/a> and our <a href=\"https:\/\/evnt.is\/2a\" rel=\"nofollow ugc\">other add-ons<\/a><\/strong>.<\/p>\n<h4>\ud83d\udd0c\ud83c\udfa8 Plug and Play or Customize<\/h4>\n<p>Event Tickets is built to work out of the box. Just install the plugin, configure your settings, and start collecting RSVPs and selling tickets in minutes.<\/p>\n<p>Add your own touch by using Event Tickets as the foundation for customization. Personalize to your heart&#8217;s content with the help of a skeleton stylesheet, partial template overrides, template tags, hooks and filters, <a href=\"https:\/\/evnt.is\/eu\" rel=\"nofollow ugc\">careful documentation<\/a>, and a <a href=\"https:\/\/evnt.is\/1a0r\" rel=\"nofollow ugc\">library of free extensions<\/a>.<\/p>\n<p>Whether your vision is big or small, you&#8217;re in good company. Thousands of small businesses, musicians, venues, restaurants, and non-profits are increasing revenue from their in-person and virtual events with Event Tickets. Our plugins have also been scaled to work on large networks for Fortune 100 companies, universities, and government institutions.<\/p>\n<h4>\u2728 Features<\/h4>\n<p>\u2714\ufe0f Attendees can purchase tickets to events<br \/>\n\u2714\ufe0f Attendees can RSVP to events<br \/>\n\u2714\ufe0f Sell tickets with PayPal, <a href=\"https:\/\/evnt.is\/et-tc-paystack-wp-org\" rel=\"nofollow ugc\">Paystack<\/a>, and\/or Stripe using our free commerce solution, Tickets Commerce.<br \/>\n\u2714\ufe0f Add RSVPs and tickets to posts, pages, or custom post types<br \/>\n\u2714\ufe0f Collect ticket fees by connecting your PayPal business or Stripe account<br \/>\n\u2714\ufe0f Generate sales and attendee reports<br \/>\n\u2714\ufe0f Customize Tickets and RSVP confirmation emails<br \/>\n\u2714\ufe0f Ticket stock countdown<br \/>\n\u2714\ufe0f Works out of the box with <a href=\"https:\/\/evnt.is\/18yi\" rel=\"nofollow ugc\">The Events Calendar<\/a><br \/>\n\u2714\ufe0f Responsive design works on all devices<br \/>\n\u2714\ufe0f Tested on the major theme frameworks such as Avada, Genesis, Kadence, Thesis and many more.<br \/>\n\u2714\ufe0f Internationalized &amp; translated<br \/>\n\u2714\ufe0f Extensive template tags for customization<br \/>\n\u2714\ufe0f Hooks &amp; filters galore<br \/>\n\u2714\ufe0f <a href=\"https:\/\/evnt.is\/1a0r\" rel=\"nofollow ugc\">Library of extensions<\/a><\/p>\n<p>Upgrade to <a href=\"https:\/\/evnt.is\/18th\" rel=\"nofollow ugc\">Event Tickets Plus<\/a> for full WooCommerce integration to use additional payment gateways.<\/p>\n<p>Upgrade to <a href=\"https:\/\/evnt.is\/etwp\" rel=\"nofollow ugc\">Wallet Plus<\/a> for digital tickets like Apple Wallet passes and PDF tickets.<\/p>\n<h3>\ud83d\udcc3 Documentation<\/h3>\n<p>All of our documentation can be found in <a href=\"https:\/\/evnt.is\/eu\" rel=\"nofollow ugc\">our knowledgebase<\/a>.<\/p>\n<p>Additional helpful links:<\/p>\n<ul>\n<li><a href=\"https:\/\/evnt.is\/1aot\" rel=\"nofollow ugc\">Guide: Getting Started with Event Tickets<\/a><\/li>\n<li><a href=\"https:\/\/evnt.is\/1ao9\" rel=\"nofollow ugc\">Installing Event Tickets Video<\/a><\/li>\n<li><a href=\"https:\/\/evnt.is\/1b5f\" rel=\"nofollow ugc\">Using Tickets Commerce Video<\/a><\/li>\n<li><a href=\"https:\/\/evnt.is\/event-tickets-emails\" rel=\"nofollow ugc\">Configuring Tickets Emails<\/a><\/li>\n<li><a href=\"https:\/\/evnt.is\/1aoa\" rel=\"nofollow ugc\">Do I need Event Tickets or Event Tickets Plus?<\/a><\/li>\n<li><a href=\"https:\/\/evnt.is\/1aob\" rel=\"nofollow ugc\">How to Make Money with Virtual Events<\/a><\/li>\n<li><a href=\"https:\/\/evnt.is\/1b5g\" rel=\"nofollow ugc\">Implementing Stripe on Event Tickets and Event Tickets Plus<\/a><\/li>\n<\/ul>\n<p>If you have any questions about this plugin, you can post a thread in the WordPress.org forum. Please search existing threads before starting a new on<\/p>\n<h3>\u2795 Add-Ons<\/h3>\n<p>Take your calendar to the next level by pairing it with our plugins for ticketing, crowdsourcing, email marketing, and more. Learn more about all our products on our website.<br \/>\nOur Free Plugins:<br \/>\n\ud83d\udcc5 <a href=\"https:\/\/evnt.is\/18yi\" rel=\"nofollow ugc\">The Events Calendar<\/a><br \/>\n\ud83d\udcd0 <a href=\"https:\/\/evnt.is\/18e6\" rel=\"nofollow ugc\">Advanced Post Manager<\/a><\/p>\n<p>Our Premium Plugins and Services:<\/p>\n<p>\u26a1 <a href=\"https:\/\/evnt.is\/18wi\" rel=\"nofollow ugc\">Events Calendar Pro<\/a><br \/>\n\u21aa\ufe0f <a href=\"https:\/\/evnt.is\/197u\" rel=\"nofollow ugc\">Event Aggregator<\/a> (service)<br \/>\n\ud83c\udf9f\ufe0f <a href=\"https:\/\/evnt.is\/18wk\" rel=\"nofollow ugc\">Event Tickets Plus<\/a><br \/>\n\ud83d\udcf1 <a href=\"https:\/\/evnt.is\/etwp\" rel=\"nofollow ugc\">Wallet Plus<\/a><br \/>\n\u2709\ufe0f <a href=\"https:\/\/evnt.is\/1ajt\" rel=\"nofollow ugc\">Promoter<\/a><br \/>\n\ud83d\udc65 <a href=\"https:\/\/evnt.is\/2g\" rel=\"nofollow ugc\">Community Events<\/a><br \/>\n\ud83c\udf9f\ufe0f <a href=\"https:\/\/evnt.is\/18wl\" rel=\"nofollow ugc\">Community Tickets<\/a><br \/>\n\u270f\ufe0f <a href=\"https:\/\/evnt.is\/fa\" rel=\"nofollow ugc\">Filter Bar<\/a><br \/>\n\ud83d\uddd3\ufe0f <a href=\"https:\/\/evnt.is\/2e\" rel=\"nofollow ugc\">Eventbrite Tickets<\/a><br \/>\n\ud83d\udce1 <a href=\"https:\/\/evnt.is\/1aky\" rel=\"nofollow ugc\">Virtual Events<\/a><br \/>\n\ud83d\udd04 <a href=\"https:\/\/evnt.is\/1bdk\" rel=\"nofollow ugc\">Event Automator<\/a><\/p>\n<h3>Help<\/h3>\n<p>If you aren&#8217;t familiar with Event Tickets, check out our <a href=\"https:\/\/evnt.is\/1aoc\" rel=\"nofollow ugc\">Getting Started Guide<\/a>. It will have you creating tickets in no time.<\/p>\n<p>Ready to dig deeper? Check out these resources:<\/p>\n<ul>\n<li><a href=\"https:\/\/evnt.is\/2u\" rel=\"nofollow ugc\">Tutorials<\/a><\/li>\n<li><a href=\"https:\/\/evnt.is\/1b5h\" rel=\"nofollow ugc\">Known Issues<\/a><\/li>\n<li><a href=\"https:\/\/evnt.is\/youtube\" rel=\"nofollow ugc\">Help Videos<\/a><\/li>\n<li><a href=\"https:\/\/evnt.is\/2v\" rel=\"nofollow ugc\">Release Notes<\/a><\/li>\n<\/ul>\n<p>We check in on the <a href=\"https:\/\/evnt.is\/1ac3\" rel=\"nofollow ugc\">Event Tickets forum here on WordPress.org<\/a> about once a week to help users with basic troubleshooting and identifying bugs. If you&#8217;re looking for premium, personalized support, consider upgrading to <a href=\"https:\/\/evnt.is\/18wk\" rel=\"nofollow ugc\">Event Tickets Plus<\/a>.<\/p>\n<p>Still have a question? Shoot us an email at support@theeventscalendar.com.<\/p>\n<h3>Translate<\/h3>\n<p>Event Tickets is translated into multiple languages, including German, Danish, and Dutch. Help localize Event Tickets even further by adding your locale \u2013 visit <a href=\"https:\/\/evnt.is\/1b5i\" rel=\"nofollow ugc\">translate.wordpress.org<\/a>.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.9.0.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-1.jpg?rev=2555910",
+            "caption": "RSVP on event."
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-2.jpg?rev=2555910",
+            "caption": "Front-end ticket in page."
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-3.jpg?rev=2624669",
+            "caption": "Tickets Commerce PayPal checkout."
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-4.jpg?rev=3041635",
+            "caption": "Attendee report."
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-5.jpg?rev=2555910",
+            "caption": "Emailed ticket."
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-6.png?rev=2755133",
+            "caption": "Tickets settings."
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-7.jpg?rev=3041635",
+            "caption": "Add new ticket."
+        },
+        "8": {
+            "src": "https:\/\/ps.w.org\/event-tickets\/assets\/screenshot-8.png?rev=2755133",
+            "caption": "Tickets Commerce settings."
+        }
+    },
+    "tags": {
+        "attendee-management": "attendee management",
+        "event-registration": "event registration",
+        "rsvp": "RSVP",
+        "ticket-sales": "ticket sales",
+        "tickets": "tickets"
+    },
+    "stable_tag": "5.9.0",
+    "versions": {
+        "4.0": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.0.zip",
+        "4.0.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.0.1.zip",
+        "4.0.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.0.2.zip",
+        "4.0.3": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.0.3.zip",
+        "4.0.4": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.0.4.zip",
+        "4.0.5": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.0.5.zip",
+        "4.0.6": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.0.6.zip",
+        "4.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.1.zip",
+        "4.1.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.1.1.zip",
+        "4.1.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.1.2.zip",
+        "4.1.3": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.1.3.zip",
+        "4.1.4": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.1.4.zip",
+        "4.10": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.zip",
+        "4.10.0.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.0.2.zip",
+        "4.10.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.1.zip",
+        "4.10.1.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.1.1.zip",
+        "4.10.1.3": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.1.3.zip",
+        "4.10.10.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.10.1.zip",
+        "4.10.11": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.11.zip",
+        "4.10.11.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.11.2.zip",
+        "4.10.2.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.2.1.zip",
+        "4.10.3.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.3.1.zip",
+        "4.10.4": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.4.zip",
+        "4.10.4.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.4.1.zip",
+        "4.10.4.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.4.2.zip",
+        "4.10.4.3": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.4.3.zip",
+        "4.10.4.5": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.4.5.zip",
+        "4.10.5.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.5.1.zip",
+        "4.10.6": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.6.zip",
+        "4.10.6.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.6.1.zip",
+        "4.10.6.3": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.6.3.zip",
+        "4.10.7": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.7.zip",
+        "4.10.7.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.7.1.zip",
+        "4.10.7.3": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.7.3.zip",
+        "4.10.8.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.8.1.zip",
+        "4.10.9.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.10.9.1.zip",
+        "4.11.0": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.11.0.zip",
+        "4.11.0.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.11.0.2.zip",
+        "4.11.1.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.11.1.1.zip",
+        "4.11.2.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.11.2.1.zip",
+        "4.11.3": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.11.3.zip",
+        "4.11.3.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.11.3.2.zip",
+        "4.11.4.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.11.4.1.zip",
+        "4.11.5.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.11.5.1.zip",
+        "4.12.0.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.12.0.1.zip",
+        "4.12.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.12.1.zip",
+        "4.12.1.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.12.1.2.zip",
+        "4.12.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.12.2.zip",
+        "4.12.3": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.12.3.zip",
+        "4.12.3.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.12.3.1.zip",
+        "4.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.2.zip",
+        "4.2.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.2.1.zip",
+        "4.2.1.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.2.1.1.zip",
+        "4.2.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.2.2.zip",
+        "4.2.3": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.2.3.zip",
+        "4.2.4": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.2.4.zip",
+        "4.2.5": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.2.5.zip",
+        "4.2.6": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.2.6.zip",
+        "4.2.7": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.2.7.zip",
+        "4.3.0.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.3.0.1.zip",
+        "4.3.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.3.1.zip",
+        "4.3.1.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.3.1.2.zip",
+        "4.3.2.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.3.2.1.zip",
+        "4.3.3.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.3.3.1.zip",
+        "4.3.4": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.3.4.zip",
+        "4.3.4.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.3.4.2.zip",
+        "4.3.5.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.3.5.1.zip",
+        "4.4": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.4.zip",
+        "4.4.0.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.4.0.2.zip",
+        "4.4.1.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.4.1.1.zip",
+        "4.4.10.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.4.10.1.zip",
+        "4.4.2.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.4.2.1.zip",
+        "4.4.3.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.4.3.1.zip",
+        "4.4.4.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.4.4.1.zip",
+        "4.4.5.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.4.5.1.zip",
+        "4.4.6.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.4.6.1.zip",
+        "4.4.7.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.4.7.1.zip",
+        "4.4.8.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.4.8.1.zip",
+        "4.4.9.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.4.9.1.zip",
+        "4.5": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.5.zip",
+        "4.5.0.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.5.0.1.zip",
+        "4.5.0.3": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.5.0.3.zip",
+        "4.5.1.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.5.1.1.zip",
+        "4.5.2.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.5.2.1.zip",
+        "4.5.3.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.5.3.1.zip",
+        "4.5.4.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.5.4.1.zip",
+        "4.5.5.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.5.5.1.zip",
+        "4.5.6.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.5.6.1.zip",
+        "4.5.7.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.5.7.1.zip",
+        "4.6.0.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.6.0.1.zip",
+        "4.6.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.6.1.zip",
+        "4.6.1.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.6.1.2.zip",
+        "4.6.2.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.6.2.1.zip",
+        "4.6.3": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.6.3.zip",
+        "4.6.3.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.6.3.2.zip",
+        "4.7.0.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.7.0.1.zip",
+        "4.7.1.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.7.1.1.zip",
+        "4.7.2.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.7.2.1.zip",
+        "4.7.3": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.7.3.zip",
+        "4.7.3.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.7.3.2.zip",
+        "4.7.4.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.7.4.1.zip",
+        "4.7.5": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.7.5.zip",
+        "4.7.5.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.7.5.2.zip",
+        "4.7.6.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.7.6.1.zip",
+        "4.8.0.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.8.0.1.zip",
+        "4.8.1.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.8.1.1.zip",
+        "4.8.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.8.2.zip",
+        "4.8.2.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.8.2.2.zip",
+        "4.8.3.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.8.3.1.zip",
+        "4.8.4": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.8.4.zip",
+        "4.8.4.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.8.4.2.zip",
+        "4.9": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.9.zip",
+        "4.9.0.3": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.9.0.3.zip",
+        "4.9.1.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.9.1.1.zip",
+        "4.9.2.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.9.2.1.zip",
+        "4.9.3.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.9.3.1.zip",
+        "4.9.4.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.4.9.4.1.zip",
+        "5.0.0": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.0.0.zip",
+        "5.0.0.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.0.0.1.zip",
+        "5.0.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.0.1.zip",
+        "5.0.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.0.2.zip",
+        "5.0.3": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.0.3.zip",
+        "5.0.3.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.0.3.1.zip",
+        "5.0.4": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.0.4.zip",
+        "5.0.4.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.0.4.1.zip",
+        "5.0.4.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.0.4.2.zip",
+        "5.0.5": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.0.5.zip",
+        "5.1.0": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.1.0.zip",
+        "5.1.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.1.1.zip",
+        "5.1.10": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.1.10.zip",
+        "5.1.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.1.2.zip",
+        "5.1.2.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.1.2.1.zip",
+        "5.1.3": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.1.3.zip",
+        "5.1.4": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.1.4.zip",
+        "5.1.5": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.1.5.zip",
+        "5.1.6": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.1.6.zip",
+        "5.1.7": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.1.7.zip",
+        "5.1.8": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.1.8.zip",
+        "5.1.9": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.1.9.zip",
+        "5.1.9.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.1.9.1.zip",
+        "5.2.0": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.2.0.zip",
+        "5.2.0.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.2.0.1.zip",
+        "5.2.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.2.1.zip",
+        "5.2.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.2.2.zip",
+        "5.2.3": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.2.3.zip",
+        "5.2.4": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.2.4.zip",
+        "5.2.4.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.2.4.1.zip",
+        "5.3.0": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.3.0.zip",
+        "5.3.0.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.3.0.1.zip",
+        "5.3.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.3.1.zip",
+        "5.3.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.3.2.zip",
+        "5.3.3": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.3.3.zip",
+        "5.3.4": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.3.4.zip",
+        "5.3.4.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.3.4.1.zip",
+        "5.4.0": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.4.0.zip",
+        "5.4.0.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.4.0.1.zip",
+        "5.4.0.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.4.0.2.zip",
+        "5.4.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.4.1.zip",
+        "5.4.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.4.2.zip",
+        "5.4.2.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.4.2.1.zip",
+        "5.4.3": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.4.3.zip",
+        "5.4.3.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.4.3.1.zip",
+        "5.4.4": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.4.4.zip",
+        "5.4.4.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.4.4.1.zip",
+        "5.5.0": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.5.0.zip",
+        "5.5.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.5.1.zip",
+        "5.5.10": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.5.10.zip",
+        "5.5.11": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.5.11.zip",
+        "5.5.11.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.5.11.1.zip",
+        "5.5.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.5.2.zip",
+        "5.5.3": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.5.3.zip",
+        "5.5.4": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.5.4.zip",
+        "5.5.5": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.5.5.zip",
+        "5.5.6": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.5.6.zip",
+        "5.5.7": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.5.7.zip",
+        "5.5.8": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.5.8.zip",
+        "5.5.9": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.5.9.zip",
+        "5.5.9.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.5.9.1.zip",
+        "5.6.0": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.6.0.zip",
+        "5.6.0.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.6.0.1.zip",
+        "5.6.0.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.6.0.2.zip",
+        "5.6.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.6.1.zip",
+        "5.6.1.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.6.1.1.zip",
+        "5.6.1.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.6.1.2.zip",
+        "5.6.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.6.2.zip",
+        "5.6.3": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.6.3.zip",
+        "5.6.4": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.6.4.zip",
+        "5.6.5": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.6.5.zip",
+        "5.6.5.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.6.5.1.zip",
+        "5.6.6": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.6.6.zip",
+        "5.6.6.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.6.6.1.zip",
+        "5.6.7": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.6.7.zip",
+        "5.6.8": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.6.8.zip",
+        "5.6.8.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.6.8.1.zip",
+        "5.7.0": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.7.0.zip",
+        "5.7.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.7.1.zip",
+        "5.8.0": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.8.0.zip",
+        "5.8.1": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.8.1.zip",
+        "5.8.2": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.8.2.zip",
+        "5.8.3": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.8.3.zip",
+        "5.8.4": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.8.4.zip",
+        "5.9.0": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.5.9.0.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/event-tickets.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/event-tickets\/assets\/banner-772x250.png?rev=2257626",
+        "high": "https:\/\/ps.w.org\/event-tickets\/assets\/banner-1544x500.png?rev=2257626"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/event-tickets\/assets\/icon.svg?rev=2259340",
+        "svg": "https:\/\/ps.w.org\/event-tickets\/assets\/icon.svg?rev=2259340"
+    },
+    "blocks": {
+        "tribe\/tickets": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "tribe\/tickets",
+            "title": "Tickets",
+            "description": "Sell tickets and register attendees.",
+            "category": "tribe-tickets",
+            "keywords": [
+                "event",
+                "events-gutenberg",
+                "tribe"
+            ],
+            "supports": {
+                "html": false,
+                "multiple": false,
+                "customClassName": false
+            },
+            "editorScript": "tec-tickets-tickets-block-editor-script",
+            "editorStyle": "tec-tickets-tickets-block-editor-style"
+        },
+        "tribe\/tickets-item": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "tribe\/tickets-item",
+            "title": "Event Ticket",
+            "description": "A single configured ticket type.",
+            "category": "tribe-tickets",
+            "keywords": [
+                "event",
+                "event-tickets",
+                "tribe"
+            ],
+            "parent": [
+                "tribe\/tickets"
+            ],
+            "supports": {
+                "html": false,
+                "customClassName": false
+            },
+            "editorScript": "tec-tickets-ticket-item-block-editor-script",
+            "editorStyle": "tec-tickets-ticket-item-block-editor-style"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 70,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": [
+        {
+            "type": "plugin",
+            "slug": "event-tickets",
+            "language": "cs_CZ",
+            "version": "5.9.0",
+            "updated": "2023-11-10 08:19:37",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/event-tickets\/5.9.0\/cs_CZ.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "event-tickets",
+            "language": "da_DK",
+            "version": "5.9.0",
+            "updated": "2024-03-11 12:25:23",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/event-tickets\/5.9.0\/da_DK.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "event-tickets",
+            "language": "de_DE",
+            "version": "5.9.0",
+            "updated": "2024-03-22 01:44:21",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/event-tickets\/5.9.0\/de_DE.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "event-tickets",
+            "language": "es_ES",
+            "version": "5.9.0",
+            "updated": "2024-02-20 19:26:47",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/event-tickets\/5.9.0\/es_ES.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "event-tickets",
+            "language": "eu",
+            "version": "5.9.0",
+            "updated": "2017-08-18 11:37:54",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/event-tickets\/5.9.0\/eu.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "event-tickets",
+            "language": "fr_FR",
+            "version": "5.9.0",
+            "updated": "2024-02-01 18:37:50",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/event-tickets\/5.9.0\/fr_FR.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "event-tickets",
+            "language": "nb_NO",
+            "version": "5.9.0",
+            "updated": "2024-02-19 14:58:16",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/event-tickets\/5.9.0\/nb_NO.zip"
+        },
+        {
+            "type": "plugin",
+            "slug": "event-tickets",
+            "language": "nl_NL",
+            "version": "5.9.0",
+            "updated": "2024-04-14 12:16:59",
+            "package": "https:\/\/downloads.wordpress.org\/translation\/plugin\/event-tickets\/5.9.0\/nl_NL.zip"
+        }
+    ]
+}

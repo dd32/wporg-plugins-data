@@ -1,0 +1,333 @@
+{
+    "name": "enBlocks &#8211; Gutenberg Blocks for WordPress Block Editor",
+    "slug": "enblocks",
+    "version": "1.3.5",
+    "author": "<a href=\"https:\/\/enblocks.com\/\">enBlocks<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/enblocks\/",
+    "contributors": {
+        "enblocks": {
+            "profile": "https:\/\/profiles.wordpress.org\/enblocks\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/69ae97c1540505b690cf4f54e23d06c2?s=96&d=monsterid&r=g",
+            "display_name": "enBlocks"
+        }
+    },
+    "requires": "6.2",
+    "tested": "6.4.4",
+    "requires_php": "7.0",
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/enblocks\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 0,
+    "downloaded": 377,
+    "last_updated": "2024-04-14 5:34am GMT",
+    "added": "2024-01-30",
+    "homepage": "",
+    "sections": {
+        "description": "<p>A collection of page-building blocks for WordPress Gutenberg Block Editor to make content creation easier, more flexible, &amp; more efficient.<\/p>\n",
+        "installation": "<ol>\n<li>Go to &#8220;Plugins &gt; Add New&#8221; in your Dashboard and search for: enBlocks, Install and activate enBlocks plugin.<\/li>\n<li>Download the .zip from WordPress.org, and upload the folder to the <code>\/wp-content\/plugins\/<\/code> directory via FTP.<\/li>\n<\/ol>\n<p>In most cases, #1 will work fine and is way easier.<\/p>\n",
+        "faq": "\n<dt id='how%20do%20i%20add%20blocks%20to%20my%20page%3F'>\nHow do I add blocks to my page?\n<\/h4>\n<p>\n<ul>\n<li>Create a new page or post<\/li>\n<li>Add a new block, and look for the &#8220;enBlocks&#8221; category<\/li>\n<li>Select a block &amp; start building.<\/li>\n<\/ul>\n<\/p>\n<dt id='what%20theme%20should%20i%20use%3F'>\nWhat theme should I use?\n<\/h4>\n<p>\n<p>It will work with most of the block themes.<\/p>\n<\/p>\n\n",
+        "changelog": "<h4>1.3.5<\/h4>\n<ul>\n<li>Add: spacer block<\/li>\n<li>Update: container block with Flexbox layout<\/li>\n<li>Fix: animation issue<\/li>\n<li>Fix: buttons block issue<\/li>\n<li>Fix: size with responsive unit<\/li>\n<\/ul>\n<h4>1.3.4<\/h4>\n<ul>\n<li>Fix: fluid columns &#8211; column width issue<\/li>\n<li>Fix: grid-column and grid-row min max value issue<\/li>\n<li>Add: SVG icons<\/li>\n<\/ul>\n<h4>1.3.3<\/h4>\n<ul>\n<li>Add: icon block<\/li>\n<\/ul>\n<h4>1.3.2<\/h4>\n<ul>\n<li>Fix: packages upgrade issues<\/li>\n<\/ul>\n<h4>1.3.1<\/h4>\n<ul>\n<li>Add: inline component help text<\/li>\n<li>Add: fancy border radius for image block<\/li>\n<li>Fix: background animated background issue<\/li>\n<li>Update: refactor unit component<\/li>\n<li>Update: refactor spacing component<\/li>\n<\/ul>\n<h4>1.3.0<\/h4>\n<ul>\n<li>Add: image block<\/li>\n<\/ul>\n<h4>1.2.0<\/h4>\n<ul>\n<li>Add: container block and heading block<\/li>\n<\/ul>\n<h4>1.1.1<\/h4>\n<ul>\n<li>Refactor: button block<\/li>\n<li>Fix: animation conflict with animated background<\/li>\n<\/ul>\n<h4>1.1.0<\/h4>\n<ul>\n<li>Added more variable fonts<\/li>\n<li>Added blueprint<\/li>\n<li>Added button accessibility options<\/li>\n<li>Fixed typography issues<\/li>\n<li>Fixed block animation conflict with animated background color<\/li>\n<li>Added columns block and column block<\/li>\n<\/ul>\n<h4>1.0.0<\/h4>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/enblocks\/assets\/screenshot-1.png?rev=3029021\"><img src=\"https:\/\/ps.w.org\/enblocks\/assets\/screenshot-1.png?rev=3029021\" alt=\"Preview\"><\/a><p>Preview<\/p><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "A collection of page-building blocks for WordPress Gutenberg Block Editor to make content creation easier, more flexible, &amp; more efficient.",
+    "description": "<p>A collection of page-building blocks for WordPress Gutenberg Block Editor to make content creation easier, more flexible, &amp; more efficient.<\/p>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/enblocks.1.3.5.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/enblocks\/assets\/screenshot-1.png?rev=3029021",
+            "caption": "Preview"
+        }
+    },
+    "tags": {
+        "block-editor": "block-editor",
+        "blocks": "blocks",
+        "button": "button",
+        "gutenberg": "gutenberg",
+        "page-builder": "page builder"
+    },
+    "stable_tag": "1.3.5",
+    "versions": {
+        "1.0.0": "https:\/\/downloads.wordpress.org\/plugin\/enblocks.1.0.0.zip",
+        "1.1.1": "https:\/\/downloads.wordpress.org\/plugin\/enblocks.1.1.1.zip",
+        "1.2.0": "https:\/\/downloads.wordpress.org\/plugin\/enblocks.1.2.0.zip",
+        "1.3.0": "https:\/\/downloads.wordpress.org\/plugin\/enblocks.1.3.0.zip",
+        "1.3.1": "https:\/\/downloads.wordpress.org\/plugin\/enblocks.1.3.1.zip",
+        "1.3.2": "https:\/\/downloads.wordpress.org\/plugin\/enblocks.1.3.2.zip",
+        "1.3.3": "https:\/\/downloads.wordpress.org\/plugin\/enblocks.1.3.3.zip",
+        "1.3.4": "https:\/\/downloads.wordpress.org\/plugin\/enblocks.1.3.4.zip",
+        "1.3.5": "https:\/\/downloads.wordpress.org\/plugin\/enblocks.1.3.5.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/enblocks.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "https:\/\/enblocks.com\/",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/enblocks\/assets\/banner-772x250.png?rev=3029021",
+        "high": "https:\/\/ps.w.org\/enblocks\/assets\/banner-1544x500.png?rev=3029021"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/enblocks\/assets\/icon-128x128.png?rev=3029021",
+        "2x": "https:\/\/ps.w.org\/enblocks\/assets\/icon-256x256.png?rev=3029021"
+    },
+    "blocks": {
+        "enblocks\/columns": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "enblocks\/columns",
+            "version": "1.3.5",
+            "title": "Columns",
+            "category": "enblocks",
+            "keywords": [
+                "box",
+                "columns",
+                "column",
+                "container",
+                "flex",
+                "grid",
+                "group",
+                "row",
+                "section",
+                "wrap",
+                "wrapper",
+                "enblocks"
+            ],
+            "supports": {
+                "html": false,
+                "align": [
+                    "wide",
+                    "full"
+                ],
+                "anchor": true
+            },
+            "textdomain": "enblocks",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css"
+        },
+        "enblocks\/image": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "enblocks\/image",
+            "version": "1.3.5",
+            "title": "Image",
+            "category": "enblocks",
+            "keywords": [
+                "figure",
+                "icon",
+                "image",
+                "photo",
+                "picture"
+            ],
+            "supports": {
+                "html": false,
+                "align": [
+                    "wide",
+                    "full"
+                ],
+                "anchor": true
+            },
+            "textdomain": "enblocks",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css"
+        },
+        "enblocks\/icon": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "enblocks\/icon",
+            "version": "1.3.5",
+            "title": "Icon",
+            "category": "enblocks",
+            "keywords": [
+                "icon",
+                "logo",
+                "sign",
+                "symbol",
+                "enblocks"
+            ],
+            "supports": {
+                "html": false
+            },
+            "textdomain": "enblocks",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css"
+        },
+        "enblocks\/heading": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "enblocks\/heading",
+            "version": "1.3.5",
+            "title": "Heading",
+            "category": "enblocks",
+            "keywords": [
+                "header",
+                "heading",
+                "headline",
+                "paragraph",
+                "subtitle",
+                "text",
+                "title",
+                "enblocks"
+            ],
+            "supports": {
+                "html": false,
+                "align": [
+                    "wide",
+                    "full"
+                ],
+                "anchor": true
+            },
+            "textdomain": "enblocks",
+            "editorScript": "file:.\/index.js",
+            "style": "file:.\/style-index.css"
+        },
+        "enblocks\/container": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "enblocks\/container",
+            "version": "1.3.5",
+            "title": "Container",
+            "category": "enblocks",
+            "keywords": [
+                "box",
+                "container",
+                "flexbox",
+                "flex",
+                "group",
+                "row",
+                "section",
+                "wrap",
+                "wrapper",
+                "enblocks"
+            ],
+            "supports": {
+                "html": false,
+                "align": [
+                    "wide",
+                    "full"
+                ],
+                "anchor": true,
+                "layout": {
+                    "allowJustification": false
+                }
+            },
+            "textdomain": "enblocks",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css"
+        },
+        "enblocks\/buttons": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "enblocks\/buttons",
+            "version": "1.3.5",
+            "title": "Buttons",
+            "category": "enblocks",
+            "keywords": [
+                "button",
+                "buttons",
+                "link",
+                "cta",
+                "enblocks"
+            ],
+            "supports": {
+                "html": false,
+                "align": [
+                    "wide",
+                    "full"
+                ]
+            },
+            "textdomain": "enblocks",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css"
+        },
+        "enblocks\/spacer": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "enblocks\/spacer",
+            "version": "1.3.5",
+            "title": "Spacer",
+            "category": "enblocks",
+            "keywords": [
+                "divider",
+                "gap",
+                "spacer",
+                "enblocks"
+            ],
+            "supports": {
+                "html": false
+            },
+            "textdomain": "enblocks",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css"
+        },
+        "enblocks\/button": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "enblocks\/button",
+            "parent": [
+                "enblocks\/buttons"
+            ],
+            "version": "1.3.5",
+            "title": "Button",
+            "category": "enblocks",
+            "keywords": [
+                "button"
+            ],
+            "supports": {
+                "html": false,
+                "anchor": true
+            },
+            "textdomain": "enblocks",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css"
+        },
+        "enblocks\/column": {
+            "$schema": "https:\/\/schemas.wp.org\/trunk\/block.json",
+            "apiVersion": 3,
+            "name": "enblocks\/column",
+            "parent": [
+                "enblocks\/columns"
+            ],
+            "version": "1.3.5",
+            "title": "Column",
+            "category": "enblocks",
+            "supports": {
+                "html": false
+            },
+            "textdomain": "enblocks",
+            "editorScript": "file:.\/index.js",
+            "editorStyle": "file:.\/index.css",
+            "style": "file:.\/style-index.css"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 0,
+    "blueprints": [
+        {
+            "filename": "blueprint.json",
+            "url": "https:\/\/wordpress.org\/plugins\/wp-json\/plugins\/v1\/plugin\/enblocks\/blueprint.json?rev=3070137"
+        }
+    ],
+    "preview_link": "",
+    "language_packs": []
+}

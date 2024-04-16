@@ -1,0 +1,115 @@
+{
+    "name": "WPB Form Popup &#8211; Form Popup on Button Click &#8211; Best for Contact Form 7, WPForms, Mailchimp and Forminator",
+    "slug": "wpb-form-popup",
+    "version": "1.2",
+    "author": "<a href=\"https:\/\/wpbean.com\">wpbean<\/a>",
+    "author_profile": "https:\/\/profiles.wordpress.org\/wpbean\/",
+    "contributors": {
+        "wpbean": {
+            "profile": "https:\/\/profiles.wordpress.org\/wpbean\/",
+            "avatar": "https:\/\/secure.gravatar.com\/avatar\/431a77ad996a5d1660aa79228acdcbb2?s=96&d=monsterid&r=g",
+            "display_name": "WpBean"
+        }
+    },
+    "requires": "5.0",
+    "tested": "6.5.2",
+    "requires_php": false,
+    "requires_plugins": [],
+    "compatibility": [],
+    "rating": 0,
+    "ratings": {
+        "5": 0,
+        "4": 0,
+        "3": 0,
+        "2": 0,
+        "1": 0
+    },
+    "num_ratings": 0,
+    "support_url": "https:\/\/wordpress.org\/support\/plugin\/wpb-form-popup\/",
+    "support_threads": 0,
+    "support_threads_resolved": 0,
+    "active_installs": 30,
+    "downloaded": 565,
+    "last_updated": "2024-04-12 4:26pm GMT",
+    "added": "2023-12-27",
+    "homepage": "https:\/\/wpbean.com\/",
+    "sections": {
+        "description": "<p>WPB Form Popup displays your favorite form plugin in an amazing popup. You can show a form popup on button click.<\/p>\n<p>You might be looking for a way to show a form in a popup when someone clicks on a button. In that case, WPB Form Popup is the best tool for your website.<br \/>\nUsing its Custom ShortCode, you can put the popup button anywhere on your site.<\/p>\n<p>We have added all the popular form plugins support to this plugin. So that you can use your favorite form plugin in our popup.<\/p>\n<p>On the WooCommerce product page, the popup can be shown to get feedback from buyers, suggestions, and quote requests.<\/p>\n<blockquote>\n<p><a href=\"https:\/\/wpbean.com\/?p=40909\" rel=\"nofollow ugc\">Buy PRO Version<\/a>  |  <a href=\"https:\/\/form-popup.wpbean.com\/\" rel=\"nofollow ugc\">DEMO<\/a>  |  <a href=\"https:\/\/wpbean.com\/support\/\" rel=\"nofollow ugc\">Support<\/a> |  <a href=\"https:\/\/docs.wpbean.com\/docs\/wpb-form-popup\/\" rel=\"nofollow ugc\">Documentation<\/a><\/p>\n<\/blockquote>\n<h3>WPB Form Popup Key Features<\/h3>\n<ul>\n<li>Showing Form Popup on Button Click.<\/li>\n<li>Advanced Settings for Button and Popup style configuration.<\/li>\n<li>Show the popup button using ShortCode.<\/li>\n<li>Integrate support for all the major WordPress form plugins.<\/li>\n<li>Easy displaying of popup buttons via the Gutenberg and Elementor.<\/li>\n<li>Wide-ranging pop-up behavior customization possibilities.<\/li>\n<li>Create simple contact form pop-up.<\/li>\n<li>Create lead generation pop-ups.<\/li>\n<li>Create optin pop-up form.<\/li>\n<li>Create newsletter sign up pop-up.<\/li>\n<li>WooCommerce request a quote pop-up.<\/li>\n<li>User login and registration pop-up.<\/li>\n<li>Appointment booking pop-up.<\/li>\n<li>Powerful short-code generator for creating interactive pop-ups with unlimited personalization options.<\/li>\n<\/ul>\n<h3>PREMIUM KEY FEATURES<\/h3>\n<ul>\n<li>Create a number of different pop-ups in various locations.<\/li>\n<li>Advanced pop-up trigger options.<\/li>\n<li>You can use any custom CSS id or class as a pop-up trigger.<\/li>\n<li>An image can be used to initiate a pop-up window.<\/li>\n<li>Selected pages can have pop-ups activated upon load, exit, or scroll.<\/li>\n<li>A variety of pop-up layouts for content to suit various needs.<\/li>\n<li>The form in the pop-up can be personalized with your own image, headline, and content.<\/li>\n<li>In addition to the form, you can embed shortcodes inside the pop-up window.<\/li>\n<\/ul>\n<h3>Supported Form Plugins<\/h3>\n<ul>\n<li>Contact Form 7.<\/li>\n<li>WPForms.<\/li>\n<li>MC4WP: Mailchimp for WordPress.<\/li>\n<li>Forminator.<\/li>\n<li>Ninja Forms Contact Form.<\/li>\n<li>Formidable Forms.<\/li>\n<li>Form Maker by 10Web.<\/li>\n<li>weForms.<\/li>\n<li>Fluent Forms.<\/li>\n<li>HappyForms.<\/li>\n<li>WS Form.<\/li>\n<li>User Registration by WPEverest.<\/li>\n<li>Bookly.<\/li>\n<li>Everest Forms.<\/li>\n<li>Kali Forms.<\/li>\n<li>Bit Form.<\/li>\n<li>More integrations are on the way.<\/li>\n<\/ul>\n<h3>Support and Documentation:<\/h3>\n<p>Using this plugin is super easy as we have details <a href=\"https:\/\/docs.wpbean.com\/docs\/wpb-form-popup\/\" rel=\"nofollow ugc\">online documentation<\/a> for this.  If you are having any issue with this plugin our expert support team always ready for you. Just open a support ticket on our <a href=\"https:\/\/wpbean.com\/support\" rel=\"nofollow ugc\">support forum<\/a>.<\/p>\n<h3>Tested with the Following Themes<\/h3>\n<ul>\n<li>Astra<\/li>\n<li>Ocean WP<\/li>\n<li>Hestia<\/li>\n<li>Kadence<\/li>\n<li>Neve<\/li>\n<li>Blocksy<\/li>\n<li>GeneratePress<\/li>\n<li>StudioPress<\/li>\n<li>Hello Elementor<\/li>\n<li>Divi<\/li>\n<li>Storefront<\/li>\n<li>Flatsome<\/li>\n<li>Avada<\/li>\n<li>The7<\/li>\n<li>and Many More.<\/li>\n<\/ul>\n<h3>Tested with the Following Page Builders<\/h3>\n<ul>\n<li>Gutenberg<\/li>\n<li>Elementor &amp; Elementor Pro<\/li>\n<li>Divi<\/li>\n<li>WPBakery<\/li>\n<li>Visual Composer<\/li>\n<li>Beaver Builder<\/li>\n<li>Oxygen<\/li>\n<li>GeneratePress<\/li>\n<\/ul>\n",
+        "installation": "<ul>\n<li>Install it as a regular WordPress plugin.<\/li>\n<li>Add any of the form plugins that are needed.<\/li>\n<li>After installing the plugin follow our step by step <a href=\"https:\/\/docs.wpbean.com\/docs\/wpb-form-popup\/\" rel=\"nofollow ugc\">online documentation<\/a>.<\/li>\n<\/ul>\n",
+        "changelog": "<h4>Version 1.2<\/h4>\n<ul>\n<li>Fixed a few responsive issue for the mobile devices.<\/li>\n<\/ul>\n<h4>Version 1.1<\/h4>\n<ul>\n<li>Added new feature to work without form plugin. Display as content pop-up.<\/li>\n<\/ul>\n<h4>Version 1.0<\/h4>\n<ul>\n<li>Initial release<\/li>\n<\/ul>\n",
+        "screenshots": "<ol><li><a href=\"https:\/\/ps.w.org\/wpb-form-popup\/assets\/screenshot-1.png?rev=3015223\"><img src=\"https:\/\/ps.w.org\/wpb-form-popup\/assets\/screenshot-1.png?rev=3015223\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wpb-form-popup\/assets\/screenshot-2.png?rev=3015223\"><img src=\"https:\/\/ps.w.org\/wpb-form-popup\/assets\/screenshot-2.png?rev=3015223\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wpb-form-popup\/assets\/screenshot-3.png?rev=3015223\"><img src=\"https:\/\/ps.w.org\/wpb-form-popup\/assets\/screenshot-3.png?rev=3015223\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wpb-form-popup\/assets\/screenshot-4.png?rev=3015223\"><img src=\"https:\/\/ps.w.org\/wpb-form-popup\/assets\/screenshot-4.png?rev=3015223\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wpb-form-popup\/assets\/screenshot-5.png?rev=3015223\"><img src=\"https:\/\/ps.w.org\/wpb-form-popup\/assets\/screenshot-5.png?rev=3015223\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wpb-form-popup\/assets\/screenshot-6.png?rev=3015223\"><img src=\"https:\/\/ps.w.org\/wpb-form-popup\/assets\/screenshot-6.png?rev=3015223\" alt=\"\"><\/a><\/li><li><a href=\"https:\/\/ps.w.org\/wpb-form-popup\/assets\/screenshot-7.png?rev=3015223\"><img src=\"https:\/\/ps.w.org\/wpb-form-popup\/assets\/screenshot-7.png?rev=3015223\" alt=\"\"><\/a><\/li><\/ol>",
+        "reviews": ""
+    },
+    "short_description": "WPB Form Popup displays your favorite form plugin in an amazing popup. You can show a form popup on button click.",
+    "description": "<p>WPB Form Popup displays your favorite form plugin in an amazing popup. You can show a form popup on button click.<\/p>\n<p>You might be looking for a way to show a form in a popup when someone clicks on a button. In that case, WPB Form Popup is the best tool for your website.<br \/>\nUsing its Custom ShortCode, you can put the popup button anywhere on your site.<\/p>\n<p>We have added all the popular form plugins support to this plugin. So that you can use your favorite form plugin in our popup.<\/p>\n<p>On the WooCommerce product page, the popup can be shown to get feedback from buyers, suggestions, and quote requests.<\/p>\n<blockquote>\n<p><a href=\"https:\/\/wpbean.com\/?p=40909\" rel=\"nofollow ugc\">Buy PRO Version<\/a>  |  <a href=\"https:\/\/form-popup.wpbean.com\/\" rel=\"nofollow ugc\">DEMO<\/a>  |  <a href=\"https:\/\/wpbean.com\/support\/\" rel=\"nofollow ugc\">Support<\/a> |  <a href=\"https:\/\/docs.wpbean.com\/docs\/wpb-form-popup\/\" rel=\"nofollow ugc\">Documentation<\/a><\/p>\n<\/blockquote>\n<h3>WPB Form Popup Key Features<\/h3>\n<ul>\n<li>Showing Form Popup on Button Click.<\/li>\n<li>Advanced Settings for Button and Popup style configuration.<\/li>\n<li>Show the popup button using ShortCode.<\/li>\n<li>Integrate support for all the major WordPress form plugins.<\/li>\n<li>Easy displaying of popup buttons via the Gutenberg and Elementor.<\/li>\n<li>Wide-ranging pop-up behavior customization possibilities.<\/li>\n<li>Create simple contact form pop-up.<\/li>\n<li>Create lead generation pop-ups.<\/li>\n<li>Create optin pop-up form.<\/li>\n<li>Create newsletter sign up pop-up.<\/li>\n<li>WooCommerce request a quote pop-up.<\/li>\n<li>User login and registration pop-up.<\/li>\n<li>Appointment booking pop-up.<\/li>\n<li>Powerful short-code generator for creating interactive pop-ups with unlimited personalization options.<\/li>\n<\/ul>\n<h3>PREMIUM KEY FEATURES<\/h3>\n<ul>\n<li>Create a number of different pop-ups in various locations.<\/li>\n<li>Advanced pop-up trigger options.<\/li>\n<li>You can use any custom CSS id or class as a pop-up trigger.<\/li>\n<li>An image can be used to initiate a pop-up window.<\/li>\n<li>Selected pages can have pop-ups activated upon load, exit, or scroll.<\/li>\n<li>A variety of pop-up layouts for content to suit various needs.<\/li>\n<li>The form in the pop-up can be personalized with your own image, headline, and content.<\/li>\n<li>In addition to the form, you can embed shortcodes inside the pop-up window.<\/li>\n<\/ul>\n<h3>Supported Form Plugins<\/h3>\n<ul>\n<li>Contact Form 7.<\/li>\n<li>WPForms.<\/li>\n<li>MC4WP: Mailchimp for WordPress.<\/li>\n<li>Forminator.<\/li>\n<li>Ninja Forms Contact Form.<\/li>\n<li>Formidable Forms.<\/li>\n<li>Form Maker by 10Web.<\/li>\n<li>weForms.<\/li>\n<li>Fluent Forms.<\/li>\n<li>HappyForms.<\/li>\n<li>WS Form.<\/li>\n<li>User Registration by WPEverest.<\/li>\n<li>Bookly.<\/li>\n<li>Everest Forms.<\/li>\n<li>Kali Forms.<\/li>\n<li>Bit Form.<\/li>\n<li>More integrations are on the way.<\/li>\n<\/ul>\n<h3>Support and Documentation:<\/h3>\n<p>Using this plugin is super easy as we have details <a href=\"https:\/\/docs.wpbean.com\/docs\/wpb-form-popup\/\" rel=\"nofollow ugc\">online documentation<\/a> for this.  If you are having any issue with this plugin our expert support team always ready for you. Just open a support ticket on our <a href=\"https:\/\/wpbean.com\/support\" rel=\"nofollow ugc\">support forum<\/a>.<\/p>\n<h3>Tested with the Following Themes<\/h3>\n<ul>\n<li>Astra<\/li>\n<li>Ocean WP<\/li>\n<li>Hestia<\/li>\n<li>Kadence<\/li>\n<li>Neve<\/li>\n<li>Blocksy<\/li>\n<li>GeneratePress<\/li>\n<li>StudioPress<\/li>\n<li>Hello Elementor<\/li>\n<li>Divi<\/li>\n<li>Storefront<\/li>\n<li>Flatsome<\/li>\n<li>Avada<\/li>\n<li>The7<\/li>\n<li>and Many More.<\/li>\n<\/ul>\n<h3>Tested with the Following Page Builders<\/h3>\n<ul>\n<li>Gutenberg<\/li>\n<li>Elementor &amp; Elementor Pro<\/li>\n<li>Divi<\/li>\n<li>WPBakery<\/li>\n<li>Visual Composer<\/li>\n<li>Beaver Builder<\/li>\n<li>Oxygen<\/li>\n<li>GeneratePress<\/li>\n<\/ul>\n",
+    "download_link": "https:\/\/downloads.wordpress.org\/plugin\/wpb-form-popup.1.2.zip",
+    "upgrade_notice": [],
+    "screenshots": {
+        "1": {
+            "src": "https:\/\/ps.w.org\/wpb-form-popup\/assets\/screenshot-1.png?rev=3015223",
+            "caption": ""
+        },
+        "2": {
+            "src": "https:\/\/ps.w.org\/wpb-form-popup\/assets\/screenshot-2.png?rev=3015223",
+            "caption": ""
+        },
+        "3": {
+            "src": "https:\/\/ps.w.org\/wpb-form-popup\/assets\/screenshot-3.png?rev=3015223",
+            "caption": ""
+        },
+        "4": {
+            "src": "https:\/\/ps.w.org\/wpb-form-popup\/assets\/screenshot-4.png?rev=3015223",
+            "caption": ""
+        },
+        "5": {
+            "src": "https:\/\/ps.w.org\/wpb-form-popup\/assets\/screenshot-5.png?rev=3015223",
+            "caption": ""
+        },
+        "6": {
+            "src": "https:\/\/ps.w.org\/wpb-form-popup\/assets\/screenshot-6.png?rev=3015223",
+            "caption": ""
+        },
+        "7": {
+            "src": "https:\/\/ps.w.org\/wpb-form-popup\/assets\/screenshot-7.png?rev=3015223",
+            "caption": ""
+        }
+    },
+    "tags": {
+        "contact-form-7-popup": "contact form 7 popup",
+        "email-marketing": "Email Marketing",
+        "forms": "forms",
+        "optin": "Optin",
+        "popup": "popup"
+    },
+    "stable_tag": "1.2",
+    "versions": {
+        "1.0": "https:\/\/downloads.wordpress.org\/plugin\/wpb-form-popup.1.0.zip",
+        "1.1": "https:\/\/downloads.wordpress.org\/plugin\/wpb-form-popup.1.1.zip",
+        "1.2": "https:\/\/downloads.wordpress.org\/plugin\/wpb-form-popup.1.2.zip",
+        "trunk": "https:\/\/downloads.wordpress.org\/plugin\/wpb-form-popup.zip"
+    },
+    "business_model": false,
+    "repository_url": "",
+    "commercial_support_url": "",
+    "donate_link": "",
+    "banners": {
+        "low": "https:\/\/ps.w.org\/wpb-form-popup\/assets\/banner-772x250.png?rev=3014849",
+        "high": "https:\/\/ps.w.org\/wpb-form-popup\/assets\/banner-1544x500.png?rev=3014849"
+    },
+    "icons": {
+        "1x": "https:\/\/ps.w.org\/wpb-form-popup\/assets\/icon-128x128.png?rev=3014850",
+        "2x": "https:\/\/ps.w.org\/wpb-form-popup\/assets\/icon-256x256.png?rev=3014850"
+    },
+    "blocks": {
+        "wpb-form-popup\/wpbean-fopo-shortcode-selector": {
+            "name": "wpb-form-popup\/wpbean-fopo-shortcode-selector",
+            "title": "WPB Form Popup - Form Popup on Button Click - Best for Contact Form 7, WPForms, Mailchimp and Forminator"
+        }
+    },
+    "block_assets": [],
+    "author_block_count": 1,
+    "author_block_rating": 0,
+    "blueprints": [],
+    "preview_link": "",
+    "language_packs": []
+}
