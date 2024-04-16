@@ -1,0 +1,28 @@
+name: Update
+
+on:
+  workflow_dispatch:
+  schedule:
+   - cron: '19,42 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/checkout@v4
+        with:
+          path: data
+          ref: data
+
+      - name: Update the data.
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          ./init.sh
